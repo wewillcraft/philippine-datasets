@@ -3,6 +3,8 @@
 A collection of cleaned and structured datasets from Philippine government
 agencies.
 
+🌐 **API Available:** [https://philippines-datasets.nowcraft.ing](https://philippines-datasets.nowcraft.ing)
+
 ## Quick Start
 
 ### Prerequisites

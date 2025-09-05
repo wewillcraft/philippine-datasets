@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Ping API to keep Neo4j active
         run: |
-          response=$(curl -s -o /dev/null -w "%{http_code}" ${{ secrets.API_URL }}/ping || echo "000")
+          response=$(curl -s -o /dev/null -w "%{http_code}" https://philippines-datasets.nowcraft.ing/ping || echo "000")
           
           if [ "$response" = "200" ]; then
             echo "✅ Successfully pinged API (HTTP $response)"
@@ -29,4 +29,4 @@ jobs:
         if: always()
         run: |
           echo "Ping executed at: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-          echo "Target: ${{ secrets.API_URL }}/ping"
+          echo "Target: https://philippines-datasets.nowcraft.ing/ping"
