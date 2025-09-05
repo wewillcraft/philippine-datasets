@@ -1,6 +1,6 @@
 import { Application, Router } from "oak";
 import { load } from "dotenv";
-import { runQuery } from "./src/neo4j.ts";
+import { runQuery, neo4j } from "./src/neo4j.ts";
 
 // Load environment variables
 await load({ export: true });
@@ -180,8 +180,8 @@ router.get("/localities", async (ctx) => {
 });
 
 router.get("/barangays", async (ctx) => {
-  const limit = parseInt(ctx.request.url.searchParams.get("limit") || "100");
-  const offset = parseInt(ctx.request.url.searchParams.get("offset") || "0");
+  const limit = Math.floor(parseInt(ctx.request.url.searchParams.get("limit") || "100"));
+  const offset = Math.floor(parseInt(ctx.request.url.searchParams.get("offset") || "0"));
   
   try {
     const barangays = await runQuery(`
@@ -204,7 +204,7 @@ router.get("/barangays", async (ctx) => {
       ORDER BY b.psgc_code
       SKIP $offset
       LIMIT $limit
-    `, { limit, offset });
+    `, { limit: neo4j.int(limit), offset: neo4j.int(offset) });
     
     const count = await runQuery(`
       MATCH (b:Barangay)

@@ -1,5 +1,7 @@
 import neo4j, { Driver, Session } from "neo4j";
 
+export { neo4j };
+
 let driver: Driver | null = null;
 
 export function getDriver(): Driver {

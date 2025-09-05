@@ -254,8 +254,8 @@ curl {{origin}}/regions
 # Search for locations containing "Davao"
 curl {{origin}}/search?q=davao
 
-# Get complete hierarchy for a barangay
-curl {{origin}}/hierarchy/0100100001
+# Get complete hierarchy for a barangay (e.g., Barangay Poblacion in Bangued, Abra)
+curl {{origin}}/hierarchy/0140100001
 
 # Get paginated barangays (page 2, 100 items per page)
 curl {{origin}}/barangays?limit=100&offset=100</code>
@@ -334,7 +334,7 @@ curl {{origin}}/barangays?limit=100&offset=100</code>
                             <li><strong>BBB</strong> - Barangay code (000 for cities/municipalities, 001-999 for barangays)</li>
                         </ul>
                         <p style="color: #6c757d; margin-top: 0.5rem;">
-                            Example: <code style="background: #282c34; color: #abb2bf; padding: 0.2rem 0.4rem; border-radius: 4px;">0100100001</code> represents Barangay 001 in Municipality 01 of Province 001 in Region 01.
+                            Example: <code style="background: #282c34; color: #abb2bf; padding: 0.2rem 0.4rem; border-radius: 4px;">0140100001</code> represents Barangay 001 (Poblacion) in Municipality 01 (Bangued) of Province 401 (Abra) in Region 01 (CAR).
                         </p>
                     </div>
                 </div>
