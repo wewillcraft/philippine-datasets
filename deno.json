@@ -1,0 +1,16 @@
+{
+  "tasks": {
+    "dev": "deno run --allow-net --allow-env --allow-sys --allow-read --watch server.ts",
+    "start": "deno run --allow-net --allow-env --allow-sys --allow-read server.ts",
+    "import": "deno run --allow-read --allow-env --allow-net --allow-sys tasks/import_psgc_data_to_neo4j.ts"
+  },
+  "imports": {
+    "oak": "https://deno.land/x/oak@v12.6.1/mod.ts",
+    "neo4j": "npm:neo4j-driver@5.24.0",
+    "dotenv": "https://deno.land/std@0.224.0/dotenv/mod.ts"
+  },
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["deno.window"]
+  }
+}

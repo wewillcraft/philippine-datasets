@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Philippine Geographic Data API</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.95;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            padding: 2rem;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+        }
+        .stat-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #667eea;
+        }
+        .stat-label {
+            color: #6c757d;
+            margin-top: 0.5rem;
+        }
+        .content {
+            padding: 2rem;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        h2 {
+            color: #495057;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #667eea;
+        }
+        .endpoint-grid {
+            display: grid;
+            gap: 1rem;
+        }
+        .endpoint {
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+            font-family: 'Courier New', monospace;
+        }
+        .endpoint:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
+            transition: all 0.3s ease;
+        }
+        .method {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-right: 0.5rem;
+        }
+        .path {
+            color: #495057;
+            font-weight: bold;
+        }
+        .description {
+            color: #6c757d;
+            font-size: 0.9rem;
+            margin-top: 0.5rem;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+        .example {
+            background: #282c34;
+            color: #abb2bf;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            overflow-x: auto;
+        }
+        .example code {
+            font-family: 'Courier New', monospace;
+            white-space: pre;
+        }
+        footer {
+            background: #f8f9fa;
+            padding: 2rem;
+            text-align: center;
+            color: #6c757d;
+        }
+        a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🇵🇭 Philippine Geographic Data API</h1>
+            <p class="subtitle">Complete hierarchical data for all Philippine administrative divisions</p>
+        </header>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">{{regions}}</div>
+                <div class="stat-label">Regions</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{provinces}}</div>
+                <div class="stat-label">Provinces</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{cities}}</div>
+                <div class="stat-label">Cities</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{municipalities}}</div>
+                <div class="stat-label">Municipalities</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">{{barangays}}</div>
+                <div class="stat-label">Barangays</div>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="section">
+                <h2>📋 List Endpoints</h2>
+                <div class="endpoint-grid">
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/regions</span>
+                        <div class="description">List all regions in the Philippines</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/provinces</span>
+                        <div class="description">List all provinces with their parent region</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/cities</span>
+                        <div class="description">List all cities (HUC, ICC, CC) with province and region</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/municipalities</span>
+                        <div class="description">List all municipalities with province and region</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/localities</span>
+                        <div class="description">List all cities and municipalities combined with type field</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/barangays?limit=100&offset=0</span>
+                        <div class="description">List barangays (paginated due to large volume)</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>🔍 Detail Endpoints</h2>
+                <div class="endpoint-grid">
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/regions/:psgc_code</span>
+                        <div class="description">Get specific region with all its provinces</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/provinces/:psgc_code</span>
+                        <div class="description">Get specific province with all its cities/municipalities</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/cities/:psgc_code</span>
+                        <div class="description">Get specific city/municipality with all its barangays</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/barangays/:psgc_code</span>
+                        <div class="description">Get specific barangay with complete hierarchy</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>🛠️ Utility Endpoints</h2>
+                <div class="endpoint-grid">
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/search?q=manila</span>
+                        <div class="description">Search locations by name (returns up to 100 results)</div>
+                    </div>
+                    <div class="endpoint">
+                        <span class="method">GET</span>
+                        <span class="path">/hierarchy/:psgc_code</span>
+                        <div class="description">Get complete hierarchical path from region to target location</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>💡 Example Usage</h2>
+                <div class="example">
+                    <code># Get all regions
+curl {{origin}}/regions
+
+# Search for locations containing "Davao"
+curl {{origin}}/search?q=davao
+
+# Get complete hierarchy for a barangay
+curl {{origin}}/hierarchy/0100100001
+
+# Get paginated barangays (page 2, 100 items per page)
+curl {{origin}}/barangays?limit=100&offset=100</code>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>📖 About PSGC</h2>
+                <p style="line-height: 1.8; color: #6c757d;">
+                    The Philippine Standard Geographic Code (PSGC) is a systematic classification and coding of geographic areas 
+                    in the Philippines. It is updated and maintained by the Philippine Statistics Authority (PSA). 
+                    Each location has a unique 10-digit code that identifies its position in the administrative hierarchy.
+                </p>
+            </div>
+
+            <div class="section">
+                <h2>📚 Glossary of Terms</h2>
+                <div style="display: grid; gap: 1rem;">
+                    <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+                        <h3 style="color: #495057; margin-bottom: 0.5rem; font-size: 1.1rem;">Administrative Levels</h3>
+                        <dl style="margin: 0.5rem 0;">
+                            <dt style="font-weight: bold; color: #667eea;">Region</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">The highest administrative division in the Philippines, grouping provinces with geographical, cultural, and ethnological characteristics.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">Province</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">The primary subdivision of regions, serving as the main unit for implementing national programs and policies.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">City/Municipality</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">The general local government units where most government services are delivered. Cities have their own charters while municipalities are the default LGUs.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">Barangay</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">The smallest administrative division in the Philippines and the basic unit of governance. Each barangay is headed by a Barangay Captain.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">Sub-Municipality (SubMun)</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Municipal districts that are administrative divisions of a municipality, typically found in geographically large municipalities.</dd>
+                        </dl>
+                    </div>
+
+                    <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+                        <h3 style="color: #495057; margin-bottom: 0.5rem; font-size: 1.1rem;">City Classifications</h3>
+                        <dl style="margin: 0.5rem 0;">
+                            <dt style="font-weight: bold; color: #667eea;">HUC - Highly Urbanized City</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Cities with a minimum population of 200,000 and annual income of ₱50 million. They are independent from provinces and have their own congressional districts.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">ICC - Independent Component City</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Component cities whose charters prohibit their residents from voting for provincial elective officials. They are independent from the province in certain aspects.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">CC - Component City</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Cities that are part of a province and whose residents can vote for provincial officials. They share tax revenues with the provincial government.</dd>
+                        </dl>
+                    </div>
+
+                    <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+                        <h3 style="color: #495057; margin-bottom: 0.5rem; font-size: 1.1rem;">Special Administrative Areas</h3>
+                        <dl style="margin: 0.5rem 0;">
+                            <dt style="font-weight: bold; color: #667eea;">NCR - National Capital Region</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Also known as Metro Manila, it's the only region without provinces. Cities and municipalities report directly to the regional government.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">BARMM - Bangsamoro Autonomous Region</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">An autonomous region with its own government system, created through the Bangsamoro Organic Law.</dd>
+                            
+                            <dt style="font-weight: bold; color: #667eea;">CAR - Cordillera Administrative Region</dt>
+                            <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">An administrative region created to administer the provinces with similar cultural and geographical characteristics in the Cordillera mountain range.</dd>
+                        </dl>
+                    </div>
+
+                    <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+                        <h3 style="color: #495057; margin-bottom: 0.5rem; font-size: 1.1rem;">PSGC Code Structure</h3>
+                        <p style="color: #6c757d; margin: 0.5rem 0;">
+                            The 10-digit PSGC code follows the format: <code style="background: #282c34; color: #abb2bf; padding: 0.2rem 0.4rem; border-radius: 4px;">RR-PPP-MM-BBB</code>
+                        </p>
+                        <ul style="margin: 0.5rem 0; padding-left: 1.5rem; color: #6c757d;">
+                            <li><strong>RR</strong> - Region code (01-19)</li>
+                            <li><strong>PPP</strong> - Province code (000 for regions, 001-999 for provinces)</li>
+                            <li><strong>MM</strong> - Municipality/City code (00 for provinces, 01-99 for cities/municipalities)</li>
+                            <li><strong>BBB</strong> - Barangay code (000 for cities/municipalities, 001-999 for barangays)</li>
+                        </ul>
+                        <p style="color: #6c757d; margin-top: 0.5rem;">
+                            Example: <code style="background: #282c34; color: #abb2bf; padding: 0.2rem 0.4rem; border-radius: 4px;">0100100001</code> represents Barangay 001 in Municipality 01 of Province 001 in Region 01.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Data Source: <a href="https://psa.gov.ph/" target="_blank">Philippine Statistics Authority</a></p>
+            <p>Built with ❤️ using Deno and Neo4j</p>
+            <p><a href="https://github.com/wewillcraft/philippines-datasets" target="_blank">View on GitHub</a></p>
+        </footer>
+    </div>
+</body>
+</html>
