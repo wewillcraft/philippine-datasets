@@ -1,6 +1,6 @@
 import { Application, Router } from "oak";
 import { load } from "dotenv";
-import { runQuery } from "./lib/neo4j.ts";
+import { runQuery } from "./src/neo4j.ts";
 
 // Load environment variables
 await load({ export: true });

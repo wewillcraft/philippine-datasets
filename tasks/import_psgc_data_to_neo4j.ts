@@ -1,6 +1,6 @@
 import { load } from "dotenv";
-import { clearDatabase, createIndexes, runWrite, runQuery, closeDriver } from "../lib/neo4j.ts";
-import type { PSGCData } from "../lib/types.ts";
+import { clearDatabase, createIndexes, runWrite, runQuery, closeDriver } from "../src/neo4j.ts";
+import type { PSGCData } from "../src/types.ts";
 
 await load({ export: true });
 

@@ -123,7 +123,7 @@ curl http://localhost:8000/hierarchy/1380100001
 │   └── requirements.txt    # Python dependencies
 ├── tasks/                  # Deno task scripts
 │   └── import_psgc_data_to_neo4j.ts
-├── lib/                    # Shared libraries
+├── src/                    # Shared libraries
 │   ├── neo4j.ts           # Neo4j connection helper
 │   └── types.ts           # TypeScript type definitions
 ├── server.ts              # Main API server
