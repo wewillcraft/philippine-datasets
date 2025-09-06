@@ -9,7 +9,7 @@ export function getDriver(): Driver {
     const uri = Deno.env.get("NEO4J_URI");
     const username = Deno.env.get("NEO4J_USERNAME");
     const password = Deno.env.get("NEO4J_PASSWORD") ||
-      Deno.env.get("NEO4j_PASSWORD");
+      Deno.env.get("NEO4J_PASSWORD");
 
     if (!uri || !username || !password) {
       throw new Error("Missing Neo4j connection environment variables");
