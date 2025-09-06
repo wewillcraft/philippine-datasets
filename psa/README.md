@@ -2,7 +2,8 @@
 
 ## Philippine Standard Geographic Code (PSGC)
 
-The `PSGC-July-2025-Publication-Datafile.xlsx` file is taken from https://psa.gov.ph/classification/psgc.
+The `PSGC-July-2025-Publication-Datafile.xlsx` file is taken from
+https://psa.gov.ph/classification/psgc.
 
 The 10-digit PSGC code comprises of RRPPPMMBBB:
 
@@ -33,7 +34,8 @@ Here are the Geographic Levels:
 
 ## Running the Parser Scripts
 
-This repository includes scripts to parse and clean the PSGC Excel data for use in applications and APIs.
+This repository includes scripts to parse and clean the PSGC Excel data for use
+in applications and APIs.
 
 ### Python Script
 
@@ -51,14 +53,19 @@ python3 parse_psgc.py
 
 It will generate:
 
-- `psgc_data.json` - Complete dataset in JSON format with parsed PSGC codes and metadata
-- `psgc_data.csv` - Complete dataset in CSV format for spreadsheet/database import
+- `psgc_data.json` - Complete dataset in JSON format with parsed PSGC codes and
+  metadata
+- `psgc_data.csv` - Complete dataset in CSV format for spreadsheet/database
+  import
 
 ### Data Structure
 
 Each record includes:
 
-- Original columns from the Excel file (PSGC code, name, geographic level, population, etc.)
-- Parsed PSGC components (region_code, province_code, municipality_code, barangay_code)
+- Original columns from the Excel file (PSGC code, name, geographic level,
+  population, etc.)
+- Parsed PSGC components (region_code, province_code, municipality_code,
+  barangay_code)
 - Administrative level classification
-- Boolean flags for easy filtering (is_region, is_province, is_city_municipality, is_barangay)
+- Boolean flags for easy filtering (is_region, is_province,
+  is_city_municipality, is_barangay)

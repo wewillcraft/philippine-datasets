@@ -8,7 +8,8 @@ export function getDriver(): Driver {
   if (!driver) {
     const uri = Deno.env.get("NEO4J_URI");
     const username = Deno.env.get("NEO4J_USERNAME");
-    const password = Deno.env.get("NEO4J_PASSWORD") || Deno.env.get("NEO4j_PASSWORD");
+    const password = Deno.env.get("NEO4J_PASSWORD") ||
+      Deno.env.get("NEO4j_PASSWORD");
 
     if (!uri || !username || !password) {
       throw new Error("Missing Neo4j connection environment variables");
@@ -17,7 +18,7 @@ export function getDriver(): Driver {
     driver = neo4j.driver(
       uri,
       neo4j.auth.basic(username, password),
-      { maxConnectionLifetime: 3600000 }
+      { maxConnectionLifetime: 3600000 },
     );
   }
   return driver;
@@ -36,7 +37,7 @@ export function getSession(): Session {
 
 export async function runQuery<T = any>(
   cypher: string,
-  params?: Record<string, any>
+  params?: Record<string, any>,
 ): Promise<T[]> {
   const session = getSession();
   try {
@@ -56,7 +57,7 @@ export async function runQuery<T = any>(
 
 export async function runWrite(
   cypher: string,
-  params?: Record<string, any>
+  params?: Record<string, any>,
 ): Promise<void> {
   const session = getSession();
   try {

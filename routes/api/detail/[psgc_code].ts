@@ -6,7 +6,8 @@ export const handler: Handlers = {
     const { psgc_code } = ctx.params;
     try {
       // Query any node with the given PSGC code
-      const nodeData = await runQuery(`
+      const nodeData = await runQuery(
+        `
         MATCH (n {psgc_code: $psgc_code})
         OPTIONAL MATCH (parent)-[r]->(n)
         OPTIONAL MATCH (n)-[r2]->(child)
@@ -26,36 +27,39 @@ export const handler: Handlers = {
                nodeLabels[0] as type,
                parents,
                children
-      `, { psgc_code });
+      `,
+        { psgc_code },
+      );
 
       if (!nodeData || nodeData.length === 0) {
         return Response.json(
           { error: "Node not found" },
-          { status: 404 }
+          { status: 404 },
         );
       }
 
       const result = nodeData[0];
-      
+
       // Clean up the parents and children arrays
       const cleanParents = result.parents
         .filter((p: any) => p.parent)
         .map((p: any) => ({
           relationship: p.relationship,
           node: p.parent,
-          type: p.parentLabels?.[0] || 'Unknown'
+          type: p.parentLabels?.[0] || "Unknown",
         }));
-      
+
       const cleanChildren = result.children
         .filter((c: any) => c.child)
         .map((c: any) => ({
           relationship: c.relationship,
           node: c.child,
-          type: c.childLabels?.[0] || 'Unknown'
+          type: c.childLabels?.[0] || "Unknown",
         }));
 
       // Get hierarchical path
-      const hierarchy = await runQuery(`
+      const hierarchy = await runQuery(
+        `
         MATCH (target {psgc_code: $psgc_code})
         OPTIONAL MATCH (r:Region)
         WHERE EXISTS((r)-[*0..4]->(target)) OR r = target
@@ -77,7 +81,9 @@ export const handler: Handlers = {
           psgc_code: node.psgc_code,
           name: node.name
         }) as path
-      `, { psgc_code });
+      `,
+        { psgc_code },
+      );
 
       return Response.json({
         node: result.node,
@@ -87,14 +93,17 @@ export const handler: Handlers = {
         hierarchy: hierarchy[0]?.path || [],
         relationships: {
           parentCount: cleanParents.length,
-          childCount: cleanChildren.length
-        }
+          childCount: cleanChildren.length,
+        },
       });
     } catch (error) {
       console.error("Error fetching node details:", error);
       return Response.json(
-        { error: "Failed to fetch node details", details: error instanceof Error ? error.message : String(error) },
-        { status: 500 }
+        {
+          error: "Failed to fetch node details",
+          details: error instanceof Error ? error.message : String(error),
+        },
+        { status: 500 },
       );
     }
   },

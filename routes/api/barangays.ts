@@ -1,5 +1,5 @@
 import { Handlers } from "$fresh/server.ts";
-import { runQuery, neo4j } from "../../src/neo4j.ts";
+import { neo4j, runQuery } from "../../src/neo4j.ts";
 
 export const handler: Handlers = {
   async GET(req, _ctx) {
@@ -7,21 +7,27 @@ export const handler: Handlers = {
     const limit = Math.floor(parseInt(url.searchParams.get("limit") || "100"));
     const offset = Math.floor(parseInt(url.searchParams.get("offset") || "0"));
     const sort = url.searchParams.get("sort") || "psgc_code";
-    
+
     // Validate sort parameter
     const validSorts = ["psgc_code", "name", "population"];
     if (!validSorts.includes(sort)) {
       return Response.json(
-        { error: "Invalid sort parameter. Must be one of: psgc_code, name, population" },
-        { status: 400 }
+        {
+          error:
+            "Invalid sort parameter. Must be one of: psgc_code, name, population",
+        },
+        { status: 400 },
       );
     }
-    
+
     // Build ORDER BY clause
-    const orderByField = sort === "population" ? "b.population_2020 DESC" : `b.${sort}`;
-    
+    const orderByField = sort === "population"
+      ? "b.population_2020 DESC"
+      : `b.${sort}`;
+
     try {
-      const barangays = await runQuery(`
+      const barangays = await runQuery(
+        `
         MATCH (b:Barangay)
         OPTIONAL MATCH (c:CityMunicipality)-[:HAS_BARANGAY]->(b)
         OPTIONAL MATCH (p:Province)-[:HAS_CITY_MUNICIPALITY]->(c)
@@ -41,27 +47,32 @@ export const handler: Handlers = {
         ORDER BY ${orderByField}
         SKIP $offset
         LIMIT $limit
-      `, { limit: neo4j.int(limit), offset: neo4j.int(offset) });
-      
+      `,
+        { limit: neo4j.int(limit), offset: neo4j.int(offset) },
+      );
+
       const count = await runQuery(`
         MATCH (b:Barangay)
         RETURN count(b) as total
       `);
-      
-      return Response.json({ 
+
+      return Response.json({
         data: barangays,
         count: barangays.length,
         pagination: {
           limit,
           offset,
-          total: count[0]?.total || 0
-        }
+          total: count[0]?.total || 0,
+        },
       });
     } catch (error) {
       console.error("Error fetching barangays:", error);
       return Response.json(
-        { error: "Failed to fetch barangays", details: error instanceof Error ? error.message : String(error) },
-        { status: 500 }
+        {
+          error: "Failed to fetch barangays",
+          details: error instanceof Error ? error.message : String(error),
+        },
+        { status: 500 },
       );
     }
   },

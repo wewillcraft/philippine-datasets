@@ -22,15 +22,18 @@ export const handler: Handlers = {
                region.name as region_name
         ORDER BY c.type DESC, c.psgc_code
       `);
-      return Response.json({ 
+      return Response.json({
         data: localities,
-        count: localities.length 
+        count: localities.length,
       });
     } catch (error) {
       console.error("Error fetching localities:", error);
       return Response.json(
-        { error: "Failed to fetch localities", details: error instanceof Error ? error.message : String(error) },
-        { status: 500 }
+        {
+          error: "Failed to fetch localities",
+          details: error instanceof Error ? error.message : String(error),
+        },
+        { status: 500 },
       );
     }
   },

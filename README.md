@@ -3,7 +3,8 @@
 A collection of cleaned and structured datasets from Philippine government
 agencies.
 
-🌐 **API Available:** [https://philippine-datasets-api.nowcraft.ing](https://philippine-datasets-api.nowcraft.ing)
+🌐 **API Available:**
+[https://philippine-datasets-api.nowcraft.ing](https://philippine-datasets-api.nowcraft.ing)
 
 ## Quick Start
 
@@ -46,7 +47,8 @@ agencies.
    python3 parse_psgc.py
    ```
 
-   This generates `psgc_data.json`, `psgc_data.csv`, and `psgc_data.jsonl` files.
+   This generates `psgc_data.json`, `psgc_data.csv`, and `psgc_data.jsonl`
+   files.
 
 2. **Import to Neo4j:**
    ```bash
@@ -73,41 +75,50 @@ The server will be available at `http://localhost:8000`
 
 ## Available Deno Tasks
 
-| Task             | Command                    | Description                                   |
-| ---------------- | -------------------------- | --------------------------------------------- |
+| Task             | Command                    | Description                                     |
+| ---------------- | -------------------------- | ----------------------------------------------- |
 | `start`          | `deno task start`          | Start Fresh development server with auto-reload |
-| `build`          | `deno task build`          | Build the application for production          |
-| `preview`        | `deno task preview`        | Run the production build                      |
-| `import`         | `deno task import`         | Import PSGC data to Neo4j                     |
-| `import --clear` | `deno task import --clear` | Clear database and import fresh data          |
+| `build`          | `deno task build`          | Build the application for production            |
+| `preview`        | `deno task preview`        | Run the production build                        |
+| `import`         | `deno task import`         | Import PSGC data to Neo4j                       |
+| `import --clear` | `deno task import --clear` | Clear database and import fresh data            |
 
 ## API Endpoints
 
 Once the server is running, you can access:
 
 ### List Endpoints
+
 - `GET /` - Interactive API documentation and available endpoints
 - `GET /api/regions` - List all regions
 - `GET /api/provinces` - List all provinces with their region
-- `GET /api/cities` - List all cities only (HUC, ICC, CC) with province and region
-- `GET /api/municipalities` - List all municipalities only with province and region
-- `GET /api/localities` - List all cities and municipalities combined (includes type field)
-- `GET /api/barangays?limit=100&offset=0` - List barangays (paginated due to large volume)
+- `GET /api/cities` - List all cities only (HUC, ICC, CC) with province and
+  region
+- `GET /api/municipalities` - List all municipalities only with province and
+  region
+- `GET /api/localities` - List all cities and municipalities combined (includes
+  type field)
+- `GET /api/barangays?limit=100&offset=0` - List barangays (paginated due to
+  large volume)
 
 ### Detail Endpoints
+
 - `GET /api/regions/:psgc_code` - Get region details with provinces
 - `GET /api/provinces/:psgc_code` - Get province with cities/municipalities
 - `GET /api/cities/:psgc_code` - Get city/municipality with barangays
 - `GET /api/barangays/:psgc_code` - Get barangay details with full hierarchy
 
 ### Utility Endpoints
-- `GET /api/search?q=<query>&limit=100&offset=0&sort=name&type=<type>` - Search locations by name
+
+- `GET /api/search?q=<query>&limit=100&offset=0&sort=name&type=<type>` - Search
+  locations by name
   - **Parameters:**
     - `q` (required): Search query string
     - `limit`: Number of results per page (default: 100)
     - `offset`: Number of results to skip (default: 0)
     - `sort`: Sort results by `psgc_code`, `name` (default), or `population`
-    - `type`: Filter by type: `region`, `province`, `city`, `municipality`, or `barangay`
+    - `type`: Filter by type: `region`, `province`, `city`, `municipality`, or
+      `barangay`
 - `GET /api/hierarchy/:psgc_code` - Get full hierarchy path for any PSGC code
 - `GET /api/ping` - Health check endpoint to keep database active
 
@@ -160,7 +171,8 @@ curl http://localhost:8000/api/hierarchy/0301401007
 
 ## Data Sources
 
-- **PSA (Philippine Statistics Authority):** Philippine Standard Geographic Code (PSGC)
+- **PSA (Philippine Statistics Authority):** Philippine Standard Geographic Code
+  (PSGC)
 - **PHLPost:** ZIP codes
 - **FOI (Freedom of Information):** Government data
 
@@ -168,14 +180,16 @@ curl http://localhost:8000/api/hierarchy/0301401007
 
 ### GitHub Actions Setup
 
-To keep your Neo4j Aura free database active, set up the following GitHub secret:
+To keep your Neo4j Aura free database active, set up the following GitHub
+secret:
 
 1. Go to your repository's Settings → Secrets and variables → Actions
 2. Add a new repository secret:
    - Name: `API_URL`
    - Value: Your deployed API URL (e.g., `https://your-api.deno.dev`)
 
-The GitHub workflow will automatically ping your API daily to prevent Neo4j from hibernating due to inactivity.
+The GitHub workflow will automatically ping your API daily to prevent Neo4j from
+hibernating due to inactivity.
 
 ## Impostor Syndrome Disclaimer
 

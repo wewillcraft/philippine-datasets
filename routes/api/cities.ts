@@ -21,15 +21,18 @@ export const handler: Handlers = {
                region.name as region_name
         ORDER BY c.psgc_code
       `);
-      return Response.json({ 
+      return Response.json({
         data: cities,
-        count: cities.length 
+        count: cities.length,
       });
     } catch (error) {
       console.error("Error fetching cities:", error);
       return Response.json(
-        { error: "Failed to fetch cities", details: error instanceof Error ? error.message : String(error) },
-        { status: 500 }
+        {
+          error: "Failed to fetch cities",
+          details: error instanceof Error ? error.message : String(error),
+        },
+        { status: 500 },
       );
     }
   },

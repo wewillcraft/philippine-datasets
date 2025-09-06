@@ -5,19 +5,22 @@ export const handler: Handlers = {
   async GET(_req, ctx) {
     const { psgc_code } = ctx.params;
     try {
-      const regionData = await runQuery(`
+      const regionData = await runQuery(
+        `
         MATCH (r:Region {psgc_code: $psgc_code})
         OPTIONAL MATCH (r)-[:HAS_PROVINCE]->(p:Province)
         OPTIONAL MATCH (r)-[:HAS_CITY_MUNICIPALITY]->(c:CityMunicipality)
         RETURN r as region,
                collect(DISTINCT p) as provinces,
                collect(DISTINCT c) as cities
-      `, { psgc_code });
+      `,
+        { psgc_code },
+      );
 
       if (!regionData || regionData.length === 0) {
         return Response.json(
           { error: "Region not found" },
-          { status: 404 }
+          { status: 404 },
         );
       }
 
@@ -30,13 +33,13 @@ export const handler: Handlers = {
         cities: cities,
         count: {
           provinces: provinces.length,
-          cities: cities.length
-        }
+          cities: cities.length,
+        },
       });
     } catch (error) {
       return Response.json(
         { error: "Failed to fetch region details" },
-        { status: 500 }
+        { status: 500 },
       );
     }
   },

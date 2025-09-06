@@ -3,18 +3,18 @@ name: Keep Neo4j Database Active
 on:
   schedule:
     # Run daily at 12:00 UTC (8:00 PM Philippine Time)
-    - cron: '0 12 * * *'
+    - cron: "0 12 * * *"
   workflow_dispatch: # Allow manual trigger
 
 jobs:
   ping:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Ping API to keep Neo4j active
         run: |
           response=$(curl -s -o /dev/null -w "%{http_code}" https://philippine-datasets-api.nowcraft.ing/ping || echo "000")
-          
+
           if [ "$response" = "200" ]; then
             echo "✅ Successfully pinged API (HTTP $response)"
           elif [ "$response" = "000" ]; then
@@ -24,7 +24,7 @@ jobs:
             echo "⚠️ API returned HTTP $response"
             exit 1
           fi
-      
+
       - name: Log ping result
         if: always()
         run: |

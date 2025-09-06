@@ -1,5 +1,11 @@
 import { load } from "dotenv";
-import { clearDatabase, createIndexes, runWrite, runQuery, closeDriver } from "../src/neo4j.ts";
+import {
+  clearDatabase,
+  closeDriver,
+  createIndexes,
+  runQuery,
+  runWrite,
+} from "../src/neo4j.ts";
 import type { PSGCData } from "../src/types.ts";
 
 await load({ export: true });
@@ -11,14 +17,14 @@ async function readJSONLFile(path: string): Promise<PSGCData[]> {
   return text
     .trim()
     .split("\n")
-    .filter(line => line.trim())
-    .map(line => JSON.parse(line));
+    .filter((line) => line.trim())
+    .map((line) => JSON.parse(line));
 }
 
 async function importBatch(
   items: PSGCData[],
   nodeType: string,
-  properties: string[]
+  properties: string[],
 ): Promise<void> {
   if (items.length === 0) return;
 
@@ -28,10 +34,13 @@ async function importBatch(
     SET n = item
   `;
 
-  const batchedItems = items.map(item => {
+  const batchedItems = items.map((item) => {
     const filtered: Record<string, any> = {};
-    properties.forEach(prop => {
-      if (item[prop as keyof PSGCData] !== null && item[prop as keyof PSGCData] !== undefined) {
+    properties.forEach((prop) => {
+      if (
+        item[prop as keyof PSGCData] !== null &&
+        item[prop as keyof PSGCData] !== undefined
+      ) {
         filtered[prop] = item[prop as keyof PSGCData];
       }
     });
@@ -77,7 +86,9 @@ async function createRelationships(): Promise<void> {
     CREATE (c)-[:HAS_BARANGAY]->(b)
   `);
 
-  console.log("  Creating CityMunicipality -> SubMunicipality relationships...");
+  console.log(
+    "  Creating CityMunicipality -> SubMunicipality relationships...",
+  );
   await runWrite(`
     MATCH (c:CityMunicipality)
     MATCH (s:SubMunicipality)
@@ -100,7 +111,7 @@ async function createRelationships(): Promise<void> {
 
 async function main() {
   const clearFlag = Deno.args.includes("--clear");
-  
+
   try {
     console.log("Loading PSGC data from psa/psgc_data.jsonl...");
     const data = await readJSONLFile("psa/psgc_data.jsonl");
@@ -112,11 +123,19 @@ async function main() {
 
     await createIndexes();
 
-    const regions = data.filter(d => d.is_region && d.province_code === "000");
-    const provinces = data.filter(d => d.is_province && d.province_code !== "000" && d.municipality_code === "00");
-    const cities = data.filter(d => d.is_city_municipality || (d.municipality_code !== "00" && d.barangay_code === "000" && !d.is_submunicipality));
-    const barangays = data.filter(d => d.is_barangay);
-    const submuns = data.filter(d => d.geographic_level === "SubMun");
+    const regions = data.filter((d) =>
+      d.is_region && d.province_code === "000"
+    );
+    const provinces = data.filter((d) =>
+      d.is_province && d.province_code !== "000" && d.municipality_code === "00"
+    );
+    const cities = data.filter((d) =>
+      d.is_city_municipality ||
+      (d.municipality_code !== "00" && d.barangay_code === "000" &&
+        !d.is_submunicipality)
+    );
+    const barangays = data.filter((d) => d.is_barangay);
+    const submuns = data.filter((d) => d.geographic_level === "SubMun");
 
     console.log(`Found ${regions.length} regions`);
     console.log(`Found ${provinces.length} provinces`);
@@ -124,51 +143,115 @@ async function main() {
     console.log(`Found ${barangays.length} barangays`);
     console.log(`Found ${submuns.length} sub-municipalities`);
 
-    const regionProps = ["psgc_code", "name", "correspondence_code", "geographic_level", "population_2020", "region_code", "province_code", "municipality_code", "barangay_code"];
-    const provinceProps = ["psgc_code", "name", "correspondence_code", "geographic_level", "population_2020", "region_code", "province_code", "municipality_code", "barangay_code"];
+    const regionProps = [
+      "psgc_code",
+      "name",
+      "correspondence_code",
+      "geographic_level",
+      "population_2020",
+      "region_code",
+      "province_code",
+      "municipality_code",
+      "barangay_code",
+    ];
+    const provinceProps = [
+      "psgc_code",
+      "name",
+      "correspondence_code",
+      "geographic_level",
+      "population_2020",
+      "region_code",
+      "province_code",
+      "municipality_code",
+      "barangay_code",
+    ];
     // Add a 'type' field to distinguish cities from municipalities
-    const cityProps = ["psgc_code", "name", "correspondence_code", "geographic_level", "city_class", "income_classification", "population_2020", "region_code", "province_code", "municipality_code", "barangay_code", "type"];
-    const barangayProps = ["psgc_code", "name", "correspondence_code", "geographic_level", "urban_rural", "population_2020", "region_code", "province_code", "municipality_code", "barangay_code"];
+    const cityProps = [
+      "psgc_code",
+      "name",
+      "correspondence_code",
+      "geographic_level",
+      "city_class",
+      "income_classification",
+      "population_2020",
+      "region_code",
+      "province_code",
+      "municipality_code",
+      "barangay_code",
+      "type",
+    ];
+    const barangayProps = [
+      "psgc_code",
+      "name",
+      "correspondence_code",
+      "geographic_level",
+      "urban_rural",
+      "population_2020",
+      "region_code",
+      "province_code",
+      "municipality_code",
+      "barangay_code",
+    ];
 
     console.log("\nImporting regions...");
     for (let i = 0; i < regions.length; i += BATCH_SIZE) {
       const batch = regions.slice(i, i + BATCH_SIZE);
       await importBatch(batch, "Region", regionProps);
-      console.log(`  Imported ${Math.min(i + BATCH_SIZE, regions.length)}/${regions.length} regions`);
+      console.log(
+        `  Imported ${
+          Math.min(i + BATCH_SIZE, regions.length)
+        }/${regions.length} regions`,
+      );
     }
 
     console.log("\nImporting provinces...");
     for (let i = 0; i < provinces.length; i += BATCH_SIZE) {
       const batch = provinces.slice(i, i + BATCH_SIZE);
       await importBatch(batch, "Province", provinceProps);
-      console.log(`  Imported ${Math.min(i + BATCH_SIZE, provinces.length)}/${provinces.length} provinces`);
+      console.log(
+        `  Imported ${
+          Math.min(i + BATCH_SIZE, provinces.length)
+        }/${provinces.length} provinces`,
+      );
     }
 
     console.log("\nImporting cities/municipalities...");
     // Add 'type' field to distinguish cities from municipalities
-    const citiesWithType = cities.map(c => ({
+    const citiesWithType = cities.map((c) => ({
       ...c,
-      type: c.geographic_level === "City" ? "city" : "municipality"
+      type: c.geographic_level === "City" ? "city" : "municipality",
     }));
-    
+
     for (let i = 0; i < citiesWithType.length; i += BATCH_SIZE) {
       const batch = citiesWithType.slice(i, i + BATCH_SIZE);
       await importBatch(batch, "CityMunicipality", cityProps);
-      console.log(`  Imported ${Math.min(i + BATCH_SIZE, citiesWithType.length)}/${citiesWithType.length} cities/municipalities`);
+      console.log(
+        `  Imported ${
+          Math.min(i + BATCH_SIZE, citiesWithType.length)
+        }/${citiesWithType.length} cities/municipalities`,
+      );
     }
 
     console.log("\nImporting barangays...");
     for (let i = 0; i < barangays.length; i += BATCH_SIZE) {
       const batch = barangays.slice(i, i + BATCH_SIZE);
       await importBatch(batch, "Barangay", barangayProps);
-      console.log(`  Imported ${Math.min(i + BATCH_SIZE, barangays.length)}/${barangays.length} barangays`);
+      console.log(
+        `  Imported ${
+          Math.min(i + BATCH_SIZE, barangays.length)
+        }/${barangays.length} barangays`,
+      );
     }
 
     console.log("\nImporting sub-municipalities...");
     for (let i = 0; i < submuns.length; i += BATCH_SIZE) {
       const batch = submuns.slice(i, i + BATCH_SIZE);
       await importBatch(batch, "SubMunicipality", barangayProps);
-      console.log(`  Imported ${Math.min(i + BATCH_SIZE, submuns.length)}/${submuns.length} sub-municipalities`);
+      console.log(
+        `  Imported ${
+          Math.min(i + BATCH_SIZE, submuns.length)
+        }/${submuns.length} sub-municipalities`,
+      );
     }
 
     console.log("\nCreating relationships...");
@@ -188,17 +271,19 @@ async function main() {
       MATCH (b:Barangay) 
       RETURN regions, provinces, cities, municipalities, total_cities_municipalities, count(b) as barangays
     `);
-    
+
     if (stats && stats[0]) {
       console.log("\nDatabase statistics:");
       console.log("  Regions:", stats[0].regions);
       console.log("  Provinces:", stats[0].provinces);
       console.log("  Cities:", stats[0].cities);
       console.log("  Municipalities:", stats[0].municipalities);
-      console.log("  Total Cities/Municipalities:", stats[0].total_cities_municipalities);
+      console.log(
+        "  Total Cities/Municipalities:",
+        stats[0].total_cities_municipalities,
+      );
       console.log("  Barangays:", stats[0].barangays);
     }
-
   } catch (error) {
     console.error("Import failed:", error);
     Deno.exit(1);

@@ -9,17 +9,17 @@ export const handler: Handlers = {
         RETURN count(n) as nodeCount
         LIMIT 1
       `);
-      return Response.json({ 
-        status: "ok", 
-        timestamp: new Date().toISOString() 
+      return Response.json({
+        status: "ok",
+        timestamp: new Date().toISOString(),
       });
     } catch (error) {
       return Response.json(
-        { 
-          status: "error", 
-          timestamp: new Date().toISOString() 
+        {
+          status: "error",
+          timestamp: new Date().toISOString(),
         },
-        { status: 503 }
+        { status: 503 },
       );
     }
   },

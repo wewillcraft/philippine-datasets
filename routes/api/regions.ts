@@ -11,15 +11,18 @@ export const handler: Handlers = {
                r.population_2020 as population_2020
         ORDER BY r.psgc_code
       `);
-      return Response.json({ 
+      return Response.json({
         data: regions,
-        count: regions.length 
+        count: regions.length,
       });
     } catch (error) {
       console.error("Error fetching regions:", error);
       return Response.json(
-        { error: "Failed to fetch regions", details: error instanceof Error ? error.message : String(error) },
-        { status: 500 }
+        {
+          error: "Failed to fetch regions",
+          details: error instanceof Error ? error.message : String(error),
+        },
+        { status: 500 },
       );
     }
   },

@@ -1,4 +1,5 @@
 {
+  "lock": false,
   "tasks": {
     "start": "deno run -A --watch=static/,routes/,islands/,components/ dev.ts",
     "build": "deno run -A dev.ts build",
@@ -21,10 +22,18 @@
   },
   "compilerOptions": {
     "jsx": "react-jsx",
-    "jsxImportSource": "preact",
-    "strict": true,
-    "lib": ["deno.window", "dom"]
+    "jsxImportSource": "preact"
   },
-  "exclude": ["**/_fresh/*"],
-  "lint": { "rules": { "tags": ["fresh", "recommended"] } }
+  "nodeModulesDir": "auto",
+  "lint": {
+    "rules": {
+      "tags": [
+        "fresh",
+        "recommended"
+      ]
+    }
+  },
+  "exclude": [
+    "**/_fresh/*"
+  ]
 }

@@ -5,7 +5,8 @@ export const handler: Handlers = {
   async GET(_req, ctx) {
     const { psgc_code } = ctx.params;
     try {
-      const barangayData = await runQuery(`
+      const barangayData = await runQuery(
+        `
         MATCH (b:Barangay {psgc_code: $psgc_code})
         OPTIONAL MATCH (c:CityMunicipality)-[:HAS_BARANGAY]->(b)
         OPTIONAL MATCH (p:Province)-[:HAS_CITY_MUNICIPALITY]->(c)
@@ -15,12 +16,14 @@ export const handler: Handlers = {
                c as city,
                COALESCE(p, r2) as province,
                COALESCE(r, r2) as region
-      `, { psgc_code });
+      `,
+        { psgc_code },
+      );
 
       if (!barangayData || barangayData.length === 0) {
         return Response.json(
           { error: "Barangay not found" },
-          { status: 404 }
+          { status: 404 },
         );
       }
 
@@ -29,12 +32,12 @@ export const handler: Handlers = {
         barangay: result.barangay,
         city: result.city,
         province: result.province,
-        region: result.region
+        region: result.region,
       });
     } catch (error) {
       return Response.json(
         { error: "Failed to fetch barangay details" },
-        { status: 500 }
+        { status: 500 },
       );
     }
   },

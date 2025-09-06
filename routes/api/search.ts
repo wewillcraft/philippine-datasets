@@ -1,5 +1,5 @@
 import { Handlers } from "$fresh/server.ts";
-import { runQuery, neo4j } from "../../src/neo4j.ts";
+import { neo4j, runQuery } from "../../src/neo4j.ts";
 
 export const handler: Handlers = {
   async GET(req, _ctx) {
@@ -9,19 +9,22 @@ export const handler: Handlers = {
     const offset = Math.floor(parseInt(url.searchParams.get("offset") || "0"));
     const sort = url.searchParams.get("sort") || "name";
     const type = url.searchParams.get("type");
-    
+
     if (!query) {
       return Response.json(
         { error: "Query parameter 'q' is required" },
-        { status: 400 }
+        { status: 400 },
       );
     }
 
     const validSorts = ["psgc_code", "name", "population"];
     if (!validSorts.includes(sort)) {
       return Response.json(
-        { error: "Invalid sort parameter. Must be one of: psgc_code, name, population" },
-        { status: 400 }
+        {
+          error:
+            "Invalid sort parameter. Must be one of: psgc_code, name, population",
+        },
+        { status: 400 },
       );
     }
 
@@ -30,18 +33,27 @@ export const handler: Handlers = {
     try {
       let typeConditions = "";
       let countTypeConditions = "";
-      
+
       if (type) {
-        const validTypes = ["region", "province", "city", "municipality", "barangay"];
+        const validTypes = [
+          "region",
+          "province",
+          "city",
+          "municipality",
+          "barangay",
+        ];
         const typeFilter = type.toLowerCase();
-        
+
         if (!validTypes.includes(typeFilter)) {
           return Response.json(
-            { error: "Invalid type parameter. Must be one of: region, province, city, municipality, barangay" },
-            { status: 400 }
+            {
+              error:
+                "Invalid type parameter. Must be one of: region, province, city, municipality, barangay",
+            },
+            { status: 400 },
           );
         }
-        
+
         if (typeFilter === "region") {
           typeConditions = `
             MATCH (r:Region)
@@ -88,20 +100,26 @@ export const handler: Handlers = {
             RETURN b
           `;
         }
-        
-        const results = await runQuery(`
+
+        const results = await runQuery(
+          `
           ${typeConditions}
           ORDER BY ${orderByField}
           SKIP $offset
           LIMIT $limit
-        `, { query, limit: neo4j.int(limit), offset: neo4j.int(offset) });
-        
-        const countResult = await runQuery(`
+        `,
+          { query, limit: neo4j.int(limit), offset: neo4j.int(offset) },
+        );
+
+        const countResult = await runQuery(
+          `
           ${countTypeConditions}
           RETURN count(*) as total
-        `, { query });
-        
-        return Response.json({ 
+        `,
+          { query },
+        );
+
+        return Response.json({
           query,
           type: typeFilter,
           sort,
@@ -110,11 +128,12 @@ export const handler: Handlers = {
           pagination: {
             limit,
             offset,
-            total: countResult[0]?.total || 0
-          }
+            total: countResult[0]?.total || 0,
+          },
         });
       } else {
-        const results = await runQuery(`
+        const results = await runQuery(
+          `
           CALL {
             MATCH (r:Region)
             WHERE toLower(r.name) CONTAINS toLower($query)
@@ -136,9 +155,12 @@ export const handler: Handlers = {
           ORDER BY ${orderByField}
           SKIP $offset
           LIMIT $limit
-        `, { query, limit: neo4j.int(limit), offset: neo4j.int(offset) });
-        
-        const countResult = await runQuery(`
+        `,
+          { query, limit: neo4j.int(limit), offset: neo4j.int(offset) },
+        );
+
+        const countResult = await runQuery(
+          `
           CALL {
             MATCH (r:Region)
             WHERE toLower(r.name) CONTAINS toLower($query)
@@ -157,9 +179,11 @@ export const handler: Handlers = {
             RETURN b
           }
           RETURN count(*) as total
-        `, { query });
+        `,
+          { query },
+        );
 
-        return Response.json({ 
+        return Response.json({
           query,
           sort,
           data: results,
@@ -167,14 +191,17 @@ export const handler: Handlers = {
           pagination: {
             limit,
             offset,
-            total: countResult[0]?.total || 0
-          }
+            total: countResult[0]?.total || 0,
+          },
         });
       }
     } catch (error) {
       return Response.json(
-        { error: "Search failed", details: error instanceof Error ? error.message : String(error) },
-        { status: 500 }
+        {
+          error: "Search failed",
+          details: error instanceof Error ? error.message : String(error),
+        },
+        { status: 500 },
       );
     }
   },

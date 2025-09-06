@@ -5,7 +5,8 @@ export const handler: Handlers = {
   async GET(_req, ctx) {
     const { psgc_code } = ctx.params;
     try {
-      const hierarchy = await runQuery(`
+      const hierarchy = await runQuery(
+        `
         MATCH (target {psgc_code: $psgc_code})
         MATCH (r:Region)
         MATCH path = shortestPath((r)-[*0..4]->(target))
@@ -27,23 +28,25 @@ export const handler: Handlers = {
                node.city_class as city_class,
                node.income_classification as income_classification,
                node.urban_rural as urban_rural
-      `, { psgc_code });
+      `,
+        { psgc_code },
+      );
 
       if (!hierarchy || hierarchy.length === 0) {
         return Response.json(
           { error: "Location not found" },
-          { status: 404 }
+          { status: 404 },
         );
       }
 
-      return Response.json({ 
+      return Response.json({
         psgc_code,
-        hierarchy 
+        hierarchy,
       });
     } catch (error) {
       return Response.json(
         { error: "Failed to fetch hierarchy" },
-        { status: 500 }
+        { status: 500 },
       );
     }
   },

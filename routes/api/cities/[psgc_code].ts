@@ -5,19 +5,22 @@ export const handler: Handlers = {
   async GET(_req, ctx) {
     const { psgc_code } = ctx.params;
     try {
-      const cityData = await runQuery(`
+      const cityData = await runQuery(
+        `
         MATCH (c:CityMunicipality {psgc_code: $psgc_code})
         OPTIONAL MATCH (c)-[:HAS_BARANGAY]->(b:Barangay)
         OPTIONAL MATCH (c)-[:HAS_SUBMUNICIPALITY]->(s:SubMunicipality)
         RETURN c as city,
                collect(DISTINCT b) as barangays,
                collect(DISTINCT s) as submuns
-      `, { psgc_code });
+      `,
+        { psgc_code },
+      );
 
       if (!cityData || cityData.length === 0) {
         return Response.json(
           { error: "City/Municipality not found" },
-          { status: 404 }
+          { status: 404 },
         );
       }
 
@@ -30,13 +33,13 @@ export const handler: Handlers = {
         submunicipalities: submunicipalities,
         count: {
           barangays: barangays.length,
-          submunicipalities: submunicipalities.length
-        }
+          submunicipalities: submunicipalities.length,
+        },
       });
     } catch (error) {
       return Response.json(
         { error: "Failed to fetch city details" },
-        { status: 500 }
+        { status: 500 },
       );
     }
   },
