@@ -1,9 +1,9 @@
-# philippines-datasets
+# philippine-datasets
 
 A collection of cleaned and structured datasets from Philippine government
 agencies.
 
-🌐 **API Available:** [https://philippines-datasets.nowcraft.ing](https://philippines-datasets.nowcraft.ing)
+🌐 **API Available:** [https://philippine-datasets-api.nowcraft.ing](https://philippine-datasets-api.nowcraft.ing)
 
 ## Quick Start
 

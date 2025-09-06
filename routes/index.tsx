@@ -207,7 +207,7 @@ export default function Home({ data, url }: PageProps<StatsData>) {
               <a href="https://fresh.deno.dev/" target="_blank" class="text-purple-600 hover:underline">Fresh</a>, and{" "}
               <a href="https://neo4j.com/" target="_blank" class="text-purple-600 hover:underline">Neo4j</a>
             </p>
-            <p class="mt-2"><a href="https://github.com/wewillcraft/philippines-datasets" target="_blank" class="text-purple-600 hover:underline">View on GitHub</a></p>
+            <p class="mt-2"><a href="https://github.com/wewillcraft/philippine-datasets" target="_blank" class="text-purple-600 hover:underline">View on GitHub</a></p>
           </footer>
         </div>
       </div>
