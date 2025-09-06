@@ -99,7 +99,13 @@ Once the server is running, you can access:
 - `GET /barangays/:psgc_code` - Get barangay details with full hierarchy
 
 ### Utility Endpoints
-- `GET /search?q=<query>` - Search locations by name
+- `GET /search?q=<query>&limit=100&offset=0&sort=name&type=<type>` - Search locations by name
+  - **Parameters:**
+    - `q` (required): Search query string
+    - `limit`: Number of results per page (default: 100)
+    - `offset`: Number of results to skip (default: 0)
+    - `sort`: Sort results by `psgc_code`, `name` (default), or `population`
+    - `type`: Filter by type: `region`, `province`, `city`, `municipality`, or `barangay`
 - `GET /hierarchy/:psgc_code` - Get full hierarchy path for any PSGC code
 
 ### Example API Calls
@@ -108,8 +114,14 @@ Once the server is running, you can access:
 # List all regions
 curl http://localhost:8000/regions
 
-# Search for locations containing "Manila"
-curl http://localhost:8000/search?q=Manila
+# Search for locations containing "Manila" (with pagination)
+curl http://localhost:8000/search?q=Manila&limit=50&offset=0
+
+# Search only cities containing "Manila", sorted by population
+curl "http://localhost:8000/search?q=Manila&type=city&sort=population"
+
+# Search barangays containing "Poblacion", sorted by PSGC code
+curl "http://localhost:8000/search?q=Poblacion&type=barangay&sort=psgc_code&limit=20"
 
 # Get hierarchy for a specific barangay (e.g., Barangay Laog in Angat, Bulacan)
 curl http://localhost:8000/hierarchy/0301401007

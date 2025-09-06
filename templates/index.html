@@ -234,8 +234,8 @@
                 <div class="endpoint-grid">
                     <div class="endpoint">
                         <span class="method">GET</span>
-                        <span class="path">/search?q=manila</span>
-                        <div class="description">Search locations by name (returns up to 100 results)</div>
+                        <span class="path">/search?q=manila&limit=100&offset=0&sort=name&type=city</span>
+                        <div class="description">Search locations by name (paginated, sortable, filterable by type)</div>
                     </div>
                     <div class="endpoint">
                         <span class="method">GET</span>
@@ -251,14 +251,43 @@
                     <code># Get all regions
 curl {{origin}}/regions
 
-# Search for locations containing "Davao"
-curl {{origin}}/search?q=davao
+# Search for locations containing "Davao" (with pagination)
+curl {{origin}}/search?q=davao&limit=50&offset=0
+
+# Search only cities containing "Manila", sorted by population
+curl {{origin}}/search?q=Manila&type=city&sort=population
+
+# Search barangays containing "Poblacion", sorted by PSGC code
+curl {{origin}}/search?q=Poblacion&type=barangay&sort=psgc_code&limit=20
 
 # Get complete hierarchy for a barangay (e.g., Barangay Poblacion in Bangued, Abra)
 curl {{origin}}/hierarchy/0301401007
 
 # Get paginated barangays (page 2, 100 items per page)
 curl {{origin}}/barangays?limit=100&offset=100</code>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>🔍 Search Parameters</h2>
+                <div style="background: #f8f9fa; padding: 1rem; border-radius: 8px;">
+                    <p style="color: #6c757d; margin-bottom: 1rem;">The search endpoint supports advanced filtering and sorting options:</p>
+                    <dl style="margin: 0.5rem 0;">
+                        <dt style="font-weight: bold; color: #667eea;">q (required)</dt>
+                        <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Search query string to match against location names</dd>
+                        
+                        <dt style="font-weight: bold; color: #667eea;">limit</dt>
+                        <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Number of results per page (default: 100)</dd>
+                        
+                        <dt style="font-weight: bold; color: #667eea;">offset</dt>
+                        <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Number of results to skip for pagination (default: 0)</dd>
+                        
+                        <dt style="font-weight: bold; color: #667eea;">sort</dt>
+                        <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Sort results by: <code>psgc_code</code>, <code>name</code> (default), or <code>population</code> (descending)</dd>
+                        
+                        <dt style="font-weight: bold; color: #667eea;">type</dt>
+                        <dd style="margin: 0.5rem 0 1rem 1rem; color: #6c757d;">Filter by location type: <code>region</code>, <code>province</code>, <code>city</code>, <code>municipality</code>, or <code>barangay</code></dd>
+                    </dl>
                 </div>
             </div>
 
@@ -334,7 +363,7 @@ curl {{origin}}/barangays?limit=100&offset=100</code>
                             <li><strong>BBB</strong> - Barangay code (000 for cities/municipalities, 001-999 for barangays)</li>
                         </ul>
                         <p style="color: #6c757d; margin-top: 0.5rem;">
-                            Example: <code style="background: #282c34; color: #abb2bf; padding: 0.2rem 0.4rem; border-radius: 4px;">0301401007</code> represents Barangay 001 (Poblacion) in Municipality 01 (Bangued) of Province 401 (Abra) in Region 01 (CAR).
+                            Example: <code style="background: #282c34; color: #abb2bf; padding: 0.2rem 0.4rem; border-radius: 4px;">0301401007</code> represents Barangay 007 (Laog) in the City/Municipality 01 (Angat) of Province 014 (Bulacan) in Region 03 (Central Luzon).
                         </p>
                     </div>
                 </div>
