@@ -16,9 +16,8 @@
     "tailwindcss": "npm:tailwindcss@3.4.1",
     "tailwindcss/": "npm:/tailwindcss@3.4.1/",
     "tailwindcss/plugin": "npm:/tailwindcss@3.4.1/plugin.js",
-    "$std/": "https://deno.land/std@0.216.0/",
     "neo4j": "npm:neo4j-driver@5.24.0",
-    "dotenv": "https://deno.land/std@0.224.0/dotenv/mod.ts"
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.5"
   },
   "compilerOptions": {
     "jsx": "react-jsx",
