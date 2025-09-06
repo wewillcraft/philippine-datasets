@@ -111,8 +111,8 @@ curl http://localhost:8000/regions
 # Search for locations containing "Manila"
 curl http://localhost:8000/search?q=Manila
 
-# Get hierarchy for a specific barangay (e.g., Barangay Poblacion in Bangued, Abra)
-curl http://localhost:8000/hierarchy/0140100001
+# Get hierarchy for a specific barangay (e.g., Barangay Laog in Angat, Bulacan)
+curl http://localhost:8000/hierarchy/0301401007
 ```
 
 ## Project Structure
