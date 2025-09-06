@@ -164,19 +164,19 @@ export const handler: Handlers = {
           CALL {
             MATCH (r:Region)
             WHERE toLower(r.name) CONTAINS toLower($query)
-            RETURN r
+            RETURN r as node
             UNION
             MATCH (p:Province)
             WHERE toLower(p.name) CONTAINS toLower($query)
-            RETURN p
+            RETURN p as node
             UNION
             MATCH (c:CityMunicipality)
             WHERE toLower(c.name) CONTAINS toLower($query)
-            RETURN c
+            RETURN c as node
             UNION
             MATCH (b:Barangay)
             WHERE toLower(b.name) CONTAINS toLower($query)
-            RETURN b
+            RETURN b as node
           }
           RETURN count(*) as total
         `,
