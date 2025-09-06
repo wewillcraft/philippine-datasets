@@ -1,16 +1,30 @@
 {
   "tasks": {
-    "dev": "deno run --allow-net --allow-env --allow-sys --allow-read --watch server.ts",
-    "start": "deno run --allow-net --allow-env --allow-sys --allow-read server.ts",
+    "start": "deno run -A --watch=static/,routes/,islands/,components/ dev.ts",
+    "build": "deno run -A dev.ts build",
+    "preview": "deno run -A main.ts",
+    "update": "deno run -A -r https://fresh.deno.dev/update .",
     "import": "deno run --allow-read --allow-env --allow-net --allow-sys tasks/import_psgc_data_to_neo4j.ts"
   },
   "imports": {
-    "oak": "https://deno.land/x/oak@v12.6.1/mod.ts",
+    "$fresh/": "https://deno.land/x/fresh@1.7.3/",
+    "preact": "https://esm.sh/preact@10.22.0",
+    "preact/": "https://esm.sh/preact@10.22.0/",
+    "@preact/signals": "https://esm.sh/*@preact/signals@1.2.2",
+    "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.5.1",
+    "tailwindcss": "npm:tailwindcss@3.4.1",
+    "tailwindcss/": "npm:/tailwindcss@3.4.1/",
+    "tailwindcss/plugin": "npm:/tailwindcss@3.4.1/plugin.js",
+    "$std/": "https://deno.land/std@0.216.0/",
     "neo4j": "npm:neo4j-driver@5.24.0",
     "dotenv": "https://deno.land/std@0.224.0/dotenv/mod.ts"
   },
   "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact",
     "strict": true,
-    "lib": ["deno.window"]
-  }
+    "lib": ["deno.window", "dom"]
+  },
+  "exclude": ["**/_fresh/*"],
+  "lint": { "rules": { "tags": ["fresh", "recommended"] } }
 }

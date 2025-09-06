@@ -56,16 +56,17 @@ agencies.
 
 ### Run the API Server
 
-Start the development server with auto-reload:
-
-```bash
-deno task dev
-```
-
-Or run in production mode:
+Start the Fresh development server with auto-reload:
 
 ```bash
 deno task start
+```
+
+Or build for production:
+
+```bash
+deno task build
+deno task preview
 ```
 
 The server will be available at `http://localhost:8000`
@@ -74,8 +75,9 @@ The server will be available at `http://localhost:8000`
 
 | Task             | Command                    | Description                                   |
 | ---------------- | -------------------------- | --------------------------------------------- |
-| `dev`            | `deno task dev`            | Start server with auto-reload for development |
-| `start`          | `deno task start`          | Start server in production mode               |
+| `start`          | `deno task start`          | Start Fresh development server with auto-reload |
+| `build`          | `deno task build`          | Build the application for production          |
+| `preview`        | `deno task preview`        | Run the production build                      |
 | `import`         | `deno task import`         | Import PSGC data to Neo4j                     |
 | `import --clear` | `deno task import --clear` | Clear database and import fresh data          |
 
@@ -84,65 +86,76 @@ The server will be available at `http://localhost:8000`
 Once the server is running, you can access:
 
 ### List Endpoints
-- `GET /` - API documentation and available endpoints
-- `GET /regions` - List all regions
-- `GET /provinces` - List all provinces with their region
-- `GET /cities` - List all cities only (HUC, ICC, CC) with province and region
-- `GET /municipalities` - List all municipalities only with province and region
-- `GET /localities` - List all cities and municipalities combined (includes type field)
-- `GET /barangays?limit=100&offset=0` - List barangays (paginated due to large volume)
+- `GET /` - Interactive API documentation and available endpoints
+- `GET /api/regions` - List all regions
+- `GET /api/provinces` - List all provinces with their region
+- `GET /api/cities` - List all cities only (HUC, ICC, CC) with province and region
+- `GET /api/municipalities` - List all municipalities only with province and region
+- `GET /api/localities` - List all cities and municipalities combined (includes type field)
+- `GET /api/barangays?limit=100&offset=0` - List barangays (paginated due to large volume)
 
 ### Detail Endpoints
-- `GET /regions/:psgc_code` - Get region details with provinces
-- `GET /provinces/:psgc_code` - Get province with cities/municipalities
-- `GET /cities/:psgc_code` - Get city/municipality with barangays
-- `GET /barangays/:psgc_code` - Get barangay details with full hierarchy
+- `GET /api/regions/:psgc_code` - Get region details with provinces
+- `GET /api/provinces/:psgc_code` - Get province with cities/municipalities
+- `GET /api/cities/:psgc_code` - Get city/municipality with barangays
+- `GET /api/barangays/:psgc_code` - Get barangay details with full hierarchy
 
 ### Utility Endpoints
-- `GET /search?q=<query>&limit=100&offset=0&sort=name&type=<type>` - Search locations by name
+- `GET /api/search?q=<query>&limit=100&offset=0&sort=name&type=<type>` - Search locations by name
   - **Parameters:**
     - `q` (required): Search query string
     - `limit`: Number of results per page (default: 100)
     - `offset`: Number of results to skip (default: 0)
     - `sort`: Sort results by `psgc_code`, `name` (default), or `population`
     - `type`: Filter by type: `region`, `province`, `city`, `municipality`, or `barangay`
-- `GET /hierarchy/:psgc_code` - Get full hierarchy path for any PSGC code
+- `GET /api/hierarchy/:psgc_code` - Get full hierarchy path for any PSGC code
+- `GET /api/ping` - Health check endpoint to keep database active
 
 ### Example API Calls
 
 ```bash
 # List all regions
-curl http://localhost:8000/regions
+curl http://localhost:8000/api/regions
 
 # Search for locations containing "Manila" (with pagination)
-curl http://localhost:8000/search?q=Manila&limit=50&offset=0
+curl http://localhost:8000/api/search?q=Manila&limit=50&offset=0
 
 # Search only cities containing "Manila", sorted by population
-curl "http://localhost:8000/search?q=Manila&type=city&sort=population"
+curl "http://localhost:8000/api/search?q=Manila&type=city&sort=population"
 
 # Search barangays containing "Poblacion", sorted by PSGC code
-curl "http://localhost:8000/search?q=Poblacion&type=barangay&sort=psgc_code&limit=20"
+curl "http://localhost:8000/api/search?q=Poblacion&type=barangay&sort=psgc_code&limit=20"
 
 # Get hierarchy for a specific barangay (e.g., Barangay Laog in Angat, Bulacan)
-curl http://localhost:8000/hierarchy/0301401007
+curl http://localhost:8000/api/hierarchy/0301401007
 ```
 
 ## Project Structure
 
 ```
 .
-├── psa/                    # Philippine Statistics Authority data
-│   ├── parse_psgc.py       # PSGC data parser
-│   ├── psgc_data.jsonl     # Processed data (JSONL format)
-│   └── requirements.txt    # Python dependencies
-├── tasks/                  # Deno task scripts
+├── routes/                 # Fresh routes
+│   ├── api/               # API endpoints
+│   │   ├── regions.ts     # Regions endpoints
+│   │   ├── provinces.ts   # Provinces endpoints
+│   │   └── ...           # Other API routes
+│   └── index.tsx          # Homepage with API documentation
+├── components/            # Reusable React components
+├── islands/              # Interactive client components
+├── static/               # Static assets
+├── psa/                  # Philippine Statistics Authority data
+│   ├── parse_psgc.py     # PSGC data parser
+│   └── requirements.txt  # Python dependencies
+├── tasks/                # Deno task scripts
 │   └── import_psgc_data_to_neo4j.ts
-├── src/                    # Shared libraries
-│   ├── neo4j.ts           # Neo4j connection helper
-│   └── types.ts           # TypeScript type definitions
-├── server.ts              # Main API server
-├── deno.json              # Deno configuration
-└── .env                   # Environment variables (create from .env.example)
+├── src/                  # Shared libraries
+│   ├── neo4j.ts         # Neo4j connection helper
+│   └── types.ts         # TypeScript type definitions
+├── main.ts              # Fresh application entry point
+├── dev.ts               # Development server
+├── fresh.config.ts      # Fresh configuration
+├── deno.json            # Deno configuration
+└── .env                 # Environment variables (create from .env.example)
 ```
 
 ## Data Sources

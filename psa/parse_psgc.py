@@ -59,7 +59,7 @@ def parse_psgc_code(code: str) -> Dict[str, Optional[str]]:
     Format: RRPPPMMBBB
     RR - Region code (01-19)
     PPP - Province code/HUC
-    MM - Municipality/City code
+    LL - Locality (Municipality/City) code
     BBB - Barangay code
     """
     if not code or len(code) != 10:
