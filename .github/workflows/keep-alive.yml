@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Ping API to keep Neo4j active
         run: |
-          response=$(curl -s -o /dev/null -w "%{http_code}" ${{ secrets.API_URL }}/ping || echo "000")
+          response=$(curl -s -o /dev/null -w "%{http_code}" ${{ secrets.API_URL }}/api/ping || echo "000")
 
           if [ "$response" = "200" ]; then
             echo "✅ Successfully pinged API (HTTP $response)"
