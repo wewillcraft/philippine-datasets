@@ -132,10 +132,10 @@ curl http://localhost:8000/api/regions
 curl http://localhost:8000/api/search?q=Manila&limit=50&offset=0
 
 # Search only cities containing "Manila", sorted by population
-curl "http://localhost:8000/api/search?q=Manila&type=city&sort=population"
+curl http://localhost:8000/api/search?q=Manila&type=city&sort=population
 
 # Search barangays containing "Poblacion", sorted by PSGC code
-curl "http://localhost:8000/api/search?q=Poblacion&type=barangay&sort=psgc_code&limit=20"
+curl http://localhost:8000/api/search?q=Poblacion&type=barangay&sort=psgc_code&limit=20
 
 # Get hierarchy for a specific barangay (e.g., Barangay Laog in Angat, Bulacan)
 curl http://localhost:8000/api/hierarchy/0301401007

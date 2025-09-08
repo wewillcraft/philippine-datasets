@@ -374,12 +374,12 @@ function CodeExample({ origin }: { origin: string }) {
       comment:
         "# Get any node by PSGC code (works for region, province, city, or barangay)",
       command: "curl",
-      url: `${origin}/api/detail/1374000000`,
+      url: `${origin}/api/detail/0603025064`,
     },
     {
       comment: "# Get details for NCR (National Capital Region)",
       command: "curl",
-      url: `${origin}/api/regions/1300000000`,
+      url: `${origin}/api/regions/1800000000`,
     },
     {
       comment: '# Search for locations containing "Davao"',
