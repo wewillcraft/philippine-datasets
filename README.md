@@ -141,6 +141,178 @@ curl http://localhost:8000/api/search?q=Poblacion&type=barangay&sort=psgc_code&l
 curl http://localhost:8000/api/hierarchy/0301401007
 ```
 
+## Neo4j Graph Database Schema
+
+### Entity Relationship Diagram
+
+```mermaid
+graph TD
+    %% Node definitions with properties
+    Region["<b>Region</b><br/>━━━━━━━━━━<br/>• psgc_code<br/>• name<br/>• correspondence_code<br/>• geographic_level<br/>• population_2020<br/>• region_code<br/>• province_code (000)<br/>• municipality_code (00)<br/>• barangay_code (000)"]
+    
+    Province["<b>Province</b><br/>━━━━━━━━━━<br/>• psgc_code<br/>• name<br/>• correspondence_code<br/>• geographic_level<br/>• population_2020<br/>• region_code<br/>• province_code<br/>• municipality_code (00)<br/>• barangay_code (000)"]
+    
+    CityMunicipality["<b>CityMunicipality</b><br/>━━━━━━━━━━<br/>• psgc_code<br/>• name<br/>• correspondence_code<br/>• geographic_level<br/>• type (city/municipality)<br/>• city_class<br/>• income_classification<br/>• population_2020<br/>• region_code<br/>• province_code<br/>• municipality_code<br/>• barangay_code (000)"]
+    
+    Barangay["<b>Barangay</b><br/>━━━━━━━━━━<br/>• psgc_code<br/>• name<br/>• correspondence_code<br/>• geographic_level<br/>• urban_rural<br/>• population_2020<br/>• region_code<br/>• province_code<br/>• municipality_code<br/>• barangay_code"]
+    
+    SubMunicipality["<b>SubMunicipality</b><br/>━━━━━━━━━━<br/>• psgc_code<br/>• name<br/>• correspondence_code<br/>• geographic_level<br/>• population_2020<br/>• region_code<br/>• province_code<br/>• municipality_code"]
+    
+    %% Relationships
+    Region -->|HAS_PROVINCE| Province
+    Province -->|HAS_CITY_MUNICIPALITY| CityMunicipality
+    Region -->|"HAS_CITY_MUNICIPALITY<br/>(NCR Special Case)"| CityMunicipality
+    CityMunicipality -->|HAS_BARANGAY| Barangay
+    CityMunicipality -->|HAS_SUBMUNICIPALITY| SubMunicipality
+    
+    %% Styling
+    classDef nodeStyle fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000
+    class Region,Province,CityMunicipality,Barangay,SubMunicipality nodeStyle
+```
+
+### Nodes (Entities)
+
+#### Region
+
+Represents administrative regions of the Philippines.
+
+- **Properties:**
+  - `psgc_code`: Philippine Standard Geographic Code
+  - `name`: Region name (e.g., "Region I (Ilocos Region)")
+  - `correspondence_code`: Alternative code for correspondence
+  - `geographic_level`: Always "Reg" for regions
+  - `population_2020`: 2020 census population count
+  - `region_code`: Regional code component of PSGC
+  - `province_code`: Always "000" for regions
+  - `municipality_code`: Always "00" for regions
+  - `barangay_code`: Always "000" for regions
+
+#### Province
+
+Represents provinces within regions.
+
+- **Properties:**
+  - `psgc_code`: Philippine Standard Geographic Code
+  - `name`: Province name (e.g., "Ilocos Norte")
+  - `correspondence_code`: Alternative code for correspondence
+  - `geographic_level`: Always "Prov" for provinces
+  - `population_2020`: 2020 census population count
+  - `region_code`: Parent region code
+  - `province_code`: Province code component (non-"000")
+  - `municipality_code`: Always "00" for provinces
+  - `barangay_code`: Always "000" for provinces
+
+#### CityMunicipality
+
+Represents both cities and municipalities within provinces.
+
+- **Properties:**
+  - `psgc_code`: Philippine Standard Geographic Code
+  - `name`: City/Municipality name
+  - `correspondence_code`: Alternative code for correspondence
+  - `geographic_level`: "City" or "Mun"
+  - `type`: Either "city" or "municipality" (derived field)
+  - `city_class`: Classification for cities (HUC, ICC, CC, etc.)
+  - `income_classification`: Income classification (1st to 6th class)
+  - `population_2020`: 2020 census population count
+  - `region_code`: Parent region code
+  - `province_code`: Parent province code
+  - `municipality_code`: Municipality code component (non-"00")
+  - `barangay_code`: Always "000" for cities/municipalities
+
+#### Barangay
+
+Represents barangays (villages) within cities/municipalities.
+
+- **Properties:**
+  - `psgc_code`: Philippine Standard Geographic Code
+  - `name`: Barangay name
+  - `correspondence_code`: Alternative code for correspondence
+  - `geographic_level`: Always "Bgy" for barangays
+  - `urban_rural`: Urban or Rural classification
+  - `population_2020`: 2020 census population count
+  - `region_code`: Parent region code
+  - `province_code`: Parent province code
+  - `municipality_code`: Parent municipality code
+  - `barangay_code`: Barangay code component (non-"000")
+
+#### SubMunicipality
+
+Represents sub-municipalities (special administrative divisions).
+
+- **Properties:**
+  - `psgc_code`: Philippine Standard Geographic Code
+  - `name`: Sub-municipality name
+  - `correspondence_code`: Alternative code for correspondence
+  - `geographic_level`: Always "SubMun"
+  - `population_2020`: 2020 census population count
+  - `region_code`: Parent region code
+  - `province_code`: Parent province code
+  - `municipality_code`: Parent municipality code
+
+### Relationships
+
+The graph database uses the following relationships to represent the
+hierarchical structure of Philippine administrative divisions:
+
+#### HAS_PROVINCE
+
+- **From:** Region
+- **To:** Province
+- **Description:** Links regions to their constituent provinces
+
+#### HAS_CITY_MUNICIPALITY
+
+- **From:** Province or Region (for NCR)
+- **To:** CityMunicipality
+- **Description:** Links provinces to their cities and municipalities. Note: NCR
+  (Region 13) directly links to cities as it has no provinces.
+
+#### HAS_BARANGAY
+
+- **From:** CityMunicipality
+- **To:** Barangay
+- **Description:** Links cities/municipalities to their constituent barangays
+
+#### HAS_SUBMUNICIPALITY
+
+- **From:** CityMunicipality
+- **To:** SubMunicipality
+- **Description:** Links cities/municipalities to their sub-municipalities
+  (special administrative divisions)
+
+### Graph Structure Example
+
+```
+Region (e.g., Region III)
+    ├─[HAS_PROVINCE]→ Province (e.g., Bulacan)
+    │                     ├─[HAS_CITY_MUNICIPALITY]→ CityMunicipality (e.g., City of Malolos)
+    │                     │                              ├─[HAS_BARANGAY]→ Barangay (e.g., Bagong Bayan)
+    │                     │                              └─[HAS_BARANGAY]→ Barangay (e.g., Poblacion)
+    │                     └─[HAS_CITY_MUNICIPALITY]→ CityMunicipality (e.g., Angat)
+    │                                                    └─[HAS_BARANGAY]→ Barangay (e.g., Laog)
+    └─[HAS_PROVINCE]→ Province (e.g., Pampanga)
+
+Special Case - NCR (National Capital Region):
+Region (NCR/Region 13)
+    ├─[HAS_CITY_MUNICIPALITY]→ CityMunicipality (e.g., City of Manila)
+    └─[HAS_CITY_MUNICIPALITY]→ CityMunicipality (e.g., Quezon City)
+```
+
+### Indexes
+
+The following indexes are created for optimal query performance:
+
+- `region_psgc`: Index on Region.psgc_code
+- `province_psgc`: Index on Province.psgc_code
+- `city_municipality_psgc`: Index on CityMunicipality.psgc_code
+- `barangay_psgc`: Index on Barangay.psgc_code
+- `submunicipality_psgc`: Index on SubMunicipality.psgc_code
+- `region_name`: Index on Region.name
+- `province_name`: Index on Province.name
+- `city_municipality_name`: Index on CityMunicipality.name
+- `barangay_name`: Index on Barangay.name
+
 ## Project Structure
 
 ```
