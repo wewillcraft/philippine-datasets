@@ -260,12 +260,29 @@ class BillFetcher:
 
                 html = await response.text()
 
+                # Check for server errors
+                if "An error has occured" in html or "Exception has been logged" in html:
+                    print(f"    ❌ {bill_type}-{number}: Server error on Senate website")
+                    return {"error": "server_error", "bill": f"{bill_type}-{number}"}
+
                 # Check if bill exists
                 if "No results found" in html or "No Record Found" in html:
+                    print(f"    ⚠️  {bill_type}-{number}: Not found on website")
                     return None
 
                 # Check if it's the right congress
                 if f"{congress}th Congress" not in html and f"{congress}TH CONGRESS" not in html:
+                    # Try to find which congress it actually belongs to
+                    actual_congress = None
+                    for c in range(13, 21):  # Check congresses 13-20
+                        if f"{c}th Congress" in html or f"{c}TH CONGRESS" in html:
+                            actual_congress = c
+                            break
+
+                    if actual_congress:
+                        print(f"    ⚠️  {bill_type}-{number}: Found in Congress {actual_congress}, not {congress}")
+                    else:
+                        print(f"    ⚠️  {bill_type}-{number}: Wrong congress (not {congress}th)")
                     return None
 
             # Check if we need to fetch "All Information" view
@@ -411,7 +428,7 @@ class BillFetcher:
             print(f"    ⏱️  Timeout for {bill_type}-{number}")
             return None
         except Exception as e:
-            print(f"    ❌ Error fetching {bill_type}-{number}: {e}")
+            print(f"    ❌ Error fetching {bill_type}-{number}: {str(e)[:100]}")
             return None
 
     def needs_all_information(self, html: str) -> bool:
@@ -518,9 +535,15 @@ class BillFetcher:
 
         return related
 
-    async def fetch_bills_batch(self, congress: int, bill_type: str, bill_numbers: List[int]):
+    async def fetch_bills_batch(self, congress: int, bill_type: str, bill_numbers: List[int], update_index: bool = True) -> Tuple[int, int, List[str]]:
         """Fetch bills in batches and save to files."""
         print(f"\n  📊 Fetching {len(bill_numbers)} {bill_type} bills from Congress {congress}")
+
+        # Show sample of bills to be fetched if list is small
+        if len(bill_numbers) <= 30:
+            print(f"    Bills to fetch: {', '.join([f'{bill_type}-{n}' for n in sorted(bill_numbers)[:10]])}")
+            if len(bill_numbers) > 10:
+                print(f"                    ... and {len(bill_numbers) - 10} more")
 
         # Create directory structure
         bill_dir = self.base_dir / "congress" / str(congress) / bill_type
@@ -528,7 +551,8 @@ class BillFetcher:
 
         successful = 0
         failed = 0
-        bills_data = []
+        newly_fetched = 0
+        server_errors = []
 
         # Process bills in batches
         for i in range(0, len(bill_numbers), self.workers):
@@ -538,19 +562,23 @@ class BillFetcher:
 
             for num, bill_data in zip(batch, results):
                 if bill_data:
-                    # Save individual bill file
-                    padded_num = str(num).zfill(5)
-                    bill_file = bill_dir / f"{bill_type}-{padded_num}.toml"
-
-                    # Check if file already exists
-                    if not bill_file.exists():
-                        with open(bill_file, 'w', encoding='utf-8') as f:
-                            toml.dump(bill_data, f)
-                        successful += 1
+                    # Check if it's an error response
+                    if isinstance(bill_data, dict) and bill_data.get("error") == "server_error":
+                        server_errors.append(f"{bill_type}-{str(num).zfill(5)}")
+                        failed += 1
                     else:
-                        successful += 1  # Count as successful if already exists
+                        # Save individual bill file
+                        padded_num = str(num).zfill(5)
+                        bill_file = bill_dir / f"{bill_type}-{padded_num}.toml"
 
-                    bills_data.append(bill_data)
+                        # Check if file already exists
+                        if not bill_file.exists():
+                            with open(bill_file, 'w', encoding='utf-8') as f:
+                                toml.dump(bill_data, f)
+                            successful += 1
+                            newly_fetched += 1
+                        else:
+                            successful += 1  # Count as successful if already exists
                 else:
                     failed += 1
 
@@ -561,23 +589,21 @@ class BillFetcher:
             # Small delay between batches
             await asyncio.sleep(0.5)
 
-        # Create/Update index file
-        if bills_data:
-            index_file = bill_dir / "index.yml"
-            index_data = {
-                'congress': congress,
-                'type': bill_type,
-                'count': len(bills_data),
-                'bills': [b['billNumber'] for b in bills_data if 'billNumber' in b],
-                'generated': datetime.now().isoformat()
-            }
+        # Update index file if requested
+        if update_index:
+            update_index_file(self.base_dir, congress, bill_type)
 
-            with open(index_file, 'w', encoding='utf-8') as f:
-                yaml.dump(index_data, f, default_flow_style=False)
+        print(f"    ✓ Completed: {newly_fetched} newly fetched, {successful - newly_fetched} already existed, {failed} failed")
 
-        print(f"    ✓ Completed: {successful} successful, {failed} failed")
+        # Report server errors if any
+        if server_errors:
+            print(f"    ⚠️  {len(server_errors)} bills have server errors on Senate website:")
+            for bill in server_errors[:5]:  # Show first 5
+                print(f"        - {bill}")
+            if len(server_errors) > 5:
+                print(f"        ... and {len(server_errors) - 5} more")
 
-        return successful, failed
+        return successful, failed, server_errors
 
 
 def load_bill_cache(metadata_dir: Path, congress: int, bill_type: str) -> Optional[List[int]]:
@@ -607,6 +633,73 @@ def save_bill_cache(metadata_dir: Path, congress: int, bill_type: str, bills: Li
         json.dump(data, f, indent=2)
 
     print(f"  💾 Saved {len(bills)} {bill_type} bills to cache: {cache_file}")
+
+
+def get_missing_bills(metadata_dir: Path, congress: int, bill_type: str, base_dir: Path) -> List[int]:
+    """Get list of bills that are in metadata but missing from disk."""
+    # Load all expected bills from metadata
+    cached_bills = load_bill_cache(metadata_dir, congress, bill_type)
+    if not cached_bills:
+        return []
+
+    # Check which files already exist
+    bill_dir = base_dir / "congress" / str(congress) / bill_type
+    existing_bills = set()
+
+    if bill_dir.exists():
+        for bill_file in bill_dir.glob(f"{bill_type}-*.toml"):
+            # Extract bill number from filename
+            match = re.match(f"{bill_type}-(\\d+).toml", bill_file.name)
+            if match:
+                existing_bills.add(int(match.group(1)))
+
+    # Return only missing bills
+    missing_bills = [num for num in cached_bills if num not in existing_bills]
+
+    print(f"  📁 Found {len(existing_bills)} existing files, {len(missing_bills)} missing files")
+
+    # Show some examples of missing bills if there are any
+    if missing_bills and len(missing_bills) <= 30:
+        sample = sorted(missing_bills)[:10]
+        print(f"      Missing: {', '.join([f'{bill_type}-{str(n).zfill(5)}' for n in sample])}")
+        if len(missing_bills) > 10:
+            print(f"      ... and {len(missing_bills) - 10} more")
+
+    return missing_bills
+
+
+def update_index_file(base_dir: Path, congress: int, bill_type: str):
+    """Update or create index.yml file with all existing bills."""
+    bill_dir = base_dir / "congress" / str(congress) / bill_type
+    if not bill_dir.exists():
+        return
+
+    # Collect all existing bill files
+    bills_data = []
+    bill_numbers = []
+
+    for bill_file in sorted(bill_dir.glob(f"{bill_type}-*.toml")):
+        with open(bill_file, 'r', encoding='utf-8') as f:
+            data = toml.load(f)
+            bills_data.append(data)
+            if 'billNumber' in data:
+                bill_numbers.append(data['billNumber'])
+
+    # Create/update index file
+    if bills_data:
+        index_file = bill_dir / "index.yml"
+        index_data = {
+            'congress': congress,
+            'type': bill_type,
+            'count': len(bills_data),
+            'bills': bill_numbers,
+            'generated': datetime.now().isoformat()
+        }
+
+        with open(index_file, 'w', encoding='utf-8') as f:
+            yaml.dump(index_data, f, default_flow_style=False)
+
+        print(f"    ✓ Updated index.yml with {len(bill_numbers)} bills")
 
 
 async def extract_metadata(congresses: List[int], metadata_dir: Path, is_all_congresses: bool = False):
@@ -731,8 +824,8 @@ async def extract_metadata(congresses: List[int], metadata_dir: Path, is_all_con
 async def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(description='Philippine Senate Bill Scraper')
-    parser.add_argument('--congress', type=int, nargs='+', default=[19],
-                        help='Congress number(s) to scrape')
+    parser.add_argument('--congress', type=int, nargs='+', default=None,
+                        help='Congress number(s) to scrape (default: all cached congresses)')
     parser.add_argument('--type', choices=['SBN', 'HBN', 'ALL'], default='ALL',
                         help='Type of bills to scrape')
     parser.add_argument('--discover', action='store_true',
@@ -753,6 +846,8 @@ async def main():
                         help='Show browser window (disables headless)')
     parser.add_argument('--force', action='store_true',
                         help='Force rediscovery even if cache exists')
+    parser.add_argument('--skip-existing', action='store_true',
+                        help='Only download missing files, skip existing ones')
 
     args = parser.parse_args()
 
@@ -790,12 +885,18 @@ async def main():
         print("\n📍 DISCOVERY PHASE")
         print("-" * 60)
 
+        # For discovery, we need explicit congress numbers
+        congresses_to_discover = args.congress
+        if congresses_to_discover is None:
+            congresses_to_discover = [19]  # Default to congress 19 for discovery
+            print("  📌 No congress specified, defaulting to Congress 19")
+
         headless = args.headless and not args.show_browser
         discovery = BillDiscovery(headless=headless)
         discovery.setup_driver()
 
         try:
-            for congress in args.congress:
+            for congress in congresses_to_discover:
                 print(f"\n🏛️  Congress {congress}")
 
                 for bill_type in bill_types:
@@ -820,9 +921,32 @@ async def main():
         print("\n📥 FETCHING PHASE")
         print("-" * 60)
 
+        # If no congress specified, detect from cached metadata
+        congresses_to_fetch = args.congress
+        if congresses_to_fetch is None:
+            # Find all cached congress metadata files
+            available_congresses = []
+            for cache_file in metadata_dir.glob("bills_congress_*_*.json"):
+                match = re.match(r"bills_congress_(\d+)_\w+\.json", cache_file.name)
+                if match:
+                    congress_num = int(match.group(1))
+                    if congress_num not in available_congresses:
+                        available_congresses.append(congress_num)
+
+            if available_congresses:
+                congresses_to_fetch = sorted(available_congresses)
+                print(f"  📌 No congress specified, found cached data for congresses: {', '.join(map(str, congresses_to_fetch))}")
+            else:
+                print("  ⚠️  No cached congress data found. Run with --discover first.")
+                congresses_to_fetch = []
+
+        # Track all errors across congresses
+        all_errors = {}
+
         async with BillFetcher(base_dir=args.dir, workers=args.workers) as fetcher:
-            for congress in args.congress:
+            for congress in congresses_to_fetch:
                 print(f"\n🏛️  Congress {congress}")
+                congress_errors = {}
 
                 for bill_type in bill_types:
                     # Load bills from cache
@@ -831,8 +955,105 @@ async def main():
                         print(f"  ⚠️  No cached {bill_type} bills found. Run with --discover first.")
                         continue
 
+                    # Check for missing files if skip-existing is enabled
+                    if args.skip_existing:
+                        bills_to_fetch = get_missing_bills(metadata_dir, congress, bill_type, Path(args.dir))
+                        if not bills_to_fetch:
+                            print(f"  ✓ All {len(bills)} {bill_type} bills already exist")
+                            # Update index file even if all files exist
+                            update_index_file(Path(args.dir), congress, bill_type)
+                            continue
+                    else:
+                        bills_to_fetch = bills
+
                     # Fetch bill details
-                    await fetcher.fetch_bills_batch(congress, bill_type, bills)
+                    successful, failed, server_errors = await fetcher.fetch_bills_batch(congress, bill_type, bills_to_fetch)
+
+                    # Track errors for this congress
+                    if server_errors:
+                        congress_errors[bill_type] = server_errors
+
+                if congress_errors:
+                    all_errors[congress] = congress_errors
+
+        # Display comprehensive error report
+        if all_errors:
+            print("\n" + "=" * 60)
+            print("📋 ERROR REPORT - Bills with Senate Website Issues")
+            print("=" * 60)
+
+            total_errors = 0
+            for congress in sorted(all_errors.keys()):
+                congress_total = sum(len(errors) for errors in all_errors[congress].values())
+                total_errors += congress_total
+
+                print(f"\n🏛️  Congress {congress} ({congress_total} errors)")
+                print("-" * 40)
+
+                for bill_type in sorted(all_errors[congress].keys()):
+                    errors = all_errors[congress][bill_type]
+                    print(f"\n  {bill_type} Bills ({len(errors)} errors):")
+
+                    # Group consecutive bill numbers for compact display
+                    if errors:
+                        # Sort and extract numbers
+                        bill_nums = []
+                        for bill in sorted(errors):
+                            match = re.match(f"{bill_type}-(\\d+)", bill)
+                            if match:
+                                bill_nums.append(int(match.group(1)))
+
+                        # Group consecutive numbers
+                        if bill_nums:
+                            ranges = []
+                            start = bill_nums[0]
+                            end = bill_nums[0]
+
+                            for num in bill_nums[1:]:
+                                if num == end + 1:
+                                    end = num
+                                else:
+                                    if start == end:
+                                        ranges.append(f"{bill_type}-{str(start).zfill(5)}")
+                                    else:
+                                        ranges.append(f"{bill_type}-{str(start).zfill(5)} to {str(end).zfill(5)}")
+                                    start = num
+                                    end = num
+
+                            # Add the last range
+                            if start == end:
+                                ranges.append(f"{bill_type}-{str(start).zfill(5)}")
+                            else:
+                                ranges.append(f"{bill_type}-{str(start).zfill(5)} to {str(end).zfill(5)}")
+
+                            # Display ranges
+                            for i in range(0, len(ranges), 3):  # Show 3 per line
+                                batch = ranges[i:i+3]
+                                print(f"    {', '.join(batch)}")
+
+            print(f"\n{'=' * 60}")
+            print(f"Total bills with Senate website errors: {total_errors}")
+            print(f"These bills appear in search but have broken detail pages.")
+            print(f"This is a data issue on the Senate website, not a scraper problem.")
+            print(f"{'=' * 60}")
+
+            # Save error report to file
+            error_report_file = metadata_dir / "senate_website_errors.json"
+            error_report = {
+                "generated": datetime.now().isoformat(),
+                "total_errors": total_errors,
+                "errors_by_congress": {}
+            }
+
+            for congress, congress_errors in all_errors.items():
+                error_report["errors_by_congress"][str(congress)] = {
+                    bill_type: sorted(errors) for bill_type, errors in congress_errors.items()
+                }
+
+            with open(error_report_file, 'w', encoding='utf-8') as f:
+                json.dump(error_report, f, indent=2)
+
+            print(f"\n📄 Error report saved to: {error_report_file}")
 
     print("\n✅ All operations completed!")
 

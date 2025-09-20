@@ -73,6 +73,94 @@ deno task preview
 
 The server will be available at `http://localhost:8000`
 
+## Senate Bill Scraper
+
+The Senate bill scraper (`senate/main.py`) collects legislative data from the Philippine Senate website.
+
+### Prerequisites
+
+```bash
+cd senate/
+pip3 install selenium beautifulsoup4 aiohttp pyyaml toml
+```
+
+Also ensure you have Chrome/Chromium installed for Selenium.
+
+### Usage
+
+```bash
+# Discover and fetch all bills for congress 19
+python senate/main.py --congress 19
+
+# Only discover bill numbers (saves to metadata cache)
+python senate/main.py --congress 19 --discover
+
+# Only fetch bill details from cached metadata
+python senate/main.py --congress 19 --fetch
+
+# Fetch only missing files (skip existing ones)
+python senate/main.py --congress 16 17 --fetch --skip-existing
+
+# Extract metadata for all congresses (13-20)
+python senate/main.py --metadata
+
+# Fetch bills for multiple congresses
+python senate/main.py --congress 16 17 18 19 20 --fetch
+
+# Specify custom workers for concurrent fetching
+python senate/main.py --congress 19 --fetch --workers 30
+
+# Show browser window during discovery (debugging)
+python senate/main.py --congress 19 --discover --show-browser
+```
+
+### Command-line Options
+
+- `--congress`: Congress number(s) to scrape (e.g., 16 17 18 19 20)
+- `--type`: Type of bills to scrape (SBN, HBN, ALL)
+- `--discover`: Discover bill numbers and save to metadata cache
+- `--fetch`: Fetch bill details from cached metadata
+- `--skip-existing`: Only download missing files, skip existing ones
+- `--metadata`: Extract metadata (senators, committees, statuses)
+- `--workers`: Number of concurrent workers for fetching (default: 20)
+- `--dir`: Base directory for output (default: current directory)
+- `--metadata-dir`: Directory for metadata and cache files (default: metadata)
+- `--show-browser`: Show browser window during discovery
+- `--force`: Force rediscovery even if cache exists
+
+### Output Structure
+
+```
+senate/
+├── congress/           # Bill data organized by congress
+│   ├── 16/
+│   │   ├── SBN/       # Senate bills
+│   │   │   ├── SBN-00001.toml
+│   │   │   ├── SBN-00002.toml
+│   │   │   └── index.yml
+│   │   └── HBN/       # House bills
+│   └── 17/
+└── metadata/          # Metadata and cache files
+    ├── congress_16.json
+    ├── bills_congress_16_SBN.json
+    └── bills_congress_16_HBN.json
+```
+
+### Recovery from Errors
+
+If the scraper encounters timeouts or connection errors:
+
+```bash
+# Use --skip-existing to only download missing files
+python senate/main.py --congress 16 17 --fetch --skip-existing
+```
+
+This will:
+- Check metadata JSON files for expected bills
+- Scan congress directories for existing TOML files
+- Only download missing files
+- Update index.yml with all existing bills
+
 ## Available Deno Tasks
 
 | Task             | Command                    | Description                                     |
@@ -329,6 +417,10 @@ The following indexes are created for optimal query performance:
 ├── psa/                  # Philippine Statistics Authority data
 │   ├── parse_psgc.py     # PSGC data parser
 │   └── requirements.txt  # Python dependencies
+├── senate/               # Senate bills data and scraper
+│   ├── main.py          # Senate bill scraper
+│   ├── congress/        # Bill data organized by congress
+│   └── metadata/        # Bill metadata and cache files
 ├── tasks/                # Deno task scripts
 │   └── import_psgc_data_to_neo4j.ts
 ├── src/                  # Shared libraries
@@ -347,6 +439,7 @@ The following indexes are created for optimal query performance:
   (PSGC)
 - **PHLPost:** ZIP codes
 - **FOI (Freedom of Information):** Government data
+- **Senate of the Philippines:** Legislative bills and resolutions
 
 ## Deployment
 
