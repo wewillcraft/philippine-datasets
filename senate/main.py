@@ -295,62 +295,62 @@ class BillFetcher:
             if title_elem:
                 bill_data['title'] = self.clean_text(title_elem.get_text())
 
-            # Extract long title
-            long_title_elem = soup.find('span', text=re.compile('Long Title:'))
-            if long_title_elem and long_title_elem.next_sibling:
-                long_title = self.clean_text(str(long_title_elem.next_sibling))
-                if long_title and long_title != bill_data.get('title'):
-                    bill_data['longTitle'] = long_title
+            # Extract author from "Filed on" text
+            content_td = soup.find('td', id='content')
+            if content_td:
+                filed_text = content_td.get_text()
+                filed_match = re.search(r'Filed on ([^\n]+) by ([^\n]+)', filed_text)
+                if filed_match:
+                    bill_data['filedDate'] = filed_match.group(1).strip()
+                    bill_data['author'] = filed_match.group(2).strip()
 
-            # Extract scope
-            scope_elem = soup.find('span', text=re.compile('Scope:'))
-            if scope_elem and scope_elem.next_sibling:
-                bill_data['scope'] = self.clean_text(str(scope_elem.next_sibling))
+            # Extract data from p/blockquote pairs
+            paragraphs = soup.find_all('p')
+            for p in paragraphs:
+                p_text = self.clean_text(p.get_text()).lower()
+                next_elem = p.find_next_sibling('blockquote')
+                if next_elem:
+                    content = self.clean_text(next_elem.get_text())
 
-            # Extract subject(s)
-            subject_elem = soup.find('span', text=re.compile('Subject\\(s\\):'))
-            if subject_elem and subject_elem.next_sibling:
-                subjects = self.clean_text(str(subject_elem.next_sibling))
-                if subjects:
-                    bill_data['subject'] = [s.strip() for s in subjects.split(';')]
+                    if 'long title' in p_text and content:
+                        bill_data['longTitle'] = content
+                    elif 'scope' in p_text and content:
+                        bill_data['scope'] = content
+                    elif 'subject' in p_text:
+                        # Handle multiple subjects separated by <br> tags
+                        # Get the raw HTML to preserve br tags
+                        subjects = []
+                        for br in next_elem.find_all('br'):
+                            br.replace_with('|||')  # Replace br with delimiter
+                        content = self.clean_text(next_elem.get_text())
+                        if '|||' in content:
+                            # Split by our delimiter
+                            subjects = [s.strip() for s in content.split('|||') if s.strip()]
+                        elif ';' in content or '/' in content:
+                            # Fallback to semicolon or slash separation
+                            subjects = re.split(r'[;/]', content)
+                            subjects = [s.strip() for s in subjects if s.strip()]
+                        else:
+                            # Single subject
+                            subjects = [content.strip()] if content.strip() else []
 
-            # Extract status
-            status_elem = soup.find('span', text=re.compile('Status:'))
-            if status_elem and status_elem.next_sibling:
-                status_text = self.clean_text(str(status_elem.next_sibling))
-                bill_data['status'] = {
-                    'status': status_text,
-                    'statusCode': ''
-                }
-
-            # Extract committee info with proper structure
-            committee_elem = soup.find('span', text=re.compile('Committee:'))
-            if committee_elem and committee_elem.next_sibling:
-                committees_text = self.clean_text(str(committee_elem.next_sibling))
-                if committees_text:
-                    # Parse committee text - may contain codes and names
-                    committees = []
-                    for comm_text in committees_text.split(';'):
-                        comm_text = comm_text.strip()
-                        if comm_text:
-                            # Try to extract code if present (e.g., "FINAN - Finance")
-                            code_match = re.match(r'([A-Z]+)\s*-\s*(.+)', comm_text)
-                            if code_match:
-                                committees.append({
-                                    'code': code_match.group(1),
-                                    'name': code_match.group(2).strip()
-                                })
-                            else:
-                                committees.append({
-                                    'code': '',
-                                    'name': comm_text
-                                })
-
-                    if committees:
-                        bill_data['primaryCommittee'] = committees[0]
-                        if len(committees) > 1:
-                            bill_data['secondaryCommittees'] = committees[1:]
-                        bill_data['committees'] = committees
+                        if subjects:
+                            bill_data['subject'] = subjects
+                    elif 'legislative status' in p_text and content:
+                        # Extract status and date
+                        status_match = re.match(r'(.+?)\s*\((\d+/\d+/\d+)\)', content)
+                        if status_match:
+                            bill_data['status'] = {
+                                'status': status_match.group(1).strip(),
+                                'date': status_match.group(2).strip()
+                            }
+                        else:
+                            bill_data['status'] = {'status': content}
+                    elif 'primary committee' in p_text and content:
+                        bill_data['committee'] = {
+                            'name': content,
+                            'type': 'primary'
+                        }
 
             # Extract abstract
             abstract_elem = soup.find('div', {'class': 'lis_billabstract'})
@@ -362,27 +362,17 @@ class BillFetcher:
             if history:
                 bill_data['legislativeHistory'] = history
 
-                # Extract filed date and author from first history entry
+                # Extract additional info from history (e.g., co-authors)
                 for entry in history:
                     action = entry.get('action', '')
-                    if 'Filed by' in action:
-                        # Extract author
-                        match = re.search(r'Filed by (.+)', action)
+                    # Check for introduced by senator (alternative author extraction)
+                    if 'Introduced by Senator' in action and 'author' not in bill_data:
+                        match = re.search(r'Introduced by Senator (.+?)(?:;|$)', action)
                         if match:
-                            author_name = match.group(1).strip()
-                            bill_data['principalAuthor'] = {
-                                'name': author_name,
-                                'code': ''
-                            }
-                        # Use date from this entry
-                        if 'date' in entry:
-                            bill_data['dateFiled'] = entry['date']
-                        break
-
-                # Extract co-authors
-                for entry in history:
-                    if 'Co-Authors:' in entry.get('action', ''):
-                        match = re.search(r'Co-Authors?:\s*(.+)', entry['action'])
+                            bill_data['author'] = match.group(1).strip()
+                    # Extract co-authors
+                    if 'Co-Author' in action:
+                        match = re.search(r'Co-Authors?:\s*(.+)', action)
                         if match:
                             coauthors = match.group(1).strip()
                             bill_data['coAuthors'] = [a.strip() for a in coauthors.split(',')]
@@ -392,13 +382,28 @@ class BillFetcher:
             if related:
                 bill_data.update(related)
 
-            # Extract PDF URL
-            pdf_link = soup.find('a', href=re.compile(r'\.pdf$', re.I))
-            if pdf_link:
-                pdf_url = pdf_link.get('href')
-                if not pdf_url.startswith('http'):
-                    pdf_url = f"https://web.senate.gov.ph{pdf_url}"
-                bill_data['pdfUrl'] = pdf_url
+            # Extract PDF URL from download section
+            download_div = soup.find('div', id='lis_download')
+            if download_div:
+                pdf_links = download_div.find_all('a', href=re.compile(r'\.pdf', re.I))
+                if pdf_links:
+                    pdf_url = pdf_links[0].get('href')
+                    if not pdf_url.startswith('http'):
+                        pdf_url = f"https://web.senate.gov.ph{pdf_url}"
+                    bill_data['pdfUrl'] = pdf_url
+
+                    # Get PDF info (filename, date, size)
+                    pdf_text = pdf_links[0].get_text(strip=True)
+                    if pdf_text:
+                        bill_data['pdfFileName'] = pdf_text
+            else:
+                # Fallback: look for any PDF link
+                pdf_link = soup.find('a', href=re.compile(r'\.pdf$', re.I))
+                if pdf_link:
+                    pdf_url = pdf_link.get('href')
+                    if not pdf_url.startswith('http'):
+                        pdf_url = f"https://web.senate.gov.ph{pdf_url}"
+                    bill_data['pdfUrl'] = pdf_url
 
             return bill_data
 
@@ -446,38 +451,40 @@ class BillFetcher:
         """Extract legislative history from bill page."""
         history = []
 
-        # Look for Legislative History table
-        history_section = None
+        # Look for Legislative History in blockquote with table
+        for p in soup.find_all('p'):
+            if 'legislative history' in p.get_text().lower():
+                blockquote = p.find_next_sibling('blockquote')
+                if blockquote:
+                    table = blockquote.find('table', id='lis_table')
+                    if table:
+                        rows = table.find_all('tr')
+                        for row in rows:
+                            cells = row.find_all('td')
 
-        # Try to find the section with "Legislative History" header
-        for header in soup.find_all(['h3', 'h4', 'span'], text=re.compile('Legislative History')):
-            # Find the next table after this header
-            next_sibling = header.find_next_sibling('table')
-            if next_sibling:
-                history_section = next_sibling
-                break
+                            # Handle different row types
+                            if len(cells) == 2:
+                                # Date and action row
+                                date_text = self.clean_text(cells[0].get_text())
+                                action_text = self.clean_text(cells[1].get_text())
 
-        # Alternative: look for table that contains legislative history
-        if not history_section:
-            for table in soup.find_all('table'):
-                if 'Legislative History' in str(table) or 'Date' in str(table) and 'Action' in str(table):
-                    history_section = table
-                    break
-
-        if history_section:
-            rows = history_section.find_all('tr')
-            for row in rows:
-                cells = row.find_all('td')
-                if len(cells) >= 2:
-                    date_text = self.clean_text(cells[0].get_text())
-                    action_text = self.clean_text(cells[1].get_text())
-
-                    # Skip header row
-                    if date_text and action_text and date_text != 'Date':
-                        history.append({
-                            'date': date_text,
-                            'action': action_text
-                        })
+                                # Check if it's actually a date row (has date format)
+                                if re.match(r'\d+/\d+/\d+', date_text):
+                                    history.append({
+                                        'date': date_text,
+                                        'action': action_text
+                                    })
+                            elif len(cells) == 1 and cells[0].get('colspan') == '2':
+                                # Full width row (like "Entitled:" or session info)
+                                text = self.clean_text(cells[0].get_text())
+                                if text and not text.startswith('['):
+                                    # Add as special entry without date
+                                    if 'Entitled:' in text:
+                                        history.append({
+                                            'date': '',
+                                            'action': text
+                                        })
+                        break
 
         return history
 
@@ -486,7 +493,7 @@ class BillFetcher:
         related = {}
 
         # Look for consolidated bills
-        consolidated_elem = soup.find('span', text=re.compile('Consolidated.*with'))
+        consolidated_elem = soup.find('span', string=re.compile('Consolidated.*with'))
         if consolidated_elem:
             text = self.clean_text(consolidated_elem.get_text())
             match = re.findall(r'[SH]BN-\d+', text)
@@ -494,7 +501,7 @@ class BillFetcher:
                 related['consolidatedWith'] = match
 
         # Look for substitute bills
-        substitute_elem = soup.find('span', text=re.compile('In substitution'))
+        substitute_elem = soup.find('span', string=re.compile('In substitution'))
         if substitute_elem:
             text = self.clean_text(substitute_elem.get_text())
             match = re.findall(r'[SH]BN-\d+', text)
@@ -502,7 +509,7 @@ class BillFetcher:
                 related['substituteFor'] = match
 
         # Look for related bills section
-        related_section = soup.find('span', text=re.compile('Related.*Bill'))
+        related_section = soup.find('span', string=re.compile('Related.*Bill'))
         if related_section:
             text = self.clean_text(related_section.get_text())
             match = re.findall(r'[SH]BN-\d+', text)
