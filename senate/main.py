@@ -568,7 +568,7 @@ class BillFetcher:
                 'congress': congress,
                 'type': bill_type,
                 'count': len(bills_data),
-                'bills': [b['id'] for b in bills_data],
+                'bills': [b['billNumber'] for b in bills_data if 'billNumber' in b],
                 'generated': datetime.now().isoformat()
             }
 
