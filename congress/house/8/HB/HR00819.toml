@@ -1,0 +1,42 @@
+billNumber = "HR00819"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00819"
+lastScraped = "2025-09-22T00:47:02.687346"
+title = "HR00819"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON PUBLIC INFORMATION AND THE COMMITTEE ON APPROPRIATIONS TO STUDY THE BUDGET PROPOSAL OF THE BUREAU OF BROADCAST THAT CALLS FOR SHORTWAVE BROADCASTING TO FILIPINO ABROAD"
+scope = "National"
+dateFiled = "1988-08-02"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1988-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1988-08-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170700
+congress = 8
+bill_no = "HR00819"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1988-08-08"

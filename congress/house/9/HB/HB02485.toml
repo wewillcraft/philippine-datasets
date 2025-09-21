@@ -1,0 +1,47 @@
+billNumber = "HB02485"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02485"
+lastScraped = "2025-09-22T00:25:55.039704"
+title = "HB02485"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FOOD TERMINAL IN THE MUNICIPALITY OF MANDAON, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121104
+congress = 9
+bill_no = "HB02485"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-09-21"

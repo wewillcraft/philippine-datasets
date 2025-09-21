@@ -1,0 +1,42 @@
+billNumber = "HB01790"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01790"
+lastScraped = "2025-09-22T00:46:56.875229"
+title = "HB01790"
+longTitle = "AN ACT AMENDING ARTICLE 2180 OF THE CIVIL CODE OFTHE PHILIPPINES"
+scope = "National"
+dateFiled = "1987-09-22"
+status = "Pending with the Committee on REVISION OF LAWS since 1987-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "531"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 136481
+congress = 8
+bill_no = "HB01790"
+referral = "531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1987-09-24"

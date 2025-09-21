@@ -1,0 +1,54 @@
+billNumber = "HR00932"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00932"
+lastScraped = "2025-09-22T00:25:57.538835"
+title = "HR00932"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF MRS. AURORA FABIAN SERAPIO, WIFE OF THE HONORABLE ANTONIO M. SERAPIO, REPRESENTATIVE FROM THE LONE DISTRICT OF VALENZUELA, METRO MANILA"
+scope = "Local"
+dateFiled = "1994-02-10"
+status = "Adopted as Resolution No. HR00067 on 1994-02-10"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Ronaldo B."
+[[authorsDetail]]
+name = "Zamora, Ronaldo B."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-02-10"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 134239
+congress = 9
+bill_no = "HR00932"
+comm_act = "Not referred to any committee, adopted directly on the floor"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-02-10"
+
+[secondReading]
+id = 20159
+congress = 9
+bill_no = "HR00932"
+adopted_resolution = "HR00067"
+date_approved = "1994-02-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00932.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00932.pdf"

@@ -1,0 +1,49 @@
+billNumber = "HR01379"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01379"
+lastScraped = "2025-09-22T00:20:59.689937"
+title = "HR01379"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON SCIENCE AND TECHNOLOGY TO INVESTIGATE, IN AID OF LEGISLATION, THE INACCURACIES AND INSUFFICIENCIES IN THE PREDICTION OF WEATHER CONDITION BY PAGASA FOR THE PURPOSE OF DETERMINING WAYS AND MEANS OF IMPROVING WEATHER PREDICTION IN THE COUNTRY"
+scope = "National"
+dateFiled = "1997-10-01"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118433
+congress = 10
+bill_no = "HR01379"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1997-10-06"

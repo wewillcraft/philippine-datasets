@@ -1,0 +1,47 @@
+billNumber = "HB03181"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03181"
+lastScraped = "2025-09-22T00:25:55.159344"
+title = "HB03181"
+longTitle = "AN ACT ESTABLISHING A PORT IN BARANGAY BASIAO IN THE MUNICIPALITY OF IVISAN, PROVINCE OF CAPIZ, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-30"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-10-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121800
+congress = 9
+bill_no = "HB03181"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-10-06"

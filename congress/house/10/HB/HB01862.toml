@@ -1,0 +1,54 @@
+billNumber = "HB01862"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01862"
+lastScraped = "2025-09-22T00:20:57.694921"
+title = "HB01862"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF THE NOVALICHES DISTRICT HOSPITAL IN THE SECOND DISTRICT OF QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108283
+congress = 10
+bill_no = "HB01862"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-09"

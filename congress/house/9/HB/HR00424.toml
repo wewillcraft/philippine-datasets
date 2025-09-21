@@ -1,0 +1,42 @@
+billNumber = "HR00424"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00424"
+lastScraped = "2025-09-22T00:25:57.443112"
+title = "HR00424"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO LOOK INTO THE USE OF PROHIBITED DRUGS AMONG CERTAIN POLICE PERSONNEL AND TO PROPOSE REMEDIAL MEASURES THERETO"
+scope = "National"
+dateFiled = "1993-01-13"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1993-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 133736
+congress = 9
+bill_no = "HR00424"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1993-01-19"

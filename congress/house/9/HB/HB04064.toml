@@ -1,0 +1,47 @@
+billNumber = "HB04064"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04064"
+lastScraped = "2025-09-22T00:25:55.368037"
+title = "HB04064"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN ANIMAL BREEDING AND LIVESTOCK FARM IN THE MUNICIPALITY OF TANDAG, PROVINCE OF SURIGAO DEL SUR"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-10-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122683
+congress = 9
+bill_no = "HB04064"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-10-27"

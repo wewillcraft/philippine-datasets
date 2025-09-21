@@ -1,0 +1,59 @@
+billNumber = "HB04033"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04033"
+lastScraped = "2025-09-22T00:20:58.119905"
+title = "HB04033"
+longTitle = "AN ACT ESTABLISHING PUBLIC RECREATIONAL PARKS IN MAJOR URBAN AREAS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-28"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "CRUZ-DUCUT, ZENAIDA",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 110454
+congress = 10
+bill_no = "HB04033"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-10-03"

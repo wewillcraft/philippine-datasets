@@ -1,0 +1,42 @@
+billNumber = "HB03537"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03537"
+lastScraped = "2025-09-22T00:46:57.186135"
+title = "HB03537"
+longTitle = "AN ACT CREATING THE PHILIPPINE RUBBER AUTHORITY"
+scope = "National"
+dateFiled = "1987-11-11"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1987-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1987-11-13"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 138224
+congress = 8
+bill_no = "HB03537"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1987-11-13"

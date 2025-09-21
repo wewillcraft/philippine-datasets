@@ -1,0 +1,41 @@
+billNumber = "HR01188"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01188"
+lastScraped = "2025-09-22T00:20:59.653944"
+title = "HR01188"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON NATIONAL DEFENSE AND FOREIGN AFFAIRS OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED INTRUSION OF A MALAYSIAN NAVY VESSEL INTO PHILIPPINE TERRITORY AND THE ABDUCTION OF SEVEN FILIPINOS FROM PALAWAN BY MALAYSIANS, WITH THE END IN VIEW OF RECOMMENDING MEASURES THAT WILL PROTECT FILIPINO CITIZENS AS WELL AS SAFEGUARD THE TERRITORIAL INTEGRITY OF THE COUNTRY"
+scope = "Local"
+dateFiled = "1997-04-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 118242
+congress = 10
+bill_no = "HR01188"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-05-05"

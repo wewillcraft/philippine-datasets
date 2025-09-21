@@ -1,0 +1,55 @@
+billNumber = "HB00064"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00064"
+lastScraped = "2025-09-22T00:12:59.804286"
+title = "HB00064"
+longTitle = "AN ACT ESTABLISHING A MAT WEAVING CENTER IN THE PROVINCE OF TAWI-TAWI AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jaafar"
+coAuthors = [ "ZIALCITA, EDUARDO C.",]
+[[authorsDetail]]
+name = "Jaafar"
+nameCode = "Jaafar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83224
+congress = 12
+bill_no = "HB00064"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "2001-07-24"

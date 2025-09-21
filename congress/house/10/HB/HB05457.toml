@@ -1,0 +1,46 @@
+billNumber = "HB05457"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05457"
+lastScraped = "2025-09-22T00:20:58.378837"
+title = "HB05457"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN ARIPDIP ELEMENTARY SCHOOL, BARANGAY ARIPDIP, MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-12-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-12-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111878
+congress = 10
+bill_no = "HB05457"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-12-12"

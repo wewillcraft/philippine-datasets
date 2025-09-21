@@ -1,0 +1,42 @@
+billNumber = "HR01692"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01692"
+lastScraped = "2025-09-22T00:47:02.868460"
+title = "HR01692"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO LOOK INTO THE POSSIBILITY OF OPENING DIPLOMATIC TIES WITH TAIWAN"
+scope = "National"
+dateFiled = "1990-03-07"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1990-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1990-03-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171534
+congress = 8
+bill_no = "HR01692"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1990-03-07"

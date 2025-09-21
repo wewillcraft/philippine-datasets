@@ -1,0 +1,47 @@
+billNumber = "HR01013"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01013"
+lastScraped = "2025-09-21T23:55:46.426441"
+title = "HR01013"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE CURRENT RICE SUPPLY AND STOCK IN THE COUNTRY"
+scope = "National"
+dateFiled = "2017-05-22"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2017-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01013.pdf"
+fileSize = 271833
+author = "Bravo, Anthony M., Ph.D."
+[[authorsDetail]]
+name = "Bravo, Anthony M., Ph.D."
+nameCode = "Bravo (A.)"
+date = "2017-05-22"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2017-05-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43755
+congress = 17
+bill_no = "HR01013"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-05-31"
+date_read = "2017-05-24"

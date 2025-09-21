@@ -1,0 +1,42 @@
+billNumber = "HR00023"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00023"
+lastScraped = "2025-09-22T00:47:02.527338"
+title = "HR00023"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INQUIRY INTO THE OPERATIONS AND FINANCES OF THE LIGHT RAIL TRANSIT AUTHORITY (LRT)IN VIEW OF ITS REPORTED LOSSES FOR 1984, 1985, 1986 AND PROJECTED LOSS FOR THIS YEAR, TO PROTECT GOVERNMENT INVESTMENT, THE RIDING PUBLIC AS WELL AS ITS EMPLOYEES AND TO RECOMMEND SUCH MEASURES AS MAY BE NECESSARY TO PREVENT FURTHER LOSSES AND IMPROVE SERVICE"
+scope = "Local"
+dateFiled = "1987-07-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 169933
+congress = 8
+bill_no = "HR00023"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-07-30"

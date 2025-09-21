@@ -1,0 +1,41 @@
+billNumber = "HB01445"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01445"
+lastScraped = "2025-09-22T00:20:57.623100"
+title = "HB01445"
+longTitle = "AN ACT REPEALING REPUBLIC ACT NUMBERED SEVEN THOUSAND FIVE HUNDRED SEVENTY-EIGHT"
+scope = "Local"
+dateFiled = "1995-07-28"
+status = "Pending with the Committee on LEGISLATIVE FRANCHISES since 1995-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 107866
+congress = 10
+bill_no = "HB01445"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+date_read = "1995-08-02"

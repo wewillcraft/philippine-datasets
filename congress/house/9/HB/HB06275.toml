@@ -1,0 +1,47 @@
+billNumber = "HB06275"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06275"
+lastScraped = "2025-09-22T00:25:55.763740"
+title = "HB06275"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A HEALTH CENTER IN EACH BARANGAY OF THE SECOND CONGRESSIONAL DISTRICT OF SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-11"
+status = "Pending with the Committee on HEALTH since 1993-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124894
+congress = 9
+bill_no = "HB06275"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-01-19"

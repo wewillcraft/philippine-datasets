@@ -1,0 +1,46 @@
+billNumber = "HB08936"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08936"
+lastScraped = "2025-09-22T00:20:59.066410"
+title = "HB08936"
+longTitle = "AN ACT CONVERTING THE AGUSAN DEL NORTE PROVINCIAL HOSPITAL IN BUTUAN CITY, INTO CARAGA REGIONAL MEDICAL CENTER"
+scope = "Local"
+dateFiled = "1997-02-12"
+status = "Pending with the Committee on HEALTH since 1997-02-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-02-17"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115357
+congress = 10
+bill_no = "HB08936"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-02-17"

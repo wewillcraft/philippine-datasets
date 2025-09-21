@@ -1,0 +1,47 @@
+billNumber = "HB01345"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01345"
+lastScraped = "2025-09-22T00:25:54.836428"
+title = "HB01345"
+longTitle = "AN ACT CONVERTING THE BANAUE RURAL HEALTH CENTER INTO A TEN-BED CAPACITY HOSPITAL"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "Pending with the Committee on HEALTH since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119964
+congress = 9
+bill_no = "HB01345"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-26"

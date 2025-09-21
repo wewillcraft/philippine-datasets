@@ -1,0 +1,42 @@
+billNumber = "HR01382"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01382"
+lastScraped = "2025-09-22T00:47:02.800955"
+title = "HR01382"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE SHORTAGE AND UNDUE INCREASE IN PRICE OF CEMENT AND TO RECOMMEND REMEDIAL MEASURES AS MAY BE NECESSARY"
+scope = "National"
+dateFiled = "1989-07-31"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1989-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1989-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171248
+congress = 8
+bill_no = "HR01382"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1989-07-31"

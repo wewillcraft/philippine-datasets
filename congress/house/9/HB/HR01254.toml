@@ -1,0 +1,42 @@
+billNumber = "HR01254"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01254"
+lastScraped = "2025-09-22T00:25:57.600292"
+title = "HR01254"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO UTILIZE THE CONSOLID SYSTEM IN ITS ROAD CONSTRUCTION PROJECTS"
+scope = "National"
+dateFiled = "1994-10-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1994-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1994-10-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134560
+congress = 9
+bill_no = "HR01254"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1994-10-17"

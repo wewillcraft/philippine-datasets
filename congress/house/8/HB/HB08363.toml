@@ -1,0 +1,75 @@
+billNumber = "HB08363"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08363"
+lastScraped = "2025-09-22T00:46:58.082052"
+title = "HB08363"
+longTitle = "AN ACT REVISING THE VETERINARY MEDICINE AND SURGERY ACT"
+scope = "National"
+dateFiled = "1988-04-27"
+status = "Approved by the House on 1989-08-08 and transmitted to the Senate on 1989-08-08"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson"
+coAuthors = [ "ESCUDERO, SALVADOR III H.",]
+[[authorsDetail]]
+name = "Lacson"
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, SALVADOR III H."
+nameCode = "Escudero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1988-05-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 143041
+congress = 8
+bill_no = "HB08363"
+report = "00560"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = "CIVIL SERVICE"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1988-05-03"
+date_ob = "1989-06-01"
+date_cal = "1989-06-01"
+date_unass = "1989-06-01"
+date_report = "1989-05-17"
+
+[secondReading]
+id = 20699
+congress = 8
+bill_no = "HB08363"
+date_calendared = "1989-06-01"
+date_approved = "1989-07-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 474
+congress = 8
+bill_no = "HB08363"
+date_adopt = "1989-08-08"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-08-08"

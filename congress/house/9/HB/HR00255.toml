@@ -1,0 +1,42 @@
+billNumber = "HR00255"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00255"
+lastScraped = "2025-09-22T00:25:57.412792"
+title = "HR00255"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND CURRENCIES TO STUDY, IN AID OF LEGISLATION, THE OVERHAUL OF THE CENTRAL BANK"
+scope = "National"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133567
+congress = 9
+bill_no = "HR00255"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "1992-10-15"

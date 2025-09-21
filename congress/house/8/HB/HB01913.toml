@@ -1,0 +1,42 @@
+billNumber = "HB01913"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01913"
+lastScraped = "2025-09-22T00:46:56.897705"
+title = "HB01913"
+longTitle = "AN ACT REQUIRING ALL EXISTING MINING AND INDUSTRIAL ESTABLISHMENTS IN THE PROVINCE OF SAMAR TO ESTABLISH ANTI-POLLUTION AND PROPER WASTE DISPOSAL MECHANISMS THEREABOUT"
+scope = "Local"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on HEALTH since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garduce"
+[[authorsDetail]]
+name = "Garduce"
+nameCode = "Garduce"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 136603
+congress = 8
+bill_no = "HB01913"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-29"

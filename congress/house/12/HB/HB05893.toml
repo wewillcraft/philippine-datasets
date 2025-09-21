@@ -1,0 +1,75 @@
+billNumber = "HB05893"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05893"
+lastScraped = "2025-09-22T00:13:00.931770"
+title = "Creating the Municipality of Malandag in Sarangani"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF MALANDAG IN THE PROVINCE OF SARANGANI"
+scope = "Local"
+dateFiled = "2003-03-27"
+status = "Approved by the House on 2003-05-26, transmitted to on 2003-06-02 and received by the Senate on 2003-06-03"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chiongbian, Erwin L."
+[[authorsDetail]]
+name = "Chiongbian, Erwin L."
+nameCode = "Chiongbian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-04-23"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[motherBills]]
+bill_no = "HB03754"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03754"
+flag = "S"
+
+[firstReading]
+id = 89047
+congress = 12
+bill_no = "HB05893"
+report = "01370"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+date_read = "2003-04-23"
+date_ob = "2003-04-23"
+date_report = "2003-03-27"
+
+[secondReading]
+id = 14827
+congress = 12
+bill_no = "HB05893"
+remarks = "The Body approved to insert the Explanatory Note of the Bill as the   sponsorship remarks; terminated the period of sponsorship and debate  and approved any amendments as contained in the Committee Report."
+date_approved = "2003-05-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5338
+congress = 12
+bill_no = "HB05893"
+date_dist = "2003-05-14"
+date_adopt = "2003-05-26"
+no_yeas = 148
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-06-02"
+date_rec = "2003-06-03"

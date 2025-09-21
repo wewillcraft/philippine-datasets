@@ -1,0 +1,96 @@
+billNumber = "HR01032"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01032"
+lastScraped = "2025-09-22T00:20:59.620486"
+title = "HR01032"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SPECIAL SESSION TODAY, 23 DECEMBER 1996, AS HAVING BEEN READ AND APPROVED"
+scope = "Local"
+dateFiled = "1996-12-23"
+status = "Adopted as Resolution No. HR00092 on 1996-12-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "DIAZ, ANTONIO M.", "DAMASING, ERASMO B.", "MONFORT, NARCISO D.", "CHIPECO, JOAQUIN JR. M.", "ESPINA, GERARDO S.", "LAGMAN, EDCEL C.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DIAZ, ANTONIO M."
+nameCode = "Diaz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DAMASING, ERASMO B."
+nameCode = "Damasing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAGMAN, EDCEL C."
+nameCode = "Lagman"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118086
+congress = 10
+bill_no = "HR01032"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-23"
+
+[secondReading]
+id = 19018
+congress = 10
+bill_no = "HR01032"
+adopted_resolution = "HR00092"
+date_calendared = "1996-12-23"
+date_approved = "1996-12-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00092.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00092.pdf"

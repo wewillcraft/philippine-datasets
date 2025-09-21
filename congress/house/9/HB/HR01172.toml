@@ -1,0 +1,42 @@
+billNumber = "HR01172"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01172"
+lastScraped = "2025-09-22T00:25:57.581969"
+title = "HR01172"
+longTitle = "RESOLUTION COMMENDING SENATOR ERNESTO M. MACEDA FOR A JOB WELL DONE IN SUCCESSFULLY PETITIONING THE ENERGY REGULATORY BOARD FOR AN OIL PRICE ROLLBACK"
+scope = "Local"
+dateFiled = "1994-08-15"
+status = "Pending with the Committee on ENERGY since 1994-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chavez"
+[[authorsDetail]]
+name = "Chavez"
+nameCode = "Chavez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-08-18"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 134478
+congress = 9
+bill_no = "HR01172"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-08-18"

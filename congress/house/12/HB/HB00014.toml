@@ -1,0 +1,71 @@
+billNumber = "HB00014"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00014"
+lastScraped = "2025-09-22T00:12:59.786374"
+title = "HB00014"
+longTitle = "AN ACT PROHIBITING THE ESTABLISHMENT OF POLITICAL DYNASTIES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+coAuthors = [ "LOPEZ, JAIME C.", "CELESTE, ARTHUR F.", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LOPEZ, JAIME C."
+nameCode = "Lopez"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CELESTE, ARTHUR F."
+nameCode = "Celeste"
+date = ""
+journalNo = "J052"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 83174
+congress = 12
+bill_no = "HB00014"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "2001-07-24"

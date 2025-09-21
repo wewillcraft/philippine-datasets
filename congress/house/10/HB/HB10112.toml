@@ -1,0 +1,46 @@
+billNumber = "HB10112"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10112"
+lastScraped = "2025-09-22T00:20:59.316490"
+title = "HB10112"
+longTitle = "AN ACT BANNING THE MANUFACTURE OF PLASTIC BAGS. PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-10-14"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 116533
+congress = 10
+bill_no = "HB10112"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-10-20"

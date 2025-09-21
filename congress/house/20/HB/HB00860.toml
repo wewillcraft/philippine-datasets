@@ -1,0 +1,61 @@
+billNumber = "HB00860"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00860"
+lastScraped = "2025-09-21T23:39:48.470635"
+title = "HB00860"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 11371 OR THE MURANG KURYENTE ACT TO FURTHER DECREASE THE PRICES OF ELECTRICITY IN THE COUNTRY"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on ENERGY since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00860.pdf"
+fileSize = 369092
+author = "DE JESUS, PRESLEY C."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "ANGELES, MARIA CRISTINA C.",]
+[[authorsDetail]]
+name = "DE JESUS, PRESLEY C."
+nameCode = "De Jesus"
+date = "2025-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ANGELES, MARIA CRISTINA C."
+nameCode = "Angeles"
+date = "2025-09-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 861
+congress = 103
+bill_no = "HB00860"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

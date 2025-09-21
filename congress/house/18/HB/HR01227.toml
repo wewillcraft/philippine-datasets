@@ -1,0 +1,47 @@
+billNumber = "HR01227"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01227"
+lastScraped = "2025-09-22T00:01:47.572864"
+title = "HR01227"
+longTitle = "A RESOLUTION DIRECTING THE DEPARTMENT OF HEALTH TO PREPARE A COMPREHENSIVE PLAN FOR THE DISTRIBUTION OF COVID-19 VACCINES TO EVERY FILIPINO\r\n\r\n"
+scope = "National"
+dateFiled = "2020-09-21"
+status = "Pending with the Committee on HEALTH since 2021-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01227.pdf"
+fileSize = 404588
+author = "Salvador-Tambunting, Joy Myra"
+[[authorsDetail]]
+name = "Salvador-Tambunting, Joy Myra"
+nameCode = "Salvador-Tambunting"
+date = "2020-09-21"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31546
+congress = 18
+bill_no = "HR01227"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-19"
+date_read = "2020-09-22"

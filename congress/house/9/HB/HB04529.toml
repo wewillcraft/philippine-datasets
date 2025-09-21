@@ -1,0 +1,64 @@
+billNumber = "HB04529"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04529"
+lastScraped = "2025-09-22T00:25:55.447560"
+title = "HB04529"
+longTitle = "AN ACT PROVIDING FOR A CODE OF ETHICS FOR THE MEMBERS OF CONGRESS"
+scope = "Local"
+dateFiled = "1992-11-05"
+status = "Pending with the Committee on ETHICS since 1992-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adasa"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEL MAR, RAUL V.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Adasa"
+nameCode = "Adasa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "0511"
+dateRead = "1992-11-11"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 123148
+congress = 9
+bill_no = "HB04529"
+referral = "0511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1992-11-11"

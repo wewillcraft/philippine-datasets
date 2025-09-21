@@ -1,0 +1,74 @@
+billNumber = "HR01354"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01354"
+lastScraped = "2025-09-22T00:25:57.618345"
+title = "HR01354"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED UNJUST RELIEF OF DR. GERARDO D. CUNANAN AS MEDICAL DIRECTOR OF THE DAVAO MEDICAL CENTER"
+scope = "Local"
+dateFiled = "1995-02-03"
+status = "Adopted as Resolution No. HR00114 on 1995-02-16"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario, Thelma Z."
+coAuthors = [ "GARCIA, MANUEL M.", "DEL ROSARIO, RODOLFO P.",]
+[[authorsDetail]]
+name = "Almario, Thelma Z."
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GARCIA, MANUEL M."
+nameCode = "Garcia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, RODOLFO P."
+nameCode = "Del Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-02-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134659
+congress = 9
+bill_no = "HR01354"
+report = "01186"
+comm_act = "Change of Referral from the Ctt. on Rules to the Ctte. on Health on Feb. 14, 1995"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "See page 3 of Ctte. Rpt."
+date_read = "1995-02-08"
+date_ob = "1995-02-16"
+date_cal = "1995-02-16"
+date_unass = "1995-02-16"
+date_report = "1995-02-16"
+
+[secondReading]
+id = 20202
+congress = 9
+bill_no = "HR01354"
+adopted_resolution = "HR00114"
+date_calendared = "1995-02-16"
+date_approved = "1995-02-16"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

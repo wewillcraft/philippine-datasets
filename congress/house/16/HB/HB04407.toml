@@ -1,0 +1,67 @@
+billNumber = "HB04407"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04407"
+lastScraped = "2025-09-21T23:56:22.294062"
+title = "HB04407"
+longTitle = "AN ACT AMENDING BATAS PAMBANSA BLG. 68 OR THE CORPORATION CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2014-05-13"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2015-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento, Mel Senen S."
+coAuthors = [ "RODRIGUEZ, RUFUS B.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Sarmiento, Mel Senen S."
+nameCode = "Sarmiento (M.)"
+date = "2014-05-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2014-05-13"
+journalNo = "J059"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2014-05-19"
+journalNo = "J060"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2014-05-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 50221
+congress = 16
+bill_no = "HB04407"
+report = ""
+comm_act = ""
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2015-03-10"
+date_read = "2014-05-20"

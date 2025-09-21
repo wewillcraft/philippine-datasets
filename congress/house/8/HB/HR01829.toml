@@ -1,0 +1,50 @@
+billNumber = "HR01829"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01829"
+lastScraped = "2025-09-22T00:47:02.890002"
+title = "HR01829"
+longTitle = "RESOLUTION TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE EXTENT OF DRUG TRAFFICKING ACTIVITIES IN THE COUNTRY TODAY IN THE WAKE OF THE RECENT ALLEGED SHOOTOUT IN MAKATI BETWEEN MILITARY AND POLICE OFFICERS"
+scope = "National"
+dateFiled = "1990-07-25"
+status = "Pending with the Committee on JUSTICE since 1990-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1990-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171666
+congress = 8
+bill_no = "HR01829"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1990-07-31"

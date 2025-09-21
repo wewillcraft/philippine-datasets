@@ -1,0 +1,51 @@
+billNumber = "HR01307"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01307"
+lastScraped = "2025-09-22T00:13:01.441160"
+title = "HR01307"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES, THROUGH THE COMMITTEES ON HEALTH AND POPULATION AND FAMILY RELATIONS, TO IMMEDIATELY REVIEW PROGRAMS AND POLICIES ON THE PROTECTION OF THE LIFE OF THE UNBORN AND THE EXISTING POPULATION PLANNING AND CONTROL PROGRAM BEING IMPLEMENTED BY THE GOVERNMENT"
+scope = "National"
+dateFiled = "2003-09-08"
+status = "Pending with the Committee on HEALTH since 2003-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = "Syjuco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2003-10-06"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "secondary"
+referralCode = "0512"
+
+[firstReading]
+id = 91240
+congress = 12
+bill_no = "HR01307"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2003-10-06"

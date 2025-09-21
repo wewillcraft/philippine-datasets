@@ -1,0 +1,46 @@
+billNumber = "HB08458"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08458"
+lastScraped = "2025-09-22T00:20:58.964790"
+title = "HB08458"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE ANTIPOLO MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ANTIPOLO, PROVINCE OF RIZAL, FROM TEN (10) TO THIRTY (30) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-11-19"
+status = "Pending with the Committee on HEALTH since 1996-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Duavit"
+[[authorsDetail]]
+name = "Duavit"
+nameCode = "Duavit"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-11-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114879
+congress = 10
+bill_no = "HB08458"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-11-21"

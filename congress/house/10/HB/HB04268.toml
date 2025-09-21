@@ -1,0 +1,49 @@
+billNumber = "HB04268"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04268"
+lastScraped = "2025-09-22T00:20:58.173133"
+title = "HB04268"
+longTitle = "AN ACT CREATING THE POSITION OF MUNICIPAL PROSECUTOR IN EVERY MUNICIPALITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-05"
+status = "Pending with the Committee on JUSTICE since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jalosjos, Romeo Jr. M."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Jalosjos, Romeo Jr. M."
+nameCode = "Jalosjos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 110689
+congress = 10
+bill_no = "HB04268"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-23"

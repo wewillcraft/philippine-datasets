@@ -1,0 +1,42 @@
+billNumber = "HB08570"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08570"
+lastScraped = "2025-09-22T00:46:58.115587"
+title = "HB08570"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY DITIKE, MUNICIPALITY OF SAN LUIS, PROVINCEOF AURORA, TO BE KNOWN AS THE DITIKE BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on HEALTH since 1988-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Miran"
+[[authorsDetail]]
+name = "Miran"
+nameCode = "Miran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-05"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 143247
+congress = 8
+bill_no = "HB08570"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-05"

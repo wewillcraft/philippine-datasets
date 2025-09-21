@@ -1,0 +1,91 @@
+billNumber = "HR01750"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01750"
+lastScraped = "2025-09-22T00:01:47.672632"
+title = "HR01750"
+longTitle = "RESOLUTION\r\nURGING THE DEPARTMENT OF AGRICULTURE, BUREAU OF FISHERIES AND AQUATIC RESOURCES, DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES, DEPARTMENT OF SCIENCE AND TECHNOLOGY, DEPARTMENT OF TRADE AND INDUSTRY, AND THE COOPERATIVE DEVELOPMENT AUTHORITY, TO CONSIDER SALT PRODUCERS AS PART OF THE FISHERFOLK SECTOR AND PROVIDE THEM THE SAME ASSISTANCE AND BENEFITS GIVEN TO FISHERFOLK\r\n"
+scope = "National"
+dateFiled = "2021-05-07"
+status = "Adopted as Resolution No. HR00171 on 2021-05-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Savellano, Deogracias Victor \"DV\" B."
+coAuthors = [ "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Savellano, Deogracias Victor \"DV\" B."
+nameCode = "Savellano"
+date = "2021-05-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2021-05-24"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "primary"
+referralCode = "E506"
+dateRead = "2021-05-17"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[motherBills]]
+bill_no = "HR01046"
+sequence = 1
+date = "2021-05-07"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01046"
+sequence = 1
+date = "2021-05-07"
+flag = "S"
+
+[firstReading]
+id = 32068
+congress = 18
+bill_no = "HR01750"
+report = "00936"
+comm_act = ""
+referral = "E506"
+ref_name = "AQUACULTURE AND FISHERIES RESOURCES"
+sub_name = "AQUACULTURE AND FISHERIES RESOURCES"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1046"
+remarks = ""
+file = "CR00936.pdf"
+date_read = "2021-05-17"
+date_ob = "2021-05-17"
+date_report = "2021-05-07"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00936.pdf"
+
+[secondReading]
+id = 2809
+congress = 18
+bill_no = "HR01750"
+adopted_resolution = "HR00171"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF AGRICULTURE, BUREAU OF FISHERIES AND AQUATIC RESOURCES, DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES, DEPARTMENT OF SCIENCE AND TECHNOLOGY, DEPARTMENT OF TRADE AND INDUSTRY, AND THE COOPERATIVE DEVELOPMENT AUTHORITY, TO CONSIDER SALT PRODUCERS AS PART OF THE FISHERFOLK SECTOR AND PROVIDE THEM THE SAME ASSISTANCE AND BENEFITS GIVEN TO FISHERFOLK"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2021-05-18"
+date_approved = "2021-05-25"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01750.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01750.pdf"

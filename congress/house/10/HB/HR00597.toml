@@ -1,0 +1,49 @@
+billNumber = "HR00597"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00597"
+lastScraped = "2025-09-22T00:20:59.534977"
+title = "HR00597"
+longTitle = "RESOLUTION REQUESTING CONGRESS TO GRANT FRANKING PRIVILEGE TO THE BOY SCOUTS OF THE PHILIPPINES AND THE GIRL SCOUTS OF THE PHILIPPINES FOR THE MAILING OF PHILIPPINE SCOUTING MAGAZINE"
+scope = "National"
+dateFiled = "1996-05-08"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-05-13"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117651
+congress = 10
+bill_no = "HR00597"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-05-13"

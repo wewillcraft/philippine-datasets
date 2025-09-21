@@ -1,0 +1,63 @@
+billNumber = "HB09955"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09955"
+lastScraped = "2025-09-22T00:20:59.277220"
+title = "HB09955"
+longTitle = "AN ACT REQUIRING ALL GASOLINE REFINERS, BLENDERS AND IMPORTERS TO BRING DOWN LEAD CONTENT TO ONE-TENTH 1/10 GRAM PER LITER OF LEADED GASOLINE AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1997-09-11"
+status = "Pending with the Committee on ECOLOGY since 1997-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.", "ADAMAT, RONALDO",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ADAMAT, RONALDO"
+nameCode = "Adamat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-09-29"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 116376
+congress = 10
+bill_no = "HB09955"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-09-29"

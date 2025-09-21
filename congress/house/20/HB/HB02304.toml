@@ -1,0 +1,46 @@
+billNumber = "HB02304"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02304"
+lastScraped = "2025-09-21T23:39:48.756573"
+title = "HB02304"
+longTitle = "AN ACT INSTITUTING THE HEALTH EMERGENCY AUXILIARY REINFORCEMENT TEAM (HEART) UNDER THE DEPARTMENT OF HEALTH"
+scope = "National"
+dateFiled = "2025-07-24"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02304.pdf"
+fileSize = 919470
+author = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+[[authorsDetail]]
+name = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+nameCode = "Gato"
+date = "2025-07-24"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 2305
+congress = 103
+bill_no = "HB02304"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

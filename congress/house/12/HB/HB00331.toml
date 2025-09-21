@@ -1,0 +1,64 @@
+billNumber = "HB00331"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00331"
+lastScraped = "2025-09-22T00:12:59.865265"
+title = "HB00331"
+longTitle = "AN ACT PROVIDING FOR UNIFORM RETIREMENT BENEFITS FOR ALL GOVERNMENT OFFICIALS AND EMPLOYEES, PRESCRIBING PROCEDURES IN THE PROMPT PAYMENT THEREOF AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales, Neptali II M."
+coAuthors = [ "JARAULA, CONSTANTINO G.", "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J065"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 83491
+congress = 12
+bill_no = "HB00331"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-07-24"

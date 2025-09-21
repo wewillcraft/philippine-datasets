@@ -1,0 +1,53 @@
+billNumber = "HR00052"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00052"
+lastScraped = "2025-09-21T23:55:22.555447"
+title = "HR00052"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRANSPORTATION AND THE COMMITTEE OF LABOR AND EMPLOYMENT TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED ILLEGAL DISMISSAL AND DELAYED SALARIES OF EDSA CAROUSEL BUS DRIVERS"
+scope = "National"
+dateFiled = "2022-07-19"
+status = "Pending with the Committee on TRANSPORTATION since 2022-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00052.pdf"
+fileSize = 690263
+author = "Brosas, Arlene D."
+[[authorsDetail]]
+name = "Brosas, Arlene D."
+nameCode = "Brosas"
+date = "2022-07-19"
+sequence = 1
+
+[[authorsDetail]]
+name = "Manuel, Raoul Danniel A."
+nameCode = "Manuel"
+date = "2022-07-19"
+sequence = 2
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 16596
+congress = 19
+bill_no = "HR00052"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-08-24"
+date_read = "2022-08-02"

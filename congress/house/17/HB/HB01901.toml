@@ -1,0 +1,46 @@
+billNumber = "HB01901"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01901"
+lastScraped = "2025-09-21T23:55:44.469864"
+title = "HB01901"
+longTitle = "AN ACT PROVIDING FOR THE REHABILITATION AND REFORESTATION OF THE TIMBERLANDS OF THE CITY OF BISLIG, PROVINCE OF SURIGAO DEL SUR"
+scope = "Local"
+dateFiled = "2016-07-26"
+status = "Pending with the Committee on REFORESTATION since 2016-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01901.pdf"
+fileSize = 526044
+author = "Pimentel, Johnny Ty"
+[[authorsDetail]]
+name = "Pimentel, Johnny Ty"
+nameCode = "Pimentel"
+date = "2016-07-26"
+sequence = 1
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2016-08-03"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 35369
+congress = 17
+bill_no = "HB01901"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-03"

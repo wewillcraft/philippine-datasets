@@ -1,0 +1,42 @@
+billNumber = "HB01998"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01998"
+lastScraped = "2025-09-22T00:46:56.912225"
+title = "HB01998"
+longTitle = "AN ACT ESTABLISHING A FRUIT AND TOMATO PROCESSINGPLANT IN THE DISTRICT OF TUGBOK, CITY OF DAVAO, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-28"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 136688
+congress = 8
+bill_no = "HB01998"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-30"

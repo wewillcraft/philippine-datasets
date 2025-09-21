@@ -1,0 +1,46 @@
+billNumber = "PS00079"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=PS00079"
+lastScraped = "2025-09-22T00:01:47.890287"
+title = "E D S A Private Car Ban"
+longTitle = ""
+scope = "Local"
+dateFiled = "2019-10-01"
+status = "Pending with the Committee on METRO MANILA DEVELOPMENT since 2020-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "ERICE, EDGAR R."
+[[authorsDetail]]
+name = "ERICE, EDGAR R."
+nameCode = "Erice"
+date = "2019-10-01"
+sequence = 1
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "primary"
+referralCode = "E502"
+dateRead = "2020-03-03"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 33007
+congress = 18
+bill_no = "PS00079"
+report = ""
+comm_act = ""
+referral = "E502"
+ref_name = "METRO MANILA DEVELOPMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-03-03"

@@ -1,0 +1,75 @@
+billNumber = "HB01855"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01855"
+lastScraped = "2025-09-21T23:55:44.457246"
+title = "HB01855"
+longTitle = "FREEDOM OF INFORMATION ACT"
+scope = "National"
+dateFiled = "2016-07-25"
+status = "Pending with the Committee on PUBLIC INFORMATION since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01855.pdf"
+fileSize = 4355567
+author = "Aragones, Sol"
+coAuthors = [ "BATAOIL, LEOPOLDO N.", "ALVAREZ, PANTALEON D.", "SALON, ORESTES T.", "SANDOVAL, FEDERICO II S.",]
+[[authorsDetail]]
+name = "Aragones, Sol"
+nameCode = "Aragones"
+date = "2016-07-25"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATAOIL, LEOPOLDO N."
+nameCode = "Bataoil"
+date = "2017-01-17"
+journalNo = "J058"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALVAREZ, PANTALEON D."
+nameCode = "Alvarez (P.)"
+date = "2017-05-17"
+journalNo = "J091"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SALON, ORESTES T."
+nameCode = "Salon"
+date = "2017-08-07"
+journalNo = "J007"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SANDOVAL, FEDERICO II S."
+nameCode = "Sandoval"
+date = "2018-10-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 35323
+congress = 17
+bill_no = "HB01855"
+report = ""
+comm_act = ""
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

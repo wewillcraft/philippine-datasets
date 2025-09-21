@@ -1,0 +1,51 @@
+billNumber = "HB00317"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00317"
+lastScraped = "2025-09-21T23:39:48.358427"
+title = "HB00317"
+longTitle = "AN ACT PROVIDING FOR THE MEDICALIZATION OF CANNABIS, EXPANDING ACCESS TO MEDICAL CANNABIS AS A MEANS OF MEDICAL TREATMENT, EXPANDING RESEARCH INTO ITS MEDICINAL PROPERTIES, ENUMERATING PROHIBITED ACTS AND PRESCRIBING PENALTIES THERETO"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00317.pdf"
+fileSize = 593218
+author = "BENITEZ, JAVIER MIGUEL LOPEZ"
+[[authorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-06-30"
+sequence = 1
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 318
+congress = 103
+bill_no = "HB00317"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

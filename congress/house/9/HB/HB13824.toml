@@ -1,0 +1,42 @@
+billNumber = "HB13824"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13824"
+lastScraped = "2025-09-22T00:25:57.153655"
+title = "HB13824"
+longTitle = "AN ACT CONVERTING THE SAN JOSE CITY GENERAL HOSPITAL IN SAN JOSE CITY, PROVINCE OF NUEVA ECIJA, INTO AN EXTENSION OF THE DR. PAULINO GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER IN THE PROVINCE OF NUEVA ECIJA, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1994-09-26"
+status = "Pending with the Committee on HEALTH since 1994-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-09-28"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132433
+congress = 9
+bill_no = "HB13824"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-09-28"

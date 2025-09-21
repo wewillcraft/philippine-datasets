@@ -1,0 +1,86 @@
+billNumber = "HB09098"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09098"
+lastScraped = "2025-09-22T00:20:59.100074"
+title = "HB09098"
+longTitle = "AN ACT CONVERTING THE BATAAN PROVINCIAL HOSPITAL IN THE PROVINCE OF BATAAN INTO A MEDICAL CENTER TO BE KNOWN AS THE BATAAN MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-03-12"
+status = "REPUBLIC ACT (RA08561) enacted on 1998-02-26"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia, Enrique Jr. T."
+coAuthors = [ "ROMERO, MIGUEL L.", "TAGLE, VICENTE V.",]
+[[authorsDetail]]
+name = "Garcia, Enrique Jr. T."
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAGLE, VICENTE V."
+nameCode = "Tagle"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-17"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115519
+congress = 10
+bill_no = "HB09098"
+report = "01253"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1997-03-17"
+date_ob = "1997-10-30"
+date_report = "1997-10-30"
+
+[secondReading]
+id = 18675
+congress = 10
+bill_no = "HB09098"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-01-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3255
+congress = 10
+bill_no = "HB09098"
+date_adopt = "1998-01-19"
+no_yeas = 150
+no_nays = 0
+no_abstent = 0
+amend_ind = "N"
+act_pres = "A"
+dte_actedp = "1998-02-26"

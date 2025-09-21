@@ -1,0 +1,72 @@
+billNumber = "HR00577"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00577"
+lastScraped = "2025-09-22T00:13:01.267537"
+title = "Vacancy in the First District of Zamboanga del Norte and Calling for a Special Election"
+longTitle = "RESOLUTION CERTIFYING TO THE EXISTENCE OF A VACANCY IN THE HOUSE OF REPRESENTATIVES PARTICULARLY IN THE FIRST DISTRICT OF THE PROVINCE OF ZAMBOANGA DEL NORTE AND CALLING FOR A SPECIAL ELECTION TO FILL SAID VACANCY"
+scope = "Local"
+dateFiled = "2002-05-16"
+status = "Adopted as Resolution No. HR00260 on 2002-05-29"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+coAuthors = [ "PABLO, ERNESTO C.",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PABLO, ERNESTO C."
+nameCode = "Pablo"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-05-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HR00524"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00524"
+flag = "S"
+
+[firstReading]
+id = 90514
+congress = 12
+bill_no = "HR00577"
+report = "00480"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "SUFFRAGE AND ELECTORAL REFORMS"
+recomm = "Adoption in substituti on of House Resolution No. 524."
+date_read = "2002-05-21"
+date_ob = "2002-05-21"
+date_report = "2002-05-16"
+
+[secondReading]
+id = 15210
+congress = 12
+bill_no = "HR00577"
+adopted_resolution = "HR00260"
+date_calendared = "2002-05-28"
+date_approved = "2002-05-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

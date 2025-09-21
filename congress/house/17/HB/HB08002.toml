@@ -1,0 +1,61 @@
+billNumber = "HB08002"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08002"
+lastScraped = "2025-09-21T23:55:45.884576"
+title = "HB08002"
+longTitle = "AN ACT AMENDING REPUBLIC ACT 9711, OTHERWISE KNOWN AS THE \\\"FOOD AND DRUG ADMINISTRATION ACT\\\" AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-08-02"
+status = "Pending with the Committee on HEALTH since 2018-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08002.pdf"
+fileSize = 1109038
+author = "Yap, Arthur C."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "BRAVO, MARIA VIDA E.",]
+[[authorsDetail]]
+name = "Yap, Arthur C."
+nameCode = "Yap (A.)"
+date = "2018-08-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-09-06"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2018-09-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-08-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 41469
+congress = 17
+bill_no = "HB08002"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-08-08"

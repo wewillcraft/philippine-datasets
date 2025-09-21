@@ -1,0 +1,50 @@
+billNumber = "HR02150"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02150"
+lastScraped = "2025-09-22T00:47:02.971584"
+title = "HR02150"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT A THOROUGH REVIEW IN AID OF FORMULATING A LEGISLATION THAT WILL GOVERN THE MOTORCYCLE MANUFACTURING INDUSTRY"
+scope = "National"
+dateFiled = "1991-02-04"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1991-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1991-02-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 171985
+congress = 8
+bill_no = "HR02150"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1991-02-07"

@@ -1,0 +1,66 @@
+billNumber = "HB05001"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05001"
+lastScraped = "2025-09-22T00:20:58.296735"
+title = "HB05001"
+longTitle = "AN ACT ACCORDING BIRTHDAY LEAVE BENEFIT OF ONE (1) DAY WITH PAY TO ALL EMPLOYEES IN THE PRIVATE AND PUBLIC SECTORS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-11-13"
+status = "Business for the day on 1997-11-18"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-11-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 111422
+congress = 10
+bill_no = "HB05001"
+report = "01218"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+recomm = "approval"
+date_read = "1995-11-16"
+date_ob = "1997-10-21"
+date_report = "1997-10-17"
+
+[secondReading]
+id = 18154
+congress = 10
+bill_no = "HB05001"
+date_calendared = "1997-11-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

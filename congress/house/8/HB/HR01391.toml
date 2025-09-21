@@ -1,0 +1,42 @@
+billNumber = "HR01391"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01391"
+lastScraped = "2025-09-22T00:47:02.802275"
+title = "HR01391"
+longTitle = "RESOLUTION CREATING A STANDING COMMITTEE ON PUBLIC ACCOUNTABILITY IN THE HOUSE OF REPRESENTATIVES TO INVESTIGATE ANOMALIES AND ACTS OF GRAFT AND CORRUPTION COMMITTED BY PUBLIC OFFICIALS, AMENDING FOR THE PURPOSE RULE VII OF THE RULES OF THE HOUSE OFREPRESENTATIVES"
+scope = "National"
+dateFiled = "1989-08-03"
+status = "Pending with the Committee on RULES since 1989-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-08-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171257
+congress = 8
+bill_no = "HR01391"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-08-03"

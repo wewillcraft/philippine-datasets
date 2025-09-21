@@ -1,0 +1,61 @@
+billNumber = "HB05685"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05685"
+lastScraped = "2025-09-22T00:20:58.422205"
+title = "HB05685"
+longTitle = "AN ACT PROVIDING FOR BENEFITS AND PRIVILEGES TO SOLO PARENTS AND THEIR CHILDREN AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-01-05"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112106
+congress = 10
+bill_no = "HB05685"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+date_read = "1996-01-22"

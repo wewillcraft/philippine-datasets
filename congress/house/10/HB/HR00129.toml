@@ -1,0 +1,80 @@
+billNumber = "HR00129"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00129"
+lastScraped = "2025-09-22T00:20:59.447105"
+title = "HR00129"
+longTitle = "RESOLUTION URGING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, TO INITIATE A MASSIVE CAMPAIGN AGAINST COMPLACENCY AND APATHY IN THE PERFORMANCE OF THE OFFICIAL FUNCTIONS AND DUTIES OF OFFICIALS AND EMPLOYEES IN THE EXECUTIVE DEPARTMENTS, BUREAUS, AGENCIES AND OFFICES THEREOF INCLUDING LOCAL GOVERNMENT UNITS"
+scope = "National"
+dateFiled = "1995-08-22"
+status = "Adopted as Resolution No. HR00067 on 1996-08-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "CRUZ-DUCUT, ZENAIDA", "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117183
+congress = 10
+bill_no = "HR00129"
+report = "00279"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+recomm = "Adoption"
+date_read = "1995-08-28"
+date_ob = "1996-03-18"
+date_unass = "1996-04-30"
+date_report = "1996-03-14"
+
+[secondReading]
+id = 18927
+congress = 10
+bill_no = "HR00129"
+adopted_resolution = "HR00067"
+date_calendared = "1996-08-15"
+date_approved = "1996-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00067.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00067.pdf"

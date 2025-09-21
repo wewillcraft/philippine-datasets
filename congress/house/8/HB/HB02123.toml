@@ -1,0 +1,42 @@
+billNumber = "HB02123"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02123"
+lastScraped = "2025-09-22T00:46:56.933623"
+title = "HB02123"
+longTitle = "AN ACT REQUIRING STATE COLLEGES AND UNIVERSITIES TO BE SELF-RELIANT BY MAXIMIZING THE USE OF THEIR CAMPUSES AND IDLE LAND RESOURCES FOR INCOME-GENERATI NG PROJECTS"
+scope = "National"
+dateFiled = "1987-09-30"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 136812
+congress = 8
+bill_no = "HB02123"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-10-05"

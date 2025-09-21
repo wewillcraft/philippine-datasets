@@ -1,0 +1,67 @@
+billNumber = "HR00048"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00048"
+lastScraped = "2025-09-21T23:56:22.807026"
+title = "HR00048"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPRIETY AND EFFICACY OF AGREEMENTS AND PROJECTS ENTERED INTO PURSUANT TO REPUBLIC ACT NO. 7718, OTHERWISE KNOWN AS \\\"THE PHILIPPINE BOT LAW \\\", INCLUDING ITS IMPLEMENTATION THE NEED TO AMEND THE PHILIPPINE BOT LAW"
+scope = "National"
+dateFiled = "2013-07-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2013-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00048.pdf"
+fileSize = 197843
+author = "ROMULO, ROMAN T."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "ROMULO, ROMAN T."
+nameCode = "Romulo"
+date = "2013-07-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "secondary"
+referralCode = "0515"
+
+[firstReading]
+id = 52447
+congress = 16
+bill_no = "HR00048"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-10-14"
+date_read = "2013-07-29"

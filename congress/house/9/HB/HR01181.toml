@@ -1,0 +1,47 @@
+billNumber = "HR01181"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01181"
+lastScraped = "2025-09-22T00:25:57.583706"
+title = "HR01181"
+longTitle = "RESOLUTION URGING  THE OFFICE OF THE PRESIDENT TO RECOGNIZE THE DISTINCT CHARACTER AND MANDATE OF DUTY FREE PHILIPPINES (DFP) AND TO STRENGTHEN ITS EXISTING PROGRAMS"
+scope = "National"
+dateFiled = "1994-08-18"
+status = "Pending with the Committee on TOURISM since 1994-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Concepcion"
+[[authorsDetail]]
+name = "Concepcion"
+nameCode = "Concepcion"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-08-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 134487
+congress = 9
+bill_no = "HR01181"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-08-24"

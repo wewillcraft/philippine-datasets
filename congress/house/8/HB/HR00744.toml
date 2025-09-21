@@ -1,0 +1,43 @@
+billNumber = "HR00744"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00744"
+lastScraped = "2025-09-22T00:47:02.672179"
+title = "HR00744"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON NATURAL RESOURCES TO CONDUCT A STUDY ON THE ECONOMIC FEASIBILITY OF ESTABLISHING AN IRRIGATION SYSTEM IN THE MUNICIPALITY OF HINOBA-AN, PROVINCE OF NEGROS OCCIDENTAL, INVOLVING THE MATABANAN RIVER"
+scope = "Local"
+dateFiled = "1988-06-02"
+status = "Pending with the Committee on NATURAL RESOURCES since 1988-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Starke"
+[[authorsDetail]]
+name = "Starke"
+nameCode = "Starke"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1988-06-06"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 170625
+congress = 8
+bill_no = "HR00744"
+comm_act = "CHNAGE OF REFERRAL TO THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS ON SEPTEMBER 27, 1988"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1988-06-06"

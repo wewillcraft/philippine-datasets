@@ -1,0 +1,46 @@
+billNumber = "HB09673"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09673"
+lastScraped = "2025-09-22T00:20:59.207120"
+title = "HB09673"
+longTitle = "AN ACT PROVIDING FOR THE CONVERSION OF THE TIGBINAN HIGH SCHOOL IN THE MUNICIPALITY OF LABO, PROVINCE OF CAMARINES NORTE, INTO A NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1997-07-25"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116094
+congress = 10
+bill_no = "HB09673"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-04"

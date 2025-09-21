@@ -1,0 +1,54 @@
+billNumber = "HB02734"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02734"
+lastScraped = "2025-09-21T23:55:20.553265"
+title = "HB02734"
+longTitle = "AN ACT ESTABLISHING A NATIONAL CANCER CENTER TO BE KNOWN\r\nAS THE NATIONAL CANCER CENTER OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-07-28"
+status = "Pending with the Committee on HEALTH since 2022-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02734.pdf"
+fileSize = 495339
+author = "ABALOS, JC M."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "ABALOS, JC M."
+nameCode = "Abalos"
+date = "2022-07-28"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-04-19"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 7653
+congress = 19
+bill_no = "HB02734"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-03"

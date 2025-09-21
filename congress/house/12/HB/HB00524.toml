@@ -1,0 +1,65 @@
+billNumber = "HB00524"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00524"
+lastScraped = "2025-09-22T00:12:59.900795"
+title = "HB00524"
+longTitle = "AN ACT CHANGING THE NAME OF TAFT AVENUE TO BISHOP GREGORIO AGLIPAY AVENUE"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor"
+coAuthors = [ "MAZA, LIZA", "BELTRAN, CRISPIN", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Defensor"
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAZA, LIZA"
+nameCode = "Maza"
+date = ""
+journalNo = "J074"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BELTRAN, CRISPIN"
+nameCode = "Beltran"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J074"
+sessionNo = "2RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 83684
+congress = 12
+bill_no = "HB00524"
+comm_act = "chnge of cttee. ref'l from Revision of Laws as per J.36; p.11"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-07-24"

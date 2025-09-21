@@ -1,0 +1,47 @@
+billNumber = "HB03725"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03725"
+lastScraped = "2025-09-22T00:25:55.254389"
+title = "HB03725"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE ORAS DISTRICT HOSPITAL IN THE MUNICIPALITY OF ORAS, PROVINCE OF EASTERN SAMAR FROM TWENTY FIVE TO FIFTY BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-15"
+status = "Pending with the Committee on HEALTH since 1992-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-20"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122344
+congress = 9
+bill_no = "HB03725"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-20"

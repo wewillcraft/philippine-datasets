@@ -1,0 +1,91 @@
+billNumber = "HR01753"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01753"
+lastScraped = "2025-09-21T23:55:22.920663"
+title = "HR01753"
+longTitle = "RESOLUTION CONGRATULATING AND COMMENDING THE UNIVERSITY OF SAN CARLOS MOOTING TEAM FOR ITS OUTSTANDING PERFORMANCE IN THE 15TH NELSON MANDELA WORLD HUMAN RIGHTS MOOT COURT COMPETITION"
+scope = "National"
+dateFiled = "2024-05-22"
+status = "Pending With Rules (Included in OB on 2024-05-22)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RAMA, EDUARDO R."
+[[authorsDetail]]
+name = "RAMA, EDUARDO R."
+nameCode = "Rama"
+date = "2024-05-22"
+sequence = 1
+
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2024-05-22"
+sequence = 2
+
+[[authorsDetail]]
+name = "Mariano-Hernandez, Ruth"
+nameCode = "Mariano-Hernandez"
+date = "2024-05-22"
+sequence = 3
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2024-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01284"
+sequence = 1
+date = "2024-05-22"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01284"
+sequence = 1
+date = "2024-05-22"
+flag = "S"
+
+[firstReading]
+id = 18298
+congress = 19
+bill_no = "HR01753"
+report = "01102"
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = "HIGHER AND TECHNICAL EDUCATION"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1284"
+remarks = ""
+file = "CR01102.pdf"
+date_read = "2024-05-22"
+date_ob = "2024-05-22"
+date_report = "2024-05-22"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR01102.pdf"
+
+[secondReading]
+id = 1246
+congress = 19
+bill_no = "HR01753"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

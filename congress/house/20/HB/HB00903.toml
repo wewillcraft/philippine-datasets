@@ -1,0 +1,46 @@
+billNumber = "HB00903"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00903"
+lastScraped = "2025-09-21T23:39:48.478487"
+title = "HB00903"
+longTitle = "AN ACT DECLARING BARANGAY KAPATAGAN IN THE CITY OF DIGOS, PROVINCE OF DAVAO DEL SUR, AN ECOTOURISM DESTINATION"
+scope = "Local"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on TOURISM since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00903.pdf"
+fileSize = 5985920
+author = "CAGAS, JOHN TRACY F."
+[[authorsDetail]]
+name = "CAGAS, JOHN TRACY F."
+nameCode = "Cagas"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 904
+congress = 103
+bill_no = "HB00903"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

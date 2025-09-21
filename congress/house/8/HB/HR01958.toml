@@ -1,0 +1,42 @@
+billNumber = "HR01958"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01958"
+lastScraped = "2025-09-22T00:47:02.915106"
+title = "HR01958"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON EDUCATION, CIVIL SERVICE AND LABOR TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE SO-CALLED STRIKE OF THE PUBLIC SCHOOL TEACHERS AND TO MAKE APPROPRIATE RECOMMENDATIONS FOR LEGISLATION THAT WILL CLEARLY PROVIDE FOR THEIR RIGHTS AND DUTIES"
+scope = "National"
+dateFiled = "1990-10-08"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1990-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Raymundo"
+[[authorsDetail]]
+name = "Raymundo"
+nameCode = "Raymundo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1990-10-11"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171794
+congress = 8
+bill_no = "HR01958"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1990-10-11"

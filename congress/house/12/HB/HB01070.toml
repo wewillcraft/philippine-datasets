@@ -1,0 +1,57 @@
+billNumber = "HB01070"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01070"
+lastScraped = "2025-09-22T00:12:59.998509"
+title = "HB01070"
+longTitle = "AN ACT EXEMPTING FROM INTERNAL REVENUE TAXATION THE SEPARATION PAY, RETIREMENT PAY AND ALL MONETARY BENEFITS, HOWEVER DESIGNATED, OF EMPLOYEES WHO ARE SEPARATED FROM WORK FOR ANY CAUSE"
+scope = "National"
+dateFiled = "2001-07-17"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+coAuthors = [ "BADELLES, ALIPIO CIRILO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = "Badelles"
+date = ""
+journalNo = "J009"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 84230
+congress = 12
+bill_no = "HB01070"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-07-25"

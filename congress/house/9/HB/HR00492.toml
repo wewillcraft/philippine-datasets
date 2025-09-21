@@ -1,0 +1,42 @@
+billNumber = "HR00492"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00492"
+lastScraped = "2025-09-22T00:25:57.456403"
+title = "HR00492"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO STUDY, IN AID OF LEGISLATION, TO HASTEN THE RELEASE OF LOANS FOR THE CONSTRUCTION OF TWO RELEASE OF LOANS FOR THE CONSTRUCTION OF TWO COAL-FED POWER PROJECTS IN CALACA AND MASINLOC"
+scope = "Local"
+dateFiled = "1993-02-16"
+status = "Pending with the Committee on ENERGY since 1993-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-02-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133804
+congress = 9
+bill_no = "HR00492"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-02-18"

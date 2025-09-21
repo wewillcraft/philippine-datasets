@@ -1,0 +1,57 @@
+billNumber = "HR00408"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00408"
+lastScraped = "2025-09-22T00:20:59.498719"
+title = "HR00408"
+longTitle = "RESOLUTION COMMENDING THE PHILIPPINE NATIONAL POLICE, PARTICULARLY THE NARCOTICS COMMAND UNDER THE LEADERSHIP OF SR. SUPERINTENDENT REX PIAD, SUPPORTED BY THE CISC, MARICOM SOUTHERN POLICE DISTRICT AND THE PNP PARANAQUE POLICE STATION, FOR THEIR HISTORIC ACHIEVEMENT BY BUSTING A 140-KG SHIPMENT OF SHABU AND PREVENTING THESE ILLICIT DRUGS FROM DESTROYING THE LIVES, BEHAVIOR AND FUTURE OF THOUSANDS OF FILIPINOS AND FOR SETTING AN EXAMPLE OF TOP CALIBER PERFORMANCE WHICH OTHER LAW ENFORCEMENT AGENCIES SHOULD EMULATE"
+scope = "National"
+dateFiled = "1996-01-23"
+status = "Adopted as Resolution No. HR00040 on 1996-05-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "INTER-PARLIAMENTARY RELATIONS AND DIPLOMACY"
+type = "principal"
+referralCode = "A505"
+
+[firstReading]
+id = 117462
+congress = 10
+bill_no = "HR00408"
+report = "00397"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+recomm = "ADOPTION"
+date_read = "1996-01-25"
+date_ob = "1996-05-15"
+date_report = "1996-05-13"
+
+[secondReading]
+id = 18956
+congress = 10
+bill_no = "HR00408"
+adopted_resolution = "HR00040"
+date_calendared = "1996-05-27"
+date_approved = "1996-05-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00040.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00040.pdf"

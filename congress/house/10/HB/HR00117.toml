@@ -1,0 +1,81 @@
+billNumber = "HR00117"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00117"
+lastScraped = "2025-09-22T00:20:59.445122"
+title = "HR00117"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON POPULATION AND FAMILY RELATIONS, CIVIL, POLITICAL AND HUMAN RIGHTS AND JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE PREVALENCE OF CHILD PROSTITUTION ALLEGEDLY PERPETUATED BY INTERNATIONAL ANDLOCAL SYNDICATES, AS WELL AS THE LEVEL OF PREVENTION AND IMPLEMENTATION OF SPECIFIC MEASURES BY CONCERNED AGENCIES TO RESPOND TO THE SAME"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 1995-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanada"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "LIBAN, DANTE V.", "LUCIANO, LEONOR INES", "LAUREL-TRINIDAD, MILAGROS",]
+[[authorsDetail]]
+name = "Tanada"
+nameCode = "Tanada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAUREL-TRINIDAD, MILAGROS"
+nameCode = "Laurel-trinidad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 117171
+congress = 10
+bill_no = "HR00117"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Population and Family Relations on Aug. 2"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+date_read = "1995-08-23"

@@ -1,0 +1,54 @@
+billNumber = "HB00300"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00300"
+lastScraped = "2025-09-21T23:39:48.355337"
+title = "HB00300"
+longTitle = "AN ACT PROVIDING FOR A DENTAL AND ORAL CARE SERVICE IN EVERY RURAL HEALTH UNIT THROUGHOUT THE COUNTRY AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on HEALTH since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00300.pdf"
+fileSize = 65618
+author = "PLEYTO, SALVADOR A."
+coAuthors = [ "MERCADO-REVILLA, LANI",]
+[[authorsDetail]]
+name = "PLEYTO, SALVADOR A."
+nameCode = "Pleyto"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MERCADO-REVILLA, LANI"
+nameCode = "Mercado-Revilla"
+date = "2025-08-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 301
+congress = 103
+bill_no = "HB00300"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

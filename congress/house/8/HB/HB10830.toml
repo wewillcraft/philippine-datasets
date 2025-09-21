@@ -1,0 +1,42 @@
+billNumber = "HB10830"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10830"
+lastScraped = "2025-09-22T00:46:58.478419"
+title = "HB10830"
+longTitle = "AN ACT ESTABLISHING AN ORCHIDS AND ANTHURIUM RESEARCH, TRAINING AND DISPERSAL CENTER IN THE MUNICIPALITY OF LUISIANA, PROVINCE OF LAGUNA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-24"
+status = "Pending with the Committee on NATURAL RESOURCES since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 145501
+congress = 8
+bill_no = "HB10830"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1988-05-27"

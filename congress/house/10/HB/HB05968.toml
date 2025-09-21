@@ -1,0 +1,68 @@
+billNumber = "HB05968"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05968"
+lastScraped = "2025-09-22T00:20:58.469600"
+title = "HB05968"
+longTitle = "AN ACT CREATING A SPECIAL TASK FORCE IN THE DEPARTMENT OF JUSTICE TO APPREHEND PERSONS WITH PENDING WARRANTS OF ARREST AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-01-29"
+status = "Pending with the Committee on JUSTICE since 1996-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "AVILA, EDGAR M.", "RAMIREZ, JOSE T.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-01-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112389
+congress = 10
+bill_no = "HB05968"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-01-31"

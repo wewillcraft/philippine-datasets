@@ -1,0 +1,46 @@
+billNumber = "HR01283"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01283"
+lastScraped = "2025-09-22T00:13:01.435758"
+title = "HR01283"
+longTitle = "RESOLUTION CREATING A SPECIAL COMMITTEE TO STUDY THE POLICIES AND PROGRAMS CONCERNING THE COCONUT INDUSTRY"
+scope = "National"
+dateFiled = "2003-08-25"
+status = "Pending with the Committee on RULES since 2003-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calderon"
+[[authorsDetail]]
+name = "Calderon"
+nameCode = "Calderon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-09-01"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 91217
+congress = 12
+bill_no = "HR01283"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2003-09-01"

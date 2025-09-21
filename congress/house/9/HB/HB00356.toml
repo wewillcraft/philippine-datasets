@@ -1,0 +1,47 @@
+billNumber = "HB00356"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00356"
+lastScraped = "2025-09-22T00:25:54.659712"
+title = "HB00356"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF DON MANUEL MEDEL, SR., PROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1992-07-29"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-04"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118975
+congress = 9
+bill_no = "HB00356"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-04"

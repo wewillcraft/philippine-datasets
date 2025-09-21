@@ -1,0 +1,50 @@
+billNumber = "HB10352"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10352"
+lastScraped = "2025-09-22T00:25:56.469627"
+title = "HB10352"
+longTitle = "AN ACT REQUIRING THE NATIONAL POWER CORPORATION TO ALLOCATE AND RELEASE IRRIGATION WATER SUFFICIENT TO ALLOW FARMERS TO PLANT THEIR CROPS DURING REGULAR PLANTING SEASONS"
+scope = "National"
+dateFiled = "1993-08-11"
+status = "Pending with the Committee on ENERGY since 1993-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-08-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 128970
+congress = 9
+bill_no = "HB10352"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-08-16"

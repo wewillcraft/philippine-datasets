@@ -1,0 +1,60 @@
+billNumber = "HB10128"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10128"
+lastScraped = "2025-09-22T00:20:59.319203"
+title = "HB10128"
+longTitle = "AN ACT CREATING THE GENERAL SANTOS INTERNATIONAL AIRPORT AUTHORITY, TRANSFERRING EXISTING ASSETS OF THE GENERAL SANTOS CITY INTERNATIONAL AIRPORT TO THE AUTHORITY, VESTING THE AUTHORITY WITH POWER TO ADMINISTER AND OPERATE THE GENERAL SANTOS CITY INTERNATIONAL AIRPORT, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-10-15"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116549
+congress = 10
+bill_no = "HB10128"
+comm_act = "Change of ctte. ref'l from Gov't Enterprise s as per J.40, p. 13"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-10-20"

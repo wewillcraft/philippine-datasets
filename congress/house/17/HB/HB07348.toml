@@ -1,0 +1,73 @@
+billNumber = "HB07348"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07348"
+lastScraped = "2025-09-21T23:55:45.703028"
+title = "HB07348"
+longTitle = "AN ACT MANDATING THE TURNOVER OF SEIZED SMUGGLED RICE TO THE NATIONAL FOOD AUTHORITY"
+scope = "National"
+dateFiled = "2018-03-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2018-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07348.pdf"
+fileSize = 836764
+author = "BERNOS, JB"
+coAuthors = [ "SILVERIO, LORNA C.", "SY-ALVARADO, JOSE ANTONIO R.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "BERNOS, JB"
+nameCode = "Bernos"
+date = "2018-03-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SILVERIO, LORNA C."
+nameCode = "Silverio"
+date = "2018-03-19"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-03-19"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-09-03"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2018-03-13"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 40815
+congress = 17
+bill_no = "HB07348"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-03-13"

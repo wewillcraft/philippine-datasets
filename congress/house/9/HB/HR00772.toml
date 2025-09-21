@@ -1,0 +1,43 @@
+billNumber = "HR00772"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00772"
+lastScraped = "2025-09-22T00:25:57.507226"
+title = "HR00772"
+longTitle = "RESOLUTION CALLING ON THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED IRREGULARITIES INVOLVING THE PNOC AWARD/S ON THE 200 MW LEYTE-CEBU GEOTHERMAL PLANT"
+scope = "Local"
+dateFiled = "1993-09-20"
+status = "Pending with the Committee on ENERGY since 1993-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua, Junie E."
+[[authorsDetail]]
+name = "Cua, Junie E."
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-09-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 134084
+congress = 9
+bill_no = "HR00772"
+comm_act = "Change of referral from the Committee on Rules(J.27 ,p.169)"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-09-23"

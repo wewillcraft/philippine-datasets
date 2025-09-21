@@ -1,0 +1,47 @@
+billNumber = "HB01841"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01841"
+lastScraped = "2025-09-22T00:13:00.135101"
+title = "HB01841"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF AN IRRIGATION SYSTEM IN THE MUNICIPALITY OF STA. FE, PROVINCE OF ROMBLON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-01"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ylagan"
+[[authorsDetail]]
+name = "Ylagan"
+nameCode = "Ylagan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-08-07"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85001
+congress = 12
+bill_no = "HB01841"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-08-07"

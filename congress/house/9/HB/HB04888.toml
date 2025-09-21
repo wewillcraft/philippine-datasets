@@ -1,0 +1,47 @@
+billNumber = "HB04888"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04888"
+lastScraped = "2025-09-22T00:25:55.534567"
+title = "HB04888"
+longTitle = "AN ACT ESTABLISHING AN ANIMAL BREEDING STATION AND LIVESTOCK FARM IN THE MUNICIPALITY OF CAN-AVID, PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-17"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-19"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123507
+congress = 9
+bill_no = "HB04888"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-19"

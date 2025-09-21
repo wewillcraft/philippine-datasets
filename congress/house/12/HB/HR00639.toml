@@ -1,0 +1,60 @@
+billNumber = "HR00639"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00639"
+lastScraped = "2025-09-22T00:13:01.279873"
+title = "HR00639"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM BEING PRESENT, THE HOUSE OF REPRESENTATIVES HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "2002-07-22"
+status = "Adopted as Resolution No. HR00285 on 2002-07-22"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales, Neptali II M."
+coAuthors = [ "PADILLA, CARLOS M.",]
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-07-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90576
+congress = 12
+bill_no = "HR00639"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2002-07-22"
+
+[secondReading]
+id = 15257
+congress = 12
+bill_no = "HR00639"
+adopted_resolution = "HR00285"
+date_calendared = "2002-07-22"
+date_approved = "2002-07-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

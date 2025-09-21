@@ -1,0 +1,47 @@
+billNumber = "HB03567"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB03567"
+lastScraped = "2025-09-22T00:01:45.665884"
+title = "HB03567"
+longTitle = "AN ACT AMENDING SECTION 9 OF PRESIDENTIAL DECREE 1586 BY INCREASING THE PENALTIES THEREOF AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-08-06"
+status = "Pending with the Committee on ECOLOGY since 2021-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB03567.pdf"
+fileSize = 606393
+author = "GUICO, RAMON N., JR."
+[[authorsDetail]]
+name = "GUICO, RAMON N., JR."
+nameCode = "Guico"
+date = "2019-08-06"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2019-08-13"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 22976
+congress = 18
+bill_no = "HB03567"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-27"
+date_read = "2019-08-13"

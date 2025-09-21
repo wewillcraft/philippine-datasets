@@ -1,0 +1,42 @@
+billNumber = "HR01433"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01433"
+lastScraped = "2025-09-22T00:47:02.808482"
+title = "HR01433"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION THE POLICY OF THE DEPARTMENT OF NATIONAL DEFENSE IN SOLVING THE INSURGENCY PROBLEM IN OUR COUNTRY"
+scope = "National"
+dateFiled = "1989-08-31"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dans"
+[[authorsDetail]]
+name = "Dans"
+nameCode = "Dans"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-08-31"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 171298
+congress = 8
+bill_no = "HR01433"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-08-31"

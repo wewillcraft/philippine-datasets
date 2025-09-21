@@ -1,0 +1,42 @@
+billNumber = "HB12610"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12610"
+lastScraped = "2025-09-22T00:25:56.928330"
+title = "HB12610"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK BREEDING STATION IN THE MUNICIPALITY OF BANTAYAN, BANTAYAN ISLAND, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-04-27"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez"
+[[authorsDetail]]
+name = "Martinez"
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-05-03"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131225
+congress = 9
+bill_no = "HB12610"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-05-03"

@@ -1,0 +1,92 @@
+billNumber = "HB06590"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB06590"
+lastScraped = "2025-09-22T00:01:46.304598"
+title = "Granting Philippine Citizenship To Stanley Lee"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO STANLEY LEE"
+scope = "National"
+dateFiled = "2020-03-11"
+status = "Business for the day on 2020-05-26"
+statusOrder = 11.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aragones, Sol"
+[[authorsDetail]]
+name = "Aragones, Sol"
+nameCode = "Aragones"
+date = "2020-03-11"
+sequence = 1
+
+[[authorsDetail]]
+name = "Nieto, John Marvin \"Yul Servo\" C."
+nameCode = "Nieto"
+date = "2020-03-11"
+sequence = 2
+
+[[authorsDetail]]
+name = "Veloso, Vicente \"Ching\" S.E."
+nameCode = "Veloso"
+date = "2020-03-11"
+sequence = 3
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2020-03-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[motherBills]]
+bill_no = "HB05006"
+sequence = 1
+date = "2020-03-11"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05006"
+sequence = 1
+date = "2020-03-11"
+flag = "S"
+
+[firstReading]
+id = 25998
+congress = 18
+bill_no = "HB06590"
+report = "00292"
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "Approval in substitution of House Bill No. 5006"
+remarks = ""
+file = "CR00292.pdf"
+date_read = "2020-03-11"
+date_ob = "2020-03-11"
+date_report = "2020-03-11"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00292.pdf"
+
+[secondReading]
+id = 2074
+congress = 18
+bill_no = "HB06590"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2020-05-26"
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

@@ -1,0 +1,42 @@
+billNumber = "HR02344"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02344"
+lastScraped = "2025-09-22T00:47:03.006404"
+title = "HR02344"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON BANKS AND CURRENCY OF THE HOUSE OF REPRESENTATIVES TO FORTHWITH CONDUCT AN INQUIRY, IN AID OF LEGISLATION, OVER THEALLEGED REPORTS OF IRREGULARITIES IN THE OPERATIONS OF SOME AUTOMATIC TELLER MACHINES (ATMs) LOCATED THROUGHOUT THE COUNTRY"
+scope = "Local"
+dateFiled = "1991-08-06"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1991-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Borjal"
+[[authorsDetail]]
+name = "Borjal"
+nameCode = "Borjal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1991-08-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172173
+congress = 8
+bill_no = "HR02344"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1991-08-12"

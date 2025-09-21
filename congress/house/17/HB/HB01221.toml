@@ -1,0 +1,66 @@
+billNumber = "HB01221"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01221"
+lastScraped = "2025-09-21T23:55:44.315652"
+title = "HB01221"
+longTitle = "AN ACT ESTABLISHING THE REGULATORY FRAMEWORK FOR THE SAFE OPERATIONS OF THE LIQUEFIED PETROLEUM GAS (LPG) INDUSTRY, DELINEATING THE POWERS AND FUNCTIONS OF VARIOUS GOVERNMENT AGENCIES, DEFINING AND PENALIZING CERTAIN ACTS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Referred to the Technical Working Group (TWG) on 2017-11-20"
+statusOrder = 4.22
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01221.pdf"
+fileSize = 3465543
+author = "Umali, Reynaldo V."
+coAuthors = [ "VIOLAGO, MICALEA S.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Umali, Reynaldo V."
+nameCode = "Umali"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-02-08"
+journalNo = "J068"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-11-23"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 34689
+congress = 17
+bill_no = "HB01221"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

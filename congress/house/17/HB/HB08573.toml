@@ -1,0 +1,66 @@
+billNumber = "HB08573"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08573"
+lastScraped = "2025-09-21T23:55:46.010438"
+title = "HB08573"
+longTitle = "AN ACT AMENDING SECTION 2 OF REPUBLIC ACT NO. 8187, OTHERWISE KNOWN AS THE \\\"PATERNITY LEAVE ACT OF 1996\\\""
+scope = "National"
+dateFiled = "2018-11-14"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2018-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08573.pdf"
+fileSize = 463097
+author = "Pico, Pepito M."
+coAuthors = [ "CATAMCO, NANCY A.", "SANGCOPAN, AMIHILDA J.",]
+[[authorsDetail]]
+name = "Pico, Pepito M."
+nameCode = "Pico"
+date = "2018-11-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2018-12-04"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SANGCOPAN, AMIHILDA J."
+nameCode = "Sangcopan"
+date = "2018-12-05"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2018-11-20"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 42040
+congress = 17
+bill_no = "HB08573"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-11-20"

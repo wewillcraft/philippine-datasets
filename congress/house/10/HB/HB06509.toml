@@ -1,0 +1,46 @@
+billNumber = "HB06509"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06509"
+lastScraped = "2025-09-22T00:20:58.570401"
+title = "HB06509"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING IN SANTO TOMAS ELEMENTARY SCHOOL, BARANGAY SANTO TOMAS, MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112930
+congress = 10
+bill_no = "HB06509"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-11"

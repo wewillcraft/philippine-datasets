@@ -1,0 +1,42 @@
+billNumber = "HR01279"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01279"
+lastScraped = "2025-09-22T00:47:02.783048"
+title = "HR01279"
+longTitle = "RESOLUTION DIRECTING THE LAND TRANSPORTATION OFFICE TO FULLY AND STRICTLY IMPLEMENT REPUBLIC ACT NUMBERED FIVE THOUSAND SEVEN HUNDRED AND FIFTEEN, OTHERWISE KNOWN AS THE REFLECTOR LAW"
+scope = "National"
+dateFiled = "1989-05-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1989-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dans"
+[[authorsDetail]]
+name = "Dans"
+nameCode = "Dans"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1989-05-15"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171148
+congress = 8
+bill_no = "HR01279"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1989-05-15"

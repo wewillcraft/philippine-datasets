@@ -1,0 +1,41 @@
+billNumber = "HR01384"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01384"
+lastScraped = "2025-09-22T00:20:59.690703"
+title = "HR01384"
+longTitle = "RESOLUTION DECLARING OCTOBER 5 TO 11, 1997 AS CEBU PRESS FREEDOM WEEK '97 IN THE CITY AND PROVINCE OF CEBU"
+scope = "Local"
+dateFiled = "1997-10-03"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-10-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118438
+congress = 10
+bill_no = "HR01384"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-10-07"

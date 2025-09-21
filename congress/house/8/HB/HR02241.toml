@@ -1,0 +1,42 @@
+billNumber = "HR02241"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02241"
+lastScraped = "2025-09-22T00:47:02.988422"
+title = "HR02241"
+longTitle = "RESOLUTION URGENTLY SEEKING THE IMMEDIATE ABOLITION OF THE NINE PERCENT (9%) IMPORT LEVY ON ALL GOODS UNDER EXECUTIVE ORDER NO. 443 OF THE OFFICE OF THE PRESIDENT"
+scope = "National"
+dateFiled = "1991-05-14"
+status = "Pending with the Committee on WAYS AND MEANS since 1991-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mar"
+[[authorsDetail]]
+name = "Mar"
+nameCode = "Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1991-05-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172075
+congress = 8
+bill_no = "HR02241"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1991-05-20"

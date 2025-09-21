@@ -1,0 +1,54 @@
+billNumber = "HB07331"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB07331"
+lastScraped = "2025-09-21T23:55:21.471950"
+title = "HB07331"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 8479, OTHERWISE KNOWN AS THE \"DOWNSTREAM OIL DEREGULATION ACT OF 1998\""
+scope = "National"
+dateFiled = "2023-02-28"
+status = "Pending with the Committee on ENERGY since 2023-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB07331.pdf"
+fileSize = 346657
+author = "Colada, Lex Anthony Cris A."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Colada, Lex Anthony Cris A."
+nameCode = "Colada"
+date = "2023-02-28"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-05-14"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2023-03-01"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 12250
+congress = 19
+bill_no = "HB07331"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-03-01"

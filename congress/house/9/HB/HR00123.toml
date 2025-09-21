@@ -1,0 +1,42 @@
+billNumber = "HR00123"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00123"
+lastScraped = "2025-09-22T00:25:57.390067"
+title = "HR00123"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO REPAIR, REHABILITATE AND MAINTAIN THE KENNON ROAD"
+scope = "Local"
+dateFiled = "1992-08-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133435
+congress = 9
+bill_no = "HR00123"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-31"

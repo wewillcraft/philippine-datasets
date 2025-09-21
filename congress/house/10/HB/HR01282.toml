@@ -1,0 +1,49 @@
+billNumber = "HR01282"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01282"
+lastScraped = "2025-09-22T00:20:59.670819"
+title = "HR01282"
+longTitle = "RESOLUTION PETITIONING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE ACCIDENTAL SHOOTING AND KILLING OF PAULYN LACSON DURING THE RAID ON THE HOUSE OF SUSPECTED DRUG LORD ALFREDO TIONGCO"
+scope = "Local"
+dateFiled = "1997-07-22"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118336
+congress = 10
+bill_no = "HR01282"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-07-31"

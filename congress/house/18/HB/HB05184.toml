@@ -1,0 +1,72 @@
+billNumber = "HB05184"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB05184"
+lastScraped = "2025-09-22T00:01:45.963641"
+title = "HB05184"
+longTitle = "AN ACT PROVIDING FOR THE MAGNA CARTA OF PRIVATE HEALTH WORKERS"
+scope = "National"
+dateFiled = "2019-10-22"
+status = "Pending with the Committee on HEALTH since 2019-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB05184.pdf"
+fileSize = 2056288
+author = "Gaite, Ferdinand R."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "SALVADOR-TAMBUNTING, JOY MYRA",]
+[[authorsDetail]]
+name = "Gaite, Ferdinand R."
+nameCode = "Gaite"
+date = "2019-10-22"
+sequence = 1
+
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2019-10-22"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2020-02-04"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2020-02-05"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-11-05"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 24593
+congress = 18
+bill_no = "HB05184"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-11-05"

@@ -1,0 +1,81 @@
+billNumber = "HB01514"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01514"
+lastScraped = "2025-09-21T23:55:44.366385"
+title = "HB01514"
+longTitle = "AN ACT UPGRADING THE SALARIES OF EMPLOYEES OF THE COMMISSION ON ELECTIONS"
+scope = "National"
+dateFiled = "2016-07-13"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01514.pdf"
+fileSize = 777939
+author = "TINIO, ANTONIO L."
+coAuthors = [ "ABAYON, HARLIN NEIL III J.", "LOYOLA, ROY M.", "SY-ALVARADO, JOSE ANTONIO R.", "MAGSAYSAY, MILAGROS A.",]
+[[authorsDetail]]
+name = "TINIO, ANTONIO L."
+nameCode = "Tinio"
+date = "2016-07-13"
+sequence = 1
+
+[[authorsDetail]]
+name = "Castro, France L."
+nameCode = "Castro (F.L.)"
+date = "2016-07-13"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN NEIL III J."
+nameCode = "Abayon"
+date = "2016-09-07"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY M."
+nameCode = "Loyola"
+date = "2018-01-15"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-01-15"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MAGSAYSAY, MILAGROS A."
+nameCode = "Aquino-Magsaysay"
+date = "2018-01-15"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 34982
+congress = 17
+bill_no = "HB01514"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

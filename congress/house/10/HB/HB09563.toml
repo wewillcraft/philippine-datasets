@@ -1,0 +1,46 @@
+billNumber = "HB09563"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09563"
+lastScraped = "2025-09-22T00:20:59.188140"
+title = "HB09563"
+longTitle = "AN ACT TO INSTITUTE THE POLICIES OF SCUBA DIVING AND ESTABLISH A HIGHER STANDARD OF PROTECTION, PROMOTION, AND DEVELOPMENT OF SCUBA DIVING, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-06-24"
+status = "Pending with the Committee on TOURISM since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115984
+congress = 10
+bill_no = "HB09563"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1997-07-30"

@@ -1,0 +1,41 @@
+billNumber = "HB07672"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07672"
+lastScraped = "2025-09-22T00:20:58.780801"
+title = "HB07672"
+longTitle = "AN ACT TO PROVIDE FOR THE ACQUISITION OF PHILIPPINE CITIZENSHIP BY ADMINISTRATIVE PROCESS BY NATIVE-BORN ALIENS"
+scope = "National"
+dateFiled = "1996-08-05"
+status = "Pending with the Committee on JUSTICE since 1996-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 114093
+congress = 10
+bill_no = "HB07672"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-08-07"

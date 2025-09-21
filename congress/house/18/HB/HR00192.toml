@@ -1,0 +1,52 @@
+billNumber = "HR00192"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00192"
+lastScraped = "2025-09-22T00:01:47.374390"
+title = "HR00192"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE STATUS OF PROLIFERATION OF IMPORTED CANNED PORK MEATS AND PROCESSED PORK PRODUCTS IN THE PHILIPPINES FROM THE COUNTRIES AFFECTED BY AFRICAN SWINE FEVER"
+scope = "National"
+dateFiled = "2019-08-05"
+status = "Deliberated upon by the Mother Committee on 2020-03-03"
+statusOrder = 4.21
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00192.pdf"
+fileSize = 229928
+author = "Geron, Rico B."
+[[authorsDetail]]
+name = "Geron, Rico B."
+nameCode = "Geron"
+date = "2019-08-05"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2019-08-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 30520
+congress = 18
+bill_no = "HR00192"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-03-10"
+date_read = "2019-08-07"

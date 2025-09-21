@@ -1,0 +1,47 @@
+billNumber = "HB11441"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11441"
+lastScraped = "2025-09-22T00:25:56.685952"
+title = "HB11441"
+longTitle = "AN ACT TO ESTABLISH A CASSAVA PROPAGATION AND DISTRIBUTION CENTER IN THE MUNICIPALITY OF SULAT, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-12-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130056
+congress = 9
+bill_no = "HB11441"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-12-09"

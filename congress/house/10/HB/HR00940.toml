@@ -1,0 +1,56 @@
+billNumber = "HR00940"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00940"
+lastScraped = "2025-09-22T00:20:59.603188"
+title = "HR00940"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF HEALTH TO CONDUCT AN INFORMATION CAMPAIGN TO INCREASE PUBLIC AWARENESS OF OBESITY AS A SERIOUS MEDICAL CONDITION"
+scope = "National"
+dateFiled = "1996-11-06"
+status = "Pending with the Committee on HEALTH since 1996-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "JOAQUIN, NEREO R.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-11-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117994
+congress = 10
+bill_no = "HR00940"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-11-12"

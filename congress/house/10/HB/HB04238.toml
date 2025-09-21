@@ -1,0 +1,54 @@
+billNumber = "HB04238"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04238"
+lastScraped = "2025-09-22T00:20:58.167617"
+title = "HB04238"
+longTitle = "AN ACT ESTABLISHING A SENIOR CITIZEN'S WARD IN ALL NATIONAL AND PROVINCIAL HOSPITALS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-04"
+status = "Pending with the Committee on HEALTH since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+coAuthors = [ "ANGARA-CASTILLO, BELLAFLOR J.",]
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR J."
+nameCode = "Angara-castillo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE MILITARY AND UNIFORMED PERSONNEL(MUP) PENSION SYSTEM"
+type = "principal"
+referralCode = "J506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110659
+congress = 10
+bill_no = "HB04238"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-10-05"

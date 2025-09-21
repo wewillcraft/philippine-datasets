@@ -1,0 +1,42 @@
+billNumber = "HB02022"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02022"
+lastScraped = "2025-09-22T00:25:54.954468"
+title = "HB02022"
+longTitle = "AN ACT EXEMPTING THE INTEREST INCOME OF CERTAIN TYPES OF DEPOSITS FROM TAX"
+scope = "National"
+dateFiled = "1992-09-02"
+status = "Pending with the Committee on WAYS AND MEANS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 120641
+congress = 9
+bill_no = "HB02022"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1992-09-03"

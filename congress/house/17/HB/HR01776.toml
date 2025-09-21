@@ -1,0 +1,47 @@
+billNumber = "HR01776"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01776"
+lastScraped = "2025-09-21T23:55:46.593099"
+title = "HR01776"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE COUNTRY'S IMMUNIZATION PROGRAM AND THE REPORTED MEASLES OUTBREAK IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2018-03-14"
+status = "Pending with the Committee on HEALTH since 2018-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01776.pdf"
+fileSize = 460481
+author = "Vargas, Alfred D."
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2018-03-14"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-03-19"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 44518
+congress = 17
+bill_no = "HR01776"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-05-16"
+date_read = "2018-03-19"

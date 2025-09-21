@@ -1,0 +1,46 @@
+billNumber = "HB05625"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05625"
+lastScraped = "2025-09-22T00:20:58.411638"
+title = "HB05625"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CHECK-GATE AT THE SANGGALANG CREEK LOCATED IN THE MUNICIPALITY OF SAN ANTONIO, NUEVA ECIJA, PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112046
+congress = 10
+bill_no = "HB05625"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-22"

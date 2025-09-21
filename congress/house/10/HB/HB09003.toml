@@ -1,0 +1,46 @@
+billNumber = "HB09003"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09003"
+lastScraped = "2025-09-22T00:20:59.079529"
+title = "HB09003"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BY-PASS ROAD IN THE MUNICIPALITY OF PINILI, PROVINCE OF ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-02-25"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-02-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115424
+congress = 10
+bill_no = "HB09003"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-02-27"

@@ -1,0 +1,46 @@
+billNumber = "HB08031"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08031"
+lastScraped = "2025-09-22T00:20:58.885787"
+title = "HB08031"
+longTitle = "AN ACT CONVERTING THE MABUGA PRIMARY SCHOOL IN BARANGAY MABUGA, GAPAN, NUEVA ECIJA, INTO AN ELEMENTARY SCHOOL TO BE KNOWN AS THE MABUGA ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-30"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-10-02"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114452
+congress = 10
+bill_no = "HB08031"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-10-02"

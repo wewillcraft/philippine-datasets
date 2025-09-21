@@ -1,0 +1,46 @@
+billNumber = "HB10209"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10209"
+lastScraped = "2025-09-22T00:20:59.334152"
+title = "HB10209"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETING OF THE JAEN-ZARAGOSA ROAD (DAMPULAN, JAEN TO ZARAGOSA SECTOR) IN THE PROVINCE OF NEUVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-11-10"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116630
+congress = 10
+bill_no = "HB10209"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-11-10"

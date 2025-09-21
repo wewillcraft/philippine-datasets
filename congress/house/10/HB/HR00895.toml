@@ -1,0 +1,61 @@
+billNumber = "HR00895"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00895"
+lastScraped = "2025-09-22T00:20:59.593825"
+title = "HR00895"
+longTitle = "RESOLUTION URGING THE PRESIDENT OF THE PHILIPPINES TO ALLOW THE REMAINS OF THE LATE PRESIDENT FERDINAND E. MARCOS TO BE INTERRED WITH APPROPRIATE MILITARY HONORS AT THE LIBINGAN NG MGA  BAYANI"
+scope = "Local"
+dateFiled = "1996-10-08"
+status = "Adopted as Resolution No. HR00103 on 1997-03-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+coAuthors = [ "ABLAN, ROQUE JR. R.",]
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 117949
+congress = 10
+bill_no = "HR00895"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-10"
+
+[secondReading]
+id = 19003
+congress = 10
+bill_no = "HR00895"
+adopted_resolution = "HR00103"
+date_calendared = "1997-03-21"
+date_approved = "1997-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00103.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00103.pdf"

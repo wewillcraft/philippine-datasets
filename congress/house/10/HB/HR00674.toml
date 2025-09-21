@@ -1,0 +1,47 @@
+billNumber = "HR00674"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00674"
+lastScraped = "2025-09-22T00:20:59.551543"
+title = "HR00674"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEE ON EDUCATION AND THE COMMITTEE ON MUSLIM AFFAIRS TO INVESTIGATE, IN AID OF LEGISLATION, THE ANOMALIES ALLEGEDLY COMMITTED BY THE DEPARTMENT OF EDUCATION AND CULTURE AND SPORTS IN THE AUTONOMOUS REGION IN MUSLIM MINDANAO"
+scope = "Local"
+dateFiled = "1996-06-05"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[firstReading]
+id = 117728
+congress = 10
+bill_no = "HR00674"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Education and Culture and on Muslim Aff"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-06-08"

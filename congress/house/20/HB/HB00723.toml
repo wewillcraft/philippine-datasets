@@ -1,0 +1,46 @@
+billNumber = "HB00723"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00723"
+lastScraped = "2025-09-21T23:39:48.444349"
+title = "HB00723"
+longTitle = "AN ACT REAPPORTIONING THE PROVINCE OF BUKIDNON INTO FIVE (5) LEGISLATIVE DISTRICTS"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00723.pdf"
+fileSize = 433794
+author = "FLORES, JONATHAN KEITH T."
+[[authorsDetail]]
+name = "FLORES, JONATHAN KEITH T."
+nameCode = "Flores"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 724
+congress = 103
+bill_no = "HB00723"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

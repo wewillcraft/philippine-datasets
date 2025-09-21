@@ -1,0 +1,71 @@
+billNumber = "HB05879"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05879"
+lastScraped = "2025-09-22T00:20:58.454866"
+title = "HB05879"
+longTitle = "AN ACT CONVERTING THE DPWH FOURTH ENGINEERING DISTRICT SUB-OFFICE IN SANTIAGO CITY INTO A REGULAR ENGINEERING DISTRICT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "Approved by the House on 1997-08-04, transmitted to on 1997-08-05 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112300
+congress = 10
+bill_no = "HB05879"
+report = "00930"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-01-29"
+date_ob = "1997-05-19"
+date_report = "1997-05-15"
+
+[secondReading]
+id = 18266
+congress = 10
+bill_no = "HB05879"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-05-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2868
+congress = 10
+bill_no = "HB05879"
+date_dist = "1997-05-27"
+date_adopt = "1997-08-04"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-05"
+date_rec = "1997-08-07"

@@ -1,0 +1,54 @@
+billNumber = "HB09939"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09939"
+lastScraped = "2025-09-22T00:20:59.273630"
+title = "HB09939"
+longTitle = "AN ACT ESTABLISHING A NATIONAL COMPREHENSIVE HIGH SCHOOL IN THE MUNICIPALITY OF GONZANA, PROVINCE OF CAGAYAN, TO BE KNOWN AS THE GONZAGA NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-09-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonio, Patricio T."
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Antonio, Patricio T."
+nameCode = "Antonio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-09-29"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116360
+congress = 10
+bill_no = "HB09939"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-09-29"

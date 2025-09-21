@@ -1,0 +1,62 @@
+billNumber = "HB27376"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB27376"
+lastScraped = "2025-09-22T00:47:01.161748"
+title = "HB27376"
+longTitle = "AN ACT AMENDING THE CHARTER OF THE CITY OF TACLOBAN BY ADDING A NEW SECTION 24-A"
+scope = "Local"
+dateFiled = "1989-10-26"
+status = "Approved by the House on 1991-12-02 and transmitted to the Senate on 1991-12-03"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1989-11-21"
+
+[firstReading]
+id = 161875
+congress = 8
+bill_no = "HB27376"
+report = "01663"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITHOUT AMENDMENTS"
+date_read = "1989-11-21"
+date_ob = "1991-10-23"
+date_cal = "1991-10-23"
+date_unass = "1991-10-23"
+date_report = "1991-10-22"
+
+[secondReading]
+id = 21190
+congress = 8
+bill_no = "HB27376"
+date_approved = "1991-11-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 944
+congress = 8
+bill_no = "HB27376"
+date_dist = "1991-11-25"
+date_adopt = "1991-12-02"
+no_yeas = 125
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-12-03"

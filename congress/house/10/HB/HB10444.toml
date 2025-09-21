@@ -1,0 +1,51 @@
+billNumber = "HB10444"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10444"
+lastScraped = "2025-09-22T00:20:59.384892"
+title = "HB10444"
+longTitle = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE MUNICIPALITY OF CALABANGA, PROVINCE OF CAMARINES SUR, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-01-10"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1998-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116865
+congress = 10
+bill_no = "HB10444"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1998-01-19"

@@ -1,0 +1,47 @@
+billNumber = "HB02033"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02033"
+lastScraped = "2025-09-22T00:13:00.168323"
+title = "HB02033"
+longTitle = "AN ACT EXPANDING AND UPGRADING THE DASOL COMMUNITY HOSPITAL IN DASOL, PANGASINAN, FROM A 25-BED CAPACITY COMMUNITY HOSPITAL INTO A 75-BED CAPACITY COMMUNITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-06"
+status = "Pending with the Committee on HEALTH since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "CELESTE, ARTHUR F."
+[[authorsDetail]]
+name = "CELESTE, ARTHUR F."
+nameCode = "Celeste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85193
+congress = 12
+bill_no = "HB02033"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-13"

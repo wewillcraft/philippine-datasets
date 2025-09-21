@@ -1,0 +1,54 @@
+billNumber = "HR01092"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01092"
+lastScraped = "2025-09-21T23:56:22.998331"
+title = "HR01092"
+longTitle = "RESOLUTION CREATING A CONGRESSIONAL OVERSIGHT COMMITTEE ON THE SPECIAL PURPOSE VEHICLE ACT"
+scope = "National"
+dateFiled = "2014-05-06"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2014-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez, Fernando V."
+coAuthors = [ "MANALO, JESULITO A.",]
+[[authorsDetail]]
+name = "Gonzalez, Fernando V."
+nameCode = "Gonzalez"
+date = "2014-05-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MANALO, JESULITO A."
+nameCode = "Manalo"
+date = "2014-05-06"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2014-05-13"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 53490
+congress = 16
+bill_no = "HR01092"
+report = ""
+comm_act = ""
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-13"

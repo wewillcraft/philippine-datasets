@@ -1,0 +1,49 @@
+billNumber = "HB04678"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04678"
+lastScraped = "2025-09-22T00:20:58.240389"
+title = "HB04678"
+longTitle = "AN ACT DESIGNATING THE SECRETARY OF TOURISM AS EX OFFICIO MEMBER OF THE CIVIL AERONAUTICS BOARD"
+scope = "National"
+dateFiled = "1995-10-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-10-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 111099
+congress = 10
+bill_no = "HB04678"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-10-27"

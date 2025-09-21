@@ -1,0 +1,71 @@
+billNumber = "HB05948"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05948"
+lastScraped = "2025-09-22T00:46:57.672726"
+title = "HB05948"
+longTitle = "AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SINACABAN, PROVINCE OF MISAMIS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-03"
+status = "Vetoed by the President on 1992-03-26"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro"
+[[authorsDetail]]
+name = "Ramiro"
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 140629
+congress = 8
+bill_no = "HB05948"
+report = "01513"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1988-03-07"
+date_ob = "1991-05-30"
+date_cal = "1991-05-30"
+date_unass = "1991-05-30"
+date_report = "1991-05-23"
+
+[secondReading]
+id = 20649
+congress = 8
+bill_no = "HB05948"
+date_approved = "1991-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 425
+congress = 8
+bill_no = "HB05948"
+date_dist = "1991-08-22"
+date_adopt = "1991-09-04"
+no_yeas = 123
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-09-05"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1992-02-12"
+dte_actedp = "1992-03-26"

@@ -1,0 +1,45 @@
+billNumber = "HB09234"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09234"
+lastScraped = "2025-09-22T00:25:56.254003"
+title = "HB09234"
+longTitle = "AN ACT DECLARING APRIL SECOND OF EVERY YEAR AS A NON-WORKING NATIONAL PUBLIC HOLIDAY IN HONOR OF FRANCISCO 'BALAGTAS' BALTAZAR TO BE KNOWN AS BALAGTAS DAY"
+scope = "Local"
+dateFiled = "1993-05-20"
+status = "Bill reported out 1994-04-27 (#00672);Submitted by REVISION OF LAWS"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1993-05-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 127852
+congress = 9
+bill_no = "HB09234"
+report = "00672"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1993-05-25"
+date_report = "1994-04-27"

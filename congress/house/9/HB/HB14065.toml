@@ -1,0 +1,42 @@
+billNumber = "HB14065"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14065"
+lastScraped = "2025-09-22T00:25:57.202606"
+title = "HB14065"
+longTitle = "AN ACT ESTABLISHING A PRIMARY HEALTH CARE CENTER IN WESTERN NAGTIPUNAN, PROVINCE OF QUIRINO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-11-03"
+status = "Pending with the Committee on HEALTH since 1994-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua, Junie E."
+[[authorsDetail]]
+name = "Cua, Junie E."
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-11-09"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132674
+congress = 9
+bill_no = "HB14065"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-11-09"

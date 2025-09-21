@@ -1,0 +1,49 @@
+billNumber = "HB07679"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07679"
+lastScraped = "2025-09-22T00:20:58.781837"
+title = "HB07679"
+longTitle = "AN ACT GRANTING THE DEPARTMENT OF ENVIROMENT AND NATURAL RESOURCES THE POWER TO HEAR AND DECIDE CASES OF LANDGRABBING"
+scope = "National"
+dateFiled = "1996-08-05"
+status = "Pending with the Committee on JUSTICE since 1996-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+coAuthors = [ "DE VENECIA, JOSE JR. C.",]
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, JOSE JR. C."
+nameCode = "De Venecia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 114100
+congress = 10
+bill_no = "HB07679"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-08-07"

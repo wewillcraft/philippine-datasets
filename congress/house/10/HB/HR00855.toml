@@ -1,0 +1,60 @@
+billNumber = "HR00855"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00855"
+lastScraped = "2025-09-22T00:20:59.586366"
+title = "HR00855"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON VETERANS AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE MAILING SYSTEM OF THE PHILIPPINE POSTAL CORPORATION IN THE DELIVERY OF VETERANS' PENSION CHECKS"
+scope = "National"
+dateFiled = "1996-09-16"
+status = "Pending with the Committee on RULES since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[[committee]]
+name = "VETERANS AFFAIRS AND WELFARE"
+type = "secondary"
+referralCode = "A506"
+
+[firstReading]
+id = 117909
+congress = 10
+bill_no = "HR00855"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Veterans Affairs and on Transporta tion"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-23"

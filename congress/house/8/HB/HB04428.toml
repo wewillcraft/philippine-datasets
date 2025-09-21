@@ -1,0 +1,67 @@
+billNumber = "HB04428"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04428"
+lastScraped = "2025-09-22T00:46:57.333741"
+title = "HB04428"
+longTitle = "AN ACT REPEALING SECTION 2 OF REPUBLIC ACT NO. 3046 AS AMENDED BY REPUBLIC ACT NO. 5446"
+scope = "National"
+dateFiled = "1987-12-08"
+status = "Approved by the House on 1987-12-10, transmitted to on 1987-12-11 and received by the Senate on 1987"
+statusOrder = 21.0
+urgent = false
+adminBill = true
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1987-12-08"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 139112
+congress = 8
+bill_no = "HB04428"
+report = "00054"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "RECOMMENDI NG ITS APPROVAL"
+date_read = "1987-12-08"
+date_ob = "1987-12-08"
+date_cal = "1987-12-08"
+date_unass = "1987-12-08"
+date_report = "1987-12-08"
+
+[secondReading]
+id = 20573
+congress = 8
+bill_no = "HB04428"
+date_approved = "1987-12-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 349
+congress = 8
+bill_no = "HB04428"
+date_dist = "1987-12-10"
+date_adopt = "1987-12-10"
+no_yeas = 91
+no_nays = 29
+no_abstent = 5
+date_trans = "1987-12-11"
+date_rec = "1987-12-11"

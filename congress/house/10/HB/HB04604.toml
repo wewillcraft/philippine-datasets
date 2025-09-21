@@ -1,0 +1,69 @@
+billNumber = "HB04604"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04604"
+lastScraped = "2025-09-22T00:20:58.228500"
+title = "HB04604"
+longTitle = "AN ACT ESTABLISHING BARUGO SCHOOL OF ARTS AND TRADE IN THE POBLACION OF THE MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-23"
+status = "Approved on Third Reading on 1998-02-06"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-26"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111025
+congress = 10
+bill_no = "HB04604"
+report = "01434"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-10-26"
+date_ob = "1998-01-30"
+date_report = "1998-01-30"
+
+[secondReading]
+id = 18115
+congress = 10
+bill_no = "HB04604"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-01-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2725
+congress = 10
+bill_no = "HB04604"
+date_dist = "1998-02-02"
+date_adopt = "1998-02-06"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0

@@ -1,0 +1,63 @@
+billNumber = "HR00024"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00024"
+lastScraped = "2025-09-22T00:20:59.429510"
+title = "HR00024"
+longTitle = "RESOLUTION URGING THE SECRETARY OF EDUCATON, CULTURE AND SPORTS TO EFFECT PAYMENT OF RETIREMENT PAY OF ITS TEACHERS IMMEDIATELY ON THE DAY THEY RETIRE FROM SERVICE"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "ROMERO, MIGUEL L.", "LIBAN, DANTE V.", "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 117078
+congress = 10
+bill_no = "HR00024"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-31"

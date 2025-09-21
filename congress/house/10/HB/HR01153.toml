@@ -1,0 +1,41 @@
+billNumber = "HR01153"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01153"
+lastScraped = "2025-09-22T00:20:59.647367"
+title = "HR01153"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REVENUE IMPACT OF THE REDUCTION OF THE RATES OF DUTIES ON AGRICULTURAL, INDUSTRIAL, AUTOMOTIVE, AND OTHER PRODUCTS"
+scope = "National"
+dateFiled = "1997-03-21"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier, Exequiel B."
+[[authorsDetail]]
+name = "Javier, Exequiel B."
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-04-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118207
+congress = 10
+bill_no = "HR01153"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-04-21"

@@ -1,0 +1,41 @@
+billNumber = "HB03126"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03126"
+lastScraped = "2025-09-22T00:20:57.953457"
+title = "HB03126"
+longTitle = "AN ACT AMENDING BATAS PAMBANSA BILANG 129, OTHERWISE KNOWN AS THE JUDICIARY ACT OF 1981, AS AMENDED"
+scope = "National"
+dateFiled = "1995-09-01"
+status = "Pending with the Committee on JUSTICE since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 109547
+congress = 10
+bill_no = "HB03126"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-06"

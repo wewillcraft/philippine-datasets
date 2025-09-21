@@ -1,0 +1,47 @@
+billNumber = "HR01053"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01053"
+lastScraped = "2025-09-22T00:20:59.630129"
+title = "HR01053"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED WIDESPREAD CIRCUMVENTION OR DISREGARD OF AGRARIAN LAWS, IMPLEMENTING RULES, AND ORDERS AND DECISIONS OF THE DEPARTMENT OF AGRARIANREFORM AND THE DAR ADJUDICATION BOARD"
+scope = "National"
+dateFiled = "1997-01-21"
+status = "Pending with the Committee on RULES since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 118107
+congress = 10
+bill_no = "HR01053"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agrarian Reform on Jan. 23, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-23"

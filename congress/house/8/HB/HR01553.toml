@@ -1,0 +1,42 @@
+billNumber = "HR01553"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01553"
+lastScraped = "2025-09-22T00:47:02.837058"
+title = "HR01553"
+longTitle = "RESOLUTION URGING THE GOVERNMENT INSURANCE SYSTEM TO UPGRADE THE MONTHLY PENSION OF THE GOVERNMENT RETIREES"
+scope = "National"
+dateFiled = "1989-11-23"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES since 1989-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson"
+[[authorsDetail]]
+name = "Lacson"
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1989-11-23"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 171414
+congress = 8
+bill_no = "HR01553"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = ""
+date_read = "1989-11-23"

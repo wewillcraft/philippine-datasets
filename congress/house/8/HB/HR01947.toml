@@ -1,0 +1,42 @@
+billNumber = "HR01947"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01947"
+lastScraped = "2025-09-22T00:47:02.913107"
+title = "HR01947"
+longTitle = "RESOLUTION TO DIRECT THE PROPER COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION TO DETERMINE THE PROPRIETY OF DECLARING ILLEGAL OR UNLAWFUL ANY ACTION TO RAISE PRICES OF OIL WITHOUT CONDUCTING A PUBLIC HEARING"
+scope = "National"
+dateFiled = "1990-10-08"
+status = "Pending with the Committee on ENERGY since 1990-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aniag"
+[[authorsDetail]]
+name = "Aniag"
+nameCode = "Aniag"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-10-11"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 171783
+congress = 8
+bill_no = "HR01947"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-10-11"

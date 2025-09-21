@@ -1,0 +1,47 @@
+billNumber = "HB04021"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04021"
+lastScraped = "2025-09-22T00:25:55.361034"
+title = "HB04021"
+longTitle = "AN ACT ESTABLISHING A MUSHROOM LABORATORY, RESEARCH, NURSERY, BREEDING, AND DISTRIBUTION CENTER IN THE MUNICIPALITY OF BUSTOS, PROVINCE OF BULACAN, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-10-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122640
+congress = 9
+bill_no = "HB04021"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-10-26"

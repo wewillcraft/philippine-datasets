@@ -1,0 +1,54 @@
+billNumber = "HB02381"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02381"
+lastScraped = "2025-09-21T23:55:20.490081"
+title = "HB02381"
+longTitle = "AN ACT INTEGRATING THE SOUTHERN LEYTE PROVINCIAL HOSPITAL INTO THE EASTERN VISAYAS REGIONAL HOSPITAL"
+scope = "Local"
+dateFiled = "2022-07-26"
+status = "Pending with the Committee on HEALTH since 2022-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02381.pdf"
+fileSize = 63428
+author = "Mercado, Luz V."
+coAuthors = [ "YAP, CHRISTOPHERSON M.",]
+[[authorsDetail]]
+name = "Mercado, Luz V."
+nameCode = "Mercado"
+date = "2022-07-26"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "YAP, CHRISTOPHERSON M."
+nameCode = "Yap (C.)"
+date = "2022-08-18"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 7300
+congress = 19
+bill_no = "HB02381"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-02"

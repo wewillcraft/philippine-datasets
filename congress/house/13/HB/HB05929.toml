@@ -1,0 +1,52 @@
+billNumber = "HB05929"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05929"
+lastScraped = "2025-09-22T00:13:49.037731"
+title = "HB05929"
+longTitle = "AN ACT CONVERTING THE WESTERN VISAYAS MEDICAL CENTER INTO A GOVERNMENT-OWNED AND CONTROLLED HOSPITAL CORPORATION AND THE SAN JOAQUIN MUNICIPAL HOSPITAL AS SUBSIDIARY AND APPROPRIATING FUNDS THEREFORE"
+scope = "Local"
+dateFiled = "2006-11-15"
+status = "Pending with the Committee on HEALTH since 2006-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05929.pdf"
+fileSize = 6034803
+author = "GARIN, JANETTE L."
+[[authorsDetail]]
+name = "GARIN, JANETTE L."
+nameCode = "Garin"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2006-11-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 81019
+congress = 13
+bill_no = "HB05929"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-11-20"
+date_read = "2006-11-20"

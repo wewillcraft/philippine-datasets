@@ -1,0 +1,60 @@
+billNumber = "HR00179"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00179"
+lastScraped = "2025-09-22T00:01:47.372255"
+title = "HR00179"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEES ON BASIC EDUCATION AND CULTURE AND HIGHER AND TECHNICAL EDUCATION TO EXPLORE THE TEACHING OF FOREIGN LANGUAGE AND CULTURE AS ALTERNATIVE ACADEMIC AND ENRICHMENT PROGRAMS FOR OUT-OF-SCHOOL YOUTH"
+scope = "National"
+dateFiled = "2019-08-05"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00179.pdf"
+fileSize = 222214
+author = "Castelo, Precious Hipolito"
+coAuthors = [ "DEFENSOR, LORENZ R.",]
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-08-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEFENSOR, LORENZ R."
+nameCode = "Defensor (L.)"
+date = "2020-01-21"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[firstReading]
+id = 30507
+congress = 18
+bill_no = "HR00179"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

@@ -1,0 +1,47 @@
+billNumber = "HB05253"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05253"
+lastScraped = "2025-09-22T00:25:55.597250"
+title = "HB05253"
+longTitle = "AN ACT REQUIRING THE TRANSFER TO THE GENERAL FUND OF THE NATIONAL TREASURY OF ALL INCOME ACCRUING TO THE DEPARTMENT OF TOURISM AND ITS SUBSIDIARIES AND OTHER ATTACHED AGENCIES FROM THEIR OPERATIONS"
+scope = "National"
+dateFiled = "1992-11-26"
+status = "Pending with the Committee on TOURISM since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123872
+congress = 9
+bill_no = "HB05253"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1992-12-08"

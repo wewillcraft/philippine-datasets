@@ -1,0 +1,47 @@
+billNumber = "HR00974"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00974"
+lastScraped = "2025-09-22T00:20:59.610173"
+title = "HR00974"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES AGAINST THE STAGING OF THE MICHAEL JACKSON CONCERT IN THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1996-11-21"
+status = "Pending with the Committee on RULES since 1996-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "secondary"
+referralCode = "0528"
+
+[firstReading]
+id = 118028
+congress = 10
+bill_no = "HR00974"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Informatio n on Dec. 12, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-03"

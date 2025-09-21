@@ -1,0 +1,47 @@
+billNumber = "HB06795"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06795"
+lastScraped = "2025-09-22T00:25:55.848323"
+title = "HB06795"
+longTitle = "AN ACT PROHIBITING THE CONVERSION OF IRRIGATED AND IRRIGABLE AGRICULTURAL LANDS INTO ANY OTHER USE, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on AGRARIAN REFORM since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125414
+congress = 9
+bill_no = "HB06795"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1993-02-02"

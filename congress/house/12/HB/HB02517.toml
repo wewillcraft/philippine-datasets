@@ -1,0 +1,47 @@
+billNumber = "HB02517"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02517"
+lastScraped = "2025-09-22T00:13:00.250599"
+title = "HB02517"
+longTitle = "AN ACT PROVIDING FOR THE CLEANING, REPAIR AND EXPANSION OF CANALS, SEWERAGE AND WATERWAYS WITHIN THE FIRST DISTRICT OF THE CITY OF VALENZUELA AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "2001-08-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gatchalian, Sherwin T."
+[[authorsDetail]]
+name = "Gatchalian, Sherwin T."
+nameCode = "Gatchalian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85677
+congress = 12
+bill_no = "HB02517"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-08-27"

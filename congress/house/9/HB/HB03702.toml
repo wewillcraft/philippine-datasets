@@ -1,0 +1,47 @@
+billNumber = "HB03702"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03702"
+lastScraped = "2025-09-22T00:25:55.250089"
+title = "HB03702"
+longTitle = "AN ACT AUTHORIZING THE INCREASE OF THE BED CAPACITY OF CATAINGAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF CATAINGAN, PROVINCE OF MASBATE, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-14"
+status = "Pending with the Committee on HEALTH since 1992-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "KHO, ANTONIO T."
+[[authorsDetail]]
+name = "KHO, ANTONIO T."
+nameCode = "Kho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-19"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122321
+congress = 9
+bill_no = "HB03702"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-19"

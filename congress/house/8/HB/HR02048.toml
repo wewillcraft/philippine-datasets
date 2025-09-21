@@ -1,0 +1,50 @@
+billNumber = "HR02048"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02048"
+lastScraped = "2025-09-22T00:47:02.931811"
+title = "HR02048"
+longTitle = "RESOLUTION URGING ALL LOCAL GOVERNMENT UNITS TO OBSERVE A NATIONWIDE YOUTH LEADERSHIP TRAINING DAY"
+scope = "National"
+dateFiled = "1990-11-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1990-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1990-12-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171884
+congress = 8
+bill_no = "HR02048"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1990-12-03"

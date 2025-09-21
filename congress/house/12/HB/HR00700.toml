@@ -1,0 +1,56 @@
+billNumber = "HR00700"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00700"
+lastScraped = "2025-09-22T00:13:01.298680"
+title = "HR00700"
+longTitle = "RESOLUTION URGING THE NATIONAL POWER CORPORATION AND THE DEPARTMENT OF ENERGY TO IMMEDIATELY ORDER THE SHUTDOWN OF ALL NAPOCOR COAL FIRED POWER PLANTS THAT POSE CLEAR AND PRESENT DANGER TO HUMAN AND ANIMAL LIFE, VEGETATION AND THE COASTAL ECOSYSTEMS"
+scope = "National"
+dateFiled = "2002-08-13"
+status = "Pending with the Committee on ENERGY since 2002-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Juan Miguel F."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Zubiri, Juan Miguel F."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J013"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2002-08-20"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 90637
+congress = 12
+bill_no = "HR00700"
+comm_act = "Jointly referred to the Ctte. on Ecology on Aug. 20, 2002."
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2002-08-20"

@@ -1,0 +1,47 @@
+billNumber = "HB03026"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03026"
+lastScraped = "2025-09-22T00:25:55.131224"
+title = "HB03026"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF ADDITIONAL THREE (3) CLASSROOMS IN THE STA. CRUZ ELEMENTARY SCHOOL IN BARANGAY STA. CRUZ, ANTIPOLO, RIZAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sanchez"
+[[authorsDetail]]
+name = "Sanchez"
+nameCode = "Sanchez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121645
+congress = 9
+bill_no = "HB03026"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-01"

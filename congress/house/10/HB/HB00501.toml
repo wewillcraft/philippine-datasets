@@ -1,0 +1,70 @@
+billNumber = "HB00501"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00501"
+lastScraped = "2025-09-22T00:20:57.464365"
+title = "HB00501"
+longTitle = "AN ACT CONVERTING THE NINETEEN (19) KILOMETERS CASIGURAN-GUBAT PROVINCIAL ROAD TO A NATIONAL ROAD IN THE MUNICIPALITY OF CASIGURAN AND GUBAT, PROVINCE OF SORSOGON, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-10"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106922
+congress = 10
+bill_no = "HB00501"
+report = "01104"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-07-27"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 17697
+congress = 10
+bill_no = "HB00501"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2320
+congress = 10
+bill_no = "HB00501"
+date_dist = "1997-10-08"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"

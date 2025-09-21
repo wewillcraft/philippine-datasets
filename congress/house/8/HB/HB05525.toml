@@ -1,0 +1,42 @@
+billNumber = "HB05525"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05525"
+lastScraped = "2025-09-22T00:46:57.518311"
+title = "HB05525"
+longTitle = "AN ACT ESTABLISHING AN EXPERIMENTAL FARM FOR CARABAO RESEARCH, BREEDING, UPGRADING AND DISPERSAL, TOBE LOCATED IN THE MUNICIPALITY OF MATANAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-02-17"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-02-22"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 140207
+congress = 8
+bill_no = "HB05525"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-02-22"

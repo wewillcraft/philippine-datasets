@@ -1,0 +1,46 @@
+billNumber = "HB05023"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05023"
+lastScraped = "2025-09-22T00:20:58.300815"
+title = "HB05023"
+longTitle = "AN ACT ESTABLISHING A FARMERS' TRAINING CENTER IN THE MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE"
+scope = "Local"
+dateFiled = "1995-11-14"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111444
+congress = 10
+bill_no = "HB05023"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-11-20"

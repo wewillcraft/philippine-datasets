@@ -1,0 +1,42 @@
+billNumber = "HR00632"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00632"
+lastScraped = "2025-09-22T00:25:57.481765"
+title = "HR00632"
+longTitle = "RESOLUTION URGING ALL LOCAL GOVERNMENT UNITS TO ORGANIZE BANDS, RONDALLAS AND OTHER MUSICAL ACTIVITIES IN THEIR REPECTIVE AREAS"
+scope = "National"
+dateFiled = "1993-05-18"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-05-25"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 133944
+congress = 9
+bill_no = "HR00632"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-05-25"

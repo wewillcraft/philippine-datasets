@@ -1,0 +1,59 @@
+billNumber = "HCR0024"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0024"
+lastScraped = "2025-09-22T00:20:59.411852"
+title = "HCR0024"
+longTitle = "CONCURRENT RESOLUTION PROVIDING THAT THE SENATE AND THE HOUSE OF REPRESENTATIVES HOLD A JOINT SESSION TO HEAR THE MESSAGE OF THE PRESIDENT OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1996-07-12"
+status = "Adopted as Resolution No. CR00009 on 1996-07-22"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-22"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 116995
+congress = 10
+bill_no = "HCR0024"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-22"
+
+[secondReading]
+id = 18881
+congress = 10
+bill_no = "HCR0024"
+adopted_resolution = "CR00009"
+date_calendared = "1996-07-22"
+date_approved = "1996-07-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

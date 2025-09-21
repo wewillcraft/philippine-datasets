@@ -1,0 +1,42 @@
+billNumber = "PS00456"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00456"
+lastScraped = "2025-09-22T00:13:49.537661"
+title = "PS00456"
+longTitle = "Comfort Women - Where is the Comfort?"
+scope = "National"
+dateFiled = "2006-08-22"
+status = "Pending with the Committee on WOMEN since 2006-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zialcita, Eduardo C."
+[[authorsDetail]]
+name = "Zialcita, Eduardo C."
+nameCode = "Zialcita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2006-09-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 83089
+congress = 13
+bill_no = "PS00456"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2006-09-05"

@@ -1,0 +1,60 @@
+billNumber = "HR00613"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00613"
+lastScraped = "2025-09-22T00:20:59.537261"
+title = "HR00613"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON AGRICULTURE AND FOOD, ECOLOGY, AND HOUSING AND URBAN DEVELOPMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE LAND USE POLICY OF THE GOVERNMENT TO DETERMINE THE EFFECTS OF THE CONTINUED CONSTRUCTION OFGOLF COURSES ON THE ECOLOGY AND FOOD PRODUCTION IN THE COUNTRY"
+scope = "National"
+dateFiled = "1996-05-13"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-05-16"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 117667
+congress = 10
+bill_no = "HR00613"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agricultur e and Food, on Ecology and o"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-05-16"

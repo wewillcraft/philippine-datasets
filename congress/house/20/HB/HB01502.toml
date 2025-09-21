@@ -1,0 +1,67 @@
+billNumber = "HB01502"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01502"
+lastScraped = "2025-09-21T23:39:48.594349"
+title = "HB01502"
+longTitle = "AN ACT PROVIDING FOR THE REVISED GOVERNMENT AUDITING CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2025-07-07"
+status = "Pending with the Committee on REVISION OF LAWS since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01502.pdf"
+fileSize = 605194
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "GARCIA, KAREN HOPE F.", "LOYOLA, ROY M.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.B.)"
+date = "2025-07-07"
+sequence = 1
+
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M. B.)"
+date = "2025-07-07"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "GARCIA, KAREN HOPE F."
+nameCode = "Garcia (K. H.)"
+date = "2025-08-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY M."
+nameCode = "Loyola"
+date = "2025-08-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 1503
+congress = 103
+bill_no = "HB01502"
+report = ""
+comm_act = ""
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

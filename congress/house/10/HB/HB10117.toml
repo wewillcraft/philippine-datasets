@@ -1,0 +1,49 @@
+billNumber = "HB10117"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10117"
+lastScraped = "2025-09-22T00:20:59.317346"
+title = "HB10117"
+longTitle = "AN ACT PROVIDING FOR THE MANDATORY APPOINTMENT OF INFORMATION OFFICERS IN ALL LOCAL GOVERNMENT UNITS, AMENDING FOR THE PURPOSE THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1997-10-15"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116538
+congress = 10
+bill_no = "HB10117"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-10-20"

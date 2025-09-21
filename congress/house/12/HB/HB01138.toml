@@ -1,0 +1,55 @@
+billNumber = "HB01138"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01138"
+lastScraped = "2025-09-22T00:13:00.010930"
+title = "HB01138"
+longTitle = "AN ACT PROVIDING FOR A BI-ANNUAL FOGGING OPERATION NATIONWIDE, ALLOCATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-18"
+status = "Pending with the Committee on HEALTH since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84298
+congress = 12
+bill_no = "HB01138"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-30"

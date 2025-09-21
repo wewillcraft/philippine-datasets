@@ -1,0 +1,49 @@
+billNumber = "HR01240"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01240"
+lastScraped = "2025-09-22T00:20:59.663650"
+title = "HR01240"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR AND EMPLOYMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED CONTINUING RAMPANT ANTI-LABOR ACTIVITIES OF CERTAIN COMPANIES"
+scope = "National"
+dateFiled = "1997-05-30"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118294
+congress = 10
+bill_no = "HR01240"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1997-06-04"

@@ -1,0 +1,47 @@
+billNumber = "HB02782"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02782"
+lastScraped = "2025-09-22T00:25:55.088428"
+title = "HB02782"
+longTitle = "AN ACT ESTABLISHING A BAMBOO NURSERY IN THE MUNICIPALITY OF CALINTAAN, PROVINCE OF OCCIDENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-18"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-09-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121401
+congress = 9
+bill_no = "HB02782"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-09-28"

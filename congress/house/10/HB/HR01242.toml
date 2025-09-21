@@ -1,0 +1,46 @@
+billNumber = "HR01242"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01242"
+lastScraped = "2025-09-22T00:20:59.664171"
+title = "HR01242"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEES ON FOREIGN AFFAIRS AND NATIONAL DEFENSE TO ASSESS, IN AID OF LEGISLATION, THE PHILIPPINE POSITION ON THE SPRATLEYS, THE SCARBOROUGH SHOAL, AND OTHER AREAS OF CONTENTION IN THE SPRATLEYS/SOUTH CHINA SEA TO ENABLE CONGRESS TO TAKE APPROPRIATE LEGISLATIVE MEASURES TO PROTECT OUR NATIONAL SOVEREIGNTY AND TERRITORIAL INTEGRITY"
+scope = "National"
+dateFiled = "1997-06-02"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 118296
+congress = 10
+bill_no = "HR01242"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-06-04"

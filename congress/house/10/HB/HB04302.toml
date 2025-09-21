@@ -1,0 +1,41 @@
+billNumber = "HB04302"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04302"
+lastScraped = "2025-09-22T00:20:58.179925"
+title = "HB04302"
+longTitle = "AN ACT PENALIZING THE CHARGING OF TAXI FARES WHICH ARE HIGHER THAN THE OFFICIAL RATES, THE FAILURE TO USE THE TAXI METERS OR THE REFUSAL TO CARRY WITHOUT CAUSE TAXI PASSENGERS TO THEIR PLACES OF DESTINATION"
+scope = "National"
+dateFiled = "1995-10-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 110723
+congress = 10
+bill_no = "HB04302"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-10-23"

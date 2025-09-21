@@ -1,0 +1,47 @@
+billNumber = "HB04042"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04042"
+lastScraped = "2025-09-22T00:25:55.364452"
+title = "HB04042"
+longTitle = "AN ACT PROVIDING FOR THE RENOVATION AND REPAIR OF JULIAN FELIPE ELEMENTARY SCHOOL IN THE CITY OF CAVITE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122661
+congress = 9
+bill_no = "HB04042"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-27"

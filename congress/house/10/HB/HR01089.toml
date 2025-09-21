@@ -1,0 +1,56 @@
+billNumber = "HR01089"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01089"
+lastScraped = "2025-09-22T00:20:59.636021"
+title = "HR01089"
+longTitle = "RESOLUTION URGING THE MANAGEMENT OF THE INTERNATIONAL RICE RESEARCH INSTITUTE (IRRI) TO DEFER THE RETRENCHMENT OF HALF OF THE LABOR FORCE"
+scope = "Local"
+dateFiled = "1997-02-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "CALALAY, REYNALDO A.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-02-12"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 118143
+congress = 10
+bill_no = "HR01089"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-02-12"

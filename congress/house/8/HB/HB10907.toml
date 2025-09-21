@@ -1,0 +1,42 @@
+billNumber = "HB10907"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10907"
+lastScraped = "2025-09-22T00:46:58.490461"
+title = "HB10907"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED HOSPITAL INTHE MUNICIPALITY OF STA. MAGDALENA EMERGENCY HOSPITAL"
+scope = "Local"
+dateFiled = "1988-05-25"
+status = "Pending with the Committee on HEALTH since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 145576
+congress = 8
+bill_no = "HB10907"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-27"

@@ -1,0 +1,75 @@
+billNumber = "HB00085"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00085"
+lastScraped = "2025-09-22T00:20:57.391227"
+title = "HB00085"
+longTitle = "AN ACT CREATING THE OFFICE OF ENVIRONMENTAL EDUCATION, DEFINING ITS FUNCTIONS AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-06-30"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "LOBREGAT, MA. CLARA L.", "ROMERO, MIGUEL L.", "FIGUEROA, CATALINO V.", "ROXAS, MANUEL A.",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, MA. CLARA L."
+nameCode = "Lobregat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROXAS, MANUEL A."
+nameCode = "Roxas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106506
+congress = 10
+bill_no = "HB00085"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1995-07-25"

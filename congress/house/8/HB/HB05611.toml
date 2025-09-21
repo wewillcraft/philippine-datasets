@@ -1,0 +1,42 @@
+billNumber = "HB05611"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05611"
+lastScraped = "2025-09-22T00:46:57.534402"
+title = "HB05611"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY TINUYOP, MUNICIPALITY OF BACUNGAN, PROVINCE OF ZAMBOANGA DEL NORTE"
+scope = "Local"
+dateFiled = "1988-02-19"
+status = "Pending with the Committee on HEALTH since 1988-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Carloto"
+[[authorsDetail]]
+name = "Carloto"
+nameCode = "Carloto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-02-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 140293
+congress = 8
+bill_no = "HB05611"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-02-23"

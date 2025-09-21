@@ -1,0 +1,42 @@
+billNumber = "HR01466"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01466"
+lastScraped = "2025-09-22T00:47:02.813464"
+title = "HR01466"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON RULES TO DRAFT, FOR APPROVAL, A CODE OF ETHICS FOR MEMBERS OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1989-09-21"
+status = "Pending with the Committee on RULES since 1989-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-09-21"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 171329
+congress = 8
+bill_no = "HR01466"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-09-21"

@@ -1,0 +1,69 @@
+billNumber = "HB01466"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01466"
+lastScraped = "2025-09-22T00:20:57.626473"
+title = "HB01466"
+longTitle = "AN ACT CONVERTING AND DECLARING CERTAIN ROADS IN ILIGAN CITY TO NATIONAL ROADS AND APPROPRIATING FUNDS THEREOF AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Approved on Third Reading on 1998-02-11"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107887
+congress = 10
+bill_no = "HB01466"
+report = "01443"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-08-03"
+date_ob = "1998-02-03"
+date_report = "1998-02-02"
+
+[secondReading]
+id = 17802
+congress = 10
+bill_no = "HB01466"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2422
+congress = 10
+bill_no = "HB01466"
+date_dist = "1998-02-06"
+date_adopt = "1998-02-11"
+no_yeas = 112
+no_nays = 0
+no_abstent = 0

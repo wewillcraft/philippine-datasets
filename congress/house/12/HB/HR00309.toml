@@ -1,0 +1,67 @@
+billNumber = "HR00309"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00309"
+lastScraped = "2025-09-22T00:13:01.206323"
+title = "Garbage Disposal and Solid Wastes in Metro Manila"
+longTitle = "RESOLUTION CALLLING FOR AN IMMEDIATE INQUIRY, IN AID OF LEGISLATION, INTO THE GARBAGE DISPOSAL OF SOLID WASTES IN METROPOLITAN MANILA"
+scope = "Local"
+dateFiled = "2001-11-27"
+status = "Adopted Resolution (Pending with the committee on ECOLOGY since 2001-12-12)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso, Eduardo K."
+coAuthors = [ "PICHAY, PROSPERO JR. A.",]
+[[authorsDetail]]
+name = "Veloso, Eduardo K."
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PICHAY, PROSPERO JR. A."
+nameCode = "Pichay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90248
+congress = 12
+bill_no = "HR00309"
+report = "00107"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2001-12-03"
+date_report = "2001-12-12"
+
+[secondReading]
+id = 15037
+congress = 12
+bill_no = "HR00309"
+adopted_resolution = "HR00090"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN IMMEDIATE INQUIRY, IN AID OF LEGISLATION, INTO THE GARBAGE DISPOSAL OF SOLID WASTES IN METROPOLITAN MANILA"
+date_calendared = "2001-12-12"
+date_approved = "2001-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2001-12-12"
+file = "HR00090.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00090.pdf"

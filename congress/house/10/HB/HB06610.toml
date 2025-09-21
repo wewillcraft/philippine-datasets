@@ -1,0 +1,68 @@
+billNumber = "HB06610"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06610"
+lastScraped = "2025-09-22T00:20:58.588715"
+title = "HB06610"
+longTitle = "AN ACT PROVIDING FOR A HUMAN RESOURCE DEVELOPMENT PROGRAM FOR POLICE PERSONNEL, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-03-18"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "BARBERS, ROBERT Z.", "FIGUEROA, CATALINO V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT Z."
+nameCode = "Barbers"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113031
+congress = 10
+bill_no = "HB06610"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-03-21"

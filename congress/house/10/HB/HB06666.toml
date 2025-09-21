@@ -1,0 +1,46 @@
+billNumber = "HB06666"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06666"
+lastScraped = "2025-09-22T00:20:58.598669"
+title = "HB06666"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A COMPLETE FIRE STATION IN THE MUNICIPALITY OF LANTAWAN, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113087
+congress = 10
+bill_no = "HB06666"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-26"

@@ -1,0 +1,54 @@
+billNumber = "HR01222"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01222"
+lastScraped = "2025-09-22T00:01:47.570211"
+title = "HR01222"
+longTitle = "A RESOLUTION STRONGLY URGING THE HOUSE OF REPRESENTATIVES TO INCREASE THE FISCAL YEAR 2021 BUDGET OF THE DEPARTMENT OF AGRICULTURE (DA) BY PHP42,000,000.00 FOR THE IMMEDIATE IMPLEMENTATION OF THE PLANT, PLANT, PLANT PROGRAM AS A COVID-19 RECOVERY RESPONSE\r\n"
+scope = "National"
+dateFiled = "2020-09-20"
+status = "Pending with the Committee on APPROPRIATIONS since 2020-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01222.pdf"
+fileSize = 705776
+author = "Cabatbat, Argel Joseph T."
+coAuthors = [ "BARBA, ANGELO MARCOS",]
+[[authorsDetail]]
+name = "Cabatbat, Argel Joseph T."
+nameCode = "Cabatbat"
+date = "2020-09-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2020-09-23"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2020-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31541
+congress = 18
+bill_no = "HR01222"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-09-22"

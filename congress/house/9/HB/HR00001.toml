@@ -1,0 +1,75 @@
+billNumber = "HR00001"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00001"
+lastScraped = "2025-09-22T00:25:57.367463"
+title = "HR00001"
+longTitle = "RESOLUTION INFORMING THE SENATE OF THE ORGANIZATION OF THE HOUSE OF REPRESENTATIVES AND IS NOW READY TO EXERCISE ITS FUNCTIONS"
+scope = "National"
+dateFiled = "1992-07-01"
+status = "Adopted as Resolution No. HR00001 on 1992-07-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "ZAMORA, RONALDO B.", "ALBANO, RODOLFO JR. B.", "PONCE DE LEON, DAVID A.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 133313
+congress = 9
+bill_no = "HR00001"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-07-27"
+
+[secondReading]
+id = 20081
+congress = 9
+bill_no = "HR00001"
+adopted_resolution = "HR00001"
+date_approved = "1992-07-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00001.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00001.pdf"

@@ -1,0 +1,41 @@
+billNumber = "HR00689"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00689"
+lastScraped = "2025-09-22T00:20:59.555321"
+title = "HR00689"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS AND THE COMMISSION ON HIGHER EDUCATION FOR THE ILLEGAL CLASSIFICATION OF PEDRO T. MENDIOLA SR. TECHNOLOGICAL ANDPOLYTECHNIC INSTITUTE AS A TERTIARY INSTITUTION INSTEAD OF A VOCATIONAL INSTITUTE AND UNLAWFULLY NOMINATING THE ADMINISTRATOR TO BE THE SUPERINTENDENT OF A MERE INSTITUTE IN DIRECT VIOLATIONS OF CONGRESSIONAL POWERS TO CONVERT THE STATUS OF AN EDUCATIONAL INSTITUTION BY VIRTUE OF LEGISLATION"
+scope = "Local"
+dateFiled = "1996-06-08"
+status = "Pending with the Committee on RULES since 1996-06-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-06-10"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[firstReading]
+id = 117743
+congress = 10
+bill_no = "HR00689"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-06-10"

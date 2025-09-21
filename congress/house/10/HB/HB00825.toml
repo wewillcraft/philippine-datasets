@@ -1,0 +1,46 @@
+billNumber = "HB00825"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00825"
+lastScraped = "2025-09-22T00:20:57.515429"
+title = "HB00825"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A PUBLIC BUILDING THAT WILL SHELTER THE FIELD OFFICES OF THE VARIOUS GOVERNMENT AGENCIES IN THE MUNICIPALITY OF TAGOLOAN, PROVINCE OF LANAO DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107246
+congress = 10
+bill_no = "HB00825"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-07-27"

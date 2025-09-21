@@ -1,0 +1,61 @@
+billNumber = "HB03922"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB03922"
+lastScraped = "2025-09-21T23:55:20.769330"
+title = "HB03922"
+longTitle = "AN ACT ESTABLISHING A COMMUNITY CENTER FOR THE DIFFERENTLY ABLED IN\r\nTHE CITY OF BAGUIO"
+scope = "Local"
+dateFiled = "2022-08-22"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2022-08-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB03922.pdf"
+fileSize = 400168
+author = "Go, Mark O."
+coAuthors = [ "YAP, CHRISTOPHERSON M.", "ROBES, FLORIDA \"Rida\" P.",]
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2022-08-22"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "YAP, CHRISTOPHERSON M."
+nameCode = "Yap (C.)"
+date = "2022-11-28"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROBES, FLORIDA \"Rida\" P."
+nameCode = "Robes"
+date = "2022-12-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2022-08-30"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 8841
+congress = 19
+bill_no = "HB03922"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-30"

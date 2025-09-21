@@ -1,0 +1,43 @@
+billNumber = "HR00627"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00627"
+lastScraped = "2025-09-22T00:25:57.481042"
+title = "HR00627"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH AND PUBLIC SAFETY TO MAKE AN INQUIRY, IN AID OF LEGISLATION, ABOUT THE ALLEGED 'INFERNO IN LUNETA' DEPICTING THAT 60,000 TEENS ARE ENGAGED IN SEX TRADE"
+scope = "Local"
+dateFiled = "1993-05-18"
+status = "Pending with the Committee on SOCIAL SERVICES since 1993-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1993-05-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133939
+congress = 9
+bill_no = "HR00627"
+comm_act = "Change of referral from the Committee on Rules"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1993-05-24"

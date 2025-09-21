@@ -1,0 +1,65 @@
+billNumber = "HR01234"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01234"
+lastScraped = "2025-09-22T00:25:57.597061"
+title = "HR01234"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE MOUNTING PUBLIC COMPLAINTS AGAINST THE RECKLESS MANNER BY WHICH PRIVATE ARMORED SECURITY VEHICLES NEGOTIATE THE CITY STREETS IN VIOLATION OF TRAFFIC RULES AND REGULATIONS AND PUTTING AT GRAVE RISK THE LIVES OF COMMUTERS AND PREDESTRIANS"
+scope = "National"
+dateFiled = "1994-09-22"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1994-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+coAuthors = [ "YAP, JOSE V.", "BICHARA, AL FRANCIS C.", "NAZARENO, DOMINADOR JR. G.",]
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "YAP, JOSE V."
+nameCode = "Yap"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BICHARA, AL FRANCIS C."
+nameCode = "Bichara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "NAZARENO, DOMINADOR JR. G."
+nameCode = "Nazareno"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1994-09-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134540
+congress = 9
+bill_no = "HR01234"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Order and Security on 11/21/94"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1994-09-28"

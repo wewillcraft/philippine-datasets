@@ -1,0 +1,42 @@
+billNumber = "HB04301"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04301"
+lastScraped = "2025-09-22T00:25:55.406750"
+title = "HB04301"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED FIFTY-FOUR HUNDRED AND TWELVE, OTHERWISE KNOWN AS THE CHARTER OF THE CITY OF GENERAL SANTOS, AS AMENDED"
+scope = "Local"
+dateFiled = "1992-10-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-10-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-10-29"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 122920
+congress = 9
+bill_no = "HB04301"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-10-29"

@@ -1,0 +1,52 @@
+billNumber = "HR00254"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00254"
+lastScraped = "2025-09-22T00:01:47.384674"
+title = "HR00254"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPLICATIONS OF ISLAND DEVELOPMENT PLANS ON FUGA, GRANDE AND CHIQUITA ISLANDS BY FOREIGN ENTITIES AND ITS POSSIBLE THREATS TO NATIONAL SECURITY"
+scope = "National"
+dateFiled = "2019-08-20"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00254.pdf"
+fileSize = 442427
+author = "Zarate, Carlos Isagani T."
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2019-08-20"
+sequence = 1
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "2019-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 30582
+congress = 18
+bill_no = "HR00254"
+report = ""
+comm_act = ""
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-28"

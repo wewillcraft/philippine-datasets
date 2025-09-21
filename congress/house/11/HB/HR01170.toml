@@ -1,0 +1,63 @@
+billNumber = "HR01170"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01170"
+lastScraped = "2025-09-22T00:23:18.166414"
+title = "HR01170"
+longTitle = "RESOLUTION EXPRESSING THE GRAVE CONCERN AND VEHEMENT OPPOSITION OF THE HOUSE OF REPRESENTATIVES OVER THE RESOLUTION OF THE COMMISSION ON ELECTIONS DATED JANUARY 7, 1999 OVERTURNING CLEAR PROVISIONS OF THE PARTY-LIST SYSTEM ACT"
+scope = "National"
+dateFiled = "1999-09-30"
+status = "Pending with the Committee on RULES since 1999-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-10-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00476"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00647"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00650"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00476"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00647"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00650"
+flag = "S"
+
+[firstReading]
+id = 105626
+congress = 11
+bill_no = "HR01170"
+report = "00468"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "SUFFRAGE AND ELECTORAL REFORMS"
+recomm = "Adoption, in substituti on of HR No's. 476, 647 and 650."
+date_read = "1999-10-04"
+date_ob = "1999-10-04"
+date_report = "1999-09-30"

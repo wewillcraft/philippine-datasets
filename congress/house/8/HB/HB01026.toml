@@ -1,0 +1,42 @@
+billNumber = "HB01026"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01026"
+lastScraped = "2025-09-22T00:46:56.745464"
+title = "HB01026"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN SITIO TUKOL BARANGAY ABLEG, MUNICIPALITY OF PASIL, PROVINCE OF KALINGA-APAYAO, TO BE KNOWN AS GAMONGAN MEMORIAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on HEALTH since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claver"
+[[authorsDetail]]
+name = "Claver"
+nameCode = "Claver"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 135723
+congress = 8
+bill_no = "HB01026"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-07"

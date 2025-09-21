@@ -1,0 +1,50 @@
+billNumber = "HB00864"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00864"
+lastScraped = "2025-09-22T00:46:56.714530"
+title = "HB00864"
+longTitle = "AN ACT TO CONSIDER ALIENS FOUND AFFLICTED WITH ACUTE IMMUNITY DEFICIENCY SYNDROME DEPORTABLE"
+scope = "National"
+dateFiled = "1987-08-27"
+status = "Pending with the Committee on JUSTICE since 1987-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+coAuthors = [ "GONZALEZ, PACITA T.",]
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, PACITA T."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-08-31"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[firstReading]
+id = 135561
+congress = 8
+bill_no = "HB00864"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-08-31"

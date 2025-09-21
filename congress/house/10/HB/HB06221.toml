@@ -1,0 +1,41 @@
+billNumber = "HB06221"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06221"
+lastScraped = "2025-09-22T00:20:58.516839"
+title = "HB06221"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF VALDEZ IN THE PROVINCE OF ILOCOS NORTE"
+scope = "Local"
+dateFiled = "1996-02-14"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-02-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 112642
+congress = 10
+bill_no = "HB06221"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-02-19"

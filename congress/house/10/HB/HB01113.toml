@@ -1,0 +1,41 @@
+billNumber = "HB01113"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01113"
+lastScraped = "2025-09-22T00:20:57.565300"
+title = "HB01113"
+longTitle = "AN ACT PROHIBITING THE IMPORTATION OF RICE AND CORN, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-20"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 107534
+congress = 10
+bill_no = "HB01113"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-07-31"

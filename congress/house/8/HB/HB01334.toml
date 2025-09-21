@@ -1,0 +1,42 @@
+billNumber = "HB01334"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01334"
+lastScraped = "2025-09-22T00:46:56.798314"
+title = "HB01334"
+longTitle = "AN ACT TO ESTABLISH A FARMERS' TRAINING CENTER INTHE PROVINCE OF COTABATO, TO BE LOCATED IN THE MUNICIPALITY OF MILANG, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136030
+congress = 8
+bill_no = "HB01334"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-15"

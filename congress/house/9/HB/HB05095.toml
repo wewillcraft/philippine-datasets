@@ -1,0 +1,47 @@
+billNumber = "HB05095"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05095"
+lastScraped = "2025-09-22T00:25:55.569606"
+title = "HB05095"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HALL IN BARANGAY PANGDAN, MUNICIPALITY OF CATBALOGAN, PROVINCE OF SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123714
+congress = 9
+bill_no = "HB05095"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-25"

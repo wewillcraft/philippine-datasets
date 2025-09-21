@@ -1,0 +1,67 @@
+billNumber = "HB05718"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05718"
+lastScraped = "2025-09-22T00:46:57.551855"
+title = "HB05718"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF FIFTEEN MILLION PESOS FOR THE ESTABLISHMENT OF A NINETY-BED HOSPITAL IN THE MUNICIPALITY OF BULAN, PROVINCE OF SORSOGON, TO BE KNOWN AS THE BULAN DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1988-02-24"
+status = "REPUBLIC ACT (RA06927) enacted on 1990-03-09"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-01"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 140399
+congress = 8
+bill_no = "HB05718"
+report = "00616"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1988-03-01"
+date_report = "1989-05-24"
+
+[secondReading]
+id = 20633
+congress = 8
+bill_no = "HB05718"
+date_approved = "1989-05-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 409
+congress = 8
+bill_no = "HB05718"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 125
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "A"
+dte_transp = "1990-01-09"
+dte_actedp = "1990-03-09"

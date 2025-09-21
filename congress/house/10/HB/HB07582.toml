@@ -1,0 +1,75 @@
+billNumber = "HB07582"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07582"
+lastScraped = "2025-09-22T00:20:58.765304"
+title = "HB07582"
+longTitle = "AN ACT CREATING THE CHILD AND YOUTH WELFARE BOARD IN EVERY PROVINCE AND CITY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-07-24"
+status = "Pending with the Committee on SOCIAL SERVICES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Periquet"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "ANGARA-CASTILLO, BELLAFLOR J.", "VILLAREAL, JULITA L.", "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Periquet"
+nameCode = "Periquet"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR J."
+nameCode = "Angara-castillo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114003
+congress = 10
+bill_no = "HB07582"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1996-07-29"

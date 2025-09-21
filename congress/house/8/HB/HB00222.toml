@@ -1,0 +1,42 @@
+billNumber = "HB00222"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00222"
+lastScraped = "2025-09-22T00:46:56.595367"
+title = "HB00222"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A NEW PUBLIC MARKET IN THE MUNICIPALITY OF BOGO, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez"
+[[authorsDetail]]
+name = "Martinez"
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 134919
+congress = 8
+bill_no = "HB00222"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-08-11"

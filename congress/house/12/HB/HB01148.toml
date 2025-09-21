@@ -1,0 +1,62 @@
+billNumber = "HB01148"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01148"
+lastScraped = "2025-09-22T00:13:00.012888"
+title = "HB01148"
+longTitle = "AN ACT IMPLEMENTING THE MANDATORY AND PERIODIC DRUG TESTING UNDER THE SUPERVISION OF THE DEPARTMENT OF HEALTH, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-18"
+status = "Pending with the Committee on HEALTH since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+coAuthors = [ "MONFORT, NARCISO D.", "CUENCO, ANTONIO V.",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J050"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84308
+congress = 12
+bill_no = "HB01148"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-30"

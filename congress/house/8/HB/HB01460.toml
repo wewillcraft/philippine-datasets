@@ -1,0 +1,42 @@
+billNumber = "HB01460"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01460"
+lastScraped = "2025-09-22T00:46:56.820488"
+title = "HB01460"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF BAGABAG, PROVINCE OF NUEVA VISCAYA, TO BE KNOWN AS THE BAGABAG DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-15"
+status = "Pending with the Committee on HEALTH since 1987-09-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla"
+[[authorsDetail]]
+name = "Padilla"
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-17"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 136155
+congress = 8
+bill_no = "HB01460"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-17"

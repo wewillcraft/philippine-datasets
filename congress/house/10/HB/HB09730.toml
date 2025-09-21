@@ -1,0 +1,59 @@
+billNumber = "HB09730"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09730"
+lastScraped = "2025-09-22T00:20:59.234734"
+title = "HB09730"
+longTitle = "AN ACT ESTABLISHING AN 'ADOPT-OUT-OF SCHOOL YOUTH PROGRAM' IN BARANGAY MANAGOPAYA, MUNICIPALITY OF BANATE, PROVINCE OF ILOILO, PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-08-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "PERIQUET, ANNA MARIE K.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PERIQUET, ANNA MARIE K."
+nameCode = "Periquet"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-06"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 116151
+congress = 10
+bill_no = "HB09730"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-06"

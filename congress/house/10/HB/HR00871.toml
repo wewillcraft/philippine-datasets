@@ -1,0 +1,65 @@
+billNumber = "HR00871"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00871"
+lastScraped = "2025-09-22T00:20:59.589021"
+title = "HR00871"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTEDLY QUESTIONABLE CIRCUMSTANCES SURROUNDING THE DEATH OF MARIVIC DAVID, AN OVERSEAS CONTRACT WORKER IN DUBAI, UNITED ARAB EMIRATES, WHO DIED ALLEGEDLY FROM CERVICAL INFECTION DUE TO INDUCED ABORTION IN SAID COUNTRY"
+scope = "Local"
+dateFiled = "1996-09-25"
+status = "Pending with the Committee on RULES since 1996-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 117925
+congress = 10
+bill_no = "HR00871"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte's. on Labor and Employment , on Foreign Affa"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-30"

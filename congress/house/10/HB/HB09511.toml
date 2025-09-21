@@ -1,0 +1,75 @@
+billNumber = "HB09511"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09511"
+lastScraped = "2025-09-22T00:20:59.178648"
+title = "HB09511"
+longTitle = "AN ACT DECLARING THE NATIONAL ENVIRONMENTAL POLICY, CREATING THE NATIONAL ENVIRONMENTAL COUNCIL, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-05-30"
+status = "Pending with the Committee on ECOLOGY since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Duavit"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "AVILA, EDGAR M.", "PLAZA, CHARITO B.", "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Duavit"
+nameCode = "Duavit"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115932
+congress = 10
+bill_no = "HB09511"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-06-04"

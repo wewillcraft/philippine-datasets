@@ -1,0 +1,42 @@
+billNumber = "HR00073"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00073"
+lastScraped = "2025-09-22T00:25:57.380897"
+title = "HR00073"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO SUPPORT THE OPPOSITION OF THE PEOPLE OF THE MUNICIPALITY OF KASIBU, PROVINCE OF NUEVA VIZCAYA TO THE CONSTRUCTION BY THE NATIONAL POWER CORPORATION OF THE DIBUYON HYDROELECTRIC POWER PROJECT IN THE SAID MUNICIPALITY"
+scope = "Local"
+dateFiled = "1992-08-11"
+status = "Pending with the Committee on ENERGY since 1992-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-08-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 133385
+congress = 9
+bill_no = "HR00073"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-08-17"

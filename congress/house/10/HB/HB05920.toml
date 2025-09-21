@@ -1,0 +1,70 @@
+billNumber = "HB05920"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05920"
+lastScraped = "2025-09-22T00:20:58.461425"
+title = "HB05920"
+longTitle = "AN ACT DECLARING OCTOBER TWENTY OF EVERY YEAR AS ADLAW SA ORMOC, A SPECIAL NONWORKING PUBLIC HOLIDAY FOR THE CITY OF ORMOC"
+scope = "Local"
+dateFiled = "1996-01-25"
+status = "REPUBLIC ACT RA08410 (Lapsed into law on 1997-11-27)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112341
+congress = 10
+bill_no = "HB05920"
+report = "00537"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1996-01-29"
+date_ob = "1996-08-20"
+date_report = "1996-08-14"
+
+[secondReading]
+id = 18273
+congress = 10
+bill_no = "HB05920"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-08-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2875
+congress = 10
+bill_no = "HB05920"
+date_dist = "1996-09-02"
+date_adopt = "1996-09-26"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-09-26"
+date_rec = "1996-10-03"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-10-23"
+dte_actedp = "1997-11-27"

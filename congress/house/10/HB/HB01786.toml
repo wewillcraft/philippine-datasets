@@ -1,0 +1,46 @@
+billNumber = "HB01786"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01786"
+lastScraped = "2025-09-22T00:20:57.680124"
+title = "HB01786"
+longTitle = "AN ACT CREATING THE MAT-I NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF LAS NIEVES, PROVINCE OF AGUSAN DEL NORTE, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108207
+congress = 10
+bill_no = "HB01786"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-08"

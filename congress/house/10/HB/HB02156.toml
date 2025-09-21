@@ -1,0 +1,66 @@
+billNumber = "HB02156"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02156"
+lastScraped = "2025-09-22T00:20:57.755763"
+title = "HB02156"
+longTitle = "AN ACT PROVIDING AND CONSTITUTING BAGUIO CITY AS A LONE CONGRESSIONAL DISTRICT SEPARATE FROM THE PROVINCE OF BENGUET"
+scope = "Local"
+dateFiled = "1995-08-09"
+status = "Approved by the House on 1996-01-25, transmitted to on 1996-01-25 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 108577
+congress = 10
+bill_no = "HB02156"
+report = "00117"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "APPROVAL WITHOUT AMENDMENTS"
+date_read = "1995-08-15"
+date_ob = "1995-12-20"
+date_report = "1995-12-18"
+
+[secondReading]
+id = 17895
+congress = 10
+bill_no = "HB02156"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-12-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2512
+congress = 10
+bill_no = "HB02156"
+date_dist = "1996-01-22"
+date_adopt = "1996-01-25"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-01-25"
+date_rec = "1996-01-31"

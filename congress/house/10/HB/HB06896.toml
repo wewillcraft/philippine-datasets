@@ -1,0 +1,51 @@
+billNumber = "HB06896"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06896"
+lastScraped = "2025-09-22T00:20:58.639388"
+title = "HB06896"
+longTitle = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE CITY OF MANILA, AND PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-05-02"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1996-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing, Amado S."
+[[authorsDetail]]
+name = "Bagatsing, Amado S."
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1996-05-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 113317
+congress = 10
+bill_no = "HB06896"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1996-05-08"

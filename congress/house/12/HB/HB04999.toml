@@ -1,0 +1,47 @@
+billNumber = "HB04999"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04999"
+lastScraped = "2025-09-22T00:13:00.722957"
+title = "HB04999"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE GOVERNOR CELESTINO GALLARES MEMORIAL HOSPITAL IN TAGBILARAN CITY, TO THREE HUNDRED (300) BEDS, ESTABLISHING AN EXTENSION OF OPERATION TO THE MUNICIPALITY OF TUBIGON, PROVINCE OF BOHOL AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-07-22"
+status = "Pending with the Committee on HEALTH since 2002-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chatto, Edgar M."
+[[authorsDetail]]
+name = "Chatto, Edgar M."
+nameCode = "Chatto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-07-30"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88154
+congress = 12
+bill_no = "HB04999"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-07-30"

@@ -1,0 +1,59 @@
+billNumber = "HB05278"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05278"
+lastScraped = "2025-09-21T23:56:22.505756"
+title = "HB05278"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF DISASTER MANAGEMENT AS DISTINCT AND SEPARATE FROM THE DEPARTMENT OF NATIONAL DEFENSE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2014-12-10"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2014-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05278.pdf"
+fileSize = 317960
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "OLIVAREZ, ERIC D.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2014-12-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC D."
+nameCode = "Olivarez"
+date = "2015-03-17"
+journalNo = "J062"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2014-12-15"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 51092
+congress = 16
+bill_no = "HB05278"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-12-15"

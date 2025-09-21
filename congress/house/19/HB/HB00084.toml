@@ -1,0 +1,61 @@
+billNumber = "HB00084"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00084"
+lastScraped = "2025-09-21T23:55:20.075769"
+title = "HB00084"
+longTitle = "AN ACT REQUIRING GOVERNMENT AGENCIES TO INDICATE THE BLOOD TYPE OF INDIVIDUALS ON THEIR IDENTIFICATION CARDS, CERTIFICATES AND LICENSES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on HEALTH since 2022-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00084.pdf"
+fileSize = 131674
+author = "Teodoro, Marjorie Ann A."
+coAuthors = [ "ACHARON, LORETO B.", "SILVERIO, LORNA C.",]
+[[authorsDetail]]
+name = "Teodoro, Marjorie Ann A."
+nameCode = "Teodoro"
+date = "2022-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ACHARON, LORETO B."
+nameCode = "Acharon"
+date = "2022-08-08"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SILVERIO, LORNA C."
+nameCode = "Silverio"
+date = "2023-01-16"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 5003
+congress = 19
+bill_no = "HB00084"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-26"

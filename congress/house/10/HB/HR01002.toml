@@ -1,0 +1,49 @@
+billNumber = "HR01002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01002"
+lastScraped = "2025-09-22T00:20:59.615502"
+title = "HR01002"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATION (DOTC), THROUGH THE COMMITTEE ON TRANSPORTATION AND COMMUNICATION OF THE HOUSE OF REPRESENTATIVES , TO IMMEDIATELY OPEN FOR PUBLIC USE THE BALO-I AIRPORT IN BALO-I, LANAO DEL NORTE, AS WELL AS TO INVITE COMMERCIAL AND PRIVATE AIRLINE COMPANIES TO UTILIZE THE SAME"
+scope = "Local"
+dateFiled = "1996-12-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+coAuthors = [ "BADELLES, MARIANO SR. LL.",]
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BADELLES, MARIANO SR. LL."
+nameCode = "Badelles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-12-11"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118056
+congress = 10
+bill_no = "HR01002"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-12-11"

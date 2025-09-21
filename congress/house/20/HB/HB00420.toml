@@ -1,0 +1,51 @@
+billNumber = "HB00420"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00420"
+lastScraped = "2025-09-21T23:39:48.380221"
+title = "HB00420"
+longTitle = "AN ACT PROVIDING RIGHT OF ACCESS TO MEDICAL CANNABIS, ESTABLISHING THE MEDICAL CANNABIS OFFICE AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00420.pdf"
+fileSize = 7710002
+author = "VILLAFUERTE, MIGUEL LUIS R."
+[[authorsDetail]]
+name = "VILLAFUERTE, MIGUEL LUIS R."
+nameCode = "Villafuerte (M. L. R.)"
+date = "2025-06-30"
+sequence = 1
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 421
+congress = 103
+bill_no = "HB00420"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

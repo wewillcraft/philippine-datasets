@@ -1,0 +1,46 @@
+billNumber = "HB05074"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05074"
+lastScraped = "2025-09-21T23:56:22.462208"
+title = "HB05074"
+longTitle = "AN ACT IMPOSING DEATH PENALTY IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2014-09-30"
+status = "Pending with the Committee on JUSTICE since 2014-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05074.pdf"
+fileSize = 280107
+author = "Mendoza, Mark Llandro L."
+[[authorsDetail]]
+name = "Mendoza, Mark Llandro L."
+nameCode = "Mendoza (M.)"
+date = "2014-09-30"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2014-10-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 50888
+congress = 16
+bill_no = "HB05074"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-10-20"

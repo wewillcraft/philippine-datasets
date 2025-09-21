@@ -1,0 +1,61 @@
+billNumber = "HB00101"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00101"
+lastScraped = "2025-09-22T00:01:45.020942"
+title = "HB00101"
+longTitle = "AN ACT PROVIDING THAT THE SEASONABLE FILING OF A MOTION FOR RECONSIDERATION AND/OR APPEAL SHALL STAY THE EXECUTION OF THE CHALLENGED ORDER OF DECISION"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on JUSTICE since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00101.pdf"
+fileSize = 2221927
+author = "Lagman, Edcel C."
+coAuthors = [ "MADRONA. ELEANDRO JESUS F.", "SALVADOR-TAMBUNTING, JOY MYRA",]
+[[authorsDetail]]
+name = "Lagman, Edcel C."
+nameCode = "Lagman"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MADRONA. ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = "2019-07-31"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2020-08-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 19515
+congress = 18
+bill_no = "HB00101"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

@@ -1,0 +1,57 @@
+billNumber = "HB00739"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00739"
+lastScraped = "2025-09-22T00:12:59.939201"
+title = "HB00739"
+longTitle = "AN ACT CREATING THE OFFICE OF ENVIRONMENTAL EDUCATION, DEFINING ITS FUNCTIONS AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-06"
+status = "Pending with the Committee on NATURAL RESOURCES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar, Cynthia A."
+coAuthors = [ "DEL MAR, RAUL V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Villar, Cynthia A."
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 83899
+congress = 12
+bill_no = "HB00739"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2001-07-24"

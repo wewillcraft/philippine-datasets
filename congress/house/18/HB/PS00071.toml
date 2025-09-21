@@ -1,0 +1,46 @@
+billNumber = "PS00071"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=PS00071"
+lastScraped = "2025-09-22T00:01:47.889160"
+title = "Public Health And Nursing In Crisis"
+longTitle = ""
+scope = "National"
+dateFiled = "2019-09-30"
+status = "Pending with the Committee on HEALTH since 2020-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gaite, Ferdinand R."
+[[authorsDetail]]
+name = "Gaite, Ferdinand R."
+nameCode = "Gaite"
+date = "2019-09-30"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-03-03"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 32999
+congress = 18
+bill_no = "PS00071"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-03-03"

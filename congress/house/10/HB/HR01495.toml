@@ -1,0 +1,49 @@
+billNumber = "HR01495"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01495"
+lastScraped = "2025-09-22T00:20:59.708752"
+title = "HR01495"
+longTitle = "RESOLUTION STRONGLY URGING THE ARMED FORCES OF THE PHILIPPINES TO MOBILIZE ITS ENGINEERING UNITS TO ASSIST AND COMPLEMENT GOVERNMENT EFFORTS IN COMBATING  THE EL NINO PHENOMENON IN ORDER TO SUSTAIN ECONOMIC GAINS PARTICULARLY IN THE COUNTRYSIDE"
+scope = "National"
+dateFiled = "1998-01-20"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1998-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1998-01-22"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 118549
+congress = 10
+bill_no = "HR01495"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1998-01-22"

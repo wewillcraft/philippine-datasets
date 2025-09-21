@@ -1,0 +1,46 @@
+billNumber = "HB09746"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09746"
+lastScraped = "2025-09-22T00:20:59.237692"
+title = "HB09746"
+longTitle = "AN ACT SEPARATING RIZAL HIGH SCHOOL ANNEX IN BARANGAY ROSARIO IN THE CITY OF PASIG, TO BE KNOWN AS THE RIZAL HIGH SCHOOL, ROSARIO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier"
+[[authorsDetail]]
+name = "Javier"
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116167
+congress = 10
+bill_no = "HB09746"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-07"

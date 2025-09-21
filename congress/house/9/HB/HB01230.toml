@@ -1,0 +1,47 @@
+billNumber = "HB01230"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01230"
+lastScraped = "2025-09-22T00:25:54.814881"
+title = "HB01230"
+longTitle = "AN ACT CREATING THE PROVINCE OF BUKIDNON DEL SUR"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119849
+congress = 9
+bill_no = "HB01230"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-25"

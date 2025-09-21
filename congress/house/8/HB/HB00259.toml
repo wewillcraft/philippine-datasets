@@ -1,0 +1,42 @@
+billNumber = "HB00259"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00259"
+lastScraped = "2025-09-22T00:46:56.601880"
+title = "HB00259"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF CULASI IN THEPROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1987-08-11"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 134956
+congress = 8
+bill_no = "HB00259"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-08-12"

@@ -1,0 +1,42 @@
+billNumber = "HB00964"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00964"
+lastScraped = "2025-09-22T00:46:56.734772"
+title = "HB00964"
+longTitle = "AN ACT PROPOSING THE ESTABLISHMENT OF HEALTH CENTERS IN ALL BARANGAYS IN THE 23 MUNICIPALITIES OF THE PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-01"
+status = "Pending with the Committee on HEALTH since 1987-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-03"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 135661
+congress = 8
+bill_no = "HB00964"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-03"

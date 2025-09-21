@@ -1,0 +1,52 @@
+billNumber = "HR00719"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00719"
+lastScraped = "2025-09-22T00:01:47.471954"
+title = "HR00719"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEE ON FOREIGN AFFAIRS, COMMITTEE ON CIVIL SERVICE AND PROFESSIONAL REGULATION, AND COMMITTEE ON GOVERNMENT REORGANIZATION TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF THE FOREIGN SERVICE ACT AND THE CIVIL SERVICE LAW AND THE GOVERNMENT REORGANIZATION PLANS FOR 1986 AND 1972"
+scope = "National"
+dateFiled = "2020-02-17"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 2020-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00719.pdf"
+fileSize = 873888
+author = "Lopez, Manuel Luis T."
+[[authorsDetail]]
+name = "Lopez, Manuel Luis T."
+nameCode = "Lopez (M.L.)"
+date = "2020-02-17"
+sequence = 1
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "2020-02-19"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 31038
+congress = 18
+bill_no = "HR00719"
+report = ""
+comm_act = ""
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-05-27"
+date_read = "2020-02-19"

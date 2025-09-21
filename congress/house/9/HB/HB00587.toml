@@ -1,0 +1,47 @@
+billNumber = "HB00587"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00587"
+lastScraped = "2025-09-22T00:25:54.700734"
+title = "HB00587"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT AND INCREASE IN THE BED CAPACITY OF THE BALITUCAN EMERGENCY HOSPITAL IN MAGALANG, PAMPANGA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on HEALTH since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119206
+congress = 9
+bill_no = "HB00587"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-11"

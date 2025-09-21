@@ -1,0 +1,59 @@
+billNumber = "HB10461"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10461"
+lastScraped = "2025-09-22T00:20:59.387662"
+title = "HB10461"
+longTitle = "AN ACT ESTABLISHING THE BOAC INTERIOR NATIONAL HIGH SCHOOL IN BARANGAY MAINIT IN THE MUNICIPALITY OF BOAC, PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-01-12"
+status = "Approved on Second Reading on 1998-02-20"
+statusOrder = 13.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116881
+congress = 10
+bill_no = "HB10461"
+report = "01502"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1998-01-19"
+date_ob = "1998-02-19"
+date_report = "1998-02-18"
+
+[secondReading]
+id = 18852
+congress = 10
+bill_no = "HB10461"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

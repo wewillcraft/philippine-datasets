@@ -1,0 +1,41 @@
+billNumber = "HR00316"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00316"
+lastScraped = "2025-09-22T00:20:59.480638"
+title = "HR00316"
+longTitle = "RESOLUTION URGING THAT THE CENTENNIAL TOWER PROJECT THAT WILL COMMEMORATE THE DEATH OF DR. JOSE P. RIZAL AND THE DECLARATION OF OUR INDEPENDENCE FROM SPANISH RULE BE CONSTRUCTED IN CALAMBA, LAGUNA, INSTEAD OF RIZAL PARK, MANILA"
+scope = "Local"
+dateFiled = "1995-11-16"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117370
+congress = 10
+bill_no = "HR00316"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-11-21"

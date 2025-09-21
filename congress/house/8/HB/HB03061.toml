@@ -1,0 +1,42 @@
+billNumber = "HB03061"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03061"
+lastScraped = "2025-09-22T00:46:57.100260"
+title = "HB03061"
+longTitle = "AN ACT TO IMPROVE THE CHOCOLATE HILLS TOURIST SPOT AT CARMEN MUNICIPALITY AND TO PROVIDE FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-10-21"
+status = "Pending with the Committee on TOURISM since 1987-10-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1987-10-22"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[firstReading]
+id = 137750
+congress = 8
+bill_no = "HB03061"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+date_read = "1987-10-22"

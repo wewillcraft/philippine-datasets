@@ -1,0 +1,41 @@
+billNumber = "HB07454"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07454"
+lastScraped = "2025-09-22T00:20:58.744162"
+title = "HB07454"
+longTitle = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NUMBERED SEVEN HUNDRED AND SIXTY, AS AMENDED BY CONTINUING THE BAREBOAT CHARTERING PROGRAM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-07-01"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 113875
+congress = 10
+bill_no = "HB07454"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-07-23"

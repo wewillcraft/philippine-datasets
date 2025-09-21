@@ -1,0 +1,42 @@
+billNumber = "HB00293"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00293"
+lastScraped = "2025-09-22T00:25:54.647050"
+title = "HB00293"
+longTitle = "AN ACT CHANGING THE NAME OF BARANGAY NAVARRO IN THE MUNICIPALITY OF GENERAL TRIAS, PROVINCE OF CAVITE, TO BARANGAY FELIX MANALO"
+scope = "Local"
+dateFiled = "1992-07-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 118912
+congress = 9
+bill_no = "HB00293"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-07-30"

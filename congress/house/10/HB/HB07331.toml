@@ -1,0 +1,46 @@
+billNumber = "HB07331"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07331"
+lastScraped = "2025-09-22T00:20:58.720665"
+title = "HB07331"
+longTitle = "AN ACT PROVIDING FOR THE DEVELOPMENT OF THE MINALUNGAO NATIONAL PARK SITUATED IN THE MUNICIPALITIES OF GENERAL TINIO AND GAPAN, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113752
+congress = 10
+bill_no = "HB07331"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-06-08"

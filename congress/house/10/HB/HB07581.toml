@@ -1,0 +1,46 @@
+billNumber = "HB07581"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07581"
+lastScraped = "2025-09-22T00:20:58.765165"
+title = "HB07581"
+longTitle = "AN ACT ESTABLISHING THE NORTHERN LUZON INDUSTRIAL CROPS RESEARCH INSTITUTE AT THE MARIANO STATE UNIVERSITY, BATAC, ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114002
+congress = 10
+bill_no = "HB07581"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-07-29"

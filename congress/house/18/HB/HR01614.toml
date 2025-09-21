@@ -1,0 +1,47 @@
+billNumber = "HR01614"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01614"
+lastScraped = "2025-09-22T00:01:47.647917"
+title = "HR01614"
+longTitle = "A RESOLUTION URGING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE PROCEDURE OF THE PHILIPPINE DRUG ENFORCEMENT AGENCY (PDEA) IN COMING UP WITH THEIR NARCO LIST"
+scope = "National"
+dateFiled = "2021-03-01"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2021-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01614.pdf"
+fileSize = 1016149
+author = "Pichay, Prospero Jr. A."
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = "Pichay"
+date = "2021-03-01"
+sequence = 1
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2021-03-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 31932
+congress = 18
+bill_no = "HR01614"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-03-10"
+date_read = "2021-03-02"

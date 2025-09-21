@@ -1,0 +1,42 @@
+billNumber = "HR01487"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01487"
+lastScraped = "2025-09-22T00:47:02.816179"
+title = "HR01487"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE OPENING OF THE BULACAN WATER RESERVOIR, WHICH CAUSED THE FLOODS IN BULACAN AND OTHER PROVINCES ON SEPTEMBER 12, 1989 DESTROYING CROPS, ANIMALS AND PROPERTY"
+scope = "Local"
+dateFiled = "1989-10-05"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1989-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rivera"
+[[authorsDetail]]
+name = "Rivera"
+nameCode = "Rivera"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1989-10-05"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171349
+congress = 8
+bill_no = "HR01487"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1989-10-05"

@@ -1,0 +1,47 @@
+billNumber = "HR00958"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00958"
+lastScraped = "2025-09-22T00:20:59.606377"
+title = "HR00958"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION OF AN ALLEGED BANKS SCAM VICTIMIZING THE SOLIDBANK CORPORATION IN THE AMOUNT OF OVER A HUNDRED MILLION PESOS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-11-14"
+status = "Pending with the Committee on RULES since 1996-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-18"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 118012
+congress = 10
+bill_no = "HR00958"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Banks and Financial Intermedia ries on No"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-18"

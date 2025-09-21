@@ -1,0 +1,42 @@
+billNumber = "HR00866"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00866"
+lastScraped = "2025-09-22T00:47:02.695441"
+title = "HR00866"
+longTitle = "RESOLUTION URGING HER EXCELLENCY, THE PRESIDENT, AND THE DEPARTMENT OF AGRICULTURE AND FOOD, TO TAKE IMMEDIATE ACTION ON THE PROBLEMS OF THE COUNTRY'S CORN FARMERS"
+scope = "National"
+dateFiled = "1988-08-22"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua"
+[[authorsDetail]]
+name = "Cua"
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-08-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170747
+congress = 8
+bill_no = "HR00866"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-08-24"

@@ -1,0 +1,43 @@
+billNumber = "HB01018"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01018"
+lastScraped = "2025-09-22T00:46:56.744197"
+title = "HB01018"
+longTitle = "AN ACT PROPOSING THE ESTABLISHMENT OF A HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF SAN JULIAN, PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 135715
+congress = 8
+bill_no = "HB01018"
+comm_act = "SUBSTITUTE D BY HB 4879"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1987-09-07"

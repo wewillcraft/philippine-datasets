@@ -1,0 +1,70 @@
+billNumber = "HR02292"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02292"
+lastScraped = "2025-09-22T00:47:02.997184"
+title = "HR02292"
+longTitle = "RESOLUTION AUTHORIZING ALL COMMITTEES AND SUBCOMMITTEES TO FUNCTION DURING THE RECESS OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1991-06-05"
+status = "Adopted as Resolution No. HR00103 on 1991-06-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sumulong"
+coAuthors = [ "ESCUDERO, SALVADOR III H.", "ENVERGA, WILFRIDO L.",]
+[[authorsDetail]]
+name = "Sumulong"
+nameCode = "Sumulong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, SALVADOR III H."
+nameCode = "Escudero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ENVERGA, WILFRIDO L."
+nameCode = "Enverga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1991-06-06"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 172123
+congress = 8
+bill_no = "HR02292"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1991-06-06"
+date_ob = "1991-06-06"
+date_cal = "1991-06-06"
+date_unass = "1991-06-06"
+
+[secondReading]
+id = 21690
+congress = 8
+bill_no = "HR02292"
+adopted_resolution = "HR00103"
+date_calendared = "1991-06-06"
+date_approved = "1991-06-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

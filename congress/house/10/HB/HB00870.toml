@@ -1,0 +1,56 @@
+billNumber = "HB00870"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00870"
+lastScraped = "2025-09-22T00:20:57.522977"
+title = "HB00870"
+longTitle = "AN ACT REGULATING THE ESTABLISHMENT AND CONDUCT OF CHECKPOINTS"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+coAuthors = [ "RODRIGUEZ, OSCAR S.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[firstReading]
+id = 107291
+congress = 10
+bill_no = "HB00870"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-07-27"

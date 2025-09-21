@@ -1,0 +1,70 @@
+billNumber = "HB08733"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08733"
+lastScraped = "2025-09-22T00:23:17.192315"
+title = "HB08733"
+longTitle = "AN ACT CONVERTING THE PILI - BINANUAANAN ROAD IN THE MUNICIPALITY OF PILI, CAMARINES SUR INTO A NATIONAL ROAD, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1999-11-09"
+status = "Approved by the House on 2000-08-09 and transmitted to the Senate on 2000-08-10"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1999-11-15"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 100168
+congress = 11
+bill_no = "HB08733"
+report = "01146"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1999-11-15"
+date_ob = "2000-07-25"
+date_report = "2000-07-05"
+
+[secondReading]
+id = 16998
+congress = 11
+bill_no = "HB08733"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship speech."
+date_approved = "2000-07-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4245
+congress = 11
+bill_no = "HB08733"
+date_dist = "2000-08-02"
+date_adopt = "2000-08-09"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-08-10"

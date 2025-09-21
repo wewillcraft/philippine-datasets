@@ -1,0 +1,42 @@
+billNumber = "HB12871"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12871"
+lastScraped = "2025-09-22T00:25:56.983735"
+title = "HB12871"
+longTitle = "AN ACT ESTABLISHING A YOUTH COUNSELLING OFFICE IN BARANGAY POBLACION, MUNTINLUPA, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-05-27"
+status = "Pending with the Committee on SOCIAL SERVICES since 1994-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1994-06-01"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131480
+congress = 9
+bill_no = "HB12871"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1994-06-01"

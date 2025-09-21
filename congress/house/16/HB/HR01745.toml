@@ -1,0 +1,70 @@
+billNumber = "HR01745"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01745"
+lastScraped = "2025-09-21T23:56:23.117679"
+title = "HR01745"
+longTitle = "RESOLUTION COMMENDING DEPARTMENT OF JUSTICE SECRETARY LEILA DE LIMA FOR ENFORCING  CEASE-AND-DESIST ORDER AGAINST THE RAMPANT ILLEGAL MINING OPERATIONS IN THE FIRST DISTRICT OF CAMARINES NORTE"
+scope = "National"
+dateFiled = "2014-12-04"
+status = "Pending With Rules (Included in OB on 2014-12-09)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barcelona-Reyes, Catherine, M.D."
+coAuthors = [ "MATUGAS, FRANCISCO TINIO",]
+[[authorsDetail]]
+name = "Barcelona-Reyes, Catherine, M.D."
+nameCode = "Barcelona-Reyes"
+date = "2014-12-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MATUGAS, FRANCISCO TINIO"
+nameCode = "Matugas"
+date = "2014-12-04"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-12-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00910"
+sequence = 1
+date = "2014-12-04"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00910"
+sequence = 1
+date = "2014-12-04"
+flag = "S"
+
+[firstReading]
+id = 54142
+congress = 16
+bill_no = "HR01745"
+report = "00507"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "NATURAL RESOURCES"
+recomm = "Adoption in substitution of House Resolution No. 910"
+remarks = ""
+file = "CR00507.pdf"
+date_read = "2014-12-09"
+date_ob = "2014-12-09"
+date_report = "2014-12-04"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00507.pdf"

@@ -1,0 +1,54 @@
+billNumber = "HB01818"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01818"
+lastScraped = "2025-09-22T00:20:57.685917"
+title = "HB01818"
+longTitle = "AN ACT EXTENDING REPRESENTATION ALLOWANCE AND TRAVEL ALLOWANCE (RATA) TO SUPERVISORS I TO AVIOD DEMORALIZATION IN THE OFFICIAL FUNCTION OF THEIR SUPERVISORY WORK, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108239
+congress = 10
+bill_no = "HB01818"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-09"

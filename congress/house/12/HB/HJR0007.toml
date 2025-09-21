@@ -1,0 +1,51 @@
+billNumber = "HJR0007"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HJR0007"
+lastScraped = "2025-09-22T00:13:01.134884"
+title = "HJR0007"
+longTitle = "JOINT RESOLUTION CREATING A JOINT LEGISLATIVE-EXE CUTIVE COMMITTEE TO SERVE AS AN OVERSIGHT COMMITTEE TO ADDRESS NATIONAL MARITIME AND OCEAN ISSUES"
+scope = "National"
+dateFiled = "2001-10-16"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2001-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2001-10-23"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 89911
+congress = 12
+bill_no = "HJR0007"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Foreign Affairs on Dec. 5, 2001.;as per J"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2001-10-23"

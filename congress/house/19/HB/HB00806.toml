@@ -1,0 +1,66 @@
+billNumber = "HB00806"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00806"
+lastScraped = "2025-09-21T23:55:20.223778"
+title = "HB00806"
+longTitle = "AN ACT PROMOTING THE USE OF URBAN FARMING IN THE\r\nMETROPOLITAN REGIONS TO ADDRESS FOOD SECURITY\r\nCONCERNS, ESTABLISHING ECOLOGICAL COMMUNITY\r\nFUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00806.pdf"
+fileSize = 439218
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "MARIÑO, MARIO VITTORIO \"Marvey\" A.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2022-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MARIÑO, MARIO VITTORIO \"Marvey\" A."
+nameCode = "Mariño"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 5725
+congress = 19
+bill_no = "HB00806"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

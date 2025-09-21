@@ -1,0 +1,51 @@
+billNumber = "HCR0021"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0021"
+lastScraped = "2025-09-22T00:20:59.410340"
+title = "HCR0021"
+longTitle = "CONCURRENT RESOLUTION CREATING A JOINT COMMITTEE OF BOTH HOUSES TO NOTFY THE PRESIDENT OF THE PHILIPPINES THAT CONGRESS HAS CONVENED IN A SPECIAL SESSION AND THERE BEING A QUORUM, HAS ALREADY ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Adopted as Resolution No. CR00006 on 1996-06-07"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-06-07"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 116992
+congress = 10
+bill_no = "HCR0021"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-06-07"
+
+[secondReading]
+id = 18879
+congress = 10
+bill_no = "HCR0021"
+adopted_resolution = "CR00006"
+date_calendared = "1996-06-07"
+date_approved = "1996-06-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,68 @@
+billNumber = "HB03019"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03019"
+lastScraped = "2025-09-22T00:20:57.922915"
+title = "HB03019"
+longTitle = "AN ACT AMENDING SECTIONS 2 AND 5 OF REPUBLIC ACT NO. 7687, OTHERWISE KNOWN AS THE SCIENCE AND TECHNOLOGY ACT OF 1994"
+scope = "National"
+dateFiled = "1995-08-31"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+coAuthors = [ "LIBAN, DANTE V.", "DRAGON, RENATO P.", "SARMIENTO, ANGELITO M.",]
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, ANGELITO M."
+nameCode = "Sarmiento"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109440
+congress = 10
+bill_no = "HB03019"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1995-09-06"

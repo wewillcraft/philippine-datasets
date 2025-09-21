@@ -1,0 +1,42 @@
+billNumber = "HR01415"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01415"
+lastScraped = "2025-09-22T00:47:02.805567"
+title = "HR01415"
+longTitle = "RESOLUTION DIRECTING THE SECRETARIAT OF THE HOUSE OF REPRESENTATIVES , TO FURNISH PERIODICALLY EVERY REGIONAL DEVELOPMENT COUNCIL AND THE REGIONAL CONSULTATIVE ASSEMBLY THROUGHOUT THE COUNTRY COPIES OF ALL NATIONAL AND LOCAL BILLS PERTAINING TO EACHREGION FILED IN THE HOUSE WITH REPORT ON THE STATUS OF SUCH BILLS"
+scope = "National"
+dateFiled = "1989-08-16"
+status = "Pending with the Committee on RULES since 1989-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-08-16"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171280
+congress = 8
+bill_no = "HR01415"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-08-16"

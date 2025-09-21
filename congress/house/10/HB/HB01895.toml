@@ -1,0 +1,42 @@
+billNumber = "HB01895"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01895"
+lastScraped = "2025-09-22T00:20:57.703011"
+title = "HB01895"
+longTitle = "AN ACT AMENDING SECTION 15 OF REPUBLIC ACT NUMBERED SEVENTY-TWO HUNDRED AND TWENTY-SEVEN, OTHERWISE KNOWN AS THE BASES CONVERSION AND DEVELOPMENT ACT OF 1992 ON THE CLARK AND OTHER SPECIAL ECONOMIC ZONES AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 108316
+congress = 10
+bill_no = "HB01895"
+comm_act = "change of ctte. ref'l fro Economic Affairs as per J. 54; p.18"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1995-08-09"

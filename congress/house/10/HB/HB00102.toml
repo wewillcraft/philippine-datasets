@@ -1,0 +1,46 @@
+billNumber = "HB00102"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00102"
+lastScraped = "2025-09-22T00:20:57.394909"
+title = "HB00102"
+longTitle = "AN ACT PROVIDING FOR THE CREATION OF MEGAMANILA, ESTABLISHING AN INTER-AGENCY PREPARATORY COUNCIL PRIOR TO ITS CREATION, SETTING A TIMETABLE FOR ITS ORGANIZATION, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-06-30"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106523
+congress = 10
+bill_no = "HB00102"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-07-26"

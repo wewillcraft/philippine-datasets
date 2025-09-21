@@ -1,0 +1,75 @@
+billNumber = "HB02433"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02433"
+lastScraped = "2025-09-22T00:20:57.804813"
+title = "HB02433"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BAMBANG, PRROVINCE OF NUEVA VIZCAYA, TO BE KNOWN AS THE BAMBANG NATIONAL HIGH SHCOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-15"
+status = "REPUBLIC ACT RA08331 (Lapsed into law on 1997-06-30)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-21"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108854
+congress = 10
+bill_no = "HB02433"
+report = "00389"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-08-21"
+date_ob = "1996-05-13"
+date_report = "1996-05-09"
+
+[secondReading]
+id = 17919
+congress = 10
+bill_no = "HB02433"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-16"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2534
+congress = 10
+bill_no = "HB02433"
+date_dist = "1996-05-20"
+date_adopt = "1996-05-23"
+no_yeas = 110
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-23"
+date_rec = "1996-05-29"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-05-28"
+dte_actedp = "1997-06-30"

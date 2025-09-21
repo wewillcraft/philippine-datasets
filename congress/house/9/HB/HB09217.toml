@@ -1,0 +1,47 @@
+billNumber = "HB09217"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09217"
+lastScraped = "2025-09-22T00:25:56.251094"
+title = "HB09217"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HALL AT BARANGAY MAHIPON, MUNICIPALITY OF GAPAN, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-05-19"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lorenzo"
+[[authorsDetail]]
+name = "Lorenzo"
+nameCode = "Lorenzo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-05-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127835
+congress = 9
+bill_no = "HB09217"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-05-24"

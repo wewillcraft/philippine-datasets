@@ -1,0 +1,51 @@
+billNumber = "HB01706"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01706"
+lastScraped = "2025-09-21T23:39:48.631929"
+title = "HB01706"
+longTitle = "AN ACT ESTABLISHING THE SPECIAL ECONOMIC ZONE AND FREEPORT IN THE PROVINCE OF ILOCOS NORTE, CREATING FOR THIS PURPOSE THE ILOCOS NORTE SPECIAL ECONOMIC ZONE AND FREEPORT AUTHORITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-07-10"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01706.pdf"
+fileSize = 6633924
+author = "BARBA, ANGELO MARCOS"
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2025-07-10"
+sequence = 1
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 1707
+congress = 103
+bill_no = "HB01706"
+report = ""
+comm_act = ""
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

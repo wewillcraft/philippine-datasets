@@ -1,0 +1,68 @@
+billNumber = "HB07718"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07718"
+lastScraped = "2025-09-21T23:55:45.825515"
+title = "HB07718"
+longTitle = "AN ACT PROHIBITING THE MANUFACTURE, USE, SALE, AND IMPORTATION OF COSMETIC AND PERSONAL CARE PRODUCTS CONTAINING PLASTIC MICROBEADS"
+scope = "National"
+dateFiled = "2018-05-16"
+status = "Pending with the Committee on ECOLOGY since 2018-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07718.pdf"
+fileSize = 970141
+author = "Zubiri, Manuel  F."
+coAuthors = [ "SARMIENTO, EDGAR S.", "SY-ALVARADO, JOSE ANTONIO R.", "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Zubiri, Manuel  F."
+nameCode = "Zubiri"
+date = "2018-05-16"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, EDGAR S."
+nameCode = "Sarmiento (E.M.)"
+date = "2018-07-25"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-08-01"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2019-02-06"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2018-05-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 41185
+congress = 17
+bill_no = "HB07718"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-05-23"

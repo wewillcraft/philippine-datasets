@@ -1,0 +1,46 @@
+billNumber = "HB10149"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10149"
+lastScraped = "2025-09-22T00:20:59.323166"
+title = "HB10149"
+longTitle = "AN ACT PROVIDING FOR THE DESIGN AND CONSTRUCTION OF AN INTEGRATED FLOOD CONTROL SYSTEM IN THE MUNICIPALITIES OF BACOOR, KAWIT, NOVELETA, ROSARIO, AND THE CITY OF CAVITE, ALL IN THE PROVINCE OF CAVITE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-10-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116570
+congress = 10
+bill_no = "HB10149"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-10-24"

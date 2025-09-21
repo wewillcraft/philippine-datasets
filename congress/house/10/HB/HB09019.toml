@@ -1,0 +1,41 @@
+billNumber = "HB09019"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09019"
+lastScraped = "2025-09-22T00:20:59.083617"
+title = "HB09019"
+longTitle = "AN ACT TO GRANT FRANKING PRIVILEGE TO LOCAL GOVERNMENTS"
+scope = "National"
+dateFiled = "1997-02-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-03-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-03-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115440
+congress = 10
+bill_no = "HB09019"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-03-04"

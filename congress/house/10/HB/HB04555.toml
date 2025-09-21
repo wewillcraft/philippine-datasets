@@ -1,0 +1,46 @@
+billNumber = "HB04555"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04555"
+lastScraped = "2025-09-22T00:20:58.220819"
+title = "HB04555"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY AUDIO VISUAL CENTER IN BARANGAY BALUMBATO, DISTRCIT II, QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-23"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-10-26"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110976
+congress = 10
+bill_no = "HB04555"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-10-26"

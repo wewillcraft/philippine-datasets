@@ -1,0 +1,90 @@
+billNumber = "HB00001"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00001"
+lastScraped = "2025-09-21T23:56:21.464003"
+title = "National Defense And Security Act"
+longTitle = "AN ACT PROVIDING FOR THE NATIONAL DEFENSE AND SECURITY OF THE REPUBLIC OF THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00001.pdf"
+fileSize = 5672608
+author = "Biazon, Rodolfo G."
+coAuthors = [ "ORTEGA, FRANCIS EMMANUEL R.", "CHIPECO, JOAQUIN JR. M.", "DEL ROSARIO, ANTHONY G.", "LOBREGAT, CELSO", "SAKALURAN, RADEN C.", "CALIXTO-RUBIANO, IMELDA GALLARDO",]
+[[authorsDetail]]
+name = "Biazon, Rodolfo G."
+nameCode = "Biazon"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ORTEGA, FRANCIS EMMANUEL R."
+nameCode = "Ortega (F.)"
+date = "2013-09-02"
+journalNo = "J015"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, ANTHONY G."
+nameCode = "Del Rosario (A.G.)"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, CELSO"
+nameCode = "Lobregat"
+date = "2014-05-13"
+journalNo = "J059"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SAKALURAN, RADEN C."
+nameCode = "Sakaluran"
+date = "2014-06-09"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CALIXTO-RUBIANO, IMELDA GALLARDO"
+nameCode = "Calixto-Rubiano"
+date = "2014-08-04"
+journalNo = "J003"
+sessionNo = "2RS"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 45815
+congress = 16
+bill_no = "HB00001"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+file = ""
+date_read = "2013-07-23"

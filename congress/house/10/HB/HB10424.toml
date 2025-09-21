@@ -1,0 +1,41 @@
+billNumber = "HB10424"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10424"
+lastScraped = "2025-09-22T00:20:59.381874"
+title = "HB10424"
+longTitle = "AN ACT PROVIDING FOR A MULTI-YEAR COMPETITIVE ENHANCEMENT FUND, AND FOR OTHER PURPOSES(RE: PHILIPPINES' AGRICULTURAL, INDUSTRIAL AND SERVICE SECTORS)"
+scope = "National"
+dateFiled = "1997-12-18"
+status = "Pending with the Committee on APPROPRIATIONS since 1998-01-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1998-01-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116845
+congress = 10
+bill_no = "HB10424"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1998-01-09"

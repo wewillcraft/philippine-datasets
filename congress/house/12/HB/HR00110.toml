@@ -1,0 +1,48 @@
+billNumber = "HR00110"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00110"
+lastScraped = "2025-09-22T00:13:01.162756"
+title = "HR00110"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED OIL SPILLS IN BAYANAN CREEK, MUNTINLUPA CITY AND IN MORONG, RIZAL"
+scope = "Local"
+dateFiled = "2001-08-13"
+status = "Pending with the Committee on RULES since 2001-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suplico, Rolex T."
+[[authorsDetail]]
+name = "Suplico, Rolex T."
+nameCode = "Suplico"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 90049
+congress = 12
+bill_no = "HR00110"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte. on Ecology on Aug. 28, 2001"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-08-20"

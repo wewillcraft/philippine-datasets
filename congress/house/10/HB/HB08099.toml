@@ -1,0 +1,46 @@
+billNumber = "HB08099"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08099"
+lastScraped = "2025-09-22T00:20:58.899263"
+title = "HB08099"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF THE HUNGDUAN-TINOC ROAD IN THE PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-08"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114520
+congress = 10
+bill_no = "HB08099"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-10"

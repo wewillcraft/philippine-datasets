@@ -1,0 +1,46 @@
+billNumber = "HB07215"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07215"
+lastScraped = "2025-09-22T00:20:58.701174"
+title = "HB07215"
+longTitle = "AN ACT CONVERTING THE SINILOAN HIGH SCHOOL IN THE MUNICIPALITY OF SINILOAN, PROVINCE OF LAGUNA, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SINILOAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-31"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113636
+congress = 10
+bill_no = "HB07215"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-06-05"

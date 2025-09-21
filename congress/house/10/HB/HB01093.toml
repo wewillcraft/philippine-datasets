@@ -1,0 +1,74 @@
+billNumber = "HB01093"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01093"
+lastScraped = "2025-09-22T00:20:57.561894"
+title = "HB01093"
+longTitle = "AN ACT ESTABLISHING A SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF SAN LUIS, PROVINCE OF PAMPANGA, TO BE KNOWN AS THE GONZALO PUYAT SCHOOL OF ARTS AND TRADES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-19"
+status = "REPUBLIC ACT (RA08499) enacted on 1998-02-12"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bondoc"
+[[authorsDetail]]
+name = "Bondoc"
+nameCode = "Bondoc"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107514
+congress = 10
+bill_no = "HB01093"
+report = "01060"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-07-27"
+date_ob = "1997-09-04"
+date_report = "1997-09-03"
+
+[secondReading]
+id = 17738
+congress = 10
+bill_no = "HB01093"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2360
+congress = 10
+bill_no = "HB01093"
+date_dist = "1997-09-29"
+date_adopt = "1997-10-02"
+no_yeas = 167
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-02"
+date_rec = "1997-10-07"
+amend_ind = "N"
+act_pres = "A"
+dte_actedp = "1998-02-12"

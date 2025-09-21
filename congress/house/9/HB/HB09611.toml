@@ -1,0 +1,47 @@
+billNumber = "HB09611"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09611"
+lastScraped = "2025-09-22T00:25:56.340318"
+title = "HB09611"
+longTitle = "AN ACT ESTABLISHING A REGIONAL REHABILITATION CENTER FOR YOUTH OFFENDERS TO BE KNOWN AS THE BICOL REGIONAL REHABILITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-06-05"
+status = "Pending with the Committee on SOCIAL SERVICES since 1993-06-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1993-06-10"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128229
+congress = 9
+bill_no = "HB09611"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1993-06-10"

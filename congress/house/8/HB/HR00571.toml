@@ -1,0 +1,42 @@
+billNumber = "HR00571"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00571"
+lastScraped = "2025-09-22T00:47:02.636207"
+title = "HR00571"
+longTitle = "RESOLUTION CREATING A TASK FORCE TO INVESTIGATE THE MURDERS AND OTHER VIOLENT CRIMES DURING THE JANUARY 18, 1988 ELECTIONS"
+scope = "National"
+dateFiled = "1988-02-05"
+status = "Pending with the Committee on JUSTICE since 1988-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1988-02-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170458
+congress = 8
+bill_no = "HR00571"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1988-02-09"

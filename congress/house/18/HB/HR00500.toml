@@ -1,0 +1,47 @@
+billNumber = "HR00500"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00500"
+lastScraped = "2025-09-22T00:01:47.430095"
+title = "HR00500"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO SOLICIT THE POSITIONS OF THE PROVINCIAL AND CITY PEACE AND ORDER COUNCILS IN MINDANAO, TO DETERMINE WHETHER THEY ARE \\\"IN FAVOR\\\" OR \\\"NOT IN FAVOR\\\" OF EXTENDING MARTIAL LAW BEYOND 2019 IN THEIR RESPECTIVE PROVINCE OR CITY"
+scope = "National"
+dateFiled = "2019-11-06"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2019-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00500.pdf"
+fileSize = 366614
+author = "Dimaporo, Mohamad Khalid Q."
+[[authorsDetail]]
+name = "Dimaporo, Mohamad Khalid Q."
+nameCode = "Dimaporo (M.K.)"
+date = "2019-11-06"
+sequence = 1
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2019-11-11"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 30828
+congress = 18
+bill_no = "HR00500"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-12-11"
+date_read = "2019-11-11"

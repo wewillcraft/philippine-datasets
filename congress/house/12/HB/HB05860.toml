@@ -1,0 +1,42 @@
+billNumber = "HB05860"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05860"
+lastScraped = "2025-09-22T00:13:00.925740"
+title = "HB05860"
+longTitle = "AN ACT CREATING THE NORTHWEST PANAY PENINSULA NATURAL PARK AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2003-03-18"
+status = "Pending with the Committee on NATURAL RESOURCES since 2003-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calizo"
+[[authorsDetail]]
+name = "Calizo"
+nameCode = "Calizo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2003-04-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 89014
+congress = 12
+bill_no = "HB05860"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2003-04-21"

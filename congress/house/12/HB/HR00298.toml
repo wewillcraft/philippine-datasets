@@ -1,0 +1,59 @@
+billNumber = "HR00298"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00298"
+lastScraped = "2025-09-22T00:13:01.204215"
+title = "Allegation that Caltex Philippines has been Illegally Operating in the Country"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGATION THAT CALTEX PHILIPPINES, INCORPORATED HAS BEEN ILLEGALLY OPERATING IN THE PHILIPPINES"
+scope = "Local"
+dateFiled = "2001-11-22"
+status = "Adopted Resolution (Pending with the committee on ENERGY since 2001-12-12)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-11-27"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 90237
+congress = 12
+bill_no = "HR00298"
+report = "00111"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2001-11-27"
+date_report = "2001-12-12"
+
+[secondReading]
+id = 15031
+congress = 12
+bill_no = "HR00298"
+adopted_resolution = "HR00094"
+adopted_resolution_title = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGATION THAT CALTEX PHILIPPINES INCORPORATED HAS BEEN ILLEGALLY OPERATING IN THE PHILIPPINES"
+date_calendared = "2001-12-12"
+date_approved = "2001-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2001-12-12"
+file = "HR00094.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00094.pdf"

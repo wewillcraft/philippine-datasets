@@ -1,0 +1,46 @@
+billNumber = "HB10357"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10357"
+lastScraped = "2025-09-22T00:20:59.366399"
+title = "HB10357"
+longTitle = "AN ACT UPGRADING THE MASBATE PROVINCIAL HOSPITAL IN MASBATE, MASBATE, TO TERTIARY LEVEL II (REGIONAL HOSPITAL) TO BE KNOWN AS THE MASBATE GENERAL HOSPITAL"
+scope = "Local"
+dateFiled = "1997-12-03"
+status = "Pending with the Committee on HEALTH since 1997-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-12-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116778
+congress = 10
+bill_no = "HB10357"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-12-08"

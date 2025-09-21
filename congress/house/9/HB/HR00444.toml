@@ -1,0 +1,42 @@
+billNumber = "HR00444"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00444"
+lastScraped = "2025-09-22T00:25:57.446675"
+title = "HR00444"
+longTitle = "RESOLUTION URGING THE COMMISSION ON ELECTIONS TO CONFINE ITS EXERCISE OF POWER WITHIN THE LIMITS SET BY LAW"
+scope = "National"
+dateFiled = "1993-01-25"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1993-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa"
+[[authorsDetail]]
+name = "Espinosa"
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1993-01-28"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 133756
+congress = 9
+bill_no = "HR00444"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "1993-01-28"

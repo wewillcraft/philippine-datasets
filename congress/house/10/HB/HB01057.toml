@@ -1,0 +1,41 @@
+billNumber = "HB01057"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01057"
+lastScraped = "2025-09-22T00:20:57.555778"
+title = "HB01057"
+longTitle = "AN ACT SUPERVISING, REGULATING, AND CONTROLLING THE LICENSURE AND PRACTICE OF PLUMBING ENGINEERES AND PLUMBERS"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 107478
+congress = 10
+bill_no = "HB01057"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1995-07-27"

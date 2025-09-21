@@ -1,0 +1,77 @@
+billNumber = "HR00395"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00395"
+lastScraped = "2025-09-21T23:55:22.615841"
+title = "HR00395"
+longTitle = "RESOLUTION CREATING THE HOUSE OF REPRESENTATIVES INSTITUTE FOR LEGISLATION AND LEGISLATIVE GOVERNANCE, AND FOR OTHER\r\nPURPOSES"
+scope = "National"
+dateFiled = "2022-09-19"
+status = "Adopted as Resolution No. HR00067 on 2023-03-22"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00395.pdf"
+fileSize = 466026
+author = "MARCOS, FERDINAND ALEXANDER A."
+[[authorsDetail]]
+name = "MARCOS, FERDINAND ALEXANDER A."
+nameCode = "Marcos"
+date = "2022-09-19"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2022-09-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00021"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR00021"
+sequence = 1
+flag = "C"
+
+[firstReading]
+id = 16939
+congress = 19
+bill_no = "HR00395"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-03-21"
+date_read = "2022-09-21"
+
+[secondReading]
+id = 499
+congress = 19
+bill_no = "HR00395"
+adopted_resolution = "HR00067"
+adopted_resolution_title = "RESOLUTION CREATING THE HOUSE OF REPRESENTATIVES INSTITUTE FOR LEGISLATION AND LEGISLATIVE GOVERNANCE, AND FOR OTHER PURPOSES"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2023-03-22"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00395.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_19/HR00395.pdf"

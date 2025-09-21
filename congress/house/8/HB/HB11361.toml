@@ -1,0 +1,42 @@
+billNumber = "HB11361"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11361"
+lastScraped = "2025-09-22T00:46:58.563644"
+title = "HB11361"
+longTitle = "AN ACT ESTABLISHING A VETERANS VILLAGE IN THE MUNICIPALITY OF TALISAY, PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-30"
+status = "Pending with the Committee on HOUSING since 1988-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson"
+[[authorsDetail]]
+name = "Lacson"
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1988-06-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 146030
+congress = 8
+bill_no = "HB11361"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = ""
+date_read = "1988-06-01"

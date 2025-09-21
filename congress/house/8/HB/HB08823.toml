@@ -1,0 +1,42 @@
+billNumber = "HB08823"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08823"
+lastScraped = "2025-09-22T00:46:58.154819"
+title = "HB08823"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A DAY CARECENTER AT BARANGAY CAGBAN IN THE MUNICIPALITY OF NEW LUCENA, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-05"
+status = "Pending with the Committee on SOCIAL SERVICES since 1988-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1988-05-10"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[firstReading]
+id = 143500
+congress = 8
+bill_no = "HB08823"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1988-05-10"

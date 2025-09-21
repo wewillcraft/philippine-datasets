@@ -1,0 +1,61 @@
+billNumber = "HR01494"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01494"
+lastScraped = "2025-09-22T00:20:59.708593"
+title = "HR01494"
+longTitle = "RESOLUTION COMMENDING RONNIE CABAHUNGAN FOR HIS EXTRAORDINARY COURAGE IN REMAINING STEADFAST IN HIS TESTIMONY POINTING TO ONE ARSENIO TOLEDO AS THE ALLEGED RAPIST-KILLER OF FIVE-YEAR OLD LAILA ROSE ARCO"
+scope = "Local"
+dateFiled = "1998-01-20"
+status = "Adopted as Resolution No. HR00127 on 1998-01-20"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-01-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118548
+congress = 10
+bill_no = "HR01494"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-01-20"
+
+[secondReading]
+id = 19056
+congress = 10
+bill_no = "HR01494"
+adopted_resolution = "HR00127"
+date_calendared = "1998-01-20"
+date_approved = "1998-01-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00127.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00127.pdf"

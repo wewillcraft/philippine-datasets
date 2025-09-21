@@ -1,0 +1,46 @@
+billNumber = "HB03912"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03912"
+lastScraped = "2025-09-22T00:20:58.097775"
+title = "HB03912"
+longTitle = "AN ACT TO DECLARE BOLO-BOLO SPRING AS AN ECO-TOURISM AREA, ITS DEVELOPMENT AS A TOURIST DESTINATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-27"
+status = "Pending with the Committee on TOURISM since 1995-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua, Orlando  B."
+[[authorsDetail]]
+name = "Fua, Orlando  B."
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110333
+congress = 10
+bill_no = "HB03912"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-10-02"

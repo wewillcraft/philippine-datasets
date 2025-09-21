@@ -1,0 +1,48 @@
+billNumber = "HR00885"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00885"
+lastScraped = "2025-09-22T00:25:57.529266"
+title = "HR00885"
+longTitle = "RESOLUTION CALLING FOR AN ORDER AND SECURITY AND THE COMMITTEE ON CIVIL, POLITICAL AND HUMAN RIGHTS ON THE SUMMARY EXECUTION AND MUTILATION OF AT LEAST SIXTEEN (16) SUSPECTED DRUG PUSHERS IN METRO MANILA"
+scope = "Local"
+dateFiled = "1993-12-06"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 134192
+congress = 9
+bill_no = "HR00885"
+comm_act = "Change of referral from the Committee on Rules(J.47 ,p.35)(J.4 8,p.30)"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1993-12-09"

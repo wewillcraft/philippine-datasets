@@ -1,0 +1,88 @@
+billNumber = "HR00789"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00789"
+lastScraped = "2025-09-22T00:20:59.574173"
+title = "HR00789"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR AND EMPLOYMENT AND THE COMMITTEE ON FOREIGN AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED HARASSMENT ENCOUNTERED BY THE CONCERNED INTERNATIONAL RICE RESEARCH INSTITUTE EMPLOYEES INTHE EXERCISE OF THEIR RIGHT TO SELF-ORGANIZATI ON AND COLLECTIVE BARGAINING AND IN THE PROCESS, REVIEW AND ASSESS THE CONTINUING RELEVANCE OF PRESIDENTIAL DECREE NO.1620"
+scope = "Local"
+dateFiled = "1996-08-15"
+status = "Pending with the Committee on RULES since 1996-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanada"
+coAuthors = [ "VERCELES, ERNESTO C.", "DE LA CRUZ, ZOILO JR. V.", "DEJON, TEMISTOCLES SR. S.", "JABAR, RAMON J.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Tanada"
+nameCode = "Tanada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERCELES, ERNESTO C."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DE LA CRUZ, ZOILO JR. V."
+nameCode = "De La Cruz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JABAR, RAMON J."
+nameCode = "Jabar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-21"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 117843
+congress = 10
+bill_no = "HR00789"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment and on Foreign Aff"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-21"

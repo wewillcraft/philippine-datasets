@@ -1,0 +1,62 @@
+billNumber = "HB00092"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00092"
+lastScraped = "2025-09-21T23:55:20.077282"
+title = "HB00092"
+longTitle = "AN ACT GRANTING BENEFITS AND PRIVILEGES TO JUNIOR CITIZENS"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2023-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00092.pdf"
+fileSize = 2828647
+author = "Barbers, Robert Ace S."
+coAuthors = [ "ACHARON, LORETO B.", "TAN, KEITH MICAH D.L. TAN",]
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = "2022-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ACHARON, LORETO B."
+nameCode = "Acharon"
+date = "2022-08-08"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAN, KEITH MICAH D.L. TAN"
+nameCode = "Tan (K.M.)"
+date = "2022-11-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2022-07-26"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 5011
+congress = 19
+bill_no = "HB00092"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-08-23"
+date_read = "2022-07-26"

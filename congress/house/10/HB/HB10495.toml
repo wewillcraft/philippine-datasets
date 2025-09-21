@@ -1,0 +1,46 @@
+billNumber = "HB10495"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10495"
+lastScraped = "2025-09-22T00:20:59.394945"
+title = "HB10495"
+longTitle = "AN ACT AMENDING THE CIVIL AERONAUTICS ACT OF 1952 (REPUBLIC ACT NO. 776) TO ACCELERATE THE DEREGULATION, DECENTRALIZATIO N AND DEMOCRATIZATION OF CIVIL AVIATION, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-01-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1998-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1998-01-30"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116915
+congress = 10
+bill_no = "HB10495"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1998-01-30"

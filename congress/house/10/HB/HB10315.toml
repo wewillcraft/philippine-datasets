@@ -1,0 +1,87 @@
+billNumber = "HB10315"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10315"
+lastScraped = "2025-09-22T00:20:59.357863"
+title = "HB10315"
+longTitle = "AN ACT ADDRESSING THE SPECIAL EDUCATIONAL NEEDS OF SPECIAL CHILDREN AND ADULTS"
+scope = "National"
+dateFiled = "1997-11-20"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEL MAR, RAUL V.", "COLAMBO, FELIZARDO R.", "MONTEMAYOR, LEONARDO Q.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "COLAMBO, FELIZARDO R."
+nameCode = "Colambo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-11-28"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "secondary"
+referralCode = "0535"
+
+[firstReading]
+id = 116736
+congress = 10
+bill_no = "HB10315"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-11-28"

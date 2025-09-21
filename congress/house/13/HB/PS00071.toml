@@ -1,0 +1,42 @@
+billNumber = "PS00071"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00071"
+lastScraped = "2025-09-22T00:13:49.483228"
+title = "PS00071"
+longTitle = "On the News Article that Lawmakers Can Not Wait for the Release of their Pork Barrel"
+scope = "National"
+dateFiled = "2004-11-08"
+status = "Pending with the Committee on APPROPRIATIONS since 2005-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario, Mayo Z."
+[[authorsDetail]]
+name = "Almario, Mayo Z."
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2005-02-09"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 82868
+congress = 13
+bill_no = "PS00071"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2005-02-09"

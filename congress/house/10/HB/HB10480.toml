@@ -1,0 +1,41 @@
+billNumber = "HB10480"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10480"
+lastScraped = "2025-09-22T00:20:59.392495"
+title = "HB10480"
+longTitle = "AN ACT TO ESTABLISH THE BATANES GROUP OF ISLANDS AND ISLETS AS A PROTECTED AREA, AND ITS PERIPHERAL WATERS AS BUFFER ZONES, PROVIDING FOR ITS MANAGEMENT AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-01-22"
+status = "Pending with the Committee on ECOLOGY since 1998-01-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1998-01-26"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 116900
+congress = 10
+bill_no = "HB10480"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1998-01-26"

@@ -1,0 +1,42 @@
+billNumber = "HR00634"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00634"
+lastScraped = "2025-09-22T00:47:02.649933"
+title = "HR00634"
+longTitle = "RESOLUTION REQUESTING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO, TO STOP THE SALE OF PHILIPPINE GOVERNMENT REAL PROPERTIES IN JAPAN"
+scope = "National"
+dateFiled = "1988-03-24"
+status = "Pending with the Committee on RULES since 1988-03-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-03-25"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 170519
+congress = 8
+bill_no = "HR00634"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-03-25"

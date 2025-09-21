@@ -1,0 +1,49 @@
+billNumber = "HB01429"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01429"
+lastScraped = "2025-09-22T00:20:57.619833"
+title = "HB01429"
+longTitle = "AN ACT AMENDING TITLE I OF BOOK II OF THE LABOR CODE OF THE PHILIPPINES, ENTITLED 'HUMAN RESOURCES DEVELOPMENT'"
+scope = "National"
+dateFiled = "1995-07-27"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1995-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Teves"
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 107850
+congress = 10
+bill_no = "HB01429"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-08-02"

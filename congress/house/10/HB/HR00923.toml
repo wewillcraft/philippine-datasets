@@ -1,0 +1,52 @@
+billNumber = "HR00923"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00923"
+lastScraped = "2025-09-22T00:20:59.599333"
+title = "HR00923"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON AGRARIAN REFORM AND NATURAL RESOURCES TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE NECESSITY OF THE LAIBAN DAM PROJECT IN TANAY, RIZAL, ITS TENURIAL IMPACT, AND OTHER PROBLEMS AND ISSUES RELATED THERETO"
+scope = "Local"
+dateFiled = "1996-10-21"
+status = "Pending with the Committee on RULES since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 117977
+congress = 10
+bill_no = "HR00923"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agrarian Reform and on Natural Resource"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-04"

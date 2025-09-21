@@ -1,0 +1,42 @@
+billNumber = "HB10815"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10815"
+lastScraped = "2025-09-22T00:46:58.476151"
+title = "HB10815"
+longTitle = "AN ACT PROVIDING FOR A LONGEVITY PAY TO ALL MEMBERS OF THE POLICE FORCE THROUGHOUT THE PHILIPPINES,AND APPROPRIATING THE NECESSARY FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-24"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "528"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 145486
+congress = 8
+bill_no = "HB10815"
+referral = "528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+date_read = "1988-05-27"

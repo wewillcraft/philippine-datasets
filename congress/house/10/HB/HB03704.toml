@@ -1,0 +1,46 @@
+billNumber = "HB03704"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03704"
+lastScraped = "2025-09-22T00:20:58.060444"
+title = "HB03704"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A CERAMIC TRAINING CENTER IN THE MUNICIPALITY OF MIDSAYAP, PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110125
+congress = 10
+bill_no = "HB03704"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-09-26"

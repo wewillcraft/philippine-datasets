@@ -1,0 +1,54 @@
+billNumber = "HB05745"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05745"
+lastScraped = "2025-09-22T00:20:58.433310"
+title = "HB05745"
+longTitle = "AN ACT LIMITING THE HOURS OF OPERATION OF NIGHTCLUBS, COCKTAIL LOUNGES, BARS AND SIMILAR ESTABLISHMENTS, AND PENALIZING THE VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1996-01-16"
+status = "Business for the day on 1996-12-03"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1996-01-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 112166
+congress = 10
+bill_no = "HB05745"
+report = "00474"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+recomm = "approval with amendments"
+date_read = "1996-01-24"
+date_ob = "1996-06-06"
+date_unass = "1996-09-24"
+date_report = "1996-06-05"
+
+[secondReading]
+id = 18257
+congress = 10
+bill_no = "HB05745"
+date_calendared = "1996-12-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

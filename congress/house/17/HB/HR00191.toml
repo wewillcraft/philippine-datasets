@@ -1,0 +1,46 @@
+billNumber = "HR00191"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00191"
+lastScraped = "2025-09-21T23:55:46.256915"
+title = "HR00191"
+longTitle = "RESOLUTION CREATING THE COMMITTEE ON CONSUMER RIGHTS AND WELFARE IN THE HOUSE OF REPRESENTATIVES"
+scope = "National"
+dateFiled = "2016-08-09"
+status = "Pending with the Committee on RULES since 2016-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00191.pdf"
+fileSize = 246423
+author = "Pimentel, Johnny Ty"
+[[authorsDetail]]
+name = "Pimentel, Johnny Ty"
+nameCode = "Pimentel"
+date = "2016-08-09"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-08-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 42934
+congress = 17
+bill_no = "HR00191"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-16"

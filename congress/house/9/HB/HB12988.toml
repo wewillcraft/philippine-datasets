@@ -1,0 +1,42 @@
+billNumber = "HB12988"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12988"
+lastScraped = "2025-09-22T00:25:57.002710"
+title = "HB12988"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL TRIAL COURT IN THE MUNICIPALITY OF PUERTO GALERA AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 129 AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1994-06-03"
+status = "Pending with the Committee on JUSTICE since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131597
+congress = 9
+bill_no = "HB12988"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-07-26"

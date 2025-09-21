@@ -1,0 +1,41 @@
+billNumber = "HR01249"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01249"
+lastScraped = "2025-09-22T00:20:59.665315"
+title = "HR01249"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES THROUGH ITS COMMITTEE ON GOOD GOVERNMENT TO INVESTIGATE, IN AID OF LEGISLATION, THE WASTE DISPOSAL CONTRACTS ENTERED INTO BY THE METRO MANILA DEVELOPMENT AUTHORITY WITH THE METRO-ENVIRONME NT CORPORATION"
+scope = "Local"
+dateFiled = "1997-06-04"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-06-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118303
+congress = 10
+bill_no = "HR01249"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-06-05"

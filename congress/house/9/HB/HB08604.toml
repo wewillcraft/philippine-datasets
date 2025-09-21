@@ -1,0 +1,52 @@
+billNumber = "HB08604"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08604"
+lastScraped = "2025-09-22T00:25:56.148658"
+title = "HB08604"
+longTitle = "AN ACT EXTENDING THE PERIOD FOR MEMBERS OF CULTURAL COMMUNITIES TO PERFECT THEIR TITLES TO ANCESTRAL LANDS OCCUPIED BY THEM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-04-01"
+status = "Pending with the Committee on JUSTICE since 1993-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-05-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "NATIONAL CULTURAL COMMUNITIES"
+type = "secondary"
+referralCode = "0524"
+
+[firstReading]
+id = 127223
+congress = 9
+bill_no = "HB08604"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-05-03"

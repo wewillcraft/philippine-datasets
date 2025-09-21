@@ -1,0 +1,69 @@
+billNumber = "HB07938"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB07938"
+lastScraped = "2025-09-21T23:55:21.614353"
+title = "HB07938"
+longTitle = "AN ACT ALLOWING THE EXPUNGEMENT OF CRIMINAL RECORDS OF QUALIFIED INDIVIDUALS IN GOVERNMENT DATABASES\r\n"
+scope = "National"
+dateFiled = "2023-05-05"
+status = "Pending with the Committee on JUSTICE since 2023-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB07938.pdf"
+fileSize = 369401
+author = "ABALOS, JC M."
+coAuthors = [ "ZAMORA, ATTY. BEL", "AMATONG, IAN", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "ABALOS, JC M."
+nameCode = "Abalos"
+date = "2023-05-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZAMORA, ATTY. BEL"
+nameCode = "Zamora (Y.M.)"
+date = "2023-08-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AMATONG, IAN"
+nameCode = "Amatong"
+date = "2023-08-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-05-22"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2023-05-09"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 12857
+congress = 19
+bill_no = "HB07938"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-08-15"
+date_read = "2023-05-09"

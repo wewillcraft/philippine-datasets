@@ -1,0 +1,51 @@
+billNumber = "HB02094"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02094"
+lastScraped = "2025-09-21T23:55:20.441027"
+title = "HB02094"
+longTitle = "AN ACT GRANTING ADDITIONAL BENEFITS AND PRIVILEGES TO SENIOR CITIZENS WITH DISABILITIES (SCWD)"
+scope = "National"
+dateFiled = "2022-07-18"
+status = "Pending with the Committee on SENIOR CITIZENS since 2022-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02094.pdf"
+fileSize = 2832545
+author = "ORDANES, RODOLFO \"OMPONG\" M."
+[[authorsDetail]]
+name = "ORDANES, RODOLFO \"OMPONG\" M."
+nameCode = "Ordanes"
+date = "2022-07-18"
+sequence = 1
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "secondary"
+referralCode = "J501"
+
+[firstReading]
+id = 7013
+congress = 19
+bill_no = "HB02094"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-02"

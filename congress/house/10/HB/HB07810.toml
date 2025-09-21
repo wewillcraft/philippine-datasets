@@ -1,0 +1,41 @@
+billNumber = "HB07810"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07810"
+lastScraped = "2025-09-22T00:20:58.847172"
+title = "HB07810"
+longTitle = "AN ACT EMPOWERING LOCAL GOVERNMENT UNITS TO ISSUE CERTIFICATES OF PUBLIC CONVENIENCE TO MOTORIZED BANCAS THEREBY DEVOLVING SAID POWER FROM THE MARITIME INDUSTRY AUTHORITY"
+scope = "National"
+dateFiled = "1996-08-22"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez"
+[[authorsDetail]]
+name = "Martinez"
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-08-27"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[firstReading]
+id = 114231
+congress = 10
+bill_no = "HB07810"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-08-27"

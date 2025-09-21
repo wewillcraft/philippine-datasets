@@ -1,0 +1,47 @@
+billNumber = "HR00004"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00004"
+lastScraped = "2025-09-22T00:01:47.338128"
+title = "HR00004"
+longTitle = "RESOLUTION DIRECTING THE PROPER COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE CURRENT STATUS OF THE COUNTRY´S GROUNDWATER AND THE IMPLEMENTATION OF ITS EXISTING REGULATORY MECHANISMS WITH THE END IN VIEW OF ENACTING LEGISLATIVE MEASURES TO COPE UP WITH THE PRESENT CONDITIONS"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on NATURAL RESOURCES since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00004.pdf"
+fileSize = 441282
+author = "Fernandez, Dan S."
+[[authorsDetail]]
+name = "Fernandez, Dan S."
+nameCode = "Fernandez"
+date = "2019-07-01"
+sequence = 1
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30333
+congress = 18
+bill_no = "HR00004"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-23"

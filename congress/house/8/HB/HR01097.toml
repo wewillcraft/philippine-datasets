@@ -1,0 +1,50 @@
+billNumber = "HR01097"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01097"
+lastScraped = "2025-09-22T00:47:02.750886"
+title = "HR01097"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TOCONDUCT AN IMMEDIATE INVESTIGATION IN AID OF LEGISLATION ON THE REPORTED PRESENCE OF A US NUKE RADARIN THE PROVINCE OF BUKIDNON"
+scope = "Local"
+dateFiled = "1989-01-13"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Jose Maria Jr. R."
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-01-18"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 170971
+congress = 8
+bill_no = "HR01097"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-01-18"

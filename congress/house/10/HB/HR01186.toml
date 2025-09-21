@@ -1,0 +1,49 @@
+billNumber = "HR01186"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01186"
+lastScraped = "2025-09-22T00:20:59.653622"
+title = "HR01186"
+longTitle = "RESOLUTION CALLING UPON THE DEPARTMENT OF AGRICULTURE TO SET UP A SPECIAL FUND FOR ALL BONAFIDE GAWAD-SAKA AWARDEES THROUGH THE NATIONAL AGRICULTURE AND FISHERY COUNCIL (N.A.F.C.)"
+scope = "National"
+dateFiled = "1997-04-29"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Geronimo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Geronimo"
+nameCode = "Geronimo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 118240
+congress = 10
+bill_no = "HR01186"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-05-05"

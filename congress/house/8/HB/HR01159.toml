@@ -1,0 +1,50 @@
+billNumber = "HR01159"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01159"
+lastScraped = "2025-09-22T00:47:02.762344"
+title = "HR01159"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO REQUEST THE DEPARTMENT OF NATIONAL DEFENSE TO PAY THE SALARIES OF ALL MILITARY PERSONNEL INSURIGAO DEL SUR WITH PNB CHECKS INSTEAD OF UCPB CHECKS"
+scope = "Local"
+dateFiled = "1989-02-15"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "ESTRELLA, ERNESTO T.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESTRELLA, ERNESTO T."
+nameCode = "Estrella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-02-21"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171033
+congress = 8
+bill_no = "HR01159"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-02-21"

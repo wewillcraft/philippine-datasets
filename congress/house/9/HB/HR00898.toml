@@ -1,0 +1,58 @@
+billNumber = "HR00898"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00898"
+lastScraped = "2025-09-22T00:25:57.531601"
+title = "HR00898"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO INVESTIGATE, IN AID OF LEGISLATION, THE DISBURSEMENT OF FUNDS BY THE DEPARTMENT OF HEALTH AND ITS REGIONAL OFFICES FOR THE PURCHASE OF DRUGS AND MEDICINE, EQUIPMENT AND OTHER HOSPITAL FACILITIES"
+scope = "Local"
+dateFiled = "1993-12-13"
+status = "Pending with the Committee on HEALTH since 1993-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "CERILLES, ANTONIO H.", "ASISTIO, LUIS A.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CERILLES, ANTONIO H."
+nameCode = "Cerilles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ASISTIO, LUIS A."
+nameCode = "Asistio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-12-16"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 134205
+congress = 9
+bill_no = "HR00898"
+comm_act = "Change of referral from the Committee on Rules(J.45 ,p.56)"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-12-16"

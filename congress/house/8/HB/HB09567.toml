@@ -1,0 +1,42 @@
+billNumber = "HB09567"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09567"
+lastScraped = "2025-09-22T00:46:58.276133"
+title = "HB09567"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY GINTANANAN, MUNICIPALITY OF DUMANGAG, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-12"
+status = "Pending with the Committee on HEALTH since 1988-05-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real"
+[[authorsDetail]]
+name = "Real"
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-18"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 144242
+congress = 8
+bill_no = "HB09567"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-18"

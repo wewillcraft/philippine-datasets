@@ -1,0 +1,56 @@
+billNumber = "HR01204"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01204"
+lastScraped = "2025-09-22T00:20:59.657881"
+title = "HR01204"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TOURISM TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, TO ASSESS THE CONDITION AND STATUS OF TOURIST FACILITIES PRESENTLY OPERATED OR MAINTAINED BY THE PHILIPPINE TOURISM AUTHORITY, INCLUDING ITS PROMOTIONAL STRATEGIES, IN THE LIGHT OF ITS MANDATE TO ENHANCE THE TOURISM INDUSTRY"
+scope = "National"
+dateFiled = "1997-05-07"
+status = "Pending with the Committee on TOURISM since 1997-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "CALALAY, REYNALDO A.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1997-05-13"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[firstReading]
+id = 118258
+congress = 10
+bill_no = "HR01204"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1997-05-13"

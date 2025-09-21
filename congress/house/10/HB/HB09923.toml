@@ -1,0 +1,46 @@
+billNumber = "HB09923"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09923"
+lastScraped = "2025-09-22T00:20:59.269556"
+title = "HB09923"
+longTitle = "AN ACT TO DEVELOP NEW SYSTEM OF WEAPONS AND ARMAMENTS CONCEPTUALIZED ON FILIPINO CULTURE, IN CONJUCTION WITH THE MODERNIZATION PROGRAM OF THE ARMED FORCES OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-09-02"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-09-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116344
+congress = 10
+bill_no = "HB09923"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-09-04"

@@ -1,0 +1,49 @@
+billNumber = "HR01297"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01297"
+lastScraped = "2025-09-22T00:20:59.673343"
+title = "HR01297"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE DRUG PROBLEM IN THE CITY OF PUERTO PRINCESA AND PALAWAN FOR PURPOSES OF DETERMINING WHETHER THERE IS NECESSITY OF ADOPTING REMEDIAL LEGISLATIVE MEASURE"
+scope = "Local"
+dateFiled = "1997-07-28"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "SANDOVAL, VICENTE A.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANDOVAL, VICENTE A."
+nameCode = "Sandoval"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118351
+congress = 10
+bill_no = "HR01297"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-07-31"

@@ -1,0 +1,75 @@
+billNumber = "HB02661"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB02661"
+lastScraped = "2025-09-21T23:56:41.037466"
+title = "HB02661"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BIRTHING CENTER IN EVERY BARANGAY NATIONWIDE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2010-08-18"
+status = "Pending with the Committee on HEALTH since 2010-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB02661.pdf"
+fileSize = 219857
+author = "Gomez, Lucy T."
+coAuthors = [ "DEL MAR, RACHEL MARGUERITE BORROMEO", "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "GARBIN, ALFREDO JR.",]
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RACHEL MARGUERITE BORROMEO"
+nameCode = "Del Mar"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GARBIN, ALFREDO JR."
+nameCode = "Garbin"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-08-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 58133
+congress = 15
+bill_no = "HB02661"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-25"

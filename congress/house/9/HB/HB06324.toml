@@ -1,0 +1,48 @@
+billNumber = "HB06324"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06324"
+lastScraped = "2025-09-22T00:25:55.771212"
+title = "HB06324"
+longTitle = "AN ACT REPEALING PRESIDENTIAL DECREE NUMBERED SEVEN HUNDRED AND SEVENTY-TWO ENTITLED 'PENALIZING SQUATTING AND OTHER SIMILAR ACTS'"
+scope = "National"
+dateFiled = "1993-01-12"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1993-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 124943
+congress = 9
+bill_no = "HB06324"
+comm_act = "JOINT REFERRAL TO JUSTICE as per Rules Memo dtd. 3-1-93"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "1993-01-19"

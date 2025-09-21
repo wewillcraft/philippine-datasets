@@ -1,0 +1,76 @@
+billNumber = "HB00822"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00822"
+lastScraped = "2025-09-22T00:12:59.954671"
+title = "HB00822"
+longTitle = "AN ACT INSTITUTING PHILIPPINE OPEN UNIVERSITY IN ALL STATE COLLEGES AND UNIVERSITIES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-06"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor"
+coAuthors = [ "LIBANAN, MARCELINO C.", "PUENTEBELLA, MONICO O.", "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Defensor"
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PUENTEBELLA, MONICO O."
+nameCode = "Puentebella"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83982
+congress = 12
+bill_no = "HB00822"
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+date_read = "2001-07-24"

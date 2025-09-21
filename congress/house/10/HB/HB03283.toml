@@ -1,0 +1,46 @@
+billNumber = "HB03283"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03283"
+lastScraped = "2025-09-22T00:20:57.980935"
+title = "HB03283"
+longTitle = "AN ACT TO UPGRADE THE CALAPAN PORT/PIER LOCATED IN THE MUNICIPALITY OF CALAPAN, PROVINCE OF ORIENTAL MINDORO TO COMPLY WITH PRESENT STANDARDS FOR NATIONAL PORT/PIERS AND APPROPRIATING FUNDS FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "1995-09-06"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109704
+congress = 10
+bill_no = "HB03283"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-09-18"

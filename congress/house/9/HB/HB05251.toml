@@ -1,0 +1,47 @@
+billNumber = "HB05251"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05251"
+lastScraped = "2025-09-22T00:25:55.596931"
+title = "HB05251"
+longTitle = "AN ACT AMENDING SECTION 2 OF EXECUTIVE ORDER NO. 69 (Airport Terminal Fee)"
+scope = "National"
+dateFiled = "1992-11-26"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 123870
+congress = 9
+bill_no = "HB05251"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-12-08"

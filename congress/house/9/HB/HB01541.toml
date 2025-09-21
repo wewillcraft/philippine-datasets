@@ -1,0 +1,55 @@
+billNumber = "HB01541"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01541"
+lastScraped = "2025-09-22T00:25:54.874330"
+title = "HB01541"
+longTitle = "AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF CAGAYANCILLO, PROVINCE OF PALAWAN, TO BE KNOWN AS THE CAGAYANCILLO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on HEALTH since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120160
+congress = 9
+bill_no = "HB01541"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-31"

@@ -1,0 +1,47 @@
+billNumber = "HB10438"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10438"
+lastScraped = "2025-09-22T00:25:56.486083"
+title = "HB10438"
+longTitle = "AN ACT PROVIDING FOR THE EXPANSION AND UPGRADING OF THE PANDAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF PANDAN, PROVINCE OF CATANDUANES, INTO A 50-BED CAPACITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-08-18"
+status = "Pending with the Committee on HEALTH since 1993-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-25"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129056
+congress = 9
+bill_no = "HB10438"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-25"

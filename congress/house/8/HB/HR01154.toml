@@ -1,0 +1,42 @@
+billNumber = "HR01154"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01154"
+lastScraped = "2025-09-22T00:47:02.761602"
+title = "HR01154"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT A COMPREHENSIVE STUDY ON THE BUREAUCRATIC RED TAPE IN THE GOVERNMENT, MORE PARTICULARLY THOSE AFFECTING THE ENTRY OF FOREIGN INVESTMENTS, AND TO RECOMMEND APPROPRIATE REMEDIES TO CHECK THE GROWING PROBLEM"
+scope = "National"
+dateFiled = "1989-02-14"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1989-02-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran"
+[[authorsDetail]]
+name = "Beltran"
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1989-02-20"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 171028
+congress = 8
+bill_no = "HR01154"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1989-02-20"

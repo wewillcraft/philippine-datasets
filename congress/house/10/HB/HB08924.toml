@@ -1,0 +1,46 @@
+billNumber = "HB08924"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08924"
+lastScraped = "2025-09-22T00:20:59.063956"
+title = "HB08924"
+longTitle = "AN ACT ESTABLISHING A SOLID WASTE DISPOSAL PROGRAM IN THE MUNICIPALITY OF KALIBO, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-02-10"
+status = "Pending with the Committee on ECOLOGY since 1997-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-02-12"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115345
+congress = 10
+bill_no = "HB08924"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-02-12"

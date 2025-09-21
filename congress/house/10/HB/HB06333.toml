@@ -1,0 +1,46 @@
+billNumber = "HB06333"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06333"
+lastScraped = "2025-09-22T00:20:58.539382"
+title = "HB06333"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN THE MUNICIPALITY OF BANSUD, PROVINCE OF ORIENTAL MINDORO, TO BE KNOWN AS THE BANSUD NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112754
+congress = 10
+bill_no = "HB06333"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-02-27"

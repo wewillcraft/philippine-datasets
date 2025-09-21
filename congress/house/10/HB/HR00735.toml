@@ -1,0 +1,47 @@
+billNumber = "HR00735"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00735"
+lastScraped = "2025-09-22T00:20:59.563531"
+title = "HR00735"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED UNDERVALUATION OF PRICES OF LAND AND OTHER REAL PROPERTIES BY BOTH BUYER AND SELLER TO EVADE THE PAYMENTS OF THE PROPER TAXES DUE THE GOVERNMENT"
+scope = "National"
+dateFiled = "1996-07-29"
+status = "Pending with the Committee on RULES since 1996-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 117789
+congress = 10
+bill_no = "HR00735"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. Ways and Means on Aug. 6, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-01"

@@ -1,0 +1,41 @@
+billNumber = "HR01418"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01418"
+lastScraped = "2025-09-22T00:20:59.696380"
+title = "HR01418"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORT OF ANOTHER SEIZURE OF ILLEGAL EXPLOSIVES BEING SMUGGLED TO MT. DIWALWAL, MONKAYO, DAVAO DEL NORTE, FOR ILLEGAL MINING ACTIVITIES, WITH THE AID OF LOCAL PNP OFFICERS AND OTHER LAW ENFORCEMENT AGENCIES"
+scope = "Local"
+dateFiled = "1997-10-30"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-11-10"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[firstReading]
+id = 118472
+congress = 10
+bill_no = "HR01418"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-11-10"

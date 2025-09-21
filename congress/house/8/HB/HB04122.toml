@@ -1,0 +1,42 @@
+billNumber = "HB04122"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04122"
+lastScraped = "2025-09-22T00:46:57.280613"
+title = "HB04122"
+longTitle = "AN ACT ESTABLISHING A TWENTY-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF VERUELA, PROVINCE OF AGUSAN DEL SUR, TO BE KNOWN AS THE VERUELA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-01"
+status = "Pending with the Committee on HEALTH since 1987-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 138808
+congress = 8
+bill_no = "HB04122"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-12-07"

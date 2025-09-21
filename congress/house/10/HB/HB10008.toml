@@ -1,0 +1,56 @@
+billNumber = "HB10008"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10008"
+lastScraped = "2025-09-22T00:20:59.287933"
+title = "HB10008"
+longTitle = "AN ACT AUTHORIZING THE USE OF THE CREDIT CARD FOR THE PAYMENT OF OBLIGATIONS TO THE GOVERNMENT, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 116429
+congress = 10
+bill_no = "HB10008"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-10-02"

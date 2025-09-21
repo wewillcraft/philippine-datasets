@@ -1,0 +1,61 @@
+billNumber = "HB05112"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05112"
+lastScraped = "2025-09-21T23:56:22.471307"
+title = "HB05112"
+longTitle = "AN ACT MODERNIZING THE PHILIPPINE COAST GUARD, CREATING FOR THE PURPOSE THE PHILIPPINE COAST GUARD MODERNIZATION TRUST FUND AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2014-10-20"
+status = "Pending with the Committee on TRANSPORTATION since 2014-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05112.pdf"
+fileSize = 1180370
+author = "MADRONA, ELEANDRO JESUS F."
+coAuthors = [ "ANGPING, MARIA ZENAIDA B.", "ROMUALDO, XAVIER JESUS \"XJ\" D.",]
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = "2014-10-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ANGPING, MARIA ZENAIDA B."
+nameCode = "Angping"
+date = "2014-11-26"
+journalNo = "J029"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, XAVIER JESUS \"XJ\" D."
+nameCode = "Romualdo"
+date = "2015-08-25"
+journalNo = "J013"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-10-27"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 50926
+congress = 16
+bill_no = "HB05112"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-10-27"

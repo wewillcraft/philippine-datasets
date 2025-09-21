@@ -1,0 +1,47 @@
+billNumber = "HR00098"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00098"
+lastScraped = "2025-09-21T23:56:22.815384"
+title = "HR00098"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE COLLECTION OF REGISTRATION FEES BY THE REGISTRY OF DEEDS PURSUANT TO REPUBLIC ACT NO. 10023 ENTITLED, 'AN ACT AUTHORIZING THE ISSUANCE OF FREE PATENTS TO RESIDENTIAL LANDS"
+scope = "National"
+dateFiled = "2013-07-23"
+status = "Pending with the Committee on JUSTICE since 2013-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00098.pdf"
+fileSize = 149679
+author = "Padilla, Carlos M."
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = "2013-07-23"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 52497
+congress = 16
+bill_no = "HR00098"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-19"
+date_read = "2013-07-31"

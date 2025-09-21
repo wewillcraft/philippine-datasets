@@ -1,0 +1,75 @@
+billNumber = "HB05491"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05491"
+lastScraped = "2025-09-22T00:20:58.386929"
+title = "HB05491"
+longTitle = "AN ACT CONVERTING THE MANSILINGAN NATIONAL HIGH SCHOOL IN THE CITY OF BACOLOD, PROVINCE OF NEGROS OCCIDENTAL, INTO A POLYTECNIC SCHOOL, TO BE KNOWN AS THE MANSILINGAN NATIONAL POLYTECHNIC SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-11"
+status = "REPUBLIC ACT RA08668 (Lapsed into law on 1998-06-25)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-12-14"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111912
+congress = 10
+bill_no = "HB05491"
+report = "01052"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-12-14"
+date_ob = "1997-09-03"
+date_report = "1997-09-01"
+
+[secondReading]
+id = 18221
+congress = 10
+bill_no = "HB05491"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2825
+congress = 10
+bill_no = "HB05491"
+date_dist = "1997-09-29"
+date_adopt = "1997-10-06"
+no_yeas = 176
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-07"
+date_rec = "1997-10-09"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-05-22"
+dte_actedp = "1998-06-25"

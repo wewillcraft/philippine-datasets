@@ -1,0 +1,71 @@
+billNumber = "HB04769"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04769"
+lastScraped = "2025-09-22T00:20:58.257018"
+title = "HB04769"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN STA. CRUZ, GAPAN, NUEVA ECIJA, TO BE KNOWN AS THE STA. CRUZ BARANGAY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-26"
+status = "Approved by the House on 1997-08-05, transmitted to on 1997-08-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111190
+congress = 10
+bill_no = "HB04769"
+report = "00975"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-11-07"
+date_ob = "1997-06-05"
+date_report = "1997-06-04"
+
+[secondReading]
+id = 18128
+congress = 10
+bill_no = "HB04769"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2736
+congress = 10
+bill_no = "HB04769"
+date_dist = "1997-07-29"
+date_adopt = "1997-08-05"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-06"
+date_rec = "1997-08-12"

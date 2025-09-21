@@ -1,0 +1,50 @@
+billNumber = "HR01152"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01152"
+lastScraped = "2025-09-22T00:47:02.761279"
+title = "HR01152"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY INTO THE REPEATED REPORTS THAT DDT SPRAYED VEGETABLES ARE STILL BEING SOLD IN PUBLIC MARKETS POSING DANGER TO PUBLIC HEALTH AND SAFETY SINCE SUCH CHEMICALS HAVE BEEN FOUND TO CAUSE DAMAGE TO THE NERVOUS SYSTEM, COULD RESULT TO ALLERGIES EVEN DEATH AND TO RECOMMEND SUCH MEASURES AS MAY BE NECESSARY TO PREVENT OR MINIMIZE PESTICIDE POISONING"
+scope = "National"
+dateFiled = "1989-02-13"
+status = "Pending with the Committee on HEALTH since 1989-02-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-02-16"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 171026
+congress = 8
+bill_no = "HR01152"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-02-16"

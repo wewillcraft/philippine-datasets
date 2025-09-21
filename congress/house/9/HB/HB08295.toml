@@ -1,0 +1,47 @@
+billNumber = "HB08295"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08295"
+lastScraped = "2025-09-22T00:25:56.095129"
+title = "HB08295"
+longTitle = "AN ACT TO FULLY DEREGULATE THE LOCAL TIRE INDUSTRY, REPEALING FOR THE PURPOSE LETTER OF INSTRUCTIONS (LOI) NUMBERED ONE THOUSAND AND EIGHTY-SIX (1086) AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-03-22"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1993-03-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1993-03-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 126914
+congress = 9
+bill_no = "HB08295"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1993-03-25"

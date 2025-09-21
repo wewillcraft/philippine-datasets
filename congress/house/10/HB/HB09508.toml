@@ -1,0 +1,69 @@
+billNumber = "HB09508"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09508"
+lastScraped = "2025-09-22T00:20:59.178173"
+title = "HB09508"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY CALATEGAS, MUNICIPALITY OF NARRA, PROVINCE OF PALAWAN, TO BE KNOWN AS THE CALATEGAS NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-29"
+status = "Approved on Third Reading on 1997-12-15"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-06-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115929
+congress = 10
+bill_no = "HB09508"
+report = "01337"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1997-06-03"
+date_ob = "1997-12-11"
+date_report = "1997-12-10"
+
+[secondReading]
+id = 18731
+congress = 10
+bill_no = "HB09508"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3306
+congress = 10
+bill_no = "HB09508"
+date_dist = "1997-12-11"
+date_adopt = "1997-12-15"
+no_yeas = 146
+no_nays = 0
+no_abstent = 0

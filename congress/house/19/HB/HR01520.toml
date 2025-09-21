@@ -1,0 +1,75 @@
+billNumber = "HR01520"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01520"
+lastScraped = "2025-09-21T23:55:22.875618"
+title = "HR01520"
+longTitle = "RESOLUTION COMMENDING THE PHILIPPINE HEALTH INSURANCE CORPORATION (PHILHEALTH) REGIONAL OFFICE II FOR ACTIVELY ENHANCING MANAGEMENT PROCESSES, RESULTING IN UPDATED PAYMENTS AND NO OUTSTANDING CLAIMS FOR ALL HOSPITALS MANAGED BY THE PROVINCE OF ISABELA"
+scope = "National"
+dateFiled = "2023-12-12"
+status = "Pending with the Committee on HEALTH since 2023-12-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01520.pdf"
+fileSize = 91022
+author = "ALBANO, ANTONIO \"TONYPET\" T."
+coAuthors = [ "TAN, JOSEPH", "GO, ED CHRISTOPHER S.", "DY, IAN PAUL L.", "DY, FAUSTINO \"INNO\" V A.",]
+[[authorsDetail]]
+name = "ALBANO, ANTONIO \"TONYPET\" T."
+nameCode = "Albano (A.)"
+date = "2023-12-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAN, JOSEPH"
+nameCode = "Tan (J.)"
+date = "2024-01-29"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GO, ED CHRISTOPHER S."
+nameCode = "Go (E.C.)"
+date = "2024-01-29"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DY, IAN PAUL L."
+nameCode = "Dy (I.P.)"
+date = "2024-02-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO \"INNO\" V A."
+nameCode = "Dy (F.)"
+date = "2024-03-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-12-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 18065
+congress = 19
+bill_no = "HR01520"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-12-13"

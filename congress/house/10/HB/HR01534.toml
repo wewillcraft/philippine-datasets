@@ -1,0 +1,41 @@
+billNumber = "HR01534"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01534"
+lastScraped = "2025-09-22T00:20:59.714185"
+title = "HR01534"
+longTitle = "RESOLUTION CONVEYING THE SENSE OF THE HOUSE THAT THE LAS SALINAS SUR HOSPITAL IN LOAY, BOHOL, CONSTRUCTED OUT OF PUBLIC FUNDS SHALL BE NAMED IN HONOR OF THE LATE DR. JOSE C. ZARRAGA, SR."
+scope = "Local"
+dateFiled = "1998-02-26"
+status = "Pending with the Committee on HEALTH since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 118580
+congress = 10
+bill_no = "HR01534"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1998-05-25"

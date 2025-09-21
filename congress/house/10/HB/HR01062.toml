@@ -1,0 +1,41 @@
+billNumber = "HR01062"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01062"
+lastScraped = "2025-09-22T00:20:59.631585"
+title = "HR01062"
+longTitle = "RESOLUTION EXPRESSING THE SUPPORT OF THE HOUSE OF REPRESENTATIVES TO THE LEADERSHIP AND ADMINISTRATION OF DIRECTOR GENERAL RECAREDO A. SARMIENTO, CHIEF, PHILIPPINE NATIONAL POLICE"
+scope = "Local"
+dateFiled = "1997-01-24"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-01-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 118116
+congress = 10
+bill_no = "HR01062"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-01-29"

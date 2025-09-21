@@ -1,0 +1,58 @@
+billNumber = "HR01230"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01230"
+lastScraped = "2025-09-22T00:25:57.595203"
+title = "HR01230"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ECOLOGY TO CONDUCT AN IMMEDIATE INQUIRY INTO THE STANDARDS OR CRITERIA USED AS BASES IN THE ISSUANCE OF ENVIRONMENTAL COMPLIANCE CERTIFICATE (ECC) BY THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES (DENR)"
+scope = "National"
+dateFiled = "1994-09-21"
+status = "Pending with the Committee on ECOLOGY since 1994-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "PARAS, JEROME V.", "CHIONGBIAN, JAMES L.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PARAS, JEROME V."
+nameCode = "Paras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CHIONGBIAN, JAMES L."
+nameCode = "Chiongbian"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1994-09-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 134536
+congress = 9
+bill_no = "HR01230"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ecology on 09/28/94"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1994-09-27"

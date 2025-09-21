@@ -1,0 +1,42 @@
+billNumber = "PS00015"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00015"
+lastScraped = "2025-09-22T00:13:49.474507"
+title = "PS00015"
+longTitle = "Reproductive Health"
+scope = "National"
+dateFiled = "2004-08-09"
+status = "Pending with the Committee on HEALTH since 2004-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maza, Liza L."
+[[authorsDetail]]
+name = "Maza, Liza L."
+nameCode = "Maza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2004-08-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 82825
+congress = 13
+bill_no = "PS00015"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2004-08-24"

@@ -1,0 +1,49 @@
+billNumber = "HR00289"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00289"
+lastScraped = "2025-09-22T00:20:59.476227"
+title = "HR00289"
+longTitle = "RESOLUTION RESPECTFULLY RECOMMENDING TO HIS EXCELLENCY PRESIDENT FIDEL V. RAMOS THE IMMEDIATE CREATION OF THE PRESIDENTIAL ANTI-DRUG ABUSE COMMISSION (PADAC)"
+scope = "National"
+dateFiled = "1995-11-06"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1995-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1995-11-14"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117343
+congress = 10
+bill_no = "HR00289"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1995-11-14"

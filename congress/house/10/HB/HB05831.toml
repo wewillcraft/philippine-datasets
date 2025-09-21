@@ -1,0 +1,49 @@
+billNumber = "HB05831"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05831"
+lastScraped = "2025-09-22T00:20:58.447403"
+title = "HB05831"
+longTitle = "CRIME CONTROL ACT OF 1996"
+scope = "National"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 112252
+congress = 10
+bill_no = "HB05831"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-01-25"

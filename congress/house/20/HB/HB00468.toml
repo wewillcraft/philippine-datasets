@@ -1,0 +1,54 @@
+billNumber = "HB00468"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00468"
+lastScraped = "2025-09-21T23:39:48.390510"
+title = "HB00468"
+longTitle = "AN ACT AMENDING SECTION 5 (3) OF REPUBLIC ACT NO. 9225, OTHERWISE KNOWN AS THE \"CITIZENSHIP RETENTION AND RE-ACQUISITION ACT OF 2003\""
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on JUSTICE since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00468.pdf"
+fileSize = 64000
+author = "FRESNEDI, JAIME R."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "FRESNEDI, JAIME R."
+nameCode = "Fresnedi"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 469
+congress = 103
+bill_no = "HB00468"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

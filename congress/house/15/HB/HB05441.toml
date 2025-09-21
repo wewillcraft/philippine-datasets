@@ -1,0 +1,61 @@
+billNumber = "HB05441"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB05441"
+lastScraped = "2025-09-21T23:56:41.571381"
+title = "HB05441"
+longTitle = "THE BARANGAY WORKERS ACT"
+scope = "National"
+dateFiled = "2011-10-19"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2011-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB05441.pdf"
+fileSize = 177174
+author = "Defensor, Arthur Jr. R."
+coAuthors = [ "REVILLA, LANI MERCADO", "CASTELO, WINSTON TAQUEBAN",]
+[[authorsDetail]]
+name = "Defensor, Arthur Jr. R."
+nameCode = "Defensor"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = ""
+journalNo = "J026"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J032"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2011-11-14"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 60913
+congress = 15
+bill_no = "HB05441"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2011-11-14"

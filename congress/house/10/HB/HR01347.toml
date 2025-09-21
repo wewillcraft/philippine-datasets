@@ -1,0 +1,59 @@
+billNumber = "HR01347"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01347"
+lastScraped = "2025-09-22T00:20:59.683797"
+title = "HR01347"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON HUMAN, CIVIL AND POLITICAL RIGHTS, JUSTICE, AND TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED SURVEILLANCE AND WIRETAPPING ACTIVITIES CONDUCTED BY VARIOUS STATE-FUNDED INTELLIGENCE AGENCIES WITH THE COOPERATION, COLLUSION, AND/OR INVOLVEMENT OF PRIVATE TELEPHONE AND COMMUNICATIONS COMPANIES"
+scope = "National"
+dateFiled = "1997-08-25"
+status = "Pending with the Committee on CIVIL, POLITICAL AND HUMAN RIGHTS since 1997-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lagman, Edcel C."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Lagman, Edcel C."
+nameCode = "Lagman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1997-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 118401
+congress = 10
+bill_no = "HR01347"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+date_read = "1997-08-28"

@@ -1,0 +1,42 @@
+billNumber = "HB05176"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05176"
+lastScraped = "2025-09-22T00:46:57.456900"
+title = "HB05176"
+longTitle = "AN ACT CREATING BARANGAY KIABASAN IN THE MUNICIPALITY OF MALITA, DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1988-01-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1988-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-02-03"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 139859
+congress = 8
+bill_no = "HB05176"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1988-02-03"

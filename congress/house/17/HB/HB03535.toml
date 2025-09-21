@@ -1,0 +1,68 @@
+billNumber = "HB03535"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03535"
+lastScraped = "2025-09-21T23:55:44.783548"
+title = "HB03535"
+longTitle = "AN ACT ENHANCING AND PROMOTING THE SEED INDUSTRY IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7308, OTHERWISE KNOWN AS THE 'SEED INDUSTRY DEVELOPMENT ACT OF 1992'"
+scope = "National"
+dateFiled = "2016-09-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2016-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03535.pdf"
+fileSize = 698662
+author = "Garin, Sharon S."
+coAuthors = [ "BATOCABE, RODEL M.", "CO, CHRISTOPHER S.", "CUEVA, LEO RAFAEL M.",]
+[[authorsDetail]]
+name = "Garin, Sharon S."
+nameCode = "Garin (S.)"
+date = "2016-09-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-09-11"
+journalNo = "J022"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2017-09-11"
+journalNo = "J022"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2018-02-07"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2016-09-14"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 37003
+congress = 17
+bill_no = "HB03535"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-14"

@@ -1,0 +1,75 @@
+billNumber = "HB00090"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00090"
+lastScraped = "2025-09-21T23:55:44.094271"
+title = "Insurance For Railway Passengers Act"
+longTitle = "AN ACT REQUIRING ACCIDENT AND LIFE INSURANCE COVERAGE FOR RAILWAY TRANSIT PASSENGERS"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on TRANSPORTATION since 2016-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00090.pdf"
+fileSize = 959998
+author = "Cortuna, Julieta R."
+coAuthors = [ "VIOLAGO, MICALEA S.", "SY-ALVARADO, JOSE ANTONIO R.", "PANOTES, MARISOL C.", "DALIPE, MANUEL JOSE M.",]
+[[authorsDetail]]
+name = "Cortuna, Julieta R."
+nameCode = "Cortuna"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-08-24"
+journalNo = "J015"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-10-04"
+journalNo = "J032"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PANOTES, MARISOL C."
+nameCode = "Panotes"
+date = "2016-11-21"
+journalNo = "J046"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2017-10-24"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 33558
+congress = 17
+bill_no = "HB00090"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-26"

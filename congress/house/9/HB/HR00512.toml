@@ -1,0 +1,42 @@
+billNumber = "HR00512"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00512"
+lastScraped = "2025-09-22T00:25:57.461094"
+title = "HR00512"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE INCAPABILITY OF THE ILIGAN TELEPHONE EXCHANGE TO OPERATE AFTER IT TURNED OVER ITS FUNCTIONS TO THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS LAST JANUARY 13, 1993"
+scope = "Local"
+dateFiled = "1993-02-23"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-03-01"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 133824
+congress = 9
+bill_no = "HR00512"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-03-01"

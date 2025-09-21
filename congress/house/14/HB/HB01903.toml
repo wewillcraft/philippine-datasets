@@ -1,0 +1,66 @@
+billNumber = "HB01903"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB01903"
+lastScraped = "2025-09-22T00:15:38.089808"
+title = "\\\"Free Medicine Assistance Act of 2004\\\""
+longTitle = "AN ACT ESTABLISHING A FREE MEDICINE ASSISTANCE PROGRAM FOR THE POOR AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2007-08-08"
+status = "Pending with the Committee on HEALTH since 2007-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Arroyo, Iggy T."
+coAuthors = [ "ALMARIO, THELMA Z.", "ARENAS, MA. RACHEL J.",]
+[[authorsDetail]]
+name = "Arroyo, Iggy T."
+nameCode = "Arroyo (I.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALMARIO, THELMA Z."
+nameCode = "Almario"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ARENAS, MA. RACHEL J."
+nameCode = "Arenas"
+date = ""
+journalNo = "J088"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2007-08-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 67874
+congress = 14
+bill_no = "HB01903"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2007-08-22"

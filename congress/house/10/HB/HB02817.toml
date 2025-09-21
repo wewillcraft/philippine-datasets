@@ -1,0 +1,46 @@
+billNumber = "HB02817"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02817"
+lastScraped = "2025-09-22T00:20:57.887910"
+title = "HB02817"
+longTitle = "AN ACT CONVERTING THE SURIGAO PROVINCIAL HOSPITAL IN SURIGAO CITY INTO A REGIONAL HOSPITAL TO BE KNOWN AS THE CARAGA REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-24"
+status = "Substituted by HB01737"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Navarro"
+[[authorsDetail]]
+name = "Navarro"
+nameCode = "Navarro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109238
+congress = 10
+bill_no = "HB02817"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-31"

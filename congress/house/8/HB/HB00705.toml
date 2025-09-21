@@ -1,0 +1,42 @@
+billNumber = "HB00705"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00705"
+lastScraped = "2025-09-22T00:46:56.686600"
+title = "HB00705"
+longTitle = "AN ACT PROPOSING FOR THE ESTABLISHMENT OF A MANPOWER TRAINING CENTER IN THE CAPITAL TOWN OF BORONGAN, EASTERN SAMAR, AND FOR THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-25"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 135402
+congress = 8
+bill_no = "HB00705"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-08-26"

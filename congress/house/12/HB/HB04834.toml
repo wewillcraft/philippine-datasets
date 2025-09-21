@@ -1,0 +1,83 @@
+billNumber = "HB04834"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04834"
+lastScraped = "2025-09-22T00:13:00.687802"
+title = "HB04834"
+longTitle = "AN ACT UPGRADING THE MINIMUM SALARY GRADE OF PUBLIC ELEMENTARY SCHOOL PRINCIPALS, AMENDING FOR THE PURPOSE THE `COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989'"
+scope = "National"
+dateFiled = "2002-05-23"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+coAuthors = [ "VILLARAMA, WILFRIDO", "REYES, VICTORIA H.", "JARAULA, CONSTANTINO G.", "ECHIVERRI, ENRICO R.", "LACSON, JOSE CARLOS V.",]
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLARAMA, WILFRIDO"
+nameCode = "Villarama"
+date = ""
+journalNo = "J092"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REYES, VICTORIA H."
+nameCode = "Reyes"
+date = ""
+journalNo = "J093"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J005"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-05-28"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 87989
+congress = 12
+bill_no = "HB04834"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-05-28"

@@ -1,0 +1,49 @@
+billNumber = "HB09803"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09803"
+lastScraped = "2025-09-22T00:20:59.247382"
+title = "HB09803"
+longTitle = "AN ACT CONVERTING THE IRIGA (CAMARINES SUR) - BUHI (CAMARINES SUR) - LIDONG (ALBAY) PROVINCIAL ROAD INTO NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-11"
+status = "Bill reported out 1998-04-02 (#01535)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-08-13"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116224
+congress = 10
+bill_no = "HB09803"
+report = "01535"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-08-13"
+date_report = "1998-04-02"

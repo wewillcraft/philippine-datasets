@@ -1,0 +1,66 @@
+billNumber = "HB07976"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07976"
+lastScraped = "2025-09-22T00:20:58.876528"
+title = "HB07976"
+longTitle = "AN ACT CONVERTING THE MAL-ONG TO TORITORI ROAD IN THE MUNICIPALITY OF ANDA, PROVINCE OF PANGASINAN, FROM A PROVINCIAL ROAD INTO A NATIONAL ROAD AND PROVIDING FUNDS FOR ITS IMMEDIATE IMPROVEMENT"
+scope = "Local"
+dateFiled = "1996-09-23"
+status = "Approved by the House on 1997-10-20, transmitted to on 1997-10-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Braganza, Hernani A."
+[[authorsDetail]]
+name = "Braganza, Hernani A."
+nameCode = "Braganza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-25"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 114397
+congress = 10
+bill_no = "HB07976"
+report = "01095"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-09-25"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 18548
+congress = 10
+bill_no = "HB07976"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3141
+congress = 10
+bill_no = "HB07976"
+date_dist = "1997-10-09"
+date_adopt = "1997-10-20"
+no_yeas = 150
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-21"
+date_rec = "1997-10-23"

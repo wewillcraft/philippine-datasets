@@ -1,0 +1,57 @@
+billNumber = "HB01613"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01613"
+lastScraped = "2025-09-22T00:13:00.093882"
+title = "HB01613"
+longTitle = "AN ACT ABOLISHING THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT"
+scope = "National"
+dateFiled = "2001-07-30"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+coAuthors = [ "LACSON, JOSE CARLOS V.", "PUENTEBELLA, MONICO O.",]
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PUENTEBELLA, MONICO O."
+nameCode = "Puentebella"
+date = ""
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 84773
+congress = 12
+bill_no = "HB01613"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2001-08-06"

@@ -1,0 +1,42 @@
+billNumber = "HR01121"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01121"
+lastScraped = "2025-09-22T00:47:02.755390"
+title = "HR01121"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE POSSIBILITY OF RE-INSTALLING TELEPHONE LINES IN THE MUNICIPALITY OF SOLSONA, PROVINCE OF ILOCOS NORTE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1989-01-31"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1989-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nalupta"
+[[authorsDetail]]
+name = "Nalupta"
+nameCode = "Nalupta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1989-02-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170995
+congress = 8
+bill_no = "HR01121"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1989-02-06"

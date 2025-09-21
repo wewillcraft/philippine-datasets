@@ -1,0 +1,46 @@
+billNumber = "HB07495"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07495"
+lastScraped = "2025-09-22T00:20:58.751000"
+title = "HB07495"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL INFIRMARY IN DANAO, BOHOL, TO BE OPERATED BY THE MUNICIPAL GOVERNMENT OF DANAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-12"
+status = "Pending with the Committee on HEALTH since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113916
+congress = 10
+bill_no = "HB07495"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-07-24"

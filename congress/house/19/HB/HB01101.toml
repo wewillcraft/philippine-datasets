@@ -1,0 +1,59 @@
+billNumber = "HB01101"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01101"
+lastScraped = "2025-09-21T23:55:20.274813"
+title = "HB01101"
+longTitle = "AN ACT INSTITUTING THE FOOD AND DRUG ADMINISTRATION AS AN INDEPENDENT AGENCY, AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 3720, AS AMENDED BY REPUBLIC ACT NO. 9711"
+scope = "National"
+dateFiled = "2022-07-04"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01101.pdf"
+fileSize = 406835
+author = "TAN, KEITH MICAH \"ATTY. MIKE\" D.L."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "TAN, KEITH MICAH \"ATTY. MIKE\" D.L."
+nameCode = "Tan (K.M.)"
+date = "2022-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-01-31"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 6020
+congress = 19
+bill_no = "HB01101"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

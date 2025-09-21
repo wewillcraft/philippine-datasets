@@ -1,0 +1,42 @@
+billNumber = "HR01128"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01128"
+lastScraped = "2025-09-22T00:13:01.400362"
+title = "HR01128"
+longTitle = "RESOLUTION INQUIRING INTO THE STATEMENT OF PRESIDENT GLORIA MACAPAGAL-ARROY O ANNOUNCING THE IMMEDIATE REDUCTION OF THE PRICE OF ELECTRICITY"
+scope = "National"
+dateFiled = "2003-05-07"
+status = "Pending with the Committee on ENERGY since 2003-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marcos, Imee R."
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = "Marcos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2003-05-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 91063
+congress = 12
+bill_no = "HR01128"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2003-05-12"

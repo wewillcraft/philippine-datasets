@@ -1,0 +1,49 @@
+billNumber = "HR01155"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01155"
+lastScraped = "2025-09-22T00:20:59.647650"
+title = "HR01155"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE AIR WORTHINESS AND SAFETY OF AIRCRAFTS CHARTERED BY PRIVATE CORPORATIONS AND INDIVIDUALS FROM AIRSPAN CORPORATION ANDSIMILAR ENTITIES"
+scope = "National"
+dateFiled = "1997-03-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-04-21"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 118209
+congress = 10
+bill_no = "HR01155"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-04-21"

@@ -1,0 +1,47 @@
+billNumber = "HB04769"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04769"
+lastScraped = "2025-09-22T00:25:55.497484"
+title = "HB04769"
+longTitle = "AN ACT PROVIDING FOR THE ASPHALTING OF J. GABRIEL STREET, BARANGAY BACLARAN, PARANAQUE, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123388
+congress = 9
+bill_no = "HB04769"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-17"

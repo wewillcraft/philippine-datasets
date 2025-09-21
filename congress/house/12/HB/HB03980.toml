@@ -1,0 +1,42 @@
+billNumber = "HB03980"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03980"
+lastScraped = "2025-09-22T00:13:00.515426"
+title = "HB03980"
+longTitle = "AN ACT ESTABLISHING A DISTRICT DRUG REHABILITATION CENTER FOR DRUG OFFENDERS IN THE CITY OF VALENZUELA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-11-28"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gatchalian, Sherwin T."
+[[authorsDetail]]
+name = "Gatchalian, Sherwin T."
+nameCode = "Gatchalian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-12-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 87140
+congress = 12
+bill_no = "HB03980"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-12-04"

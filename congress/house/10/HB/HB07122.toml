@@ -1,0 +1,41 @@
+billNumber = "HB07122"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07122"
+lastScraped = "2025-09-22T00:20:58.684388"
+title = "HB07122"
+longTitle = "AN ACT TO AMEND SECTIONS ONE (1), THREE (3) AND EIGHT (8) OF PRESIDENTIAL DECREE NUMBERED ONE THOUSAND EIGHT HUNDRED AND SIXTY-SIX, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-05-24"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-05-29"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 113543
+congress = 10
+bill_no = "HB07122"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-05-29"

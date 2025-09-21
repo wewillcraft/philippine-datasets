@@ -1,0 +1,48 @@
+billNumber = "HR01255"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01255"
+lastScraped = "2025-09-22T00:25:57.600421"
+title = "HR01255"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEE ON JUSTICE AND/OR YOUTH SPORTS, IN AID OF LEGISLATION, TO INVESTIGATE THE DEPORTATION OF FAKE ATHLETES TO THE ASIAN GAMES FROM HIROSHIMA, JAPAN"
+scope = "National"
+dateFiled = "1994-10-06"
+status = "Pending with the Committee on JUSTICE since 1994-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-10-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 134561
+congress = 9
+bill_no = "HR01255"
+comm_act = "Change of Referral from the Ctte. on Rules to the Cttees. on Justice and on Youth and Sports on 10/1"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-10-17"

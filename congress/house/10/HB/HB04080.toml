@@ -1,0 +1,76 @@
+billNumber = "HB04080"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04080"
+lastScraped = "2025-09-22T00:20:58.128003"
+title = "HB04080"
+longTitle = "AN ACT CONVERTING THE ADELA SERRA TY MEMORIAL HOSPITAL IN TANDAG, SURIGAO DEL SUR, INTO A MEDICAL CENTER TO BE KNOWN AS THE ADELA SERRA TY MEMORIAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-28"
+status = "REPUBLIC ACT (RA08343) enacted on 1997-08-12"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110501
+congress = 10
+bill_no = "HB04080"
+report = "00312"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-10-03"
+date_ob = "1996-03-21"
+date_report = "1996-03-20"
+
+[secondReading]
+id = 18093
+congress = 10
+bill_no = "HB04080"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2703
+congress = 10
+bill_no = "HB04080"
+date_dist = "1996-03-26"
+date_adopt = "1996-04-30"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-02"
+date_rec = "1996-05-07"
+date_agram = "1997-07-30"
+amend_ind = "Y"
+act_pres = "A"
+dte_transp = "1997-08-06"
+dte_actedp = "1997-08-12"

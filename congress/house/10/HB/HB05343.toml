@@ -1,0 +1,61 @@
+billNumber = "HB05343"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05343"
+lastScraped = "2025-09-22T00:20:58.357484"
+title = "HB05343"
+longTitle = "AN ACT CREATING A COMMISSION FOR THE CENTENNIAL CELEBRATION OF THE PHILIPPINE ASSEMBLY OF 1907, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-11-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Osmeña"
+coAuthors = [ "LIBAN, DANTE V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Osmeña"
+nameCode = "Osmeña"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111764
+congress = 10
+bill_no = "HB05343"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-12-05"

@@ -1,0 +1,83 @@
+billNumber = "HB00178"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00178"
+lastScraped = "2025-09-22T00:12:59.831767"
+title = "HB00178"
+longTitle = "AN ACT REORGANIZING AND STRENGTHENING THE PUBLIC ATTORNEY'S OFFICE (PAO), AMENDING FOR THE PURPOSE PERTINENT PROVISIONS OF THE ADMINISTRATIVE CODE OF 1987"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teodoro, Gilberto Jr. C."
+coAuthors = [ "ESPINO, AMADO JR. T.", "LACSON, JOSE CARLOS V.", "JARAULA, CONSTANTINO G.", "YUMUL-HERMIDA, GEORGILU R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Teodoro, Gilberto Jr. C."
+nameCode = "Teodoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J003"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YUMUL-HERMIDA, GEORGILU R."
+nameCode = "Yumul-hermida"
+date = ""
+journalNo = "J070"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83338
+congress = 12
+bill_no = "HB00178"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

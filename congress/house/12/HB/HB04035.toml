@@ -1,0 +1,57 @@
+billNumber = "HB04035"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04035"
+lastScraped = "2025-09-22T00:13:00.525109"
+title = "HB04035"
+longTitle = "AN ACT ENTITLED REVISED PUBLIC LAND ACT OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2001-12-05"
+status = "Pending with the Committee on NATURAL RESOURCES since 2001-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Ruy Elias C."
+coAuthors = [ "NIEVA, ERNESTO A.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lopez, Ruy Elias C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NIEVA, ERNESTO A."
+nameCode = "Nieva"
+date = ""
+journalNo = "J046"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2001-12-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 87195
+congress = 12
+bill_no = "HB04035"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2001-12-11"

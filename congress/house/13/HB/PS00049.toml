@@ -1,0 +1,42 @@
+billNumber = "PS00049"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00049"
+lastScraped = "2025-09-22T00:13:49.479348"
+title = "PS00049"
+longTitle = "Anomalies in the Duty-Free Shops"
+scope = "National"
+dateFiled = "2004-09-08"
+status = "Pending with the Committee on TOURISM since 2004-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zialcita, Eduardo C."
+[[authorsDetail]]
+name = "Zialcita, Eduardo C."
+nameCode = "Zialcita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2004-09-08"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 82849
+congress = 13
+bill_no = "PS00049"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2004-09-08"

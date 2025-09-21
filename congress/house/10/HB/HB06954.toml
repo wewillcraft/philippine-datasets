@@ -1,0 +1,46 @@
+billNumber = "HB06954"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06954"
+lastScraped = "2025-09-22T00:20:58.650001"
+title = "HB06954"
+longTitle = "AN ACT ESTABLISHING THE SOUTHERN LEYTE STATE COLLEGE OF FISHERIES AND MARITIME SCIENCE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-16"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113375
+congress = 10
+bill_no = "HB06954"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-05-16"

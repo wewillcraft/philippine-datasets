@@ -1,0 +1,75 @@
+billNumber = "HB00541"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00541"
+lastScraped = "2025-09-21T23:55:44.192014"
+title = "Healthcare Services Price Disclosure Act Of 2016."
+longTitle = "AN ACT REQUIRING HEALTHCARE FACILITIES TO PROVIDE A PRICE LIST OF ITS HEALTHCARE SERVICES INCLUDING INCIDENTAL EXPENSES AND MEDICAL SUPPLIES THAT CAN BE CHARGED IN THE MEDICAL BILL"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on HEALTH since 2016-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00541.pdf"
+fileSize = 939368
+author = "Yap, Victor A."
+coAuthors = [ "PANOTES, MARISOL C.", "ESPINO, AMADO JR.", "PRIMICIAS-AGABAS, MARLYN L.", "FORTUN, LAWRENCE LEMUEL H.",]
+[[authorsDetail]]
+name = "Yap, Victor A."
+nameCode = "Yap (V.)"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "PANOTES, MARISOL C."
+nameCode = "Panotes"
+date = "2016-10-19"
+journalNo = "J039"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR."
+nameCode = "Espino"
+date = "2016-11-22"
+journalNo = "J047"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2017-01-23"
+journalNo = "J060"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "FORTUN, LAWRENCE LEMUEL H."
+nameCode = "Fortun"
+date = "2018-09-20"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-07-27"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 34009
+congress = 17
+bill_no = "HB00541"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-27"

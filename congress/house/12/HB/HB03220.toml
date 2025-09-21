@@ -1,0 +1,57 @@
+billNumber = "HB03220"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03220"
+lastScraped = "2025-09-22T00:13:00.388758"
+title = "HB03220"
+longTitle = "AN ACT INCREASING THE YEARLY ALLOCATION FOR SCIENTIFIC AND TECHNOLOGICAL ACTIVITIES (STA)"
+scope = "National"
+dateFiled = "2001-09-25"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-09-28"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 86380
+congress = 12
+bill_no = "HB03220"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-09-28"

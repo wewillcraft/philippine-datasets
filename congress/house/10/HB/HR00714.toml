@@ -1,0 +1,65 @@
+billNumber = "HR00714"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00714"
+lastScraped = "2025-09-22T00:20:59.560096"
+title = "HR00714"
+longTitle = "RESOLUTION URGING THE PRESIDENT FIDEL V. RAMOS TO DECLARE AUGUST 18 OF THIS YEAR AND EVERY YEAR THEREAFTER AS NATIONAL SEAFARERS' DAY (13 adopted ?)"
+scope = "National"
+dateFiled = "1996-07-16"
+status = "Adopted as Resolution No. HR00068 on 1996-08-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117768
+congress = 10
+bill_no = "HR00714"
+report = "00524"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "Adoption"
+date_read = "1996-07-24"
+date_ob = "1996-08-15"
+date_report = "1996-08-13"
+
+[secondReading]
+id = 18985
+congress = 10
+bill_no = "HR00714"
+adopted_resolution = "HR00068"
+date_calendared = "1996-08-15"
+date_approved = "1996-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00068.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00068.pdf"

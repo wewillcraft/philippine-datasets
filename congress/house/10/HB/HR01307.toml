@@ -1,0 +1,63 @@
+billNumber = "HR01307"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01307"
+lastScraped = "2025-09-22T00:20:59.675335"
+title = "HR01307"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEE ON ENERGY, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE INCREASE BY OIL COMPANIES OF THE PRICES OF FUEL AND GASOLINE PRODUCTS, EFFECTIVE AUGUST 1, 1997, WITH THE VIEW IN MIND OF DETERMINING IF SUCH INCREASES WERE WARRANTED OR NOT"
+scope = "National"
+dateFiled = "1997-08-04"
+status = "Pending with the Committee on ENERGY since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "RODRIGUEZ, OSCAR S.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 118361
+congress = 10
+bill_no = "HR01307"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-08-07"

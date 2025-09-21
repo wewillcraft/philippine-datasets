@@ -1,0 +1,42 @@
+billNumber = "HB02228"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02228"
+lastScraped = "2025-09-22T00:13:00.201880"
+title = "HB02228"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED SEVENTY-SIX HUNDRED AND THIRTY EIGHT, OTHERWISE KNOWN AS THE DEPARTMENT OF ENERGY ACT OF 1992 AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-08-08"
+status = "Pending with the Committee on ENERGY since 2001-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2001-08-14"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 85388
+congress = 12
+bill_no = "HB02228"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2001-08-14"

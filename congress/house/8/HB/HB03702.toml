@@ -1,0 +1,42 @@
+billNumber = "HB03702"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03702"
+lastScraped = "2025-09-22T00:46:57.212475"
+title = "HB03702"
+longTitle = "AN ACT AMENDING BATAS PAMBANSA BLG. 886 AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1987-11-17"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier"
+[[authorsDetail]]
+name = "Javier"
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-11-19"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 138388
+congress = 8
+bill_no = "HB03702"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-11-19"

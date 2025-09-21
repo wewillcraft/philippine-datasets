@@ -1,0 +1,64 @@
+billNumber = "HB04008"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04008"
+lastScraped = "2025-09-22T00:13:00.520657"
+title = "HB04008"
+longTitle = "AN ACT PROVIDING ADDITIONAL EXEMPTION OF TWENTY THOUSAND PESOS (P20,000.00) FOR MARRIED INDIVIDUALS WHOSE SPOUSE IS A NONWORKING SPOUSE, AMENDING FOR THE PURPOSE SECTION 35(A) OF REPUBLIC ACT NO. 8424, OTHERWISE KNOWN AS THE TAX REFORM ACT OF 1997"
+scope = "National"
+dateFiled = "2001-12-03"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Erice"
+coAuthors = [ "MONFORT, NARCISO D.", "CUENCO, ANTONIO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Erice"
+nameCode = "Erice"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J051"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J068"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J017"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-12-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 87168
+congress = 12
+bill_no = "HB04008"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-12-10"

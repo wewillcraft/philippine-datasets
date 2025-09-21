@@ -1,0 +1,78 @@
+billNumber = "HR00780"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00780"
+lastScraped = "2025-09-22T00:13:01.317883"
+title = "HR00780"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEES ON ECOLOGY, HEALTH AND ENERGY, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED EMISSION OF AIR POLLUTANTS FROM THE NATIONAL POWER CORPORATION'S (NAPOCOR) COAL-FIRED POWER PLANT"
+scope = "Local"
+dateFiled = "2002-09-30"
+status = "Adopted Resolution (Pending with the committee on ECOLOGY since 2002-10-21)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+coAuthors = [ "GONZALES, NEPTALI II M.", "PADILLA, CARLOS M.", "RULES",]
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = "Syjuco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALES, NEPTALI II M."
+nameCode = "Gonzales"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-10-02"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 90716
+congress = 12
+bill_no = "HR00780"
+report = "00956"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-10-02"
+date_report = "2002-10-18"
+
+[secondReading]
+id = 15355
+congress = 12
+bill_no = "HR00780"
+adopted_resolution = "HR00414"
+date_calendared = "2002-10-21"
+date_approved = "2002-10-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-10-21"

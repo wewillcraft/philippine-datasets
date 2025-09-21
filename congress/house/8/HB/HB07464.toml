@@ -1,0 +1,42 @@
+billNumber = "HB07464"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07464"
+lastScraped = "2025-09-22T00:46:57.915273"
+title = "HB07464"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY GENERAL ISLAND IN THE MUNICIPALITY OF CANTILAN, PROVINCE OF SURIGAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-29"
+status = "Pending with the Committee on HEALTH since 1988-04-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-19"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 142144
+congress = 8
+bill_no = "HB07464"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-19"

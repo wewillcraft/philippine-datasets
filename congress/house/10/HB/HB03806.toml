@@ -1,0 +1,68 @@
+billNumber = "HB03806"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03806"
+lastScraped = "2025-09-22T00:20:58.079678"
+title = "HB03806"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL ARCHIVES OF THE PHILIPPINES, DEFINING ITS POWERS, FUNCTIONS AND DUTIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "AUMENTADO, ERICO B.", "LIBAN, DANTE V.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110227
+congress = 10
+bill_no = "HB03806"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-09-29"

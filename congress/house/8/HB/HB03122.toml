@@ -1,0 +1,50 @@
+billNumber = "HB03122"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03122"
+lastScraped = "2025-09-22T00:46:57.110989"
+title = "HB03122"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF PUBLIC INFORMATION"
+scope = "National"
+dateFiled = "1987-10-21"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1987-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Reyes"
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1987-11-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 137811
+congress = 8
+bill_no = "HB03122"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1987-11-09"

@@ -1,0 +1,46 @@
+billNumber = "HB08493"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08493"
+lastScraped = "2025-09-22T00:20:58.971912"
+title = "HB08493"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TECHNOLOGY TRAINING CENTER AT THE PALAWAN STATE UNIVERSITY, CORON CAMPUS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-11-21"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1996-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1996-12-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114914
+congress = 10
+bill_no = "HB08493"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1996-12-02"

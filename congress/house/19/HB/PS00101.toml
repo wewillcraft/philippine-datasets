@@ -1,0 +1,51 @@
+billNumber = "PS00101"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=PS00101"
+lastScraped = "2025-09-21T23:55:23.050822"
+title = "Regulation Of Power Distribution Companies"
+longTitle = "REGULATION OF POWER DISTRIBUTION COMPANIES"
+scope = "Local"
+dateFiled = "2023-01-23"
+status = "Pending with the Committee on ENERGY since 2023-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dy, Faustino \"Inno\" V A."
+[[authorsDetail]]
+name = "Dy, Faustino \"Inno\" V A."
+nameCode = "Dy (F.)"
+date = "2023-01-23"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2023-02-01"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "NORTH LUZON GROWTH QUADRANGLE"
+type = "secondary"
+referralCode = "B510"
+
+[firstReading]
+id = 18997
+congress = 19
+bill_no = "PS00101"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-02-01"

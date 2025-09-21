@@ -1,0 +1,51 @@
+billNumber = "HB09603"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09603"
+lastScraped = "2025-09-22T00:20:59.194893"
+title = "HB09603"
+longTitle = "AN ACT ESTABLISHING AN 'ADOPT-OUT-OF SCHOOL YOUTH PROGRAM' IN BARANGAY AGLALANA, MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-07-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116024
+congress = 10
+bill_no = "HB09603"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-07-30"

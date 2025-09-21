@@ -1,0 +1,71 @@
+billNumber = "HB01410"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01410"
+lastScraped = "2025-09-22T00:20:57.616598"
+title = "HB01410"
+longTitle = "AN ACT DECLARING BARANGAYS BALANACAN, GUISIAN, PAYE, INO AND KAPAYANG IN THE MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE AS TOURISM BARANGAYS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-27"
+status = "Approved by the House on 1996-03-28, transmitted to on 1996-03-29 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107831
+congress = 10
+bill_no = "HB01410"
+report = "00289"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-08-02"
+date_ob = "1996-03-19"
+date_report = "1996-03-15"
+
+[secondReading]
+id = 17791
+congress = 10
+bill_no = "HB01410"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2411
+congress = 10
+bill_no = "HB01410"
+date_dist = "1996-03-25"
+date_adopt = "1996-03-28"
+no_yeas = 109
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-03-29"
+date_rec = "1996-04-10"

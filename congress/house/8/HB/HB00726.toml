@@ -1,0 +1,42 @@
+billNumber = "HB00726"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00726"
+lastScraped = "2025-09-22T00:46:56.690469"
+title = "HB00726"
+longTitle = "AN ACT ESTABLISHING A TREATMENT AND REHABILITATION CENTER FOR DRUG DEPENDENTS IN BARANGAY PARANG, MUNICIPALITY OF MARIKINA, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-25"
+status = "Pending with the Committee on HEALTH since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 135423
+congress = 8
+bill_no = "HB00726"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-26"

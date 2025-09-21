@@ -1,0 +1,42 @@
+billNumber = "HR01609"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01609"
+lastScraped = "2025-09-22T00:47:02.856500"
+title = "HR01609"
+longTitle = "RESOLUTION REQUESTING THE NATIONAL HOUSING AUTHORITY TO RESERVE A PORTION OF THE DAGAT-DAGATAN AREA IN KALOOKAN CITY FOR A HOUSING PROJECT FOR QUALIFIED POLICEMEN"
+scope = "Local"
+dateFiled = "1989-12-12"
+status = "Pending with the Committee on HOUSING since 1989-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1989-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171455
+congress = 8
+bill_no = "HR01609"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = ""
+date_read = "1989-12-12"

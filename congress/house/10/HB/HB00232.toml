@@ -1,0 +1,56 @@
+billNumber = "HB00232"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00232"
+lastScraped = "2025-09-22T00:20:57.421168"
+title = "HB00232"
+longTitle = "AN ACT AMENDING SECTION 6 OF REPUBLIC ACT NO. 6675, OTHERWISE KNOWN AS THE GENERICS ACT OF 1988 (Requires that brand names indicated in prescriptions be NOT substituted)"
+scope = "National"
+dateFiled = "1995-07-04"
+status = "Pending with the Committee on HEALTH since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "AVILA, EDGAR M.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 106653
+congress = 10
+bill_no = "HB00232"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-26"

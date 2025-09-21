@@ -1,0 +1,47 @@
+billNumber = "HB03041"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03041"
+lastScraped = "2025-09-22T00:25:55.133642"
+title = "HB03041"
+longTitle = "AN ACT CREATING THE ZAMBOANGA CITY INTERNATIONAL AIRPORT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lobregat"
+[[authorsDetail]]
+name = "Lobregat"
+nameCode = "Lobregat"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-10-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121660
+congress = 9
+bill_no = "HB03041"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-10-01"

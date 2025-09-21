@@ -1,0 +1,41 @@
+billNumber = "HB02122"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02122"
+lastScraped = "2025-09-22T00:20:57.749329"
+title = "HB02122"
+longTitle = "AN ACT TOTALLY BANNING IMPORTATION OF ALL ARTICLES, PRODUCTS, GOODS, COMMODITIES, AND OTHER MATERIALS WHICH CAN BE PRODUCED LOCALLY TO ENCOURAGE GROWTH OF LOCAL INDUSTRIES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 108543
+congress = 10
+bill_no = "HB02122"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-15"

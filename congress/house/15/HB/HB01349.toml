@@ -1,0 +1,61 @@
+billNumber = "HB01349"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01349"
+lastScraped = "2025-09-21T23:56:40.798417"
+title = "HB01349"
+longTitle = "AN ACT REGULATING THE DEVELOPMENT AND MANAGEMENT OF SMALL ISLANDS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2010-07-13"
+status = "Pending with the Committee on LAND USE since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01349.pdf"
+fileSize = 587246
+author = "Enerio-Cerilles, Aurora"
+coAuthors = [ "SYJUCO, AUGUSTO, JR. LIMCACO", "CABALUNA, SALVADOR III P.",]
+[[authorsDetail]]
+name = "Enerio-Cerilles, Aurora"
+nameCode = "Cerilles"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO, JR. LIMCACO"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J065"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CABALUNA, SALVADOR III P."
+nameCode = "Cabaluna"
+date = ""
+journalNo = "J022"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LAND USE"
+type = "primary"
+referralCode = "E515"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 56821
+congress = 15
+bill_no = "HB01349"
+report = ""
+comm_act = ""
+referral = "E515"
+ref_name = "LAND USE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

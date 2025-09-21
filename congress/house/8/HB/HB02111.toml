@@ -1,0 +1,42 @@
+billNumber = "HB02111"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02111"
+lastScraped = "2025-09-22T00:46:56.931895"
+title = "HB02111"
+longTitle = "AN ACT ESTABLISHING THE THIRD ENGINEERING DISTRICT OFFICE AT BARANGAY LIBERTAD, MUNICIPALITY OF ABULUG, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-30"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puzon"
+[[authorsDetail]]
+name = "Puzon"
+nameCode = "Puzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 136800
+congress = 8
+bill_no = "HB02111"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-10-05"

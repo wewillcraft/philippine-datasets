@@ -1,0 +1,42 @@
+billNumber = "HB05580"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05580"
+lastScraped = "2025-09-22T00:13:00.852722"
+title = "HB05580"
+longTitle = "AN ACT PROVIDING FOR THE COMPULSORY REGISTRATION OF HEAVY EQUIPMENT"
+scope = "National"
+dateFiled = "2003-01-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2003-01-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2003-01-15"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 88735
+congress = 12
+bill_no = "HB05580"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2003-01-15"

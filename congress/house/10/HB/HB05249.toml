@@ -1,0 +1,56 @@
+billNumber = "HB05249"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05249"
+lastScraped = "2025-09-22T00:20:58.338708"
+title = "HB05249"
+longTitle = "AN ACT AMENDING SECTION 5(b) RULE 113 OF THE RULES OF COURT"
+scope = "National"
+dateFiled = "1995-11-22"
+status = "Pending with the Committee on JUSTICE since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "AVILA, EDGAR M.", "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 111670
+congress = 10
+bill_no = "HB05249"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-11-27"

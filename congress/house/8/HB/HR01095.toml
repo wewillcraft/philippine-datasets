@@ -1,0 +1,42 @@
+billNumber = "HR01095"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01095"
+lastScraped = "2025-09-22T00:47:02.750502"
+title = "HR01095"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTUREAND FOOD TO REVIEW AND MAKE AN INDEPTH STUDY, IN AID OF LEGISLATION, OF THE COUNTRY'S RICE TECHNOLOGY PROGRAM"
+scope = "National"
+dateFiled = "1989-01-13"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1989-01-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1989-01-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170969
+congress = 8
+bill_no = "HR01095"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1989-01-17"

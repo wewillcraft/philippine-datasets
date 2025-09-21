@@ -1,0 +1,55 @@
+billNumber = "HB03750"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03750"
+lastScraped = "2025-09-22T00:13:00.477104"
+title = "HB03750"
+longTitle = "AN ACT ESTABLISHING A TEN (10)-BED CAPACITY COMMUNITY HOSPITAL IN BARANGAY SAN JUAN, MUNICIPALITY OF STA. MARIA, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE SAN JUAN COMMUNITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-24"
+status = "Pending with the Committee on HEALTH since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista, Claude P."
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Bautista, Claude P."
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86910
+congress = 12
+bill_no = "HB03750"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-11-19"

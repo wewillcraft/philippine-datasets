@@ -1,0 +1,54 @@
+billNumber = "HB02611"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02611"
+lastScraped = "2025-09-21T23:55:44.607575"
+title = "HB02611"
+longTitle = "AN ACT PROVIDING FOR A BILL OF RIGHTS FOR AIR PASSENGERS, PENALIZING VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-08-08"
+status = "Pending with the Committee on TRANSPORTATION since 2016-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02611.pdf"
+fileSize = 5000241
+author = "Santos-Recto, Vilma"
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Santos-Recto, Vilma"
+nameCode = "Santos-Recto"
+date = "2016-08-08"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-02-13"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-15"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 36079
+congress = 17
+bill_no = "HB02611"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-15"

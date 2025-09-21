@@ -1,0 +1,42 @@
+billNumber = "HB04709"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04709"
+lastScraped = "2025-09-22T00:46:57.379203"
+title = "HB04709"
+longTitle = "AN ACT AMENDING SECTION 10 OF PRESIDENTIAL DECREENUMBERED FIFTEEN HUNDRED AND EIGHT, OTHERWISE KNOWN AS THE KATARUNGANG PAMBARANGAY LAW"
+scope = "National"
+dateFiled = "1987-12-14"
+status = "Pending with the Committee on JUSTICE since 1987-12-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bengson"
+[[authorsDetail]]
+name = "Bengson"
+nameCode = "Bengson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-12-17"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 139393
+congress = 8
+bill_no = "HB04709"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-12-17"

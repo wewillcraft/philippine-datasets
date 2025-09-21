@@ -1,0 +1,42 @@
+billNumber = "HB12123"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12123"
+lastScraped = "2025-09-22T00:25:56.831720"
+title = "HB12123"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WAREHOUSE FOR RICE STORAGE IN THE MUNICIPALITY OF JIPAPAD, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-22"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-02-28"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130738
+congress = 9
+bill_no = "HB12123"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-02-28"

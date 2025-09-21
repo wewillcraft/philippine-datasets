@@ -1,0 +1,46 @@
+billNumber = "HB00425"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00425"
+lastScraped = "2025-09-22T00:01:45.095723"
+title = "HB00425"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF FIVE HUNDRED MILLION PESOS (PHP 500,000,000.00) FOR THE COMPLETION OF THE CAGAYAN DE ORO INTERNATIONAL CONVENTION CENTER LOCATED IN TAGUANAO, BARANGAY INDAHAG, CAGAYAN DE ORO CITY"
+scope = "Local"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on APPROPRIATIONS since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/hb00425.pdf"
+fileSize = 507215
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2019-07-01"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 19839
+congress = 18
+bill_no = "HB00425"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

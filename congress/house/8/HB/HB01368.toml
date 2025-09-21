@@ -1,0 +1,70 @@
+billNumber = "HB01368"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01368"
+lastScraped = "2025-09-22T00:46:56.804048"
+title = "HB01368"
+longTitle = "AN ACT CHANGING THE NAME OF BATAC GENERAL HOSPITAL IN THE MUNICIPALITY OF BATAC, PROVINCE OF ILOCOS NORTE, TO ITS ORIGINAL NAME MARIANO MARCOS MEMORIAL HOSPITAL AND FOR SOME OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-11"
+status = "REPUBLIC ACT RA06793 (Lapsed into law on 1989-11-29)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nalupta"
+[[authorsDetail]]
+name = "Nalupta"
+nameCode = "Nalupta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-16"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 136064
+congress = 8
+bill_no = "HB01368"
+report = "00569"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITHOUT AMENDMENT"
+date_read = "1987-09-16"
+date_ob = "1989-05-24"
+date_cal = "1989-05-24"
+date_unass = "1989-05-24"
+date_report = "1989-05-23"
+
+[secondReading]
+id = 20389
+congress = 8
+bill_no = "HB01368"
+date_approved = "1989-06-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 171
+congress = 8
+bill_no = "HB01368"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 131
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "L"
+dte_transp = "1989-10-09"
+dte_actedp = "1989-11-29"

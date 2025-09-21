@@ -1,0 +1,51 @@
+billNumber = "HR01165"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01165"
+lastScraped = "2025-09-22T00:01:47.553782"
+title = "HR01165"
+longTitle = "A RESOLUTION FOR THE COMMITTEES ON PUBLIC ACCOUNTS AND GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY TO URGE THE DOF AND NEDA TO ACCESS OFFICIAL DEVELOPMENT ASSISTANCE AMOUNTING TO US$300M FOR THE DEVELOPMENT OF A CENTRALIZED AND NATIONALIZED E-GOVERNANCE SYSTEM BASED ON A FIFTH GENERATION (5G) WIRELESS NETWORK DATABASE FOR A PROPOSED E-PHILHEALTH SYSTEM"
+scope = "National"
+dateFiled = "2020-08-26"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2020-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01165.pdf"
+fileSize = 722597
+author = "Haresco, Teodorico Jr. T."
+[[authorsDetail]]
+name = "Haresco, Teodorico Jr. T."
+nameCode = "Haresco"
+date = "2020-08-26"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2020-09-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 31484
+congress = 18
+bill_no = "HR01165"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-09-01"

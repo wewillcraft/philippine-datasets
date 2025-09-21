@@ -1,0 +1,56 @@
+billNumber = "HR01004"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01004"
+lastScraped = "2025-09-22T00:25:57.552784"
+title = "HR01004"
+longTitle = "RESOLUTION ADOPTING JULY 17, 1994 TO JULY 17, 1995 AS THE NATIONAL ANTI-ILLEGAL RECRUITMENT CONSCIOUSNESS YEAR"
+scope = "National"
+dateFiled = "1994-04-11"
+status = "Substituted by HR01061"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1994-04-14"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[motherBills]]
+bill_no = "HR01061"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01061"
+flag = "S"
+
+[firstReading]
+id = 134311
+congress = 9
+bill_no = "HR01004"
+report = "00862"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = "LABOR AND EMPLOYMENT"
+recomm = "Adoption of House Resolution No. 1061 in consolidat ion with House Resolution No. 1004"
+date_read = "1994-04-14"
+date_ob = "1994-09-28"
+date_cal = "1994-09-28"
+date_unass = "1994-09-28"
+date_report = "1994-09-07"

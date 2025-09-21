@@ -1,0 +1,46 @@
+billNumber = "HB09674"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09674"
+lastScraped = "2025-09-22T00:20:59.207276"
+title = "HB09674"
+longTitle = "AN ACT ESTABLISHING A REFRIGERATED PLANT IN ALL CITIES AND MUNICIPALITIES IN THE COUNTRY, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1997-07-25"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-08-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116095
+congress = 10
+bill_no = "HB09674"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-08-04"

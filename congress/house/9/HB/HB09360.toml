@@ -1,0 +1,80 @@
+billNumber = "HB09360"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09360"
+lastScraped = "2025-09-22T00:25:56.280362"
+title = "HB09360"
+longTitle = "AN ACT DECLARING MARCH NINE OF EVERY YEAR A NON-WORKING PUBLIC HOLIDAY IN THE PROVINCE OF ABRA TO BE KNOWN AS 'ARYA ABRA DAY'"
+scope = "Local"
+dateFiled = "1993-05-31"
+status = "REPUBLIC ACT (RA07682) enacted on 1994-02-23"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-06-02"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[motherBills]]
+bill_no = "HB08459"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08459"
+flag = "S"
+
+[firstReading]
+id = 127978
+congress = 9
+bill_no = "HB09360"
+report = "00194"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1993-06-02"
+date_ob = "1993-06-02"
+date_cal = "1993-06-02"
+date_unass = "1993-06-02"
+date_report = "1993-05-31"
+
+[secondReading]
+id = 19542
+congress = 9
+bill_no = "HB09360"
+date_approved = "1993-06-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1803
+congress = 9
+bill_no = "HB09360"
+date_dist = "1993-08-12"
+date_adopt = "1993-08-17"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-08-18"
+date_rec = "1993-08-26"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1994-01-29"
+dte_actedp = "1994-02-23"

@@ -1,0 +1,62 @@
+billNumber = "HB00838"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00838"
+lastScraped = "2025-09-22T00:12:59.957718"
+title = "HB00838"
+longTitle = "AN ACT ESTABLISHING A LEGISLATIVE OVERSIGHT COUNCIL IN ALL LEGISLATIVE DISTRICTS IN THE COUNTRY"
+scope = "National"
+dateFiled = "2001-07-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+coAuthors = [ "LAPUS, JESLI A.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LAPUS, JESLI A."
+nameCode = "Lapus"
+date = ""
+journalNo = "J006"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83998
+congress = 12
+bill_no = "HB00838"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-07-25"

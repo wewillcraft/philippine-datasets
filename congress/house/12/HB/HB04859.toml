@@ -1,0 +1,83 @@
+billNumber = "HB04859"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04859"
+lastScraped = "2025-09-22T00:13:00.693243"
+title = "Converting Basilan State College in Isabela City into Basilan State University"
+longTitle = "AN ACT CONVERTING THE BASILAN STATE COLLEGE IN THE CITY OF ISABELA, PROVINCE OF BASILAN, INTO A STATE UNIVERSITY, TO BE KNOWN AS THE BASILAN STATE UNIVERSITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-05-28"
+status = "Approved by the House on 2002-08-27, transmitted to on 2002-09-02 and received by the Senate on 2002-09-03"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salapuddin, Gerry A."
+coAuthors = [ "ABAYON, HARLIN CAST",]
+[[authorsDetail]]
+name = "Salapuddin, Gerry A."
+nameCode = "Salapuddin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN CAST"
+nameCode = "Abayon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-05-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[motherBills]]
+bill_no = "HB00819"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00819"
+flag = "S"
+
+[firstReading]
+id = 88014
+congress = 12
+bill_no = "HB04859"
+report = "00512"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, WAYS AND MEANS, HIGHER AND TECHNICAL EDUCATION"
+recomm = "approval"
+date_read = "2002-05-30"
+date_ob = "2002-05-30"
+date_report = "2002-05-28"
+
+[secondReading]
+id = 14566
+congress = 12
+bill_no = "HB04859"
+remarks = "The Body approved to consider the Explantory Note of the Bill as the  sponsorship remarks."
+date_approved = "2002-07-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5095
+congress = 12
+bill_no = "HB04859"
+date_dist = "2002-08-05"
+date_adopt = "2002-08-27"
+no_yeas = 174
+no_nays = 0
+no_abstent = 0
+date_trans = "2002-09-02"
+date_rec = "2002-09-03"

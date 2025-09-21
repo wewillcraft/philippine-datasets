@@ -1,0 +1,102 @@
+billNumber = "HB05636"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05636"
+lastScraped = "2025-09-21T23:56:22.587775"
+title = "Establishing The Dr. Eleuterio R. Violago District Hospital In San Jose City, 2nd District Of The Province Of Nueva Ecija"
+longTitle = "AN ACT ESTABLISHING THE DR. ELEUTERIO R. VIOLAGO DISTRICT HOSPITAL IN SAN JOSE CITY, 2ND DISTRICT OF THE PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2015-03-25"
+status = "Approved by the House on 2015-05-19, transmitted to the Senate on 2015-05-21 and received by the Senate on 2015-05-21"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Joseph Gilbert F."
+[[authorsDetail]]
+name = "Violago, Joseph Gilbert F."
+nameCode = "Violago"
+date = "2015-03-25"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2015-05-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[motherBills]]
+bill_no = "HB01763"
+sequence = 1
+date = "2015-03-25"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01763"
+sequence = 1
+date = "2015-03-25"
+flag = "S"
+
+[firstReading]
+id = 51450
+congress = 16
+bill_no = "HB05636"
+report = "00653"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "HEALTH, APPROPRIATIONS"
+recomm = "approval"
+remarks = ""
+file = "CR00653.pdf"
+date_read = "2015-05-04"
+date_ob = "2015-05-04"
+date_fri = "2015-05-04"
+date_report = "2015-03-25"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00653.pdf"
+
+[secondReading]
+id = 5683
+congress = 16
+bill_no = "HB05636"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2015-05-04"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+
+[thirdReading]
+id = 10202
+congress = 16
+bill_no = "HB05636"
+date_dist = "2015-05-12"
+date_adopt = "2015-05-19"
+remarks = "    "
+no_yeas = 146
+no_nays = 0
+no_abstent = 0
+date_trans = "2015-05-21"
+date_rec = "2015-05-21"
+amend_ind = " "
+ccreqby = " "
+for_enroll = " "
+act_pres = " "
+cc_yeas = 0
+cc_nays = 0
+cc_absten = 0
+file = "hbt5636.pdf"
+third_reading_copy = "https://docs.congress.hrep.online/legisdocs/third_16/hbt5636.pdf"

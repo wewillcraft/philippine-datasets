@@ -1,0 +1,52 @@
+billNumber = "HR00854"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00854"
+lastScraped = "2025-09-21T23:55:22.707074"
+title = "HR00854"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION, IN AID OF LEGISLATION, ON THE POSSIBLE VIOLATIONS OF MARITIME SAFETY LAWS AND MARINE ENVIRONMENTAL LAWS RELATIVE TO THE SINKING OF MT PRINCESS EMPRESS OFF THE COAST OF NAUJAN, ORIENTAL MINDORO RESULTING TO A MASSIVE OIL SPILL THAT IS THREATENING THE MARINE BIODIVERSITY OF THE PROVINCE"
+scope = "National"
+dateFiled = "2023-03-13"
+status = "Pending with the Committee on ECOLOGY since 2023-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00854.pdf"
+fileSize = 1090169
+author = "PANALIGAN, ARNAN C."
+[[authorsDetail]]
+name = "PANALIGAN, ARNAN C."
+nameCode = "Panaligan"
+date = "2023-03-13"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2023-03-15"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 17398
+congress = 19
+bill_no = "HR00854"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-05-09"
+date_read = "2023-03-15"

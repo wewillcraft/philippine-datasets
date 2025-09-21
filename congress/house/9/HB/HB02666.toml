@@ -1,0 +1,47 @@
+billNumber = "HB02666"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02666"
+lastScraped = "2025-09-22T00:25:55.070921"
+title = "HB02666"
+longTitle = "AN ACT ESTABLISHING A 25-BED COMMUNITY HOSPITAL IN THE MUNICIPALITY OF AGUILAR, PROVINCE OF PANGASINAN, TO BE KNOWN AS THE AGUILAR COMMUNITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-17"
+status = "Pending with the Committee on HEALTH since 1992-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mendoza"
+[[authorsDetail]]
+name = "Mendoza"
+nameCode = "Mendoza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-22"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121285
+congress = 9
+bill_no = "HB02666"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-22"

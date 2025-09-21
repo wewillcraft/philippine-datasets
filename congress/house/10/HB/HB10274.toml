@@ -1,0 +1,51 @@
+billNumber = "HB10274"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10274"
+lastScraped = "2025-09-22T00:20:59.348261"
+title = "HB10274"
+longTitle = "AN ACT CONVERTING THE MINDANAO POLYTECHNIC STATE COLLEGE IN CAGAYAN DE ORO CITY INTO A STATE UNIVERSITY TO BE KNOWN AS THE MINDANAO UNIVERSITY OF SCIENCE AND TECHNOLOGY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-11-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-11-18"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116695
+congress = 10
+bill_no = "HB10274"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-11-18"

@@ -1,0 +1,41 @@
+billNumber = "HR00606"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00606"
+lastScraped = "2025-09-22T00:20:59.536282"
+title = "HR00606"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON JUSTICE, AND PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CIRCUMSTANCES SURROUNDING THE ESCAPE AND HARBORING OF CONVICTED MURDERER ROLITO GO AND THE ALLEGED INVOLVEMENT OF CERTAIN PUBLIC OFFICIALS, POLICE AND MILITARY PERSONNEL AND INFLUENTIAL PEOPLE"
+scope = "Local"
+dateFiled = "1996-05-09"
+status = "Pending with the Committee on RULES since 1996-05-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-05-14"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 117660
+congress = 10
+bill_no = "HR00606"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-05-14"

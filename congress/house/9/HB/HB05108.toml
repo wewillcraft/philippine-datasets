@@ -1,0 +1,47 @@
+billNumber = "HB05108"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05108"
+lastScraped = "2025-09-22T00:25:55.571537"
+title = "HB05108"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MUNICIPAL BUILDING (PHASE I) IN THE MUNICIPALITY OF MAINIT, PROVINCE OF SURIGAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123727
+congress = 9
+bill_no = "HB05108"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-25"

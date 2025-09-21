@@ -1,0 +1,47 @@
+billNumber = "HR01201"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01201"
+lastScraped = "2025-09-22T00:23:18.171281"
+title = "HR01201"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEE ON TOURISM TO INVESTIGATE IN AID OF LEGISLATION THE ALLEGED UNJUSTIFIED REFUSAL OF THE DEPARTMENT OF FOREIGN AFFAIRS TO ISSUE TOURIST VISAS TO QUALIFIED CITIZENS OF THE PEOPLE'S REPUBLIC OF CHINA WHICH IS DAMAGING TO THE TOURISM PROSPECTS OF THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1999-10-28"
+status = "Pending with the Committee on TOURISM since 1999-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ocampo, Rosenda Ann"
+[[authorsDetail]]
+name = "Ocampo, Rosenda Ann"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1999-11-08"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 105657
+congress = 11
+bill_no = "HR01201"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1999-11-08"

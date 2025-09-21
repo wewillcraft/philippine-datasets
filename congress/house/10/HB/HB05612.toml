@@ -1,0 +1,46 @@
+billNumber = "HB05612"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05612"
+lastScraped = "2025-09-22T00:20:58.409572"
+title = "HB05612"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN DE LA PENA ELEMENTARY SCHOOL, BARANGAY DE LA PENA, MUNICIPALITY OF BAROTAC VIEJO, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-12-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112033
+congress = 10
+bill_no = "HB05612"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-22"

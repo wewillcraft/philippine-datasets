@@ -1,0 +1,47 @@
+billNumber = "HR01816"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01816"
+lastScraped = "2025-09-22T00:23:18.292989"
+title = "HR01816"
+longTitle = "RESOLUTION DIRECTING JOINTLY THE HOUSE COMMITTEES ON FOREIGN AFFAIRS, AND LABOR AND EMPLOYMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE DEATH OF MS. LEIZL S. PADILLA, A FILIPINA OVERSEAS CONTRACT WORKER, ON JULY 11, 2000 IN DHAHRAN, KINGDOM OF SAUDI ARABIA"
+scope = "Local"
+dateFiled = "2000-10-11"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2000-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Banaag, Leovigildo B."
+[[authorsDetail]]
+name = "Banaag, Leovigildo B."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2000-10-17"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 106270
+congress = 11
+bill_no = "HR01816"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2000-10-17"

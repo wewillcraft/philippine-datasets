@@ -1,0 +1,46 @@
+billNumber = "HB01450"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01450"
+lastScraped = "2025-09-22T00:20:57.623913"
+title = "HB01450"
+longTitle = "AN ACT PROVIDING FOR THE REHABILITATION, RENOVATION AND EXPANSION OF THE SAN MIGUEL DISTRICT HOSPITAL IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF BULACAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-28"
+status = "Pending with the Committee on HEALTH since 1995-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Silverio"
+[[authorsDetail]]
+name = "Silverio"
+nameCode = "Silverio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107871
+congress = 10
+bill_no = "HB01450"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-02"

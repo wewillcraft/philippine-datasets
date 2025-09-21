@@ -1,0 +1,66 @@
+billNumber = "HB08615"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08615"
+lastScraped = "2025-09-22T00:20:58.996958"
+title = "HB08615"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE COAST GUARD AS A SEPARATE AND DISTINCT SERVICE FROM THE PHILIPPINE NAVY AND ATTACHING THE SAME TO THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS"
+scope = "National"
+dateFiled = "1996-12-11"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1996-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1996-12-16"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 115036
+congress = 10
+bill_no = "HB08615"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1996-12-16"

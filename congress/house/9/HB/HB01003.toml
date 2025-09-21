@@ -1,0 +1,47 @@
+billNumber = "HB01003"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01003"
+lastScraped = "2025-09-22T00:25:54.776563"
+title = "HB01003"
+longTitle = "AN ACT AMENDING RA 7532 BY CONVERTING BATANGAS REGIONAL HOSPITAL TO BATANGAS MEDICAL CENTER FURTHER INCREASING ITS BED CAPACITY TO THREE HUNDRED BEDS AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-13"
+status = "Pending with the Committee on HEALTH since 1992-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119622
+congress = 9
+bill_no = "HB01003"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-20"

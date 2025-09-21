@@ -1,0 +1,42 @@
+billNumber = "HR02234"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02234"
+lastScraped = "2025-09-22T00:47:02.986587"
+title = "HR02234"
+longTitle = "RESOLUTION COMMENDING THE AGRICULTURAL SECTOR FOR ITS INVALUABLE CONTRIBUTION TO THE ECONOMY AND LIVELIHOOD OF THE FILIPINO PEOPLE"
+scope = "National"
+dateFiled = "1991-05-10"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1991-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Luna"
+[[authorsDetail]]
+name = "Luna"
+nameCode = "Luna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1991-05-15"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 172068
+congress = 8
+bill_no = "HR02234"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1991-05-15"

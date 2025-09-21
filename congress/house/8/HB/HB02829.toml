@@ -1,0 +1,71 @@
+billNumber = "HB02829"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02829"
+lastScraped = "2025-09-22T00:46:57.062412"
+title = "HB02829"
+longTitle = "AN ACT CHANGING THE NAME OF BARANGAY LOWER Q-M IN BAGUIO CITY TO GENERAL EMILIO F. AGUINALDO"
+scope = "Local"
+dateFiled = "1987-10-15"
+status = "REPUBLIC ACT (RA06677) enacted on 1988-10-12"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-10-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 137518
+congress = 8
+bill_no = "HB02829"
+report = "00143"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITHOUT AMENDMENT"
+date_read = "1987-10-16"
+date_ob = "1988-05-11"
+date_cal = "1988-05-11"
+date_unass = "1988-05-11"
+date_report = "1988-05-09"
+
+[secondReading]
+id = 20492
+congress = 8
+bill_no = "HB02829"
+date_approved = "1988-05-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 272
+congress = 8
+bill_no = "HB02829"
+date_dist = "1988-05-30"
+date_adopt = "1988-06-09"
+no_yeas = 156
+no_nays = 0
+no_abstent = 0
+date_trans = "1988-06-14"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1988-10-12"
+dte_actedp = "1988-10-12"

@@ -1,0 +1,52 @@
+billNumber = "HR01067"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01067"
+lastScraped = "2025-09-21T23:56:22.993933"
+title = "HR01067"
+longTitle = "A RESOLUTION DIRECTING HOUSE OF REPRESENTATIVES COMMITTEE ON TOURISM AND COMMITTEE ON NATIONAL CULTURAL COMMUNITIES, TO INVESTIGATE, IN AID OF LEGISLATION, THE IMPLEMENTATION OF THE INDIGENOUS PEOPLES' RIGHT ACT (IPRA) OF 1997 AND ITS EFFECT ON PALAWAN'S TOURISM INDUSTRY"
+scope = "National"
+dateFiled = "2014-04-29"
+status = "Pending with the Committee on TOURISM since 2014-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alvarez, Franz"
+[[authorsDetail]]
+name = "Alvarez, Franz"
+nameCode = "Alvarez (F.)"
+date = "2014-04-29"
+sequence = 1
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2014-05-06"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "NATIONAL CULTURAL COMMUNITIES"
+type = "secondary"
+referralCode = "0524"
+
+[firstReading]
+id = 53465
+congress = 16
+bill_no = "HR01067"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-05-28"
+date_read = "2014-05-06"

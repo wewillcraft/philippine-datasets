@@ -1,0 +1,60 @@
+billNumber = "HB05321"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05321"
+lastScraped = "2025-09-22T00:13:48.906398"
+title = "“Magna Carta for the Poor”"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA FOR THE POOR"
+scope = "National"
+dateFiled = "2006-02-28"
+status = "Pending with the Committee on POVERTY ALLEVIATION since 2006-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05321.pdf"
+fileSize = 2712757
+author = "Arroyo, Iggy T."
+coAuthors = [ "NANTES, RAFAEL P.",]
+[[authorsDetail]]
+name = "Arroyo, Iggy T."
+nameCode = "Arroyo"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NANTES, RAFAEL P."
+nameCode = "Nantes"
+date = ""
+journalNo = "J019"
+sessionNo = "3RS"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "primary"
+referralCode = "B502"
+dateRead = "2006-03-06"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 80411
+congress = 13
+bill_no = "HB05321"
+report = ""
+comm_act = ""
+referral = "B502"
+ref_name = "POVERTY ALLEVIATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-03-06"
+date_read = "2006-03-06"

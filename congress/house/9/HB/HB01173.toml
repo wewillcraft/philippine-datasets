@@ -1,0 +1,74 @@
+billNumber = "HB01173"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01173"
+lastScraped = "2025-09-22T00:25:54.805197"
+title = "HB01173"
+longTitle = "AN ACT CONVERTING THE SENATOR GERARDO ROXAS MEMORIAL HOSPITAL IN THE MUNICIPALITY OF DAO, PROVINCE OF CAPIZ, INTO A DISTRICT HOSPITAL TO BE KNOWN AS SENATOR GERARDO ROXAS MEMORIAL DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Approved by the House on 1995-02-14, transmitted to on 1995-02-16 and received by the Senate on 1995"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119792
+congress = 9
+bill_no = "HB01173"
+report = "01104"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1992-08-25"
+date_ob = "1995-01-30"
+date_cal = "1995-01-30"
+date_unass = "1995-01-30"
+date_report = "1995-01-19"
+
+[secondReading]
+id = 19170
+congress = 9
+bill_no = "HB01173"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1447
+congress = 9
+bill_no = "HB01173"
+date_dist = "1995-02-06"
+date_adopt = "1995-02-14"
+no_yeas = 128
+no_nays = 0
+no_abstent = 0
+date_trans = "1995-02-16"
+date_rec = "1995-02-16"

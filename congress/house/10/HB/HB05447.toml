@@ -1,0 +1,52 @@
+billNumber = "HB05447"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05447"
+lastScraped = "2025-09-22T00:20:58.376464"
+title = "HB05447"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NUMBERED SEVENTY-TWO HUNDRED AND TWO, OTHERWISE KNOWN AS THE SUGAR RESTITUTION LAW, PROVIDING FUNDING SOURCE THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-12-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-12-11"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 111868
+congress = 10
+bill_no = "HB05447"
+comm_act = "joint ref'l as per J. 16; p. 62; Aug. 27-29, 1996"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-12-11"

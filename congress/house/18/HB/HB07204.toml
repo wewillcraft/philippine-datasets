@@ -1,0 +1,68 @@
+billNumber = "HB07204"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB07204"
+lastScraped = "2025-09-22T00:01:46.448800"
+title = "HB07204"
+longTitle = "AN ACT IMPROVING AND MAINTAINING FORENSIC SCIENCE FACILITIES, ESTABLISHING FOR THE PURPOSE A FORENSIC DNA DATABASE IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2020-07-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2020-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB07204.pdf"
+fileSize = 6579769
+author = "BARBA, ANGELO MARCOS"
+coAuthors = [ "ZAMORA, WAY KURAT", "DALIPE, MANUEL JOSE M.", "SANCHEZ, HECTOR S.",]
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2020-07-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZAMORA, WAY KURAT"
+nameCode = "Zamora (W.K.)"
+date = "2021-03-30"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2021-06-01"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SANCHEZ, HECTOR S."
+nameCode = "Sanchez"
+date = "2021-07-05"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2020-08-04"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 26611
+congress = 18
+bill_no = "HB07204"
+report = ""
+comm_act = ""
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-08-04"

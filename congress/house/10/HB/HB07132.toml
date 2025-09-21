@@ -1,0 +1,54 @@
+billNumber = "HB07132"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07132"
+lastScraped = "2025-09-22T00:20:58.686285"
+title = "HB07132"
+longTitle = "AN ACT CREATING THE PHILIPPINE SECOND WORLD WAR VETERANS OFFICE, PRESCRIBING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-05-27"
+status = "Pending with the Committee on VETERANS AFFAIRS since 1996-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1996-05-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113553
+congress = 10
+bill_no = "HB07132"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1996-05-29"

@@ -1,0 +1,42 @@
+billNumber = "HB12048"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12048"
+lastScraped = "2025-09-22T00:25:56.814218"
+title = "HB12048"
+longTitle = "AN ACT ESTABLISHING A DAY CARE CENTER IN BARANGAY SALVACION IN THE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-14"
+status = "Pending with the Committee on SOCIAL SERVICES since 1994-02-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa"
+[[authorsDetail]]
+name = "Espinosa"
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1994-02-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130663
+congress = 9
+bill_no = "HB12048"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1994-02-17"

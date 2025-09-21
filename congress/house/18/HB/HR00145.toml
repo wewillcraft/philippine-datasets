@@ -1,0 +1,47 @@
+billNumber = "HR00145"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00145"
+lastScraped = "2025-09-22T00:01:47.366954"
+title = "HR00145"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE COMMITTEE ON HEALTH ON THE REPORTED PHP18 BILLION WORTH OF UNUSED MEDICINES LEFT IN DEPARTMENT OF HEALTH (DOH) WAREHOUSES"
+scope = "National"
+dateFiled = "2019-07-29"
+status = "Pending with the Committee on HEALTH since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00145.pdf"
+fileSize = 387503
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2019-07-29"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 30473
+congress = 18
+bill_no = "HR00145"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

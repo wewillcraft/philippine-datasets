@@ -1,0 +1,68 @@
+billNumber = "HB01634"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01634"
+lastScraped = "2025-09-22T00:20:57.654590"
+title = "HB01634"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HOSPITAL WITH A 25-BED CAPACITY IN THE TOWN OF ALICIA, PROVINCE OF ISABELA"
+scope = "Local"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on HEALTH since 1995-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Respicio"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "ABAYA, ANTONIO M.", "DY, FAUSTINO JR. S.",]
+[[authorsDetail]]
+name = "Respicio"
+nameCode = "Respicio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-07"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108055
+congress = 10
+bill_no = "HB01634"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-07"

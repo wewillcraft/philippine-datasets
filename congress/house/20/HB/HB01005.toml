@@ -1,0 +1,46 @@
+billNumber = "HB01005"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01005"
+lastScraped = "2025-09-21T23:39:48.498512"
+title = "HB01005"
+longTitle = "AN ACT DECLARING THE CONGRESSMAN EDELMIRO A. AMANTE, SR. MAPASO RESORT AND ADVENTURE NATURE PARK, LOCATED IN THE MUNICIPALITY OF SANTIAGO, PROVINCE OF AGUSAN DEL NORTE, AN ECOTOURISM ZONE"
+scope = "Local"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on TOURISM since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01005.pdf"
+fileSize = 540368
+author = "CORVERA, DALE B."
+[[authorsDetail]]
+name = "CORVERA, DALE B."
+nameCode = "Corvera"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 1006
+congress = 103
+bill_no = "HB01005"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

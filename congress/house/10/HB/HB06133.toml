@@ -1,0 +1,49 @@
+billNumber = "HB06133"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06133"
+lastScraped = "2025-09-22T00:20:58.501222"
+title = "HB06133"
+longTitle = "AN ACT AMENDING SECTION 5 OF REPUBLIC ACT NUMBERED SIX THOUSAND SIX HUNDRED AND FORTY-EIGHT, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-02-06"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 112554
+congress = 10
+bill_no = "HB06133"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-02-12"

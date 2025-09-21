@@ -1,0 +1,70 @@
+billNumber = "HB05214"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05214"
+lastScraped = "2025-09-22T00:20:58.333179"
+title = "HB05214"
+longTitle = "AN ACT PROVIDING FOR A NATIONAL HEALTH CODE OF 1995"
+scope = "National"
+dateFiled = "1995-11-21"
+status = "Pending with the Committee on HEALTH since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "AVILA, EDGAR M.", "RAMIREZ, JOSE T.", "ROMERO, MIGUEL L.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 111635
+congress = 10
+bill_no = "HB05214"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-11-27"

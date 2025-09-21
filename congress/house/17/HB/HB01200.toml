@@ -1,0 +1,62 @@
+billNumber = "HB01200"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01200"
+lastScraped = "2025-09-21T23:55:44.310667"
+title = "HB01200"
+longTitle = "AN ACT ESTABLISHING LIGHTHOUSES IN ALL COASTAL AREAS IN THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR\r\n"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on TRANSPORTATION since 2017-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01200.pdf"
+fileSize = 221383
+author = "Sarmiento, Cesar V."
+coAuthors = [ "BATOCABE, RODEL M.", "BRAVO, MARIA VIDA E.",]
+[[authorsDetail]]
+name = "Sarmiento, Cesar V."
+nameCode = "Sarmiento (C.)"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-31"
+journalNo = "J064"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2017-05-30"
+journalNo = "J096"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 34668
+congress = 17
+bill_no = "HB01200"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-02-08"
+date_read = "2016-08-01"

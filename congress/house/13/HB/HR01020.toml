@@ -1,0 +1,96 @@
+billNumber = "HR01020"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HR01020"
+lastScraped = "2025-09-22T00:13:49.347113"
+title = "HR01020"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ENVIRONMENTAL DAMAGE AND HEALTH COSTS OF MAINTAINING COAL-FIRED POWER PLANTS IN THE COUNTRY"
+scope = "National"
+dateFiled = "2005-11-21"
+status = "Adopted Resolution (Pending with the committee on ECOLOGY since 2006-02-07)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tañada, Lorenzo III R."
+coAuthors = [ "ALCALA, PROCESO J.", "NOGRALES, PROSPERO C.", "ESCUDERO, FRANCIS G.", "RULES",]
+[[authorsDetail]]
+name = "Tañada, Lorenzo III R."
+nameCode = "Tañada"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALCALA, PROCESO J."
+nameCode = "Alcala"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO C."
+nameCode = "Nograles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, FRANCIS G."
+nameCode = "Escudero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2005-11-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 82282
+congress = 13
+bill_no = "HR01020"
+report = "01345"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption without amendment."
+remarks = ""
+date_pend = "2005-11-29"
+date_read = "2005-11-29"
+date_report = "2006-02-01"
+
+[secondReading]
+id = 13073
+congress = 13
+bill_no = "HR01020"
+adopted_resolution = ""
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ENVIRONMENTAL DAMAGE AND HEALTH COSTS OF MAINTAINING COAL-FIRED POWER PLANTS IN THE COUNTRY"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = "Adopted for Referral to the Ctte. on Ecology."
+recommended_reconsidered = " "
+date_calendared = "2005-12-13"
+date_approved = "2006-02-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+date_refferral = "2006-02-07"
+action_on_adopted_resolution = ""

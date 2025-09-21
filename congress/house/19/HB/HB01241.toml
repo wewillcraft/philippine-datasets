@@ -1,0 +1,61 @@
+billNumber = "HB01241"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01241"
+lastScraped = "2025-09-21T23:55:20.298774"
+title = "HB01241"
+longTitle = "AN ACT GRANTING ADDITIONAL INSURANCE BENEFITS TO PUNONG BARANGAY, PROVIDING FUNDS FOR THE PAYMENT OF ITS PREMIUMS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-05"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01241.pdf"
+fileSize = 1768032
+author = "ROMULO, ROMAN T."
+coAuthors = [ "BORDADO, GABRIEL JR. H.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "ROMULO, ROMAN T."
+nameCode = "Romulo"
+date = "2022-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BORDADO, GABRIEL JR. H."
+nameCode = "Bordado"
+date = "2022-12-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-03-02"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 6160
+congress = 19
+bill_no = "HB01241"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

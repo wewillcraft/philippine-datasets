@@ -1,0 +1,46 @@
+billNumber = "HB06206"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06206"
+lastScraped = "2025-09-22T00:20:58.514317"
+title = "HB06206"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING IN SALIHID ELEMENTARY SCHOOL, BARANGAY SALIHID, MUNICIPALITY OF BAROTAC NUEVO, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112627
+congress = 10
+bill_no = "HB06206"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-14"

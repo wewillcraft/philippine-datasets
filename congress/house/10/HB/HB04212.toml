@@ -1,0 +1,67 @@
+billNumber = "HB04212"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04212"
+lastScraped = "2025-09-22T00:20:58.162984"
+title = "HB04212"
+longTitle = "AN ACT REQUIRING BEACH RESORT OWNERS/MAINTAIN ERS TO CONSTRUCT AND MAINTAIN WATERWORKS SYSTEM  THAT WILL PROVIDE POTABLE WATER TO THE PUBLIC IN ACCREDITED BEACH RESORTS, AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1995-10-03"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 110633
+congress = 10
+bill_no = "HB04212"
+report = "00437"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-10-05"
+date_ob = "1996-05-28"
+date_unass = "1997-02-11"
+date_report = "1996-05-27"
+
+[secondReading]
+id = 18096
+congress = 10
+bill_no = "HB04212"
+date_calendared = "1997-02-19"
+date_approved = "1997-02-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2706
+congress = 10
+bill_no = "HB04212"
+date_dist = "1997-03-03"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"

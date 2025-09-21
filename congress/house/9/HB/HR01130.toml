@@ -1,0 +1,43 @@
+billNumber = "HR01130"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01130"
+lastScraped = "2025-09-22T00:25:57.574148"
+title = "HR01130"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED LEAK OF A NEW GEOTHERMAL PRODUCTION WELL OF THE PHILIPPINE NATIONAL OIL COMPANY - ENERGY DEVELOPMENT CORPORATION (PNOC-EDC) LOCATED IN TONGONAN, LEYTE, WITH THE END IN VIEW OF REVIEWING THE MONITORING AND MAINTENANCE PROGRAM OF PNOC-EDC CONCERNING ITS GEOTHERMAL WELLS AND TO RECOMMEND APPROPRIATE REMEDIAL LEGISLATIVE AND/OR ADMINISTRATIVE MEASURES"
+scope = "Local"
+dateFiled = "1994-07-27"
+status = "Pending with the Committee on ENERGY since 1994-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-08-02"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 134436
+congress = 9
+bill_no = "HR01130"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEE ON ENERGY ON 08/03/94"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-08-02"

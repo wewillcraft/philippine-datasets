@@ -1,0 +1,55 @@
+billNumber = "HR00344"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00344"
+lastScraped = "2025-09-22T00:01:47.402514"
+title = "HR00344"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON METRO MANILA DEVELOPMENT, PUBLIC WORKS AND HIGHWAYS, HOUSING AND URBAN DEVELOPMENT, ECOLOGY, POPULATION AND FAMILY RELATIONS, AND SCIENCE AND TECHNOLOGY TO FORMULATE AN INTEGRATED MASTER PLAN FOR A FLOOD CONTROL PROGRAM IN METRO MANILA"
+scope = "National"
+dateFiled = "2019-09-17"
+status = "Pending with the Committee on METRO MANILA DEVELOPMENT since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00344.pdf"
+fileSize = 257699
+author = "Marcoleta, Rodante D."
+coAuthors = [ "SAVELLANO, DEOGRACIAS VICTOR B.",]
+[[authorsDetail]]
+name = "Marcoleta, Rodante D."
+nameCode = "Marcoleta"
+date = "2019-09-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2019-11-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "primary"
+referralCode = "E502"
+dateRead = "2019-09-19"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 30672
+congress = 18
+bill_no = "HR00344"
+report = ""
+comm_act = ""
+referral = "E502"
+ref_name = "METRO MANILA DEVELOPMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-19"

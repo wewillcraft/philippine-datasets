@@ -1,0 +1,52 @@
+billNumber = "HR02102"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02102"
+lastScraped = "2025-09-22T00:47:02.962398"
+title = "HR02102"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SESSION TODAY, DECEMBER 21, 1990 AS HAVING BEEN READ AND APPROVED"
+scope = "Local"
+dateFiled = "1990-12-21"
+status = "Adopted as Resolution No. HR00098 on 1990-12-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-12-21"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 171937
+congress = 8
+bill_no = "HR02102"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-12-21"
+
+[secondReading]
+id = 21682
+congress = 8
+bill_no = "HR02102"
+adopted_resolution = "HR00098"
+remarks = "ADOPTED"
+date_calendared = "1990-12-21"
+date_approved = "1990-12-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

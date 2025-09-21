@@ -1,0 +1,49 @@
+billNumber = "HR00931"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00931"
+lastScraped = "2025-09-22T00:20:59.601844"
+title = "HR00931"
+longTitle = "RESOLUTION URGING THE METROPOLITAN MANILA DEVELOPMENT AUTHORITY TO IMMEDIATELY IMPLEMENT MEASURES AIMED TO SOLVE THE WORSENING TRAFFIC SITUATION IN METROPOLITAN MANILA"
+scope = "Local"
+dateFiled = "1996-10-30"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-11-06"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 117985
+congress = 10
+bill_no = "HR00931"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-11-06"

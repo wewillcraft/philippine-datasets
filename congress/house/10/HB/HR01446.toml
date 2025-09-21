@@ -1,0 +1,53 @@
+billNumber = "HR01446"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01446"
+lastScraped = "2025-09-22T00:20:59.701143"
+title = "HR01446"
+longTitle = "RESOLUTION CONVEYING THE SENSE OF THE HOUSE OF REPRESENTATIVES THAT THE BILL FILED ESTABLISHING THE LAS SALINAS NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF LOAY, PROVINCE OF BOHOL REFERS TO LAS SALINAS SUR, LOAY, BOHOL"
+scope = "Local"
+dateFiled = "1997-11-26"
+status = "Adopted as Resolution No. HR00130 on 1998-02-02"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-12-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118500
+congress = 10
+bill_no = "HR01446"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-12-02"
+
+[secondReading]
+id = 19051
+congress = 10
+bill_no = "HR01446"
+adopted_resolution = "HR00130"
+date_calendared = "1998-02-02"
+date_approved = "1998-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00130.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00130.pdf"

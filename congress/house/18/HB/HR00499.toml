@@ -1,0 +1,47 @@
+billNumber = "HR00499"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00499"
+lastScraped = "2025-09-22T00:01:47.429963"
+title = "HR00499"
+longTitle = "A RESOLUTION URGING THE COMMITTEE ON GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED SLASHED DAILY MEAL ALLOWANCE OF PRISONERS"
+scope = "National"
+dateFiled = "2019-11-06"
+status = "Pending with the Committee on JUSTICE since 2019-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00499.pdf"
+fileSize = 280836
+author = "Castelo, Precious Hipolito"
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-11-06"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-11-11"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 30827
+congress = 18
+bill_no = "HR00499"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-12-11"
+date_read = "2019-11-11"

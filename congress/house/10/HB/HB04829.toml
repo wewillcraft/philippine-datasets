@@ -1,0 +1,71 @@
+billNumber = "HB04829"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04829"
+lastScraped = "2025-09-22T00:20:58.267699"
+title = "HB04829"
+longTitle = "AN ACT DECLARING THE MUNICIPALITY OF TUKURAN IN THE PROVINCE OF ZAMBOANGA DEL SUR AS A TOURIST ZONE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-06"
+status = "Approved by the House on 1997-04-30, transmitted to on 1997-04-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Urro"
+[[authorsDetail]]
+name = "Urro"
+nameCode = "Urro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-11-09"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111250
+congress = 10
+bill_no = "HB04829"
+report = "00818"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-11-09"
+date_ob = "1997-03-12"
+date_report = "1997-03-10"
+
+[secondReading]
+id = 18136
+congress = 10
+bill_no = "HB04829"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2744
+congress = 10
+bill_no = "HB04829"
+date_dist = "1997-04-21"
+date_adopt = "1997-04-30"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-30"
+date_rec = "1997-05-07"

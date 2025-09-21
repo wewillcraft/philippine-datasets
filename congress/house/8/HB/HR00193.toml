@@ -1,0 +1,57 @@
+billNumber = "HR00193"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00193"
+lastScraped = "2025-09-22T00:47:02.563119"
+title = "HR00193"
+longTitle = "RESOLUTION URGING THE ENERGY REGULATORY BOARD (ERB) TO IMMEDIATELY REDUCE THE PRICES OF GASOLINE AND OTHER PETROLEUM PRODUCTS BY AT LEAST THIRTY-TWO (32) CENTAVOS"
+scope = "National"
+dateFiled = "1987-08-21"
+status = "Pending with the Committee on ENERGY since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+coAuthors = [ "MAR, RAUL V. DEL", "TEVES, MARGARITO B.",]
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TEVES, MARGARITO B."
+nameCode = "Teves"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "PEACE, RECONCILIATION AND UNITY"
+type = "principal"
+referralCode = "E512"
+
+[firstReading]
+id = 170095
+congress = 8
+bill_no = "HR00193"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-08-26"

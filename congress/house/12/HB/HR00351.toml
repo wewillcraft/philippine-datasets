@@ -1,0 +1,59 @@
+billNumber = "HR00351"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00351"
+lastScraped = "2025-09-22T00:13:01.216316"
+title = "Degreasing of the Terminal and Aircraft Parking Facilities and Repairs of Terminal 1 at NAIA"
+longTitle = "RESOLUTION CALLING FOR THE INVESTIGATION BY THE COMMITTEE ON GOOD GOVERNMENT INTO FRAUDULENT CONTRACTS INVOLVING THE DEGREASING AND CLEANING OF THE TERMINAL AND AIRCRAFT PARKING FACILITIES AND REPAIRS OF TERMINAL I AT THE NINOY AQUINO INTERNATIONALAIRPORT"
+scope = "Local"
+dateFiled = "2001-12-21"
+status = "Adopted Resolution (Pending with the committee on GOOD GOVERNMENT since 2002-01-30)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-01-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90290
+congress = 12
+bill_no = "HR00351"
+report = "00178"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-01-14"
+date_report = "2002-01-28"
+
+[secondReading]
+id = 15062
+congress = 12
+bill_no = "HR00351"
+adopted_resolution = "HR00140"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE FRAUDULENT CONTRACTS INVOLVING THE DEGREASING AND CLEANING OF THE TERMINAL AND AIRCRAFT PARKING FACILITIES AND REPAIRS OF TERMINAL I AT THE NINOY AQUINO INTERNATIONAL AIRPORT"
+date_calendared = "2002-01-30"
+date_approved = "2002-01-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-01-30"
+file = "HR00140.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00140.pdf"

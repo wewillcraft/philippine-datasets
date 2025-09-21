@@ -1,0 +1,47 @@
+billNumber = "HB01944"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01944"
+lastScraped = "2025-09-22T00:25:54.941288"
+title = "HB01944"
+longTitle = "AN ACT ESTABLISHING AN ORCHIDS AND ANTHURIUM RESEARCH, TRAINING AND DISPERSAL CENTER IN THE MUNICIPALITY OF MAJAYJAY, PROVINCE OF LAGUNA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120563
+congress = 9
+bill_no = "HB01944"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-09-03"

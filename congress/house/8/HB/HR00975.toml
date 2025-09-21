@@ -1,0 +1,42 @@
+billNumber = "HR00975"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00975"
+lastScraped = "2025-09-22T00:47:02.726350"
+title = "HR00975"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON YOUTH AND SPORTS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE MANNER OF SELECTION OF THE ATHLETES CHOSEN FORTHE OLYMPIC GAMES AT SEOUL KOREA"
+scope = "National"
+dateFiled = "1988-10-05"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1988-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "543"
+dateRead = "1988-10-10"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 170852
+congress = 8
+bill_no = "HR00975"
+referral = "543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = ""
+date_read = "1988-10-10"

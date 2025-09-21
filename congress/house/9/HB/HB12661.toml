@@ -1,0 +1,42 @@
+billNumber = "HB12661"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12661"
+lastScraped = "2025-09-22T00:25:56.940089"
+title = "HB12661"
+longTitle = "AN ACT CONVERTING THE LAKEWOOD DISTRICT HOSPITAL IN LAKEWOOD, ZAMBOANGA DEL SUR, INTO A REGIONAL HOSPITAL TO BE KNOWN AS LAKEWOOD REGIONAL HOSPITAL AND TO INCREASE THE BED CAPACITY TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-05-03"
+status = "Pending with the Committee on HEALTH since 1994-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-05-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131276
+congress = 9
+bill_no = "HB12661"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-05-10"

@@ -1,0 +1,51 @@
+billNumber = "HB05520"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05520"
+lastScraped = "2025-09-22T00:20:58.393723"
+title = "HB05520"
+longTitle = "AN ACT CONVERTING THE ABUYOG COMMUNITY COLLEGE IN THE MUNICIPALITY OF ABUYOG, PROVINCE OF LEYTE, INTO A STATE COLLEGE TO BE KNOWN AS THE ABUYOG STATE COLLEGE OF SCIENCE AND TECHNOLOGY, EXPANDING ITS CURRICULAR OFFERINGS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-12-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Loreto"
+[[authorsDetail]]
+name = "Loreto"
+nameCode = "Loreto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-12-19"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111941
+congress = 10
+bill_no = "HB05520"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-12-19"

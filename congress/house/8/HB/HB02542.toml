@@ -1,0 +1,42 @@
+billNumber = "HB02542"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02542"
+lastScraped = "2025-09-22T00:46:57.012885"
+title = "HB02542"
+longTitle = "AN ACT AUTHORIZING THE RENOVATION OF THE MUNICIPAL BUILDING OF THE MUNICIPALITY OF BATAD, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-10-13"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 137231
+congress = 8
+bill_no = "HB02542"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-10-13"

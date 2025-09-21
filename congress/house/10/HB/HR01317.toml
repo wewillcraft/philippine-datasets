@@ -1,0 +1,56 @@
+billNumber = "HR01317"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01317"
+lastScraped = "2025-09-22T00:20:59.677319"
+title = "HR01317"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES , THROUGH THE APPROPRIATE COMMITTEES TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE DEPLOYMENT OF MILITARY PERSONNEL IN AREAS WHICH DO NOT REQUIRE THEIR INTERVENTION"
+scope = "National"
+dateFiled = "1997-08-06"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-08-11"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 118371
+congress = 10
+bill_no = "HR01317"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-08-11"

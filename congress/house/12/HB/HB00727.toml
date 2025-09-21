@@ -1,0 +1,71 @@
+billNumber = "HB00727"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00727"
+lastScraped = "2025-09-22T00:12:59.937148"
+title = "HB00727"
+longTitle = "AN ACT TO CONSERVE AND PROTECT THE PUBLIC FORESTS, MANGROVES AND WILDLIFE THEREIN THROUGH A PROGRAM OF RENEWAL, REFORESTATION AND REPLANTING AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-06"
+status = "Pending with the Committee on NATURAL RESOURCES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar, Cynthia A."
+coAuthors = [ "DEL MAR, RAUL V.", "JARAULA, CONSTANTINO G.", "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Villar, Cynthia A."
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 83887
+congress = 12
+bill_no = "HB00727"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2001-07-24"

@@ -1,0 +1,52 @@
+billNumber = "HR00193"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00193"
+lastScraped = "2025-09-22T00:01:47.374532"
+title = "HR00193"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, IN ORDER TO DETERMINE THE PREPAREDNESS OF THE GOVERNMENT OF THE PHILIPPINES AND ATTACHED AGENCIES CONCERNED AGAINST AFRICAN SWINE FEVER (ASF)"
+scope = "National"
+dateFiled = "2019-08-05"
+status = "Deliberated upon by the Mother Committee on 2020-03-03"
+statusOrder = 4.21
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00193.pdf"
+fileSize = 413948
+author = "Geron, Rico B."
+[[authorsDetail]]
+name = "Geron, Rico B."
+nameCode = "Geron"
+date = "2019-08-05"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2019-08-07"
+
+[[committee]]
+name = "PEACE, RECONCILIATION AND UNITY"
+type = "principal"
+referralCode = "E512"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 30521
+congress = 18
+bill_no = "HR00193"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-03-10"
+date_read = "2019-08-07"

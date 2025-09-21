@@ -1,0 +1,47 @@
+billNumber = "HB05327"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05327"
+lastScraped = "2025-09-22T00:25:55.611556"
+title = "HB05327"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A DAY-CARE IN BARANGAY WAWA EAST IN THE MUNICIPALITY OF SINILOAN, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123946
+congress = 9
+bill_no = "HB05327"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-12-08"

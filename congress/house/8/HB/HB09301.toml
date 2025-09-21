@@ -1,0 +1,42 @@
+billNumber = "HB09301"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09301"
+lastScraped = "2025-09-22T00:46:58.232231"
+title = "HB09301"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY TUAEL, MUNICIPALITY OF PRES. ROXAS, PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-11"
+status = "Pending with the Committee on HEALTH since 1988-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-16"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 143976
+congress = 8
+bill_no = "HB09301"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-16"

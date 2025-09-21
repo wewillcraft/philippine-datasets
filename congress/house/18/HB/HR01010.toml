@@ -1,0 +1,47 @@
+billNumber = "HR01010"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01010"
+lastScraped = "2025-09-22T00:01:47.524507"
+title = "HR01010"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE LAMENTABLE REPORTING OF\r\nCORONAVIRUS DISEASE 2019 (COVID-19) TEST RESULTS BY THE\r\nDEPARTMENT OF HEALTH AS DEMONSTRATED BY THOUSANDS OF CASE\r\nBACKLOGS IN THE COUNTRY"
+scope = "National"
+dateFiled = "2020-06-29"
+status = "Pending with the Committee on DEFEAT COVID-19 AD-HOC COMMITTEE since 2020-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01010.pdf"
+fileSize = 965457
+author = "Castelo, Precious Hipolito"
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2020-06-29"
+sequence = 1
+
+[[committee]]
+name = "DEFEAT COVID-19 AD-HOC COMMITTEE"
+type = "primary"
+referralCode = "J503"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31329
+congress = 18
+bill_no = "HR01010"
+report = ""
+comm_act = ""
+referral = "J503"
+ref_name = "DEFEAT COVID-19 AD-HOC COMMITTEE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-08-11"
+date_read = "2020-07-28"

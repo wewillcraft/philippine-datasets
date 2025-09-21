@@ -1,0 +1,42 @@
+billNumber = "HR00525"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00525"
+lastScraped = "2025-09-22T00:47:02.628517"
+title = "HR00525"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON NATIONAL DEFENCE TO DIRECT THE PROVINCIAL COMMANDER OF NUEVAECIJA TO CONDUCT AN IMMEDIATE INVESTIGATION ON THE CIRCUMSTANCES SURROUNDING THE KILLING OF DOCTOR ANTONIO LIMOS AND TO REPORT TO THE SAID COMMITTEE OF THE HOUSE OF REPRESENTATIVES ITS FINDINGS AND RECOMMENDATIONS"
+scope = "Local"
+dateFiled = "1987-12-10"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-12-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170413
+congress = 8
+bill_no = "HR00525"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-12-14"

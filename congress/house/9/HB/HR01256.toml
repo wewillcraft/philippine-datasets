@@ -1,0 +1,43 @@
+billNumber = "HR01256"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01256"
+lastScraped = "2025-09-22T00:25:57.600561"
+title = "HR01256"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE, IN AID OF LEGISLATION, TO INVESTIGATE THE INVOLVEMENT OF AFP PERSONNELS IN MINDANAO IN THE SALE OF MILITARY ARMS AND AMMUNITIONS TO CRIMINAL GROUPS"
+scope = "Local"
+dateFiled = "1994-10-06"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adasa"
+[[authorsDetail]]
+name = "Adasa"
+nameCode = "Adasa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-10-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134562
+congress = 9
+bill_no = "HR01256"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on National Defense on 10/18/94"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-10-17"

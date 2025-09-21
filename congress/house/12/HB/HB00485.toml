@@ -1,0 +1,42 @@
+billNumber = "HB00485"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00485"
+lastScraped = "2025-09-22T00:12:59.894415"
+title = "HB00485"
+longTitle = "AN ACT AMENDING SECTION 10 OF BATAS PAMBANSA BLG. 129, AS AMENDED, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT  OF 1980"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 83645
+congress = 12
+bill_no = "HB00485"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

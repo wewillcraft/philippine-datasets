@@ -1,0 +1,47 @@
+billNumber = "HB06774"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06774"
+lastScraped = "2025-09-22T00:25:55.844809"
+title = "HB06774"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HEALTH CENTER IN BARANGAY CAPILIJAN, MUNICIPALITY OF IBAJAY, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-27"
+status = "Pending with the Committee on HEALTH since 1993-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125393
+congress = 9
+bill_no = "HB06774"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-01"

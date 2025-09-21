@@ -1,0 +1,62 @@
+billNumber = "HR00031"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00031"
+lastScraped = "2025-09-21T23:56:22.804070"
+title = "HR00031"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ADEQUACY AND EFFICIENCY OF GOVERNMENT POSTHARVEST SUPPORT TO THE AGRICULTURE SECTOR WITH THE END IN VIEW OF DECREASING POSTPRODUCTION LOSSES THEREBY INCREASING RICE SELF-SUFFICIENCY OF THE COUNTRY"
+scope = "National"
+dateFiled = "2013-07-03"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2013-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00031.pdf"
+fileSize = 261123
+author = "ROMULO, ROMAN T."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "ROMULO, ROMAN T."
+nameCode = "Romulo"
+date = "2013-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 52430
+congress = 16
+bill_no = "HR00031"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-10-14"
+date_read = "2013-07-29"

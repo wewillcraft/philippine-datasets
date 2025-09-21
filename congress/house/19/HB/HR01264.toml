@@ -1,0 +1,83 @@
+billNumber = "HR01264"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01264"
+lastScraped = "2025-09-21T23:55:22.822507"
+title = "HR01264"
+longTitle = "RESOLUTION\r\nSUPPORTING THE ESTABLISHMENT OF A MULTI-ACTOR PARTNERSHIP FOR \r\nTHE ENHANCEMENT OF CLIMATE AND DISASTER RISK FINANCING AND \r\nINSURANCE IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2023-09-07"
+status = "Adopted as Resolution No. HR00155 on 2023-11-08"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chatto, Edgar M."
+[[authorsDetail]]
+name = "Chatto, Edgar M."
+nameCode = "Chatto"
+date = "2023-09-07"
+sequence = 1
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "primary"
+referralCode = "H503"
+dateRead = "2023-09-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00213"
+sequence = 1
+date = "2023-09-07"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00213"
+sequence = 1
+date = "2023-09-07"
+flag = "S"
+
+[firstReading]
+id = 17808
+congress = 19
+bill_no = "HR01264"
+report = "00750"
+comm_act = ""
+referral = "H503"
+ref_name = "CLIMATE CHANGE"
+sub_name = "CLIMATE CHANGE"
+recomm = "Recommending its adoption in substitution of House Resolution No. 213"
+remarks = ""
+file = "CR00750.pdf"
+date_read = "2023-09-11"
+date_ob = "2023-09-11"
+date_report = "2023-09-07"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR00750.pdf"
+
+[secondReading]
+id = 913
+congress = 19
+bill_no = "HR01264"
+adopted_resolution = "HR00155"
+adopted_resolution_title = "RESOLUTION SUPPORTING THE ESTABLISHMENT OF A MULTI-ACTOR PARTNERSHIP FOR THE ENHANCEMENT OF CLIMATE AND DISASTER RISK FINANCING AND INSURANCE IN THE PHILIPPINES"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2023-11-08"
+date_approved = "2023-11-08"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01264.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_19/HR01264.pdf"

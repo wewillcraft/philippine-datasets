@@ -1,0 +1,42 @@
+billNumber = "HR01309"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01309"
+lastScraped = "2025-09-22T00:25:57.609511"
+title = "HR01309"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL SECURITY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CONTINUING REPORTS OF ROBBERIES AND HOLD-UPS AFFECTING BANKS, PARTICULARLY THEIR BRANCHES,A ND TO RECOMMEND SUCH MEASURES AS MAY BE NECESSARY TO PREVENT OR AT LEAST MINIMIZE SUCH OCCURENCES NOT ONLY BECAUSE OF THE CONSEQUENT LOSS OF LIVES AND PROPERTIES (CASH) BUT ALSO BECAUSE THEY TEND TO IMPAIR THE PEOPLE'S FAITH IN THE STABILITY AND INTEGRITY OF THE BANKING SYSTEM"
+scope = "National"
+dateFiled = "1994-12-05"
+status = "Pending with the Committee on RULES since 1994-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-12-07"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 134614
+congress = 9
+bill_no = "HR01309"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-12-07"

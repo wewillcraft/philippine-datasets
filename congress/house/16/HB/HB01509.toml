@@ -1,0 +1,66 @@
+billNumber = "HB01509"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01509"
+lastScraped = "2025-09-21T23:56:21.751876"
+title = "HB01509"
+longTitle = "AN ACT CREATING THE NATIONAL FILM ARCHIVE TO BE MANAGED BY THE FILM DEVELOPMENT COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2013-07-17"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2013-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01509.pdf"
+fileSize = 618232
+author = "Gomez, Lucy T."
+coAuthors = [ "REVILLA, LANI MERCADO", "VARGAS, ALFRED PAOLO III",]
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2013-07-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = "2013-08-12"
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VARGAS, ALFRED PAOLO III"
+nameCode = "Vargas"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2013-07-30"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "secondary"
+referralCode = "0528"
+
+[firstReading]
+id = 47323
+congress = 16
+bill_no = "HB01509"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-30"

@@ -1,0 +1,64 @@
+billNumber = "HR01039"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01039"
+lastScraped = "2025-09-22T00:25:57.558248"
+title = "HR01039"
+longTitle = "RESOLUTION ENDORSING COMPLAINT FOR IMPEACHMENT FILED BY HONORABLE MANUEL L. MORATO AGAINST VICE-PRESIDENT JOSEPH ESTRADA"
+scope = "National"
+dateFiled = "1994-05-12"
+status = "Pending with the Committee on JUSTICE since 1994-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "ADIONG, MAMINTAL M.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ADIONG, MAMINTAL M."
+nameCode = "Adiong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-05-16"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[motherBills]]
+bill_no = "HR01302"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01302"
+flag = "S"
+
+[firstReading]
+id = 134346
+congress = 9
+bill_no = "HR01039"
+report = "00973"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "Together with HR NO. 1302, Consign to the Archives"
+date_read = "1994-05-16"
+date_ob = "1994-12-05"
+date_cal = "1994-12-05"
+date_unass = "1994-12-05"
+date_report = "1994-11-22"

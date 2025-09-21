@@ -1,0 +1,41 @@
+billNumber = "HB08444"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08444"
+lastScraped = "2025-09-22T00:20:58.962507"
+title = "HB08444"
+longTitle = "AN ACT ESTABLISHING A REGULAR DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN VALENZUELA, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-11-14"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serapio"
+[[authorsDetail]]
+name = "Serapio"
+nameCode = "Serapio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-11-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 114865
+congress = 10
+bill_no = "HB08444"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-11-18"

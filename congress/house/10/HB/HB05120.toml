@@ -1,0 +1,41 @@
+billNumber = "HB05120"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05120"
+lastScraped = "2025-09-22T00:20:58.316429"
+title = "HB05120"
+longTitle = "AN ACT CHANGING THE SAN LORENZO RUIZ MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MALABON, METRO MANILA, TO SAN LORENZO RUIZ WOMEN'S HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-15"
+status = "Pending with the Committee on HEALTH since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 111541
+congress = 10
+bill_no = "HB05120"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-11-20"

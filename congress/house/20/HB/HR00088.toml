@@ -1,0 +1,56 @@
+billNumber = "HR00088"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00088"
+lastScraped = "2025-09-21T23:39:49.211226"
+title = "HR00088"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS AND OTHER APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PERSISTENT, WIDESPREAD, AND ESCALATING MISMANAGEMENT AND FAILURE OF THE GOVERNMENT'S FLOOD CONTROL INITIATIVES, WITH THE END IN VIEW OF SAFEGUARDING PUBLIC FUNDS AND LIVES"
+dateFiled = "2025-07-30"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00088.pdf"
+fileSize = 8439061
+author = "SAN FERNANDO, ELIJAH RUMBAOA"
+[[authorsDetail]]
+name = "SAN FERNANDO, ELIJAH RUMBAOA"
+nameCode = "San Fernando"
+date = "2025-07-30"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4644
+congress = 103
+bill_no = "HR00088"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-04"

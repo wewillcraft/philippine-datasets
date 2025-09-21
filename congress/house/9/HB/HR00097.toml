@@ -1,0 +1,42 @@
+billNumber = "HR00097"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00097"
+lastScraped = "2025-09-22T00:25:57.385835"
+title = "HR00097"
+longTitle = "RESOLUTION PROVIDING FOR AN IMMEDIATE AND THOROUGH LEGISLATIVE INQUIRY INTO THE SERIOUS PROBLEMS OF ILLEGAL RECRUITMENT IN THE COUNTRY"
+scope = "National"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 133409
+congress = 9
+bill_no = "HR00097"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1992-08-26"

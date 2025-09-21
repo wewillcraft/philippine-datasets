@@ -1,0 +1,42 @@
+billNumber = "HR00168"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00168"
+lastScraped = "2025-09-22T00:25:57.397894"
+title = "HR00168"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS TO COORDINATE, IN AID OF LEGISLATION, THE CONSTRUCTION OF THE PROPOSED BINAN INTERCHANGE"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 133480
+congress = 9
+bill_no = "HR00168"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-18"

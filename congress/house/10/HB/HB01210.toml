@@ -1,0 +1,54 @@
+billNumber = "HB01210"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01210"
+lastScraped = "2025-09-22T00:20:57.582218"
+title = "HB01210"
+longTitle = "AN ACT INCREASING THE SALARIES OF BARANGAY OFFICIALS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-24"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MADRONA, ELEANDRO JESUS F."
+coAuthors = [ "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107631
+congress = 10
+bill_no = "HB01210"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-07-31"

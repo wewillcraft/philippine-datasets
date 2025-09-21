@@ -1,0 +1,42 @@
+billNumber = "HR01352"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01352"
+lastScraped = "2025-09-22T00:47:02.797077"
+title = "HR01352"
+longTitle = "RESOLUTION CONGRATULATING IGLESIA NI CRISTO ON THE COMMEMORATION OF ITS 75TH ANNIVERSARY ON JULY 27, 1989"
+scope = "Local"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on RULES since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171220
+congress = 8
+bill_no = "HR01352"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-07-25"

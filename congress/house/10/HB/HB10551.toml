@@ -1,0 +1,46 @@
+billNumber = "HB10551"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10551"
+lastScraped = "2025-09-22T00:20:59.406616"
+title = "HB10551"
+longTitle = "AN ACT ESTABLISHING A NATIONAL  HIGH SCHOOL IN BARANGAY PICANAN IN THE MUNICIPALITY OF KUMALARANG, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS PICANAN NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-04-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116971
+congress = 10
+bill_no = "HB10551"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1998-05-25"

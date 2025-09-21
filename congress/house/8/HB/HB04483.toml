@@ -1,0 +1,42 @@
+billNumber = "HB04483"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04483"
+lastScraped = "2025-09-22T00:46:57.342326"
+title = "HB04483"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED CAPACITY MUNICIPAL HOSPITAL AT THE MUNICIPALITY OF NEW CORELLA, PROVINCE OF DAVAO, TO BE KNOWN AS THE NEW CORELLA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-09"
+status = "Pending with the Committee on HEALTH since 1987-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 139167
+congress = 8
+bill_no = "HB04483"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+date_read = "1987-12-15"

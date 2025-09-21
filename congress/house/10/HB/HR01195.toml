@@ -1,0 +1,75 @@
+billNumber = "HR01195"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01195"
+lastScraped = "2025-09-22T00:20:59.655385"
+title = "HR01195"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON MINDANAO AFFAIRS AND THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE BURNING OF HOTEL IMPERIAL IN COTABATO CITY RESULTING IN THE DEATH OF AT LEAST TWENTY-SEVEN (27) PERSONS"
+scope = "Local"
+dateFiled = "1997-04-30"
+status = "Pending with the Committee on MINDANAO AFFAIRS (SPECIAL CTTE.) since 1997-05-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "DATUMANONG, SIMEON A.", "MANGOTARA, ABDULLAH S.", "MUARIP, CANDU I.", "JAAFAR, NUR G.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DATUMANONG, SIMEON A."
+nameCode = "Datumanong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MANGOTARA, ABDULLAH S."
+nameCode = "Mangotara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MUARIP, CANDU I."
+nameCode = "Muarip"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JAAFAR, NUR G."
+nameCode = "Jaafar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "MINDANAO AFFAIRS (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "A507"
+dateRead = "1997-05-07"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 118249
+congress = 10
+bill_no = "HR01195"
+referral = "A507"
+ref_name = "MINDANAO AFFAIRS (SPECIAL CTTE.)"
+date_read = "1997-05-07"

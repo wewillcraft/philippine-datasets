@@ -1,0 +1,41 @@
+billNumber = "HB09430"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09430"
+lastScraped = "2025-09-22T00:20:59.165669"
+title = "HB09430"
+longTitle = "AN ACT PROHIBITING THE APPOINTMENT OF RETIRED MILITARY PERSONNEL TO ANY GOVERNEMNT POSITION WITHIN TWO YEARS FROM THEIR RETIREMENT"
+scope = "National"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1997-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1997-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115851
+congress = 10
+bill_no = "HB09430"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1997-05-22"

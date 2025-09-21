@@ -1,0 +1,47 @@
+billNumber = "HR00929"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00929"
+lastScraped = "2025-09-22T00:25:57.536543"
+title = "HR00929"
+longTitle = "RESOLUTION URGING THE PHILIPPINE CONGRESS TO REMOVE THE OIL LEVY AND INSTEAD ADOPT LEGISLATIVE ACTIONS AND OTHER MEASURES AS RECOMMENDED BY THE FREEDOM FROM DEBT COALITION (FDC) IN ITS PLACE"
+scope = "National"
+dateFiled = "1994-02-08"
+status = "Pending with the Committee on ENERGY since 1994-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-02-14"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 134236
+congress = 9
+bill_no = "HR00929"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-02-14"

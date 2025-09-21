@@ -1,0 +1,43 @@
+billNumber = "HR01047"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01047"
+lastScraped = "2025-09-22T00:25:57.559534"
+title = "HR01047"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PRACTICE OF ADMINISTRATIVE DETENTION IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1994-05-16"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1994-05-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1994-05-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134354
+congress = 9
+bill_no = "HR01047"
+comm_act = "Change of referral from the Ctte. on Rules on May 24, 1994 (J85, p.10)"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+date_read = "1994-05-19"

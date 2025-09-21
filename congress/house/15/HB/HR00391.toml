@@ -1,0 +1,110 @@
+billNumber = "HR00391"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HR00391"
+lastScraped = "2025-09-21T23:56:42.002379"
+title = "HR00391"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS(DFA) TO ESTABLISH A FRONTLINE OFFICE IN DUMAGUETE CITY, PROVINCE OF NEGROS ORIENTAL"
+scope = "National"
+dateFiled = "2010-09-13"
+status = "Adopted as Resolution No. HR00030 on 2010-09-22"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Pryde Henry A."
+coAuthors = [ "ARNAIZ, GEORGE PLANTO", "LIMKAICHONG, JOCELYN SY", "FUA, ORLANDO BONGCAWEL",]
+[[authorsDetail]]
+name = "Teves, Pryde Henry A."
+nameCode = "Teves"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ARNAIZ, GEORGE PLANTO"
+nameCode = "Arnaiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIMKAICHONG, JOCELYN SY"
+nameCode = "Limkaichong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FUA, ORLANDO BONGCAWEL"
+nameCode = "Fua"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2010-09-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB00189"
+sequence = 1
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB01930"
+sequence = 2
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00189"
+sequence = 1
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01930"
+sequence = 2
+flag = "S"
+
+[firstReading]
+id = 62861
+congress = 15
+bill_no = "HR00391"
+report = "00190"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "Adoption, in substitution to House Bill Nos. 189 and 1930."
+remarks = ""
+date_read = "2010-09-14"
+date_ob = "2010-09-14"
+date_report = "2010-09-13"
+
+[secondReading]
+id = 6387
+congress = 15
+bill_no = "HR00391"
+adopted_resolution = "HR00030"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS(DFA) TO ESTABLISH A FRONTLINE OFFICE IN DUMAGUETE CITY, PROVINCE OF NEGROS ORIENTAL"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2010-09-22"
+date_approved = "2010-09-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00391.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_15/HR00391.pdf"

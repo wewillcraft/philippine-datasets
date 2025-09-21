@@ -1,0 +1,51 @@
+billNumber = "HB03376"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03376"
+lastScraped = "2025-09-21T23:39:48.942805"
+title = "HB03376"
+longTitle = "AN ACT ESTABLISHING A MULTI-SPECIALTY MEDICAL CENTER TO BE KNOWN AS THE WESTERN PHILIPPINES MULTI-SPECIALTY MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-08-07"
+status = "Pending with the Committee on HEALTH since 2025-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+fileSize = 0
+author = "ALVAREZ, JOSE C."
+[[authorsDetail]]
+name = "ALVAREZ, JOSE C."
+nameCode = "Alvarez (J.)"
+date = "2025-08-07"
+sequence = 1
+
+[[authorsDetail]]
+name = "ACOSTA, GIL \"KABARANGAYJR\""
+nameCode = "Acosta"
+date = "2025-08-07"
+sequence = 2
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-12"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 3377
+congress = 103
+bill_no = "HB03376"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-12"

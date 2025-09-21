@@ -1,0 +1,42 @@
+billNumber = "HR01242"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01242"
+lastScraped = "2025-09-22T00:47:02.774830"
+title = "HR01242"
+longTitle = "RESOLUTION EXPRESSING THE STRONG SENTIMENT OF THEHOUSE OF REPRESENTATIVES AGAINST THE CONTINUED IMPLEMENTATION OF EXECUTIVE ORDER NUMBERED TWO HUNDRED AND SEVENTY-THREE PROVIDING FOR VALUE ADDED TAX(VAT) AND OPTING FOR REVERSION TO OLD SYSTEM OF REVENUE COLLECTION"
+scope = "Local"
+dateFiled = "1989-04-12"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-04-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-04-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171112
+congress = 8
+bill_no = "HR01242"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-04-18"

@@ -1,0 +1,41 @@
+billNumber = "HB05281"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05281"
+lastScraped = "2025-09-22T00:20:58.344455"
+title = "HB05281"
+longTitle = "AN ACT AMENDING ARTICLE FOUR HUNDRED TWELVE OF REPUBLIC ACT NUMBERED THREE HUNDRED EIGHTY-SIX, OTHERWISE KNOWN AS THE CIVIL CODE OF THE PHILIPPINES IN ORDER TO EFFECT A CHANGE OR CORRECTION OF A NAME OR SURNAME THROUGH ADMINISTRATIVE PROCEEDING"
+scope = "National"
+dateFiled = "1995-11-23"
+status = "Pending with the Committee on JUSTICE since 1995-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-11-28"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 111702
+congress = 10
+bill_no = "HB05281"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-11-28"

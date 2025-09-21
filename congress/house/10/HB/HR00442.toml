@@ -1,0 +1,62 @@
+billNumber = "HR00442"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00442"
+lastScraped = "2025-09-22T00:20:59.504094"
+title = "HR00442"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO MAKE AN INQUIRY, IN AID OF LEGISLATION, ON THE ILL-EFFECTS ON THE PHILIPPINES AND ITS POPULATION OF THE SIX NUCLEAR TESTS CONDUCTED BY THE FRENCH GOVERNMENT AT THE MURUROA AND FAUNGATAUFA ATOLL IN THE SOUTH PACIFIC AND POSSIBLY BANNING THE ENTRY OF ALL FRENCH MADE PRODUCTS AND SERVICES INTO THE COUNTRY"
+scope = "National"
+dateFiled = "1996-02-01"
+status = "Pending with the Committee on ECOLOGY since 1996-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 117496
+congress = 10
+bill_no = "HR00442"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ecology and on Foreign Affairs on Feb."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-02-06"

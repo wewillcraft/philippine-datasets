@@ -1,0 +1,50 @@
+billNumber = "HB10945"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10945"
+lastScraped = "2025-09-22T00:46:58.496571"
+title = "HB10945"
+longTitle = "AN ACT ADOPTING THE STRATEGIC ENVIRONMENTAL PLAN (SEP) FOR PALAWAN PROVIDING FUNDS FOR ITS IMPLEMENTATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1988-05-25"
+status = "Pending with the Committee on HEALTH since 1988-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "MITRA, RAMON JR. V.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MITRA, RAMON JR. V."
+nameCode = "Mitra"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 145614
+congress = 8
+bill_no = "HB10945"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-30"

@@ -1,0 +1,48 @@
+billNumber = "HB04551"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04551"
+lastScraped = "2025-09-22T00:25:55.451137"
+title = "HB04551"
+longTitle = "AN ACT ESTABLISHING THE BANAOANG RIVER AUTHORITY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-05"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1992-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1992-11-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123170
+congress = 9
+bill_no = "HB04551"
+comm_act = "change of ctte. ref'l from Economic Affairs as per J. 12; 8-18-93; p.29"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "1992-11-11"

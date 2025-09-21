@@ -1,0 +1,54 @@
+billNumber = "HB09061"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09061"
+lastScraped = "2025-09-22T00:20:59.090351"
+title = "HB09061"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CIRCUMFERENTIAL ROAD AROUND THE POBLACION IN THE MUNICIPALITY OF MARCOS, PROVINCE OF ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-03-05"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-03-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+coAuthors = [ "MARCOS, IMELDA R.",]
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MARCOS, IMELDA R."
+nameCode = "Marcos"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-03-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115482
+congress = 10
+bill_no = "HB09061"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-03-11"

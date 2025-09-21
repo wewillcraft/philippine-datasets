@@ -1,0 +1,46 @@
+billNumber = "HR01287"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01287"
+lastScraped = "2025-09-22T00:20:59.671627"
+title = "HR01287"
+longTitle = "RESOLUTION URGING AN IMMEDIATE INVESTIGATION BY THE COMMITTEES ON PUBLIC ORDER AND SECURITY, JUSTICE, AND EFFECTIVE LAW ENFORCEMENT ON THE REPORTED INVOLVEMENT OF BIG POLITICIANS, RANKING POLICE AND MILITARY OFFICIALS AND NBI OFFICIALS, JUDGES AND FISCALS WITH DRUG SYNDICATES"
+scope = "National"
+dateFiled = "1997-07-25"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 118341
+congress = 10
+bill_no = "HR01287"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-07-31"

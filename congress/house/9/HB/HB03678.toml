@@ -1,0 +1,47 @@
+billNumber = "HB03678"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03678"
+lastScraped = "2025-09-22T00:25:55.245757"
+title = "HB03678"
+longTitle = "AN ACT CREATING THE PASAY CITY NATIONAL SPECIAL SCIENCE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-19"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122297
+congress = 9
+bill_no = "HB03678"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-19"

@@ -1,0 +1,41 @@
+billNumber = "HR01369"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01369"
+lastScraped = "2025-09-22T00:20:59.688027"
+title = "HR01369"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PHILIPPINE NATIONAL RAILWAYS TRAINS COLLISION ON SEPTEMBER 22, 1997 IN BARANGAY BULI, MUNTINLUPA CITY"
+scope = "Local"
+dateFiled = "1997-09-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-10-01"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 118423
+congress = 10
+bill_no = "HR01369"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-10-01"

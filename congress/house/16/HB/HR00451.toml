@@ -1,0 +1,55 @@
+billNumber = "HR00451"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00451"
+lastScraped = "2025-09-21T23:56:22.879407"
+title = "HR00451"
+longTitle = "A RESOLUTION DIRECTING THE CLIMATE CHANGE COMMISSION TO BRIEF THE COMMITTEE OF ECOLOGY OF THE HOUSE OF REPRESENTATIVES ON THE EFFORTS AND INITIATIVES THAT IT HAS BEEN UNDERTAKING IN ORDER TO COMBAT THE EFFECTS OF CLIMATE CHANGE AND ON THE RESULTS OF AND UPDATES ON THE 19TH UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE CONFERENCE OF PARTIES"
+scope = "National"
+dateFiled = "2013-11-11"
+status = "Pending with the Committee on ECOLOGY since 2013-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00451.pdf"
+fileSize = 149079
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2013-11-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = "2013-11-11"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2013-11-19"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 52850
+congress = 16
+bill_no = "HR00451"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-12-16"
+date_read = "2013-11-19"

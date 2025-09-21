@@ -1,0 +1,42 @@
+billNumber = "HR01248"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01248"
+lastScraped = "2025-09-22T00:25:57.599364"
+title = "HR01248"
+longTitle = "RESOLUTION CONGRATULATING THE ORGANIZERS OF COUNTRYWIDE INTEGRATED STEEL CORPORATION AND ASSURING THEM OF THE GOVERNMENT'S SUPPORT AND TO ASK THE BOARD OF INVESTMENTS TO SPEED UP THE APPROVAL OF ITS REGISTRATION"
+scope = "National"
+dateFiled = "1994-10-03"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1994-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dureza"
+[[authorsDetail]]
+name = "Dureza"
+nameCode = "Dureza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1994-10-05"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 134554
+congress = 9
+bill_no = "HR01248"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1994-10-05"

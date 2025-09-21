@@ -1,0 +1,81 @@
+billNumber = "HB03228"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03228"
+lastScraped = "2025-09-22T00:13:00.390013"
+title = "HB03228"
+longTitle = "AN ACT ESTABLISHING CRISIS INTERVENTION CENTERS FOR WOMEN AND CHILDREN VICTIMS AND SURVIVORS OF ABUSE OR EXPLOITATION, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-09-25"
+status = "Pending with the Committee on SOCIAL SERVICES since 2001-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa, Edgar T."
+coAuthors = [ "DEL MAR, RAUL V.", "ECHIVERRI, ENRICO R.", "CHATTO, EDGARDO M.", "CARI, CARMEN L.",]
+[[authorsDetail]]
+name = "Espinosa, Edgar T."
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J026"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J040"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J093"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2001-10-01"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 86388
+congress = 12
+bill_no = "HB03228"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2001-10-01"

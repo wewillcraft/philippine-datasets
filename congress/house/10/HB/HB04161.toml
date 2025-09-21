@@ -1,0 +1,56 @@
+billNumber = "HB04161"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04161"
+lastScraped = "2025-09-22T00:20:58.142884"
+title = "HB04161"
+longTitle = "AN ACT IMPOSING A TAX ON THE MANUFACTURE OF EVERY LITER OF MINERAL WATER"
+scope = "National"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "LIBAN, DANTE V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 110582
+congress = 10
+bill_no = "HB04161"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-10-05"

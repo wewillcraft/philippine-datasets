@@ -1,0 +1,47 @@
+billNumber = "HR00221"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00221"
+lastScraped = "2025-09-21T23:56:22.837272"
+title = "HR00221"
+longTitle = "A RESOLUTION EXPRESSING THE HOUSE OF REPRESENTATIVES' DEEPEST SYMPATHIES TO THE VICTIMS AND THE FAMILIES OF VICTIMS OF THE SINKING OF THE M/V ST. THOMAS AQUINAS OFF THE COAST OF TALISAY, CEBU; AND URGING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE INCIDENT WHICH LED TO ITS SINKING"
+scope = "National"
+dateFiled = "2013-08-27"
+status = "Pending with the Committee on TRANSPORTATION since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00221.pdf"
+fileSize = 207234
+author = "Tambunting, Gus S."
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2013-08-27"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-09-02"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 52620
+congress = 16
+bill_no = "HR00221"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-09-02"

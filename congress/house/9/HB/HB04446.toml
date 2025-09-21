@@ -1,0 +1,47 @@
+billNumber = "HB04446"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04446"
+lastScraped = "2025-09-22T00:25:55.431463"
+title = "HB04446"
+longTitle = "AN ACT ESTABLISHING A SPORTS CENTER IN THE DISTRICT OF BALITE, PASAY CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-29"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123065
+congress = 9
+bill_no = "HB04446"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = ""
+date_read = "1992-11-09"

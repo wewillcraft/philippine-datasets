@@ -1,0 +1,68 @@
+billNumber = "HB01484"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01484"
+lastScraped = "2025-09-21T23:55:20.337869"
+title = "HB01484"
+longTitle = "AN ACT CONVERTING THE FIRST DISTRICT OF LAGUNA INTO THE LONE LEGISLATIVE DISTRICT OF THE CITY OF SAN PEDRO"
+scope = "Local"
+dateFiled = "2022-07-07"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01484.pdf"
+fileSize = 647513
+author = "MATIBAG, ANN"
+coAuthors = [ "DEL MAR, RACHEL MARGUERITE B.", "MADRONA. ELEANDRO JESUS F.", "BARZAGA, ELPIDIO JR. F.",]
+[[authorsDetail]]
+name = "MATIBAG, ANN"
+nameCode = "Matibag"
+date = "2022-07-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RACHEL MARGUERITE B."
+nameCode = "Del Mar"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MADRONA. ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BARZAGA, ELPIDIO JR. F."
+nameCode = "Barzaga"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 6403
+congress = 19
+bill_no = "HB01484"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

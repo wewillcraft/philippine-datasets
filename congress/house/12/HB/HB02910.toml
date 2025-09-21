@@ -1,0 +1,83 @@
+billNumber = "HB02910"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02910"
+lastScraped = "2025-09-22T00:13:00.332745"
+title = "Granting Filipino Citizenship to Engr. Armando T. De Rossi"
+longTitle = "AN ACT GRANTING FILIPINO CITIZENSHIP TO ENGR. ARMANDO T. DE ROSSI, WITH ALL THE RIGHTS, PRIVILEGES AND PREROGATIVES APPURTENANT THERETO"
+scope = "Local"
+dateFiled = "2001-09-05"
+status = "Approved by the House on 2003-05-21, transmitted to on 2003-05-22 and received by the Senate on 2003-05-27"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joson, Josefina M."
+coAuthors = [ "SALUDO, ANICETO JR. G.", "SAN LUIS, RODOLFO S.",]
+[[authorsDetail]]
+name = "Joson, Josefina M."
+nameCode = "Joson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SALUDO, ANICETO JR. G."
+nameCode = "Saludo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SAN LUIS, RODOLFO S."
+nameCode = "San Luis"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 86070
+congress = 12
+bill_no = "HB02910"
+report = "00805"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "approval"
+date_read = "2001-09-25"
+date_ob = "2002-10-01"
+date_report = "2002-09-10"
+
+[secondReading]
+id = 14342
+congress = 12
+bill_no = "HB02910"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks."
+date_calendared = "2002-10-08"
+date_approved = "2002-10-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4895
+congress = 12
+bill_no = "HB02910"
+date_dist = "2002-10-21"
+date_adopt = "2003-05-21"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-05-22"
+date_rec = "2003-05-27"

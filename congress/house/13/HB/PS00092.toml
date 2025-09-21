@@ -1,0 +1,42 @@
+billNumber = "PS00092"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00092"
+lastScraped = "2025-09-22T00:13:49.486126"
+title = "PS00092"
+longTitle = "Camanava Flood Control Project"
+scope = "National"
+dateFiled = "2004-12-13"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2005-01-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval, Federico II S."
+[[authorsDetail]]
+name = "Sandoval, Federico II S."
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2005-01-11"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 82882
+congress = 13
+bill_no = "PS00092"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2005-01-11"

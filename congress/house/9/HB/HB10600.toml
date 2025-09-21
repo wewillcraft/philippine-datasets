@@ -1,0 +1,55 @@
+billNumber = "HB10600"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10600"
+lastScraped = "2025-09-22T00:25:56.517398"
+title = "HB10600"
+longTitle = "AN ACT ESTABLISHING A GOVERNMENT MORTUARY IN EVERY MUNICIPALITY AND CITY IN THE COUNTRY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-08-31"
+status = "Pending with the Committee on HEALTH since 1993-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-09-06"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129218
+congress = 9
+bill_no = "HB10600"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-09-06"

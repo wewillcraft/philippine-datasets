@@ -1,0 +1,71 @@
+billNumber = "HB00340"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00340"
+lastScraped = "2025-09-22T00:20:57.439001"
+title = "HB00340"
+longTitle = "AN ACT CONVERTING THE SAMAR NATIONAL AGRICULTURAL SCHOOL IN THE MUNICIPALITY OF SAN JORGE, PROVINCE OF SAMAR, INTO A COLLEGE TO BE KNOWN AS THE SAMAR STATE COLLEGE OF AGRICULTURE AND FORESTRY, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-06"
+status = "REPUBLIC ACT RA08655 (Lapsed into law on 1998-06-14)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106761
+congress = 10
+bill_no = "HB00340"
+report = "01303"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-07-26"
+date_ob = "1997-12-04"
+date_report = "1997-12-02"
+
+[secondReading]
+id = 17691
+congress = 10
+bill_no = "HB00340"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2315
+congress = 10
+bill_no = "HB00340"
+date_adopt = "1997-12-11"
+remarks = "House approved SB02506 in substitution of HB00340 on Feb 20, 1998"
+no_yeas = 144
+no_nays = 0
+no_abstent = 0
+act_pres = "L"
+dte_actedp = "1998-06-14"

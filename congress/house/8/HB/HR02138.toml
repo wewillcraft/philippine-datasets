@@ -1,0 +1,42 @@
+billNumber = "HR02138"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02138"
+lastScraped = "2025-09-22T00:47:02.969519"
+title = "HR02138"
+longTitle = "RESOLUTION INQUIRING INTO THE PROPOSED REORGANIZATION OF THE CORDILLERA EXECUTIVE BOARD IN ACCORDANCE WITH EXECUTIVE ORDER NO. 220"
+scope = "Local"
+dateFiled = "1991-01-31"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1991-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1991-02-06"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171973
+congress = 8
+bill_no = "HR02138"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1991-02-06"

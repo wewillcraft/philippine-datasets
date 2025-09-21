@@ -1,0 +1,68 @@
+billNumber = "HB08634"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB08634"
+lastScraped = "2025-09-21T23:55:21.817526"
+title = "HB08634"
+longTitle = "AN ACT ESTABLISHING A TOTAL BAN ON THE IMPORTATION OF WASTES, PROVIDING MEANS FOR ITS ENFORCEMENT, APPROPRIATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2023-07-27"
+status = "Pending with the Committee on ECOLOGY since 2023-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB08634.pdf"
+fileSize = 337017
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "VERGARA, ROSANNA \"RIA\"", "LEE, WILBERT T.", "DELOS SANTOS, ALFRED C.",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2023-07-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VERGARA, ROSANNA \"RIA\""
+nameCode = "Vergara"
+date = "2023-09-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2023-10-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DELOS SANTOS, ALFRED C."
+nameCode = "Delos Santos"
+date = "2024-09-10"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2023-08-01"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 13553
+congress = 19
+bill_no = "HB08634"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-08-01"

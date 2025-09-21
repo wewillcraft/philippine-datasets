@@ -1,0 +1,71 @@
+billNumber = "HB08729"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08729"
+lastScraped = "2025-09-22T00:23:17.191620"
+title = "HB08729"
+longTitle = "AN ACT CONVERTING THE CALABANGA - SABANG ROAD IN THE MUNICIPALITY OF CALABANGA, CAMARINES SUR INTO A NATIONAL ROAD, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1999-11-09"
+status = "Approved by the House on 2000-08-28 and transmitted to the Senate on 2000-08-29"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1999-11-15"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 100164
+congress = 11
+bill_no = "HB08729"
+report = "01134"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1999-11-15"
+date_ob = "2000-07-18"
+date_report = "2000-07-04"
+
+[secondReading]
+id = 16994
+congress = 11
+bill_no = "HB08729"
+remarks = "Considered the Explanatory Note as the sponsorship speech."
+date_approved = "2000-08-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4241
+congress = 11
+bill_no = "HB08729"
+date_dist = "2000-08-21"
+date_adopt = "2000-08-28"
+no_yeas = 142
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-08-29"
+amend_ind = "Y"

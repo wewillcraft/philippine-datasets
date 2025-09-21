@@ -1,0 +1,81 @@
+billNumber = "HB00189"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00189"
+lastScraped = "2025-09-22T00:01:45.040197"
+title = "HB00189"
+longTitle = "AN ACT CREATING THE CALL CENTER WORKERS WELFARE ADMINISTRATION, DEFINING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2020-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00189.pdf"
+fileSize = 2455049
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "SALVADOR-TAMBUNTING, JOY MYRA", "SY-ALVARADO, JOSE ANTONIO R.", "OLIVAREZ, ERIC L.", "SANGCOPAN, AMIHILDA J.",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2019-08-06"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-09-13"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2019-09-16"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SANGCOPAN, AMIHILDA J."
+nameCode = "Sangcopan"
+date = "2020-01-28"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 19603
+congress = 18
+bill_no = "HB00189"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-03-03"
+date_read = "2019-07-23"

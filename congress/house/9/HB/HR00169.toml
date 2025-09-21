@@ -1,0 +1,42 @@
+billNumber = "HR00169"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00169"
+lastScraped = "2025-09-22T00:25:57.398027"
+title = "HR00169"
+longTitle = "RESOLUTION DIRECTING THE TRADE AND INDUSTRY COMMITTEE TO STUDY IN AID OF LEGISLATION WHAT PORTIONS OF THE OMNIBUS INVESTMENTS CODE OF 1987 NEEDS TO BE OVERHAULED"
+scope = "National"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 133481
+congress = 9
+bill_no = "HR00169"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1992-09-18"

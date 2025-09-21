@@ -1,0 +1,51 @@
+billNumber = "HB00802"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00802"
+lastScraped = "2025-09-21T23:39:48.459464"
+title = "HB00802"
+longTitle = "AN ACT AUTHORIZING LOCAL GOVERNMENT UNITS TO ENGAGE IN BANKING ACTIVITIES AND OTHER FINANCIAL TRANSACTIONS WITH PRIVATE UNIVERSAL AND/OR COMMERCIAL BANKS"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00802.pdf"
+fileSize = 7205631
+author = "RAMA, EDUARDO R."
+[[authorsDetail]]
+name = "RAMA, EDUARDO R."
+nameCode = "Rama"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 803
+congress = 103
+bill_no = "HB00802"
+report = ""
+comm_act = ""
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

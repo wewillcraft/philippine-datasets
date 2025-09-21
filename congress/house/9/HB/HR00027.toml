@@ -1,0 +1,42 @@
+billNumber = "HR00027"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00027"
+lastScraped = "2025-09-22T00:25:57.371921"
+title = "HR00027"
+longTitle = "RESOLUTION CREATING AN AD HOC CONGRESSIONAL COMMITTEE TO ASSESS AND MONITOR RELIEF AND REHABILITATION ACTIVITES IN MT. PINATUBO-DEVAST ATED AREAS"
+scope = "Local"
+dateFiled = "1992-07-27"
+status = "Pending with the Committee on RULES since 1992-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133339
+congress = 9
+bill_no = "HR00027"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-07-30"

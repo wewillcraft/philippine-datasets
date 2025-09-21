@@ -1,0 +1,46 @@
+billNumber = "HR01837"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01837"
+lastScraped = "2025-09-21T23:55:46.604812"
+title = "HR01837"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEES ON FOREIGN AFFAIRS AND ON NATIONAL DEFENSE AND SECURITY TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE CREEPING INVASION OF CHINA OF THE WEST PHILIPPINE SEA (WPS)"
+scope = "National"
+dateFiled = "2018-05-07"
+status = "Pending with the Committee on RULES since 2018-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01837.pdf"
+fileSize = 518951
+author = "ERICE, EDGAR R."
+[[authorsDetail]]
+name = "ERICE, EDGAR R."
+nameCode = "Erice"
+date = "2018-05-07"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2018-05-21"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 44579
+congress = 17
+bill_no = "HR01837"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-05-21"

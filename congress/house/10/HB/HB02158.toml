@@ -1,0 +1,61 @@
+billNumber = "HB02158"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02158"
+lastScraped = "2025-09-22T00:20:57.756209"
+title = "HB02158"
+longTitle = "AN ACT CREATING A SPECIAL FUND FOR AIDS VICTIMS AND REQUIRING THE MANDATORY ESTABLISHMENT OF EXCLUSIVE AIDS WARDS IN PUBLIC AND PRIVATE HOSPITALS"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Substituted by HB10510"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "MONFORT, NARCISO D.", "ALMENDRAS, ALEJANDRO JR. C.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALMENDRAS, ALEJANDRO JR. C."
+nameCode = "Almendras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108579
+congress = 10
+bill_no = "HB02158"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-15"

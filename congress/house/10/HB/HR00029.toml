@@ -1,0 +1,57 @@
+billNumber = "HR00029"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00029"
+lastScraped = "2025-09-22T00:20:59.430525"
+title = "HR00029"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED INVOLVEMENT OF POLITICIANS, INCUMBENT AND FORMER POLICE AND MILITARY OFFICIALS AND MEN IN KIDNAPPING FOR RANSOM, BANK ROBBERIES AND OTHER GRAVE CRIMES; INTO THE STATUS OF MAJOR UNSOLVED CRIMES, AND INTO THE PERFORMANCE, EFFICIENCY AND EFFECTIVENESS OF THE PHILIPPINE NATIONAL POLICE IN DEALING WITH THE CRIME SITUATION"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "LIBAN, DANTE V.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117083
+congress = 10
+bill_no = "HR00029"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte. on Public Order and Security on Aug. 1, 1995"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-07-31"

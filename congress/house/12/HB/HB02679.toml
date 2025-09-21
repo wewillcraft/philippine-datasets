@@ -1,0 +1,42 @@
+billNumber = "HB02679"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02679"
+lastScraped = "2025-09-22T00:13:00.278940"
+title = "HB02679"
+longTitle = "AN ACT AUTHORIZING THE PAYMENT OF A SUBSISTENCE ALLOWANCE TO ALL EMPLOYEES IN THE NATIONAL GOVERNMENT, EXCEPT THOSE IN GOVERNMENT-OWNE D AND -CONTROLLED CORPORATIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-08-27"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ylagan"
+[[authorsDetail]]
+name = "Ylagan"
+nameCode = "Ylagan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 85839
+congress = 12
+bill_no = "HB02679"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-09-03"

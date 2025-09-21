@@ -1,0 +1,49 @@
+billNumber = "HR01131"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01131"
+lastScraped = "2025-09-22T00:20:59.643959"
+title = "HR01131"
+longTitle = "RESOLUTION URGENTLY REQUESTING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED OUTBREAK OF HEPATITIS A AT THE UNIVERSITY OF SANTO TOMAS (UST), AND TO LOOK FOR A POSSIBLE NEGLIGENCE ON THE PART OF THE AUTHORITIES CONCERNED"
+scope = "Local"
+dateFiled = "1997-03-10"
+status = "Pending with the Committee on HEALTH since 1997-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "LUCIANO, LEONOR INES",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-13"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 118185
+congress = 10
+bill_no = "HR01131"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-13"

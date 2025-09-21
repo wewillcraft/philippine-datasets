@@ -1,0 +1,73 @@
+billNumber = "HB00308"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00308"
+lastScraped = "2025-09-22T00:46:56.612629"
+title = "HB00308"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF GUIPOS IN THE PROVINCE OF ZAMBOANGA DEL SUR"
+scope = "Local"
+dateFiled = "1987-08-12"
+status = "REPUBLIC ACT (RA07159) enacted on 1991-10-07"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 135005
+congress = 8
+bill_no = "HB00308"
+report = "00394"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-12"
+date_ob = "1988-11-24"
+date_cal = "1988-11-24"
+date_unass = "1988-11-24"
+date_report = "1988-11-09"
+
+[secondReading]
+id = 20269
+congress = 8
+bill_no = "HB00308"
+reasons = "2031789"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1989-03-17"
+date_approved = "1989-03-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 52
+congress = 8
+bill_no = "HB00308"
+date_dist = "1989-04-10"
+date_adopt = "1989-04-27"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-04-27"
+act_pres = "A"
+dte_transp = "1991-09-20"
+dte_actedp = "1991-10-07"

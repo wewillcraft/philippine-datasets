@@ -1,0 +1,47 @@
+billNumber = "HB05487"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05487"
+lastScraped = "2025-09-22T00:25:55.636168"
+title = "HB05487"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MULTIPURPOSE CENTER IN BARANGAY DACULAN, MUNICIPALITY OF ESTANCIA, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-07"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-12-10"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124106
+congress = 9
+bill_no = "HB05487"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-12-10"

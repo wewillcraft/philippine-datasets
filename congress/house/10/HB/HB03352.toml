@@ -1,0 +1,75 @@
+billNumber = "HB03352"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03352"
+lastScraped = "2025-09-22T00:20:57.994151"
+title = "HB03352"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY POBLACION, MUNICIPALITY OF KITCHARAO, PROVINCE OF AGUSAN DEL NORTE, TO BE KNOWN AS KITCHARAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-07"
+status = "REPUBLIC ACT RA08427 (Lapsed into law on 1997-12-15)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109773
+congress = 10
+bill_no = "HB03352"
+report = "00349"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-09-18"
+date_ob = "1996-04-30"
+date_report = "1996-04-11"
+
+[secondReading]
+id = 18005
+congress = 10
+bill_no = "HB03352"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2616
+congress = 10
+bill_no = "HB03352"
+date_dist = "1996-05-15"
+date_adopt = "1996-05-20"
+no_yeas = 155
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-24"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-11-12"
+dte_actedp = "1997-12-15"

@@ -1,0 +1,68 @@
+billNumber = "HB03027"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB03027"
+lastScraped = "2025-09-21T23:56:22.024207"
+title = "HB03027"
+longTitle = "AN ACT PROVIDING MEDICAL PAROLE TO QUALIFIED PRISONERS AND ESTABLISHING RULES ON ITS GRANT THEREOF"
+scope = "National"
+dateFiled = "2013-09-27"
+status = "Pending with the Committee on JUSTICE since 2013-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB03027.pdf"
+fileSize = 459432
+author = "Arroyo, Diosdado Macapagal"
+coAuthors = [ "ROMUALDEZ, FERDINAND MARTIN G.", "REVILLA, LANI MERCADO", "MACAPAGAL-ARROYO, GLORIA",]
+[[authorsDetail]]
+name = "Arroyo, Diosdado Macapagal"
+nameCode = "Arroyo"
+date = "2013-09-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDEZ, FERDINAND MARTIN G."
+nameCode = "Romualdez"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = "2016-01-20"
+journalNo = "J045"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "MACAPAGAL-ARROYO, GLORIA"
+nameCode = "Macapagal-Arroyo"
+date = "2013-09-27"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2013-10-14"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 48841
+congress = 16
+bill_no = "HB03027"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-10-14"

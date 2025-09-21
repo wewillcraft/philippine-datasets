@@ -1,0 +1,71 @@
+billNumber = "HB06057"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06057"
+lastScraped = "2025-09-22T00:20:58.486616"
+title = "HB06057"
+longTitle = "AN ACT CONVERTING THE BEGANG NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF ISABELA, PROVINCE OF BASILAN, INTO A VOCATIONAL SCHOOL TO BE KNOWN AS THE BASILAN NATIONAL TECHNICAL INDUSTRIAL SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-01"
+status = "Approved by the House on 1997-01-20, transmitted to on 1997-01-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112478
+congress = 10
+bill_no = "HB06057"
+report = "00721"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-02-06"
+date_ob = "1996-12-12"
+date_report = "1996-12-11"
+
+[secondReading]
+id = 18292
+congress = 10
+bill_no = "HB06057"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2894
+congress = 10
+bill_no = "HB06057"
+date_dist = "1996-12-18"
+date_adopt = "1997-01-20"
+no_yeas = 193
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-21"
+date_rec = "1997-01-27"

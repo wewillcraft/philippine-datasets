@@ -1,0 +1,77 @@
+billNumber = "HB05927"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05927"
+lastScraped = "2025-09-22T00:25:55.710778"
+title = "HB05927"
+longTitle = "AN ACT PROVIDING FOR THE REGULATION OF THE ORGANIZATION AND OPERATION OF NON-STOCK SAVINGS AND LOAN ASSOCIATIONS"
+scope = "National"
+dateFiled = "1992-12-17"
+status = "Approved by the House on 1993-09-29, transmitted to on 1993-09-30 and received by the Senate on 1993"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+coAuthors = [ "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1993-01-18"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 124546
+congress = 9
+bill_no = "HB05927"
+report = "00203"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1993-01-18"
+date_ob = "1993-06-05"
+date_cal = "1993-06-05"
+date_unass = "1993-06-05"
+date_report = "1993-06-02"
+
+[secondReading]
+id = 19381
+congress = 9
+bill_no = "HB05927"
+date_calendared = "1993-08-23"
+date_approved = "1993-09-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1648
+congress = 9
+bill_no = "HB05927"
+date_dist = "1993-09-20"
+date_adopt = "1993-09-29"
+no_yeas = 147
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-09-30"
+date_rec = "1993-10-04"

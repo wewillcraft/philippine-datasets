@@ -1,0 +1,56 @@
+billNumber = "HB05589"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05589"
+lastScraped = "2025-09-22T00:20:58.405827"
+title = "HB05589"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED SEVEN THOUSAND EIGHT HUNDRED NINETY-EIGHT, OTHERWISE KNOWN AS THE 'ARMED FORCES MODERNIZATION LAW', AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-12-19"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112010
+congress = 10
+bill_no = "HB05589"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1996-01-22"

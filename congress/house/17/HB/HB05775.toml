@@ -1,0 +1,54 @@
+billNumber = "HB05775"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05775"
+lastScraped = "2025-09-21T23:55:45.240046"
+title = "HB05775"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BREAST CARE CENTERS IN EVERY REGION NATIONWIDE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2017-05-29"
+status = "Pending with the Committee on HEALTH since 2017-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05775.pdf"
+fileSize = 600843
+author = "RODRIGUEZ, MAXIMO B., JR."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M.)"
+date = "2017-05-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-08-09"
+journalNo = "J009"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2017-05-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 39243
+congress = 17
+bill_no = "HB05775"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-05-31"

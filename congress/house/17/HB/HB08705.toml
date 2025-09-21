@@ -1,0 +1,61 @@
+billNumber = "HB08705"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08705"
+lastScraped = "2025-09-21T23:55:46.045819"
+title = "HB08705"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BREAST CARE CENTERS IN EVERY REGION NATIONWIDE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-12-03"
+status = "Pending with the Committee on HEALTH since 2018-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08705.pdf"
+fileSize = 676622
+author = "Pico, Pepito M."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Pico, Pepito M."
+nameCode = "Pico"
+date = "2018-12-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-01-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2019-01-21"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-12-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 42172
+congress = 17
+bill_no = "HB08705"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-12-05"

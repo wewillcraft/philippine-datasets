@@ -1,0 +1,61 @@
+billNumber = "HB05096"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05096"
+lastScraped = "2025-09-21T23:55:45.092234"
+title = "HB05096"
+longTitle = "AN ACT PROVIDING FOR AN INCREASE IN THE SALARY OF, AND ADDITIONAL INCENTIVES FOR, GOVERNMENT PHYSICIANS AND APPROPRIATING  FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2017-02-21"
+status = "Pending with the Committee on APPROPRIATIONS since 2017-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05096.pdf"
+fileSize = 396748
+author = "Tan, Angelina"
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "BRAVO, MARIA VIDA E.",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2017-02-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-03-08"
+journalNo = "J080"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2017-12-12"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2017-02-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 38564
+congress = 17
+bill_no = "HB05096"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-02-28"

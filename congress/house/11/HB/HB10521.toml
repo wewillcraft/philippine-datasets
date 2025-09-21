@@ -1,0 +1,46 @@
+billNumber = "HB10521"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10521"
+lastScraped = "2025-09-22T00:23:17.511762"
+title = "HB10521"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF FIVE HUNDRED THOUSAND PESOS (PHP 500,000.00) FOR THE CONSTRUCTION OF VARIOUS CLASSROOMS IN THE ELEMENTARY SCHOOL OF BARANGAY BALAO, MUNICIPALITY OF BARILI, PROVINCE OF CEBU"
+scope = "Local"
+dateFiled = "2000-03-29"
+status = "Pending with the Committee on BASIC EDUCATION since 2000-04-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASIC EDUCATION"
+type = "primary"
+referralCode = "C501"
+dateRead = "2000-04-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 101948
+congress = 11
+bill_no = "HB10521"
+referral = "C501"
+ref_name = "BASIC EDUCATION"
+sub_name = ""
+date_read = "2000-04-04"

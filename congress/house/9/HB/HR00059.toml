@@ -1,0 +1,47 @@
+billNumber = "HR00059"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00059"
+lastScraped = "2025-09-22T00:25:57.378175"
+title = "HR00059"
+longTitle = "RESOLUTION REQUESTING THE HOUSE COMMITTEES ON ENERGY AND ECONOMIC AFFAIRS TO STUDY, IN AID OF LEGISLATION, AN ACT LIMITING THE LEAD CONTENT OF DOMESTIC PETROLEUM PRODUCTS AND TO ASSESS THE ECONOMIC AND ECOLOGICAL IMPLICATIONS OF SUCH A MEASURE"
+scope = "National"
+dateFiled = "1992-08-07"
+status = "Pending with the Committee on ENERGY since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 133371
+congress = 9
+bill_no = "HR00059"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-08-11"

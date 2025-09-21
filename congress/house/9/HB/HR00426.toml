@@ -1,0 +1,69 @@
+billNumber = "HR00426"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00426"
+lastScraped = "2025-09-22T00:25:57.443420"
+title = "HR00426"
+longTitle = "RESOLUTION TO MEET, COMMEND AND CONGRATULATE ROGELIO ANTONIO, JR., WHO BECAME THE PHILIPPINES THIRD GRANDMASTER IN THE RECENTLY CONCLUDED 1993 ASIAN GRANDMASTERS CIRCUIT"
+scope = "Local"
+dateFiled = "1993-01-15"
+status = "Adopted as Resolution No. HR00024 on 1993-01-28"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[motherBills]]
+bill_no = "HR00432"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00432"
+flag = "S"
+
+[firstReading]
+id = 133738
+congress = 9
+bill_no = "HR00426"
+report = "00064"
+comm_act = "Change of committee referral from the Committee on Games & Amusements (J.58, p.57)"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = "YOUTH AND SPORTS DEVELOPMENT"
+recomm = "in consolidat ion with H.R. No. 432"
+date_read = "1993-01-19"
+date_ob = "1993-01-27"
+date_cal = "1993-01-27"
+date_unass = "1993-01-27"
+date_report = "1993-01-26"
+
+[secondReading]
+id = 20112
+congress = 9
+bill_no = "HR00426"
+adopted_resolution = "HR00024"
+date_calendared = "1993-01-27"
+date_approved = "1993-01-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00426.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00426.pdf"

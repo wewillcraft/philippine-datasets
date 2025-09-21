@@ -1,0 +1,49 @@
+billNumber = "HB01917"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01917"
+lastScraped = "2025-09-22T00:20:57.706983"
+title = "HB01917"
+longTitle = "AN ACT LIBERALIZING AND DEREGULATING THE IMPORTATION OF AGRICULTURAL PRODUCTS OR COMMODITIES"
+scope = "National"
+dateFiled = "1995-08-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "TEVES, MARGARITO B.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TEVES, MARGARITO B."
+nameCode = "Teves"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-10"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 108338
+congress = 10
+bill_no = "HB01917"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-10"

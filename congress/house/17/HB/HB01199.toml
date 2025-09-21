@@ -1,0 +1,74 @@
+billNumber = "HB01199"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01199"
+lastScraped = "2025-09-21T23:55:44.310461"
+title = "HB01199"
+longTitle = "AN ACT MODERNIZING THE PHILIPPINE COAST GUARD, CREATING FOR THE PURPOSE THE PHILIPPINE COAST GUARD MODERNIZATION TRUST FUND AND APPROPRIATING FUNDS THEREFOR\r\n"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on TRANSPORTATION since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01199.pdf"
+fileSize = 923137
+author = "Sarmiento, Cesar V."
+coAuthors = [ "VIOLAGO, MICALEA S.", "ESPINO, AMADO JR.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Sarmiento, Cesar V."
+nameCode = "Sarmiento (C.)"
+date = "2016-07-05"
+sequence = 1
+
+[[authorsDetail]]
+name = "Madrona, Emmanuel F."
+nameCode = "Madrona"
+date = "2016-07-05"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-05"
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR."
+nameCode = "Espino"
+date = "2016-10-18"
+journalNo = "J038"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-31"
+journalNo = "J064"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 34667
+congress = 17
+bill_no = "HB01199"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

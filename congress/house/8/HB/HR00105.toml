@@ -1,0 +1,42 @@
+billNumber = "HR00105"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00105"
+lastScraped = "2025-09-22T00:47:02.546087"
+title = "HR00105"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON REVISION OFLAWS TO DENOMINATE EVERY LAW PASSED BY THE PRESENT CONGRESS AS PUBLIC ACT (PA) FOR PURPOSES OF REFERENCE, CONVENIENCE, DISTINCTION AND CODIFICATION"
+scope = "National"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on REVISION OF LAWS since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez"
+[[authorsDetail]]
+name = "Martinez"
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "531"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170015
+congress = 8
+bill_no = "HR00105"
+referral = "531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1987-08-13"

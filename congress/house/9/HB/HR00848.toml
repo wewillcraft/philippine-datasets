@@ -1,0 +1,43 @@
+billNumber = "HR00848"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00848"
+lastScraped = "2025-09-22T00:25:57.522782"
+title = "HR00848"
+longTitle = "RESOLUTION DIRECTING THE PROPER HOUSE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO DETERMINE THE EXTENT OF SQUATTING IN RURAL AREAS"
+scope = "National"
+dateFiled = "1993-11-11"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1993-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1993-11-17"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 134155
+congress = 9
+bill_no = "HR00848"
+comm_act = "Change of referral from the Committee on Rules(J.34 ,p.42)"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "1993-11-17"

@@ -1,0 +1,46 @@
+billNumber = "HB04095"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB04095"
+lastScraped = "2025-09-21T23:39:49.085953"
+title = "HB04095"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL RAILROAD ADMINISTRATION DEFINING ITS POWERS, FUNCTIONS, AND RESPONSIBILITIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-08-27"
+status = "Pending with the Committee on TRANSPORTATION since 2025-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB04095.pdf"
+fileSize = 221768
+author = "GUICO, RAMON N., JR."
+[[authorsDetail]]
+name = "GUICO, RAMON N., JR."
+nameCode = "Guico"
+date = "2025-08-27"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-09-01"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 4096
+congress = 103
+bill_no = "HB04095"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-09-01"

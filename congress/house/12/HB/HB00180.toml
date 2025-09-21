@@ -1,0 +1,76 @@
+billNumber = "HB00180"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00180"
+lastScraped = "2025-09-22T00:12:59.832254"
+title = "HB00180"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF FORENSIC MEDICINE UNDER THE PHILIPPINE GENERAL HOSPITAL, DEFINING ITS FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teodoro, Gilberto Jr. C."
+coAuthors = [ "JOAQUIN, ULIRAN T.", "ZIALCITA, EDUARDO C.", "ROMUALDO, JURDIN JESUS M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Teodoro, Gilberto Jr. C."
+nameCode = "Teodoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, ULIRAN T."
+nameCode = "Joaquin"
+date = ""
+journalNo = "J006"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = ""
+journalNo = "J086"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83340
+congress = 12
+bill_no = "HB00180"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

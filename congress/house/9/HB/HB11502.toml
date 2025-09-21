@@ -1,0 +1,55 @@
+billNumber = "HB11502"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11502"
+lastScraped = "2025-09-22T00:25:56.698487"
+title = "HB11502"
+longTitle = "AN ACT ESTABLISHING THE CASHEW RESEARCH AND DEVELOPMENT CENTER IN THE PROVINCE OF PALAWAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-12-09"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "PONCE DE LEON, DAVID A.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-12-14"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130117
+congress = 9
+bill_no = "HB11502"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-12-14"

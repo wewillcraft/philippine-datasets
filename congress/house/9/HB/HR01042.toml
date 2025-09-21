@@ -1,0 +1,42 @@
+billNumber = "HR01042"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01042"
+lastScraped = "2025-09-22T00:25:57.558707"
+title = "HR01042"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO OPPOSE MILITARY ACCESS ARRANGEMENTS"
+scope = "National"
+dateFiled = "1994-05-12"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-05-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-05-18"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 134349
+congress = 9
+bill_no = "HR01042"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-05-18"

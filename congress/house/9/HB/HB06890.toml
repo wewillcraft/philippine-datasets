@@ -1,0 +1,47 @@
+billNumber = "HB06890"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06890"
+lastScraped = "2025-09-22T00:25:55.864090"
+title = "HB06890"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MULTIPURPOSE CENTER IN BARANGAY MALICO, MUNICIPALITY OF BATAD, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-02-04"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125509
+congress = 9
+bill_no = "HB06890"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-02-04"

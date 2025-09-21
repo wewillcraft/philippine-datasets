@@ -1,0 +1,42 @@
+billNumber = "HB10886"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10886"
+lastScraped = "2025-09-22T00:46:58.487090"
+title = "HB10886"
+longTitle = "AN ACT PROVIDING FOR THE PROMOTION, DEVELOPMENT AND PRESERVATION OF NATIONAL LIVING TREASURES"
+scope = "National"
+dateFiled = "1988-05-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 145555
+congress = 8
+bill_no = "HB10886"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1988-05-27"

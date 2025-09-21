@@ -1,0 +1,41 @@
+billNumber = "HB00873"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00873"
+lastScraped = "2025-09-22T00:20:57.523576"
+title = "HB00873"
+longTitle = "AN ACT LIBERALIZING THE RULE OF RECIPROCITY IN THE GRANT OF CERTAIN AIR TRAFFIC RIGHTS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 107294
+congress = 10
+bill_no = "HB00873"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-07-27"

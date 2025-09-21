@@ -1,0 +1,47 @@
+billNumber = "HB02597"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02597"
+lastScraped = "2025-09-22T00:13:00.264094"
+title = "HB02597"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF MALANGAS, PROVINCE OF ZAMBOANGA SIBUGAY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-21"
+status = "Pending with the Committee on HEALTH since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabilao, Belma A."
+[[authorsDetail]]
+name = "Cabilao, Belma A."
+nameCode = "Cabilao"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85757
+congress = 12
+bill_no = "HB02597"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-27"

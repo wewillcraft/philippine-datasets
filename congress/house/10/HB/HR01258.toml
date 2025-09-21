@@ -1,0 +1,49 @@
+billNumber = "HR01258"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01258"
+lastScraped = "2025-09-22T00:20:59.666849"
+title = "HR01258"
+longTitle = "RESOLUTION CALLING FOR THE IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, OF THE QUEZON CITY POLICEMEN BELONGING TO BLOCK NO. 3 ALLEGEDLY INVOLVED IN A SHABU PILFERAGE"
+scope = "Local"
+dateFiled = "1997-06-18"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118312
+congress = 10
+bill_no = "HR01258"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-07-30"

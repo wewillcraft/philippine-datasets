@@ -1,0 +1,47 @@
+billNumber = "SCR0025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=SCR0025"
+lastScraped = "2025-09-22T00:25:57.626987"
+title = "SCR0025"
+longTitle = "CONCURRENT RESOLUTION PROVIDING FOR THE LEGISLATIVE CALENDAR FOR THE SECOND REGULAR SESSION OF THE CONGRESS OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1993-12-16"
+status = "Adopted as Resolution No. CR00011 on 1993-12-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romulo"
+[[authorsDetail]]
+name = "Romulo"
+nameCode = "Romulo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-12-17"
+
+[firstReading]
+id = 134697
+congress = 9
+bill_no = "SCR0025"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-12-17"
+
+[secondReading]
+id = 20214
+congress = 9
+bill_no = "SCR0025"
+adopted_resolution = "CR00011"
+remarks = "Adopted by the House on September 17, 1993"
+date_approved = "1993-12-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

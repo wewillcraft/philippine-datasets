@@ -1,0 +1,61 @@
+billNumber = "HB07951"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07951"
+lastScraped = "2025-09-21T23:55:45.875683"
+title = "HB07951"
+longTitle = "AN ACT CREATING AN ADDITIONAL TWO (2) METROPOLITAN TRIAL COURT BRANCHES IN THE CITY OF PARAÑAQUE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2018-07-24"
+status = "Pending with the Committee on JUSTICE since 2018-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07951.pdf"
+fileSize = 402748
+author = "OLIVAREZ, ERIC L."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2018-07-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-08-14"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-08-14"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2018-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 41418
+congress = 17
+bill_no = "HB07951"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-08-01"

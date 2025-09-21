@@ -1,0 +1,68 @@
+billNumber = "HB02020"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02020"
+lastScraped = "2025-09-22T00:20:57.730406"
+title = "HB02020"
+longTitle = "AN ACT CREATING A JUVENILE AND FAMILY COURT IN ALL PROVINCES AND CITIES THROUGHOUT THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-08"
+status = "Substituted by HB09292"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+coAuthors = [ "RAMIREZ, JOSE T.", "LIBAN, DANTE V.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108441
+congress = 10
+bill_no = "HB02020"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-14"

@@ -1,0 +1,47 @@
+billNumber = "HR00288"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00288"
+lastScraped = "2025-09-22T00:13:01.202490"
+title = "HR00288"
+longTitle = "RESOLUTION STRONGLY URGING THE DEPARTMENT OF HEALTH TO IMPLEMENT THE PROVISIONS OF REPUBLIC ACT NO. 8136 BY IMMEDIATELY RELEASING THE FUNDS REQUIRED FOR THE CONSTRUCTION AND ESTABLISHMENT OF A TEN (10)-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SAN JOSE, PROVINCE OF SURIGAO DEL NORTE"
+scope = "Local"
+dateFiled = "2001-11-13"
+status = "Pending with the Committee on HEALTH since 2001-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-11-21"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 90227
+congress = 12
+bill_no = "HR00288"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-11-21"

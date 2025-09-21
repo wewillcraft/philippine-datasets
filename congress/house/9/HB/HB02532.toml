@@ -1,0 +1,47 @@
+billNumber = "HB02532"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02532"
+lastScraped = "2025-09-22T00:25:55.047256"
+title = "HB02532"
+longTitle = "AN ACT ESTABLISHING A FIFTY (50) BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF BINANGONAN, PROVINCE OF RIZAL TO BE KNOWN AS THE BINANGONAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-14"
+status = "Pending with the Committee on HEALTH since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sanchez"
+[[authorsDetail]]
+name = "Sanchez"
+nameCode = "Sanchez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121151
+congress = 9
+bill_no = "HB02532"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-21"

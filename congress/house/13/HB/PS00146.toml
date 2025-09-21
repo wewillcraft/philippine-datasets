@@ -1,0 +1,42 @@
+billNumber = "PS00146"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00146"
+lastScraped = "2025-09-22T00:13:49.494499"
+title = "PS00146"
+longTitle = "Water Crisis in Metro Manila"
+scope = "National"
+dateFiled = "2005-03-01"
+status = "Pending with the Committee on METRO MANILA DEVELOPMENT since 2005-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Biazon, Rozzano Rufino B."
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "primary"
+referralCode = "E502"
+dateRead = "2005-03-01"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 82915
+congress = 13
+bill_no = "PS00146"
+referral = "E502"
+ref_name = "METRO MANILA DEVELOPMENT"
+sub_name = ""
+date_read = "2005-03-01"

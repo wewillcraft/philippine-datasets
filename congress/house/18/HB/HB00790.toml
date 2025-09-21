@@ -1,0 +1,46 @@
+billNumber = "HB00790"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00790"
+lastScraped = "2025-09-22T00:01:45.195168"
+title = "HB00790"
+longTitle = "AN ACT TRANSFERRING THE NEW BILIBID PRISON FROM BARANGAY POBLACION, MUNTINLUPA CITY TO BARANGAY CUYAMBAY, MUNICIPALITY OF TANAY, PROVINCE OF RIZAL"
+scope = "Local"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on JUSTICE since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00790.pdf"
+fileSize = 322250
+author = "Biazon, Rozzano Rufino B."
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2019-07-01"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 20202
+congress = 18
+bill_no = "HB00790"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

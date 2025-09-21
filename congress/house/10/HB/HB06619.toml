@@ -1,0 +1,54 @@
+billNumber = "HB06619"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06619"
+lastScraped = "2025-09-22T00:20:58.590318"
+title = "HB06619"
+longTitle = "AN ACT REQUIRING ALL DEPARTMENTS AND AGENCIES OF GOVERNMENT TO ESTABLISH ACCESS TO THE INTERNET, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-03-19"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113040
+congress = 10
+bill_no = "HB06619"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1996-03-21"

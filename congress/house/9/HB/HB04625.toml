@@ -1,0 +1,47 @@
+billNumber = "HB04625"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04625"
+lastScraped = "2025-09-22T00:25:55.463647"
+title = "HB04625"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN AUDITORIUM FOR THE MUNICIPALITY OF AROROY, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123244
+congress = 9
+bill_no = "HB04625"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-12"

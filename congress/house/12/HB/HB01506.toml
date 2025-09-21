@@ -1,0 +1,47 @@
+billNumber = "HB01506"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01506"
+lastScraped = "2025-09-22T00:13:00.075736"
+title = "HB01506"
+longTitle = "AN ACT ESTABLISHING A FISHERIES DEVELOPMENT PROGRAM IN THE PROVINCE OF ROMBLON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-26"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ylagan"
+[[authorsDetail]]
+name = "Ylagan"
+nameCode = "Ylagan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-08-01"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84666
+congress = 12
+bill_no = "HB01506"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-08-01"

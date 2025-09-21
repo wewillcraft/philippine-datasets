@@ -1,0 +1,49 @@
+billNumber = "HB04307"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04307"
+lastScraped = "2025-09-22T00:20:58.180889"
+title = "HB04307"
+longTitle = "AN ACT CONVERTING THE PROVINCIAL ROAD CONNECTING THE MUNICIPALITIES OF ISULAN AND LEBAK IN THE PROVINCE OF SULTAN KUDARAT INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "1995-10-09"
+status = "Bill reported out 1998-03-17 (#01524)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montilla"
+[[authorsDetail]]
+name = "Montilla"
+nameCode = "Montilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110728
+congress = 10
+bill_no = "HB04307"
+report = "01524"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-10-23"
+date_report = "1998-03-17"

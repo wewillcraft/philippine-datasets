@@ -1,0 +1,94 @@
+billNumber = "HR00764"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00764"
+lastScraped = "2025-09-22T00:20:59.569063"
+title = "HR00764"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INVESTIGATION INTO THE REGULAR INFRASTRUCTURE AND OTHER NATIONAL AND FOREIGN-FUNDED PROJECTS WHICH ARE BEING IMPLEMENTED WITHOUT PRIOR CONSULTATION WITH THE CONGRESSMAN OF THE DISTRICT CONCERNED"
+scope = "National"
+dateFiled = "1996-08-05"
+status = "Adopted as Resolution No. HR00100 on 1997-03-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "BARBERS, ROBERT Z.", "RAMA, EDUARDO SR. L.", "PUBLIC WORKS AND HIGHWAYS",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT Z."
+nameCode = "Barbers"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO SR. L."
+nameCode = "Rama"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HR00460"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00460"
+flag = "S"
+
+[firstReading]
+id = 117818
+congress = 10
+bill_no = "HR00764"
+report = "00515"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Health on Aug. 6, 1996."
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption in substituti on of HR 460."
+date_read = "1996-08-07"
+date_ob = "1996-08-07"
+date_unass = "1996-12-04"
+date_report = "1996-08-05"
+
+[secondReading]
+id = 18990
+congress = 10
+bill_no = "HR00764"
+adopted_resolution = "HR00100"
+date_calendared = "1997-01-22"
+date_approved = "1997-03-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00100.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00100.pdf"

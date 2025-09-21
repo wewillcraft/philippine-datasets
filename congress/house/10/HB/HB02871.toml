@@ -1,0 +1,46 @@
+billNumber = "HB02871"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02871"
+lastScraped = "2025-09-22T00:20:57.897361"
+title = "HB02871"
+longTitle = "AN ACT AUTHORIZING THE CREATION OF ADDITIONAL POSITIONS FOR CLERKS AND STENOGRAPHERS IN ALL METROPOLITAN TRIAL COURTS, MUNICIPAL TRIAL COURTS AND MUNICIPAL CIRCUIT TRIAL COURTS, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-25"
+status = "Pending with the Committee on JUSTICE since 1995-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109292
+congress = 10
+bill_no = "HB02871"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-04"

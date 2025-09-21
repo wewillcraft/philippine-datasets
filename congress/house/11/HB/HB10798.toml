@@ -1,0 +1,83 @@
+billNumber = "HB10798"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10798"
+lastScraped = "2025-09-22T00:23:17.566662"
+title = "HB10798"
+longTitle = "AN ACT DECLARING THE MUNICIPALITY OF TINGLAYAN, PROVINCE OF KALINGA, A TOURIST ZONE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-04-28"
+status = "Approved by the House on 2000-06-07, transmitted to on 2000-06-08 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Wacnang, Laurence B."
+[[authorsDetail]]
+name = "Wacnang, Laurence B."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-05-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HB03899"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB04199"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03899"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04199"
+flag = "S"
+
+[firstReading]
+id = 102213
+congress = 11
+bill_no = "HB10798"
+report = "00875"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, TOURISM"
+recomm = "approval"
+date_read = "2000-05-08"
+date_ob = "2000-05-08"
+date_report = "2000-04-28"
+
+[secondReading]
+id = 17234
+congress = 11
+bill_no = "HB10798"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4467
+congress = 11
+bill_no = "HB10798"
+date_dist = "2000-05-29"
+date_adopt = "2000-06-07"
+no_yeas = 120
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-06-08"
+date_rec = "2000-06-14"

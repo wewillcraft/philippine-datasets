@@ -1,0 +1,42 @@
+billNumber = "HB11710"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11710"
+lastScraped = "2025-09-22T00:25:56.745027"
+title = "HB11710"
+longTitle = "AN ACT ESTABLISHING A TEN-BED CAPACITY HOSPITAL IN THE MUNICIPALITY OF LOBOC, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-01-12"
+status = "Pending with the Committee on HEALTH since 1994-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-01-25"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130325
+congress = 9
+bill_no = "HB11710"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-01-25"

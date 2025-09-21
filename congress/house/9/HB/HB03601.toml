@@ -1,0 +1,47 @@
+billNumber = "HB03601"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03601"
+lastScraped = "2025-09-22T00:25:55.232752"
+title = "HB03601"
+longTitle = "AN ACT TO AMEND THE TITLE, SECTION ONE AND SECTION FIFTEEN OF PRESIDENTIAL DECREE NO. FOURTEEN THIRTY SIX (merging the Cagayan Valley College of Arts and Trades and Northern Luzon State Colleges of Agriculture into a state university)"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enrile"
+[[authorsDetail]]
+name = "Enrile"
+nameCode = "Enrile"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122220
+congress = 9
+bill_no = "HB03601"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-15"

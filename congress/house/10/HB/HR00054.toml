@@ -1,0 +1,53 @@
+billNumber = "HR00054"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00054"
+lastScraped = "2025-09-22T00:20:59.434329"
+title = "HR00054"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF HONORABLE RUDOLFO A. BERNARDEZ, FORMER REPRESENTATIVE FROM THE LONE DISTRICT OF ABRA"
+scope = "Local"
+dateFiled = "1995-07-27"
+status = "Adopted as Resolution No. HR00004 on 1995-07-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117108
+congress = 10
+bill_no = "HR00054"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-07-27"
+
+[secondReading]
+id = 18916
+congress = 10
+bill_no = "HR00054"
+adopted_resolution = "HR00004"
+date_calendared = "1995-07-27"
+date_approved = "1995-07-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00004.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00004.pdf"

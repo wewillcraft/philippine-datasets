@@ -1,0 +1,54 @@
+billNumber = "HB00855"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00855"
+lastScraped = "2025-09-22T00:20:57.520058"
+title = "HB00855"
+longTitle = "AN ACT CREATING THE PHILIPPINE VETERANS AUTHORITY CONSOLIDATING ALL AGENCIES ON VETERANS WELFARE, PRESCRIBING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Substituted by HB06839"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+coAuthors = [ "VERGARA, BERNARDO M.",]
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107276
+congress = 10
+bill_no = "HB00855"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1995-07-27"

@@ -1,0 +1,69 @@
+billNumber = "HB05475"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05475"
+lastScraped = "2025-09-22T00:20:58.382049"
+title = "HB05475"
+longTitle = "AN ACT AMENDING ARTICLE 57 OF EXECUTIVE ORDER NO. 209, OTHERWISE KNOWN AS THE FAMILY CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1995-12-07"
+status = "Business for the day on 1996-12-03"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+coAuthors = [ "VERCELES, LEANDRO JR. B.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1995-12-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 111896
+congress = 10
+bill_no = "HB05475"
+report = "00508"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+recomm = "approval without amendment"
+date_read = "1995-12-12"
+date_ob = "1996-07-24"
+date_unass = "1996-09-10"
+date_report = "1996-07-16"
+
+[secondReading]
+id = 18217
+congress = 10
+bill_no = "HB05475"
+date_calendared = "1996-12-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,46 @@
+billNumber = "HB05872"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05872"
+lastScraped = "2025-09-22T00:20:58.453821"
+title = "HB05872"
+longTitle = "AN ACT ESTABLISHING DAY CARE CENTERS IN ALL BARANGAYS IN THE MUNICIPALITY OF MAPANAS, SECOND DISTRICT OF NORTHERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on SOCIAL SERVICES since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112293
+congress = 10
+bill_no = "HB05872"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1996-01-29"

@@ -1,0 +1,89 @@
+billNumber = "HB08428"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08428"
+lastScraped = "2025-09-22T00:20:58.959791"
+title = "HB08428"
+longTitle = "AN ACT NAMING THE C-3 ROAD AS SENATOR LORENZO M. TANADA AVENUE"
+scope = "Local"
+dateFiled = "1996-11-13"
+status = "Approved by the House on 1997-01-20, transmitted to on 1997-01-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "CALALAY, REYNALDO A.", "JOAQUIN, NEREO R.", "FAJARDO, MOHAMMAD OMAR A.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FAJARDO, MOHAMMAD OMAR A."
+nameCode = "Fajardo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-11-18"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 114849
+congress = 10
+bill_no = "HB08428"
+report = "00705"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval without amendments"
+date_read = "1996-11-18"
+date_ob = "1996-12-10"
+date_report = "1996-12-09"
+
+[secondReading]
+id = 18579
+congress = 10
+bill_no = "HB08428"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3169
+congress = 10
+bill_no = "HB08428"
+date_dist = "1996-12-19"
+date_adopt = "1997-01-20"
+no_yeas = 193
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-21"
+date_rec = "1997-01-27"
+amend_ind = "N"

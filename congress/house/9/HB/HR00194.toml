@@ -1,0 +1,42 @@
+billNumber = "HR00194"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00194"
+lastScraped = "2025-09-22T00:25:57.402014"
+title = "HR00194"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO STUDY, IN AID OF LEGISLATION, HOW TO SPEED UP THE COUNTRY'S SELF-SUFFICIENC Y IN OIL"
+scope = "National"
+dateFiled = "1992-09-21"
+status = "Pending with the Committee on ENERGY since 1992-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-09-29"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 133506
+congress = 9
+bill_no = "HR00194"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-09-29"

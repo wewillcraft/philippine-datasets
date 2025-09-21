@@ -1,0 +1,62 @@
+billNumber = "HR00634"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00634"
+lastScraped = "2025-09-22T00:20:59.541984"
+title = "HR00634"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON GOOD GOVERNMENT AND THE COMMITTEE ON SUFFRAGE AND ELECTORAL REFORMS TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ANOMALIES IN THE COMMISSION ON ELECTIONS"
+scope = "National"
+dateFiled = "1996-05-22"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1996-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1996-05-27"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "secondary"
+referralCode = "0537"
+
+[firstReading]
+id = 117688
+congress = 10
+bill_no = "HR00634"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Suffrage and Ele"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1996-05-27"

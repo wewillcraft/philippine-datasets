@@ -1,0 +1,46 @@
+billNumber = "HB10351"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10351"
+lastScraped = "2025-09-22T00:20:59.364308"
+title = "HB10351"
+longTitle = "AN ACT ESTABLISHING A THIRTY-BED HOSPITAL IN THE MUNICIPALITY OF SAN GUILLERMO, PROVINCE OF ISABELA, TO BE KNOWN AS THE SAN GUILLERMO DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-12-02"
+status = "Pending with the Committee on HEALTH since 1997-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Respicio"
+[[authorsDetail]]
+name = "Respicio"
+nameCode = "Respicio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-12-04"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116772
+congress = 10
+bill_no = "HB10351"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-12-04"

@@ -1,0 +1,41 @@
+billNumber = "HB00854"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00854"
+lastScraped = "2025-09-22T00:20:57.519916"
+title = "HB00854"
+longTitle = "AN ACT AMENDING SECTION 7, SUBSECTION A (VII) AND SUBSECTION B OF PRESIDENTIAL DECREE NO. 857, OTHERWISE KNOWN AS THE REVISED CHARTER OF THE PHILIPPINE PORTS AUTHORITY, AS AMENDED"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 107275
+congress = 10
+bill_no = "HB00854"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-07-27"

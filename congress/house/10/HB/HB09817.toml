@@ -1,0 +1,54 @@
+billNumber = "HB09817"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09817"
+lastScraped = "2025-09-22T00:20:59.250672"
+title = "HB09817"
+longTitle = "AN ACT AMENDING ARTICLE 177 OF EXECUTIVE ORDER NO. 209, KNOWN AS THE FAMILY CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1997-08-12"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adamat"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Adamat"
+nameCode = "Adamat"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-08-20"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "secondary"
+referralCode = "0512"
+
+[firstReading]
+id = 116238
+congress = 10
+bill_no = "HB09817"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-08-20"

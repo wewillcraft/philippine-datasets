@@ -1,0 +1,49 @@
+billNumber = "HB03804"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03804"
+lastScraped = "2025-09-22T00:20:58.079259"
+title = "HB03804"
+longTitle = "AN ACT TO PROVIDE LOW COST ELECTRIC POWER RATES, ENSURE PRIORITIZATION IN SERVICES AND EXTEND MORE BENEFITS TO THE CITY OR MUNICIPALITY WHERE POWER PLANTS ARE LOCATED"
+scope = "National"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on ENERGY since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 110225
+congress = 10
+bill_no = "HB03804"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-09-29"

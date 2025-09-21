@@ -1,0 +1,43 @@
+billNumber = "HR01216"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01216"
+lastScraped = "2025-09-22T00:25:57.592349"
+title = "HR01216"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ENERGY AND APPROPRIATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED UNUSED FOREIGN LOANS GRANTED BY THE WORLD BANK TO THE ENERGY SECTOR TO DETERMINE THE REASONS BEHIND THEIR NON-UTILIZATION AND TO RECOMMEND APPROPRIATE REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "National"
+dateFiled = "1994-09-09"
+status = "Pending with the Committee on ENERGY since 1994-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-09-20"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[firstReading]
+id = 134522
+congress = 9
+bill_no = "HR01216"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on 09/22/94"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-09-20"

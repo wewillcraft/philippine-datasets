@@ -1,0 +1,72 @@
+billNumber = "HR00626"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00626"
+lastScraped = "2025-09-22T00:25:57.480866"
+title = "HR00626"
+longTitle = "RESOLUTION CERTIFYING TO THE EXISTENCE OF VACANCIES IN THE HOUSE OF REPRESENTATIVES , PARTICULARLY IN THE FIRST DISTRICT OF THE PROVINCE OF CAPIZ AND CALLING FOR THE SPECIAL ELECTIONS TO FILL SAID VACANCIES"
+scope = "Local"
+dateFiled = "1993-05-17"
+status = "Adopted as Resolution No. HR00036 on 1993-05-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-05-17"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[motherBills]]
+bill_no = "HR00611"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00611"
+flag = "S"
+
+[firstReading]
+id = 133938
+congress = 9
+bill_no = "HR00626"
+report = "00164"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption in substituti on of HR00611"
+date_read = "1993-05-17"
+date_report = "1993-05-17"
+
+[secondReading]
+id = 20128
+congress = 9
+bill_no = "HR00626"
+adopted_resolution = "HR00036"
+date_approved = "1993-05-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00626.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00626.pdf"

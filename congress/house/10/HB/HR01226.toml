@@ -1,0 +1,41 @@
+billNumber = "HR01226"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01226"
+lastScraped = "2025-09-22T00:20:59.661560"
+title = "HR01226"
+longTitle = "RESOLUTION CALLING FOR THE IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, ON THE CONSTRUCTION OF HIGH RISE BUILDINGS ALONG THE C-5 ROAD IN FRONT OF LA VISTA SUBDIVISION, QUEZON CITY"
+scope = "Local"
+dateFiled = "1997-05-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-05-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118280
+congress = 10
+bill_no = "HR01226"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-05-26"

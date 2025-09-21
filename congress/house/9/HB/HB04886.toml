@@ -1,0 +1,47 @@
+billNumber = "HB04886"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04886"
+lastScraped = "2025-09-22T00:25:55.534239"
+title = "HB04886"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TEN-BED DISTRICT HOSPITAL IN THE DISTRICT OF SANGALI, ZAMBOANGA CITY, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-16"
+status = "Pending with the Committee on HEALTH since 1992-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lobregat"
+[[authorsDetail]]
+name = "Lobregat"
+nameCode = "Lobregat"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-19"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123505
+congress = 9
+bill_no = "HB04886"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-19"

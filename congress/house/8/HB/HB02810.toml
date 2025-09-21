@@ -1,0 +1,42 @@
+billNumber = "HB02810"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02810"
+lastScraped = "2025-09-22T00:46:57.059162"
+title = "HB02810"
+longTitle = "AN ACT TO AMEND SECTION 5 OF EXECUTIVE ORDER NUMBER 269 PROVIDING FOR PHILIPPINE MEDICAL CARE COMMISSION"
+scope = "National"
+dateFiled = "1987-10-15"
+status = "Pending with the Committee on HEALTH since 1987-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-10-16"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 137499
+congress = 8
+bill_no = "HB02810"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-10-16"

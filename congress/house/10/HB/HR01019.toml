@@ -1,0 +1,56 @@
+billNumber = "HR01019"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01019"
+lastScraped = "2025-09-22T00:20:59.618286"
+title = "HR01019"
+longTitle = "RESOLUTION URGING THE ENERGY REGULATORY BOARD TO IMMEDIATELY ROLL BACK THE PRICES OF GASOLINE AND OTHER OIL PRODUCTS AND TO HOLD ANY SUCH INCREASES UNTIL NEXT YEAR"
+scope = "National"
+dateFiled = "1996-12-11"
+status = "Pending with the Committee on ENERGY since 1996-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "DEL MAR, RAUL V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-12-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 118073
+congress = 10
+bill_no = "HR01019"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-12-16"

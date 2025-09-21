@@ -1,0 +1,48 @@
+billNumber = "HR00773"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00773"
+lastScraped = "2025-09-22T00:25:57.507389"
+title = "HR00773"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON GOOD GOVERNMENT, NATIONAL DEFENSE, AND HOUSING TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE STATUS OF PORTION OF LANDS IN FORT BONIFACIO MILITARY RESERVATION AND VILLAMOR AIR BASE AND SIMILAR LANDS IN ALL MILITARY RESERVATIONS, WITH THE END IN VIEW OF REVIEWING POLICIES REGARDING DISPOSITION OF LOTS TO AFP/PNP PERSONNEL AND CIVILIAN BENEFICIARIES AND TO EVALUATE THE EXTENT OF HOUSING PROBLEMS OF THE AFP AND PNP IN PARTICULAR"
+scope = "National"
+dateFiled = "1993-09-21"
+status = "Pending with the Committee on NATURAL RESOURCES since 1993-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1993-09-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 134085
+congress = 9
+bill_no = "HR00773"
+comm_act = "Change of referral from the Committee on Rules(J.27 ,p.169)"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1993-09-27"

@@ -1,0 +1,55 @@
+billNumber = "HB02551"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02551"
+lastScraped = "2025-09-21T23:55:44.597099"
+title = "HB02551"
+longTitle = "AN ACT CREATING PUBLIC REHABILITATION AND TREATMENT CENTERS FOR SUBSTANCE ABUSE IN EVERY CITY AND MUNICIPALITY"
+scope = "National"
+dateFiled = "2016-08-04"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2016-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02551.pdf"
+fileSize = 717582
+author = "OLIVAREZ, ERIC L."
+coAuthors = [ "ROBES, FLORIDA P.",]
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2016-08-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROBES, FLORIDA P."
+nameCode = "Robes"
+date = "2016-09-13"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2016-08-10"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 36019
+congress = 17
+bill_no = "HB02551"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-11-29"
+date_read = "2016-08-10"

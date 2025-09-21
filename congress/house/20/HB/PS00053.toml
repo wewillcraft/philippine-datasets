@@ -1,0 +1,44 @@
+billNumber = "PS00053"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00053"
+lastScraped = "2025-09-21T23:39:49.250565"
+title = "PS00053"
+longTitle = "RAILWAYS FOR PEACE AND DEVELOPMENT"
+dateFiled = "2025-08-20"
+status = "Pending with the Committee on TRANSPORTATION since 2025-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "RODRIGUEZ, MAXIMO B., JR."
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M. B.)"
+date = "2025-08-20"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-08-20"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 4888
+congress = 103
+bill_no = "PS00053"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-27"
+date_read = "2025-08-20"

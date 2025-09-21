@@ -1,0 +1,47 @@
+billNumber = "HB09257"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09257"
+lastScraped = "2025-09-22T00:25:56.260550"
+title = "HB09257"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TWENTY-FIVE-BED HOSPITAL IN THE MUNICIPALITY OF PALAPAG, PROVINCE OF NORTHERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-05-21"
+status = "Pending with the Committee on HEALTH since 1993-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-26"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127875
+congress = 9
+bill_no = "HB09257"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-26"

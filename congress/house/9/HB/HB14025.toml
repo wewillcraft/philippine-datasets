@@ -1,0 +1,69 @@
+billNumber = "HB14025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14025"
+lastScraped = "2025-09-22T00:25:57.193133"
+title = "HB14025"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE EASTERN SAMAR PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, FROM ONE HUNDRED TO ONE HUNDRED TWENTY-FIVE BED-CAPACITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-10-25"
+status = "Approved by the House on 1995-02-14, transmitted to on 1995-02-16 and received by the Senate on 1995"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-11-07"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132634
+congress = 9
+bill_no = "HB14025"
+report = "01124"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1994-11-07"
+date_ob = "1995-02-01"
+date_cal = "1995-02-01"
+date_unass = "1995-02-01"
+date_report = "1995-01-30"
+
+[secondReading]
+id = 19953
+congress = 9
+bill_no = "HB14025"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2176
+congress = 9
+bill_no = "HB14025"
+date_dist = "1995-02-06"
+date_adopt = "1995-02-14"
+no_yeas = 128
+no_nays = 0
+no_abstent = 0
+date_trans = "1995-02-16"
+date_rec = "1995-02-16"

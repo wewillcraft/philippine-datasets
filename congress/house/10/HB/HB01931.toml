@@ -1,0 +1,46 @@
+billNumber = "HB01931"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01931"
+lastScraped = "2025-09-22T00:20:57.709436"
+title = "HB01931"
+longTitle = "AN ACT PROVIDING FOR THE ADDITION OF TEN (10) BEDROOMS TO THE MALABANG DISTRICT HOSPITAL (DR. SERAPIO MONTANER MEMORIAL HOSPITAL) IN THE MUNICIPALITY OF MALABANG, 2ND DISTRICT, PROVINCE OF LANAO DEL SUR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-07"
+status = "Pending with the Committee on HEALTH since 1995-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Balindong, Pangalian M."
+[[authorsDetail]]
+name = "Balindong, Pangalian M."
+nameCode = "Balindong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108352
+congress = 10
+bill_no = "HB01931"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-10"

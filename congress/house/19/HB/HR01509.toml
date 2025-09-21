@@ -1,0 +1,74 @@
+billNumber = "HR01509"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01509"
+lastScraped = "2025-09-21T23:55:22.873855"
+title = "HR01509"
+longTitle = "RESOLUTION CONGRATULATING AND COMMENDING MR. ALEXIS CASTILLO ALEGADO, A GRADUATE OF THE MARIANO MARCOS STATE UNIVERSITY, FOR BEING THE OVERALL TOPNOTCHER IN THE APRIL 2023 CIVIL ENGINEERS LICENSURE EXAMINATION"
+scope = "National"
+dateFiled = "2023-12-11"
+status = "Pending With Rules (Included in OB on 2023-12-11)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "BARBA, ANGELO MARCOS"
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2023-12-11"
+sequence = 1
+
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2023-12-11"
+sequence = 2
+
+[[authorsDetail]]
+name = "Mariano-Hernandez, Ruth"
+nameCode = "Mariano-Hernandez"
+date = "2023-12-11"
+sequence = 3
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2023-12-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01005"
+sequence = 1
+date = "2023-12-11"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01005"
+sequence = 1
+date = "2023-12-11"
+flag = "S"
+
+[firstReading]
+id = 18054
+congress = 19
+bill_no = "HR01509"
+report = "00907"
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = "HIGHER AND TECHNICAL EDUCATION"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1005"
+remarks = ""
+file = "CR00907.pdf"
+date_read = "2023-12-11"
+date_ob = "2023-12-11"
+date_report = "2023-12-11"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR00907.pdf"

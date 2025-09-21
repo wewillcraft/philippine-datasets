@@ -1,0 +1,45 @@
+billNumber = "HR00352"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00352"
+lastScraped = "2025-09-22T00:47:02.594787"
+title = "HR00352"
+longTitle = "RESOLUTION DIRECTING THE CONGRESS OF THE PHILIPPINES TO ISSUE AN URGENT APPEAL TO THE CONGRESS OF THE UNITED STATES NOT TO ENACT INTO LAW HOUSE BILL NO. 2148"
+scope = "National"
+dateFiled = "1987-09-23"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-09-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170250
+congress = 8
+bill_no = "HR00352"
+report = "00039"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = "TRADE AND INDUSTRY"
+recomm = "APPROVAL, IN SUBSTITUTI ON TO HR NOS. 209, 306 AND 352 RE: HR NO.487"
+date_read = "1987-09-28"
+date_report = "1987-11-11"

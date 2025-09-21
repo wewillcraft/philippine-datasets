@@ -1,0 +1,47 @@
+billNumber = "HR00220"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00220"
+lastScraped = "2025-09-22T00:01:47.379200"
+title = "HR00220"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON HEALTH AND GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED FINDINGS BY THE UNITED NATIONS OFFICE ON DRUGS AND CRIME THAT THE PHILIPPINES HAS BECOME A HOTSPOT FOR FAKE MEDICINES"
+scope = "National"
+dateFiled = "2019-08-13"
+status = "Pending with the Committee on HEALTH since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00220.pdf"
+fileSize = 371142
+author = "Fernandez, Dan S."
+[[authorsDetail]]
+name = "Fernandez, Dan S."
+nameCode = "Fernandez"
+date = "2019-08-13"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-20"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE MILITARY AND UNIFORMED PERSONNEL(MUP) PENSION SYSTEM"
+type = "principal"
+referralCode = "J506"
+
+[firstReading]
+id = 30548
+congress = 18
+bill_no = "HR00220"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-20"

@@ -1,0 +1,49 @@
+billNumber = "HB02298"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02298"
+lastScraped = "2025-09-22T00:20:57.780335"
+title = "HB02298"
+longTitle = "AN ACT REPEALING SECTION 51 (a) NUMBER ONE (1) AND 51(b) NUMBER (4) OF REPUBLIC ACT NO. 6975"
+scope = "National"
+dateFiled = "1995-08-10"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-08-16"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 108719
+congress = 10
+bill_no = "HB02298"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-08-16"

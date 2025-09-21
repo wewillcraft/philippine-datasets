@@ -1,0 +1,55 @@
+billNumber = "HB00489"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00489"
+lastScraped = "2025-09-22T00:12:59.895134"
+title = "HB00489"
+longTitle = "AN ACT ESTABLISHING THE ILOILO FREEPORT, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83649
+congress = 12
+bill_no = "HB00489"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "2001-07-24"

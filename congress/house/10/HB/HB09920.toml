@@ -1,0 +1,102 @@
+billNumber = "HB09920"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09920"
+lastScraped = "2025-09-22T00:20:59.269049"
+title = "HB09920"
+longTitle = "AN ACT PROMOTING AND REGULATING THE OPERATION OF CABLE TELEVISION SYSTEMS AND RELATED ACTIVITIES IN THE PHILIPPINES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-09-01"
+status = "Approved on Third Reading on 1998-02-02"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+coAuthors = [ "AQUINO, HERMINIO S.", "BAGATSING, RAMON JR. S.", "TRANSPORTATION AND COMMUNICATION",]
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AQUINO, HERMINIO S."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TRANSPORTATION AND COMMUNICATION"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[motherBills]]
+bill_no = "HB04729"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB04836"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04729"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04836"
+flag = "S"
+
+[firstReading]
+id = 116341
+congress = 10
+bill_no = "HB09920"
+report = "01049"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-09-03"
+date_ob = "1997-09-03"
+date_report = "1997-09-01"
+
+[secondReading]
+id = 18762
+congress = 10
+bill_no = "HB09920"
+date_calendared = "1998-01-20"
+date_approved = "1998-01-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3333
+congress = 10
+bill_no = "HB09920"
+date_dist = "1998-01-29"
+date_adopt = "1998-02-02"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0

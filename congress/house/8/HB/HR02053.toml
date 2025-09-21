@@ -1,0 +1,42 @@
+billNumber = "HR02053"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02053"
+lastScraped = "2025-09-22T00:47:02.932668"
+title = "HR02053"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEE ON WAYS AND MEANS TO CONDUCT IMMEDIATE INQUIRY, IN AID OF LEGISLATION, TO DETERMINE THE PROPRIETY OF IMPOSING WINDFALL TAXES ON BANKS"
+scope = "National"
+dateFiled = "1990-11-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1990-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aniag"
+[[authorsDetail]]
+name = "Aniag"
+nameCode = "Aniag"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1990-12-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171889
+congress = 8
+bill_no = "HR02053"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1990-12-04"

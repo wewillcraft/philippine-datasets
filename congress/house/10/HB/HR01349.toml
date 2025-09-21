@@ -1,0 +1,65 @@
+billNumber = "HR01349"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01349"
+lastScraped = "2025-09-22T00:20:59.684163"
+title = "HR01349"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE CLEMENCIO F. MONTESA TO ACCEPT THE DECORATION KNOWN AS 'LA ORDEN MEXICANA DE AGUILA AZTECA' AWARDED TO HIM BY THE MEXICAN GOVERNMENT"
+scope = "Local"
+dateFiled = "1997-08-25"
+status = "Adopted as Resolution No. HR00134 on 1998-02-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118403
+congress = 10
+bill_no = "HR01349"
+report = "01280"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments ."
+date_read = "1997-08-28"
+date_ob = "1997-11-24"
+date_report = "1997-11-20"
+
+[secondReading]
+id = 19041
+congress = 10
+bill_no = "HR01349"
+adopted_resolution = "HR00134"
+date_calendared = "1998-02-03"
+date_approved = "1998-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00134.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00134.pdf"

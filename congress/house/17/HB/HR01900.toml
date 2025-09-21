@@ -1,0 +1,52 @@
+billNumber = "HR01900"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01900"
+lastScraped = "2025-09-21T23:55:46.616656"
+title = "HR01900"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPRIETY OF THE CONSTRUCTION OF A PARKING FACILITY WITHIN THE BURNHAM PARK RESERVATION"
+scope = "National"
+dateFiled = "2018-05-22"
+status = "Pending with the Committee on RULES since 2018-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01900.pdf"
+fileSize = 876103
+author = "Fariñas, Rodolfo C."
+[[authorsDetail]]
+name = "Fariñas, Rodolfo C."
+nameCode = "Fariñas"
+date = "2018-05-22"
+sequence = 1
+
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2018-05-22"
+sequence = 2
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2018-05-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 44642
+congress = 17
+bill_no = "HR01900"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-05-29"

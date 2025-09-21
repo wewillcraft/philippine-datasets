@@ -1,0 +1,102 @@
+billNumber = "HB10447"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10447"
+lastScraped = "2025-09-22T00:20:59.385382"
+title = "HB10447"
+longTitle = "AN ACT RE-NATIONALIZIN G DEVOLVED HEALTH SERVICES AND FACILITIES, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-01-12"
+status = "Approved on Third Reading on 1998-02-06"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "TY, MARIO S.", "RAMIRO, HERMINIA M.", "REYES, CARMENCITA O.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TY, MARIO S."
+nameCode = "Ty"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIRO, HERMINIA M."
+nameCode = "Ramiro"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "REYES, CARMENCITA O."
+nameCode = "Reyes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-01-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB00990"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR01157"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00990"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01157"
+flag = "S"
+
+[firstReading]
+id = 116867
+congress = 10
+bill_no = "HB10447"
+report = "01386"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Approval"
+date_read = "1998-01-12"
+date_ob = "1998-01-12"
+date_report = "1998-01-12"
+
+[secondReading]
+id = 18850
+congress = 10
+bill_no = "HB10447"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3411
+congress = 10
+bill_no = "HB10447"
+date_dist = "1998-02-02"
+date_adopt = "1998-02-06"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0

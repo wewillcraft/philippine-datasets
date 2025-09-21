@@ -1,0 +1,71 @@
+billNumber = "HB07563"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07563"
+lastScraped = "2025-09-22T00:20:58.762162"
+title = "HB07563"
+longTitle = "AN ACT CREATING A SEPARATE ENGINEERING DISTRICT IN THE THIRD CONGRESSIONAL DISTRICT OF THE PROVINCE OF ALBAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-23"
+status = "Approved by the House on 1997-08-04, transmitted to on 1997-08-05 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salalima"
+[[authorsDetail]]
+name = "Salalima"
+nameCode = "Salalima"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113984
+congress = 10
+bill_no = "HB07563"
+report = "00927"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "1996-07-29"
+date_ob = "1997-05-19"
+date_report = "1997-05-15"
+
+[secondReading]
+id = 18495
+congress = 10
+bill_no = "HB07563"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-05-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3090
+congress = 10
+bill_no = "HB07563"
+date_dist = "1997-05-27"
+date_adopt = "1997-08-04"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-05"
+date_rec = "1997-08-07"

@@ -1,0 +1,46 @@
+billNumber = "HB06560"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06560"
+lastScraped = "2025-09-22T00:20:58.580698"
+title = "HB06560"
+longTitle = "AN ACT ESTABLISHING A BAMBOO NURSERY IN THE MUNICIPALITY OF LUISIANA, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-14"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-03-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112981
+congress = 10
+bill_no = "HB06560"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-03-17"

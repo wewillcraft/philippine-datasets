@@ -1,0 +1,47 @@
+billNumber = "HB00800"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00800"
+lastScraped = "2025-09-22T00:12:59.950787"
+title = "HB00800"
+longTitle = "AN ACT CONVERTING THE ROXAS MEMORIAL GENERAL HOSPITAL IN ROXAS, PROVINCE OF CAPIZ INTO A TERTIARY LEVEL II HOSPITAL TO BE KNOWN AS THE PRESIDENT MANUEL A. ROXAS MEMORIAL REGIONAL HOSPITAL"
+scope = "Local"
+dateFiled = "2001-07-06"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dadivas, Rodriguez D."
+[[authorsDetail]]
+name = "Dadivas, Rodriguez D."
+nameCode = "Dadivas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83960
+congress = 12
+bill_no = "HB00800"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

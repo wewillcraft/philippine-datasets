@@ -1,0 +1,72 @@
+billNumber = "HB12299"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12299"
+lastScraped = "2025-09-22T00:25:56.867294"
+title = "HB12299"
+longTitle = "AN ACT TO AMEND REPUBLIC ACT NO. 3680, OTHERWISE KNOWN AS THE CHARTER OF THE PHILIPPINE MERCHANT MARINE ACADEMY, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1994-03-11"
+status = "Approved by the House on 1994-05-24, transmitted to on 1994-05-25 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-03-23"
+
+[[motherBills]]
+bill_no = "HB07592"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB07592"
+flag = "S"
+
+[firstReading]
+id = 130914
+congress = 9
+bill_no = "HB12299"
+report = "00559"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "EDUCATION AND CULTURE"
+recomm = "APPROVAL"
+date_read = "1994-03-23"
+date_ob = "1994-03-23"
+date_cal = "1994-03-23"
+date_unass = "1994-03-23"
+date_report = "1994-03-11"
+
+[secondReading]
+id = 19766
+congress = 9
+bill_no = "HB12299"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-04-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2006
+congress = 9
+bill_no = "HB12299"
+date_dist = "1994-05-12"
+date_adopt = "1994-05-24"
+no_yeas = 112
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-05-25"
+date_rec = "1994-06-01"

@@ -1,0 +1,61 @@
+billNumber = "HR01417"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01417"
+lastScraped = "2025-09-22T00:20:59.696206"
+title = "HR01417"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON HEALTH, ENVIRONMENT AND NATURAL RESOURCES AND HOUSING AND URBAN DEVELOPMENT TO JOINTLY INQUIRE, IN AID OF LEGISLATION, INTO PERCEIVED DANGERS TO HEALTH AND LIFE OF THE PEOPLE LIVING IN OR NEAR THE SMOKEY MOUNTAIN DEVELOPMENT HOUSING PROJECT IN BALUT, TONDO, MANILA, TO RECOMMEND REMEDIAL MEASURES AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-10-29"
+status = "Pending with the Committee on ECOLOGY since 1997-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-11-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 118471
+congress = 10
+bill_no = "HR01417"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-11-10"

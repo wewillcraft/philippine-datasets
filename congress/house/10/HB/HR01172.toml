@@ -1,0 +1,49 @@
+billNumber = "HR01172"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01172"
+lastScraped = "2025-09-22T00:20:59.650868"
+title = "HR01172"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT, IN AID OF LEGISLATION, AN INVESTIGATION OF THE ACTIVITIES OF FILINVEST LAND, INC. RELATIVE TO ITS FILINVEST SKY CITY PROJECT IN SAN MATEO, RIZAL"
+scope = "Local"
+dateFiled = "1997-04-21"
+status = "Pending with the Committee on ECOLOGY since 1997-04-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanjuatco"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Tanjuatco"
+nameCode = "Tanjuatco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-04-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 118226
+congress = 10
+bill_no = "HR01172"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-04-24"

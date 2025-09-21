@@ -1,0 +1,53 @@
+billNumber = "HR01283"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01283"
+lastScraped = "2025-09-22T00:20:59.670983"
+title = "HR01283"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE IS READY TO ENTER UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1997-07-23"
+status = "Adopted as Resolution No. HR00113 on 1997-07-28"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-07-28"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 118337
+congress = 10
+bill_no = "HR01283"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-07-28"
+
+[secondReading]
+id = 19032
+congress = 10
+bill_no = "HR01283"
+adopted_resolution = "HR00113"
+date_calendared = "1997-07-28"
+date_approved = "1997-07-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00113.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00113.pdf"

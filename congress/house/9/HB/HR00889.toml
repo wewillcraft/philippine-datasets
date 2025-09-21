@@ -1,0 +1,48 @@
+billNumber = "HR00889"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00889"
+lastScraped = "2025-09-22T00:25:57.530011"
+title = "HR00889"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON LABOR AND EMPLOYMENT, FOREIGN AFFAIRS, CIVIL, POLITICAL AND HUMAN RIGHTS TO IMMEDIATELY CONDUCT A JOINT INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED ACTS OF DISCRIMINATION, VIOLATION OF HUMAN RIGHTS AND OTHERABUSES COMMITTED AGAINST FILIPINO DOMESTIC HELPERS WORKING IN HONG KONG AND TO SUBMIT THEIR JOINT FINDINGS SOONEST FOR URGENT CONSIDERATION BY THE HOUSE"
+scope = "National"
+dateFiled = "1993-12-07"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 134196
+congress = 9
+bill_no = "HR00889"
+comm_act = "Change of referral from the Committee on Rules(J.47 ,p.35)"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1993-12-09"

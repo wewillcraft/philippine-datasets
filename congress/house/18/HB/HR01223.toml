@@ -1,0 +1,60 @@
+billNumber = "HR01223"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01223"
+lastScraped = "2025-09-22T00:01:47.570410"
+title = "HR01223"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE EFFECTIVENESS OF THE PHILIPPINE HEALTH INSURANCE CORPORATION TO FULFILL ITS MANDATED RESPONSIBILITIES UNDER REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE (UHC) ACT, WITH THE END IN VIEW OF PROTECTING AND PROMOTING THE RIGHT TO HEALTH OF THE FILIPINOS\r\n\r\n"
+scope = "National"
+dateFiled = "2020-09-21"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01223.pdf"
+fileSize = 838750
+author = "Tan, Angelina"
+coAuthors = [ "SALVADOR-TAMBUNTING, JOY MYRA",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2020-09-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2020-11-06"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2020-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 31542
+congress = 18
+bill_no = "HR01223"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-09-22"

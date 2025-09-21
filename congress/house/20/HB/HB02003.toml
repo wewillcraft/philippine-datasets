@@ -1,0 +1,63 @@
+billNumber = "HB02003"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02003"
+lastScraped = "2025-09-21T23:39:48.702336"
+title = "HB02003"
+longTitle = "AN ACT PROVIDING FOR A 30-YEAR NATIONAL INFRASTRUCTURE PROGRAM"
+scope = "National"
+dateFiled = "2025-07-16"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02003.pdf"
+fileSize = 7919168
+author = "CUA, MIDY N."
+[[authorsDetail]]
+name = "CUA, MIDY N."
+nameCode = "Cua"
+date = "2025-07-16"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 2004
+congress = 103
+bill_no = "HB02003"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"
+
+[secondReading]
+id = 11
+congress = 103
+bill_no = "HB02003"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

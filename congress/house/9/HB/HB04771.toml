@@ -1,0 +1,67 @@
+billNumber = "HB04771"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04771"
+lastScraped = "2025-09-22T00:25:55.501567"
+title = "HB04771"
+longTitle = "AN ACT TO PROMOTE THE DEVELOPMENT OF THE MANUFACTURING ENGINEERING INDUSTRY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-11-12"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1992-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "RAMIREZ, JOSE T.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1992-11-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 123390
+congress = 9
+bill_no = "HB04771"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1992-11-17"

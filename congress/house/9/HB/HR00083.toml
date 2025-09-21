@@ -1,0 +1,42 @@
+billNumber = "HR00083"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00083"
+lastScraped = "2025-09-22T00:25:57.383281"
+title = "HR00083"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO PASS UPON AND CONSIDER PENDING 'NUMBERS GAME' MEASURES (JUETENG, ET AL) SO THAT THE SAME MAY BE REPORTED OUT FOR DELIBERATION ON THE FLOOR FOR POSSIBLE ADOPTION"
+scope = "National"
+dateFiled = "1992-08-17"
+status = "Substituted by HB11056"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1992-08-18"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 133395
+congress = 9
+bill_no = "HR00083"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1992-08-18"

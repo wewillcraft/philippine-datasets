@@ -1,0 +1,42 @@
+billNumber = "HB12580"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12580"
+lastScraped = "2025-09-22T00:25:56.922429"
+title = "HB12580"
+longTitle = "AN ACT ESTABLISHING AND PROVIDING FOR A FREE COLLEGE EDUCATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1994-04-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-04-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-04-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131195
+congress = 9
+bill_no = "HB12580"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-04-27"

@@ -1,0 +1,46 @@
+billNumber = "HB09832"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09832"
+lastScraped = "2025-09-22T00:20:59.253491"
+title = "HB09832"
+longTitle = "AN ACT PROVIDING FOR THE UPGRADING OF THE MAKABAKLAY-CALL OS ROAD IN GAPAN AND PENARANDA, NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-08-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116253
+congress = 10
+bill_no = "HB09832"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-08-20"

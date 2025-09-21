@@ -1,0 +1,61 @@
+billNumber = "HB01567"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01567"
+lastScraped = "2025-09-21T23:55:44.377670"
+title = "HB01567"
+longTitle = "AN ACT REQUIRING FOOD ESTABLISHMENT TO COMPLY WITH SANITATION STANDARDS"
+scope = "National"
+dateFiled = "2016-07-14"
+status = "Pending with the Committee on HEALTH since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01567.pdf"
+fileSize = 1049162
+author = "Vargas, Alfred D."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "LAZATIN, CARMELO II B.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2016-07-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-08-17"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO II B."
+nameCode = "Lazatin"
+date = "2018-02-01"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 35035
+congress = 17
+bill_no = "HB01567"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

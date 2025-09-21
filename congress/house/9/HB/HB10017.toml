@@ -1,0 +1,48 @@
+billNumber = "HB10017"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10017"
+lastScraped = "2025-09-22T00:25:56.405742"
+title = "HB10017"
+longTitle = "AN ACT PROVIDING FOR THE WATERSHED REFORESTATION OF THE MUNICIPALITIES OF BOAC, GASAN, BUENAVISTA, TORRIJOS, STA. CRUZ AND MOGPOG IN THE PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-07-29"
+status = "Pending with the Committee on NATURAL RESOURCES since 1993-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1993-08-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128635
+congress = 9
+bill_no = "HB10017"
+comm_act = "change of ctte. ref'l from Ctte. on Ecolgy as per Rules Memo dtd. 09-30-93"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1993-08-03"

@@ -1,0 +1,55 @@
+billNumber = "HR00745"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00745"
+lastScraped = "2025-09-22T00:20:59.565664"
+title = "HR00745"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES TO ABOLISH THE CONGRESSIONAL INITIATIVE ALLOCATIONS OR CONGRESSIONAL INSERTIONS (CI)"
+scope = "National"
+dateFiled = "1996-07-31"
+status = "Pending with the Committee on RULES since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+coAuthors = [ "COLAMBO, FELIZARDO R.",]
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "COLAMBO, FELIZARDO R."
+nameCode = "Colambo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "INTER-PARLIAMENTARY RELATIONS AND DIPLOMACY"
+type = "principal"
+referralCode = "A505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 117799
+congress = 10
+bill_no = "HR00745"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Appropriat ions on Aug. 7, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-05"

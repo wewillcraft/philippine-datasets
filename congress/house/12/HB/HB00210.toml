@@ -1,0 +1,72 @@
+billNumber = "HB00210"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00210"
+lastScraped = "2025-09-22T00:12:59.839721"
+title = "Converting Batangas Regional Hospital in Batangas City into Batangas Medical Center"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7532 CONVERTING BATANGAS REGIONAL HOSPITAL TO BATANGAS MEDICAL CENTER, FURTHER INCREASING ITS BED CAPACITY TO THREE HUNDRED BEDS, WITH EXTENSION OF OPERATION TO THE TINGLOY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Approved by the House on 2002-10-21, transmitted to on 2002-10-22 and received by the Senate on 2002-10-23"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83370
+congress = 12
+bill_no = "HB00210"
+report = "00722"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "approval with amendments"
+date_read = "2001-07-24"
+date_ob = "2002-09-02"
+date_report = "2002-08-21"
+
+[secondReading]
+id = 14071
+congress = 12
+bill_no = "HB00210"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks."
+date_approved = "2002-10-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4630
+congress = 12
+bill_no = "HB00210"
+date_dist = "2002-10-15"
+date_adopt = "2002-10-21"
+no_yeas = 159
+no_nays = 0
+no_abstent = 0
+date_trans = "2002-10-22"
+date_rec = "2002-10-23"

@@ -1,0 +1,76 @@
+billNumber = "HB04636"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04636"
+lastScraped = "2025-09-22T00:13:00.645408"
+title = "HB04636"
+longTitle = "AN ACT MANDATING THE CREATION OF WOMEN AND CHILDREN PROTECTION UNITS (WCPU) IN ALL HOSPITALS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2002-04-12"
+status = "Pending with the Committee on HEALTH since 2002-04-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "UMALI, AURELIO M.", "YLAGAN, PERPETUO B.", "CHATTO, EDGARDO M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "UMALI, AURELIO M."
+nameCode = "Umali"
+date = ""
+journalNo = "J076"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YLAGAN, PERPETUO B."
+nameCode = "Ylagan"
+date = ""
+journalNo = "J076"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J088"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J048"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-04-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 87791
+congress = 12
+bill_no = "HB04636"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-04-22"

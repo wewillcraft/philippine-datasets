@@ -1,0 +1,67 @@
+billNumber = "HR00831"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00831"
+lastScraped = "2025-09-22T00:20:59.581855"
+title = "HR00831"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES  ON CIVIL SERVICE AND GOOD GOVERNMENT TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED IRREGULARITIES IN THE PHYSICIAN LICENSURE EXAMINATION HELD LAST AUGUST 10 AND 11, 1996 AND RECOMMEND APPROPRIATE ACTION"
+scope = "National"
+dateFiled = "1996-09-04"
+status = "Pending with the Committee on RULES since 1996-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Soon-Ruiz, Nerissa Corazon"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Soon-Ruiz, Nerissa Corazon"
+nameCode = "Ruiz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-09"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117885
+congress = 10
+bill_no = "HR00831"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Civil Service and Profession al Regulat"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-09"

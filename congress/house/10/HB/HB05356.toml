@@ -1,0 +1,46 @@
+billNumber = "HB05356"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05356"
+lastScraped = "2025-09-22T00:20:58.359753"
+title = "HB05356"
+longTitle = "AN ACT ESTABLISHING A WATER SYSTEM IN THE MUNICIPALITY OF RIZAL, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-12-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111777
+congress = 10
+bill_no = "HB05356"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-12-06"

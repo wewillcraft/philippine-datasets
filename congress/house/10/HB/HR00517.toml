@@ -1,0 +1,50 @@
+billNumber = "HR00517"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00517"
+lastScraped = "2025-09-22T00:20:59.520287"
+title = "HR00517"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO REVIEW THE EXISTING POLICIES OF THE GOVERNMENT FOR THE PROTECTION OF RIVERS, CREEKS AND OTHER FRESHWATER BODIES FROM POLLUTION WITH A VIEW OF EFFECTING AMENDMENTS OR REVISIONS THEREOF"
+scope = "National"
+dateFiled = "1996-03-05"
+status = "Pending with the Committee on ECOLOGY since 1996-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-03-07"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 117571
+congress = 10
+bill_no = "HR00517"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ecology on March 11, 1996."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-03-07"

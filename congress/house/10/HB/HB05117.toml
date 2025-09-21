@@ -1,0 +1,51 @@
+billNumber = "HB05117"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05117"
+lastScraped = "2025-09-22T00:20:58.315957"
+title = "HB05117"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A REGIONAL OFFICE OF THE VIDEOGRAM REGULATORY BOARD IN EVERY REGION OF THE COUNTRY AND APPROPRIATING FUNDS THEREOF"
+scope = "National"
+dateFiled = "1995-11-15"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "secondary"
+referralCode = "0514"
+
+[firstReading]
+id = 111538
+congress = 10
+bill_no = "HB05117"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1995-11-20"

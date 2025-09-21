@@ -1,0 +1,47 @@
+billNumber = "HB00449"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00449"
+lastScraped = "2025-09-22T00:25:54.676034"
+title = "HB00449"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DISTRICT HOSPITAL IN THE MUNICIPALITY OF TINGLAYAN, PROVINCE OF KALINGA-APAYAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-31"
+status = "Pending with the Committee on HEALTH since 1992-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-05"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119068
+congress = 9
+bill_no = "HB00449"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-05"

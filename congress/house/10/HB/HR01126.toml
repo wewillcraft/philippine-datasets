@@ -1,0 +1,49 @@
+billNumber = "HR01126"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01126"
+lastScraped = "2025-09-22T00:20:59.643169"
+title = "HR01126"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRARIAN REFORM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE AGRARIAN DISPUTE IN THE STANFILCO BANANA PLANTATION IN BARANGAY DAPCO, PANABO, DAVAO DEL NORTE"
+scope = "Local"
+dateFiled = "1997-03-05"
+status = "Pending with the Committee on AGRARIAN REFORM since 1997-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1997-03-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118180
+congress = 10
+bill_no = "HR01126"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+date_read = "1997-03-10"

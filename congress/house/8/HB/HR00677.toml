@@ -1,0 +1,42 @@
+billNumber = "HR00677"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00677"
+lastScraped = "2025-09-22T00:47:02.657958"
+title = "HR00677"
+longTitle = "RESOLUTION REQUESTING THE OFFICE OF ENERGY AFFAIRS TO CONDUCT AN EXTENSIVE AND COMPREHENSIVE STUDY ON THE POSSIBLE USE OF ALCOHOL FROM SUGAR CANE AS FUEL FOR ENGINES OF MOTOR VEHICLES"
+scope = "National"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on ENERGY since 1988-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1988-05-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170560
+congress = 8
+bill_no = "HR00677"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1988-05-04"

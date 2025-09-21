@@ -1,0 +1,42 @@
+billNumber = "HR01303"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01303"
+lastScraped = "2025-09-22T00:25:57.608325"
+title = "HR01303"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE IN ITS OPPOSITION AGAINST THE PROPOSED RP-US CROSS SERVICING AND ACQUISITION AGREEMENT"
+scope = "National"
+dateFiled = "1994-11-22"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1994-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1994-11-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134608
+congress = 9
+bill_no = "HR01303"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1994-11-28"

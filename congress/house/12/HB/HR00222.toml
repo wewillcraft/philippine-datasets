@@ -1,0 +1,50 @@
+billNumber = "HR00222"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00222"
+lastScraped = "2025-09-22T00:13:01.186199"
+title = "HR00222"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TRADE AND INDUSTRY, AGRICULTURE, FOOD AND FISHERIES, HEALTH, WAYS AND MEANS AND OVERSIGHT OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ENTRY OF PHILIP MORRIS TO THE PHILIPPINES THROUGH THE REPORTED BUYOUT OF A LOCAL CIGARETTE COMPANY, ITS IMPLICATIONS ON THE COUNTRY'S INVESTMENT PRIORITIES, FARMERS, LABORERS, HEALTH AND WELFARE OF FILIPINOS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-10-01"
+status = "Pending with the Committee on RULES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bersamin, Luis Jr. P."
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Bersamin, Luis Jr. P."
+nameCode = "Bersamin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J004"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 90161
+congress = 12
+bill_no = "HR00222"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-10-09"

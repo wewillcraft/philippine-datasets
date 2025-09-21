@@ -1,0 +1,54 @@
+billNumber = "HB09534"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09534"
+lastScraped = "2025-09-22T00:20:59.182426"
+title = "HB09534"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE NATIONAL DEFENSE UNIVERSITY AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-06-05"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-07-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115955
+congress = 10
+bill_no = "HB09534"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-07-29"

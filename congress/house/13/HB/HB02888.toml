@@ -1,0 +1,62 @@
+billNumber = "HB02888"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02888"
+lastScraped = "2025-09-22T00:13:48.360958"
+title = "HB02888"
+longTitle = "AN ACT GRANTING ALL BARANGAY OFFICIALS AND BARANGAY HEALTH WORKERS A DISCOUNT IN TRANSPORTATION FARES"
+scope = "National"
+dateFiled = "2004-09-14"
+status = "Pending with the Committee on TRANSPORTATION since 2005-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02888.pdf"
+fileSize = 1040271
+author = "Ramiro, Herminia M."
+coAuthors = [ "REYES, VICTORIA H.", "UMALI, ALFONSO JR. V.",]
+[[authorsDetail]]
+name = "Ramiro, Herminia M."
+nameCode = "Ramiro"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REYES, VICTORIA H."
+nameCode = "Reyes"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "UMALI, ALFONSO JR. V."
+nameCode = "Umali"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2004-09-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 77978
+congress = 13
+bill_no = "HB02888"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-01-12"
+date_read = "2004-09-20"

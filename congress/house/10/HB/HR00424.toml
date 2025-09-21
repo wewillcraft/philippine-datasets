@@ -1,0 +1,42 @@
+billNumber = "HR00424"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00424"
+lastScraped = "2025-09-22T00:20:59.501091"
+title = "HR00424"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES, THROUGH THE SUBCOMMITTEE ON FOREST RESOURCES TO CONDUCT IMMEDIATELY, AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ILLEGAL LOGGING ACTIVITIES BEING PERPETUATED BY THE AGUSAN WOOD INDUSTRIES, INC./INDUSTRIAL TIMBER CORPORATION (AGWOOD/ITC) IN SAN  LUIS AGUSAN DEL SUR"
+scope = "Local"
+dateFiled = "1996-01-26"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117478
+congress = 10
+bill_no = "HR00424"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Natural Resources on Jan. 31, 1996."
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-01-30"

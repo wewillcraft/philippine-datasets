@@ -1,0 +1,49 @@
+billNumber = "HB08145"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08145"
+lastScraped = "2025-09-22T00:20:58.910105"
+title = "HB08145"
+longTitle = "AN ACT DECLARING THE RIGHTS OF PATIENTS AND PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF"
+scope = "National"
+dateFiled = "1996-10-09"
+status = "Pending with the Committee on HEALTH since 1996-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "GORDON, JAMES JR.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GORDON, JAMES JR."
+nameCode = "Gordon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-10-11"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 114566
+congress = 10
+bill_no = "HB08145"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-10-11"

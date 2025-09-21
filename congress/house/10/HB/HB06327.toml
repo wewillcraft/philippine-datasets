@@ -1,0 +1,46 @@
+billNumber = "HB06327"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06327"
+lastScraped = "2025-09-22T00:20:58.538513"
+title = "HB06327"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING IN MAMBIRANAN GRANDE ELEMENTARY SCHOOL, BARANGAY MAMBIRANAN GRANDE, MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112748
+congress = 10
+bill_no = "HB06327"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-26"

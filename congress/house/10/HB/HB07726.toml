@@ -1,0 +1,46 @@
+billNumber = "HB07726"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07726"
+lastScraped = "2025-09-22T00:20:58.790027"
+title = "HB07726"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE AKLAN CHILDREN'S WELFARE CENTER IN THE MUNICIPALITY OF KALIBO, PROVINCE OF AKLAN, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-09"
+status = "Pending with the Committee on SOCIAL SERVICES since 1996-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1996-08-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114147
+congress = 10
+bill_no = "HB07726"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1996-08-14"

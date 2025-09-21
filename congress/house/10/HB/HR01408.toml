@@ -1,0 +1,63 @@
+billNumber = "HR01408"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01408"
+lastScraped = "2025-09-22T00:20:59.694811"
+title = "HR01408"
+longTitle = "RESOLUTION URGING THE SUPREME COURT TO REQUIRE ALL COURTS TO EXPEDITE RESOLUTION OF ALL PENDING CRIMINAL CASES AFFECTING PUBLIC FIGURES, ESPECIALLY THOSE SEEKING HIGH PUBLIC OFFICES"
+scope = "National"
+dateFiled = "1997-10-21"
+status = "Pending with the Committee on JUSTICE since 1997-10-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "CALALAY, REYNALDO A.", "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-10-30"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 118462
+congress = 10
+bill_no = "HR01408"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-10-30"

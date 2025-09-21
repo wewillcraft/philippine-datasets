@@ -1,0 +1,46 @@
+billNumber = "HB09372"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09372"
+lastScraped = "2025-09-22T00:20:59.154160"
+title = "HB09372"
+longTitle = "AN ACT CREATING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SOLSONA, PROVINCE OF ILOCOS NORTE, TO BE KNOWN AS THE SOLSONA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-07"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-13"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115793
+congress = 10
+bill_no = "HB09372"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-05-13"

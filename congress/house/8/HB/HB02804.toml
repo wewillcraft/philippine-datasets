@@ -1,0 +1,42 @@
+billNumber = "HB02804"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02804"
+lastScraped = "2025-09-22T00:46:57.058122"
+title = "HB02804"
+longTitle = "AN ACT PROVIDING FOR THE NATIONALIZATION OF THE DRUG INDUSTRY"
+scope = "National"
+dateFiled = "1987-10-14"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-10-16"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 137493
+congress = 8
+bill_no = "HB02804"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1987-10-16"

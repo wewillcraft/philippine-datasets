@@ -1,0 +1,55 @@
+billNumber = "HR00849"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00849"
+lastScraped = "2025-09-22T00:20:59.585357"
+title = "HR00849"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON EXPORT PROMOTION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE STATUS OF THE PRIVATIZATION PROGRAM OF THE TRADE AND PROMOTION FUNCTIONS OF THE DEPARTMENT OF TRADE AND INDUSTRY, PURSUANT TO PROVISION OF REPUBLIC ACT NO. 7844 (EXPORT DEVELOPMENT ACT OF 1994)"
+scope = "National"
+dateFiled = "1996-09-12"
+status = "Pending with the Committee on RULES since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 117903
+congress = 10
+bill_no = "HR00849"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Trade and Industry and the Special Ctte."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-23"

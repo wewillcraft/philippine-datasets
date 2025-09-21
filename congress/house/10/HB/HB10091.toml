@@ -1,0 +1,57 @@
+billNumber = "HB10091"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10091"
+lastScraped = "2025-09-22T00:20:59.312001"
+title = "HB10091"
+longTitle = "AN ACT CONVERTING THE ALFONSO LISTA-AGUINALDO PROVINCIAL ROAD LOCATED IN BARANGAYS UBAO, CHALAO, MONGAYAN, AWAYAN, DAMAG, JACMAL,TAANG, BUNHIAN, AND BOTAC, MUNICIPALITY OF AGUINALDO, PROVINCE OF IFUGAO INTO  A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-09"
+status = "Bill reported out 1998-04-03 (#01549)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-10-14"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116512
+congress = 10
+bill_no = "HB10091"
+report = "01549"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-10-14"
+date_report = "1998-04-03"

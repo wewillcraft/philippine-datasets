@@ -1,0 +1,42 @@
+billNumber = "HB13838"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13838"
+lastScraped = "2025-09-22T00:25:57.156037"
+title = "HB13838"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF ALL BARANGAYS IN THE MUNICIPALITY OF IGUIG, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-09-26"
+status = "Pending with the Committee on ENERGY since 1994-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mamba"
+[[authorsDetail]]
+name = "Mamba"
+nameCode = "Mamba"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-09-29"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132447
+congress = 9
+bill_no = "HB13838"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-09-29"

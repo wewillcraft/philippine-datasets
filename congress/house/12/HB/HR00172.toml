@@ -1,0 +1,42 @@
+billNumber = "HR00172"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00172"
+lastScraped = "2025-09-22T00:13:01.175340"
+title = "HR00172"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CARRY THROUGH, PURSUE AND CONTINUE WITH THE CONDUCT OF ITS INVESTIGATION RELATIVE TO THE PRIVILEGE SPEECH OF CONGRESSMAN HARLIN CAST. ABAYON ENTITLED `THE VULTURES ARE HERE' DELIVERED DURING THE 11TH CONGRESS AND REFERRED TO THE COMMITTEE ON GOOD GOVERNMENT"
+scope = "Local"
+dateFiled = "2001-09-05"
+status = "Pending with the Committee on RULES since 2001-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abayon, Harlin C."
+[[authorsDetail]]
+name = "Abayon, Harlin C."
+nameCode = "Abayon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-09-24"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 90111
+congress = 12
+bill_no = "HR00172"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-09-24"

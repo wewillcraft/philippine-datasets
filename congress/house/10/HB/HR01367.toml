@@ -1,0 +1,46 @@
+billNumber = "HR01367"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01367"
+lastScraped = "2025-09-22T00:20:59.687600"
+title = "HR01367"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO INQUIRE INTO, IN AID OF LEGISLATION, THE CAUSES OF THE MISHAP WHICH INVOLVED THE AUGUSTA SF-800 AIRCRAFT OF THE PHILIPPINE NATIONAL POLICE"
+scope = "Local"
+dateFiled = "1997-09-23"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-09-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 118421
+congress = 10
+bill_no = "HR01367"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-09-30"

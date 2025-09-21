@@ -1,0 +1,47 @@
+billNumber = "HR00319"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00319"
+lastScraped = "2025-09-21T23:55:22.602873"
+title = "HR00319"
+longTitle = "A RESOLUTION\r\n\r\nURGING THE HOUSE OF REPRESENTATIVES THROUGH ITS APPROPRIATE\r\nCOMMITTEES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON\r\nTHE ALLEGED CORRUPTION IN BENGUET ELECTRIC COOPERATIVE"
+scope = "National"
+dateFiled = "2022-08-30"
+status = "Pending with the Committee on ENERGY since 2022-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00319.pdf"
+fileSize = 301100
+author = "Marcoleta, Rodante D."
+[[authorsDetail]]
+name = "Marcoleta, Rodante D."
+nameCode = "Marcoleta"
+date = "2022-08-30"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 16863
+congress = 19
+bill_no = "HR00319"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-09-14"
+date_read = "2022-09-05"

@@ -1,0 +1,52 @@
+billNumber = "HB00985"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB00985"
+lastScraped = "2025-09-22T00:13:48.027215"
+title = "Milkfeeding Act of 2004"
+longTitle = "AN ACT INSTITUTIONALIZING THE NATIONAL MILK FEEDING PROGRAM AND PROVIDING FOR A MILKFEEDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2004-07-01"
+status = "Pending with the Committee on HEALTH since 2004-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB00985.pdf"
+fileSize = 43717393
+author = "Acosta, J.R. Nereus O."
+[[authorsDetail]]
+name = "Acosta, J.R. Nereus O."
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2004-07-28"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 76075
+congress = 13
+bill_no = "HB00985"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-07-28"
+date_read = "2004-07-28"

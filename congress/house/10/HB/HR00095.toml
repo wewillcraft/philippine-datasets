@@ -1,0 +1,50 @@
+billNumber = "HR00095"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00095"
+lastScraped = "2025-09-22T00:20:59.441487"
+title = "HR00095"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES COMMITTEES ON FOREIGN AFFAIRS, TOURISM, AND JUSTICE TO JOINTLY INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED RISING INCIDENCE OF SEXUAL EXPLOITATION, ESPECIALLY CHILD PROSTITUTION, FOR TOURISM PURPOSES WITH THE AIM OF FINDING OUT HOW THIS CAN BE STOPPED THROUGH COOPERATIVE ARRANGEMENTS WITH GOVERNMENTS OF THE FOREIGN OFFENDERS"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117149
+congress = 10
+bill_no = "HR00095"
+comm_act = "Change of Referal from the Ctte. on Rules to the Ctte. on Foreign Affairs on Aug. 15, 1995."
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1995-08-14"

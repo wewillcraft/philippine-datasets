@@ -1,0 +1,61 @@
+billNumber = "HB06684"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06684"
+lastScraped = "2025-09-21T23:55:21.343788"
+title = "HB06684"
+longTitle = "AN ACT EXPANDING THE RESEACRCH INSTITUTE FOR TROPICAL MEDICINE, AND\r\nFOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-12-14"
+status = "Pending with the Committee on HEALTH since 2022-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06684.pdf"
+fileSize = 205977
+author = "Reyes, Ray T."
+coAuthors = [ "RIVERA, BONG", "LEE, WILBERT T.",]
+[[authorsDetail]]
+name = "Reyes, Ray T."
+nameCode = "Reyes"
+date = "2022-12-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-03-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-09-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-12-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 11603
+congress = 19
+bill_no = "HB06684"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-12-15"

@@ -1,0 +1,55 @@
+billNumber = "HB06834"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06834"
+lastScraped = "2025-09-22T00:25:55.854379"
+title = "HB06834"
+longTitle = "AN ACT AUTHORIZING THE PHILIPPINE NATIONAL OIL COMPANY (PNOC) TO MAKE ITS OWN OIL EXPLORATIONS IN THE COUNTRY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on ENERGY since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125453
+congress = 9
+bill_no = "HB06834"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-02-02"

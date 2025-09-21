@@ -1,0 +1,64 @@
+billNumber = "HR00200"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00200"
+lastScraped = "2025-09-22T00:47:02.564445"
+title = "HR00200"
+longTitle = "RESOLUTION FOR AN INQUIRY, IN AID OF LEGISLATION,INT O THE REVELATIONS MADE BY COMMISSIONER MARY CONCEPCION BAUTISTA OF PCGG INTO THE ABUSE OF POWERSOF SOME OF THE OFFICERS OF PCGG"
+scope = "National"
+dateFiled = "1987-08-25"
+status = "Pending with the Committee on JUSTICE since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+coAuthors = [ "WEBB, FREDDIE N.", "DAYANGHIRANG, ENRICO G.", "ANDOLANA, GREGORIO A.",]
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DAYANGHIRANG, ENRICO G."
+nameCode = "Dayanghirang"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 170102
+congress = 8
+bill_no = "HR00200"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-08-26"

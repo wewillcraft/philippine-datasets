@@ -1,0 +1,63 @@
+billNumber = "HB09989"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09989"
+lastScraped = "2025-09-22T00:20:59.284434"
+title = "HB09989"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED EIGHTY HUNDRED AND FORTY-EIGHT, OTHERWISE KNOWN AS THE 'COCONUT PRESERVATION ACT OF 1995,' FOR THE PURPOSE OF DECLARING A MORATORIUM ON THE CUTTING OF COCONUT TREES UNTIL THE YEAR 2000"
+scope = "National"
+dateFiled = "1997-09-25"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "AUMENTADO, ERICO B.", "DEJON, TEMISTOCLES SR. S.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-10-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116410
+congress = 10
+bill_no = "HB09989"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-10-01"

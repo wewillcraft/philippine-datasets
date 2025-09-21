@@ -1,0 +1,82 @@
+billNumber = "HB01054"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01054"
+lastScraped = "2025-09-21T23:56:40.745902"
+title = "HB01054"
+longTitle = "AN ACT ESTABLISHING A HOSPITAL FOR TEACHERS AND THEIR DEPENDENTS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2010-07-08"
+status = "Pending with the Committee on HEALTH since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01054.pdf"
+fileSize = 580560
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "EVARDONE, BEN PAGARAN", "SARMIENTO, CESAR VERGARA", "CASTELO, WINSTON TAQUEBAN", "CAJAYON, MARY MITZI LIM", "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "EVARDONE, BEN PAGARAN"
+nameCode = "Evardone"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, CESAR VERGARA"
+nameCode = "Sarmiento (C.)"
+date = ""
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J049"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CAJAYON, MARY MITZI LIM"
+nameCode = "Cajayon"
+date = ""
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 56526
+congress = 15
+bill_no = "HB01054"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

@@ -1,0 +1,47 @@
+billNumber = "HB00631"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00631"
+lastScraped = "2025-09-22T00:25:54.710880"
+title = "HB00631"
+longTitle = "AN ACT ESTABLISHING A MUSEUM IN THE MUNICIPALITY OF TALISAY, PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119250
+congress = 9
+bill_no = "HB00631"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-08-12"

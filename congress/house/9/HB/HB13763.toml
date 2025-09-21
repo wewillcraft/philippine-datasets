@@ -1,0 +1,42 @@
+billNumber = "HB13763"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13763"
+lastScraped = "2025-09-22T00:25:57.140258"
+title = "HB13763"
+longTitle = "AN ACT DECLARING THE CITY OF SURIGAO A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1994-09-19"
+status = "Pending with the Committee on TOURISM since 1994-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-09-22"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132372
+congress = 9
+bill_no = "HB13763"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-09-22"

@@ -1,0 +1,67 @@
+billNumber = "HR00760"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00760"
+lastScraped = "2025-09-22T00:20:59.568378"
+title = "HR00760"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON LOCAL GOVERNMENT AND ON PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO LOOK INTO THE YEARLY FLOODING PROBLEM IN METRO MANILA AND TO FORMULATE REMEDIAL MEASURES BY STRENGTHENING CONCERNED LAWS"
+scope = "Local"
+dateFiled = "1996-08-05"
+status = "Pending with the Committee on RULES since 1996-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+coAuthors = [ "VILLAREAL, JULITA L.", "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[firstReading]
+id = 117814
+congress = 10
+bill_no = "HR00760"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Local Government and on Public Works an"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-07"

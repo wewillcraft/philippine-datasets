@@ -1,0 +1,42 @@
+billNumber = "HB04835"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04835"
+lastScraped = "2025-09-22T00:25:55.525706"
+title = "HB04835"
+longTitle = "AN ACT DESIGNATING THE PRESIDENT OF THE SENATE, THE SPEAKER OF THE HOUSE OF REPRESENTATIVES , THE SENATE MINORITY LEADER AND THE HOUSE MINORITY LEADER AS ADDITIONAL PERMANENT MEMBERS OF THE NATIONAL SECURITY COUNCIL"
+scope = "National"
+dateFiled = "1992-11-16"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-11-18"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 123454
+congress = 9
+bill_no = "HB04835"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-11-18"

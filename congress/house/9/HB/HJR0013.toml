@@ -1,0 +1,50 @@
+billNumber = "HJR0013"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HJR0013"
+lastScraped = "2025-09-22T00:25:57.363240"
+title = "HJR0013"
+longTitle = "JOINT RESOLUTION AFFIRMING THE NATIONAL POLICY ON THE LAW OF THE SEA"
+scope = "National"
+dateFiled = "1993-05-19"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1993-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1993-05-24"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 133301
+congress = 9
+bill_no = "HJR0013"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1993-05-24"

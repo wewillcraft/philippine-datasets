@@ -1,0 +1,42 @@
+billNumber = "HB14099"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14099"
+lastScraped = "2025-09-22T00:25:57.209596"
+title = "HB14099"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY SAN JOSE, MUNICIPALITY OF TALISAY, PROVINCE OF CAMARINES NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-11-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-11-14"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132708
+congress = 9
+bill_no = "HB14099"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-11-14"

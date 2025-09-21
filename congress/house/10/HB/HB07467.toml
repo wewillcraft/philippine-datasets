@@ -1,0 +1,54 @@
+billNumber = "HB07467"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07467"
+lastScraped = "2025-09-22T00:20:58.746619"
+title = "HB07467"
+longTitle = "AN ACT CREATING A DEPARTMENT OF MARITIME AFFAIRS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-07-05"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "CANDAZO, ROMEO C.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CANDAZO, ROMEO C."
+nameCode = "Candazo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113888
+congress = 10
+bill_no = "HB07467"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1996-07-24"

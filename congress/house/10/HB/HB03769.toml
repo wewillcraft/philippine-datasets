@@ -1,0 +1,46 @@
+billNumber = "HB03769"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03769"
+lastScraped = "2025-09-22T00:20:58.072562"
+title = "HB03769"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF LALA, PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE LALA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-25"
+status = "Pending with the Committee on HEALTH since 1995-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-28"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110190
+congress = 10
+bill_no = "HB03769"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-09-28"

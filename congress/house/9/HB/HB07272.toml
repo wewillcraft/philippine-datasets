@@ -1,0 +1,62 @@
+billNumber = "HB07272"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07272"
+lastScraped = "2025-09-22T00:25:55.927236"
+title = "HB07272"
+longTitle = "AN ACT PROVIDING INCENTIVES TO INVESTORS ENGAGED IN POWER GENERATING PROJECTS"
+scope = "National"
+dateFiled = "1993-02-09"
+status = "Pending with the Committee on ENERGY since 1993-02-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+coAuthors = [ "RAMIREZ, JOSE T.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-02-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 125891
+congress = 9
+bill_no = "HB07272"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-02-15"

@@ -1,0 +1,61 @@
+billNumber = "HB04815"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04815"
+lastScraped = "2025-09-22T00:20:58.265169"
+title = "HB04815"
+longTitle = "AN ACT CREATING THE NATIONAL RICE SAFETY COUNCIL, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-31"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "QUIMPO, ALLEN S.",]
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-11-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111236
+congress = 10
+bill_no = "HB04815"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-11-08"

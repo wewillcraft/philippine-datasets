@@ -1,0 +1,50 @@
+billNumber = "HB12482"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12482"
+lastScraped = "2025-09-22T00:25:56.905275"
+title = "HB12482"
+longTitle = "AN ACT INSTITUTING A NATIONAL HEALTH CARE PROGRAM FOR ALL FILIPINOS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1994-04-15"
+status = "Pending with the Committee on HEALTH since 1994-04-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-04-20"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131097
+congress = 9
+bill_no = "HB12482"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-04-20"

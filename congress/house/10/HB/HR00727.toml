@@ -1,0 +1,47 @@
+billNumber = "HR00727"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00727"
+lastScraped = "2025-09-22T00:20:59.562376"
+title = "HR00727"
+longTitle = "RESOLUTION DIRECTING THE SUB-COMMITTEE ON FOREST RESOURCES OF THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, OF THE LOGS, LUMBERS AND OTHER NATURAL RESOURCES PRODUCTS SEIZED, CONFISCATED AND/OR ABANDONED/DISPOSED OF IN FAVOR OR BY THE GOVERNMENT OR ANY OF ITS INSTRUMENTALITI ES DURING THE PERIOD 1986 TO 1996, REQUIRING A FULL ACCOUNTING THEREOF FROM THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES (DENR), THE NATURAL RESOURCES DEVELOPMENT CORPORATION(NRDC), THE NATIONAL TREASURY, AND THE COMMISSION ON AUDIT"
+scope = "National"
+dateFiled = "1996-07-24"
+status = "Pending with the Committee on RULES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 117781
+congress = 10
+bill_no = "HR00727"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Natural Resources on July 30 , 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-29"

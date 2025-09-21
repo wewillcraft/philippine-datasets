@@ -1,0 +1,43 @@
+billNumber = "HR00987"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00987"
+lastScraped = "2025-09-22T00:25:57.549645"
+title = "HR00987"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON REVISION OF LAWS OF THE HOUSE OF REPRESENTATIVES TO REVIEW ALL EXISTING EXECUTIVE FIAT, INCLUDING IMPLEMENTING RULES AND REGULATIONS PROMULGATED BY VARIOUS AGENCIES IN THE EXECUTIVE DEPARTMENT WHICH PARTAKE OF THE NATURE OF A LAW"
+scope = "National"
+dateFiled = "1994-03-15"
+status = "Pending with the Committee on REVISION OF LAWS since 1994-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lizardo"
+[[authorsDetail]]
+name = "Lizardo"
+nameCode = "Lizardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1994-03-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134294
+congress = 9
+bill_no = "HR00987"
+comm_act = "Change of referral from the Committee on Rules(J.71 ,p.10)"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1994-03-21"

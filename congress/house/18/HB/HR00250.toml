@@ -1,0 +1,55 @@
+billNumber = "HR00250"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00250"
+lastScraped = "2025-09-22T00:01:47.384031"
+title = "HR00250"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE, IN AID OF LEGISLATION, ON THE UNABATED INFLUX OF CHINESE NATIONALS IN THE PHILIPPINES AND RELATED ISSUES ON PHILIPPINE LABOR LAWS, NATIONAL SECURITY AND NATIONAL SOVEREIGNTY"
+scope = "National"
+dateFiled = "2019-08-20"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00250.pdf"
+fileSize = 735076
+author = "Escudero, Evelina G."
+coAuthors = [ "RAMOS, MA. BERNARDITA B.",]
+[[authorsDetail]]
+name = "Escudero, Evelina G."
+nameCode = "Escudero"
+date = "2019-08-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RAMOS, MA. BERNARDITA B."
+nameCode = "Ramos"
+date = "2019-10-08"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2019-08-28"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 30578
+congress = 18
+bill_no = "HR00250"
+report = ""
+comm_act = ""
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-28"

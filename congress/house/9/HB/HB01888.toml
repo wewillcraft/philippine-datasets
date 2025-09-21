@@ -1,0 +1,62 @@
+billNumber = "HB01888"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01888"
+lastScraped = "2025-09-22T00:25:54.931846"
+title = "HB01888"
+longTitle = "AN ACT AUTHORIZING THE CEMENTING OF THE BARCELONA-STA. TERESA ROAD IN THE MUNICIPALITY OF TUBAO, PROVINCE OF LA UNION"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+coAuthors = [ "ORTEGA, VICTOR F.", "VERGARA, BERNARDO M.",]
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, VICTOR F."
+nameCode = "Ortega"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120507
+congress = 9
+bill_no = "HB01888"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-03"

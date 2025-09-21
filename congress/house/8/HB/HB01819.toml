@@ -1,0 +1,42 @@
+billNumber = "HB01819"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01819"
+lastScraped = "2025-09-22T00:46:56.880645"
+title = "HB01819"
+longTitle = "AN ACT ESTABLISHING AN OFFICE OR AN AGENCY OF THEBUREAU OF LAND TRANSPORTATION IN THE MUNICIPALITYOF TALIBON, PROVINCE OF BOHOL"
+scope = "Local"
+dateFiled = "1987-09-22"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-09-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136510
+congress = 8
+bill_no = "HB01819"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-09-28"

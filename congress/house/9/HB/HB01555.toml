@@ -1,0 +1,47 @@
+billNumber = "HB01555"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01555"
+lastScraped = "2025-09-22T00:25:54.876946"
+title = "HB01555"
+longTitle = "AN ACT ESTABLISHING AN ORCHIDS AND ANTHURIUM RESEARCH, TRAINING  AND DISPERSAL CENTER IN THE MUNICIPALITY OF PAGSANJAN, PROVINCE OF LAGUNA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120174
+congress = 9
+bill_no = "HB01555"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-31"

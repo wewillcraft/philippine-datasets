@@ -1,0 +1,46 @@
+billNumber = "HB10509"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10509"
+lastScraped = "2025-09-22T00:20:59.397692"
+title = "HB10509"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL AT BARANGAY CAMAMAN-AN, CAGAYAN DE ORO CITY, TO BE KNOWN AS THE CAMAMAN-AN NATIONAL HIGH SCHOOL, AND APPROPRIATIONG FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-02-02"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1998-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-02-04"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116929
+congress = 10
+bill_no = "HB10509"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1998-02-04"

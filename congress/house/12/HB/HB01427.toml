@@ -1,0 +1,80 @@
+billNumber = "HB01427"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01427"
+lastScraped = "2025-09-22T00:13:00.061746"
+title = "Upgrading the Tarlac Sub-District Engineering Office as Tarlac Second Engineering District"
+longTitle = "AN ACT UPGRADING THE TARLAC SUB-DISTRICT ENGINEERING OFFICE INTO A REGULAR DISTRICT ENGINEERING OFFICE TO BE KNOWN AS THE TARLAC SECOND ENGINEERING DISTRICT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-25"
+status = "Approved by the House on 2002-05-08, transmitted to on 2002-05-13 and received by the Senate on 2002-05-14"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lapus"
+coAuthors = [ "ZIALCITA, EDUARDO C.",]
+[[authorsDetail]]
+name = "Lapus"
+nameCode = "Lapus"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84587
+congress = 12
+bill_no = "HB01427"
+report = "00340"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendments"
+date_read = "2001-07-31"
+date_ob = "2002-04-15"
+date_report = "2002-03-13"
+
+[secondReading]
+id = 14187
+congress = 12
+bill_no = "HB01427"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks."
+date_approved = "2002-04-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4743
+congress = 12
+bill_no = "HB01427"
+date_dist = "2002-04-24"
+date_adopt = "2002-05-08"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "2002-05-13"
+date_rec = "2002-05-14"

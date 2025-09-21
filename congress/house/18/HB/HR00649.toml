@@ -1,0 +1,47 @@
+billNumber = "HR00649"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00649"
+lastScraped = "2025-09-22T00:01:47.455689"
+title = "HR00649"
+longTitle = "AN URGENT RESOLUTION CALLING FOR AN INQUIRY IN AID OF LEGISLATION ON THE DECISION OF THE INTER-AGENCY TECHNICAL WORKING GROUP TO EXTEND THE PILOT IMPLEMENTATION OF MOTORCYCLE TAXIS"
+scope = "National"
+dateFiled = "2020-01-20"
+status = "Pending with the Committee on TRANSPORTATION since 2020-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00649.pdf"
+fileSize = 853435
+author = "Lim, Aloy"
+[[authorsDetail]]
+name = "Lim, Aloy"
+nameCode = "Lim"
+date = "2020-01-20"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2020-01-20"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 30968
+congress = 18
+bill_no = "HR00649"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-02-18"
+date_read = "2020-01-20"

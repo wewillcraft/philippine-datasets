@@ -1,0 +1,42 @@
+billNumber = "HR01450"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01450"
+lastScraped = "2025-09-22T00:47:02.811430"
+title = "HR01450"
+longTitle = "RESOLUTION PROVIDING EACH STANDING COMMITTEE IN THE HOUSE OF REPRESENTATIVES WITH COMPETENT RESEARCH STAFF"
+scope = "Local"
+dateFiled = "1989-09-06"
+status = "Pending with the Committee on ACCOUNTS since 1989-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "501"
+dateRead = "1989-09-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171315
+congress = 8
+bill_no = "HR01450"
+referral = "501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "1989-09-06"

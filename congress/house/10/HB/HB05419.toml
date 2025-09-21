@@ -1,0 +1,46 @@
+billNumber = "HB05419"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05419"
+lastScraped = "2025-09-22T00:20:58.371026"
+title = "HB05419"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN ICE PLANT IN THE MUNICIPALITY OF PRES. GARCIA, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-04"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-12-07"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111840
+congress = 10
+bill_no = "HB05419"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-12-07"

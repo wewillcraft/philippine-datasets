@@ -1,0 +1,42 @@
+billNumber = "HB00109"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00109"
+lastScraped = "2025-09-22T00:46:56.569812"
+title = "HB00109"
+longTitle = "AN ACT ESTABLISHING A VOCATIONAL TRAINING CENTER AT BARANGAY BATIN-AY, MUNICIPALITY OF PROSPERIDAD,PRO VINCE OF AGUSAN DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-08-05"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 134807
+congress = 8
+bill_no = "HB00109"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-08-05"

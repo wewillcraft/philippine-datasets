@@ -1,0 +1,78 @@
+billNumber = "HB06483"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06483"
+lastScraped = "2025-09-22T00:25:55.796907"
+title = "HB06483"
+longTitle = "AN ACT ESTABLISHING A TEN-BED CAPACITY EMERGENCY HOSPITAL IN THE MUNICIPALITY OF DIADI, PROVINCE OF NUEVA VIZCAYA, TO BE KNOWN AS THE DIADI EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-19"
+status = "REPUBLIC ACT (RA07956) enacted on 1995-03-29"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-01-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125102
+congress = 9
+bill_no = "HB06483"
+report = "00622"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1993-01-25"
+date_ob = "1994-04-13"
+date_cal = "1994-04-13"
+date_unass = "1994-04-13"
+date_report = "1994-04-06"
+
+[secondReading]
+id = 19394
+congress = 9
+bill_no = "HB06483"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-04-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1661
+congress = 9
+bill_no = "HB06483"
+date_dist = "1994-04-25"
+date_adopt = "1994-05-16"
+no_yeas = 164
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-05-17"
+date_rec = "1994-05-26"
+date_agram = "1995-02-07"
+amend_ind = "Y"
+act_pres = "A"
+dte_actedp = "1995-03-29"

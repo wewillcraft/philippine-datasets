@@ -1,0 +1,56 @@
+billNumber = "HB02769"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02769"
+lastScraped = "2025-09-22T00:20:57.879201"
+title = "HB02769"
+longTitle = "AN ACT BANNING CIGARETTES/CIGA RS SMOKING IN CERTAIN PUBLIC PLACES"
+scope = "National"
+dateFiled = "1995-08-23"
+status = "Substituted by HB06680"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "DRAGON, RENATO P.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 109190
+congress = 10
+bill_no = "HB02769"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-29"

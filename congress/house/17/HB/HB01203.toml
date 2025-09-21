@@ -1,0 +1,76 @@
+billNumber = "HB01203"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01203"
+lastScraped = "2025-09-21T23:55:44.311166"
+title = "HB01203"
+longTitle = "AN ACT PROMOTING SUSTAINABLE TRANSPORTATION SYSTEM AND ALTERNATIVE MODES OF TRANSPORTATION AND OTHER MOBILITY OPTIONS TO IMPROVE AIR QUALITY, INCREASE EFFICIENCY, REDUCE CONGESTION AND CONTRIBUTE TO POSITIVE HEALTH IMPACTS IN OUR SOCIETY"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on TRANSPORTATION since 2017-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01203.pdf"
+fileSize = 1109158
+author = "Sarmiento, Cesar V."
+coAuthors = [ "VIOLAGO, MICALEA S.", "BATOCABE, RODEL M.", "SUANSING, GING", "VELARDE, MARIANO MICHAEL JR. M.",]
+[[authorsDetail]]
+name = "Sarmiento, Cesar V."
+nameCode = "Sarmiento (C.)"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-05"
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-31"
+journalNo = "J064"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2017-08-01"
+journalNo = "J005"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "VELARDE, MARIANO MICHAEL JR. M."
+nameCode = "Velarde"
+date = "2018-10-10"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 34671
+congress = 17
+bill_no = "HB01203"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-02-08"
+date_read = "2016-08-01"

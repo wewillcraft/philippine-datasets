@@ -1,0 +1,46 @@
+billNumber = "HB01347"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01347"
+lastScraped = "2025-09-21T23:39:48.563598"
+title = "HB01347"
+longTitle = "AN ACT RENAMING THE VETERANS MEMORIAL MEDICAL CENTER (VMMC) LOCATED IN DILIMAN, QUEZON CITY TO VETERANS MEDICAL CENTER (VMC)"
+scope = "Local"
+dateFiled = "2025-07-07"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01347.pdf"
+fileSize = 954286
+author = "SUAN, LORDAN G."
+[[authorsDetail]]
+name = "SUAN, LORDAN G."
+nameCode = "Suan"
+date = "2025-07-07"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 1348
+congress = 103
+bill_no = "HB01347"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

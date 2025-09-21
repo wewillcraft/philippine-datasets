@@ -1,0 +1,57 @@
+billNumber = "HB00123"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00123"
+lastScraped = "2025-09-22T00:25:54.614426"
+title = "HB00123"
+longTitle = "AN ACT LIBERALIZING THE RULE OF RECIPROCITY IN THE GRANT OF CERTAIN AIR TRAFFIC RIGHTS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-07-15"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "DRAGON, RENATO P.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 118742
+congress = 9
+bill_no = "HB00123"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-07-28"

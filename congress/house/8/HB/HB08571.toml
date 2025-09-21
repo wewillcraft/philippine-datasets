@@ -1,0 +1,42 @@
+billNumber = "HB08571"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08571"
+lastScraped = "2025-09-22T00:46:58.115747"
+title = "HB08571"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY SAN JOSE, MUNICIPALITY OF SAN LUIS, PROVINCE OF AURORA, TO BE KNOWN AS SAN JOSE BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on HEALTH since 1988-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Miran"
+[[authorsDetail]]
+name = "Miran"
+nameCode = "Miran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-06-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 143248
+congress = 8
+bill_no = "HB08571"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-06-05"

@@ -1,0 +1,61 @@
+billNumber = "HB00872"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00872"
+lastScraped = "2025-09-22T00:20:57.523402"
+title = "HB00872"
+longTitle = "AN ACT PRESCRIBING A NEW RATE FOR THE INSTRUCTIONAL AID ALLOWANCES FOR PUBLIC SCHOOL TEACHERS"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "QUIMPO, ALLEN S.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107293
+congress = 10
+bill_no = "HB00872"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-27"

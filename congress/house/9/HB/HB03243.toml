@@ -1,0 +1,47 @@
+billNumber = "HB03243"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03243"
+lastScraped = "2025-09-22T00:25:55.169884"
+title = "HB03243"
+longTitle = "AN ACT CONVERTING THE BUKIDNON STATE COLLEGE EXTERNAL STUDIES IN THE CITY OF GINGOOG, PROVINCE OF MISAMIS ORIENTAL, INTO GINGOOG COMMUNITY COLLEGE"
+scope = "Local"
+dateFiled = "1992-10-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121862
+congress = 9
+bill_no = "HB03243"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-07"

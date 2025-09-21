@@ -1,0 +1,55 @@
+billNumber = "HCR0032"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0032"
+lastScraped = "2025-09-22T00:20:59.414206"
+title = "HCR0032"
+longTitle = "CONCURRENT RESOLUTION APPROVING THE TRANSFER AND ASSIGNMENT OF FRANCHISE GRANTED TO SOUTHERN BROADCASTING NETWORK UNDER REPUBLIC ACT NUMBERED EIGHT THOUSAND ONE HUNDRED FORTY-SEVEN IN FAVOR OF SOUTHERN BROADCASTING NETWORK, INC."
+scope = "Local"
+dateFiled = "1996-10-21"
+status = "Consigned to the Archives on 1997-08-13"
+statusOrder = 2.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yulo"
+[[authorsDetail]]
+name = "Yulo"
+nameCode = "Yulo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 117003
+congress = 10
+bill_no = "HCR0032"
+report = "00654"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "Adoption"
+date_read = "1996-11-04"
+date_report = "1996-11-13"
+
+[secondReading]
+id = 18886
+congress = 10
+bill_no = "HCR0032"
+adopted_resolution = "CR00020"
+remarks = "Passed by the Senate without amendments on Aug. 7, 1997."
+date_calendared = "1996-11-14"
+date_approved = "1996-11-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

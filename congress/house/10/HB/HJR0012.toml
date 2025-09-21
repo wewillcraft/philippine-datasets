@@ -1,0 +1,46 @@
+billNumber = "HJR0012"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0012"
+lastScraped = "2025-09-22T00:20:59.421109"
+title = "HJR0012"
+longTitle = "JOINT RESOLUTION CREATING A LEGISLATIVE TASK FORCE TO REVIEW ALL EXISTING EXECUTIVE ISSUANCE WITH THE NATURE AND FORCE OF LAW, INCLUDING IMPLEMENTING RULES AND REGULATIONS PROMULGATED BY VARIOUS AGENCIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHERPURPOSES"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on RULES since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "principal"
+referralCode = "0507"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 117039
+congress = 10
+bill_no = "HJR0012"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-26"

@@ -1,0 +1,77 @@
+billNumber = "HB09876"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09876"
+lastScraped = "2025-09-22T00:20:59.261154"
+title = "HB09876"
+longTitle = "AN ACT TO HASTEN TITLING OF RESIDENTIAL LANDS OF THE PUBLIC DOMAIN BY AUTHORIZING THE GRANT OF FREE PATENT UNDER CERTAIN CONDITIONS AND PROVIDING FOR EXPEDITIOUS CADASTRAL AND OTHER JUDICIAL PROCEEDINGS WITH RESPECT THERETO AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-08-25"
+status = "Business for the day on 1998-01-21"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+coAuthors = [ "APOSTOL, SERGIO A. F.", "JUSTICE",]
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "APOSTOL, SERGIO A. F."
+nameCode = "Apostol"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JUSTICE"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-08-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB08062"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08062"
+flag = "S"
+
+[firstReading]
+id = 116297
+congress = 10
+bill_no = "HB09876"
+report = "01030"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-08-26"
+date_ob = "1997-08-26"
+date_unass = "1997-10-14"
+date_report = "1997-08-25"
+
+[secondReading]
+id = 18755
+congress = 10
+bill_no = "HB09876"
+date_calendared = "1998-01-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,52 @@
+billNumber = "HB08592"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB08592"
+lastScraped = "2025-09-22T00:01:46.740832"
+title = "HB08592"
+longTitle = "AN ACT CREATING A VACCINE PASSPORT PROGRAM, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2021-02-01"
+status = "Pending with the Committee on HEALTH since 2021-03-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB08592.pdf"
+fileSize = 1989827
+author = "Salvador-Tambunting, Joy Myra"
+[[authorsDetail]]
+name = "Salvador-Tambunting, Joy Myra"
+nameCode = "Salvador-Tambunting"
+date = "2021-02-01"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-02-02"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "secondary"
+referralCode = "E504"
+
+[firstReading]
+id = 27997
+congress = 18
+bill_no = "HB08592"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-03-02"
+date_read = "2021-02-02"

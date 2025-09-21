@@ -1,0 +1,42 @@
+billNumber = "HB12510"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12510"
+lastScraped = "2025-09-22T00:25:56.909481"
+title = "HB12510"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A HEALTH CENTER IN BARANGAY MASIGA IN THE MUNICIPALITY OF GASAN, PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-04-18"
+status = "Pending with the Committee on HEALTH since 1994-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-04-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131125
+congress = 9
+bill_no = "HB12510"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-04-21"

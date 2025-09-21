@@ -1,0 +1,55 @@
+billNumber = "HB00089"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00089"
+lastScraped = "2025-09-21T23:55:20.076744"
+title = "HB00089"
+longTitle = "AN ACT PROMOTING THE RESEARCH AND DEVELOPMENT OF DEUTERIUM AS A POSSIBLE SOURCE OF ALTERNATIVE ENERGY, CREATING THE PHILIPPINE DEUTERIUM RESEARCH AND DEVELOPMENT AUTHORITY, PROVIDING FUNDS THEREFORE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on NUCLEAR ENERGY since 2022-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00089.pdf"
+fileSize = 4406666
+author = "Barbers, Robert Ace S."
+coAuthors = [ "ACHARON, LORETO B.",]
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = "2022-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ACHARON, LORETO B."
+nameCode = "Acharon"
+date = "2022-08-08"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "primary"
+referralCode = "K501"
+dateRead = "2022-07-26"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 5008
+congress = 19
+bill_no = "HB00089"
+report = ""
+comm_act = ""
+referral = "K501"
+ref_name = "NUCLEAR ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-08-16"
+date_read = "2022-07-26"

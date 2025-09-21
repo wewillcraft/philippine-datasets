@@ -1,0 +1,42 @@
+billNumber = "HR00300"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00300"
+lastScraped = "2025-09-22T00:47:02.585153"
+title = "HR00300"
+longTitle = "RESOLUTION URGING THE RE-OPENING OF JAI ALAI (BASQUE PELOTA) GAMES AS A MAJOR ATTRACTION FOR TOURISTS AND AS A POTENTIAL SOURCE OF GOVERNMENT REVENUE"
+scope = "National"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "514"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 170200
+congress = 8
+bill_no = "HR00300"
+referral = "514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1987-09-15"

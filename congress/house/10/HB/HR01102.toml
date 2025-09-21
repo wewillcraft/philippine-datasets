@@ -1,0 +1,41 @@
+billNumber = "HR01102"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01102"
+lastScraped = "2025-09-22T00:20:59.638365"
+title = "HR01102"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT A PROBE ON THE ALLEGED COLLUSION BETWEEN THE PHILIPPINE STOCK EXCHANGE (PSE) AND SOME BROKERAGE HOUSES ON ILLEGAL TRADING AND BROKERAGE PRACTICES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-02-19"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-02-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-02-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118156
+congress = 10
+bill_no = "HR01102"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-02-24"

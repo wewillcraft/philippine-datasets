@@ -1,0 +1,63 @@
+billNumber = "HR00007"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00007"
+lastScraped = "2025-09-22T00:25:57.368475"
+title = "HR00007"
+longTitle = "RESOLUTION URGING HIS EXCELLENCY, FIDEL V. RAMOS, TO GRANT GENERAL AND UNCONDITIONAL AMNESTY TO ALL REBELS AND POLITICAL OFFENDERS EXCEPT THOSE WITH PENDING CASES PUNISHABLE BY CAPITAL PUNISHMENT"
+scope = "National"
+dateFiled = "1992-07-17"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "TUAZON, RODOLFO T.", "SOON-RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TUAZON, RODOLFO T."
+nameCode = "Tuazon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON S."
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-07-29"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 133319
+congress = 9
+bill_no = "HR00007"
+comm_act = "Joint referral per memo dated July 27, 1993"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-07-29"

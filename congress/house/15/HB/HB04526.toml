@@ -1,0 +1,54 @@
+billNumber = "HB04526"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB04526"
+lastScraped = "2025-09-21T23:56:41.394888"
+title = "HB04526"
+longTitle = "AN ACT CREATING THE NATIONAL STRATEGIC PETROLEUM RESERVE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2011-04-07"
+status = "Pending with the Committee on ENERGY since 2011-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB04526.pdf"
+fileSize = 78893
+author = "Ty, Arnel U."
+coAuthors = [ "AUMENTADO, ERICO BOYLES",]
+[[authorsDetail]]
+name = "Ty, Arnel U."
+nameCode = "Ty"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO BOYLES"
+nameCode = "Aumentado"
+date = ""
+journalNo = "J066"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2011-05-09"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 59998
+congress = 15
+bill_no = "HB04526"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2011-05-09"

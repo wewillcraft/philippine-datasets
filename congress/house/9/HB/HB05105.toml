@@ -1,0 +1,55 @@
+billNumber = "HB05105"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05105"
+lastScraped = "2025-09-22T00:25:55.571049"
+title = "HB05105"
+longTitle = "AN ACT INCREASING THE HONORARIUM OF ALL BARANGAY OFFICIALS THROUGHOUT THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123724
+congress = 9
+bill_no = "HB05105"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-11-25"

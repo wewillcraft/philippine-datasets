@@ -1,0 +1,42 @@
+billNumber = "HR00478"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00478"
+lastScraped = "2025-09-22T00:20:59.510670"
+title = "HR00478"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED 'MIDNIGHT SALE' OF A GOVERNMENT-RUN SUGAR REFINERY IN THE PROVINCE OF BUKIDNON"
+scope = "Local"
+dateFiled = "1996-02-16"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1996-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1996-02-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117532
+congress = 10
+bill_no = "HR00478"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Good Government on Feb. 21, 1996."
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1996-02-21"

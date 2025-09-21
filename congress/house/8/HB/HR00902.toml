@@ -1,0 +1,42 @@
+billNumber = "HR00902"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00902"
+lastScraped = "2025-09-22T00:47:02.701844"
+title = "HR00902"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ETHICS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION ON THE PROCEDURES FOR THE PROCESSING OF PAPERS AND DOCUMENTS RELATIVE TO THE INFRASTRUCTURE PROJECTS UNDERTAKEN BY THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYSWITH THE VIEW TO MINIMIZING RED TAPE"
+scope = "National"
+dateFiled = "1988-09-02"
+status = "Pending with the Committee on ETHICS since 1988-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1988-09-07"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170782
+congress = 8
+bill_no = "HR00902"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1988-09-07"

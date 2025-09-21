@@ -1,0 +1,63 @@
+billNumber = "HB07245"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07245"
+lastScraped = "2025-09-22T00:20:58.706168"
+title = "HB07245"
+longTitle = "AN ACT DEPORTING, WITHOUT THE NECESSARY HEARING, ALL ALIENS FOUND TO BE A CARRIER OF THE HUMAN IMMUNODEFICIENC Y VIRUS (HIV) OR AFFLICTED WITH ACQUIRED IMMUNODEFICIENC Y SYNDROME (AIDS)"
+scope = "National"
+dateFiled = "1996-06-03"
+status = "Pending with the Committee on JUSTICE since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 113666
+congress = 10
+bill_no = "HB07245"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-06-05"

@@ -1,0 +1,47 @@
+billNumber = "HB01433"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01433"
+lastScraped = "2025-09-22T00:25:54.851505"
+title = "HB01433"
+longTitle = "AN ACT CREATING THE PROVINCE OF ZAMBOANGA OCCIDENTAL"
+scope = "Local"
+dateFiled = "1992-08-24"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabilao, Belma A."
+[[authorsDetail]]
+name = "Cabilao, Belma A."
+nameCode = "Cabilao"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120052
+congress = 9
+bill_no = "HB01433"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-27"

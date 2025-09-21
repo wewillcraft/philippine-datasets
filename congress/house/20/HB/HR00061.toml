@@ -1,0 +1,46 @@
+billNumber = "HR00061"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00061"
+lastScraped = "2025-09-21T23:39:49.206946"
+title = "HR00061"
+longTitle = "HOUSE RESOLUTION URGING THE HOUSE COMMITTEE ON HIGHER AND TECHNICAL\r\nEDUCATION AND OTHER APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE IMPLEMENTATION OF REPUBLIC ACT (R.A.) NO. 10931 OR THE UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT, OTHERWISE KNOWN AS THE FREE HIGHER EDUCATION LAW"
+dateFiled = "2025-07-21"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00061.pdf"
+fileSize = 257651
+author = "RIDON, TERRY L."
+[[authorsDetail]]
+name = "RIDON, TERRY L."
+nameCode = "Ridon"
+date = "2025-07-21"
+sequence = 1
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4617
+congress = 103
+bill_no = "HR00061"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-13"
+date_read = "2025-07-30"

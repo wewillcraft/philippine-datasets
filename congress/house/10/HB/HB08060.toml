@@ -1,0 +1,46 @@
+billNumber = "HB08060"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08060"
+lastScraped = "2025-09-22T00:20:58.890901"
+title = "HB08060"
+longTitle = "AN ACT ESTABLISHING A BRANCH OFFICE OF THE REGISTER OF DEEDS OF LAGUNA, WITH PERMANENT STATION IN THE MUNICIPALITY OF STA. ROSA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-01"
+status = "Pending with the Committee on JUSTICE since 1996-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-10-07"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114481
+congress = 10
+bill_no = "HB08060"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-10-07"

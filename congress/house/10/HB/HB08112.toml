@@ -1,0 +1,46 @@
+billNumber = "HB08112"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08112"
+lastScraped = "2025-09-22T00:20:58.901056"
+title = "HB08112"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY HEALTH STATION IN BARANGAY CAMBULO, MUNICIPALITY OF BANAUE, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-08"
+status = "Pending with the Committee on HEALTH since 1996-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114533
+congress = 10
+bill_no = "HB08112"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-10-10"

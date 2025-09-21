@@ -1,0 +1,42 @@
+billNumber = "HR00226"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00226"
+lastScraped = "2025-09-22T00:13:01.186852"
+title = "HR00226"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON AGRICULTURE, FOOD AND FISHERIES TO RE-EXAMINE THE NATIONAL FOOD AUTHORITY'S CONSUMER SUBSIDY AND RICE PRICES STABILIZATION PROGRAMS WHICH MAY HAVE INADVERTENTLY AND UNDULY RESTRICTED THE INCOME OF RICE FARMERSAND SUBSIDIZED EVEN THE UNDERSERVING CONSUMERS"
+scope = "National"
+dateFiled = "2001-10-01"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua, Junie E."
+[[authorsDetail]]
+name = "Cua, Junie E."
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 90165
+congress = 12
+bill_no = "HR00226"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-10-09"

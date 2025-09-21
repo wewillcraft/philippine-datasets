@@ -1,0 +1,46 @@
+billNumber = "HB01666"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01666"
+lastScraped = "2025-09-22T00:20:57.660166"
+title = "HB01666"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TEN-BED CAPACITY INFIRMARY IN THE MUNICIPALITY OF DAGAMI, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on HEALTH since 1995-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-07"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108087
+congress = 10
+bill_no = "HB01666"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-07"

@@ -1,0 +1,42 @@
+billNumber = "HR00127"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00127"
+lastScraped = "2025-09-22T00:25:57.390663"
+title = "HR00127"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE MOVE TO PROMOTE FOOD IRRADIATION IN THE PHILIPPINES AND TO SEEK MORATORIUM ON FURTHER USE OR DEVELOPMENT OF FOOD IRRADIATION UNTIL THERE IS SATISFACTORY RESOLUTION ON THE ISSUES OF SAFETY, NUTRITITON, LABELLING AND DETECTION"
+scope = "National"
+dateFiled = "1992-08-28"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dureza"
+[[authorsDetail]]
+name = "Dureza"
+nameCode = "Dureza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 133439
+congress = 9
+bill_no = "HR00127"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-31"

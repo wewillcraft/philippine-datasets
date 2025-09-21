@@ -1,0 +1,74 @@
+billNumber = "HB02349"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02349"
+lastScraped = "2025-09-22T00:13:48.265395"
+title = "Free Medicines for the Poor Act"
+longTitle = "AN ACT ESTABLISHING A FREE MEDICINE ASSISTANCE PROGRAM FOR THE POOR AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2004-08-11"
+status = "Pending with the Committee on HEALTH since 2004-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02349.pdf"
+fileSize = 1304999
+author = "BIRON, FERJENEL G., MD"
+coAuthors = [ "CHATTO, EDGARDO M.", "FIGUEROA, CATALINO V.", "MARCOLETA, RODANTE D.",]
+[[authorsDetail]]
+name = "BIRON, FERJENEL G., MD"
+nameCode = "Biron"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MARCOLETA, RODANTE D."
+nameCode = "Marcoleta"
+date = ""
+journalNo = "J001"
+sessionNo = "2SS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2004-08-17"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 77439
+congress = 13
+bill_no = "HB02349"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-08-17"
+date_read = "2004-08-17"

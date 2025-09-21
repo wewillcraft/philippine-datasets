@@ -1,0 +1,68 @@
+billNumber = "HB02281"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02281"
+lastScraped = "2025-09-21T23:55:44.543521"
+title = "HB02281"
+longTitle = "AN ACT DECLARING THE SPRATLY GROUP OF ISLANDS AS A PROTECTED AREA UNDER THE NATIONAL INTEGRATED PROTECTED AREAS SYSTEM ACT OF 1992"
+scope = "Local"
+dateFiled = "2016-08-01"
+status = "Pending with the Committee on NATURAL RESOURCES since 2016-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02281.pdf"
+fileSize = 1093522
+author = "Roque, Harry Jr. L."
+coAuthors = [ "CUEVA, LEO RAFAEL M.", "NIETO, YUL SERVO", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Roque, Harry Jr. L."
+nameCode = "Roque (H.)"
+date = "2016-08-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2016-08-23"
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2016-08-30"
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-08-01"
+journalNo = "J005"
+sessionNo = "2RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2016-08-08"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 35749
+congress = 17
+bill_no = "HB02281"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-08"

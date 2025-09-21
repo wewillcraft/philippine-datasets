@@ -1,0 +1,54 @@
+billNumber = "HB08345"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08345"
+lastScraped = "2025-09-22T00:20:58.946524"
+title = "HB08345"
+longTitle = "AN ACT CONVERTING THE MARINDUQUE PROVINCIAL HOSPITAL IN THE PROVINCE OF MARINDUQUE INTO AN EXTENSION OF THE BATANGAS REGIONAL HOSPITAL, FURHTER INCREASING ITS BED CAPACITY TO THREE HUNDRED-BED HOSPITAL UNDER THE CONTROL AND SUPERVISION OF THE NATIONAL GOVERNMENT TO BE KNOWN AS THE MARINDUQUE MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-11-05"
+status = "Pending with the Committee on HEALTH since 1996-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-11-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114766
+congress = 10
+bill_no = "HB08345"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-11-11"

@@ -1,0 +1,64 @@
+billNumber = "HB02005"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02005"
+lastScraped = "2025-09-22T00:13:00.163642"
+title = "HB02005"
+longTitle = "AN ACT CLARIFYING ISSUES ON PARALLEL IMPORTATION AND DISTRIBUTION OF FOOD PRODUCTS AND MEDICINES IN THE COUNTRY"
+scope = "National"
+dateFiled = "2001-08-03"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gunigundo"
+coAuthors = [ "ESPINO, AMADO JR. T.", "SOON-RUIZ, NERISSA CORAZON", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Gunigundo"
+nameCode = "Gunigundo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON"
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = "J066"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 85165
+congress = 12
+bill_no = "HB02005"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "2001-08-13"

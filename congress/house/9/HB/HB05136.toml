@@ -1,0 +1,47 @@
+billNumber = "HB05136"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05136"
+lastScraped = "2025-09-22T00:25:55.577265"
+title = "HB05136"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE KALINGA-APAYAO PROVINCIAL HOSPITAL FROM ONE HUNDRED TO ONE HUNDRED FIFTY BED CAPACITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-24"
+status = "Pending with the Committee on HEALTH since 1992-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-26"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123755
+congress = 9
+bill_no = "HB05136"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-26"

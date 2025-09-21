@@ -1,0 +1,46 @@
+billNumber = "HB02071"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02071"
+lastScraped = "2025-09-22T00:20:57.739523"
+title = "HB02071"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A CITY MUSEUM IN THE CITY OF DAVAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108492
+congress = 10
+bill_no = "HB02071"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-15"

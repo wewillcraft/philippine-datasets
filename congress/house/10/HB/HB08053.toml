@@ -1,0 +1,71 @@
+billNumber = "HB08053"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08053"
+lastScraped = "2025-09-22T00:20:58.889818"
+title = "HB08053"
+longTitle = "AN ACT CONVERTING THE MULAWIN-TALA BARANGAY ROADS IN THE FIRST DISTRICT OF BATAAN (ORANI) INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-01"
+status = "Approved by the House on 1997-10-20, transmitted to on 1997-10-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-03"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114474
+congress = 10
+bill_no = "HB08053"
+report = "01097"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-10-03"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 18560
+congress = 10
+bill_no = "HB08053"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3152
+congress = 10
+bill_no = "HB08053"
+date_dist = "1997-10-09"
+date_adopt = "1997-10-20"
+no_yeas = 149
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-21"
+date_rec = "1997-10-23"

@@ -1,0 +1,42 @@
+billNumber = "HB08117"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08117"
+lastScraped = "2025-09-22T00:46:58.018584"
+title = "HB08117"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY BAYOG IN THE MUNICIPALITY OF LOS BANOS, PROVINCE OFLAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-25"
+status = "Pending with the Committee on HEALTH since 1988-04-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-28"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 142795
+congress = 8
+bill_no = "HB08117"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-28"

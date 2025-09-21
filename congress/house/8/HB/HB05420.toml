@@ -1,0 +1,42 @@
+billNumber = "HB05420"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05420"
+lastScraped = "2025-09-22T00:46:57.502130"
+title = "HB05420"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CEMENTING OF M. DE LA FUENTE STREET IN SAMPALOC (4TH DISTRICT), MANILA"
+scope = "Local"
+dateFiled = "1988-02-11"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1988-02-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1988-02-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 140102
+congress = 8
+bill_no = "HB05420"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1988-02-16"

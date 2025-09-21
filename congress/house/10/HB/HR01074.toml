@@ -1,0 +1,47 @@
+billNumber = "HR01074"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01074"
+lastScraped = "2025-09-22T00:20:59.633565"
+title = "HR01074"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ABSENCE OR LACK OF A CONSISTENT, COMPREHENSIVE AND EQUITABLE POLICY AND A WORKABLE AND ORGANIZED PROCEDURE IN THE PURCHASEAND ACQUISITION OF LOTS OF RESETTLERS OF THE SAPANG PALAY RESETTLEMENT AREA, SAN JOSE DEL MONTE, BULACAN"
+scope = "Local"
+dateFiled = "1997-02-05"
+status = "Pending with the Committee on RULES since 1997-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[firstReading]
+id = 118128
+congress = 10
+bill_no = "HR01074"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Housing and Urban Developmen t on Feb. 11"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-10"

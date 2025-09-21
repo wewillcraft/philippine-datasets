@@ -1,0 +1,47 @@
+billNumber = "SCR0061"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=SCR0061"
+lastScraped = "2025-09-22T00:47:03.034140"
+title = "SCR0061"
+longTitle = "CONCURRENT RESOLUTION EXTENDING THE SESSION FOR THE FIFTH REGULAR SESSION OF THE CONGRESS OF THE PHILIPPINES UNTIL FEBRUARY 7, 1992, AMENDING FOR THE PURPOSE SENATE CONCURRENT RESOLUTION NO. 55"
+scope = "Local"
+dateFiled = "1992-01-01"
+status = "Adopted as Resolution No. CRO034 on 1992-02-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romulo"
+[[authorsDetail]]
+name = "Romulo"
+nameCode = "Romulo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1992-02-05"
+
+[firstReading]
+id = 172330
+congress = 8
+bill_no = "SCR0061"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-02-05"
+
+[secondReading]
+id = 21704
+congress = 8
+bill_no = "SCR0061"
+adopted_resolution = "CRO034"
+date_calendared = "1992-02-05"
+date_approved = "1992-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

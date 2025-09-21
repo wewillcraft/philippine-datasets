@@ -1,0 +1,76 @@
+billNumber = "HB01432"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01432"
+lastScraped = "2025-09-22T00:13:00.062574"
+title = "HB01432"
+longTitle = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE NATIONAL MAPPING AND RESOURCE INFORMATION AUTHORITY (NAMRIA)"
+scope = "National"
+dateFiled = "2001-07-25"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 2001-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Solis, Jose G."
+coAuthors = [ "ZIALCITA, EDUARDO C.", "VILLARAMA, WILFRIDO", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Solis, Jose G."
+nameCode = "Solis"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARAMA, WILFRIDO"
+nameCode = "Villarama"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J067"
+sessionNo = "2RS"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84592
+congress = 12
+bill_no = "HB01432"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = ""
+date_read = "2001-07-31"

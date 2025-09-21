@@ -1,0 +1,56 @@
+billNumber = "HB07179"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07179"
+lastScraped = "2025-09-22T00:20:58.694460"
+title = "HB07179"
+longTitle = "AN ACT GRANTING A ONE STEP SALARY INCREASE TO GOVERNMENT EMPLOYEES SIX MONTHS BEFORE COMPULSORY RETIREMENT AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-05-29"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 113600
+congress = 10
+bill_no = "HB07179"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-06-03"

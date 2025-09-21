@@ -1,0 +1,47 @@
+billNumber = "HB02833"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02833"
+lastScraped = "2025-09-22T00:25:55.097951"
+title = "HB02833"
+longTitle = "AN ACT ESTABLISHING A TEN (10)-BED HOSPITAL IN THE MUNICIPALITY OF BINAN, PROVINCE OF LAGUNA, TO BE KNOWN AS THE BINAN MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-21"
+status = "Pending with the Committee on HEALTH since 1992-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121452
+congress = 9
+bill_no = "HB02833"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-29"

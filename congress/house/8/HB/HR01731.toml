@@ -1,0 +1,42 @@
+billNumber = "HR01731"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01731"
+lastScraped = "2025-09-22T00:47:02.874200"
+title = "HR01731"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO INVESTIGATE, IN AID OF LEGISLATION, THE ANOMALOUS RELEASE OF A SHIPLOAD OF SHIPMENT, CONSISTING OF ONE (1) LOT FEEDMILL MACHINERY AND EQUIPMENT BY AN IMPORTER FROM THE BUREAU OF CUSTOMS, DESPITE ITS PREVIOUS FORFEITURE AND UPON PAYMENT OF ABOUT P2.8 MILLION THOUGH THE REDEMPTION VALUE IS EARLIER PLACED AT P59.9 MILLION"
+scope = "National"
+dateFiled = "1990-04-24"
+status = "Pending with the Committee on WAYS AND MEANS since 1990-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Robles"
+[[authorsDetail]]
+name = "Robles"
+nameCode = "Robles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1990-05-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171572
+congress = 8
+bill_no = "HR01731"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1990-05-09"

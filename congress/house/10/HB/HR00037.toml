@@ -1,0 +1,49 @@
+billNumber = "HR00037"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00037"
+lastScraped = "2025-09-22T00:20:59.431818"
+title = "HR00037"
+longTitle = "RESOLUTION REQUESTING THE HONORABLE MEMBERS OF THE HOUSE OF REPRESENTATIVES TO GRANT A CONGRESSIONAL AWARD OR PLAQUE OF HONOR TO SPO1 LEONARDO SAN DIEGO OF THE WESTERN POLICE DISTRICT COMMAND, WHO WAS KILLED WHILE IN THE PERFORMANCE OF HIS DUTY LASTJULY 10, 1995"
+scope = "Local"
+dateFiled = "1995-07-19"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117091
+congress = 10
+bill_no = "HR00037"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-07-31"

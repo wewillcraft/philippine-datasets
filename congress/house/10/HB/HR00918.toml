@@ -1,0 +1,70 @@
+billNumber = "HR00918"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00918"
+lastScraped = "2025-09-22T00:20:59.598112"
+title = "HR00918"
+longTitle = "RESOLUTION EXPRESSING STRONG SUPPORT FOR THE REQUEST OF THE BUREAU OF FOOD AND DRUGS FOR ADDITIONAL APPROPRIATION FOR 1997"
+scope = "National"
+dateFiled = "1996-10-16"
+status = "Pending with the Committee on HEALTH since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "MONFORT, NARCISO D.", "VIOLAGO, ELEUTERIO R.", "COLAMBO, FELIZARDO R.", "RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "COLAMBO, FELIZARDO R."
+nameCode = "Colambo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117972
+congress = 10
+bill_no = "HR00918"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-11-04"

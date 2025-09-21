@@ -1,0 +1,46 @@
+billNumber = "HB00355"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00355"
+lastScraped = "2025-09-22T00:20:57.441288"
+title = "HB00355"
+longTitle = "AN ACT ESTABLISHING A FIVE (5)-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MATUGUINAO, PROVINCE OF SAMAR TO BE KNOWN AS THE MATUGUINAO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-06"
+status = "Pending with the Committee on HEALTH since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106776
+congress = 10
+bill_no = "HB00355"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-26"

@@ -1,0 +1,80 @@
+billNumber = "HR01109"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01109"
+lastScraped = "2025-09-22T00:20:59.640012"
+title = "HR01109"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON PUBLIC ORDER AND SECURITY, JUSTICE AND HUMAN RIGHTS TO JOINTLY CONDUCT AN INQUIRY INTO THE KILLING OF JOLO BISHOP BENJAMIN DE JESUS"
+scope = "Local"
+dateFiled = "1997-02-19"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-02-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tulawie"
+coAuthors = [ "ANDOLANA, GREGORIO A.", "TAMMANG, ASANI S.", "MONTILLA, ANGEL O.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Tulawie"
+nameCode = "Tulawie"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAMMANG, ASANI S."
+nameCode = "Tammang"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTILLA, ANGEL O."
+nameCode = "Montilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-02-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 118163
+congress = 10
+bill_no = "HR01109"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-02-24"

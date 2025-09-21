@@ -1,0 +1,46 @@
+billNumber = "HB08257"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08257"
+lastScraped = "2025-09-22T00:20:58.929610"
+title = "HB08257"
+longTitle = "AN ACT ESTABLISHING THE LUCBAN HIGH SCHOOL AT BAGUIO CITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-17"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114678
+congress = 10
+bill_no = "HB08257"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-11-04"

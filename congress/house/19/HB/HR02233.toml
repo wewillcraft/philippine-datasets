@@ -1,0 +1,89 @@
+billNumber = "HR02233"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR02233"
+lastScraped = "2025-09-21T23:55:23.012681"
+title = "HR02233"
+longTitle = "RESOLUTION CONGRATULATING THE PHILIPPINE ACADEMY OF REHABILITATION MEDICINE ON ITS 50TH ANNIVERSARY AND COMMENDING ITS SIGNIFICANT CONTRIBUTION IN OPTIMIZING THE FUNCTION AND RAISING THE QUALITY OF LIFE OF PERSONS WITH DISABILITIES"
+scope = "National"
+dateFiled = "2025-02-06"
+status = "Adopted as Resolution No. HR00321 on 2025-06-09"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Miguel, Peter B."
+[[authorsDetail]]
+name = "Miguel, Peter B."
+nameCode = "Miguel"
+date = "2025-02-06"
+sequence = 1
+
+[[authorsDetail]]
+name = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+nameCode = "Gato"
+date = "2025-02-06"
+sequence = 2
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2025-06-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01702"
+sequence = 1
+date = "2025-02-06"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01702"
+sequence = 1
+date = "2025-02-06"
+flag = "S"
+
+[firstReading]
+id = 18778
+congress = 19
+bill_no = "HR02233"
+report = "01434"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "HEALTH"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1702"
+remarks = ""
+file = "CR01434.pdf"
+date_read = "2025-06-02"
+date_ob = "2025-06-02"
+date_report = "2025-02-06"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR01434.pdf"
+
+[secondReading]
+id = 1661
+congress = 19
+bill_no = "HR02233"
+adopted_resolution = "HR00321"
+adopted_resolution_title = "RESOLUTION CONGRATULATING THE PHILIPPINE ACADEMY OF REHABILITATION MEDICINE ON ITS 50TH ANNIVERSARY AND COMMENDING ITS SIGNIFICANT CONTRIBUTION IN OPTIMIZING THE FUNCTION AND RAISING THE QUALITY OF LIFE OF PERSONS WITH DISABILITIES"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2025-06-04"
+date_approved = "2025-06-09"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR02233.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_19/HR02233.pdf"

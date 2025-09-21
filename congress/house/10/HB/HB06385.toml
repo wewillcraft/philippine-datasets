@@ -1,0 +1,72 @@
+billNumber = "HB06385"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06385"
+lastScraped = "2025-09-22T00:20:58.548120"
+title = "HB06385"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN THE BARANGAY OF SAN VICENTE, MUNICIPALITY OF KATIPUNAN, PROVINCE OF ZAMBOANGA DEL NORTE, TO BE KNOWN AS THE TEOTIMO Z. OCHOTORENA HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-26"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Llorente"
+[[authorsDetail]]
+name = "Llorente"
+nameCode = "Llorente"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-28"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112806
+congress = 10
+bill_no = "HB06385"
+report = "00785"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1996-02-28"
+date_ob = "1997-02-20"
+date_report = "1997-02-19"
+
+[secondReading]
+id = 18346
+congress = 10
+bill_no = "HB06385"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2945
+congress = 10
+bill_no = "HB06385"
+date_dist = "1997-03-03"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"
+amend_ind = "N"

@@ -1,0 +1,47 @@
+billNumber = "HB10599"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10599"
+lastScraped = "2025-09-22T00:25:56.517262"
+title = "HB10599"
+longTitle = "AN ACT PROVIDING EMERGENCY EMPLOYMENT FOR WORKERS DISPLACED BY THE ELECTRIC POWER CRISIS, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1993-08-31"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1993-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1993-09-06"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129217
+congress = 9
+bill_no = "HB10599"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1993-09-06"

@@ -1,0 +1,42 @@
+billNumber = "HB11346"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11346"
+lastScraped = "2025-09-22T00:46:58.561191"
+title = "HB11346"
+longTitle = "AN ACT APPROPRIATING TWO MILLION PESOS FOR THE CONSTRUCTION OF A SEAWALL ALONG THE SHORELINES OF THE POBLACION OF THE MUNICIPALITY OF BARCELONA, PROVINCE OF SORSOGON"
+scope = "Local"
+dateFiled = "1988-05-30"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1988-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1988-06-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 146015
+congress = 8
+bill_no = "HB11346"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1988-06-01"

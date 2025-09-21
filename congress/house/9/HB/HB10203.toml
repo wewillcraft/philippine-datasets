@@ -1,0 +1,47 @@
+billNumber = "HB10203"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10203"
+lastScraped = "2025-09-22T00:25:56.444803"
+title = "HB10203"
+longTitle = "AN ACT ESTABLISHING A POLICY FOR THE REGULATION OF THE MADRASAH SCHOOL, PROVIDING ASSISTANCE FOR THEIR SUPERVISION AND OPERATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-08-05"
+status = "Pending with the Committee on MUSLIM AFFAIRS since 1993-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "primary"
+referralCode = "0523"
+dateRead = "1993-08-10"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128821
+congress = 9
+bill_no = "HB10203"
+referral = "0523"
+ref_name = "MUSLIM AFFAIRS"
+sub_name = ""
+date_read = "1993-08-10"

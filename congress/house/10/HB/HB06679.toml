@@ -1,0 +1,56 @@
+billNumber = "HB06679"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06679"
+lastScraped = "2025-09-22T00:20:58.600849"
+title = "HB06679"
+longTitle = "AN ACT PROVIDING FOR HIGHER PENALTY FOR CRIMES OR OFFENSES WHERE THE OFFENDED PARTY OR COMPLAINANT IS A TOURIST OR TRANSIENT TO BE KNOWN AS 'THE TOURISTS' PROTECTION ACT'"
+scope = "National"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on JUSTICE since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "RAMIREZ, JOSE T.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 113100
+congress = 10
+bill_no = "HB06679"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-03-26"

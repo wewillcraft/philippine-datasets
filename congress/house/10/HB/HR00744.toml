@@ -1,0 +1,47 @@
+billNumber = "HR00744"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00744"
+lastScraped = "2025-09-22T00:20:59.565452"
+title = "HR00744"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON GOVERNOR WAYNE JARO'S PERSONAL TAKE OVER OF BUSALI FARM IN BILIRAN PROVINCE AND ITS INCOME TO THE PREJUDICE OF THE GOVERNMENT AND OF THE TENANT FARMERS, THE BUSALI  FARM BEING A SEQUESTERED PROPERTY OF GOVERNMENT WHICH WAS FORMALLY TURNED OVER BY THE PCGG TO THE DAR FOR DISTRIBUTION TO THE TENANTS"
+scope = "Local"
+dateFiled = "1996-07-31"
+status = "Pending with the Committee on RULES since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117798
+congress = 10
+bill_no = "HR00744"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Good Government on Aug. 7, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-05"

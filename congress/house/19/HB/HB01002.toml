@@ -1,0 +1,68 @@
+billNumber = "HB01002"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01002"
+lastScraped = "2025-09-21T23:55:20.256911"
+title = "HB01002"
+longTitle = "AN ACT REDUCING FOOD WASTE THROUGH FOOD DONATIONS AND FOOD WASTE RECYCLING"
+scope = "National"
+dateFiled = "2022-07-04"
+status = "Pending with the Committee on FOOD SECURITY since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01002.pdf"
+fileSize = 3299448
+author = "PRIMICIAS-AGABAS, MARLYN L."
+coAuthors = [ "ROMUALDO, JURDIN JESUS M.", "RIVERA, BONG", "TEODORO, MARJORIE ANN A.",]
+[[authorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2022-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = "2022-09-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-12-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TEODORO, MARJORIE ANN A."
+nameCode = "Teodoro"
+date = "2024-09-20"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "primary"
+referralCode = "B513"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[firstReading]
+id = 5921
+congress = 19
+bill_no = "HB01002"
+report = ""
+comm_act = ""
+referral = "B513"
+ref_name = "FOOD SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

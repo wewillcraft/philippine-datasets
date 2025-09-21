@@ -1,0 +1,42 @@
+billNumber = "HB00340"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00340"
+lastScraped = "2025-09-22T00:46:56.620346"
+title = "HB00340"
+longTitle = "AN ACT ESTABLISHING HEALTH CENTERS IN ALL BARANGAYS OF EACH MUNICIPALITY IN THE 3RD REPRESENTATIVE DSTRICT OF THE PROVINCE OF BULACAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-13"
+status = "Pending with the Committee on HEALTH since 1987-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-17"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 135037
+congress = 8
+bill_no = "HB00340"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-17"

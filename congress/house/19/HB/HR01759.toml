@@ -1,0 +1,74 @@
+billNumber = "HR01759"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01759"
+lastScraped = "2025-09-21T23:55:22.921955"
+title = "HR01759"
+longTitle = "RESOLUTION CONGRATULATING AND COMMENDING NIJELL T. POTENCIOSO, KHELLY MAE B. VILLARIN, LHORENCE G. SUCANO, AND LEONARD LOUWIN U. MIDEL FOR BRINGING PRIDE AND HONOR TO THE PROVINCE OF CEBU AS TOPNOTCHERS IN THE MARCH 2023 MEDICAL TECHNOLOGIST LICENSURE EXAMINATION\r\n"
+scope = "National"
+dateFiled = "2024-05-28"
+status = "Pending With Rules (Included in OB on 2024-07-29)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RAMA, EDUARDO R."
+[[authorsDetail]]
+name = "RAMA, EDUARDO R."
+nameCode = "Rama"
+date = "2024-05-28"
+sequence = 1
+
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2024-05-28"
+sequence = 2
+
+[[authorsDetail]]
+name = "Mariano-Hernandez, Ruth"
+nameCode = "Mariano-Hernandez"
+date = "2024-05-28"
+sequence = 3
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2024-07-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01017"
+sequence = 1
+date = "2024-05-28"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01017"
+sequence = 1
+date = "2024-05-28"
+flag = "S"
+
+[firstReading]
+id = 18304
+congress = 19
+bill_no = "HR01759"
+report = "01104"
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = "HIGHER AND TECHNICAL EDUCATION"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1017"
+remarks = ""
+file = "CR01104.pdf"
+date_read = "2024-07-29"
+date_ob = "2024-07-29"
+date_report = "2024-05-28"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR01104.pdf"

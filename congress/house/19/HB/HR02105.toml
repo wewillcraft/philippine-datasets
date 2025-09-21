@@ -1,0 +1,51 @@
+billNumber = "HR02105"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR02105"
+lastScraped = "2025-09-21T23:55:22.987647"
+title = "HR02105"
+longTitle = "A RESOLUTION DECLARING A DISASTER AND CLIMATE EMERGENCY, URGING GOVERNMENT AGENCIES TO UNDERTAKE URGENT, PROPORTIONATE, AND RESPONSIVE\r\nACTIONS TO MITIGATE THE HUMANITARIAN AND SOCIAL COSTS OF THE EMERGENCY, AND ORIENTING PHILIPPINE FOREIGN POLICY TOWARDS THE PURSUIT OF CLIMATE JUSTICE"
+scope = "National"
+dateFiled = "2024-11-28"
+status = "Pending with the Committee on DISASTER RESILIENCE since 2024-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR02105.pdf"
+fileSize = 499028
+author = "Salceda, Joey Sarte"
+[[authorsDetail]]
+name = "Salceda, Joey Sarte"
+nameCode = "Salceda"
+date = "2024-11-28"
+sequence = 1
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "primary"
+referralCode = "I504"
+dateRead = "2024-12-02"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "secondary"
+referralCode = "H503"
+
+[firstReading]
+id = 18650
+congress = 19
+bill_no = "HR02105"
+report = ""
+comm_act = ""
+referral = "I504"
+ref_name = "DISASTER RESILIENCE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2024-12-02"

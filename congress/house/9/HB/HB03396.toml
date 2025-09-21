@@ -1,0 +1,47 @@
+billNumber = "HB03396"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03396"
+lastScraped = "2025-09-22T00:25:55.198541"
+title = "HB03396"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A NEW MUNICIPAL BUILDING IN THE MUNICIPALITY OF DUPAX DEL NORTE, PROVINCE OF NUEVA VIZCAYA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122015
+congress = 9
+bill_no = "HB03396"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-12"

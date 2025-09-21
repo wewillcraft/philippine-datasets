@@ -1,0 +1,61 @@
+billNumber = "HR00529"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00529"
+lastScraped = "2025-09-22T00:20:59.522542"
+title = "HR00529"
+longTitle = "RESOLUTION COMMENDING MR. ARTEMIO POSADAS MONIS FOR HIS HONESTY AND TRUSTWORTHINESS"
+scope = "Local"
+dateFiled = "1996-03-11"
+status = "Adopted as Resolution No. HR00034 on 1996-03-11"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-03-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117583
+congress = 10
+bill_no = "HR00529"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-03-11"
+
+[secondReading]
+id = 18965
+congress = 10
+bill_no = "HR00529"
+adopted_resolution = "HR00034"
+date_calendared = "1996-03-11"
+date_approved = "1996-03-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00034.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00034.pdf"

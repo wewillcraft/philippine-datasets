@@ -1,0 +1,75 @@
+billNumber = "HB07898"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07898"
+lastScraped = "2025-09-21T23:55:45.865958"
+title = "HB07898"
+longTitle = "AN ACT PROHIBITING THE IMPOSITION OF INTEREST AND/OR PENALTY CHARGES ON UNPAID HOSPITAL BILLS AND MEDICAL EXPENSES OF PATIENTS WHO EARN MINIMUM WAGE OR LESS"
+scope = "National"
+dateFiled = "2018-07-02"
+status = "Pending with the Committee on HEALTH since 2018-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07898.pdf"
+fileSize = 522124
+author = "Villarica, Linabelle Ruth R."
+coAuthors = [ "DEL MAR, RAUL V.", "VERGARA, ROSANNA \"RIA\"", "CHIPECO, JOAQUIN JR. M.", "SUANSING, GING",]
+[[authorsDetail]]
+name = "Villarica, Linabelle Ruth R."
+nameCode = "Villarica"
+date = "2018-07-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2018-08-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "VERGARA, ROSANNA \"RIA\""
+nameCode = "Vergara"
+date = "2018-09-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2018-10-10"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2018-10-15"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-07-30"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[firstReading]
+id = 41365
+congress = 17
+bill_no = "HB07898"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-07-30"

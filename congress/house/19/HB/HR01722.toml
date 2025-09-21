@@ -1,0 +1,91 @@
+billNumber = "HR01722"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01722"
+lastScraped = "2025-09-21T23:55:22.915898"
+title = "HR01722"
+longTitle = "RESOLUTION CONGRATULATING AND COMMENDING MS. AIRA CASSANDRA SUGUITAN CASTRO, A GRADUATE FROM THE COLLEGE OF MEDICINE OF THE MARIANO MARCOS STATE UNIVERSITY, FOR BEING THE OVERALL TOPNOTCHER IN THE MARCH 2023 PHYSICIAN LICENSURE EXAMINATION AND THE MARIANO MARCOS STATE UNIVERSITY, FOR REGISTERING A HUNDRED PERCENT PASSING RATE IN THE SAME LICENSURE EXAMINATION"
+scope = "National"
+dateFiled = "2024-05-15"
+status = "Pending With Rules (Included in OB on 2024-05-15)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "BARBA, ANGELO MARCOS"
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2024-05-15"
+sequence = 1
+
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2024-05-15"
+sequence = 2
+
+[[authorsDetail]]
+name = "Mariano-Hernandez, Ruth"
+nameCode = "Mariano-Hernandez"
+date = "2024-05-15"
+sequence = 3
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2024-05-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01006"
+sequence = 1
+date = "2024-05-15"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01006"
+sequence = 1
+date = "2024-05-15"
+flag = "S"
+
+[firstReading]
+id = 18267
+congress = 19
+bill_no = "HR01722"
+report = "01081"
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = "HIGHER AND TECHNICAL EDUCATION"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1006"
+remarks = ""
+file = "CR01081.pdf"
+date_read = "2024-05-15"
+date_ob = "2024-05-15"
+date_report = "2024-05-15"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR01081.pdf"
+
+[secondReading]
+id = 1208
+congress = 19
+bill_no = "HR01722"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

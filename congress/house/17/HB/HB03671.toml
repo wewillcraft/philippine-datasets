@@ -1,0 +1,68 @@
+billNumber = "HB03671"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03671"
+lastScraped = "2025-09-21T23:55:44.807552"
+title = "HB03671"
+longTitle = "AN ACT CREATING THE 'SUBSIDY INSURANCE COVERAGE OF CHILDHOOD IMMUNIZATION ACT OF 2016' AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-09-20"
+status = "Pending with the Committee on HEALTH since 2016-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03671.pdf"
+fileSize = 257603
+author = "Tambunting, Gus S."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "DALIPE, MANUEL JOSE M.", "LOBREGAT, CELSO L.",]
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2016-09-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-09-30"
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2016-12-14"
+journalNo = "J056"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, CELSO L."
+nameCode = "Lobregat"
+date = "2017-02-06"
+journalNo = "J066"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-09-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 37139
+congress = 17
+bill_no = "HB03671"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-27"

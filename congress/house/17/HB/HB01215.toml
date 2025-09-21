@@ -1,0 +1,68 @@
+billNumber = "HB01215"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01215"
+lastScraped = "2025-09-21T23:55:44.314568"
+title = "HB01215"
+longTitle = "AN ACT REGULATING THE BUSINESS OPERATION OF MOTORCYCLES-FOR-HIRE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Substituted by HB08959"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01215.pdf"
+fileSize = 426390
+author = "Acharon, Pedro Jr. B."
+coAuthors = [ "ESPINO, AMADO JR.", "CATAMCO, NANCY A.", "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Acharon, Pedro Jr. B."
+nameCode = "Acharon"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR."
+nameCode = "Espino"
+date = "2016-10-17"
+journalNo = "J037"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2018-01-22"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2019-01-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 34683
+congress = 17
+bill_no = "HB01215"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

@@ -1,0 +1,42 @@
+billNumber = "HR01707"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01707"
+lastScraped = "2025-09-22T00:47:02.870488"
+title = "HR01707"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON RULES, TO STUDY IN AID OF LEGISLATION, HOW TO IMPLEMENT THE ALL-EMBRACING SOLUTION TO ALL OUR PROBLEMS OUTLINED IN THE SPONSOR'S LATEST SPEECH ON THE FLOOR OF THE HOUSE"
+scope = "Local"
+dateFiled = "1990-03-22"
+status = "Pending with the Committee on RULES since 1990-03-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-03-22"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 171549
+congress = 8
+bill_no = "HR01707"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-03-22"

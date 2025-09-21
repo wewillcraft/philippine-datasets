@@ -1,0 +1,46 @@
+billNumber = "HB04002"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB04002"
+lastScraped = "2025-09-21T23:39:49.069647"
+title = "HB04002"
+longTitle = "AN ACT DECLARING MOUNT QUIASOG LOCATED IN THE MUNICIPALITY OF LIBON, PROVINCE OF ALBAY, AN ECOTOURISM SITE, PROVIDING FOR ITS CONSERVATION AND MANAGEMENT, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2025-08-26"
+status = "Pending with the Committee on TOURISM since 2025-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB04002.pdf"
+fileSize = 865192
+author = "SALCEDA, ADRIAN E."
+[[authorsDetail]]
+name = "SALCEDA, ADRIAN E."
+nameCode = "Salceda"
+date = "2025-08-26"
+sequence = 1
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2025-08-27"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 4003
+congress = 103
+bill_no = "HB04002"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-27"

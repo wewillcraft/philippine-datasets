@@ -1,0 +1,54 @@
+billNumber = "HB06625"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06625"
+lastScraped = "2025-09-22T00:20:58.591397"
+title = "HB06625"
+longTitle = "AN ACT CONSTITUTING AS REVOLVING FUND FOR THE AGRICULTURAL TRAINING INSTITUTE, DEPARTMENT OF AGRICULTURE"
+scope = "National"
+dateFiled = "1996-03-20"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-03-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-03-25"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113046
+congress = 10
+bill_no = "HB06625"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-03-25"

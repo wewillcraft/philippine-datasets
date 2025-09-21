@@ -1,0 +1,50 @@
+billNumber = "HR01987"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01987"
+lastScraped = "2025-09-22T00:47:02.921182"
+title = "HR01987"
+longTitle = "RESOLUTION URGING THE CHIEF EXECUTIVE TO DIRECT THE APPROPRIATE AGENCY OF THE GOVERNMENT TO RELENTLESSLY PURSUE THE USE OF 'BIOFUELS' SUCH AS COCONUT OIL AND ALCOHOL AS SUBSTITUTE FUEL IN VIEW OF THE OIL CRISIS RESULTING FROM THE MIDDLE EAST"
+scope = "National"
+dateFiled = "1990-10-23"
+status = "Pending with the Committee on ENERGY since 1990-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "YAP, JOSE V.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "YAP, JOSE V."
+nameCode = "Yap"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-11-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171823
+congress = 8
+bill_no = "HR01987"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-11-05"

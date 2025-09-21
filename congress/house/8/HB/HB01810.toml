@@ -1,0 +1,42 @@
+billNumber = "HB01810"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01810"
+lastScraped = "2025-09-22T00:46:56.879239"
+title = "HB01810"
+longTitle = "AN ACT PENALIZING VIOLATIONS OF THE RIGHTS OF A PERSON CHARGED WITH AN OFFENSE OR SUSPECTED OF THE COMMISSION OF AN OFFENSE"
+scope = "National"
+dateFiled = "1987-09-22"
+status = "Pending with the Committee on HUMAN RIGHTS since 1987-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes"
+[[authorsDetail]]
+name = "Reyes"
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "primary"
+referralCode = "519"
+dateRead = "1987-09-28"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 136501
+congress = 8
+bill_no = "HB01810"
+referral = "519"
+ref_name = "HUMAN RIGHTS"
+sub_name = ""
+date_read = "1987-09-28"

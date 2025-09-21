@@ -1,0 +1,46 @@
+billNumber = "HB10228"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10228"
+lastScraped = "2025-09-22T00:20:59.337845"
+title = "HB10228"
+longTitle = "AN ACT PROVIDING FOR THE REPRESENTATION OF THE EXPORTERS' SECTOR IN THE GOVERNING BOARD OF THE PHILIPPINE ECONOMIC ZONE AUTHORITY (PEZA) BOARD AND THE ECOZONE ADVISORY BODIES, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 7916"
+scope = "National"
+dateFiled = "1997-11-04"
+status = "Bill reported out 1997-11-04 (#01256)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-11-10"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[motherBills]]
+bill_no = "HB07033"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB07033"
+flag = "S"
+
+[firstReading]
+id = 116649
+congress = 10
+bill_no = "HB10228"
+report = "01256"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-11-10"
+date_ob = "1997-11-10"
+date_report = "1997-11-04"

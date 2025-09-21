@@ -1,0 +1,59 @@
+billNumber = "HR00422"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00422"
+lastScraped = "2025-09-22T00:13:01.231203"
+title = "Operations of the Philippine Smelting and Refining Corporation (PASAR) and the Philippine Phosphates, Inc. (PHILPHOS)"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES IN THE EXERCISE OF ITS OVERSIGHT FUNCTION TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE GENERAL OPERATIONS OF THE PHILIPPINE ASSOCIATED SMELTING AND REFINING CORPORATION (PASAR) AND THEPHILIPPINE PHOSPATES INC. (PHILPHOS) IN THE LEYTE INDUSTRIAL DEVELOPMENT ESTATE"
+scope = "Local"
+dateFiled = "2002-02-12"
+status = "Adopted Resolution (Pending with the committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2002-03-07)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso, Eduardo K."
+[[authorsDetail]]
+name = "Veloso, Eduardo K."
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-02-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 90360
+congress = 12
+bill_no = "HR00422"
+report = "00288"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-02-18"
+date_report = "2002-03-05"
+
+[secondReading]
+id = 15103
+congress = 12
+bill_no = "HR00422"
+adopted_resolution = "HR00180"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON GOVERNMENT ENTERPRISES AND PRIVATIZATION, IN THE EXERCISE OF ITS OVERSIGHT FUNCTION, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE GENERAL OPERATIONS OF THE PHILIPPINE ASSOCIATED SMELTING AND REFINING CORPORATION (PASAR) AND THE PHILIPPINE PHOSPATES, INC. (PHILPHOS) IN THE LEYTE INDUSTRIAL DEVELOPMENT ESTATE"
+date_calendared = "2002-03-05"
+date_approved = "2002-03-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-03-07"
+file = "HR00180.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00180.pdf"

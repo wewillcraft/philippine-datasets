@@ -1,0 +1,70 @@
+billNumber = "HR01190"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01190"
+lastScraped = "2025-09-22T00:25:57.585854"
+title = "HR01190"
+longTitle = "RESOLUTION CONGRATULATING THE EL SHADDAI PRAYER MOVEMENT UNDER THE LEADERSHIP OF BRO. MARIANO 'MIKE' VELARDE, ITS FOUNDER, ON THE CELEBRATION OF ITS TENTH ANNIVERSARY ON 20 AUGUST 1994"
+scope = "Local"
+dateFiled = "1994-08-22"
+status = "Adopted as Resolution No. HR00086 on 1994-08-31"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+coAuthors = [ "LIBAN, DANTE V.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-08-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 134496
+congress = 9
+bill_no = "HR01190"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-08-24"
+
+[secondReading]
+id = 20183
+congress = 9
+bill_no = "HR01190"
+adopted_resolution = "HR00086"
+remarks = "All Members were made Co-authors"
+date_calendared = "1994-08-31"
+date_approved = "1994-08-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01190.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01190.pdf"

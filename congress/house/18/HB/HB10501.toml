@@ -1,0 +1,46 @@
+billNumber = "HB10501"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10501"
+lastScraped = "2025-09-22T00:01:47.234050"
+title = "HB10501"
+longTitle = "AN ACT ESTABLISHING THE ILOILO CITY GERIATRIC MEDICAL CENTER"
+scope = "Local"
+dateFiled = "2021-11-16"
+status = "Pending with the Committee on HEALTH since 2021-11-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10501.pdf"
+fileSize = 303581
+author = "BARONDA, JULIENNE \"JAM\" L."
+[[authorsDetail]]
+name = "BARONDA, JULIENNE \"JAM\" L."
+nameCode = "Baronda"
+date = "2021-11-16"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-11-22"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 29905
+congress = 18
+bill_no = "HB10501"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-11-22"

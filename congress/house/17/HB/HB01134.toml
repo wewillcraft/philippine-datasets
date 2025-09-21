@@ -1,0 +1,51 @@
+billNumber = "HB01134"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01134"
+lastScraped = "2025-09-21T23:55:44.298759"
+title = "HB01134"
+longTitle = "AN ACT INCREASING THE SPECIAL GROUP TERM INSURANCE COVERAGE FOR THE MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES, INCLUDING THE MEMBERS OF THE PHILIPPINE NATIONAL POLICE, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE 352, AS AMENDED BY PRESIDENTIAL DECREE 1965, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01134.pdf"
+fileSize = 384265
+author = "Alejano, Gary C."
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2016-07-05"
+sequence = 1
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 34602
+congress = 17
+bill_no = "HB01134"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

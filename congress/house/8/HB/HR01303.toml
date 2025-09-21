@@ -1,0 +1,50 @@
+billNumber = "HR01303"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01303"
+lastScraped = "2025-09-22T00:47:02.787207"
+title = "HR01303"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON SCIENCE ANDTECHNOLOGY TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ALLEGED WASTAGE OF PUBLIC FUNDS ALLOCATED TO GOVERNMENT RESEARCH AND DEVELOPMENT EFFORTS AND TO RECOMMEND REMEDIAL MEASURES AS MAY BE NECESSARY"
+scope = "Local"
+dateFiled = "1989-05-19"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1989-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "ESTRELLA, ERNESTO T.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESTRELLA, ERNESTO T."
+nameCode = "Estrella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "534"
+dateRead = "1989-05-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171171
+congress = 8
+bill_no = "HR01303"
+referral = "534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = ""
+date_read = "1989-05-24"

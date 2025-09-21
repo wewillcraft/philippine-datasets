@@ -1,0 +1,46 @@
+billNumber = "HB00060"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00060"
+lastScraped = "2025-09-21T23:56:21.479230"
+title = "HB00060"
+longTitle = "AN ACT ESTABLISHING A TERTIARY PROVINCIAL HOSPITAL IN THE PROVINCE OF SARANGANI TO BE KNOWN AS THE SARANGANI PROVINCIAL HOSPITAL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on HEALTH since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00060.pdf"
+fileSize = 509497
+author = "Pacquiao, Emmanuel D."
+[[authorsDetail]]
+name = "Pacquiao, Emmanuel D."
+nameCode = "Pacquiao"
+date = "2013-07-01"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 45874
+congress = 16
+bill_no = "HB00060"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

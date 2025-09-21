@@ -1,0 +1,47 @@
+billNumber = "HB08801"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08801"
+lastScraped = "2025-09-22T00:25:56.182620"
+title = "HB08801"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER AT BARANGAY RAFAEL CASTILLO IN THE CITY OF DAVAO TO BE KNOWN AS THE RAFAEL CASTILLO BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-26"
+status = "Pending with the Committee on HEALTH since 1993-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-05"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127419
+congress = 9
+bill_no = "HB08801"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-05"

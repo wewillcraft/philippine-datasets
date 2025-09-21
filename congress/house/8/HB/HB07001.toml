@@ -1,0 +1,64 @@
+billNumber = "HB07001"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07001"
+lastScraped = "2025-09-22T00:46:57.840196"
+title = "HB07001"
+longTitle = "AN ACT ESTABLISHING A FIFTEEN-BED CAPACITY EMERGENCY HOSPITAL IN MARANA 1ST IN THE MUNICIPALITY OF ILAGAN, ISABELA, AND APPROPRIATING FUNDS THEREFORAN ACT ESTABLISHING A FIFTEEN-BED CAPACITY EMERGENCY HOSPITAL IN MARANA 1ST IN THE MUNICIPALITY OF ILAGAN, ISABELA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano"
+coAuthors = [ "RESPICIO, SANTIAGO P.", "DOMINGO, SIMPLICIO JR. B.", "ABAYA, ANTONIO M.",]
+[[authorsDetail]]
+name = "Albano"
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DOMINGO, SIMPLICIO JR. B."
+nameCode = "Domingo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 141682
+congress = 8
+bill_no = "HB07001"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

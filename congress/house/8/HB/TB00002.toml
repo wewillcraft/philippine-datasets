@@ -1,0 +1,46 @@
+billNumber = "TB00002"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=TB00002"
+lastScraped = "2025-09-22T00:47:03.034623"
+title = "TB00002"
+longTitle = "TEMPORARY BILL FOR SB00149"
+scope = "National"
+dateFiled = "1989-06-06"
+status = "REPUBLIC ACT (RA06955) enacted on 1990-06-18"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1989-06-07"
+
+[firstReading]
+id = 172333
+congress = 8
+bill_no = "TB00002"
+report = "01053"
+comm_act = "recommending approval in consolidation with HR00013 and HB25492"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1989-06-07"
+
+[secondReading]
+id = 21707
+congress = 8
+bill_no = "TB00002"
+date_approved = "1990-04-05"
+
+[thirdReading]
+id = 1345
+congress = 8
+bill_no = "TB00002"
+date_adopt = "1990-05-15"
+no_yeas = 107
+act_pres = "A"
+dte_actedp = "1990-06-18"

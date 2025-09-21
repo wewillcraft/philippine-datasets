@@ -1,0 +1,75 @@
+billNumber = "HB02404"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02404"
+lastScraped = "2025-09-21T23:55:44.567881"
+title = "HB02404"
+longTitle = "AN ACT CREATING THE NATIONAL FILM ARCHIVE TO BE MANAGED BY THE FILM DEVELOPMENT COUNCIL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-08-03"
+status = "Pending with the Committee on PUBLIC INFORMATION since 2016-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02404.pdf"
+fileSize = 1145480
+author = "Gomez, Lucy T."
+coAuthors = [ "DE VENECIA, CHRISTOPHER P.", "BRAVO, MARIA VIDA E.", "CAYETANO, PIA", "RODRIGUEZ, MAXIMO JR.B.",]
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2016-08-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, CHRISTOPHER P."
+nameCode = "De Venecia"
+date = "2016-09-19"
+journalNo = "J023"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2016-09-27"
+journalNo = "J027"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CAYETANO, PIA"
+nameCode = "Cayetano"
+date = "2016-10-05"
+journalNo = "J033"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR.B."
+nameCode = "Rodriguez (M.)"
+date = "2017-03-15"
+journalNo = "J083"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "2016-08-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 35872
+congress = 17
+bill_no = "HB02404"
+report = ""
+comm_act = ""
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-10"

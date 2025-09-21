@@ -1,0 +1,42 @@
+billNumber = "HB01185"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01185"
+lastScraped = "2025-09-22T00:25:54.807138"
+title = "HB01185"
+longTitle = "AN ACT AMENDING SUB-PARAGRAPH A (2) OF SECTION 1 OF THE RULE ON SUMMARY PROCEDURE PROMULGATED ON AUGUST 1, 1983"
+scope = "National"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on JUSTICE since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roldan"
+[[authorsDetail]]
+name = "Roldan"
+nameCode = "Roldan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 119804
+congress = 9
+bill_no = "HB01185"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-25"

@@ -1,0 +1,91 @@
+billNumber = "HB05410"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05410"
+lastScraped = "2025-09-22T00:20:58.369264"
+title = "HB05410"
+longTitle = "AN ACT CREATING ONE DISTRICT SHARI'A COURT AND TWO CIRCUIT SHARI'A COURTS IN THE CITY OF PUERTO PRINCESA AND THE MUNICIPALITIES OF BATARAZA AND QUEZON RESPECTIVELY, IN THE PROVINCE OF PALAWAN, AND APPROPRIATING FUDNS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-04"
+status = "Approved on Third Reading on 1997-12-15"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "DEL MAR, RAUL V.", "ABINES, CRISOLOGO A.", "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABINES, CRISOLOGO A."
+nameCode = "Abines"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-12-07"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111831
+congress = 10
+bill_no = "HB05410"
+report = "01293"
+referral = "0520"
+ref_name = "JUSTICE"
+recomm = "approval with amendment"
+date_read = "1995-12-07"
+date_ob = "1997-12-01"
+date_report = "1997-11-28"
+
+[secondReading]
+id = 18205
+congress = 10
+bill_no = "HB05410"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2810
+congress = 10
+bill_no = "HB05410"
+date_dist = "1997-12-09"
+date_adopt = "1997-12-15"
+no_yeas = 146
+no_nays = 0
+no_abstent = 0

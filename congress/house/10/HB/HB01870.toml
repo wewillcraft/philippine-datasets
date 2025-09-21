@@ -1,0 +1,46 @@
+billNumber = "HB01870"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01870"
+lastScraped = "2025-09-22T00:20:57.696993"
+title = "HB01870"
+longTitle = "AN ACT CREATING A BUILDING AND PROPERTY MANAGEMENT REGULATORY BOARD AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108291
+congress = 10
+bill_no = "HB01870"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1995-08-09"

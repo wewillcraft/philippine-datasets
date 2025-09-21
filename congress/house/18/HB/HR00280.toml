@@ -1,0 +1,47 @@
+billNumber = "HR00280"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00280"
+lastScraped = "2025-09-22T00:01:47.389367"
+title = "HR00280"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON JUSTICE; REVISIONS OF LAWS; AND OTHER APPROPRIATE COMMITTEES TO REVIEW, IN AID OF LEGISLATION, THE IMPLEMENTATION OF REPUBLIC ACT 10592 WITH THE END IN VIEW OF AMENDING THE SAME IN ORDER TO ENSURE THAT THOSE PRISONERS WHO TRULY DESERVE TO BE THE BENEFICIARIES OF THE LAW SHALL BE GRANTED ACCORDINGLY"
+scope = "National"
+dateFiled = "2019-08-29"
+status = "Pending with the Committee on JUSTICE since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00280.pdf"
+fileSize = 433055
+author = "YAP, ERIC GO"
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (E.)"
+date = "2019-08-29"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-09-04"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 30608
+congress = 18
+bill_no = "HR00280"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-04"

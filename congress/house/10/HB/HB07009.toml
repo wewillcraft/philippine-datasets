@@ -1,0 +1,41 @@
+billNumber = "HB07009"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07009"
+lastScraped = "2025-09-22T00:20:58.658620"
+title = "HB07009"
+longTitle = "AN ACT INCREASING THE MINIMUM PAID-IN-CAPITAL OF AN INVESTMENT HOUSE AMENDING FOR THE PURPOSE THE INVESTMENT HOUSES LAW, AS AMENDED"
+scope = "National"
+dateFiled = "1996-05-17"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1996-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 113430
+congress = 10
+bill_no = "HB07009"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1996-05-21"

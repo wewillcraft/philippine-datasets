@@ -1,0 +1,47 @@
+billNumber = "HR01053"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01053"
+lastScraped = "2025-09-22T00:13:01.381993"
+title = "HR01053"
+longTitle = "RESOLUTION URGING THE COMMITTEES ON APPROPRIATIONS AND ENERGY TO APPROPRIATE FUNDS IN THE 2003 BUDGET FOR GOVERNMENT TO BUY BACK THE 19% PETRON SHARES BEING TRADED IN THE STOCK MARKET TO REGAIN MAJORITY CONTROL AND MANAGEMENT OF PETRON, THEREBY SERVING AS A CHECK AGAINST SEEMINGLY UNMITIGATED AND TOTALLY UNWARRANTED OIL PRICE HIKES"
+scope = "Local"
+dateFiled = "2003-03-12"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2003-03-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers, Robert Ace S."
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2003-03-19"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 90989
+congress = 12
+bill_no = "HR01053"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2003-03-19"

@@ -1,0 +1,61 @@
+billNumber = "HB01256"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01256"
+lastScraped = "2025-09-22T00:01:45.277226"
+title = "HB01256"
+longTitle = "AN ACT CREATING A NATIONAL TRAFFIC MANAGEMENT PLAN"
+scope = "National"
+dateFiled = "2019-07-03"
+status = "Pending with the Committee on TRANSPORTATION since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01256.pdf"
+fileSize = 2051475
+author = "Villafuerte, Luis Raymund \"Lray\" Jr. F."
+coAuthors = [ "SILVERIO, LORNA C.", "FARINAS, RIA CHRISTINA G.",]
+[[authorsDetail]]
+name = "Villafuerte, Luis Raymund \"Lray\" Jr. F."
+nameCode = "Villafuerte"
+date = "2019-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SILVERIO, LORNA C."
+nameCode = "Silverio"
+date = "2019-09-12"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FARINAS, RIA CHRISTINA G."
+nameCode = "Fariñas (R.C.)"
+date = "2021-02-15"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 20665
+congress = 18
+bill_no = "HB01256"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

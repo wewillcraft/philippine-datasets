@@ -1,0 +1,47 @@
+billNumber = "HR01304"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01304"
+lastScraped = "2025-09-22T00:01:47.590165"
+title = "HR01304"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S OF THE HOUSE OF REPRESENTATIVES, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, CALLING DISTRIBUTION UTILITIES AND THE ENERGY REGULATORY COMMISSION, RELATIVE TO THE USE OF  SMART METERS FOR SAFE AND CONTACTLESS METER-READING"
+scope = "National"
+dateFiled = "2020-10-16"
+status = "Pending with the Committee on ENERGY since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01304.pdf"
+fileSize = 737677
+author = "Lacson, Virgilio S."
+[[authorsDetail]]
+name = "Lacson, Virgilio S."
+nameCode = "Lacson"
+date = "2020-10-16"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2020-11-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31623
+congress = 18
+bill_no = "HR01304"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-11-16"

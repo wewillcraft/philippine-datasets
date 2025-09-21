@@ -1,0 +1,55 @@
+billNumber = "HR00022"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00022"
+lastScraped = "2025-09-22T00:13:01.145537"
+title = "Expressing Condolence on the Death of Hon. Rolando Andaya"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF HONORABLE ROLANDO R. ANDAYA, FORMER CONGRESSMAN OF THE 1ST DISTRICT OF CAMARINES SUR"
+scope = "Local"
+dateFiled = "2001-07-06"
+status = "Adopted as Resolution No. HR00004 on 2001-07-24"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[firstReading]
+id = 89961
+congress = 12
+bill_no = "HR00022"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-07-24"
+
+[secondReading]
+id = 14919
+congress = 12
+bill_no = "HR00022"
+adopted_resolution = "HR00004"
+remarks = "ALL MEMBERS WERE MADE COAUTHORS"
+date_calendared = "2001-07-24"
+date_approved = "2001-07-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00004.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00004.pdf"

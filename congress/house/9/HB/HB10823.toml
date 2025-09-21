@@ -1,0 +1,47 @@
+billNumber = "HB10823"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10823"
+lastScraped = "2025-09-22T00:25:56.560310"
+title = "HB10823"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL TRIAL COURT IN THE MUNICIPALITY OF STA. ELENA, PROVINCE OF CAMARINES NORTE"
+scope = "Local"
+dateFiled = "1993-09-22"
+status = "Pending with the Committee on JUSTICE since 1993-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-09-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129441
+congress = 9
+bill_no = "HB10823"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-09-28"

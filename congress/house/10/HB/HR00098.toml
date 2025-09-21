@@ -1,0 +1,42 @@
+billNumber = "HR00098"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00098"
+lastScraped = "2025-09-22T00:20:59.441974"
+title = "HR00098"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON FOREIGN AFFAIRS OF THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED NEFARIOUS AND CORRUPT ACTIVITIES OF THE LABOR OFFICIALS BASED IN THE PHILIPPINE EMBASSY IN TOKYO, JAPAN AND THE PHILIPPINE CONSULATE IN KOBE, JAPAN"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 117152
+congress = 10
+bill_no = "HR00098"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Foreign Affairs on Aug. 16, 1995."
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1995-08-15"

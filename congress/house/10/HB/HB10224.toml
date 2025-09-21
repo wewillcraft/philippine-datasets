@@ -1,0 +1,49 @@
+billNumber = "HB10224"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10224"
+lastScraped = "2025-09-22T00:20:59.337072"
+title = "HB10224"
+longTitle = "AN ACT CONVERTING THE JAEN-ZARAGOZA ROADS (DAMPULAN ATO ZARAGOSA SECTOR) IN THE PROVINCE OF NUEVA ECIJA INTO NATIONAL ROADS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-10-29"
+status = "Bill reported out 1998-03-17 (#01520)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-11-10"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116645
+congress = 10
+bill_no = "HB10224"
+report = "01520"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-11-10"
+date_report = "1998-03-17"

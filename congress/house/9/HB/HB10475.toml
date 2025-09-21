@@ -1,0 +1,47 @@
+billNumber = "HB10475"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10475"
+lastScraped = "2025-09-22T00:25:56.492956"
+title = "HB10475"
+longTitle = "AN ACT APPROPRIATING FIVE HUNDRED THOUSAND PESOS (P500,000.00) FOR THE REPAIR/REHABILI TATION OF MARCELA AGONCILLO ELEMENTARY SCHOOL IN SAN FERNANDO ST., BINONDO, MANILA"
+scope = "Local"
+dateFiled = "1993-08-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-08-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-08-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129093
+congress = 9
+bill_no = "HB10475"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-08-30"

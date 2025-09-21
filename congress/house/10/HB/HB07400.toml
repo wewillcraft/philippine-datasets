@@ -1,0 +1,61 @@
+billNumber = "HB07400"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07400"
+lastScraped = "2025-09-22T00:20:58.732353"
+title = "HB07400"
+longTitle = "AN ACT RATIONALIZING THE ROADS AND BRIDGES BUILDING AND MAINTENANCE FUNCTION OF THE GOVERNMENT AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-06-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "MONFORT, NARCISO D.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113821
+congress = 10
+bill_no = "HB07400"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-07-23"

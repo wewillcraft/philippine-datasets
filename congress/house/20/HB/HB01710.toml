@@ -1,0 +1,46 @@
+billNumber = "HB01710"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01710"
+lastScraped = "2025-09-21T23:39:48.632927"
+title = "HB01710"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE TRANSPORTATION SAFETY BOARD, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-10"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01710.pdf"
+fileSize = 6875518
+author = "BARBA, ANGELO MARCOS"
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2025-07-10"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 1711
+congress = 103
+bill_no = "HB01710"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

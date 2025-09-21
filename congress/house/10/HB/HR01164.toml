@@ -1,0 +1,49 @@
+billNumber = "HR01164"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01164"
+lastScraped = "2025-09-22T00:20:59.649388"
+title = "HR01164"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT AND THE COMMITTEE ON GOOD GOVERNMENT TO INVESTIGATE THE REPORTED ANOMALOUS HOUSING PROJECT IN BARANGAY PATROCINIO, MUNICIPALITY OF CLAVERIA, PROVINCE OF MISAMIS ORIENTAL"
+scope = "Local"
+dateFiled = "1997-04-10"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1997-04-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1997-04-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118218
+congress = 10
+bill_no = "HR01164"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1997-04-23"

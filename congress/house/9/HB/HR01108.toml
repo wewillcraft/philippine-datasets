@@ -1,0 +1,51 @@
+billNumber = "HR01108"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01108"
+lastScraped = "2025-09-22T00:25:57.570468"
+title = "HR01108"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INQUIRING INTO THE QUESTIONABLE POLICY OF HOSPITALS, BOTH PUBLIC AND PRIVATE, WHICH REQUIRE AS A CONDITION PRECEDENT FOR ADMISSION THAT A PROSPECTIVE PATIENT OR THE PERSON HAVING PARENTAL AUTHORITY OVER SAID PATIENT WAIVES ANY AND ALL RIGHTS TO HOLD THE HOSPITAL LIABLE, ITS MEDICAL AND SUPPORT STAFF, INCLUDING ITS PHYSICIANS, FOR ANY ACT OF NEGLIGENCE OR MALPRACTICE DURING HOSPITALIZATION OR IN THECOURSE OF MEDICAL TREATMENT"
+scope = "National"
+dateFiled = "1994-07-08"
+status = "Pending with the Committee on HEALTH since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zartiga"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Zartiga"
+nameCode = "Zartiga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 134414
+congress = 9
+bill_no = "HR01108"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte. on Health on 08/16/94"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-07-27"

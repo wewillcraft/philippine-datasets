@@ -1,0 +1,42 @@
+billNumber = "HB12937"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12937"
+lastScraped = "2025-09-22T00:25:56.994223"
+title = "HB12937"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF DEL MONTE IN THE PROVINCE OF AGUSAN DEL SUR"
+scope = "Local"
+dateFiled = "1994-06-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131546
+congress = 9
+bill_no = "HB12937"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1994-07-26"

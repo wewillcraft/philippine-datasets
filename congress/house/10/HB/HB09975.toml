@@ -1,0 +1,46 @@
+billNumber = "HB09975"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09975"
+lastScraped = "2025-09-22T00:20:59.282198"
+title = "HB09975"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF FARMERS' TRAINING CENTER IN THE MUNICIPALITY OF TAYABAS, PROVINCE OF QUEZON, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-09-18"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-09-30"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116396
+congress = 10
+bill_no = "HB09975"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-09-30"

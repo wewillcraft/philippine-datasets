@@ -1,0 +1,55 @@
+billNumber = "HB03235"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03235"
+lastScraped = "2025-09-22T00:13:00.391319"
+title = "HB03235"
+longTitle = "AN ACT ESTABLISHING A LEGISLATIVE DISTRICT OFFICE OF THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS IN EACH LEGISLATIVE DISTRICT IN THE COUNTRY AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-09-25"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+coAuthors = [ "BELTRAN, CRISPIN",]
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELTRAN, CRISPIN"
+nameCode = "Beltran"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-10-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86395
+congress = 12
+bill_no = "HB03235"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-10-01"

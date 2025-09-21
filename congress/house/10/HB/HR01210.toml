@@ -1,0 +1,63 @@
+billNumber = "HR01210"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01210"
+lastScraped = "2025-09-22T00:20:59.658893"
+title = "HR01210"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROPOSED PHONE METERING SYSTEM"
+scope = "National"
+dateFiled = "1997-05-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "CALALAY, REYNALDO A.", "GILLEGO, BONIFACIO H.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-05-15"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 118264
+congress = 10
+bill_no = "HR01210"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-05-15"

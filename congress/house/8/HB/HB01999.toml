@@ -1,0 +1,42 @@
+billNumber = "HB01999"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01999"
+lastScraped = "2025-09-22T00:46:56.912372"
+title = "HB01999"
+longTitle = "AN ACT SETTING UP A RECLAMATION PROJECT IN THE MUNICIPALITY OF TALISAY, IN THE PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson"
+[[authorsDetail]]
+name = "Lacson"
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 136689
+congress = 8
+bill_no = "HB01999"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-30"

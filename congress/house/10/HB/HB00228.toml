@@ -1,0 +1,76 @@
+billNumber = "HB00228"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00228"
+lastScraped = "2025-09-22T00:20:57.420500"
+title = "HB00228"
+longTitle = "AN ACT CONVERTING THE MARGOSATUBIG DISTRICT HOSPITAL IN MARGOSATUBIG, ZAMBOANGA DEL SUR INTO A REGIONAL HOSPITAL, TO BE KNOWN AS MARGOSATUBIG REGIONAL HOSPITAL AND TO INCREASE THE BED CAPACITY TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-04"
+status = "Transmitted to the President for Signature on 1996-10-16"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106649
+congress = 10
+bill_no = "HB00228"
+report = "00244"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval"
+date_read = "1995-07-26"
+date_ob = "1996-03-04"
+date_report = "1996-02-28"
+
+[secondReading]
+id = 17684
+congress = 10
+bill_no = "HB00228"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2309
+congress = 10
+bill_no = "HB00228"
+date_dist = "1996-03-12"
+date_adopt = "1996-03-21"
+no_yeas = 121
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-03-21"
+date_rec = "1996-03-27"
+date_agram = "1996-10-16"
+amend_ind = "Y"
+act_pres = "V"
+dte_transp = "1996-10-16"
+dte_actedp = "1996-12-03"

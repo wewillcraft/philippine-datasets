@@ -1,0 +1,45 @@
+billNumber = "HR00060"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00060"
+lastScraped = "2025-09-21T23:39:49.206798"
+title = "HR00060"
+longTitle = "A RESOLUTION COMMENDING AND HONORING MANNY PACQUIAO FOR HIS EXCEPTIONAL PERFORMANCE IN HIS RECENT BOXING MATCH AGAINST MARIO BARRIOS"
+dateFiled = "2025-07-21"
+status = "Pending with the Committee on RULES since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00060.pdf"
+fileSize = 599412
+author = "GARBIN, ALFREDO JR. A."
+[[authorsDetail]]
+name = "GARBIN, ALFREDO JR. A."
+nameCode = "Garbin"
+date = "2025-07-21"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4616
+congress = 103
+bill_no = "HR00060"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

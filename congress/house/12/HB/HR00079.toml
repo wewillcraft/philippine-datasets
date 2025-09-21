@@ -1,0 +1,42 @@
+billNumber = "HR00079"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00079"
+lastScraped = "2025-09-22T00:13:01.157197"
+title = "HR00079"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH ITS PROPER COMMITTEE(S) TO INVESTIGATE THE STRIKE OF EMPLOYEES IN THE SOCIAL SECURITY SYSTEM CONSIDERING PUBLIC INTERESTS AND THE INTERESTS OF THE MILLIONS OF SSS MEMBERS"
+scope = "Local"
+dateFiled = "2001-08-02"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2001-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2001-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 90018
+congress = 12
+bill_no = "HR00079"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2001-08-08"

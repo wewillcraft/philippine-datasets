@@ -1,0 +1,47 @@
+billNumber = "HB00025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00025"
+lastScraped = "2025-09-22T00:25:54.592151"
+title = "HB00025"
+longTitle = "AN ACT ESTABLISHING A 10-BED CAPACITY HOSPITAL IN THE MUNICIPALITY OF SEVILLA, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-01"
+status = "Pending with the Committee on HEALTH since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118644
+congress = 9
+bill_no = "HB00025"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-07-28"

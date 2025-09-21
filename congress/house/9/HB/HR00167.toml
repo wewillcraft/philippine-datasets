@@ -1,0 +1,42 @@
+billNumber = "HR00167"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00167"
+lastScraped = "2025-09-22T00:25:57.397762"
+title = "HR00167"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON WAYS AND MEANS AND BANKS AND FINANCIAL INTERMEDIARIES TO STUDY, IN AID OF LEGISLATION, HOW TO RE-STRUCTURE FURTHER OUR DEBT SERVICE TO HELP OUR ECONOMY GROW"
+scope = "National"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on WAYS AND MEANS since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133479
+congress = 9
+bill_no = "HR00167"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1992-09-18"

@@ -1,0 +1,56 @@
+billNumber = "HB04549"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04549"
+lastScraped = "2025-09-22T00:20:58.219920"
+title = "HB04549"
+longTitle = "AN ACT GRANTING GENERAL AMNESTY FOR YOUTHFUL OFFENDERS CONVICTED BY FINAL JUDGEMENT"
+scope = "National"
+dateFiled = "1995-10-23"
+status = "Pending with the Committee on JUSTICE since 1995-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "COSALAN, RONALD M.", "PADILLA, CARLOS M.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "COSALAN, RONALD M."
+nameCode = "Cosalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-26"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 110970
+congress = 10
+bill_no = "HB04549"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-26"

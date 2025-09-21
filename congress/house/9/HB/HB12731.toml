@@ -1,0 +1,42 @@
+billNumber = "HB12731"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12731"
+lastScraped = "2025-09-22T00:25:56.954927"
+title = "HB12731"
+longTitle = "AN ACT PROVIDING FOR SUBSIDY OF SELF-GENERATING ELECTRIC COOPERATIVES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1994-05-16"
+status = "Pending with the Committee on ENERGY since 1994-05-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua, Orlando  B."
+[[authorsDetail]]
+name = "Fua, Orlando  B."
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-05-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131340
+congress = 9
+bill_no = "HB12731"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-05-19"

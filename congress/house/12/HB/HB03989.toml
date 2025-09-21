@@ -1,0 +1,42 @@
+billNumber = "HB03989"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03989"
+lastScraped = "2025-09-22T00:13:00.516872"
+title = "HB03989"
+longTitle = "AN ACT DECLARING THE ISLAND OF SIARGAO IN THE PROVINCE OF SURIGAO DEL NORTE AS A TOURIST SPOT"
+scope = "Local"
+dateFiled = "2001-11-28"
+status = "Pending with the Committee on TOURISM since 2001-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-12-04"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 87149
+congress = 12
+bill_no = "HB03989"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-12-04"

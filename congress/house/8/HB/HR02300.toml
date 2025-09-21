@@ -1,0 +1,42 @@
+billNumber = "HR02300"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02300"
+lastScraped = "2025-09-22T00:47:02.998687"
+title = "HR02300"
+longTitle = "RESOLUTION URGING PRESIDENT CORAZON C. AQUINO TO IMMEDIATELY SIGN INTO LAW THE GENERAL APPROPRIATIONS ACT FOR 1991 IN ORDER TO ENABLE THE NATIONAL GOVERNMENT TO EFFICIENTLY, EFFECTIVELY AND TIMELY MEET WITH SUFFICIENT AND AVAILABLE FUNDS THE CRUCIALAND PRESSING NEEDS OF OUR PEOPLE IN CALAMITY STRICKEN AREAS SPECIALLY THOSE CREATED BY THE MT. PINATUBO ERUPTION"
+scope = "Local"
+dateFiled = "1991-06-19"
+status = "Pending with the Committee on APPROPRIATIONS since 1991-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1991-07-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172131
+congress = 8
+bill_no = "HR02300"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1991-07-23"

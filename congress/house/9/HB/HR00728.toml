@@ -1,0 +1,43 @@
+billNumber = "HR00728"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00728"
+lastScraped = "2025-09-22T00:25:57.499804"
+title = "HR00728"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES TO INVESTIGATE, IN AID OF LEGISLATION, THE ELEGANT CHEMICAL AND ALLOY CORPORATION LOCATED AT BARANGAY LAGUNDI, MUNICIPALITY OF MEXICO, PROVINCE OF PAMPANGA"
+scope = "Local"
+dateFiled = "1993-08-16"
+status = "Pending with the Committee on ECOLOGY since 1993-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Domingo"
+[[authorsDetail]]
+name = "Domingo"
+nameCode = "Domingo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-08-23"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 134040
+congress = 9
+bill_no = "HR00728"
+comm_act = "Change of referral from the Committee on Rules (J.16,p.8)"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-08-23"

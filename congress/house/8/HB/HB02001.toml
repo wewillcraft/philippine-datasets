@@ -1,0 +1,42 @@
+billNumber = "HB02001"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02001"
+lastScraped = "2025-09-22T00:46:56.912673"
+title = "HB02001"
+longTitle = "AN ACT PROVIDING FOR THE COMPLETION OF THE MUNICIPAL MARKET AT BARANGAY LORENZO, MUNICIPALITY OF BANGUI, PROVINCE OF ILOCOS NORTE"
+scope = "Local"
+dateFiled = "1987-09-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan"
+[[authorsDetail]]
+name = "Ablan"
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 136691
+congress = 8
+bill_no = "HB02001"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-30"

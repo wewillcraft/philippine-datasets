@@ -1,0 +1,43 @@
+billNumber = "HR00551"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00551"
+lastScraped = "2025-09-22T00:25:57.467839"
+title = "HR00551"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ABOUT THE DEFECTS OF GENERICS ACT OF 1988 FOR THE BETTER INTEREST OF THE FILIPINO CONSUMERS"
+scope = "National"
+dateFiled = "1993-03-17"
+status = "Pending with the Committee on HEALTH since 1993-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-03-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133863
+congress = 9
+bill_no = "HR00551"
+comm_act = "Change of referral from the Committee on Rules dtd. 3-22-93"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-03-18"

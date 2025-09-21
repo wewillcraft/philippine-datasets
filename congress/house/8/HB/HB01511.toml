@@ -1,0 +1,42 @@
+billNumber = "HB01511"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01511"
+lastScraped = "2025-09-22T00:46:56.828517"
+title = "HB01511"
+longTitle = "AN ACT ESTABLISHING A YOUTH TRAINING AND GUIDANCECENTER IN BARANGAY CITY CAMP PROPER, BAGUIO CITY,AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-15"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-09-21"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 136206
+congress = 8
+bill_no = "HB01511"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-09-21"

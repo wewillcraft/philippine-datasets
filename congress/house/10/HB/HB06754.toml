@@ -1,0 +1,46 @@
+billNumber = "HB06754"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06754"
+lastScraped = "2025-09-22T00:20:58.613024"
+title = "HB06754"
+longTitle = "AN ACT CONVERTING THE FIVE (5)-BED HEALTH INFIRMARY (R.A. NO. 7609) IN THE MUNICIPALITY OF STA. FE, PROVINCE OF LEYTE, INTO A FIFTEEN (15)-BED MUNICIPAL HOSPITAL TO BE KNOWN AS THE STA. FE MUNICIPAL HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-27"
+status = "Pending with the Committee on HEALTH since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marcos, Imelda R."
+[[authorsDetail]]
+name = "Marcos, Imelda R."
+nameCode = "Marcos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113175
+congress = 10
+bill_no = "HB06754"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-04-29"

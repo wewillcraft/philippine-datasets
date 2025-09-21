@@ -1,0 +1,42 @@
+billNumber = "HR00485"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00485"
+lastScraped = "2025-09-22T00:23:18.035970"
+title = "HR00485"
+longTitle = "RESOLUTION CALLING FOR THE INVESTIGATION, IN AID OF LEGISLATION, ON THE ONGOING CONSTRUCTION OF CERTAIN STRUCTURES WITHIN INTRAMUROS WHICH ARE MARRING THE FACE OF THIS IMPORTANT HISTORIC SITE"
+scope = "Local"
+dateFiled = "1998-10-29"
+status = "Pending with the Committee on TOURISM since 1998-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1998-11-10"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 104943
+congress = 11
+bill_no = "HR00485"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1998-11-10"

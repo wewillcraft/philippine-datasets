@@ -1,0 +1,47 @@
+billNumber = "HB03370"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03370"
+lastScraped = "2025-09-22T00:25:55.193562"
+title = "HB03370"
+longTitle = "AN ACT RESTORING THE DIVISION OF CITY SCHOOLS IN THE CITY OF OROQUIETA, PROVINCE OF MISAMIS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-12"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121989
+congress = 9
+bill_no = "HB03370"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-12"

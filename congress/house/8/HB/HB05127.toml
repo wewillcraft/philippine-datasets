@@ -1,0 +1,50 @@
+billNumber = "HB05127"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05127"
+lastScraped = "2025-09-22T00:46:57.448966"
+title = "HB05127"
+longTitle = "AN ACT ESTABLISHING A MALARIA HOSPITAL, RESEARCH AND PREVENTION CENTER IN THE MUNICIPALITY OF TANDUBAS, PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-01-27"
+status = "Pending with the Committee on HEALTH since 1988-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+coAuthors = [ "ROA, BENEDICTA B.",]
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-02-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 139810
+congress = 8
+bill_no = "HB05127"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-02-03"

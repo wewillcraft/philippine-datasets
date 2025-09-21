@@ -1,0 +1,35 @@
+billNumber = "HB09517"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09517"
+lastScraped = "2025-09-22T00:46:58.268130"
+title = "HB09517"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF SIBAGO, MUNICIPALITY OF PINAMUNGAJAN, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-12"
+status = "Pending with the Committee on HEALTH since 1988-05-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-18"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 144192
+congress = 8
+bill_no = "HB09517"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-18"

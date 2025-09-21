@@ -1,0 +1,59 @@
+billNumber = "HR00002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00002"
+lastScraped = "2025-09-22T00:20:59.425325"
+title = "HR00002"
+longTitle = "RESOLUTION INFORMING HIS EXCELLENCY FIDEL V. RAMOS, PRESIDENT OF THE PHILIPPINES, THAT THE HOUSE OF REPRESENTATIVES HAS BEEN ORGANIZED WITH THE ELECTION OF ITS OFFICERS AND HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1995-07-03"
+status = "Adopted as Resolution No. HR00002 on 1995-07-24"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-07-24"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 117056
+congress = 10
+bill_no = "HR00002"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-07-24"
+
+[secondReading]
+id = 18911
+congress = 10
+bill_no = "HR00002"
+adopted_resolution = "HR00002"
+date_calendared = "1995-07-24"
+date_approved = "1995-07-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

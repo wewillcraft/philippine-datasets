@@ -1,0 +1,47 @@
+billNumber = "HR00035"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00035"
+lastScraped = "2025-09-21T23:55:46.231786"
+title = "HR00035"
+longTitle = "RESOLUTION URGING THE PROPER COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE STATE OF FOOD AND NUTRITION SECURITY AND PERSISTENT MALNUTRITION SITUATION IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on HEALTH since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00035.pdf"
+fileSize = 821549
+author = "Amin, Hussin U."
+[[authorsDetail]]
+name = "Amin, Hussin U."
+nameCode = "Albano"
+date = "2016-06-30"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 42778
+congress = 17
+bill_no = "HR00035"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-07-26"

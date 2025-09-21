@@ -1,0 +1,68 @@
+billNumber = "HB03863"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB03863"
+lastScraped = "2025-09-21T23:55:20.759404"
+title = "HB03863"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO.11332, OTHERWISE KNOWN AS THE\r\n\"MANDATORY REPORTING OF NOTIFIABLE DISEASES AND HEALTH EVENTS OF PUBLIC HEALTH CONCERN ACT\""
+scope = "National"
+dateFiled = "2022-08-22"
+status = "Pending with the Committee on HEALTH since 2022-08-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB03863.pdf"
+fileSize = 291598
+author = "Tambunting, Gus S."
+coAuthors = [ "TAN, SHERNEE A.", "TAN, SAMIER A.", "CENDAÑA, PERCIVAL V",]
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2022-08-22"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAN, SHERNEE A."
+nameCode = "Tan-Tambut"
+date = "2023-11-09"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAN, SAMIER A."
+nameCode = "Tan (S.)"
+date = "2023-11-09"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CENDAÑA, PERCIVAL V"
+nameCode = "Cendaña"
+date = "2025-01-28"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 8782
+congress = 19
+bill_no = "HB03863"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-30"

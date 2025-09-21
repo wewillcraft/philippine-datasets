@@ -1,0 +1,46 @@
+billNumber = "HB05098"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05098"
+lastScraped = "2025-09-22T00:20:58.312779"
+title = "HB05098"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE PUNTA BURI ELEMENTARY SCHOOL, BARANGAY PUNTA BURI, MUNICIPALITY OF AJUY, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-11-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111519
+congress = 10
+bill_no = "HB05098"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-11-20"

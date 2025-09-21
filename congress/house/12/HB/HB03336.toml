@@ -1,0 +1,62 @@
+billNumber = "HB03336"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03336"
+lastScraped = "2025-09-22T00:13:00.407084"
+title = "HB03336"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A GUIDANCE COUNSELING CENTER IN EVERY BARANGAY IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-10-03"
+status = "Pending with the Committee on SOCIAL SERVICES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin, Uliran T."
+coAuthors = [ "CHIPECO, JOAQUIN JR. M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Joaquin, Uliran T."
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J042"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86496
+congress = 12
+bill_no = "HB03336"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2001-10-09"

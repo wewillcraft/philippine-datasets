@@ -1,0 +1,46 @@
+billNumber = "HB08200"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08200"
+lastScraped = "2025-09-22T00:20:58.920138"
+title = "HB08200"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TECHNOLOGY AND LIVELIHOOD RESOURCE TECHNOBANK CENTER IN BARANGAY CAG-AN, MUNICIPALITY OF ANILAO, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-14"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-10-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114621
+congress = 10
+bill_no = "HB08200"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-10-16"

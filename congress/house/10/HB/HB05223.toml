@@ -1,0 +1,41 @@
+billNumber = "HB05223"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05223"
+lastScraped = "2025-09-22T00:20:58.334524"
+title = "HB05223"
+longTitle = "AN ACT CHANGING THE NAME OF CAMP ASTURIAS IN JOLO, SULU, TO CAMP GOVERNOR AROLAS TULAWIE"
+scope = "Local"
+dateFiled = "1995-11-21"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tulawie"
+[[authorsDetail]]
+name = "Tulawie"
+nameCode = "Tulawie"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 111644
+congress = 10
+bill_no = "HB05223"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1995-11-27"

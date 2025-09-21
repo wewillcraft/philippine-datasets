@@ -1,0 +1,58 @@
+billNumber = "HR00044"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00044"
+lastScraped = "2025-09-22T00:13:01.149243"
+title = "HR00044"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY, COMMITTEE ON NATIONAL DEFENSE AND COMMITTEE ON CIVIL, POLITICAL AND HUMAN RIGHTS TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION RELATIVE TO THE DISBURSEMENT OF THE P100 MILLION BOUNTY MONEY MADE AVAILABLE BY THE GOVERNMENT TO THE MILITARY AS FUNDS TO BE GIVEN TO ANY PERSON OR GROUP OF PERSONS WHO COULD LEAD TO THE ARREST OF THE LEADERS AND MEMBERS OF THE DREADED ABU SAYYAF, AND RECOMMEND APPROPRIATE MEASURES THEREFOR"
+scope = "National"
+dateFiled = "2001-07-17"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salapuddin, Gerry A."
+[[authorsDetail]]
+name = "Salapuddin, Gerry A."
+nameCode = "Salapuddin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 89983
+congress = 12
+bill_no = "HR00044"
+comm_act = "Additional Referral to the Ctte's. on National Defense, Civil, Political and Human Rights on Aug. 28"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2001-07-25"

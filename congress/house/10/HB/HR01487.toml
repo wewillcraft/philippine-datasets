@@ -1,0 +1,41 @@
+billNumber = "HR01487"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01487"
+lastScraped = "2025-09-22T00:20:59.707399"
+title = "HR01487"
+longTitle = "RESOLUTION TO DIRECT THE HOUSE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPOSED SALE OF TWO-POINT-TWO (2.2) HECTARES OF LAND BELONGING TO THE LOCAL GOVERNMENT OF KALOOKAN CITY TO THE EVER GOTESCO GROUP"
+scope = "Local"
+dateFiled = "1998-01-12"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1998-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 118541
+congress = 10
+bill_no = "HR01487"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1998-01-19"

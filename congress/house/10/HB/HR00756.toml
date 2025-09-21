@@ -1,0 +1,73 @@
+billNumber = "HR00756"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00756"
+lastScraped = "2025-09-22T00:20:59.567724"
+title = "HR00756"
+longTitle = "RESOLUTION COMMENDING AND CONGRATULATING MANSUETO VELASCO, JR. FOR WINNING A SILVER MEDAL IN THE LIGHT FLYWEIGHT BOXING COMPETITION DURING THE TWENTY-SIXTH OLYMPIC GAMES HELD IN ATLANTA, GEORGIA, USA"
+scope = "Local"
+dateFiled = "1996-08-05"
+status = "Adopted as Resolution No. HR00058 on 1996-08-08"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-08"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[motherBills]]
+bill_no = "HR00754"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00754"
+flag = "S"
+
+[firstReading]
+id = 117810
+congress = 10
+bill_no = "HR00756"
+report = "00520"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Approval in consolidat ion with House Resolution No. 754."
+date_read = "1996-08-08"
+date_ob = "1996-08-08"
+date_report = "1996-08-07"
+
+[secondReading]
+id = 18988
+congress = 10
+bill_no = "HR00756"
+adopted_resolution = "HR00058"
+date_calendared = "1996-08-08"
+date_approved = "1996-08-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00058.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00058.pdf"

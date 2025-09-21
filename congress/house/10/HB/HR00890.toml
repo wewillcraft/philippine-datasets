@@ -1,0 +1,58 @@
+billNumber = "HR00890"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00890"
+lastScraped = "2025-09-22T00:20:59.592947"
+title = "HR00890"
+longTitle = "RESOLUTION URGING THE ADOPTION OF THE RPWEB STRATEGY TO ELECTRONICALLY LINK UP VIA THE INTERNET THE ENTIRE GOVERNMENT ORGANIZATION"
+scope = "National"
+dateFiled = "1996-10-07"
+status = "Adopted as Resolution No. HR00090 on 1996-12-18"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117944
+congress = 10
+bill_no = "HR00890"
+report = "00725"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+recomm = "Adoption with amendments"
+date_read = "1996-10-10"
+date_ob = "1996-12-17"
+date_report = "1996-12-12"
+
+[secondReading]
+id = 19002
+congress = 10
+bill_no = "HR00890"
+adopted_resolution = "HR00090"
+remarks = "Adopted as amended."
+date_calendared = "1996-12-18"
+date_approved = "1996-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00090.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00090.pdf"

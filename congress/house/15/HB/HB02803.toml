@@ -1,0 +1,54 @@
+billNumber = "HB02803"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB02803"
+lastScraped = "2025-09-21T23:56:41.060634"
+title = "HB02803"
+longTitle = "AN ACT BANNING AERIAL PESTICIDE SPRAYING IN THE COUNTRY"
+scope = "National"
+dateFiled = "2010-08-25"
+status = "Pending with the Committee on ECOLOGY since 2010-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB02803.pdf"
+fileSize = 436644
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2010-09-01"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 58275
+congress = 15
+bill_no = "HB02803"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-09-01"

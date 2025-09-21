@@ -1,0 +1,46 @@
+billNumber = "HB00317"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB00317"
+lastScraped = "2025-09-22T00:23:15.559537"
+title = "HB00317"
+longTitle = "AN ACT STRENGTHENING WATER POLLUTION CONTROL, AMENDING FOR THE PURPOSE THE 'MARINE POLLUTION DECREE OF 1976'"
+scope = "National"
+dateFiled = "1998-07-01"
+status = "Pending with the Committee on ECOLOGY since 1998-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 91758
+congress = 11
+bill_no = "HB00317"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1998-07-28"

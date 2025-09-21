@@ -1,0 +1,43 @@
+billNumber = "HR00629"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00629"
+lastScraped = "2025-09-22T00:25:57.481341"
+title = "HR00629"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND SECURITIES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, REGARDING THE SALE OF NATIONAL DEVELOPMENT COMPANY SHARES OF INTERBANK TO UNION BANK CONSORTIUM"
+scope = "Local"
+dateFiled = "1993-05-18"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1993-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1993-05-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133941
+congress = 9
+bill_no = "HR00629"
+comm_act = "Change of referral from the Cttee. on Rules (J.3, p.73)"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "1993-05-24"

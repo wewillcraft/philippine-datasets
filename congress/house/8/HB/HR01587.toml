@@ -1,0 +1,42 @@
+billNumber = "HR01587"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01587"
+lastScraped = "2025-09-22T00:47:02.853795"
+title = "HR01587"
+longTitle = "RESOLUTION URGING CONGRESS OF THE PHILIPPINES TO INCLUDE CRIMES AGAINST THE STATE AS HEINOUS CRIMES AND IMPOSING THE DEATH PENALTY THEREOF"
+scope = "National"
+dateFiled = "1989-12-04"
+status = "Pending with the Committee on JUSTICE since 1989-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ocampo"
+[[authorsDetail]]
+name = "Ocampo"
+nameCode = "Ocampo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1989-12-04"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 171444
+congress = 8
+bill_no = "HR01587"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1989-12-04"

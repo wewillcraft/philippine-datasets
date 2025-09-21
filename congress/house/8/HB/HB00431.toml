@@ -1,0 +1,42 @@
+billNumber = "HB00431"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00431"
+lastScraped = "2025-09-22T00:46:56.637313"
+title = "HB00431"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE COMPLETION OF THE SAN RAFAEL WATERWORKS SYSTEM IN THE MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1987-08-17"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-08-20"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 135128
+congress = 8
+bill_no = "HB00431"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-08-20"

@@ -1,0 +1,54 @@
+billNumber = "PS00069"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00069"
+lastScraped = "2025-09-21T23:39:49.252978"
+title = "PS00069"
+longTitle = "MISINFORMATION ON THE DAMAGED FLOOD CONTROL PROJECT IN MATAG-OB, LEYTE"
+dateFiled = "2025-09-02"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "GOMEZ, RICHARD I., DPA"
+[[authorsDetail]]
+name = "GOMEZ, RICHARD I., DPA"
+nameCode = "Gomez"
+date = "2025-09-02"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-09-02"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4904
+congress = 103
+bill_no = "PS00069"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-02"

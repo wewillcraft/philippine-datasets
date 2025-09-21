@@ -1,0 +1,47 @@
+billNumber = "HB05081"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05081"
+lastScraped = "2025-09-22T00:25:55.567555"
+title = "HB05081"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BARANGAY HEALTH CENTER IN BARANGAY CAPARACADAN, MUNICIPALITY OF CAOAYAN, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE CAPARACADAN BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on HEALTH since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123700
+congress = 9
+bill_no = "HB05081"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-25"

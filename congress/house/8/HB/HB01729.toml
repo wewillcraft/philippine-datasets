@@ -1,0 +1,42 @@
+billNumber = "HB01729"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01729"
+lastScraped = "2025-09-22T00:46:56.864786"
+title = "HB01729"
+longTitle = "AN ACT ESTABLISHING A MANPOWER TRAINING CENTER INTHE MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-21"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes"
+[[authorsDetail]]
+name = "Reyes"
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136420
+congress = 8
+bill_no = "HB01729"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-09-24"

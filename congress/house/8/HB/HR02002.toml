@@ -1,0 +1,42 @@
+billNumber = "HR02002"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02002"
+lastScraped = "2025-09-22T00:47:02.924054"
+title = "HR02002"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO STUDY, IN AID OF LEGISLATION, WHY PHILIPPINE AIRLINES SHOULD MERGE WITH FOREIGN AIRLINE"
+scope = "Local"
+dateFiled = "1990-10-30"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1990-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1990-11-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171838
+congress = 8
+bill_no = "HR02002"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1990-11-07"

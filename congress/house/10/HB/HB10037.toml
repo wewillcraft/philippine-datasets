@@ -1,0 +1,46 @@
+billNumber = "HB10037"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10037"
+lastScraped = "2025-09-22T00:20:59.292936"
+title = "HB10037"
+longTitle = "AN ACT TO AMEND REPUBLIC ACT NO. 7832, ENTITLED 'AN ACT PENALIZING THE PILFERAGE OF ELECTRICITY AND THEFT OF ELECTRIC POWER TRANSMISSION LINES/MATERIALS RATIONALIZING SYSTEM LOSSES BY PHASING OUT PILFERAGE LOSSES AS A COMPONENT THEREOF, AND FOR OTHER PURPOSES'"
+scope = "National"
+dateFiled = "1997-10-01"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 116458
+congress = 10
+bill_no = "HB10037"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-10-06"

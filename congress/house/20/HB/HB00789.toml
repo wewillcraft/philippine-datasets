@@ -1,0 +1,54 @@
+billNumber = "HB00789"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00789"
+lastScraped = "2025-09-21T23:39:48.457083"
+title = "HB00789"
+longTitle = "AN ACT CONVERTING THE LOCAL ROAD STRETCHING FROM BARANGAY CAMINGAWAN AND BARANGAY CAROL-AN IN THE CITY OF KABANKALAN, PROVINCE OF NEGROS OCCIDENTAL AND CONNECTING IT WITH THE MUNICIPALITY OF TAYASAN, PROVINCE OF NEGROS ORIENTAL, INTO A NATIONAL ROAD"
+scope = "Local"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00789.pdf"
+fileSize = 288837
+author = "ALVAREZ, MERCEDES K."
+coAuthors = [ "IWAY, EMMANUEL L.",]
+[[authorsDetail]]
+name = "ALVAREZ, MERCEDES K."
+nameCode = "Alvarez (M.)"
+date = "2025-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "IWAY, EMMANUEL L."
+nameCode = "Iway"
+date = "2025-08-18"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 790
+congress = 103
+bill_no = "HB00789"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

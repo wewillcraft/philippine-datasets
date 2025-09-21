@@ -1,0 +1,41 @@
+billNumber = "HR00746"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00746"
+lastScraped = "2025-09-22T00:20:59.565857"
+title = "HR00746"
+longTitle = "RESOLUTION EARNESTLY URGING THE SECRETARY OF THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO CONSIDER THE RECOMMENDATION OF THE CONCERNED CONGRESSMEN REGARDING THE APPOINTMENT OF THE REGIONAL DIRECTORS OP DPWH"
+scope = "National"
+dateFiled = "1996-07-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 117800
+congress = 10
+bill_no = "HR00746"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-08-05"

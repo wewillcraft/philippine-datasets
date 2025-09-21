@@ -1,0 +1,50 @@
+billNumber = "HR00402"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00402"
+lastScraped = "2025-09-22T00:13:01.225953"
+title = "HR00402"
+longTitle = "RESOLUTION OF ENDORSEMENT OF VERIFIED COMPLAINT FOR IMPEACHMENT OF OMBUDSMAN ANIANO DESIERTO"
+scope = "Local"
+dateFiled = "2002-01-31"
+status = "Pending with the Committee on JUSTICE since 2002-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maza, Liza L."
+coAuthors = [ "DEDURO, SIEGFRED D.",]
+[[authorsDetail]]
+name = "Maza, Liza L."
+nameCode = "Maza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEDURO, SIEGFRED D."
+nameCode = "Deduro"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-02-05"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 90340
+congress = 12
+bill_no = "HR00402"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-02-05"

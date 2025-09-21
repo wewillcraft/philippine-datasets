@@ -1,0 +1,62 @@
+billNumber = "HR00441"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00441"
+lastScraped = "2025-09-22T00:20:59.503940"
+title = "HR00441"
+longTitle = "RESOLUTION REQUESTING THE DEPARTMENT OF BUDGET AND MANAGEMENT FOR THE IMMEDIATE RELEASE OF FIVE HUNDRED MILLION PESOS FOR THE CONCRETING OF CIRCUMFERENTIAL ROAD FOR THE ENTIRE PROVINCE OF BASILAN"
+scope = "Local"
+dateFiled = "1996-02-01"
+status = "Adopted as Resolution No. HR00076 on 1996-10-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 117495
+congress = 10
+bill_no = "HR00441"
+report = "00606"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "Adoption"
+date_read = "1996-02-06"
+date_ob = "1996-09-25"
+date_report = "1996-09-23"
+
+[secondReading]
+id = 18959
+congress = 10
+bill_no = "HR00441"
+adopted_resolution = "HR00076"
+date_calendared = "1996-10-03"
+date_approved = "1996-10-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00076.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00076.pdf"

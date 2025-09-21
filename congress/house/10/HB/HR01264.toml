@@ -1,0 +1,54 @@
+billNumber = "HR01264"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01264"
+lastScraped = "2025-09-22T00:20:59.667873"
+title = "HR01264"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF TOURISM AND DEPARTMENT OF TRADE TO INCLUDE THE CORDILLERA REGION IN THEIR INVESTMENT AND PROMOTION BROCHURES, MATERIALS AND CAMPAIGN FOR FOREIGN INVESTORS"
+scope = "Local"
+dateFiled = "1997-06-26"
+status = "Pending with the Committee on TOURISM since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 118318
+congress = 10
+bill_no = "HR01264"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1997-07-30"

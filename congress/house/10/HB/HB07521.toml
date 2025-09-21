@@ -1,0 +1,54 @@
+billNumber = "HB07521"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07521"
+lastScraped = "2025-09-22T00:20:58.755608"
+title = "HB07521"
+longTitle = "AN ACT CREATING THE OFFICE OF GOVERNMENT MONITORING AND DATA CENTER, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-07-18"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1996-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1996-07-25"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113942
+congress = 10
+bill_no = "HB07521"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1996-07-25"

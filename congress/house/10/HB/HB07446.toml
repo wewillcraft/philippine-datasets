@@ -1,0 +1,46 @@
+billNumber = "HB07446"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07446"
+lastScraped = "2025-09-22T00:20:58.742666"
+title = "HB07446"
+longTitle = "AN ACT CONVERTING THE OVERSEAS WORKERS WELFARE ADMINISTRATION TO OVERSEAS FILIPINO SOCIAL SECURITY SYSTEM"
+scope = "National"
+dateFiled = "1996-06-26"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113867
+congress = 10
+bill_no = "HB07446"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1996-07-23"

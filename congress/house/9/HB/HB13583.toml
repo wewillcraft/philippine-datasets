@@ -1,0 +1,42 @@
+billNumber = "HB13583"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13583"
+lastScraped = "2025-09-22T00:25:57.109443"
+title = "HB13583"
+longTitle = "AN ACT TO ESTABLISH A DEMONSTRATION FARM FOR HERBAL AND OTHER MEDICINAL PLANTS IN THE MUNICIPALITY OF JIPAPAD, PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-26"
+status = "Pending with the Committee on HEALTH since 1994-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-08-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132192
+congress = 9
+bill_no = "HB13583"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-08-31"

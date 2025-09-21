@@ -1,0 +1,46 @@
+billNumber = "HB02749"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02749"
+lastScraped = "2025-09-22T00:20:57.875680"
+title = "HB02749"
+longTitle = "AN ACT ESTABLISHING A SHOEMAKING AND HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF CARCAR, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-23"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109170
+congress = 10
+bill_no = "HB02749"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-29"

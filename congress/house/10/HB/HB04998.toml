@@ -1,0 +1,51 @@
+billNumber = "HB04998"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04998"
+lastScraped = "2025-09-22T00:20:58.296251"
+title = "HB04998"
+longTitle = "AN ACT ESTABLISHING THE STATE UNIVERSITIES AND COLLEGES DEVELOPMENT AUTHORITY (SUCDA) AND APPROPRIAITNG FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-11-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-16"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 111419
+congress = 10
+bill_no = "HB04998"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-11-16"

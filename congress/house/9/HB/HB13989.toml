@@ -1,0 +1,42 @@
+billNumber = "HB13989"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13989"
+lastScraped = "2025-09-22T00:25:57.186763"
+title = "HB13989"
+longTitle = "AN ACT ESTABLISHING A WATER SYSTEM IN THE MUNICIPALITY OF NORTH UPI, PROVINCE OF MAGUINDANAO, AND APPROPRIATING FUNDS"
+scope = "Local"
+dateFiled = "1994-10-19"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1994-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mastura"
+[[authorsDetail]]
+name = "Mastura"
+nameCode = "Mastura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1994-10-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132598
+congress = 9
+bill_no = "HB13989"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1994-10-24"

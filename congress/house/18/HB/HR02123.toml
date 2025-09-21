@@ -1,0 +1,47 @@
+billNumber = "HR02123"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02123"
+lastScraped = "2025-09-22T00:01:47.760466"
+title = "HR02123"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO REVIEW THE PROPRIETY OF THE GUIDELINES ON THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF TOLLWAY SERVICE FACILITIES OF THE TOLL REGULATORY BOARD (TRB), WITH THE END IN VIEW OF IMPROVING PROVISIONS THAT MAYBE OVERLY RESTRICTIVE AND COUNTERPRODUCTIVE TO THE PUBLIC AND TOLL SERVICE CONSUMERS"
+scope = "National"
+dateFiled = "2021-08-13"
+status = "Pending with the Committee on TRANSPORTATION since 2021-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR02123.pdf"
+fileSize = 363282
+author = "Gatchalian, Weslie T."
+[[authorsDetail]]
+name = "Gatchalian, Weslie T."
+nameCode = "Gatchalian"
+date = "2021-08-13"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2021-08-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 32440
+congress = 18
+bill_no = "HR02123"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-09-01"
+date_read = "2021-08-23"

@@ -1,0 +1,57 @@
+billNumber = "HR01224"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01224"
+lastScraped = "2025-09-22T00:20:59.661237"
+title = "HR01224"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES FOR THE CONFIRMATION BY THE COMMISSION ON APPOINTMENTS OF FLORANTE T. TARONA AS SECTORAL REPRESENTATIVE FOR THE URBAN POOR RENOMINATED BY HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS"
+scope = "Local"
+dateFiled = "1997-05-20"
+status = "Adopted as Resolution No. HR00108 on 1997-05-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-05-26"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[firstReading]
+id = 118278
+congress = 10
+bill_no = "HR01224"
+report = "00949"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Approval with amendments"
+date_read = "1997-05-26"
+date_ob = "1997-05-27"
+date_report = "1997-05-27"
+
+[secondReading]
+id = 19027
+congress = 10
+bill_no = "HR01224"
+adopted_resolution = "HR00108"
+date_calendared = "1997-05-27"
+date_approved = "1997-05-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00108.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00108.pdf"

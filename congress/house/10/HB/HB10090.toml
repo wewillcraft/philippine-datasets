@@ -1,0 +1,57 @@
+billNumber = "HB10090"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10090"
+lastScraped = "2025-09-22T00:20:59.311838"
+title = "HB10090"
+longTitle = "AN ACT CONVERTING THE ALFONSO LISTA-AURORA PROVINCIAL ROAD LOCATED IN BARNAGAYS NAMINLANGAN, CALUPAAN, SAN JUAN, SAN QUINTIN, SAN JOSE  AND SAN MARCOS, MUNICIPALITY OF ALFONSO LISTA, PROVINCE OF IFUGAO INTO A NATIONAL  ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-09"
+status = "Bill reported out 1998-04-02 (#01548)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-10-14"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116511
+congress = 10
+bill_no = "HB10090"
+report = "01548"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-10-14"
+date_report = "1998-04-02"

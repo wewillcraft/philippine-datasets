@@ -1,0 +1,46 @@
+billNumber = "HR01156"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01156"
+lastScraped = "2025-09-22T00:20:59.647788"
+title = "HR01156"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON NATIONAL DEFENSE AND CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED BOMBING OF A MORO ISLAMIC LIBERATION FRONT (MILF) CAMP IN THE MUNICIPALITY OF BULDON, PROVINCE OF MAGUINDANAO BY ARMY UNITS BELONGING TO THE 6TH INFANTRY DIVISION"
+scope = "Local"
+dateFiled = "1997-03-26"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-04-21"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 118210
+congress = 10
+bill_no = "HR01156"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-04-21"

@@ -1,0 +1,41 @@
+billNumber = "HR00169"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00169"
+lastScraped = "2025-09-22T00:20:59.453512"
+title = "HR00169"
+longTitle = "RESOLUTION DIRECTING THE MOVIE AND TELEVISION REGULATORY AND CONTROL BOARD TO REGULATE THE SHOWING OF THE ARTIFICIAL BIRTH CONTROL ADVERTISEMENTS"
+scope = "National"
+dateFiled = "1995-09-05"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117223
+congress = 10
+bill_no = "HR00169"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1995-09-18"

@@ -1,0 +1,83 @@
+billNumber = "HB05945"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05945"
+lastScraped = "2025-09-22T00:13:00.942636"
+title = "HB05945"
+longTitle = "AN ACT INCREASING THE RATE OF COMBAT DUTY PAY OF OFFICERS AND ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2003-04-28"
+status = "Pending with the Committee on NATIONAL DEFENSE since 2003-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pichay, Prospero Jr. A."
+coAuthors = [ "CODILLA, EUFROCINO SR.", "AMIN, HUSSIN U.", "CHATTO, EDGARDO M.", "TULAGAN, GENEROSO DC.", "PUENTEBELLA, MONICO O.",]
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = "Pichay"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR."
+nameCode = "Codilla"
+date = ""
+journalNo = "J069"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J069"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J072"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J003"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "PUENTEBELLA, MONICO O."
+nameCode = "Puentebella"
+date = ""
+journalNo = "J017"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "2003-05-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 89099
+congress = 12
+bill_no = "HB05945"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "2003-05-05"

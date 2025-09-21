@@ -1,0 +1,41 @@
+billNumber = "HB07486"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07486"
+lastScraped = "2025-09-22T00:20:58.749607"
+title = "HB07486"
+longTitle = "AN ACT TO AMEND SUBSECTION (C), SECTION 1 OF PRESIDENTIAL DECREE NUMBERED ONE THOUSAND EIGHT HUNDRED AND TWENTY NINE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-07-10"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 113907
+congress = 10
+bill_no = "HB07486"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-07-24"

@@ -1,0 +1,42 @@
+billNumber = "HB00098"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00098"
+lastScraped = "2025-09-22T00:12:59.812345"
+title = "HB00098"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF BUCARI IN THE PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = "Syjuco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 83258
+congress = 12
+bill_no = "HB00098"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-07-24"

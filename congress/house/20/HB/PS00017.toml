@@ -1,0 +1,44 @@
+billNumber = "PS00017"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00017"
+lastScraped = "2025-09-21T23:39:49.244948"
+title = "In Pursuit Of Accountability"
+longTitle = "IN PURSUIT OF ACCOUNTABILITY"
+dateFiled = "2025-08-11"
+status = "Pending with the Committee on JUSTICE since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "LIBANAN, MARCELINO C."
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = "2025-08-11"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2025-08-11"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 4852
+congress = 103
+bill_no = "PS00017"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-11"

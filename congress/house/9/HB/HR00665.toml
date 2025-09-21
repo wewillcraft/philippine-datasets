@@ -1,0 +1,66 @@
+billNumber = "HR00665"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00665"
+lastScraped = "2025-09-22T00:25:57.487537"
+title = "HR00665"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "National"
+dateFiled = "1993-07-19"
+status = "Adopted as Resolution No. HR00041 on 1993-07-26"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "ZAMORA, RONALDO B.", "ALBANO, RODOLFO JR. B.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-07-26"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133977
+congress = 9
+bill_no = "HR00665"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-07-26"
+
+[secondReading]
+id = 20133
+congress = 9
+bill_no = "HR00665"
+adopted_resolution = "HR00041"
+date_approved = "1993-07-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

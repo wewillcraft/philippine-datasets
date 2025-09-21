@@ -1,0 +1,47 @@
+billNumber = "HB00314"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00314"
+lastScraped = "2025-09-22T00:25:54.651005"
+title = "HB00314"
+longTitle = "AN ACT PROVIDING FOR THE CEMENTING OF THE DON CARLOS BRIDGE IN PASAY CITY, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118933
+congress = 9
+bill_no = "HB00314"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-03"

@@ -1,0 +1,41 @@
+billNumber = "HR01807"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01807"
+lastScraped = "2025-09-22T00:23:18.291429"
+title = "HR01807"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO ALLEGATIONS THAT THE DEPARTMENT OF HEALTH INTENDS TO ALLOW THE ENTRY OF ABORTIVE PILLS AND OTHER SIMILAR DRUGS INTO THE COUNTRY"
+scope = "National"
+dateFiled = "2000-10-06"
+status = "Pending with the Committee on HEALTH since 2000-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2000-10-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 106261
+congress = 11
+bill_no = "HR01807"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2000-10-16"

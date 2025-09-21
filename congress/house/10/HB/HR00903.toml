@@ -1,0 +1,49 @@
+billNumber = "HR00903"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00903"
+lastScraped = "2025-09-22T00:20:59.595323"
+title = "HR00903"
+longTitle = "RESOLUTION URGING THE EXECUTIVE DEPARTMENT TO ESTABLISH THE ENTERTAINMENT INDUSTRY BOARD (EIB) UNDER THE DEPARTMENT OF LABOR AND EMPLOYMENT"
+scope = "National"
+dateFiled = "1996-10-10"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1996-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1996-10-14"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117957
+congress = 10
+bill_no = "HR00903"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1996-10-14"

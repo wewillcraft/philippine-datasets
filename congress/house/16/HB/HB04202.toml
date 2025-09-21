@@ -1,0 +1,70 @@
+billNumber = "HB04202"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04202"
+lastScraped = "2025-09-21T23:56:22.252576"
+title = "Granting Philippine Citizenship To Reverend Father ' Swamy' Chatharajupally Balashowry"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO REVEREND FATHER 'SWAMY' CHATHARAJUPALLY BALASHOWRY"
+scope = "National"
+dateFiled = "2014-03-13"
+status = "Pending With Rules (Included in OB on 2014-05-05)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Karlo Alexei B."
+coAuthors = [ "TUPAS, NEIL JR C.",]
+[[authorsDetail]]
+name = "Nograles, Karlo Alexei B."
+nameCode = "Nograles"
+date = "2014-03-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TUPAS, NEIL JR C."
+nameCode = "Tupas"
+date = "2014-03-13"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-05-05"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[motherBills]]
+bill_no = "HB03752"
+sequence = 1
+date = "2014-03-13"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03752"
+sequence = 1
+date = "2014-03-13"
+flag = "S"
+
+[firstReading]
+id = 50016
+congress = 16
+bill_no = "HB04202"
+report = "00164"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "JUSTICE"
+recomm = "approval in substitution of HB No. 3752"
+remarks = ""
+file = "CR00164.pdf"
+date_read = "2014-05-05"
+date_ob = "2014-05-05"
+date_report = "2014-03-13"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00164.pdf"

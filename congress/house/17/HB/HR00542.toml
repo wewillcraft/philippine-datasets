@@ -1,0 +1,46 @@
+billNumber = "HR00542"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00542"
+lastScraped = "2025-09-21T23:55:46.342932"
+title = "HR00542"
+longTitle = "A RESOLUTION PROPOSING FOR THE CREATION OF AN INDEPENDENT AD HOC COMMITTEE ON THE ANTI-DRUG CAMPAIGN TO PROVIDE APPROPRIATE AND SOUND RECOMMENDATIONS TO EFFECTIVELY ADDRESS THE PHILIPPINES' DRUG PROBLEMS"
+scope = "National"
+dateFiled = "2016-11-10"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2016-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00542.pdf"
+fileSize = 381224
+author = "Alejano, Gary C."
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2016-11-10"
+sequence = 1
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2016-11-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43284
+congress = 17
+bill_no = "HR00542"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-11-16"

@@ -1,0 +1,47 @@
+billNumber = "HR00840"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00840"
+lastScraped = "2025-09-22T00:20:59.583598"
+title = "HR00840"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CIVIL SERVICE TO INVESTIGATE, IN AID OF LEGISLATION, ALL PROFESSIONAL LICENSURE EXAMINATION BOARDS REGARDING THE MECHANICS THEY USE IN GIVING EXAMINATION AND THE PROCESS OF RATING OUR PROFESSIONALS IN VIEW OF COMPLAINTS FROM VARIOUS SECTORS OF ALLEGED LEAKAGES"
+scope = "National"
+dateFiled = "1996-09-09"
+status = "Pending with the Committee on RULES since 1996-09-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 117894
+congress = 10
+bill_no = "HR00840"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Civil Service and Profession al Regulatio"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-11"

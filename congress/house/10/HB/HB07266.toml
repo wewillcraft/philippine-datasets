@@ -1,0 +1,89 @@
+billNumber = "HB07266"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07266"
+lastScraped = "2025-09-22T00:20:58.709388"
+title = "HB07266"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TECHNOLOGY TRAINING CENTER AT THE SIQUIJOR STATE COLLEGE"
+scope = "Local"
+dateFiled = "1996-06-03"
+status = "Approved by the House on 1996-07-24, transmitted to on 1996-07-25 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua, Orlando  B."
+coAuthors = [ "BAGATSING, RAMON JR. S.", "SCIENCE AND TECHNOLOGY",]
+[[authorsDetail]]
+name = "Fua, Orlando  B."
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SCIENCE AND TECHNOLOGY"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[motherBills]]
+bill_no = "HB02487"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02487"
+flag = "S"
+
+[firstReading]
+id = 113687
+congress = 10
+bill_no = "HB07266"
+report = "00458"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1996-06-03"
+date_ob = "1996-06-03"
+date_report = "1996-06-03"
+
+[secondReading]
+id = 18466
+congress = 10
+bill_no = "HB07266"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-06-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3062
+congress = 10
+bill_no = "HB07266"
+date_dist = "1996-06-08"
+date_adopt = "1996-07-24"
+no_yeas = 174
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-07-25"
+date_rec = "1996-07-30"

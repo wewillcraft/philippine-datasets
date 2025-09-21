@@ -1,0 +1,46 @@
+billNumber = "HB04324"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04324"
+lastScraped = "2025-09-22T00:20:58.183571"
+title = "HB04324"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN ALTERNATE BRIDGE AND BYPASS ROAD IN THE CITY OF BUTUAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110745
+congress = 10
+bill_no = "HB04324"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-10-24"

@@ -1,0 +1,46 @@
+billNumber = "HB07773"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07773"
+lastScraped = "2025-09-22T00:20:58.799411"
+title = "HB07773"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A HEALTH CENTER IN BARANGAY PAANG BUNDOK IN QUEZON CITY TO BE KNOWN AS THE LYING-IN BARANGAY PAANG BUNDOK HEALTH CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-14"
+status = "Pending with the Committee on HEALTH since 1996-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calalay"
+[[authorsDetail]]
+name = "Calalay"
+nameCode = "Calalay"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-08-20"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114194
+congress = 10
+bill_no = "HB07773"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-08-20"

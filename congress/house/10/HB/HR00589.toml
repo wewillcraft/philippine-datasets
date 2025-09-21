@@ -1,0 +1,42 @@
+billNumber = "HR00589"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00589"
+lastScraped = "2025-09-22T00:20:59.533688"
+title = "HR00589"
+longTitle = "RESOLUTION DIRECTING THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO EVALUATE, IN AID OF LEGISLATION, THE EFFECTIVENESS OF THE MEDIUM TERM PHILIPPINE DEVELOPMENT PLAN"
+scope = "National"
+dateFiled = "1996-04-30"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1996-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1996-05-08"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117643
+congress = 10
+bill_no = "HR00589"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Economic Affairs on May 13, 1996."
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1996-05-08"

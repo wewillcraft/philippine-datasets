@@ -1,0 +1,42 @@
+billNumber = "HR00421"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00421"
+lastScraped = "2025-09-22T00:47:02.606457"
+title = "HR00421"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON BANKS AND CURRENCIES TO LOOK INTO THE MATTER OF INCREASING THE SALARIES, ALLOWANCES AND OTHER BENEFITS RECEIVED BY THE RANK AND FILE EMPLOYEES OF THE PHILIPPINENATIO NAL BANK"
+scope = "National"
+dateFiled = "1987-10-08"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1987-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1987-10-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170313
+congress = 8
+bill_no = "HR00421"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1987-10-12"

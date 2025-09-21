@@ -1,0 +1,60 @@
+billNumber = "HB03900"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB03900"
+lastScraped = "2025-09-22T00:01:45.739519"
+title = "HB03900"
+longTitle = "AN ACT CREATING THE NATIONAL COMMISSION ON DISABILITY AFFAIRS, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIES AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-08-14"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2020-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB03900.pdf"
+fileSize = 3968380
+author = "Vargas, Alfred D."
+coAuthors = [ "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2019-08-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2020-02-26"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2019-08-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "secondary"
+referralCode = "J501"
+
+[firstReading]
+id = 23309
+congress = 18
+bill_no = "HB03900"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-01-28"
+date_read = "2019-08-27"

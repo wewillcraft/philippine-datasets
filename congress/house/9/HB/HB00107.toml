@@ -1,0 +1,47 @@
+billNumber = "HB00107"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00107"
+lastScraped = "2025-09-22T00:25:54.611821"
+title = "HB00107"
+longTitle = "AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF TALISAY, PROVINCE OF NEGROS OCCIDENTAL, INTO A FIVE (5)-BED CAPACITY HEALTH INFIRMARY, TO BE KNOWN AS THE TALISAY HEALTH INFIRMARY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-15"
+status = "Pending with the Committee on HEALTH since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118726
+congress = 9
+bill_no = "HB00107"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-07-28"

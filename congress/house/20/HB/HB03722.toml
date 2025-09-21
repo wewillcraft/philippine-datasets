@@ -1,0 +1,46 @@
+billNumber = "HB03722"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03722"
+lastScraped = "2025-09-21T23:39:49.002455"
+title = "HB03722"
+longTitle = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 7277, AS AMENDED, OTHERWISE KNOWN AS THE \"MAGNA CARTA FOR PERSONS WITH DISABILITY\" AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-08-13"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2025-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB03722.pdf"
+fileSize = 300314
+author = "POE, BRIAN"
+[[authorsDetail]]
+name = "POE, BRIAN"
+nameCode = "Poe"
+date = "2025-08-13"
+sequence = 1
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2025-08-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 3723
+congress = 103
+bill_no = "HB03722"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-18"

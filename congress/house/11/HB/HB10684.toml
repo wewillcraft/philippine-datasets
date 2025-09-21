@@ -1,0 +1,91 @@
+billNumber = "HB10684"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10684"
+lastScraped = "2025-09-22T00:23:17.544634"
+title = "HB10684"
+longTitle = "AN ACT DECLARING AND CONVERTING THE ARINGAY-TUBAO ARTERIAL ROAD IN THE SECOND DISTRICT, PROVINCE OF LA UNION INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-04-11"
+status = "Approved by the House on 2000-05-23, transmitted to on 2000-05-24 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dumpit, Tomas M."
+coAuthors = [ "ORTEGA, MANUEL C.",]
+[[authorsDetail]]
+name = "Dumpit, Tomas M."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, MANUEL C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-04-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HB03138"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB04310"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03138"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04310"
+flag = "S"
+
+[firstReading]
+id = 102099
+congress = 11
+bill_no = "HB10684"
+report = "00752"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "2000-04-11"
+date_ob = "2000-04-11"
+date_report = "2000-04-11"
+
+[secondReading]
+id = 17176
+congress = 11
+bill_no = "HB10684"
+remarks = "Considered the Explanatory Note of HBs 3138 and 4310 as sponsorship   remarks."
+date_approved = "2000-04-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4416
+congress = 11
+bill_no = "HB10684"
+date_dist = "2000-05-09"
+date_adopt = "2000-05-23"
+no_yeas = 162
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-05-24"
+date_rec = "2000-05-30"

@@ -1,0 +1,56 @@
+billNumber = "HR01507"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01507"
+lastScraped = "2025-09-22T00:20:59.710698"
+title = "HR01507"
+longTitle = "RESOLUTION URGING THE COMMISSION ON HIGHER EDUCATION AND THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS, TO INTEGRATE LABOR EDUCATION AS A SUBJECT IN THE TERTIARY AND SECONDARY CURRICULA"
+scope = "National"
+dateFiled = "1998-02-03"
+status = "Adopted as Resolution No. HR00146 on 1998-02-13"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-02-04"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 118561
+congress = 10
+bill_no = "HR01507"
+report = "01497"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "Adoption"
+date_read = "1998-02-04"
+date_report = "1998-02-13"
+
+[secondReading]
+id = 19060
+congress = 10
+bill_no = "HR01507"
+adopted_resolution = "HR00146"
+date_calendared = "1998-02-13"
+date_approved = "1998-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00146.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00146.pdf"

@@ -1,0 +1,47 @@
+billNumber = "HR00933"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00933"
+lastScraped = "2025-09-22T00:20:59.602148"
+title = "HR00933"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ANOMALOUS BILLING BY TELEPHONE COMPANIES ATTRIBUTABLE TO THE OPERATION OF THE INTERNATIONAL DIRECT DIALING (IDD) AND DOMESTIC DIRECT DIALING (DDD) SERVICES"
+scope = "National"
+dateFiled = "1996-11-04"
+status = "Pending with the Committee on RULES since 1996-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-06"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 117987
+congress = 10
+bill_no = "HR00933"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Transporta tion and Commmunica tions on N"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-06"

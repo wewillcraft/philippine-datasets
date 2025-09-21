@@ -1,0 +1,47 @@
+billNumber = "HR01834"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01834"
+lastScraped = "2025-09-21T23:55:46.604249"
+title = "HR01834"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND OTHER APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION, ON THE ALLEGED ILLEGAL CHARGES BEING IMPOSED BY GRAB TO ITS CUSTOMERS"
+scope = "National"
+dateFiled = "2018-05-02"
+status = "Pending with the Committee on TRANSPORTATION since 2018-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01834.pdf"
+fileSize = 266799
+author = "Villafuerte, Luis Raymund \"Lray\" Jr. F."
+[[authorsDetail]]
+name = "Villafuerte, Luis Raymund \"Lray\" Jr. F."
+nameCode = "Villafuerte"
+date = "2018-05-02"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2018-05-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 44576
+congress = 17
+bill_no = "HR01834"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-05-30"
+date_read = "2018-05-21"

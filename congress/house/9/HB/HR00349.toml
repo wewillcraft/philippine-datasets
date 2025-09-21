@@ -1,0 +1,42 @@
+billNumber = "HR00349"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00349"
+lastScraped = "2025-09-22T00:25:57.430114"
+title = "HR00349"
+longTitle = "RESOLUTION EXPRESSING THE COMMITMENT OF THE HOUSE OF REPRESENTATIVES TO PURSUE THE IMPLEMENTATION OF THE RECOMMENDATIONS MADE BY THE CONGRESSIONAL COMMISSION ON EDUCATION TO IMPROVE THE QUALITY OF PHILIPPINE EDUCATION"
+scope = "National"
+dateFiled = "1992-11-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tugung"
+[[authorsDetail]]
+name = "Tugung"
+nameCode = "Tugung"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-11-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133661
+congress = 9
+bill_no = "HR00349"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-11-18"

@@ -1,0 +1,65 @@
+billNumber = "HR00581"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00581"
+lastScraped = "2025-09-22T00:13:01.268572"
+title = "Health and Environmental Hazards Posed by the Mirant Power Plant in Pagbilao, Quezon"
+longTitle = "RESOLUTION INQUIRING INTO THE HEALTH AND ENVIRONMENTAL HAZARDS POSED BY THE OPERATION OF THE MIRANT POWER PLANT IN PAGBILAO, QUEZON"
+scope = "Local"
+dateFiled = "2002-05-21"
+status = "Adopted Resolution (Pending with the committee on ECOLOGY since 2002-08-07)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nantes, Rafael P."
+coAuthors = [ "RULES",]
+[[authorsDetail]]
+name = "Nantes, Rafael P."
+nameCode = "Nantes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-05-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 90518
+congress = 12
+bill_no = "HR00581"
+report = "00648"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-05-27"
+date_report = "2002-08-06"
+
+[secondReading]
+id = 15213
+congress = 12
+bill_no = "HR00581"
+adopted_resolution = "HR00303"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE HEALTH AND ENVIRONMENTAL HAZARDS POSED BY THE OPERATION OF THE MIRANT POWER PLANT IN PAGBILAO, QUEZON"
+date_calendared = "2002-08-07"
+date_approved = "2002-08-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-08-07"

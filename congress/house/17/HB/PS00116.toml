@@ -1,0 +1,46 @@
+billNumber = "PS00116"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=PS00116"
+lastScraped = "2025-09-21T23:55:46.756258"
+title = "Three - Digit Number Coding Scheme"
+longTitle = "ISSUES ON METRO MANILA TRAFFIC"
+scope = "National"
+dateFiled = "2016-11-21"
+status = "Pending with the Committee on TRANSPORTATION since 2016-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/PS116_Rep. Suarez.pdf"
+fileSize = 126025
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = "2016-11-21"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-11-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 45459
+congress = 17
+bill_no = "PS00116"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-11-29"

@@ -1,0 +1,42 @@
+billNumber = "HB10423"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10423"
+lastScraped = "2025-09-22T00:25:56.483619"
+title = "HB10423"
+longTitle = "AN ACT REVISING CERTAIN PRACTICES IN THE COUNTRY'S DUTY-FREE SHOPS"
+scope = "National"
+dateFiled = "1993-08-17"
+status = "Pending with the Committee on TOURISM since 1993-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-08-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 129041
+congress = 9
+bill_no = "HB10423"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-08-24"

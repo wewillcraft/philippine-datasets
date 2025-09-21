@@ -1,0 +1,46 @@
+billNumber = "HB08589"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08589"
+lastScraped = "2025-09-22T00:20:58.992618"
+title = "HB08589"
+longTitle = "AN ACT AUTHORIZING THE CREATION OF ONE (1) ADDITIONAL BRANCH OF THE MUNICIPAL TRIAL COURT IN CITY (MTCC) IN LIPA CITY AND ONE (1) ADDITIONAL BRANCH IN BATANGAS CITY, ALL IN THE PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on JUSTICE since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115010
+congress = 10
+bill_no = "HB08589"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-12-12"

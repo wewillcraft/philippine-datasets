@@ -1,0 +1,57 @@
+billNumber = "HR00473"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00473"
+lastScraped = "2025-09-22T00:13:01.244671"
+title = "HR00473"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON TRANSPORTATION AND COMMUNICATIONS AND GAMES AND AMUSEMENT TO CONDUCT INQUIRIES, IN AID OF LEGISLATION, INTO THE ALLEGED `TEXT GAMBLING', ADVERTISED AS `TXTCITING' BY GLOBE TELECOM, INC. AND `TEXT TO MILLIONS' BY SMART COMMUNICATIONS, INC. OTHERWISE KNOWN AS GAMES OF CHANCE BY THE USE OF SHORT MESSAGE SERVICE (SMS) OR TEXT MESSAGING"
+scope = "Local"
+dateFiled = "2002-03-12"
+status = "Adopted Resolution (Pending with the committee on GAMES AND AMUSEMENTS since 2002-05-07)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = "Syjuco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-03-15"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 90410
+congress = 12
+bill_no = "HR00473"
+report = "00426"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-03-15"
+date_report = "2002-05-07"
+
+[secondReading]
+id = 15143
+congress = 12
+bill_no = "HR00473"
+adopted_resolution = "HR00216"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON GAMES AND AMUSEMENTS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED TEXT GAMBLING, ADVERTISED AS ?TXTCITING? BY GLOBE TELECOM, INC. AND ?TEXT TO MILLIONS? BY SMART COMMUNICATIONS, INC., OTHERWISE KNOWN AS GAMES OF CHANCE BY THE USE OF SHORT MESSAGE SERVICE (SMS) OR TEXT MESSAGING"
+date_calendared = "2002-05-07"
+date_approved = "2002-05-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-05-07"

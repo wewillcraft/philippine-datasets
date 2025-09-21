@@ -1,0 +1,69 @@
+billNumber = "HB02905"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02905"
+lastScraped = "2025-09-22T00:13:48.363826"
+title = "Anti-Noise Pollution Act of 2004"
+longTitle = "AN ACT REGULATING NOISE AND ITS SOURCES AND PROVIDING PENALTIES FOR ITS VIOLATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2004-09-15"
+status = "Pending with the Committee on ECOLOGY since 2004-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02905.pdf"
+fileSize = 5438787
+author = "Syjuco, Judy"
+coAuthors = [ "TULAGAN, GENEROSO DC.", "SUSANO, MARY ANN L.", "ALMARIO, J. MAYO Z.",]
+[[authorsDetail]]
+name = "Syjuco, Judy"
+nameCode = "Syjuco"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SUSANO, MARY ANN L."
+nameCode = "Susano"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALMARIO, J. MAYO Z."
+nameCode = "Almario"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2004-09-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 77995
+congress = 13
+bill_no = "HB02905"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-09-21"
+date_read = "2004-09-21"

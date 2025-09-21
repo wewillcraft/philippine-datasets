@@ -1,0 +1,47 @@
+billNumber = "HB08689"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08689"
+lastScraped = "2025-09-22T00:25:56.165171"
+title = "HB08689"
+longTitle = "AN ACT CONVERTING THE RURAL HEALTH UNIT OF THE MUNICIPALITY OF MARIVELES, PROVINCE OF BATAAN, INTO A 50-BED COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-12"
+status = "Pending with the Committee on HEALTH since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Venegas"
+[[authorsDetail]]
+name = "Venegas"
+nameCode = "Venegas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127308
+congress = 9
+bill_no = "HB08689"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-04"

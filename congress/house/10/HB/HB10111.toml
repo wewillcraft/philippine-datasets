@@ -1,0 +1,49 @@
+billNumber = "HB10111"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10111"
+lastScraped = "2025-09-22T00:20:59.316345"
+title = "HB10111"
+longTitle = "AN ACT TO AMEND SECTION 64 OF BATAS PAMBANSA BILANG 68, OTHERWISE KNOWN AS THE CORPORATION CODE OF THE PHILIPPINES (RE:  ISSUANCE OF STOCK CERTIFICATES)"
+scope = "National"
+dateFiled = "1997-10-14"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116532
+congress = 10
+bill_no = "HB10111"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-10-20"

@@ -1,0 +1,42 @@
+billNumber = "HB08493"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08493"
+lastScraped = "2025-09-22T00:46:58.103398"
+title = "HB08493"
+longTitle = "AN ACT ESTABLISHING A PUBLIC INFORMATION CENTER IN BARANGAY BATO-BATO, BALIMBING, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-28"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1988-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1988-05-04"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 143170
+congress = 8
+bill_no = "HB08493"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1988-05-04"

@@ -1,0 +1,49 @@
+billNumber = "HB10319"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10319"
+lastScraped = "2025-09-22T00:20:59.358618"
+title = "HB10319"
+longTitle = "AN ACT ENHANCING THE POSITION CLASSIFICATION OF GUIDANCE COUNSELOR III AND GUIDANCE COORDINATOR IN PUBLIC ELEMENTARY AND SECONDARY SCHOOLS, FIXING THEIR MINIMUM SALARY GRADES, AMENDING FOR THE PURPOSE THE COMPENSATION AND POSITION CLASSIFICATION ACTOF 1989"
+scope = "National"
+dateFiled = "1997-11-25"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-12-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-12-01"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 116740
+congress = 10
+bill_no = "HB10319"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-12-01"

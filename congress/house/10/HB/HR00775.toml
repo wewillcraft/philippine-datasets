@@ -1,0 +1,47 @@
+billNumber = "HR00775"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00775"
+lastScraped = "2025-09-22T00:20:59.571683"
+title = "HR00775"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES FOR THE COMMISSION ON AUDIT (COA) TO CONDUCT A POST - AUDIT OF THE CONGRESSIONAL INITIATIVE ALLOCATIONS (CIAs) OR CONGRESSIONAL INSERTIONS (CIs) ASSIGNED TO ALL CONGRESSMEN/CON GRESSWOMEN TO FUND THEIR PROJECTS IN THEIR DISTRICTS FROM 1993 TO 1996, INCLUSIVE"
+scope = "National"
+dateFiled = "1996-08-07"
+status = "Pending with the Committee on RULES since 1996-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 117829
+congress = 10
+bill_no = "HR00775"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte.on Appropriat ions on Aug. 13, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-12"

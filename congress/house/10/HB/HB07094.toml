@@ -1,0 +1,46 @@
+billNumber = "HB07094"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07094"
+lastScraped = "2025-09-22T00:20:58.673553"
+title = "HB07094"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MULTIPURPOSE WAITING SHED IN BARANGAY TAMBOBO, MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-05-28"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113515
+congress = 10
+bill_no = "HB07094"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-05-28"

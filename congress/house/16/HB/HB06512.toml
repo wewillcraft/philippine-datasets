@@ -1,0 +1,54 @@
+billNumber = "HB06512"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06512"
+lastScraped = "2025-09-21T23:56:22.782881"
+title = "HB06512"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO PAUL GERHARD SCHAFER"
+scope = "National"
+dateFiled = "2016-04-25"
+status = "Pending with the Committee on JUSTICE since 2016-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB06512.pdf"
+fileSize = 493558
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2016-04-25"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = "2016-04-25"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-05-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52326
+congress = 16
+bill_no = "HB06512"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-05-23"

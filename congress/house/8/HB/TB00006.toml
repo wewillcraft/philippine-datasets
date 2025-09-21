@@ -1,0 +1,51 @@
+billNumber = "TB00006"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=TB00006"
+lastScraped = "2025-09-22T00:47:03.035195"
+title = "TB00006"
+longTitle = "TEMPORARY BILL FOR SB29"
+scope = "National"
+dateFiled = "1989-06-06"
+status = "REPUBLIC ACT (RA07323) enacted on 1992-03-30"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1989-06-07"
+
+[firstReading]
+id = 172337
+congress = 8
+bill_no = "TB00006"
+report = "01777"
+comm_act = "recommending approval with amendments on January 29, 1992"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1989-06-07"
+date_report = "1992-01-29"
+
+[secondReading]
+id = 21711
+congress = 8
+bill_no = "TB00006"
+date_approved = "1992-01-30"
+
+[thirdReading]
+id = 1349
+congress = 8
+bill_no = "TB00006"
+date_dist = "1992-01-30"
+date_adopt = "1992-02-03"
+remarks = "Returned to the Senate on February 3, 1992"
+no_yeas = 128
+date_trans = "1992-02-03"
+date_spass = "1992-02-06"
+act_pres = "A"
+dte_actedp = "1992-03-30"

@@ -1,0 +1,42 @@
+billNumber = "HB03783"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03783"
+lastScraped = "2025-09-22T00:46:57.226083"
+title = "HB03783"
+longTitle = "AN ACT FIXING NEW MINIMUM PRICES OF LOCALLY GROWNVIRGINIA LEAF TOBACCO"
+scope = "National"
+dateFiled = "1987-11-18"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson"
+[[authorsDetail]]
+name = "Singson"
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-11-23"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 138469
+congress = 8
+bill_no = "HB03783"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-11-23"

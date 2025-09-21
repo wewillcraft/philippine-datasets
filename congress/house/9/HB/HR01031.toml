@@ -1,0 +1,43 @@
+billNumber = "HR01031"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01031"
+lastScraped = "2025-09-22T00:25:57.557058"
+title = "HR01031"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, TO REVIEW THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS' POLICY TOWARDS PUBLIC UTILITY VEHICLES"
+scope = "National"
+dateFiled = "1994-05-04"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1994-05-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1994-05-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134338
+congress = 9
+bill_no = "HR01031"
+comm_act = "Change of referral from the Ctte. on Rules on May 12, 1994 (J80, p.255)"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1994-05-11"

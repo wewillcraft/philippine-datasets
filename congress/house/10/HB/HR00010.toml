@@ -1,0 +1,49 @@
+billNumber = "HR00010"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00010"
+lastScraped = "2025-09-22T00:20:59.426851"
+title = "HR00010"
+longTitle = "RESOLUTION CALLING FOR AN URGENT AND SERIOUS REVIEW OF THE PHILIPPINE GOVERNMENT'S FOREIGN POLICY TOWARDS THE PEOPLE'S REPUBLIC OF CHINA AND TAIWAN, AND RATIONALIZING THE DESIRE OF THE HOUSE OF REPRESENTATIVES TO SUPPORT THE RECOGNITION OF TAIWAN BYTHE PHILIPPINE GOVERNMENT"
+scope = "National"
+dateFiled = "1995-07-04"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 117064
+congress = 10
+bill_no = "HR00010"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1995-07-25"

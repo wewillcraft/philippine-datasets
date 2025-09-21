@@ -1,0 +1,54 @@
+billNumber = "HB07833"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07833"
+lastScraped = "2025-09-22T00:20:58.850727"
+title = "HB07833"
+longTitle = "AN ACT CONVERTING THE SULU PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF JOLO INTO A REGIONAL HOSPITAL TO BE KNOWN AS THE SULU REGIONAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-27"
+status = "Pending with the Committee on HEALTH since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tulawie"
+coAuthors = [ "ADIONG, ABDULMALIK MAMINTAL M.",]
+[[authorsDetail]]
+name = "Tulawie"
+nameCode = "Tulawie"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ADIONG, ABDULMALIK MAMINTAL M."
+nameCode = "Adiong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114254
+congress = 10
+bill_no = "HB07833"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-09-02"

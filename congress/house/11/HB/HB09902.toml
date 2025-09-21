@@ -1,0 +1,59 @@
+billNumber = "HB09902"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB09902"
+lastScraped = "2025-09-22T00:23:17.410187"
+title = "HB09902"
+longTitle = "AN ACT INSTITUTING A PROGRAM OF ENVIRONMENTAL EDUCATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2000-03-14"
+status = "Pending with the Committee on ECOLOGY since 2000-03-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "PONCE, NESTOR JR. C.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE, NESTOR JR. C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2000-03-20"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 101335
+congress = 11
+bill_no = "HB09902"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "2000-03-20"

@@ -1,0 +1,76 @@
+billNumber = "HB01432"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01432"
+lastScraped = "2025-09-22T00:20:57.620325"
+title = "HB01432"
+longTitle = "AN ACT CONVERTING THE BASILAN PROVINCIAL IN THE MUNICIPALITY OF ISABELA, PROVINCE OF BASILAN INTO A GENERAL HOSPITAL TO BE KNOWN AS THE BASILAN GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-27"
+status = "REPUBLIC ACT RA08543 (Lapsed into law on 1998-02-23)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107853
+congress = 10
+bill_no = "HB01432"
+report = "00352"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-08-02"
+date_ob = "1996-04-30"
+date_report = "1996-04-17"
+
+[secondReading]
+id = 17796
+congress = 10
+bill_no = "HB01432"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2416
+congress = 10
+bill_no = "HB01432"
+date_dist = "1996-05-15"
+date_adopt = "1996-05-20"
+no_yeas = 156
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-23"
+date_agram = "1997-12-02"
+amend_ind = "Y"
+act_pres = "L"
+dte_transp = "1998-01-22"
+dte_actedp = "1998-02-23"

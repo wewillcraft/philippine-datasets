@@ -1,0 +1,41 @@
+billNumber = "HR00360"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00360"
+lastScraped = "2025-09-22T00:20:59.490047"
+title = "HR00360"
+longTitle = "RESOLUTION ENDORSING ATTY. JOSE MANUEL P. TAN AS THE REGIONAL DIRECTOR OF THE COMMISSION OF AUDIT FOR REGION XIII"
+scope = "Local"
+dateFiled = "1995-12-06"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1995-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Navarro"
+[[authorsDetail]]
+name = "Navarro"
+nameCode = "Navarro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117414
+congress = 10
+bill_no = "HR00360"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1995-12-12"

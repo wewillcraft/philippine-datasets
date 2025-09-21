@@ -1,0 +1,46 @@
+billNumber = "HB07624"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07624"
+lastScraped = "2025-09-22T00:20:58.772012"
+title = "HB07624"
+longTitle = "AN ACT ESTABLISHING A RECYCLING CENTER IN THE MUNICIPALITY OF CALAMBA, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-30"
+status = "Pending with the Committee on ECOLOGY since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114045
+congress = 10
+bill_no = "HB07624"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-08-05"

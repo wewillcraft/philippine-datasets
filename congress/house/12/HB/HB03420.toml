@@ -1,0 +1,47 @@
+billNumber = "HB03420"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03420"
+lastScraped = "2025-09-22T00:13:00.420731"
+title = "HB03420"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETING OF THE MERIDA - LUNDAG - PUTTING BATO NATIONAL ROAD LOCATED IN THE MUNICIPALITY OF MERIDA, PROVINCE OF LEYTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86580
+congress = 12
+bill_no = "HB03420"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-10-15"

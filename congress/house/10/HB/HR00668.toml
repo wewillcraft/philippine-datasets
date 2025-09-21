@@ -1,0 +1,42 @@
+billNumber = "HR00668"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00668"
+lastScraped = "2025-09-22T00:20:59.550544"
+title = "HR00668"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CAUSES OF THE DELAY IN THE ADJUDICATION OF CASES ON APPEAL OR REVIEW IN VARIOUS GOVERNMENT AGENCIES WITH JUDICIAL AND QUASI-JUDICIAL POWERS ANDTO PROPOSE REMEDIAL MEASURES FOR THE EXPEDITIOUS DISPOSITION OR SETTLEMENT OF SUCH CASES"
+scope = "National"
+dateFiled = "1996-06-05"
+status = "Pending with the Committee on JUSTICE since 1996-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-06-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117722
+congress = 10
+bill_no = "HR00668"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Justice on June 6, 1996."
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-06-06"

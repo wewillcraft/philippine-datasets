@@ -1,0 +1,67 @@
+billNumber = "HR00847"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00847"
+lastScraped = "2025-09-22T00:20:59.585046"
+title = "HR00847"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEES ON HEALTH AND ECOLOGY, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON WAYS TO ENSURE THE PROVISION OF SANITARY SUPPLIES OF DRINKING WATER TO THE POPULATION IN ORDER TO ARREST THE OUTBREAK OF CHOLERA AND OTHER WATER-BORNE DISEASES IN THE COUNTRY"
+scope = "National"
+dateFiled = "1996-09-11"
+status = "Pending with the Committee on RULES since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "CALALAY, REYNALDO A.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 117901
+congress = 10
+bill_no = "HR00847"
+comm_act = "Change of Referral from the Ctte.on Rules to the Ctte's. on Health and on Ecology on Sept. 24, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-23"

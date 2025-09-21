@@ -1,0 +1,55 @@
+billNumber = "HR00546"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00546"
+lastScraped = "2025-09-22T00:20:59.525106"
+title = "HR00546"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR AND EMPLOYMENT AND THE COMMITTEE ON FAMILY RELATIONS AND POPULATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE SOCIAL EFFECTS OF THE MIGRATION OF WORKERS ON THEIR FAMILIES AND ON EXISTING GOVERNMENT SUPPORT GIVEN TO MIGRANT RETURNEES"
+scope = "National"
+dateFiled = "1996-03-18"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "secondary"
+referralCode = "0512"
+
+[firstReading]
+id = 117600
+congress = 10
+bill_no = "HR00546"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment and on Population"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1996-03-21"

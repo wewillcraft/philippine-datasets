@@ -1,0 +1,50 @@
+billNumber = "HR01004"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01004"
+lastScraped = "2025-09-22T00:47:02.731449"
+title = "HR01004"
+longTitle = "RESOLUTION EXPRESSING THE STRONG SENTIMENT OF THEHOUSE OF REPRESENTATIVES AGAINST THE ALIEN LEGALIZATION PROGRAM OF THE COMMISSION ON IMMIGRATION AND DEPORTATION"
+scope = "National"
+dateFiled = "1988-10-19"
+status = "Pending with the Committee on JUSTICE since 1988-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real"
+coAuthors = [ "ESTRELLA, ERNESTO T.",]
+[[authorsDetail]]
+name = "Real"
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESTRELLA, ERNESTO T."
+nameCode = "Estrella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1988-10-21"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170881
+congress = 8
+bill_no = "HR01004"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1988-10-21"

@@ -1,0 +1,62 @@
+billNumber = "HB05391"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05391"
+lastScraped = "2025-09-22T00:13:00.809138"
+title = "HB05391"
+longTitle = "AN ACT ESTABLISHING A COMMERCIAL COURT, GRANTING IT EXCLUSIVE ORIGINAL JURISDICTION OVER COMMERCIAL CASES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2002-10-17"
+status = "Pending with the Committee on JUSTICE since 2002-10-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teodoro, Gilberto Jr. C."
+coAuthors = [ "LIBANAN, MARCELINO C.", "VICENCIO, ROMUALDO T.",]
+[[authorsDetail]]
+name = "Teodoro, Gilberto Jr. C."
+nameCode = "Teodoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VICENCIO, ROMUALDO T."
+nameCode = "Vicencio"
+date = ""
+journalNo = "J029"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-10-22"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88546
+congress = 12
+bill_no = "HB05391"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-10-22"

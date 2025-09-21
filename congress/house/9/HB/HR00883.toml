@@ -1,0 +1,43 @@
+billNumber = "HR00883"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00883"
+lastScraped = "2025-09-22T00:25:57.528963"
+title = "HR00883"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO IMMEDIATELY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPOSED INCREASE IN THE PRICES OF OIL AND ITS PRODUCTS AND TO SUBMIT ITS FINDINGS AND RECOMMENDATIONS TO PROTECT AND SAFEGUARD THE INTERESTS AND WELFARE OF THE PUBLIC CONSUMERS"
+scope = "National"
+dateFiled = "1993-12-06"
+status = "Pending with the Committee on ENERGY since 1993-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-12-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134190
+congress = 9
+bill_no = "HR00883"
+comm_act = "Change of referral from the Committee on Rules(J.49 ,p.6)"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-12-08"

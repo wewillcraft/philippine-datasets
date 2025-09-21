@@ -1,0 +1,76 @@
+billNumber = "HB01813"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01813"
+lastScraped = "2025-09-22T00:13:00.130060"
+title = "HB01813"
+longTitle = "AN ACT GRANTING SPECIAL INCENTIVES TO PUBLIC PROSECUTORS IN ORDER TO ENCOURAGE THEM TO PERFORM THEIR DUTIES WELL, APPROPRIATING NECESSARY FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-08-01"
+status = "Pending with the Committee on JUSTICE since 2001-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+coAuthors = [ "JALA, ELADIO \"BOY\"", "GOZOS, OSCAR L.", "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JALA, ELADIO \"BOY\""
+nameCode = "Jala"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GOZOS, OSCAR L."
+nameCode = "Gozos"
+date = ""
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J026"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-08-07"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84973
+congress = 12
+bill_no = "HB01813"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-08-07"

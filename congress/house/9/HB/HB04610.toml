@@ -1,0 +1,47 @@
+billNumber = "HB04610"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04610"
+lastScraped = "2025-09-22T00:25:55.460809"
+title = "HB04610"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE ANIMAL BREEDING STATION, IN THE MUNICIPALITY OF ALFONSO, PROVINCE OF CAVITE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-09"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unas"
+[[authorsDetail]]
+name = "Unas"
+nameCode = "Unas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123229
+congress = 9
+bill_no = "HB04610"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-12"

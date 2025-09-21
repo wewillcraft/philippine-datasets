@@ -1,0 +1,69 @@
+billNumber = "HB11983"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11983"
+lastScraped = "2025-09-22T00:25:56.802341"
+title = "HB11983"
+longTitle = "AN ACT PROVIDING FOR THE CREATION OF A SEPARATE ENGINEERING DISTRICT FOR THE FIRST LEGISLATIVE DISTRICT OF CAVITE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1994-02-09"
+status = "Approved by the House on 1995-01-23, transmitted to on 1995-01-25 and received by the Senate on 1995"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1994-02-15"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130598
+congress = 9
+bill_no = "HB11983"
+report = "01065"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1994-02-15"
+date_ob = "1994-12-19"
+date_cal = "1994-12-19"
+date_unass = "1994-12-19"
+date_report = "1994-12-16"
+
+[secondReading]
+id = 19721
+congress = 9
+bill_no = "HB11983"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-12-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1963
+congress = 9
+bill_no = "HB11983"
+date_dist = "1995-01-16"
+date_adopt = "1995-01-23"
+no_yeas = 156
+no_nays = 0
+no_abstent = 0
+date_trans = "1995-01-25"
+date_rec = "1995-01-26"

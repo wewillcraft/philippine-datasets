@@ -1,0 +1,68 @@
+billNumber = "HB07181"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07181"
+lastScraped = "2025-09-22T00:20:58.694752"
+title = "HB07181"
+longTitle = "AN ACT PROVIDING FOR THE PROMOTION OF HEALTH RESEARCH AND DEVELOPMENT, ESTABLISHING FOR THE PURPOSE THE NATIONAL INSTITUTES OF HEALTH (NIH) DEFINING ITS OBJECTIVES, POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-05-29"
+status = "Substituted by HB10497"
+statusOrder = 9.1
+urgent = false
+adminBill = true
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+coAuthors = [ "RAMIREZ, JOSE T.", "ALMENDRAS, ALEJANDRO JR. C.", "DE VENECIA, JOSE JR. C.",]
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALMENDRAS, ALEJANDRO JR. C."
+nameCode = "Almendras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, JOSE JR. C."
+nameCode = "De Venecia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113602
+congress = 10
+bill_no = "HB07181"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-06-03"

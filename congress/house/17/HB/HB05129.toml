@@ -1,0 +1,61 @@
+billNumber = "HB05129"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05129"
+lastScraped = "2025-09-21T23:55:45.098707"
+title = "HB05129"
+longTitle = "AN ACT STRENGTHENING THE OFFICE OF THE OMBUDSMAN AND INCREASING AND BROADENING THE SCOPE OF ITS POWERS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2017-02-27"
+status = "Pending with the Committee on JUSTICE since 2017-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05129.pdf"
+fileSize = 3728341
+author = "Tugna, Sherwin N."
+coAuthors = [ "NIETO, YUL SERVO", "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Tugna, Sherwin N."
+nameCode = "Tugna"
+date = "2017-02-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-05-02"
+journalNo = "J084"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-05-02"
+journalNo = "J084"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2017-03-06"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 38597
+congress = 17
+bill_no = "HB05129"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-03-06"

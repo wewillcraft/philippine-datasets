@@ -1,0 +1,46 @@
+billNumber = "HB01964"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01964"
+lastScraped = "2025-09-22T00:20:57.716074"
+title = "HB01964"
+longTitle = "AN ACT ESTABLISHING A NONFORMAL EDUCATION LEARNING CENTER IN BARANGAY PAQUIBATO, DISTRICT OF PAQUIBATO, CITY OF DAVAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108385
+congress = 10
+bill_no = "HB01964"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-14"

@@ -1,0 +1,41 @@
+billNumber = "HB08465"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08465"
+lastScraped = "2025-09-22T00:20:58.966317"
+title = "HB08465"
+longTitle = "AN ACT TO AMEND SECTION TWO HUNDRED AND FORTY-SIX OF THE NATIONAL INTERNAL REVENUE CODE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-11-19"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-11-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114886
+congress = 10
+bill_no = "HB08465"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-11-21"

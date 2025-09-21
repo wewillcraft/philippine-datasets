@@ -1,0 +1,75 @@
+billNumber = "HB01414"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01414"
+lastScraped = "2025-09-21T23:55:44.347267"
+title = "HB01414"
+longTitle = "AN ACT STRENGTHENING THE HUMAN ORGAN AND TISSUE DONATION AND TRANSPLANTATION PROGRAM, PROVIDING PENALTIES FOR VIOLATION THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-12"
+status = "Pending with the Committee on HEALTH since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01414.pdf"
+fileSize = 4995657
+author = "Salo, Ron P."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "CALALANG, CIRIACO", "FORTUN, LAWRENCE LEMUEL H.", "HERNANDEZ, PAUL P.",]
+[[authorsDetail]]
+name = "Salo, Ron P."
+nameCode = "Salo"
+date = "2016-07-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2016-11-16"
+journalNo = "J045"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CALALANG, CIRIACO"
+nameCode = "Calalang"
+date = "2018-01-23"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "FORTUN, LAWRENCE LEMUEL H."
+nameCode = "Fortun"
+date = "2018-10-02"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "HERNANDEZ, PAUL P."
+nameCode = "Hernandez (P.)"
+date = "2018-12-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 34882
+congress = 17
+bill_no = "HB01414"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

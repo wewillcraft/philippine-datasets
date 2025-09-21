@@ -1,0 +1,55 @@
+billNumber = "HR00198"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00198"
+lastScraped = "2025-09-21T23:56:22.832627"
+title = "HR00198"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPOSED CONSTRUCTION OF DIDUYON HYDROELECTRIC POWER PROJECT IN BARANGAY DIDIPIO, KASIBU, PROVINCE OF NUEVA VIZCAYA"
+scope = "National"
+dateFiled = "2013-08-13"
+status = "Pending with the Committee on ENERGY since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00198.pdf"
+fileSize = 237283
+author = "Padilla, Carlos M."
+coAuthors = [ "DE LA CRUZ, JONATHAN A.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = "2013-08-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DE LA CRUZ, JONATHAN A."
+nameCode = "Dela Cruz"
+date = "2013-08-13"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2013-08-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 52597
+congress = 16
+bill_no = "HR00198"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-08-27"

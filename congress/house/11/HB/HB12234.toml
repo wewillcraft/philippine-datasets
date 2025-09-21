@@ -1,0 +1,100 @@
+billNumber = "HB12234"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12234"
+lastScraped = "2025-09-22T00:23:17.808295"
+title = "HB12234"
+longTitle = "AN ACT PROVIDING FOR THE IMPLEMENTATION OF THE PROVISIONS OF THE 1992 INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE AND THE 1992 INTERNATIONAL CONVENTION ON THE ESTABLISHMENT OF AN INTERNATIONAL FUND FOR COMPENSATION FOR OIL POLLUTION DAMAGE, PROVIDING PENALTIES THEREOF AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2000-08-30"
+status = "Approved by the House on 2000-10-26, transmitted to on 2000-10-26 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "ROMAN, ANTONINO B., III"
+coAuthors = [ "SANDOVAL, VICENTE A.", "VERGARA, BERNARDO M.", "ECOLOGY", "APPROPRIATIONS",]
+[[authorsDetail]]
+name = "ROMAN, ANTONINO B., III"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANDOVAL, VICENTE A."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ECOLOGY"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "APPROPRIATIONS"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-08-30"
+
+[[motherBills]]
+bill_no = "HB08785"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08785"
+flag = "S"
+
+[firstReading]
+id = 103649
+congress = 11
+bill_no = "HB12234"
+report = "01196"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, ECOLOGY"
+recomm = "approval"
+date_read = "2000-08-30"
+date_ob = "2000-08-30"
+date_report = "2000-08-30"
+
+[secondReading]
+id = 17292
+congress = 11
+bill_no = "HB12234"
+remarks = "Considered the Explanatory Note of HB8785 as the sponsorship remarks."
+date_calendared = "2000-09-26"
+date_approved = "2000-10-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4520
+congress = 11
+bill_no = "HB12234"
+date_dist = "2000-10-16"
+date_adopt = "2000-10-26"
+no_yeas = 179
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-10-26"
+date_rec = "2000-11-06"

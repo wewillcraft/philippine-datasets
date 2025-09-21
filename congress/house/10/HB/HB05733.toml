@@ -1,0 +1,74 @@
+billNumber = "HB05733"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05733"
+lastScraped = "2025-09-22T00:20:58.431450"
+title = "HB05733"
+longTitle = "AN ACT DECLARING THE ISLAND OF LUBANG IN THE PROVINCE OF OCCIDENTAL MINDORO A TORUSIM AREA"
+scope = "Local"
+dateFiled = "1996-01-15"
+status = "Approved by the House on 1996-02-28, transmitted to on 1996-02-29 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[motherBills]]
+bill_no = "HB00514"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00514"
+flag = "S"
+
+[firstReading]
+id = 112154
+congress = 10
+bill_no = "HB05733"
+report = "00138"
+referral = "0532"
+ref_name = "RULES"
+recomm = "APPROVAL"
+date_read = "1996-01-22"
+date_ob = "1996-01-22"
+date_report = "1996-01-15"
+
+[secondReading]
+id = 18256
+congress = 10
+bill_no = "HB05733"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-02-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2860
+congress = 10
+bill_no = "HB05733"
+date_dist = "1996-02-08"
+date_adopt = "1996-02-28"
+no_yeas = 147
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-02-29"
+date_rec = "1996-03-06"

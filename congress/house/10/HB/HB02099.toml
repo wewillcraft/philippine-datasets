@@ -1,0 +1,46 @@
+billNumber = "HB02099"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02099"
+lastScraped = "2025-09-22T00:20:57.745382"
+title = "HB02099"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MUNICIPAL LIBRARY IN THE MUNICIPALITY OF JAMINDAN, PROVINCE OF CAPIZ, AND APPROPRIATING FUNDS  THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108520
+congress = 10
+bill_no = "HB02099"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-15"

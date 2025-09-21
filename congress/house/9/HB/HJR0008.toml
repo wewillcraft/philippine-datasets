@@ -1,0 +1,50 @@
+billNumber = "HJR0008"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HJR0008"
+lastScraped = "2025-09-22T00:25:57.362113"
+title = "HJR0008"
+longTitle = "JOINT RESOLUTION CREATING A CONGRESSIONAL COMMISSION TO REVIEW AND ASSESS THE PHILIPPINE CRIME SITUATION AND THE ADMINISTRATION OF JUSTICE"
+scope = "National"
+dateFiled = "1992-11-27"
+status = "Pending with the Committee on JUSTICE since 1992-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "SERAPIO, ANTONIO M.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SERAPIO, ANTONIO M."
+nameCode = "Serapio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-12-09"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 133296
+congress = 9
+bill_no = "HJR0008"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-12-09"

@@ -1,0 +1,75 @@
+billNumber = "HR00454"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00454"
+lastScraped = "2025-09-22T00:25:57.448390"
+title = "HR00454"
+longTitle = "RESOLUTION TO EXPRESS DEEP SORROW OVER THE DEMISE OF HON. PABLO R. SUAREZ JR., EXTENDING THEREBY THE CONDOLENCES OF THE HOUSE OF REPRESENTATIVES TO THE BEREAVED FAMILY OF THE LATE PHILIPPINE AMBASSADOR TO THE UNITED STATES OF AMERICA"
+scope = "Local"
+dateFiled = "1993-01-27"
+status = "Adopted as Resolution No. HR00025 on 1993-02-02"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+coAuthors = [ "GOLEZ, ROILO", "DE VENECIA, JOSE JR. C.", "A L L  MEMBERS",]
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, JOSE JR. C."
+nameCode = "De Venecia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "A L L  MEMBERS"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-02-01"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "principal"
+referralCode = "B511"
+
+[firstReading]
+id = 133766
+congress = 9
+bill_no = "HR00454"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-02-01"
+
+[secondReading]
+id = 20113
+congress = 9
+bill_no = "HR00454"
+adopted_resolution = "HR00025"
+date_approved = "1993-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00454.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00454.pdf"

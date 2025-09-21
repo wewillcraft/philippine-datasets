@@ -1,0 +1,69 @@
+billNumber = "HB04052"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04052"
+lastScraped = "2025-09-22T00:13:00.527890"
+title = "HB04052"
+longTitle = "AN ACT PROVIDING FOR THE PROTECTION AND CONSERVATION OF ENDANGERED AND THREATENED SPECIES OF FISH, WILDLIFE AND PLANTS OF THE PHILIPPINES, AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
+scope = "National"
+dateFiled = "2001-12-06"
+status = "Pending with the Committee on NATURAL RESOURCES since 2001-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "ZAMORA, RONALDO B.", "ECHIVERRI, ENRICO R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = "J066"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J070"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J055"
+sessionNo = "2RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2001-12-18"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87212
+congress = 12
+bill_no = "HB04052"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2001-12-18"

@@ -1,0 +1,42 @@
+billNumber = "HR00143"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00143"
+lastScraped = "2025-09-22T00:25:57.393336"
+title = "HR00143"
+longTitle = "RESOLUTION INSTRUCTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATION TO INVESTIGATE IN AID OF LEGISLATION, THE PHILIPPINE PORTS AUTHORITY ON ITS POLICY OF MONOPOLY IN LICENSING CARGO-HANDLING SERVICE PER PORT OR PIER"
+scope = "National"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[firstReading]
+id = 133455
+congress = 9
+bill_no = "HR00143"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-09-03"

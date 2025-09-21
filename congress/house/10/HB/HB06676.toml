@@ -1,0 +1,46 @@
+billNumber = "HB06676"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06676"
+lastScraped = "2025-09-22T00:20:58.600367"
+title = "HB06676"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A SEAWALL ADJACENT TO THE MUNICIPAL BUILDING OF CATEEL, PROVINCE OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113097
+congress = 10
+bill_no = "HB06676"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-26"

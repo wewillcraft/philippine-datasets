@@ -1,0 +1,42 @@
+billNumber = "HB01656"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01656"
+lastScraped = "2025-09-22T00:46:56.852516"
+title = "HB01656"
+longTitle = "AN ACT REPEALING PRESIDENTIAL DECREE NO. 217 WHICH REQUIRES COMPULSORY INVESTMENT FOR PLDT USERS"
+scope = "National"
+dateFiled = "1987-09-18"
+status = "Pending with the Committee on CORPORATIONS AND FRANCHISES since 1987-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dureza"
+[[authorsDetail]]
+name = "Dureza"
+nameCode = "Dureza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CORPORATIONS AND FRANCHISES"
+type = "primary"
+referralCode = "508"
+dateRead = "1987-09-22"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 136348
+congress = 8
+bill_no = "HB01656"
+referral = "508"
+ref_name = "CORPORATIONS AND FRANCHISES"
+sub_name = ""
+date_read = "1987-09-22"

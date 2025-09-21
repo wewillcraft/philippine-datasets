@@ -1,0 +1,62 @@
+billNumber = "HR01007"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01007"
+lastScraped = "2025-09-22T00:20:59.616299"
+title = "HR01007"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE OPERATIONS OF THE COUNTRY'S TOLLWAYS IN ORDER TO FIND WAYS AND MEANS TO IMPROVE THE SAME"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on RULES since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 118061
+congress = 10
+bill_no = "HR01007"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Transporta tion and Communicat ions on De"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-12"

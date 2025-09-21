@@ -1,0 +1,46 @@
+billNumber = "HB09327"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09327"
+lastScraped = "2025-09-22T00:20:59.143973"
+title = "HB09327"
+longTitle = "AN ACT DECLARING THE ISLANDS OF POLO, MANIWAYA AND MONGPONG, ALL IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF MARINDUQUE, AS TOURISM SPOTS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-04-30"
+status = "Pending with the Committee on TOURISM since 1997-05-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1997-05-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115748
+congress = 10
+bill_no = "HB09327"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1997-05-07"

@@ -1,0 +1,42 @@
+billNumber = "HB00203"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00203"
+lastScraped = "2025-09-22T00:46:56.592098"
+title = "HB00203"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THEMUNICIPALITY OF SOLANO, PROVINCE OF NUEVA VIZCAYA, TO BE KNOWN AS THE SOLANO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla"
+[[authorsDetail]]
+name = "Padilla"
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 134900
+congress = 8
+bill_no = "HB00203"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-08-11"

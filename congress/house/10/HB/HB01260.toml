@@ -1,0 +1,103 @@
+billNumber = "HB01260"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01260"
+lastScraped = "2025-09-22T00:20:57.591587"
+title = "HB01260"
+longTitle = "AN ACT INCREASING THE RETIREMENT AND SEPARATION BENEFITS OF MILITARY PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES, AMENDING FOR THE PURPOSE THE AFP MILITARY PERSONNEL RETIREMENT AND SEPARATION DECREE OF 1979, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-25"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+coAuthors = [ "ROMERO, MIGUEL L.", "YAP, JOSE V.", "GOLEZ, ROILO S.",]
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "YAP, JOSE V."
+nameCode = "Yap"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[motherBills]]
+bill_no = "HB00201"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00201"
+flag = "S"
+
+[firstReading]
+id = 107681
+congress = 10
+bill_no = "HB01260"
+report = "00285"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+recomm = "approval"
+date_read = "1995-07-31"
+date_ob = "1996-03-18"
+date_unass = "1996-04-30"
+date_report = "1996-03-14"
+
+[secondReading]
+id = 17773
+congress = 10
+bill_no = "HB01260"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1996-05-22"
+date_approved = "1996-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2393
+congress = 10
+bill_no = "HB01260"
+date_dist = "1996-06-03"
+date_adopt = "1996-06-06"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-14"

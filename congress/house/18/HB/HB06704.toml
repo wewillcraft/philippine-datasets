@@ -1,0 +1,82 @@
+billNumber = "HB06704"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB06704"
+lastScraped = "2025-09-22T00:01:46.331182"
+title = "HB06704"
+longTitle = "AN ACT INCREASING AND STANDARDIZING THE MINIMUM SALARY GRADE OF ALL GOVERNMENT MEDICAL PRACTITIONERS"
+scope = "National"
+dateFiled = "2020-05-07"
+status = "Pending with the Committee on APPROPRIATIONS since 2020-05-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB06704.pdf"
+fileSize = 1262855
+author = "Defensor, Michael T."
+coAuthors = [ "ROMUALDEZ, FERDINAND MARTIN G.", "FERNANDEZ, DAN S.", "ALONTE-NAGUIAT, LEN B.", "DATOL, FRANCISCO JR. G", "REVILLA, STRIKE B.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2020-05-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDEZ, FERDINAND MARTIN G."
+nameCode = "Romualdez (F.M.)"
+date = "2020-07-15"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FERNANDEZ, DAN S."
+nameCode = "Fernandez"
+date = "2020-08-03"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2020-08-10"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DATOL, FRANCISCO JR. G"
+nameCode = "Datol"
+date = "2020-08-11"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "REVILLA, STRIKE B."
+nameCode = "Revilla"
+date = "2020-08-11"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2020-05-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 26111
+congress = 18
+bill_no = "HB06704"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-05-11"

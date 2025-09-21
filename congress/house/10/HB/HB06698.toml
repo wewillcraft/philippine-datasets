@@ -1,0 +1,61 @@
+billNumber = "HB06698"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06698"
+lastScraped = "2025-09-22T00:20:58.604154"
+title = "HB06698"
+longTitle = "AN ACT ESTABLISHING FIELD OFFICES OF THE BUREAU OF FOOD AND DRUGS IN PROVINCES AND CITIES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-03-26"
+status = "Pending with the Committee on HEALTH since 1996-03-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-03-28"
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "principal"
+referralCode = "0507"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113119
+congress = 10
+bill_no = "HB06698"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-03-28"

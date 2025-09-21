@@ -1,0 +1,42 @@
+billNumber = "HB05204"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05204"
+lastScraped = "2025-09-22T00:46:57.462575"
+title = "HB05204"
+longTitle = "AN ACT CREATING THE POSITION OF THREE (3) ADDITIONAL 4TH ASSISTANT FISCALS IN THE PROVINCE OF DAVAO DEL NORTE"
+scope = "Local"
+dateFiled = "1988-02-01"
+status = "Pending with the Committee on JUSTICE since 1988-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1988-02-04"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 139887
+congress = 8
+bill_no = "HB05204"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1988-02-04"

@@ -1,0 +1,75 @@
+billNumber = "HB01999"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01999"
+lastScraped = "2025-09-21T23:55:44.488188"
+title = "HB01999"
+longTitle = "AN ACT PROVIDING FOR AFFORDABLE DRUG REHABILITATION TREATMENT FOR PHILIPPINE HEALTH INSURANCE CORPORATION (PHIC) BENEFICIARIES, FURTHER AMENDING REPUBLIC ACT 7875, AS AMENDED"
+scope = "National"
+dateFiled = "2016-07-27"
+status = "Pending with the Committee on HEALTH since 2016-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01999.pdf"
+fileSize = 716209
+author = "Tan, Angelina"
+coAuthors = [ "CUEVA, LEO RAFAEL M.", "BRAVO, MARIA VIDA E.", "TAMBUNTING, GUSTAVO S.", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2016-07-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2016-08-23"
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-01-23"
+journalNo = "J060"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2017-02-01"
+journalNo = "J065"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-08"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 35467
+congress = 17
+bill_no = "HB01999"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-08"

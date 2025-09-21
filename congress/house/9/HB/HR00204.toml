@@ -1,0 +1,42 @@
+billNumber = "HR00204"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00204"
+lastScraped = "2025-09-22T00:25:57.403517"
+title = "HR00204"
+longTitle = "RESOLUTION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE POLICIES, MANAGEMENT REGULATIONS, PROCUREMENT PROCEDURES OF THE NATIONAL ELECRIFICATION ADMINISTRATION (NEA), ITS CONTROL OF RURAL ELECTRIC COOPERATIVES, AND ITS OVERALL EFFECTS TO POWER DEVELOPMENT, AND COST OF POWER RATES TO THE RURAL CONSUMERS"
+scope = "National"
+dateFiled = "1992-09-24"
+status = "Pending with the Committee on ENERGY since 1992-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-09-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133516
+congress = 9
+bill_no = "HR00204"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-09-30"

@@ -1,0 +1,69 @@
+billNumber = "HB06760"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06760"
+lastScraped = "2025-09-22T00:25:55.842101"
+title = "HB06760"
+longTitle = "AN ACT AUTHORIZING GOVERNMENT HOSPITALS TO RETAIN THE REVENUES DERIVED FROM THEIR OPERATIONS AND SERVICES AND TO UTILIZE THE SAME TO AUGMENT THEIR REGULAR APPROPRIATIONS"
+scope = "National"
+dateFiled = "1993-01-27"
+status = "Pending with the Committee on HEALTH since 1993-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+coAuthors = [ "LIBAN, DANTE V.", "DRAGON, RENATO P.", "ALMARIO, THELMA Z.",]
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALMARIO, THELMA Z."
+nameCode = "Almario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-01"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125379
+congress = 9
+bill_no = "HB06760"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-01"

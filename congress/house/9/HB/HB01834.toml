@@ -1,0 +1,47 @@
+billNumber = "HB01834"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01834"
+lastScraped = "2025-09-22T00:25:54.922931"
+title = "HB01834"
+longTitle = "AN ACT ESTABLISHING A MENTAL REHABILITATION CENTER IN THE DR. RAFAEL S. TUMBOKON MEMORIAL HOSPITAL IN THE MUNICIPALITY OF KALIBO, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-31"
+status = "Pending with the Committee on HEALTH since 1992-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-02"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120453
+congress = 9
+bill_no = "HB01834"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-02"

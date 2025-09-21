@@ -1,0 +1,69 @@
+billNumber = "HB01259"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01259"
+lastScraped = "2025-09-22T00:20:57.591408"
+title = "HB01259"
+longTitle = "AN ACT PROVIDING FOR AN INCREASED SPECIAL GROUP TERM INSURANCE COVERAGE FOR THE MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES INCLUDING THE MEMBERS OF THE PHILIPPINE NATIONAL POLICE, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED 352, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-25"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+coAuthors = [ "ROMERO, MIGUEL L.", "YAP, JOSE V.", "DAZA, RAUL A.",]
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "YAP, JOSE V."
+nameCode = "Yap"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DAZA, RAUL A."
+nameCode = "Daza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 107680
+congress = 10
+bill_no = "HB01259"
+comm_act = "change of ctte. ref'l from Government Reorg. as per J. 51; p. 62"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1995-07-31"

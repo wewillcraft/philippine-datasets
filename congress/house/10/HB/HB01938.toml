@@ -1,0 +1,46 @@
+billNumber = "HB01938"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01938"
+lastScraped = "2025-09-22T00:20:57.711224"
+title = "HB01938"
+longTitle = "AN ACT ESTABLISHING THE MENTAL AND DRUG REHABILITATION CENTER IN THE MUNICIPALITY OF INITAO, PROVINCE OF MISAMIS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-07"
+status = "Substituted by HB10084"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-10"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108359
+congress = 10
+bill_no = "HB01938"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-10"

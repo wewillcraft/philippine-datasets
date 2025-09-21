@@ -1,0 +1,50 @@
+billNumber = "HR01054"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01054"
+lastScraped = "2025-09-22T00:47:02.741256"
+title = "HR01054"
+longTitle = "RESOLUTION COMMENDING THE SOVIET LEADER MIKHAIL GORBACHEV FOR HIS COURAGEOUS DECISION TO REDUCE MILITARY FORCES IN EASTERN EUROPE"
+scope = "National"
+dateFiled = "1988-12-13"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1988-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1988-12-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170930
+congress = 8
+bill_no = "HR01054"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1988-12-15"

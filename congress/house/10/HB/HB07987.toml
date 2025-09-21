@@ -1,0 +1,49 @@
+billNumber = "HB07987"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07987"
+lastScraped = "2025-09-22T00:20:58.878241"
+title = "HB07987"
+longTitle = "AN ACT TO ALLOCATE FUNDS TO IMPROVE THE DELIVERY OF BASIC HEALTH CARE SERVICES NATIONWIDE"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+coAuthors = [ "QUIMPO, ALLEN S.",]
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 114408
+congress = 10
+bill_no = "HB07987"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-09-26"

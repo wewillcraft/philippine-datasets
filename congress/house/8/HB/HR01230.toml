@@ -1,0 +1,42 @@
+billNumber = "HR01230"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01230"
+lastScraped = "2025-09-22T00:47:02.773123"
+title = "HR01230"
+longTitle = "RESOLUTION REQUESTING THE COMMISSION ON FILIPINOSOVERSE AS TO FURNISH THE MEMBERS OF THE HOUSE OF REPRESENTATIVES A LIST OF FILIPINOS WORKING OR RESIDING ABROAD"
+scope = "National"
+dateFiled = "1989-04-06"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1989-04-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1989-04-13"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171101
+congress = 8
+bill_no = "HR01230"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1989-04-13"

@@ -1,0 +1,71 @@
+billNumber = "HB09114"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09114"
+lastScraped = "2025-09-22T00:20:59.103585"
+title = "HB09114"
+longTitle = "AN ACT GRANTING INCENTIVES TO HIGHLY SKILLED FORMER FILIPINO CITIZENS AND ALIENS, ESTABLISHING A COORDINATING COUNCIL AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-03-17"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1997-03-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cosalan, Ronald M."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Cosalan, Ronald M."
+nameCode = "Cosalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1997-03-19"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 115535
+congress = 10
+bill_no = "HB09114"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1997-03-19"

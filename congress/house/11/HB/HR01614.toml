@@ -1,0 +1,54 @@
+billNumber = "HR01614"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01614"
+lastScraped = "2025-09-22T00:23:18.254260"
+title = "HR01614"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEES ON LABOR AND EMPLOYMENT AND GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED MISMANAGEMENT OF OWWA FUNDS COLLECTED FROM OVERSEAS CONTRACT WORKERS"
+scope = "National"
+dateFiled = "2000-06-21"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2000-07-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "PAEZ, CRESENTE C.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PAEZ, CRESENTE C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2000-07-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 106068
+congress = 11
+bill_no = "HR01614"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2000-07-17"

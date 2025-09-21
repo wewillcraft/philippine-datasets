@@ -1,0 +1,42 @@
+billNumber = "HB00067"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00067"
+lastScraped = "2025-09-22T00:46:56.556526"
+title = "HB00067"
+longTitle = "AN ACT DECENTRALIZING THE NATIONAL EXECUTIVE GOVERNMENT ON A REGIONAL BASIS"
+scope = "National"
+dateFiled = "1987-08-03"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1987-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1987-08-04"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 134765
+congress = 8
+bill_no = "HB00067"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1987-08-04"

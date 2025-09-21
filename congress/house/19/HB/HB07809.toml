@@ -1,0 +1,54 @@
+billNumber = "HB07809"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB07809"
+lastScraped = "2025-09-21T23:55:21.590437"
+title = "HB07809"
+longTitle = "AN ACT INSTITUTING THE MEDICAL RESERVE CORPS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2023-03-29"
+status = "Pending with the Committee on HEALTH since 2023-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB07809.pdf"
+fileSize = 397623
+author = "VILLANUEVA, EDUARDO \"BRO. EDDIE\" C."
+coAuthors = [ "SOLON, STEVE",]
+[[authorsDetail]]
+name = "VILLANUEVA, EDUARDO \"BRO. EDDIE\" C."
+nameCode = "Villanueva (E)"
+date = "2023-03-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SOLON, STEVE"
+nameCode = "Solon"
+date = "2023-05-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-05-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 12728
+congress = 19
+bill_no = "HB07809"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-05-08"

@@ -1,0 +1,42 @@
+billNumber = "HR01353"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01353"
+lastScraped = "2025-09-22T00:47:02.797210"
+title = "HR01353"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON GOVERNMENT REORGANIZATION AND THE COMMITTEE ON APPROPRIATIONS TO INTRODUCE JOINTLY LEGISLATIVE MEASURE LIMITING THE NUMBER OF UNDERSECRETARIE S TO THREE (3) IN THE EXECUTIVE DEPARTMENT"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 171221
+congress = 8
+bill_no = "HR01353"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1989-07-25"

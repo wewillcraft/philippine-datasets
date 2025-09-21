@@ -1,0 +1,72 @@
+billNumber = "HB03949"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03949"
+lastScraped = "2025-09-22T00:20:58.104388"
+title = "HB03949"
+longTitle = "AN ACT CONVERTING THE PUNONG-SAN ISIDRO-BOTILAO ROAD AND THE DINAHUMAN ROAD CONNECTING THE MUNICIPALITIES OF STA. CRUZ AND MOGPOG INTO A NATIONAL ROAD, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-27"
+status = "Approved by the House on 1997-10-27 and transmitted to the Senate on 1997-10-29"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110370
+congress = 10
+bill_no = "HB03949"
+report = "01083"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-10-02"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 18076
+congress = 10
+bill_no = "HB03949"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1997-10-21"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2686
+congress = 10
+bill_no = "HB03949"
+date_adopt = "1997-10-27"
+remarks = "The Body approved HB03949 on Third Reading on Oct. 20, 1997 but it was also reconsidered on the same date due to the observation of Rep. Osmena that the title of the Bill does not identify the province where the roads mentioned therein are located."
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-29"

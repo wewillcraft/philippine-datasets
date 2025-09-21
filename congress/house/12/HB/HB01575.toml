@@ -1,0 +1,83 @@
+billNumber = "HB01575"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01575"
+lastScraped = "2025-09-22T00:13:00.087068"
+title = "HB01575"
+longTitle = "AN ACT CREATING NATIONAL HEALTH RESEARCH INSTITUTES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-30"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marañon"
+coAuthors = [ "LACSON, JOSE CARLOS V.", "MONFORT, NARCISO D.", "DY, CONSUELO A.", "TULAGAN, GENEROSO DC.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Marañon"
+nameCode = "Marañon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DY, CONSUELO A."
+nameCode = "Dy"
+date = ""
+journalNo = "J042"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J049"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84735
+congress = 12
+bill_no = "HB01575"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2001-08-06"

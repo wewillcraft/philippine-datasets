@@ -1,0 +1,68 @@
+billNumber = "HB04901"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB04901"
+lastScraped = "2025-09-21T23:56:41.467824"
+title = "HB04901"
+longTitle = "AN ACT PROVIDING FOR FREE BASIC MEDICINES IN ALL BARANGAYS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2011-07-05"
+status = "Pending with the Committee on HEALTH since 2011-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB04901.pdf"
+fileSize = 195761
+author = "Fortuno, Salvio B."
+coAuthors = [ "SINGSON, RYAN LUIS", "CASTELO, WINSTON TAQUEBAN", "VILLARICA, LINABELLE RUTH RAMOS",]
+[[authorsDetail]]
+name = "Fortuno, Salvio B."
+nameCode = "Fortuno"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SINGSON, RYAN LUIS"
+nameCode = "Singson (R.L.)"
+date = ""
+journalNo = "J007"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J008"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "VILLARICA, LINABELLE RUTH RAMOS"
+nameCode = "Villarica"
+date = ""
+journalNo = "J009"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2011-07-27"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 60373
+congress = 15
+bill_no = "HB04901"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2011-07-27"

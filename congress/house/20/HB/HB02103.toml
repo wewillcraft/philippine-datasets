@@ -1,0 +1,46 @@
+billNumber = "HB02103"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02103"
+lastScraped = "2025-09-21T23:39:48.720621"
+title = "HB02103"
+longTitle = "AN ACT ESTABLISHING IN THE MUNICIPALITY OF TIGAON, PROVINCE OF CAMARINES SUR A BASIC COMPREHENSIVE SPECIALTY CENTER TO BE KNOWN AS THE TIGAON MOTHER AND CHILD SPECIALTY CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-07-21"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02103.pdf"
+fileSize = 73717
+author = "FUENTEBELLA, ARNIE B."
+[[authorsDetail]]
+name = "FUENTEBELLA, ARNIE B."
+nameCode = "Fuentebella"
+date = "2025-07-21"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 2104
+congress = 103
+bill_no = "HB02103"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

@@ -1,0 +1,50 @@
+billNumber = "HB14346"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14346"
+lastScraped = "2025-09-22T00:25:57.277465"
+title = "HB14346"
+longTitle = "AN ACT ESTABLISHING THE PALAWAN OIL SPILLAGE CONTROL CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-12-20"
+status = "Pending with the Committee on ECOLOGY since 1995-01-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-01-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132955
+congress = 9
+bill_no = "HB14346"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1995-01-16"

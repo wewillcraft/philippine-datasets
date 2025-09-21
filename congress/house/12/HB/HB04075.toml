@@ -1,0 +1,72 @@
+billNumber = "HB04075"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04075"
+lastScraped = "2025-09-22T00:13:00.532127"
+title = "Increasing the Bed Capacity of the Zamboanga City Medical Center, Amending for the Purpose RA 7272"
+longTitle = "AN ACT INCREASING THE MINIMUM BED CAPACITY OF THE ZAMBOANGA CITY MEDICAL CENTER FROM TWO HUNDRED FIFTY TO FIVE HUNDRED, AMENDING FOR THE PURPOSE SECTION 2 OF REPUBLIC ACT NO. 7272"
+scope = "Local"
+dateFiled = "2001-12-11"
+status = "Approved by the House on 2002-11-20, transmitted to on 2002-11-21 and received by the Senate on 2002-11-27"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lobregat, Celso L."
+[[authorsDetail]]
+name = "Lobregat, Celso L."
+nameCode = "Lobregat"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-12-18"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87235
+congress = 12
+bill_no = "HB04075"
+report = "00791"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "approval with amendment"
+date_read = "2001-12-18"
+date_ob = "2002-10-01"
+date_report = "2002-09-04"
+
+[secondReading]
+id = 14453
+congress = 12
+bill_no = "HB04075"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_approved = "2002-10-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4998
+congress = 12
+bill_no = "HB04075"
+date_dist = "2002-11-12"
+date_adopt = "2002-11-20"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "2002-11-21"
+date_rec = "2002-11-27"

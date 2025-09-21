@@ -1,0 +1,42 @@
+billNumber = "HB04051"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04051"
+lastScraped = "2025-09-22T00:46:57.268710"
+title = "HB04051"
+longTitle = "AN ACT TO ESTABLISH A LIVESTOCK BREEDING STATION AND MARKETING CENTER IN THE MUNICIPALITY OF VALENCIA, PROVINCE OF BOHOL"
+scope = "Local"
+dateFiled = "1987-11-26"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-12-02"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 138737
+congress = 8
+bill_no = "HB04051"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-12-02"

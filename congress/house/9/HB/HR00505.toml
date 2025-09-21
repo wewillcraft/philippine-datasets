@@ -1,0 +1,42 @@
+billNumber = "HR00505"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00505"
+lastScraped = "2025-09-22T00:25:57.458304"
+title = "HR00505"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, UPON NAPOCOR PRESIDENT PABLO V. MALIXI AND OTHER HIGH RANKING OFFICIALS ON THE PURCHASE OF GAS TURBINES AND CONTRACTS ENTERED IN RELATION THERETO"
+scope = "Local"
+dateFiled = "1993-02-22"
+status = "Pending with the Committee on ENERGY since 1993-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-03-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133817
+congress = 9
+bill_no = "HR00505"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-03-01"

@@ -1,0 +1,47 @@
+billNumber = "HB07345"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07345"
+lastScraped = "2025-09-22T00:25:55.939359"
+title = "HB07345"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A SPORTS CENTER IN THE MUNICIPALITY OF POZORRUBIO, PROVINCE OF PANGASINAN, TO BE KNOWN AS THE POZORRUBIO SPORTS CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-02-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-02-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-02-15"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125964
+congress = 9
+bill_no = "HB07345"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-02-15"

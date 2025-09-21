@@ -1,0 +1,42 @@
+billNumber = "HB00553"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00553"
+lastScraped = "2025-09-22T00:46:56.659166"
+title = "HB00553"
+longTitle = "AN ACT PROVIDING FOR THE INSTALLATION OF FACILITIES AND/OR EQUIPMENT FOR EMERGENCY CASES IN HEALTH CENTERS OF THE MUNICIPALITIES OF ALAMINOS, LILIW, CALAUAN, RIZAL AND VICTORIA, ALL WITHIN THE THIRD DISTRICT OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-20"
+status = "Pending with the Committee on HEALTH since 1987-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 135250
+congress = 8
+bill_no = "HB00553"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-24"

@@ -1,0 +1,50 @@
+billNumber = "HB06422"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06422"
+lastScraped = "2025-09-22T00:25:55.786890"
+title = "HB06422"
+longTitle = "AN ACT LIMITING THE AMOUNT TO BE ALLOCATED TO DEBT SERVICING TO NOT EXCEEDING TWENTY PERCENT OF THE ANNUAL GENERAL APPROPRIATIONS OF THE NATIONAL GOVERNMENT"
+scope = "National"
+dateFiled = "1993-01-18"
+status = "Pending with the Committee on APPROPRIATIONS since 1993-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+coAuthors = [ "BARBERS, ROBERT Z.",]
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT Z."
+nameCode = "Barbers"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1993-01-20"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 125041
+congress = 9
+bill_no = "HB06422"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1993-01-20"

@@ -1,0 +1,43 @@
+billNumber = "HR00926"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00926"
+lastScraped = "2025-09-22T00:25:57.536058"
+title = "HR00926"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED CUMBERSOME AND STRINGENT QUARANTINE REGULATIONS AND CUSTOMS PROCEDURES WHICH HAVE CAUSED LONG AND UNNECESSARY DELAYS INTHE IMPORTATION OF SEEDS, SEEDLINGS, PLANTS, RAW MATERIALS, CAPITAL EQUIPMENT AND THE LIKE NEEDED IN THE DEVELOPMENT OF THE LOCAL HORTICULTURE INDUSTRY FOR EXPORT PURPOSES"
+scope = "National"
+dateFiled = "1994-02-04"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-02-09"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 134233
+congress = 9
+bill_no = "HR00926"
+comm_act = "Change of referral from the Committee on Rules(J.54 ,p.21)"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-02-09"

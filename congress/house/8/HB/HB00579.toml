@@ -1,0 +1,42 @@
+billNumber = "HB00579"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00579"
+lastScraped = "2025-09-22T00:46:56.663692"
+title = "HB00579"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A COLD STORAGE FACILITY OF APPARI, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-20"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuzon"
+[[authorsDetail]]
+name = "Tuzon"
+nameCode = "Tuzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-08-25"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 135276
+congress = 8
+bill_no = "HB00579"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-08-25"

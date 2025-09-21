@@ -1,0 +1,47 @@
+billNumber = "HB05088"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05088"
+lastScraped = "2025-09-22T00:25:55.568600"
+title = "HB05088"
+longTitle = "AN ACT ESTABLISHING A CULTURAL AND AGRICULTURAL TRAINING CENTER IN BARANGAY CORRALES IN THE MUNICIPALITY OF JIMENEZ, PROVINCE OF MISAMIS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123707
+congress = 9
+bill_no = "HB05088"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-11-25"

@@ -1,0 +1,71 @@
+billNumber = "HB03792"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03792"
+lastScraped = "2025-09-22T00:20:58.076542"
+title = "HB03792"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BAGABAG, PROVINCE OF NUEVA VIZCAYA, TO BE KNOWN AS THE BAGABAG NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-25"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110213
+congress = 10
+bill_no = "HB03792"
+report = "00427"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-09-28"
+date_ob = "1996-05-28"
+date_report = "1996-05-27"
+
+[secondReading]
+id = 18065
+congress = 10
+bill_no = "HB03792"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2675
+congress = 10
+bill_no = "HB03792"
+date_dist = "1996-06-03"
+date_adopt = "1996-06-06"
+no_yeas = 141
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-08"

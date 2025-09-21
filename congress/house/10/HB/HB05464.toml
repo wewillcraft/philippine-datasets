@@ -1,0 +1,46 @@
+billNumber = "HB05464"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05464"
+lastScraped = "2025-09-22T00:20:58.379948"
+title = "HB05464"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN SAN ANDRES ELEMENTARY SCHOOL, BARANGAY SAN ANDRES, MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-12-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-12-12"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111885
+congress = 10
+bill_no = "HB05464"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-12-12"

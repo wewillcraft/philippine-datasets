@@ -1,0 +1,75 @@
+billNumber = "HB02631"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02631"
+lastScraped = "2025-09-22T00:20:57.853665"
+title = "HB02631"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HIGH SCHOOL IN THE MUNICIPALITY OF JIMALALUD, NEGROS ORIENTAL, TO BE KNOWN AS THE JIMALALUD MUNICIPAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-18"
+status = "REPUBLIC ACT RA08396 (Lapsed into law on 1997-11-22)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109052
+congress = 10
+bill_no = "HB02631"
+report = "00439"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-08-28"
+date_ob = "1996-05-28"
+date_report = "1996-05-27"
+
+[secondReading]
+id = 17939
+congress = 10
+bill_no = "HB02631"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2554
+congress = 10
+bill_no = "HB02631"
+date_dist = "1996-06-03"
+date_adopt = "1996-06-06"
+no_yeas = 142
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-08"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-10-20"
+dte_actedp = "1997-11-22"

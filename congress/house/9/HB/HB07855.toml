@@ -1,0 +1,47 @@
+billNumber = "HB07855"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07855"
+lastScraped = "2025-09-22T00:25:56.023130"
+title = "HB07855"
+longTitle = "AN ACT ESTABLISHING A DAY CARE CENTER IN THE 2ND DISTRICT OF TONDO PARTICULARLY IN ALMEDA COR. TAYUMAN, TONDO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-03-02"
+status = "Pending with the Committee on SOCIAL SERVICES since 1993-03-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1993-03-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126474
+congress = 9
+bill_no = "HB07855"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1993-03-08"

@@ -1,0 +1,50 @@
+billNumber = "HR00997"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00997"
+lastScraped = "2025-09-22T00:47:02.730269"
+title = "HR00997"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON APPROPRIATIONS AND HOUSING TO CONDUCT A JOINT STUDY ON THE FEASIBILITY OF PROVIDING A SOCIALIZED HOUSING PROGRAM FOR ALL EMPLOYEES OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1988-10-18"
+status = "Pending with the Committee on APPROPRIATIONS since 1988-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1988-10-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170874
+congress = 8
+bill_no = "HR00997"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1988-10-21"

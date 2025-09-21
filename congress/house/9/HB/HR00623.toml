@@ -1,0 +1,43 @@
+billNumber = "HR00623"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00623"
+lastScraped = "2025-09-22T00:25:57.480433"
+title = "HR00623"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR AND EMPLOYMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE MANDATE, PROGRAMS, SERVICES AND FINANCES OF THE OVERSEAS WORKERS' WELFARE ADMINISTRATION (OWWA)"
+scope = "National"
+dateFiled = "1993-05-13"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1993-05-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1993-05-19"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133935
+congress = 9
+bill_no = "HR00623"
+comm_act = "Change of referral from the Committee on Rules"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1993-05-19"

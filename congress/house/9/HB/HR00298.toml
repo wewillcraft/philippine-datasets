@@ -1,0 +1,42 @@
+billNumber = "HR00298"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00298"
+lastScraped = "2025-09-22T00:25:57.420330"
+title = "HR00298"
+longTitle = "RESOLUTION COMMENDING COL. ALFRED XERES BURGOS FOR SPEARHEADING THE RESTORATION AND DEVELOPMENT EFFORTS ON THE ISLAND OF CORREGIDOR"
+scope = "Local"
+dateFiled = "1992-10-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-11-10"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133610
+congress = 9
+bill_no = "HR00298"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-11-10"

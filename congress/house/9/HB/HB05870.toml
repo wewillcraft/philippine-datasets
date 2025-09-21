@@ -1,0 +1,47 @@
+billNumber = "HB05870"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05870"
+lastScraped = "2025-09-22T00:25:55.699804"
+title = "HB05870"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY CANO-AN, MUNICIPALITY OF ESTANCIA, PROVINCE OF ILOILO, TO BE KNOWN AS THE CANO-AN BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-16"
+status = "Pending with the Committee on HEALTH since 1992-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-18"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124489
+congress = 9
+bill_no = "HB05870"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-18"

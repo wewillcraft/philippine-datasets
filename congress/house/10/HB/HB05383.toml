@@ -1,0 +1,46 @@
+billNumber = "HB05383"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05383"
+lastScraped = "2025-09-22T00:20:58.364484"
+title = "HB05383"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A GARBAGE RECYCLING CENTER IN EACH AND EVERY BARANGAY OF THE FOURTH DISTRICT OF MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-29"
+status = "Substituted by HB08622"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-12-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111804
+congress = 10
+bill_no = "HB05383"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-12-06"

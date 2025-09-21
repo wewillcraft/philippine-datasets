@@ -1,0 +1,42 @@
+billNumber = "HB13558"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13558"
+lastScraped = "2025-09-22T00:25:57.103842"
+title = "HB13558"
+longTitle = "AN ACT ESTABLISHING AN ADDITIONAL OFFICE OF THE REGISTER OF DEEDS FOR THE PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-23"
+status = "Pending with the Committee on JUSTICE since 1994-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-08-29"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132167
+congress = 9
+bill_no = "HB13558"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-08-29"

@@ -1,0 +1,46 @@
+billNumber = "HB04193"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04193"
+lastScraped = "2025-09-22T00:20:58.155125"
+title = "HB04193"
+longTitle = "AN ACT TO APPROPRIATE FUNDS FOR THE REHABILITATION AND IMPROVEMENT OF CARIGARA METRO WATERWORKS COMPRISING THE MUNICIPALITIES OF BARUGO, CARIGARA AND CAPOOCAN, ALL IN THE PROVINCE OF LEYTE"
+scope = "Local"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110614
+congress = 10
+bill_no = "HB04193"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-10-05"

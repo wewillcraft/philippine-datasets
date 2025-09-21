@@ -1,0 +1,46 @@
+billNumber = "HB01091"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01091"
+lastScraped = "2025-09-22T00:20:57.561539"
+title = "HB01091"
+longTitle = "AN ACT ESTABLISHING AN ASSAY, HALLMARK AND GEMMOLOGICAL DIVISION FOR FINE AND PRECIOUS METAL JEWELRY AND PRECIOUS AND SEMI-PRECIOUS STONES MANUFACTURED AND PRODUCED IN THE PHILIPPINES UNDER THE BUREAU OF PRODUCT STANDARDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-19"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107512
+congress = 10
+bill_no = "HB01091"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-07-31"

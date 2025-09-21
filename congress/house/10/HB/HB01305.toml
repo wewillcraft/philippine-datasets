@@ -1,0 +1,56 @@
+billNumber = "HB01305"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01305"
+lastScraped = "2025-09-22T00:20:57.599316"
+title = "HB01305"
+longTitle = "AN ACT REGULATING THE PROMOTION OF CIGAR, CIGARETTES AND CHEWING TOBACCOS, PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "LIBAN, DANTE V.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107726
+congress = 10
+bill_no = "HB01305"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-01"

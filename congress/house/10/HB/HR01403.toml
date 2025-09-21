@@ -1,0 +1,41 @@
+billNumber = "HR01403"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01403"
+lastScraped = "2025-09-22T00:20:59.693846"
+title = "HR01403"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO INVESTIGATE, IN AID OF LEGISLATION, THE NEW INCREASE IN PASSENGER FARES AND CARGO RATES OF PHILIPPINE AIRLINES (PAL)"
+scope = "Local"
+dateFiled = "1901-01-01"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 118457
+congress = 10
+bill_no = "HR01403"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-10-20"

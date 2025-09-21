@@ -1,0 +1,70 @@
+billNumber = "HB03589"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03589"
+lastScraped = "2025-09-22T00:20:58.039495"
+title = "HB03589"
+longTitle = "AN ACT AMENDING REPUBLIC ACT 6981, OTHERWISE KNOWN AS 'AN ACT PROVIDING FOR A WITNESS PROTECTION, SECURITY AND BENEFIT PROGRAM AND FOR OTHER PURPOSES'"
+scope = "National"
+dateFiled = "1995-09-19"
+status = "Pending with the Committee on JUSTICE since 1995-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "RAMIREZ, JOSE T.", "AVILA, EDGAR M.", "LIBAN, DANTE V.", "RAMA, EDUARDO SR. L.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO SR. L."
+nameCode = "Rama"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 110010
+congress = 10
+bill_no = "HB03589"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-25"

@@ -1,0 +1,57 @@
+billNumber = "HR00490"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00490"
+lastScraped = "2025-09-22T00:13:01.248730"
+title = "Reported Attempt to Bribe an Ombudsman to Exonerate Secretary Pantaleon Alvarez of DOTC"
+longTitle = "RESOLUTION SEEKING AN INVESTIGATION ON THE REPORTED ATTEMPT TO BRIBE AN OMBUDSMAN INVESTIGATOR TO EXONERATE SECRETARY PANTALEON ALVAREZ OF DOTC BY THE OFFICE OF THE OMBUDSMAN WHICH RESULTED IN THE RESIGNATION OF THE INVESTIGATOR CONCERNED"
+scope = "Local"
+dateFiled = "2002-04-01"
+status = "Adopted Resolution (Pending with the committee on JUSTICE since 2002-05-20)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-03-16"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 90427
+congress = 12
+bill_no = "HR00490"
+report = "00474"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-03-16"
+date_report = "2002-05-16"
+
+[secondReading]
+id = 15152
+congress = 12
+bill_no = "HR00490"
+adopted_resolution = "HR00239"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO CONDUCT AN INVESTIGATION ON THE REPORTED ATTEMPT TO BRIBE AN OMBUDSMAN INVESTIGATOR TO EXONERATE SECRETARY PANTALEON ALVAREZ OF THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS (DOTC) BY THE OFFICE OF THE OMBUDSMAN WHICH RESULTED IN THE RESIGNATION OF THE INVESTIGATOR CONCERNED"
+date_calendared = "2002-05-20"
+date_approved = "2002-05-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-05-20"

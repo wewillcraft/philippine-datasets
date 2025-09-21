@@ -1,0 +1,41 @@
+billNumber = "HR01044"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01044"
+lastScraped = "2025-09-22T00:20:59.628422"
+title = "HR01044"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF HEALTH TO EXTEND THE DEADLINE FOR BANNING THE USE OF POTASSIUM BROMATE IN FLOUR TO DECEMBER 31, 1997"
+scope = "National"
+dateFiled = "1997-01-20"
+status = "Pending with the Committee on HEALTH since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Geronimo"
+[[authorsDetail]]
+name = "Geronimo"
+nameCode = "Geronimo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118098
+congress = 10
+bill_no = "HR01044"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-01-23"

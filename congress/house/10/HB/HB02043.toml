@@ -1,0 +1,46 @@
+billNumber = "HB02043"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02043"
+lastScraped = "2025-09-22T00:20:57.734689"
+title = "HB02043"
+longTitle = "AN ACT ESTABLISHING AN ANIMAL BREEDING STATION AND LIVESTOCK FARM IN THE MUNICIPALITY OF BAUKO, MOUNTAIN PROVINCE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez, Victor S."
+[[authorsDetail]]
+name = "Dominguez, Victor S."
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108464
+congress = 10
+bill_no = "HB02043"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-14"

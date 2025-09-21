@@ -1,0 +1,50 @@
+billNumber = "HR00213"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00213"
+lastScraped = "2025-09-22T00:20:59.462746"
+title = "HR00213"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CAUSE OF THE COLLAPSE OF THE CRATER WALL OF MOUNT PARKER AND THE CONSEQUENT FLOODING ON SEPTEMBER 6, 1995 OF CERTAIN AREAS IN THE PROVINCES OF SOUTH COTABATO, SULTAN KUDARAT AND MAGUINDANAO"
+scope = "Local"
+dateFiled = "1995-09-25"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Datumanong ,Simeon A."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Datumanong ,Simeon A."
+nameCode = "Datumanong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-09-28"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 117267
+congress = 10
+bill_no = "HR00213"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Natural Resources on Oct. 23, 1995."
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-09-28"

@@ -1,0 +1,46 @@
+billNumber = "HB11313"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB11313"
+lastScraped = "2025-09-22T00:23:17.645096"
+title = "HB11313"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HEALTH CENTER IN THE MUNICIPALITY OF NAVOTAS AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-05-18"
+status = "Pending with the Committee on HEALTH since 2000-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2000-05-24"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 102728
+congress = 11
+bill_no = "HB11313"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2000-05-24"

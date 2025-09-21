@@ -1,0 +1,42 @@
+billNumber = "HB03123"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03123"
+lastScraped = "2025-09-22T00:46:57.111127"
+title = "HB03123"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WHARF IN THE MUNICIPALITY OF SAN JOSE, PROVINCE OF NEGROS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-11-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 137812
+congress = 8
+bill_no = "HB03123"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-11-09"

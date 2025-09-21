@@ -1,0 +1,41 @@
+billNumber = "HB05301"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05301"
+lastScraped = "2025-09-22T00:20:58.348482"
+title = "HB05301"
+longTitle = "AN ACT TO AMEND SECTION ONE OF REPUBLIC ACT NUMBERED TWO HUNDRED AND FORTY-FIVE AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1995-11-27"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-11-29"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 111722
+congress = 10
+bill_no = "HB05301"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-11-29"

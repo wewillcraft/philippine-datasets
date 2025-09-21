@@ -1,0 +1,71 @@
+billNumber = "HB07601"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB07601"
+lastScraped = "2025-09-22T00:23:16.990473"
+title = "HB07601"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY SAMAY, CITY OF GINGOOG, PROVINCE OF MISAMIS ORIENTAL TO BE KNOWN AS THE SAMAY NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1999-05-24"
+status = "Approved by the House on 2000-10-16, transmitted to on 2000-10-17 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = true
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASIC EDUCATION"
+type = "primary"
+referralCode = "C501"
+dateRead = "1999-05-27"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 99036
+congress = 11
+bill_no = "HB07601"
+report = "01234"
+referral = "C501"
+ref_name = "BASIC EDUCATION"
+sub_name = "APPROPRIATIONS, BASIC EDUCATION"
+recomm = "approval with amendments"
+date_read = "1999-05-27"
+date_ob = "2000-09-27"
+date_report = "2000-09-27"
+
+[secondReading]
+id = 16850
+congress = 11
+bill_no = "HB07601"
+remarks = "The Body approved to consider the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-10-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4107
+congress = 11
+bill_no = "HB07601"
+date_dist = "2000-10-11"
+date_adopt = "2000-10-16"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-10-17"
+date_rec = "2000-10-19"

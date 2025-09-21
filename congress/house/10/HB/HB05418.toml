@@ -1,0 +1,71 @@
+billNumber = "HB05418"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05418"
+lastScraped = "2025-09-22T00:20:58.370696"
+title = "HB05418"
+longTitle = "AN ACT SEPARATING THE BIBAK NATIONAL AGRICULTURAL SCHOOL FROM THE KALINGA APAYAO STATE COLLEGE, THEREBY AMENDING P.D. 2017 (CREATING THE KALINGA-APAYAO STATE COLLEGE), AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-04"
+status = "Approved by the House on 1996-11-05, transmitted to on 1996-11-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-12-07"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111839
+congress = 10
+bill_no = "HB05418"
+report = "00614"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-12-07"
+date_ob = "1996-10-01"
+date_report = "1996-09-27"
+
+[secondReading]
+id = 18206
+congress = 10
+bill_no = "HB05418"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-10-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2811
+congress = 10
+bill_no = "HB05418"
+date_dist = "1996-10-14"
+date_adopt = "1996-11-05"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-11-06"
+date_rec = "1996-11-12"

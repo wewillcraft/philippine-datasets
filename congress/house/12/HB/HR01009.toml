@@ -1,0 +1,71 @@
+billNumber = "HR01009"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01009"
+lastScraped = "2025-09-22T00:13:01.372028"
+title = "Expressing Condolence on the Death of Hon. Augusto S. Sanchez"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE UNTIMELY DEMISE OF HONORABLE AUGUSTO S. SANCHEZ, FORMER MEMBER OF THE PARLIAMENT, BATASANG PAMBANSA"
+scope = "Local"
+dateFiled = "2003-02-18"
+status = "Adopted as Resolution No. HR00609 on 2003-04-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J062"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-02-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01010"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01010"
+flag = "S"
+
+[firstReading]
+id = 90945
+congress = 12
+bill_no = "HR01009"
+report = "01290"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval in consolidat ion with HR 1010, without amendments ."
+date_read = "2003-02-24"
+date_report = "2003-02-19"
+
+[secondReading]
+id = 15518
+congress = 12
+bill_no = "HR01009"
+adopted_resolution = "HR00609"
+date_calendared = "2003-04-23"
+date_approved = "2003-04-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

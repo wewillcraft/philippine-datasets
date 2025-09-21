@@ -1,0 +1,49 @@
+billNumber = "HB10025"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10025"
+lastScraped = "2025-09-22T00:20:59.291016"
+title = "HB10025"
+longTitle = "AN ACT APPROPRIATING THE SUM OF FIVE BILLION PESOS FOR THE AID, RELIEF AND REHABILITATION OF, AND LIVELIHOOD SERVICES AS WELL AS INFRASTRUCTURE SUPPORT FOR, THE VICTIMS OF THE EL NINO EPISODE, CREATING THE EL NINO ASSISTANCE AND DEVELOPMENT COMMISSION, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-09-30"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 116446
+congress = 10
+bill_no = "HB10025"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-10-06"

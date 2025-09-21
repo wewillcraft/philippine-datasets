@@ -1,0 +1,42 @@
+billNumber = "HR00040"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00040"
+lastScraped = "2025-09-22T00:20:59.432268"
+title = "HR00040"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROCEEDINGS AND MANNER OF SELECTION OF THE RECOMMENDEES OF THE JUDICIAL AND BAR COUNCIL WITH THE END IN VIEW OF ENSURING THAT APPOINTMENT IN THE JUDICIARY SHALL BE MADE ON THE BASIS OF FITNESS, MERIT AND QUALIFICATIONS"
+scope = "National"
+dateFiled = "1995-07-20"
+status = "Pending with the Committee on JUSTICE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117094
+congress = 10
+bill_no = "HR00040"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Justice on Aug. 7, 1995"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-31"

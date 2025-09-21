@@ -1,0 +1,77 @@
+billNumber = "HB07371"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB07371"
+lastScraped = "2025-09-21T23:55:21.487953"
+title = "HB07371"
+longTitle = "AN ACT PROVIDING FOR FREE LEGAL ASSISTANCE TO ANY OFFICER OR UNIFORMED PERSONNEL OF THE AFP, BFP, BJMP, PCG,AND PNP FOR ADMINISTRATIVE, CIVIL OR CRIMINAL CASES FILED AGAINST THEM BEFORE ANY COURT, QUASI-JUDICIAL OR ANY ADMINISTRATIVE AGENCIES BY REASON OR IN CONNECTION WITH THE PERFORMANCE OF THEIR OFFICE OR FUNCTIONS AND APPROPRIATING FUNDS THEREFOR."
+scope = "National"
+dateFiled = "2023-03-01"
+status = "Pending with the Committee on JUSTICE since 2023-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB07371.pdf"
+fileSize = 321028
+author = "TAN, SAMIER A."
+coAuthors = [ "REGENCIA, CELSO G.", "VILLAFUERTE, LUIS RAYMUND \"LRAY\" JR. F.",]
+[[authorsDetail]]
+name = "TAN, SAMIER A."
+nameCode = "Tan (S.)"
+date = "2023-03-01"
+sequence = 1
+
+[[authorsDetail]]
+name = "Tan-Tambut, Shernee A."
+nameCode = "Tan-Tambut"
+date = "2023-03-01"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "REGENCIA, CELSO G."
+nameCode = "Regencia"
+date = "2023-09-11"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAFUERTE, LUIS RAYMUND \"LRAY\" JR. F."
+nameCode = "Villafuerte (L.R.)"
+date = "2025-01-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2023-03-06"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 12290
+congress = 19
+bill_no = "HB07371"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-03-06"

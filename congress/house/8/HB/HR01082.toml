@@ -1,0 +1,42 @@
+billNumber = "HR01082"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01082"
+lastScraped = "2025-09-22T00:47:02.746443"
+title = "HR01082"
+longTitle = "RESOLUTION REQUESTING THE PRESIDENT TO SUSPEND THE IMPLEMENTATION OF COMPREHENSIVE AGRARIAN REFORM PROGRAM (CARP) ON COMMERCIAL LIVESTOCK FARMS"
+scope = "National"
+dateFiled = "1989-01-09"
+status = "Pending with the Committee on AGRARIAN REFORM since 1989-01-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "502"
+dateRead = "1989-01-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 170956
+congress = 8
+bill_no = "HR01082"
+referral = "502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1989-01-17"

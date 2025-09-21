@@ -1,0 +1,61 @@
+billNumber = "HB00223"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00223"
+lastScraped = "2025-09-21T23:39:48.340549"
+title = "HB00223"
+longTitle = "AN ACT ESTABLISHING A NATIONAL CANCER CENTER TO BE KNOWN AS THE NATIONAL CANCER CENTER OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on HEALTH since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00223.pdf"
+fileSize = 9217324
+author = "REMULLA, CRISPIN DIEGO D."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "VILLARICA, LINABELLE RUTH R.",]
+[[authorsDetail]]
+name = "REMULLA, CRISPIN DIEGO D."
+nameCode = "Remulla"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARICA, LINABELLE RUTH R."
+nameCode = "Villarica"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[firstReading]
+id = 224
+congress = 103
+bill_no = "HB00223"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

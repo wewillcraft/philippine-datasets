@@ -1,0 +1,55 @@
+billNumber = "HR00341"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00341"
+lastScraped = "2025-09-22T00:20:59.485365"
+title = "HR00341"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT, HUMAN, CIVIL, CIVIL AND POLITICAL RIGHTS, AND JUSTICE TO CONDUCT AN IMMEDIATE JOINT INVESTIGATION, IN AID OF LEGISLATION, INTO THE VIOLENT DEMOLITION OF URBAN POOR SHANTIES ON SMOKEY MOUNTAIN IN TONDO, MANILA, LAST 27 NOVEMBER 1995"
+scope = "Local"
+dateFiled = "1995-11-28"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1995-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lagman, Edcel C."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Lagman, Edcel C."
+nameCode = "Lagman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 117395
+congress = 10
+bill_no = "HR00341"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Housing and Urban Developmen t and on J"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1995-12-05"

@@ -1,0 +1,56 @@
+billNumber = "HB02846"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02846"
+lastScraped = "2025-09-21T23:39:48.851884"
+title = "HB02846"
+longTitle = "AN ACT RATIONALIZING THE BENEFITS AND PRIVILEGES OF SENIOR CITIZENS AND\r\nPERSONS WITH DISABILITY"
+scope = "National"
+dateFiled = "2025-07-31"
+status = "Pending with the Committee on WAYS AND MEANS since 2025-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02846.pdf"
+fileSize = 640612
+author = "CORVERA, DALE B."
+[[authorsDetail]]
+name = "CORVERA, DALE B."
+nameCode = "Corvera"
+date = "2025-07-31"
+sequence = 1
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2025-08-05"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "secondary"
+referralCode = "I505"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "secondary"
+referralCode = "J501"
+
+[firstReading]
+id = 2847
+congress = 103
+bill_no = "HB02846"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-05"

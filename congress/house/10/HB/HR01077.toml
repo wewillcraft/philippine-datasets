@@ -1,0 +1,41 @@
+billNumber = "HR01077"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01077"
+lastScraped = "2025-09-22T00:20:59.634000"
+title = "HR01077"
+longTitle = "RESOLUTION DECLARING VACANCY IN THE HOUSE OF REPRESENTATIVES AND CALLING FOR SPECIAL ELECTION IN THE FIRST DISTRICT OF BULACAN"
+scope = "Local"
+dateFiled = "1997-02-06"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1997-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1997-02-10"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 118131
+congress = 10
+bill_no = "HR01077"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+date_read = "1997-02-10"

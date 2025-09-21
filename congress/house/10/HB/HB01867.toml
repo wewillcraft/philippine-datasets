@@ -1,0 +1,66 @@
+billNumber = "HB01867"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01867"
+lastScraped = "2025-09-22T00:20:57.695887"
+title = "HB01867"
+longTitle = "AN ACT ESTABLISHING A NATIONAL TOURISM POLICY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Business for the day on 1997-11-18"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108288
+congress = 10
+bill_no = "HB01867"
+report = "01061"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-08-09"
+date_ob = "1997-09-04"
+date_report = "1997-09-03"
+
+[secondReading]
+id = 17854
+congress = 10
+bill_no = "HB01867"
+date_calendared = "1997-11-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

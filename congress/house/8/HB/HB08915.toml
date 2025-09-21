@@ -1,0 +1,42 @@
+billNumber = "HB08915"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08915"
+lastScraped = "2025-09-22T00:46:58.169940"
+title = "HB08915"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HEALTH CENTER IN THE MUNICIPALITY OF SAN RICARDO, PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-06"
+status = "Pending with the Committee on HEALTH since 1988-05-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-11"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 143592
+congress = 8
+bill_no = "HB08915"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-11"

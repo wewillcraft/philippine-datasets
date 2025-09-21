@@ -1,0 +1,55 @@
+billNumber = "HB02669"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02669"
+lastScraped = "2025-09-22T00:13:00.277224"
+title = "HB02669"
+longTitle = "AN ACT TRANSFERRING THE MAINTENANCE AND OPERATIONS OF THE MANUEL B. VELOSO MEMORIAL HOSPITAL IN THE MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE, TO THE NATIONAL GOVERNMENT, AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "2001-08-24"
+status = "Pending with the Committee on HEALTH since 2001-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso, Eduardo K."
+coAuthors = [ "LOCSIN, MA. VICTORIA L.",]
+[[authorsDetail]]
+name = "Veloso, Eduardo K."
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LOCSIN, MA. VICTORIA L."
+nameCode = "Locsin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85829
+congress = 12
+bill_no = "HB02669"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-03"

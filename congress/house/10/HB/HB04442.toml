@@ -1,0 +1,49 @@
+billNumber = "HB04442"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04442"
+lastScraped = "2025-09-22T00:20:58.201810"
+title = "HB04442"
+longTitle = "AN ACT PROVIDING FOR ANTITRUST PENALTIES"
+scope = "National"
+dateFiled = "1995-10-17"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 110863
+congress = 10
+bill_no = "HB04442"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-10-25"

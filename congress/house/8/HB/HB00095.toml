@@ -1,0 +1,42 @@
+billNumber = "HB00095"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00095"
+lastScraped = "2025-09-22T00:46:56.564222"
+title = "HB00095"
+longTitle = "AN ACT ESTABLISHING AN INSTITUTE OF FISHERIES IN THE MUNICIPALITY OF CAPALONGA, PROVINCE OF CAMARINES NORTE AND AUTHORIZING THE APPROPRIATION OF FUNDSTHEREFOR"
+scope = "Local"
+dateFiled = "1987-08-03"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano"
+[[authorsDetail]]
+name = "Albano"
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-08-04"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 134793
+congress = 8
+bill_no = "HB00095"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1987-08-04"

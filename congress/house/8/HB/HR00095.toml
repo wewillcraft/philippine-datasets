@@ -1,0 +1,42 @@
+billNumber = "HR00095"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00095"
+lastScraped = "2025-09-22T00:47:02.543740"
+title = "HR00095"
+longTitle = "RESOLUTION URGING THE RETENTION AND AUTOMATIC RE-EMPLOYMENT OF THE BATASANG PAMBANSA COMPLEX ADMINISTRATION OFFICE (BPCAO) TASK FORCE IN THE HOUSE OFREPRESENTATIV ES"
+scope = "National"
+dateFiled = "1987-08-07"
+status = "Pending with the Committee on ACCOUNTS since 1987-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pedro"
+[[authorsDetail]]
+name = "Pedro"
+nameCode = "Pedro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "501"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 170005
+congress = 8
+bill_no = "HR00095"
+referral = "501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "1987-08-12"

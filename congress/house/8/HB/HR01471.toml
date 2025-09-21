@@ -1,0 +1,42 @@
+billNumber = "HR01471"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01471"
+lastScraped = "2025-09-22T00:47:02.814156"
+title = "HR01471"
+longTitle = "RESOLUTION RETAINING OR DESIGNATING CONGRESSIONAL PERSONNEL IN THE MAIN AND DISTRICT OFFICE OF THE LEGISLATIVE DISTRICT WITHOUT INCUMBENT REPRESENTATIVE"
+scope = "National"
+dateFiled = "1989-09-27"
+status = "Pending with the Committee on ACCOUNTS since 1989-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "501"
+dateRead = "1989-09-27"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 171334
+congress = 8
+bill_no = "HR01471"
+referral = "501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "1989-09-27"

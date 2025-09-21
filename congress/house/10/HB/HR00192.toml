@@ -1,0 +1,57 @@
+billNumber = "HR00192"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00192"
+lastScraped = "2025-09-22T00:20:59.459165"
+title = "HR00192"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY ON THE ILLEGAL FISHPENS AND BLASTFISHING BEING DONE WITHIN THE AREA OF THE HUNDRED ISLANDS NATIONAL PARK IN ALAMINOS PANGASINAN"
+scope = "Local"
+dateFiled = "1995-09-19"
+status = "Pending with the Committee on ECOLOGY since 1995-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Braganza, Hernani A."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "GOLEZ, ROILO S.",]
+[[authorsDetail]]
+name = "Braganza, Hernani A."
+nameCode = "Braganza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117246
+congress = 10
+bill_no = "HR00192"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ecology on Oct. 27, 1995."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-09-25"

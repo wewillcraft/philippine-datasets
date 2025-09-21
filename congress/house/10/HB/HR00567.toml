@@ -1,0 +1,42 @@
+billNumber = "HR00567"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00567"
+lastScraped = "2025-09-22T00:20:59.529109"
+title = "HR00567"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ENERGY TO INQUIRE, IN AID OF LEGISLATION, INTO THE PLANNED CONVERSION OF THE BATAAN NUCLEAR POWER PLANT (BNPP) INTO A COMBINED RUNNING PLANT ON COAL OR NATURAL GAS IN LIGHT OF OTHER PROPOSAL MERELY REHABILITATING THE BNPP AND OPERATING IT AS A NUCLEAR POWER PLANT"
+scope = "National"
+dateFiled = "1996-03-26"
+status = "Pending with the Committee on ENERGY since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117621
+congress = 10
+bill_no = "HR00567"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on May 7, 1996."
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-04-29"

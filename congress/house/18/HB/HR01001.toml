@@ -1,0 +1,82 @@
+billNumber = "HR01001"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01001"
+lastScraped = "2025-09-22T00:01:47.523088"
+title = "HR01001"
+longTitle = "RESOLUTION COMMENDING THE KOOPERATIBA NATON MULTIPURPOSE COOPERATIVE (KNMPC) FOR ITS OUTSTANDING COOPERATIVE ACHIEVEMENT AND LEADERSHIP IN THE UPLIFTMENT AND SUSTAINABLE DEVELOPMENT OF THE COMMUNITIES IN THE COUNTRYSIDE"
+scope = "Local"
+dateFiled = "2020-06-26"
+status = "Adopted as Resolution No. HR00077 on 2020-08-11"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Canama, Sabiniano S."
+[[authorsDetail]]
+name = "Canama, Sabiniano S."
+nameCode = "Canama"
+date = "2020-06-26"
+sequence = 1
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[motherBills]]
+bill_no = "HR00523"
+sequence = 1
+date = "2020-06-26"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00523"
+sequence = 1
+date = "2020-06-26"
+flag = "S"
+
+[firstReading]
+id = 31320
+congress = 18
+bill_no = "HR01001"
+report = "00387"
+comm_act = ""
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = "COOPERATIVES DEVELOPMENT"
+recomm = "Adoption in substitution of House Resolution No. 523"
+remarks = ""
+file = "CR00387.pdf"
+date_read = "2020-07-28"
+date_ob = "2020-07-28"
+date_report = "2020-06-26"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00387.pdf"
+
+[secondReading]
+id = 2202
+congress = 18
+bill_no = "HR01001"
+adopted_resolution = "HR00077"
+adopted_resolution_title = "RESOLUTION COMMENDING THE KOOPERATIBA NATON MULTIPURPOSE COOPERATIVE (KNMPC) FOR ITS OUTSTANDING COOPERATIVE ACHIEVEMENT AND LEADERSHIP IN THE UPLIFTMENT AND SUSTAINABLE DEVELOPMENT OF THE COMMUNITIES IN THE COUNTRYSIDE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2020-08-11"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01001.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01001.pdf"

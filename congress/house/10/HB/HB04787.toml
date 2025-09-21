@@ -1,0 +1,71 @@
+billNumber = "HB04787"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04787"
+lastScraped = "2025-09-22T00:20:58.260000"
+title = "HB04787"
+longTitle = "AN ACT DECLARING THE BARANGAY MANCATIAN, PASIG POTRERO IN THE MUNICIPALITY OF PORAC, PROVINCE OF PAMPANGA, AS A TOURIST SPOT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-27"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111208
+congress = 10
+bill_no = "HB04787"
+report = "00803"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-11-07"
+date_ob = "1997-03-04"
+date_report = "1997-03-03"
+
+[secondReading]
+id = 18132
+congress = 10
+bill_no = "HB04787"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2740
+congress = 10
+bill_no = "HB04787"
+date_dist = "1997-03-12"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"

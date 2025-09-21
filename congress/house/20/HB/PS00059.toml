@@ -1,0 +1,54 @@
+billNumber = "PS00059"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00059"
+lastScraped = "2025-09-21T23:39:49.251480"
+title = "PS00059"
+longTitle = "BUILDING A STRONGER AND RESILIENT NATION THRU TRANSPARENCY AND COORDINATION"
+dateFiled = "2025-08-26"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "MOMO, ROMEO S., SR."
+[[authorsDetail]]
+name = "MOMO, ROMEO S., SR."
+nameCode = "Momo"
+date = "2025-08-26"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-08-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4894
+congress = 103
+bill_no = "PS00059"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-02"
+date_read = "2025-08-26"

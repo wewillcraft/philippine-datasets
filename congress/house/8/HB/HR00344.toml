@@ -1,0 +1,42 @@
+billNumber = "HR00344"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00344"
+lastScraped = "2025-09-22T00:47:02.593471"
+title = "HR00344"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN INQUIRY IN AID OF LEGISLATION THE REPORTED UNHOLY ALLIANCE EXISTING BETWEEN SOME HOSPITALS AND SOME FUNERAL HOMES RESULTING TO THE DETRIMENT OF THE GENERAL PUBLIC"
+scope = "National"
+dateFiled = "1987-09-22"
+status = "Pending with the Committee on HEALTH since 1987-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 170242
+congress = 8
+bill_no = "HR00344"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-24"

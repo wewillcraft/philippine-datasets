@@ -1,0 +1,41 @@
+billNumber = "HB05940"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05940"
+lastScraped = "2025-09-22T00:20:58.464474"
+title = "HB05940"
+longTitle = "AN ACT LIBERALIZING AIR PASSAGE RATES FOR ROUTES/LINKS SERVICED BY ANY NUMBER OF COMMON CARRIER OPERATORS"
+scope = "National"
+dateFiled = "1996-01-25"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 112361
+congress = 10
+bill_no = "HB05940"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-01-29"

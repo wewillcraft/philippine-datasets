@@ -1,0 +1,53 @@
+billNumber = "HB03106"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03106"
+lastScraped = "2025-09-22T00:13:00.369466"
+title = "HB03106"
+longTitle = "AN ACT ESTABLISHING A DISTRICT DRUG REHABILITATION CENTER IN THE 2ND DISTRICT OF THE PROVINCE OF PANGASINAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-20"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espino, Amado Jr. T."
+[[authorsDetail]]
+name = "Espino, Amado Jr. T."
+nameCode = "Espino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 86266
+congress = 12
+bill_no = "HB03106"
+comm_act = "as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-09-27"

@@ -1,0 +1,51 @@
+billNumber = "HB02331"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02331"
+lastScraped = "2025-09-22T00:20:57.786677"
+title = "HB02331"
+longTitle = "AN ACT CREATING A SPECIAL ECONOMIC ZONE AND FREE PORT IN THE SECOND DISTRICT OF THE CITY OF DAVAO, CREATING FOR THIS PURPOSE THE DAVAO CITY SPECIAL ECONOMIC ZONE AUTHORITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-08-14"
+status = "Substituted by HB09928"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1995-08-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 108752
+congress = 10
+bill_no = "HB02331"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1995-08-17"

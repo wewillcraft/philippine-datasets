@@ -1,0 +1,42 @@
+billNumber = "HR00136"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00136"
+lastScraped = "2025-09-22T00:20:59.448195"
+title = "HR00136"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON EFFECTIVE LAW ENFORCEMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROBLEM OF BANK ROBBERIES AND THE MEASURES UNDERTAKEN BY LAW ENFORCEMENT AGENCIES TO ADDRESS THE SITUATION"
+scope = "National"
+dateFiled = "1995-08-23"
+status = "Pending with the Committee on EFFECTIVE LAW ENFORCEMENT (SPECIAL CTTE.) since 1995-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EFFECTIVE LAW ENFORCEMENT (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B503"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117190
+congress = 10
+bill_no = "HR00136"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Special Ctte. on Effective Law Enforcemen t on Se"
+referral = "B503"
+ref_name = "EFFECTIVE LAW ENFORCEMENT (SPECIAL CTTE.)"
+date_read = "1995-08-29"

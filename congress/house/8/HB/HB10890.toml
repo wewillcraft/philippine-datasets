@@ -1,0 +1,71 @@
+billNumber = "HB10890"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10890"
+lastScraped = "2025-09-22T00:46:58.487816"
+title = "HB10890"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE DUMARAOMEDICARE COMMUNITY HOSPITAL AND CONVERTING THE SAME INTO A GENERAL HOSPITAL"
+scope = "Local"
+dateFiled = "1988-05-24"
+status = "REPUBLIC ACT (RA07363) enacted on 1992-04-08"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 145559
+congress = 8
+bill_no = "HB10890"
+report = "01126"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+date_read = "1988-05-27"
+date_ob = "1990-11-29"
+date_cal = "1990-11-29"
+date_unass = "1990-11-29"
+date_report = "1990-06-29"
+
+[secondReading]
+id = 20742
+congress = 8
+bill_no = "HB10890"
+date_approved = "1990-12-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 517
+congress = 8
+bill_no = "HB10890"
+date_dist = "1990-12-10"
+date_adopt = "1991-01-23"
+no_yeas = 136
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-01-24"
+date_rec = "1991-02-07"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1992-01-21"
+dte_actedp = "1992-04-08"

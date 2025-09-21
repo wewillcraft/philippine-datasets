@@ -1,0 +1,61 @@
+billNumber = "HB09777"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09777"
+lastScraped = "2025-09-22T00:20:59.243187"
+title = "HB09777"
+longTitle = "AN ACT INSTITUTING A NATIONAL DRUG TESTING ACT AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1997-08-06"
+status = "Pending with the Committee on HEALTH since 1997-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-08-11"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116198
+congress = 10
+bill_no = "HB09777"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-08-11"

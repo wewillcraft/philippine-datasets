@@ -1,0 +1,57 @@
+billNumber = "HB00400"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00400"
+lastScraped = "2025-09-22T00:12:59.878200"
+title = "HB00400"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 26, ENTITLED `AN ACT PROVIDING A SPECIAL PROCEDURE FOR THE RECONSTITUTION OF TORRENS CERTIFICATE OF TITLE LOST OR DESTROYED,' AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "ROMUALDO, JURDIN JESUS M."
+coAuthors = [ "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 83560
+congress = 12
+bill_no = "HB00400"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

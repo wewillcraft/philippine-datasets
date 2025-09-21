@@ -1,0 +1,64 @@
+billNumber = "HR00201"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00201"
+lastScraped = "2025-09-22T00:47:02.564605"
+title = "HR00201"
+longTitle = "RESOLUTION FOR AN INQUIRY, IN AID OF LEGISLATION INTO THE REPORTED INTRUSION INTO PHILIPPINE WATERSOF FOREIGN VESSELS"
+scope = "National"
+dateFiled = "1987-08-25"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+coAuthors = [ "ROMERO, MIGUEL L.", "ANDOLANA, GREGORIO A.", "ANIAG, FRANCISCO JR. B.",]
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANIAG, FRANCISCO JR. B."
+nameCode = "Aniag"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-08-27"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 170103
+congress = 8
+bill_no = "HR00201"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-08-27"

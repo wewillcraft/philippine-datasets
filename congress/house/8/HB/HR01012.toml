@@ -1,0 +1,57 @@
+billNumber = "HR01012"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01012"
+lastScraped = "2025-09-22T00:47:02.732666"
+title = "HR01012"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON EDUCATION AND CULTURE TO CONDUCT A COMPREHENSIVE STUDY, IN AID OF LEGISLATION, ON OUR PRESENT EDUCATIONAL SYSTEM"
+scope = "National"
+dateFiled = "1988-10-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1988-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "DRAGON, RENATO P.", "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1988-11-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170888
+congress = 8
+bill_no = "HR01012"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1988-11-21"

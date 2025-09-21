@@ -1,0 +1,50 @@
+billNumber = "HB05013"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05013"
+lastScraped = "2025-09-22T00:25:55.555796"
+title = "HB05013"
+longTitle = "AN ACT AMENDING SECTIONS 12 AND 18 OF PRESIDENTIAL DECREE NO. 1519 OTHERWISE KNOWN AS THE 'REVISED PHILIPPINE MEDICAL CARE ACT'"
+scope = "National"
+dateFiled = "1992-11-20"
+status = "Pending with the Committee on HEALTH since 1992-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 123632
+congress = 9
+bill_no = "HB05013"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-24"

@@ -1,0 +1,58 @@
+billNumber = "HR00890"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00890"
+lastScraped = "2025-09-22T00:25:57.530169"
+title = "HR00890"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEES TO INVESTIGATE, IN AID OF LEGISLATION, THE ECOLOGICAL AND SOCIAL EFFECTS OF PUTTING UP FISH PENS AND OTHER FISHING IMPLEMENTS PROLIFERATING WITHIN THE MANILA BAY AND LAGUNA DE BAY AREAS, IN ORDERTO COME UP WITH ADEQUATE MEASURES TO CONTAIN THEM"
+scope = "Local"
+dateFiled = "1993-12-07"
+status = "Pending with the Committee on ECOLOGY since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+coAuthors = [ "GILLEGO, BONIFACIO H.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134197
+congress = 9
+bill_no = "HR00890"
+comm_act = "Change of referral from the Committee on Rules(J.47 ,p.35)"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-12-09"

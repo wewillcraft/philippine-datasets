@@ -1,0 +1,58 @@
+billNumber = "HB00085"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00085"
+lastScraped = "2025-09-22T00:12:59.809481"
+title = "HB00085"
+longTitle = "AN ACT PRESCRIBING RULES GOVERNING THE ARBITRATION PROCESS AS  AN ALTERNATIVE METHOD OF RESOLVING CIVIL ACTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+coAuthors = [ "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 83245
+congress = 12
+bill_no = "HB00085"
+comm_act = "chnge of cttee. ref'l from Labor & Employment as per J.49; p.4"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

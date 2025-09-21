@@ -1,0 +1,42 @@
+billNumber = "HB06071"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06071"
+lastScraped = "2025-09-22T00:46:57.692298"
+title = "HB06071"
+longTitle = "AN ACT APPROPRIATING THE SUM OF FIVE HUNDRED THOUSAND PESOS FOR THE CONSTRUCTION OF MUNICIPAL HEALTH CENTER IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS SAN MIGUELMUNICIPAL HEALTH CENTER"
+scope = "Local"
+dateFiled = "1988-03-07"
+status = "Pending with the Committee on HEALTH since 1988-03-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-09"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 140752
+congress = 8
+bill_no = "HB06071"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-09"

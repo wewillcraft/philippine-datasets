@@ -1,0 +1,50 @@
+billNumber = "HR00990"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00990"
+lastScraped = "2025-09-22T00:47:02.729116"
+title = "HR00990"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ONTHE OPERATIONS OF THE BATANGAS COAL FIRED THERMALPOWER PLANT PROJECT, PHASE I"
+scope = "Local"
+dateFiled = "1988-10-17"
+status = "Pending with the Committee on ENERGY since 1988-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apacible"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Apacible"
+nameCode = "Apacible"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1988-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170867
+congress = 8
+bill_no = "HR00990"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1988-10-20"

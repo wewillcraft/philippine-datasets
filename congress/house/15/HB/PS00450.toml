@@ -1,0 +1,46 @@
+billNumber = "PS00450"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00450"
+lastScraped = "2025-09-21T23:56:42.729365"
+title = "Climate Change"
+longTitle = "EFFECTS OF CLIMATE CHANGE"
+scope = "National"
+dateFiled = "2012-08-13"
+status = "Pending with the Committee on ECOLOGY since 2012-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bello, Walden F."
+[[authorsDetail]]
+name = "Bello, Walden F."
+nameCode = "Bello"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2012-08-15"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 65903
+congress = 15
+bill_no = "PS00450"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2012-08-15"

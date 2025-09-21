@@ -1,0 +1,49 @@
+billNumber = "HB09907"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09907"
+lastScraped = "2025-09-22T00:20:59.266900"
+title = "HB09907"
+longTitle = "AN ACT PENALIZING ANY PERSON WHO CHECKED IN AS PASSENGER IN AN AIRLINE FLIGHT BUT FAILS  TO TAKE THE SAME WITHOUT ANY VALID REASON"
+scope = "National"
+dateFiled = "1997-08-28"
+status = "Pending with the Committee on JUSTICE since 1997-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-09-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116328
+congress = 10
+bill_no = "HB09907"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-09-02"

@@ -1,0 +1,50 @@
+billNumber = "HR01806"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01806"
+lastScraped = "2025-09-22T00:47:02.885524"
+title = "HR01806"
+longTitle = "RESOLUTION REQUESTING THE EXECUTIVE BRANCH TO REEXAMINE ITS STRATEGIES CONCERNING THE MARCOSES' ILL-GOTTEN WEALTH WITH THE END IN VIEW OF FORGING AN AMICABLE SETTLEMENT WITH THE MARCOSES FOR THE RECOVERY OF A SUBSTANTIAL PORTION OF SAID WEALTH"
+scope = "Local"
+dateFiled = "1990-07-12"
+status = "Pending with the Committee on JUSTICE since 1990-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1990-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171643
+congress = 8
+bill_no = "HR01806"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1990-07-25"

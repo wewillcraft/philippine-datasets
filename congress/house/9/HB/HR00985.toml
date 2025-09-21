@@ -1,0 +1,43 @@
+billNumber = "HR00985"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00985"
+lastScraped = "2025-09-22T00:25:57.549355"
+title = "HR00985"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY TO INVESTIGATE THE ALLEGED SALVAGING OF RICO GUTIERREZ AND ALMARIO BAGAIN ON FEBRUARY 9, 1994 IN SITIO LOTE, SAN ANTONIO, MEXICO, PAMPANGA, BY THE COMBINED ELEMENTS OF THE 172ND PNP AND MEXICO, PAMPANGA PNP LED BY COL. LINO CALINGASAN"
+scope = "Local"
+dateFiled = "1994-03-11"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1994-03-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1994-03-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134292
+congress = 9
+bill_no = "HR00985"
+comm_act = "Change of referral from the Committee on Rules(J.69 ,p.79)"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1994-03-16"

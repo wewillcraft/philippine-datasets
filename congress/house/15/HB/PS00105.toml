@@ -1,0 +1,46 @@
+billNumber = "PS00105"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00105"
+lastScraped = "2025-09-21T23:56:42.648793"
+title = "Welfare Of Children"
+longTitle = "Called for support on the passage of bills protecting the welfare of children"
+scope = "National"
+dateFiled = "2010-10-11"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2010-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enerio-Cerilles, Aurora"
+[[authorsDetail]]
+name = "Enerio-Cerilles, Aurora"
+nameCode = "Cerilles"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2010-11-09"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 65607
+congress = 15
+bill_no = "PS00105"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-11-09"

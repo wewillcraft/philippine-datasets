@@ -1,0 +1,46 @@
+billNumber = "PS00034"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00034"
+lastScraped = "2025-09-21T23:56:42.637367"
+title = "Power Rate"
+longTitle = "HIGH ELECTRICITY RATES"
+scope = "National"
+dateFiled = "2010-08-17"
+status = "Pending with the Committee on ENERGY since 2010-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Evardone, Ben P."
+[[authorsDetail]]
+name = "Evardone, Ben P."
+nameCode = "Evardone"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2010-08-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 65550
+congress = 15
+bill_no = "PS00034"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-25"

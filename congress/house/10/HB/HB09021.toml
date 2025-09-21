@@ -1,0 +1,49 @@
+billNumber = "HB09021"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09021"
+lastScraped = "2025-09-22T00:20:59.083907"
+title = "HB09021"
+longTitle = "AN ACT TO ALLOW THE COUNTRYWIDE DEVELOPMENT FUND TO BE USED IN THE ESTABLISHMENT OF BOTIKA SA BARANGAY THROUGH THE BARANGAYS"
+scope = "National"
+dateFiled = "1997-02-27"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-03-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-03-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115442
+congress = 10
+bill_no = "HB09021"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-03-04"

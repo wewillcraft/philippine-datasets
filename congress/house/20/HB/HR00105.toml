@@ -1,0 +1,45 @@
+billNumber = "HR00105"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00105"
+lastScraped = "2025-09-21T23:39:49.214227"
+title = "HR00105"
+longTitle = "A RESOLUTION ENDORSING SECRETARY OF JUSTICE HONORABLE JESUS CRISPIN \"BOYING\" REMULLA FOR THE POSITION OF OMBUDSMAN"
+dateFiled = "2025-08-04"
+status = "Pending with the Committee on JUSTICE since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00105.pdf"
+fileSize = 65771
+author = "SANTOS, MARK ANTHONY"
+[[authorsDetail]]
+name = "SANTOS, MARK ANTHONY"
+nameCode = "Santos (M.A.)"
+date = "2025-08-04"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 4661
+congress = 103
+bill_no = "HR00105"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

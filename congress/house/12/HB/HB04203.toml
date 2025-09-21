@@ -1,0 +1,47 @@
+billNumber = "HB04203"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04203"
+lastScraped = "2025-09-22T00:13:00.553043"
+title = "HB04203"
+longTitle = "AN ACT PROVIDING FOR THE TOTAL ELECTRIFICATION OF ALL BARANGAYS WITHOUT ELECTRICITY IN THE CITY OF CALBAYOG, PROVINCE OF SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-01-14"
+status = "Pending with the Committee on ENERGY since 2002-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Uy, Reynaldo S. , M.D."
+[[authorsDetail]]
+name = "Uy, Reynaldo S. , M.D."
+nameCode = "Uy"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2002-01-22"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87363
+congress = 12
+bill_no = "HB04203"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2002-01-22"

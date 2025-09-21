@@ -1,0 +1,70 @@
+billNumber = "HR00080"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00080"
+lastScraped = "2025-09-22T00:13:01.157355"
+title = "HR00080"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON VETERANS AFFAIRS TO CONDUCT AN IMMEDIATE INQUIRY, IN AID OF LEGISLATION, INTO THE CONTINUED DELAY OF THE PAYMENT BY THE GOVERNMENT OF THE VETERANS OLD AGE PENSION AND OTHER BENEFITS AS MANDATED BY REPUBLIC ACT NOS. 6948 AND 7696"
+scope = "National"
+dateFiled = "2001-08-03"
+status = "Pending with the Committee on RULES since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles, Alipio 'Tikbong' V."
+coAuthors = [ "DEL MAR, RAUL V.", "ECHIVERRI, ENRICO R.", "ZAMORA, MANUEL \"WAY KURAT\" E.",]
+[[authorsDetail]]
+name = "Badelles, Alipio 'Tikbong' V."
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZAMORA, MANUEL \"WAY KURAT\" E."
+nameCode = "Zamora"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "VETERANS AFFAIRS AND WELFARE"
+type = "secondary"
+referralCode = "A506"
+
+[firstReading]
+id = 90019
+congress = 12
+bill_no = "HR00080"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Veterans Affairs on Aug. 22, 2001."
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-08-13"

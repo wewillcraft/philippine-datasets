@@ -1,0 +1,42 @@
+billNumber = "HR00468"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00468"
+lastScraped = "2025-09-22T00:20:59.508767"
+title = "HR00468"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT A PROBE ON THE ALLEGED IRREGULARITIES IN THE BIDDING FOR THE BAKUN A\\B AND C SMALL HYDROPOWER PROJECTS LOCATED IN ILOCOS SUR AND BENGUET BY THE NATIONAL POWER CORPORATION (NPC) AND TO LOOK INTOTHE APPARENT DEFICIENCIES AND INCONSISTENCIES IN THE BIDDING POLICIES AND PROCEDURES OF NPC, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-02-14"
+status = "Pending with the Committee on ENERGY since 1996-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-02-19"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 117522
+congress = 10
+bill_no = "HR00468"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Feb. 20, 1996."
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-02-19"

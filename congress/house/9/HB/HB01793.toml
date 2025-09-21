@@ -1,0 +1,42 @@
+billNumber = "HB01793"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01793"
+lastScraped = "2025-09-22T00:25:54.915469"
+title = "HB01793"
+longTitle = "AN ACT REQUIRING THE NATIONAL POWER CORPORATION (NAPOCOR) TO GIVE AN EQUITABLE COMPENSATION TO THE PROVINCES OF LANAO DEL SUR AND DEL NORTE FOR THE USE OF WATER IN THE OPERATION OF ITS HYDROELECTRIC PLANT LOCATED IN THE SAID PROVINCES"
+scope = "Local"
+dateFiled = "1992-08-31"
+status = "Pending with the Committee on ENERGY since 1992-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-09-02"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 120412
+congress = 9
+bill_no = "HB01793"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-09-02"

@@ -1,0 +1,47 @@
+billNumber = "HR00811"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00811"
+lastScraped = "2025-09-22T00:20:59.578191"
+title = "HR00811"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON SCIENCE AND TECHNOLOGY TO CONDUCT A STUDY, IN AID OF LEGISLATION, ON THE PROMOTION OR INTEGRATION OF THE DUAL-IMAGING DOCUMENT CAPTURE DEVICE, BOTH MICROFILM AND DIGITAL BASED IN THE CURRENT COMPUTERIZATION PROGRAM OF CONCERNED GOVERNMENT AGENCIES"
+scope = "National"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on RULES since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "INDIGENOUS CULTURAL COMMUNITIES AND INDIGENOUS PEOPLES"
+type = "principal"
+referralCode = "H502"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 117865
+congress = 10
+bill_no = "HR00811"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Science and Technology on Sept. 3, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-02"

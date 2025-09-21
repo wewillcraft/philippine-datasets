@@ -1,0 +1,47 @@
+billNumber = "HR00780"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00780"
+lastScraped = "2025-09-22T00:20:59.572615"
+title = "HR00780"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEE ON PUBLIC ORDER AND SAFETY, IN AID  OF LEGISLATION, TO INVESTIGATE THE SUSPICIOUS ESCAPE OF ILLEGAL RECRUITER ROGER GARCIA FROM THE CUSTODY OF THE BUREAU OF JAIL MANAGEMENT ANDPENOLOGY, BAGUIO CITY"
+scope = "Local"
+dateFiled = "1996-08-07"
+status = "Pending with the Committee on RULES since 1996-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-12"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 117834
+congress = 10
+bill_no = "HR00780"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte. on Public Order and Security on Aug. 13, 19"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-12"

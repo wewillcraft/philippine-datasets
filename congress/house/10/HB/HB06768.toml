@@ -1,0 +1,75 @@
+billNumber = "HB06768"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06768"
+lastScraped = "2025-09-22T00:20:58.615821"
+title = "HB06768"
+longTitle = "AN ACT CREATING AND ESTABLISHING THE PHILIPPINE COMMISSION ON WOMEN, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIE S, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-03-28"
+status = "Pending with the Committee on WOMEN since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Luciano"
+coAuthors = [ "RAMIREZ, JOSE T.", "QUIMPO, ALLEN S.", "DEJON, TEMISTOCLES SR. S.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Luciano"
+nameCode = "Luciano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113189
+congress = 10
+bill_no = "HB06768"
+referral = "A504"
+ref_name = "WOMEN"
+date_read = "1996-04-29"

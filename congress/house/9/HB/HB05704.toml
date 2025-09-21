@@ -1,0 +1,47 @@
+billNumber = "HB05704"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05704"
+lastScraped = "2025-09-22T00:25:55.672044"
+title = "HB05704"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MULTIPURPOSE CENTER IN BARANGAY MOTO, MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-12-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124323
+congress = 9
+bill_no = "HB05704"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-12-15"

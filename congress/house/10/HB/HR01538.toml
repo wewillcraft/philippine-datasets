@@ -1,0 +1,61 @@
+billNumber = "HR01538"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01538"
+lastScraped = "2025-09-22T00:20:59.714801"
+title = "HR01538"
+longTitle = "RESOLUTION COMMENDING THE HONORABLE SPEAKER JOSE DE VENECIA, JR. FOR HIS STERLING AND SUCCESSFUL STEWARDSHIP OF THE HOUSE OF REPRESENTATIVES DURING THE NINTH AND TENTH CONGRESS"
+scope = "Local"
+dateFiled = "1998-05-25"
+status = "Adopted as Resolution No. HR00150 on 1998-05-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 118584
+congress = 10
+bill_no = "HR01538"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-05-25"
+
+[secondReading]
+id = 19065
+congress = 10
+bill_no = "HR01538"
+adopted_resolution = "HR00150"
+date_calendared = "1998-05-25"
+date_approved = "1998-05-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00150.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00150.pdf"

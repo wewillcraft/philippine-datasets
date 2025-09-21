@@ -1,0 +1,47 @@
+billNumber = "HR00324"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00324"
+lastScraped = "2025-09-21T23:55:22.603585"
+title = "HR00324"
+longTitle = "RESOLUTION REQUESTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION ON THE HIGH COST OF ELECTRICITY PROVIDED BY THE OLONGAPO ELECTRICITY DISTRIBUTION COMPANY IN THE CITY OF OLONGAPO"
+scope = "National"
+dateFiled = "2022-08-31"
+status = "Pending with the Committee on ENERGY since 2022-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00324.pdf"
+fileSize = 66867
+author = "KHONGHUN, JEFFERSON F."
+[[authorsDetail]]
+name = "KHONGHUN, JEFFERSON F."
+nameCode = "Khonghun"
+date = "2022-08-31"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 16868
+congress = 19
+bill_no = "HR00324"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-09-14"
+date_read = "2022-09-05"

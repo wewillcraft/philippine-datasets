@@ -1,0 +1,54 @@
+billNumber = "HB02933"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02933"
+lastScraped = "2025-09-21T23:39:48.866663"
+title = "HB02933"
+longTitle = "AN ACT EXPANDING THE PRIMARY CARE PACKAGE UNDER PHILHEALTH TO INCLUDE BENEFIT PACKAGE FOR MENTAL HEALTH AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-08-04"
+status = "Pending with the Committee on HEALTH since 2025-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02933.pdf"
+fileSize = 110036
+author = "LAZATIN, CARMELO G. JR"
+coAuthors = [ "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "LAZATIN, CARMELO G. JR"
+nameCode = "Lazatin"
+date = "2025-08-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-06"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 2934
+congress = 103
+bill_no = "HB02933"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-06"

@@ -1,0 +1,47 @@
+billNumber = "HB03143"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03143"
+lastScraped = "2025-09-22T00:25:55.152313"
+title = "HB03143"
+longTitle = "AN ACT CONVERTING THE RURAL HEALTH CENTER IN THE MUNICIPALITY OF CLAVERIA, PROVINCE OF CAGAYAN INTO A TEN-BEN CAPACITY MUNICIPAL HOSPITAL TO BE KNOWN AS THE CLAVERIA MUNICIPAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-29"
+status = "Pending with the Committee on HEALTH since 1992-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121762
+congress = 9
+bill_no = "HB03143"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-05"

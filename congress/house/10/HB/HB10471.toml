@@ -1,0 +1,41 @@
+billNumber = "HB10471"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10471"
+lastScraped = "2025-09-22T00:20:59.390826"
+title = "HB10471"
+longTitle = "AN ACT PENALIZING RUMORMONGERING AND SPREADING FALSE INFORMATION THAT WILL CAUSE HEAVY WITHDRAWALS OF BANK DEPOSITS"
+scope = "Local"
+dateFiled = "1998-01-19"
+status = "Pending with the Committee on REVISION OF LAWS since 1998-01-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1998-01-21"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 116891
+congress = 10
+bill_no = "HB10471"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1998-01-21"

@@ -1,0 +1,54 @@
+billNumber = "HB00742"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00742"
+lastScraped = "2025-09-22T00:20:57.502435"
+title = "HB00742"
+longTitle = "AN ACT ESTABLISHING THE JUDICIAL ACADEMY OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-12"
+status = "Substituted by HB07109"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+coAuthors = [ "LUCERO, WILMAR P.",]
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LUCERO, WILMAR P."
+nameCode = "Lucero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107163
+congress = 10
+bill_no = "HB00742"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-27"

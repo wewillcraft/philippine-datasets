@@ -1,0 +1,60 @@
+billNumber = "HR02068"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR02068"
+lastScraped = "2025-09-21T23:55:46.646864"
+title = "HR02068"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON DANGEROUS DRUGS AND THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CONTINUED INABILITY OF THE BUREAU OF CUSTOMS TO PREVENT THE LARGE-SCALE SMUGGLING OF ILLEGAL DRUGS INTO THE COUNTRY"
+scope = "National"
+dateFiled = "2018-08-13"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2018-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR02068.pdf"
+fileSize = 395571
+author = "QUIMBO, ATTY. MIRO S."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "QUIMBO, ATTY. MIRO S."
+nameCode = "Quimbo"
+date = "2018-08-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2018-08-29"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2018-08-15"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 44810
+congress = 17
+bill_no = "HR02068"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-09-20"
+date_read = "2018-08-15"

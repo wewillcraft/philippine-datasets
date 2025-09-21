@@ -1,0 +1,47 @@
+billNumber = "HB04074"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04074"
+lastScraped = "2025-09-22T00:25:55.369875"
+title = "HB04074"
+longTitle = "AN ACT SUBSIDIZING THE CITY HOSPITAL OF SAN CARLOS CITY, NEGROS OCCIDENTAL, IN THE AMOUNT OF THREE MILLION PESOS A YEAR IN AID OF ITS OPERATIONAL EXPENDITURES"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on HEALTH since 1992-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Carmona, Tranquilino B."
+[[authorsDetail]]
+name = "Carmona, Tranquilino B."
+nameCode = "Carmona"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122693
+congress = 9
+bill_no = "HB04074"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-27"

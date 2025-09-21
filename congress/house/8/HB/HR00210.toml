@@ -1,0 +1,42 @@
+billNumber = "HR00210"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00210"
+lastScraped = "2025-09-22T00:47:02.566075"
+title = "HR00210"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TOURISM TO CONDUCT A COMPREHENSIVE INVESTIGATION INTO THE AFFAIRS OF THE DEPARTMENT OF TOURISM AND ITS EFFICIENCY AND EFFECTIVENESS IN THE CONDUCT OF ITS OPERATIONS AND DISBURSEMENTS OF ITS FUNDS FOR THE PROMOTION OF TOURISM"
+scope = "National"
+dateFiled = "1987-08-25"
+status = "Pending with the Committee on TOURISM since 1987-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1987-08-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170111
+congress = 8
+bill_no = "HR00210"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1987-08-27"

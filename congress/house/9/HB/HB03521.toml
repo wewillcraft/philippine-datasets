@@ -1,0 +1,47 @@
+billNumber = "HB03521"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03521"
+lastScraped = "2025-09-22T00:25:55.219050"
+title = "HB03521"
+longTitle = "AN ACT ESTABLISHING A FIRE STATION EQUIPPED WITH MODERN FACILITIES, PARTICULARLY FIRETRUCKS, IN THE MUNICIPALITIES OF CARRASCAL, BAYABAS, SAN MIGUEL, CORTES, CAGWAIT, MADRID, TAGO, MARIHATAG, AND SAN AGUSTIN, ALL IN THE PROVINCE OF SURIGAO DEL SUR,AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-08"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1992-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1992-10-13"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122140
+congress = 9
+bill_no = "HB03521"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1992-10-13"

@@ -1,0 +1,53 @@
+billNumber = "HR00108"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00108"
+lastScraped = "2025-09-21T23:55:22.564336"
+title = "HR00108"
+longTitle = "A RESOLUTION URGING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE CONTINUED SMUGGLING OF AGRICULTURAL PRODUCTS INTO THE COUNTRY DESPITE EXISTING LAWS AND REGULATIONS"
+scope = "National"
+dateFiled = "2022-07-28"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00108.pdf"
+fileSize = 383166
+author = "YAP, ERIC GO"
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (ERIC)"
+date = "2022-07-28"
+sequence = 1
+
+[[authorsDetail]]
+name = "DUTERTE, PAOLO Z."
+nameCode = "Duterte"
+date = "2022-07-28"
+sequence = 2
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-08-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 16652
+congress = 19
+bill_no = "HR00108"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-08-24"
+date_read = "2022-08-03"

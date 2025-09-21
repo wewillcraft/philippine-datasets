@@ -1,0 +1,61 @@
+billNumber = "HR01105"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01105"
+lastScraped = "2025-09-22T00:20:59.638956"
+title = "HR01105"
+longTitle = "RESOLUTION URGING THE CONCERNED EXECUTIVE AGENCIES TO EXPEDITE AND COORDINATE THE VARIOUS INVESTIGATIONS BEING CONDUCTED INTO THE CRASH OF THE AIRCRAFT WHICH KILLED BISHOP ANTONINO NEPOMUCENO AND THREE (3) OTHERS IN JOLO, SULU, ON FEBRUARY 14, 1997,AND DIRECTING THE HOUSE COMMITTEES ON TRANSPORTATION AND COMMUNICATIONS AND NATIONAL DEFENSE, PURSUANT WITH THEIR OVERSIGHT POWERS, TO PROBE THE SAID ACCIDENT FOR THE PURPOSE OF DETERMINING REMEDIAL POLICY AND APPROPRIATION MEASURES WHICH WOULD REDUCE THE ALARMING FREQUENCY OF AIRCRAFT ACCIDENTS AND PROMOTE AIR TRAVEL SAFETY IN GENERAL"
+scope = "Local"
+dateFiled = "1997-02-19"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-02-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+coAuthors = [ "FUENTES, DAISY A.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FUENTES, DAISY A."
+nameCode = "Fuentes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-02-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 118159
+congress = 10
+bill_no = "HR01105"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-02-24"

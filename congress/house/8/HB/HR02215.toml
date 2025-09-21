@@ -1,0 +1,42 @@
+billNumber = "HR02215"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02215"
+lastScraped = "2025-09-22T00:47:02.983542"
+title = "HR02215"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF LABOR TO STOP THE OVERSEAS DEPLOYMENT OF WOMEN AS DOMESTIC HELPERS"
+scope = "National"
+dateFiled = "1991-04-23"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1991-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villaviza"
+[[authorsDetail]]
+name = "Villaviza"
+nameCode = "Villaviza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1991-04-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172049
+congress = 8
+bill_no = "HR02215"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1991-04-29"

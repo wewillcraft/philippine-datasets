@@ -1,0 +1,65 @@
+billNumber = "HR00198"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00198"
+lastScraped = "2025-09-22T00:20:59.460173"
+title = "HR00198"
+longTitle = "RESOLUTION STRONGLY URGING PRESIDENT FIDEL V. RAMOS TO REVOKE EXECUTIVE ORDER 473 AND TO TAKE CONCRETE STEPS TO EFFECTIVELY ENFORCE PHILIPPINE MARITIME LAWS"
+scope = "National"
+dateFiled = "1995-09-20"
+status = "Adopted as Resolution No. HR00144 on 1998-02-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+coAuthors = [ "ABAD, FLORENCIO B.",]
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAD, FLORENCIO B."
+nameCode = "Abad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 117252
+congress = 10
+bill_no = "HR00198"
+report = "01471"
+comm_act = "Additional Referral to the Special Ctte. on Fisheries Developmen t on Nov. 29, 1995."
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+recomm = "ADOPTION"
+date_read = "1995-09-25"
+date_report = "1998-02-04"
+
+[secondReading]
+id = 18935
+congress = 10
+bill_no = "HR00198"
+adopted_resolution = "HR00144"
+date_calendared = "1998-02-06"
+date_approved = "1998-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00144.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00144.pdf"

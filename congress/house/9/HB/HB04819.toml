@@ -1,0 +1,67 @@
+billNumber = "HB04819"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04819"
+lastScraped = "2025-09-22T00:25:55.522643"
+title = "HB04819"
+longTitle = "AN ACT CREATING THE LUZON POWER CORPORATION, VISAYAS POWER CORPORATION AND MINDANAO POWER CORPORATION, AND ABOLISHING FOR THE PURPOSE THE NATIONAL POWER CORPORATION"
+scope = "National"
+dateFiled = "1992-11-13"
+status = "Pending with the Committee on ENERGY since 1992-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "PUEY, MANUEL H.", "PAYUMO, FELICITO C.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PUEY, MANUEL H."
+nameCode = "Puey"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PAYUMO, FELICITO C."
+nameCode = "Payumo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-11-18"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 123438
+congress = 9
+bill_no = "HB04819"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-11-18"

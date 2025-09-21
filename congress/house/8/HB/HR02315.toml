@@ -1,0 +1,42 @@
+billNumber = "HR02315"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02315"
+lastScraped = "2025-09-22T00:47:03.001243"
+title = "HR02315"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS TO REDUCE THE PERCENTILE RANK OF THE NATIONAL MEDICAL ADMISSION TEST (NMAT) TO ENABLE A GREATER NUMBER OF STUDENTS TO TAKE THE MEDICAL COURSE"
+scope = "National"
+dateFiled = "1991-07-17"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1991-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1991-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172146
+congress = 8
+bill_no = "HR02315"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1991-07-25"

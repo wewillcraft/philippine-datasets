@@ -1,0 +1,42 @@
+billNumber = "HR01807"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01807"
+lastScraped = "2025-09-22T00:47:02.885717"
+title = "HR01807"
+longTitle = "RESOLUTION URGING PRESIDENT CORAZON C. AQUINO TO DECLARE CABANATUAN CITY, BAGUIO CITY, DAGUPAN CITY AND THE ENTIRE PROVINCE OF NUEVA ECIJA AS NATIONAL CALAMITY AREAS"
+scope = "Local"
+dateFiled = "1990-07-17"
+status = "Pending with the Committee on SOCIAL SERVICES since 1990-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1990-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171644
+congress = 8
+bill_no = "HR01807"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1990-07-25"

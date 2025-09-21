@@ -1,0 +1,46 @@
+billNumber = "HB04925"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04925"
+lastScraped = "2025-09-22T00:20:58.284757"
+title = "HB04925"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE PANTALAN NABAJE ELEMENTARY SCHOOL, BARANGAY PANTALAN NABAJE, MUNICIPALITY OF AJUY, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-11-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-14"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111346
+congress = 10
+bill_no = "HB04925"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-11-14"

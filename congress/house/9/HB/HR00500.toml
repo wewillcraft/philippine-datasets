@@ -1,0 +1,50 @@
+billNumber = "HR00500"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00500"
+lastScraped = "2025-09-22T00:25:57.457559"
+title = "HR00500"
+longTitle = "RESOLUTION DIRECTING THE WAYS AND MEANS COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO LOOK INTO THE APPEAL OF COTTON GROWERS FOR INCREASING TO 20% THE TARIFF RATE ON COTTON LINT (RAW COTTON)"
+scope = "National"
+dateFiled = "1993-02-17"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chiongbian"
+coAuthors = [ "DIAZ, RENATO V.",]
+[[authorsDetail]]
+name = "Chiongbian"
+nameCode = "Chiongbian"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DIAZ, RENATO V."
+nameCode = "Diaz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-02-23"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 133812
+congress = 9
+bill_no = "HR00500"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-02-23"

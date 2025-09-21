@@ -1,0 +1,47 @@
+billNumber = "HB06146"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06146"
+lastScraped = "2025-09-22T00:25:55.744377"
+title = "HB06146"
+longTitle = "AN ACT DECLARING THE CITY OF BUTUAN A SPECIAL TOURIST ZONE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-21"
+status = "Pending with the Committee on TOURISM since 1993-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-01-18"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124765
+congress = 9
+bill_no = "HB06146"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-01-18"

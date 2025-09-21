@@ -1,0 +1,65 @@
+billNumber = "HR00949"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00949"
+lastScraped = "2025-09-22T00:20:59.604901"
+title = "HR00949"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON JUSTICE, SOCIAL SERVICES AND YOUTH AND SPORTS DEVELOPMENT TO JOINTLY INVESTIGATE, IN AID OF LEGISLATION, THE INCIDENT INVOLVING A MASS ESCAPE OF JUVENILE OFFENDERS AT THE MOLAVE YOUTH CENTER"
+scope = "Local"
+dateFiled = "1996-11-11"
+status = "Pending with the Committee on RULES since 1996-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "secondary"
+referralCode = "0535"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 118003
+congress = 10
+bill_no = "HR00949"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Justice, on Social Services and on Yout"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-13"

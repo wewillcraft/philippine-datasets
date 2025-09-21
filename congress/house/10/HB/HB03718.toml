@@ -1,0 +1,71 @@
+billNumber = "HB03718"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03718"
+lastScraped = "2025-09-22T00:20:58.062645"
+title = "HB03718"
+longTitle = "AN ACT DECLARING LAKE DANAO AND ITS IMMEDIATE VICINITY, LOCATED MAINLY IN BARANGAY DANAO, MUNICIPALITY OF POLANGUI AND PARTLY IN BARANGAY KINARABASAHAN, MALINAO, BOTH IN THE PROVINCE OF ALBAY AS A SPECIAL TOURIST ZONE, ESTABLISHING A TOURISM RESORTCOMPLEX THEREIN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-21"
+status = "Approved by the House on 1997-04-30, transmitted to on 1997-04-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salalima"
+[[authorsDetail]]
+name = "Salalima"
+nameCode = "Salalima"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110139
+congress = 10
+bill_no = "HB03718"
+report = "00821"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-09-26"
+date_ob = "1997-03-12"
+date_report = "1997-03-10"
+
+[secondReading]
+id = 18047
+congress = 10
+bill_no = "HB03718"
+remarks = "Considered the Explantory Note as the Sponsorship Speech"
+date_approved = "1997-03-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2658
+congress = 10
+bill_no = "HB03718"
+date_dist = "1997-04-21"
+date_adopt = "1997-04-30"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-30"
+date_rec = "1997-05-07"

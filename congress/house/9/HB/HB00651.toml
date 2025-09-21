@@ -1,0 +1,47 @@
+billNumber = "HB00651"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00651"
+lastScraped = "2025-09-22T00:25:54.713887"
+title = "HB00651"
+longTitle = "AN ACT CONVERTING THE SAN DIONISIO RURAL HEALTH CENTER IN THE MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO, INTO A TEN-BED MUNICIPAL HOSPITAL TO BE KNOWN AS THE SAN DIONISIO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-06"
+status = "Pending with the Committee on HEALTH since 1992-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119270
+congress = 9
+bill_no = "HB00651"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-12"

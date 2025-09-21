@@ -1,0 +1,41 @@
+billNumber = "HB06710"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06710"
+lastScraped = "2025-09-22T00:20:58.606067"
+title = "HB06710"
+longTitle = "AN ACT TO AMEND PRESIDENTIAL DECREE NO. 1638 WHICH ESTABLISHED A NEW SYSTEM OF RETIREMENT AND SEPARATION OF MILITARY PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1996-03-26"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1996-03-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1996-03-28"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 113131
+congress = 10
+bill_no = "HB06710"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1996-03-28"

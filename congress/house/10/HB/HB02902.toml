@@ -1,0 +1,54 @@
+billNumber = "HB02902"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02902"
+lastScraped = "2025-09-22T00:20:57.902537"
+title = "HB02902"
+longTitle = "AN ACT INCLUDING WITNESSES IN CASES OF GRAFT AND CORRUPTION, HUMAN RIGHTS VIOLATIONS, AND CRIMES AGAINST ENVIRONMENT UNDER THE WITNESS PROTECTION PROGRAM, AND INCREASING THE ANNUAL APPROPRIATION OF THE SAID PROGRAM, AMENDING FOR THE PURPOSE THE WITNESS PROTECTION, SECURITY AND BENEFIT ACT"
+scope = "National"
+dateFiled = "1995-08-28"
+status = "Pending with the Committee on JUSTICE since 1995-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+coAuthors = [ "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109323
+congress = 10
+bill_no = "HB02902"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-04"

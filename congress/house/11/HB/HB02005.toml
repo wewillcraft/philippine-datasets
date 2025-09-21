@@ -1,0 +1,46 @@
+billNumber = "HB02005"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB02005"
+lastScraped = "2025-09-22T00:23:15.858484"
+title = "HB02005"
+longTitle = "AN ACT ESTABLISHING A CATTLE BREEDING CENTER IN THE SECOND DISTRICT OF THE PROVINCE OF ORIENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-08-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1998-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1998-08-17"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 93446
+congress = 11
+bill_no = "HB02005"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1998-08-17"

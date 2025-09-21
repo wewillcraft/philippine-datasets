@@ -1,0 +1,54 @@
+billNumber = "HB02159"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02159"
+lastScraped = "2025-09-21T23:55:20.454537"
+title = "HB02159"
+longTitle = "AN ACT\r\n\r\nESTABLISHING THE LINEMAN TRAINING ACADEMY OF THE\r\nPHILIPPINES, PROVIDING FOR ITS POWERS, STRUCTURE,\r\n\r\nAPPROPRIATING FUNDS THEREFOR,\r\nAND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-19"
+status = "Pending with the Committee on ENERGY since 2022-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02159.pdf"
+fileSize = 325436
+author = "DAGOOC, SERGIO C."
+coAuthors = [ "LEE, WILBERT T.",]
+[[authorsDetail]]
+name = "DAGOOC, SERGIO C."
+nameCode = "Dagooc"
+date = "2022-07-19"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-09-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 7078
+congress = 19
+bill_no = "HB02159"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-02"

@@ -1,0 +1,67 @@
+billNumber = "HB01725"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01725"
+lastScraped = "2025-09-21T23:55:44.433491"
+title = "HB01725"
+longTitle = "AN ACT CREATING A NATIONAL TRANSPORTATION SAFETY BOARD, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-19"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2017-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01725.pdf"
+fileSize = 1453413
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "SARMIENTO, EDGAR S.", "CASTELO, WINSTON \"WINNIE\"",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2016-07-19"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, EDGAR S."
+nameCode = "Sarmiento (E.M.)"
+date = "2017-08-08"
+journalNo = "J008"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON \"WINNIE\""
+nameCode = "Castelo"
+date = "2017-10-11"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "secondary"
+referralCode = "E509"
+
+[firstReading]
+id = 35193
+congress = 17
+bill_no = "HB01725"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-03-07"
+date_read = "2016-08-02"

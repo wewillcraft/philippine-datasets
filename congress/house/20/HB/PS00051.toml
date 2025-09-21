@@ -1,0 +1,44 @@
+billNumber = "PS00051"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00051"
+lastScraped = "2025-09-21T23:39:49.250274"
+title = "PS00051"
+longTitle = "EDUCATION IS THE GREAT EQUALIZER"
+dateFiled = "2025-08-20"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "SAN FERNANDO, ELIJAH RUMBAOA"
+[[authorsDetail]]
+name = "SAN FERNANDO, ELIJAH RUMBAOA"
+nameCode = "San Fernando"
+date = "2025-08-20"
+sequence = 1
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-08-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4886
+congress = 103
+bill_no = "PS00051"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-27"
+date_read = "2025-08-20"

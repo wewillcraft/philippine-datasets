@@ -1,0 +1,65 @@
+billNumber = "HB03528"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03528"
+lastScraped = "2025-09-22T00:20:58.027901"
+title = "HB03528"
+longTitle = "AN ACT SEPARATING THE VALLADOLID NATIONAL HIGH SCHOOL EXTENSION IN THE MUNICIPALITY OF CARCAR, PROVINCE OF CEBU, FROM THE VALLADOLID NATIONAL HIGH SCHOOL AND CONVERTING IT INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE ROBERTO SATO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-18"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 109949
+congress = 10
+bill_no = "HB03528"
+report = "01051"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-09-21"
+date_ob = "1997-09-03"
+date_report = "1997-09-01"
+
+[secondReading]
+id = 18022
+congress = 10
+bill_no = "HB03528"
+remarks = "Considered the Explantory Note as the Sponsorship Speech"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2633
+congress = 10
+bill_no = "HB03528"
+date_dist = "1997-09-29"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"

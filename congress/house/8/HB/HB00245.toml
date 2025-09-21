@@ -1,0 +1,42 @@
+billNumber = "HB00245"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00245"
+lastScraped = "2025-09-22T00:46:56.599423"
+title = "HB00245"
+longTitle = "AN ACT TO CHANGE THE NAME OF THE DEPARTMENT OF LABOR AND EMPLOYMENT SIMPLY TO DEPARTMENT OF LABOR TO AVOID REDUNDANCY AND IN THE INTEREST OF SIMPLICITY AND ECONOMY"
+scope = "National"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 134942
+congress = 8
+bill_no = "HB00245"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-08-11"

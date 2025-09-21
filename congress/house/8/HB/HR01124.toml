@@ -1,0 +1,64 @@
+billNumber = "HR01124"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01124"
+lastScraped = "2025-09-22T00:47:02.755830"
+title = "HR01124"
+longTitle = "RESOLUTION STRENGTHENING THE PRIMARY HEALTH CARE SERVICE AND INSTITUTING A COMMUNITY BASED TB CONTROL PROGRAM AIMED TOWARDS CONTROLLING AND EVENTUALLY ERADICATING TB"
+scope = "National"
+dateFiled = "1989-02-01"
+status = "Pending with the Committee on HEALTH since 1989-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valencia, Rodolfo G."
+coAuthors = [ "MAR, RAUL V. DEL", "ALMARIO, THELMA Z.", "LABARIA, VIOLETA T.",]
+[[authorsDetail]]
+name = "Valencia, Rodolfo G."
+nameCode = "Valencia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALMARIO, THELMA Z."
+nameCode = "Almario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LABARIA, VIOLETA T."
+nameCode = "Labaria"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-02-07"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170998
+congress = 8
+bill_no = "HR01124"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-02-07"

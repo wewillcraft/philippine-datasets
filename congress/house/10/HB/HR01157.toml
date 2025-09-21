@@ -1,0 +1,46 @@
+billNumber = "HR01157"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01157"
+lastScraped = "2025-09-22T00:20:59.647923"
+title = "HR01157"
+longTitle = "RESOLUTION CALLING FOR A PUBLIC HEARING TO ADDRESS THE PROBLEMS BESETTING THE DEVOLVED PHILIPPINE HEALTH CARE SYSTEM"
+scope = "National"
+dateFiled = "1997-03-31"
+status = "Substituted by HB10447"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-04-21"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 118211
+congress = 10
+bill_no = "HR01157"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-04-21"

@@ -1,0 +1,42 @@
+billNumber = "HR02322"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02322"
+lastScraped = "2025-09-22T00:47:03.002604"
+title = "HR02322"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE SINKING OF THE FERRY 'EMERALD I' WHERE SOME PASSENGERS WERE REPORTED TO HAVE DIED OR ARE MISSING, FOR THE PURPOSE OF ENACTING REMEDIAL LEGISLATIONS THEREFOR"
+scope = "Local"
+dateFiled = "1991-07-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1991-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1991-07-31"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 172151
+congress = 8
+bill_no = "HR02322"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1991-07-31"

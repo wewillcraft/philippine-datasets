@@ -1,0 +1,51 @@
+billNumber = "PS00049"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=PS00049"
+lastScraped = "2025-09-21T23:55:23.042070"
+title = "National Commission On Senior Citizens"
+longTitle = "NATIONAL COMMISSION ON SENIOR CITIZENS"
+scope = "National"
+dateFiled = "2022-08-31"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2022-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "ORDANES, RODOLFO \"OMPONG\" M."
+[[authorsDetail]]
+name = "ORDANES, RODOLFO \"OMPONG\" M."
+nameCode = "Ordanes"
+date = "2022-08-31"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2022-09-06"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "secondary"
+referralCode = "I505"
+
+[firstReading]
+id = 18945
+congress = 19
+bill_no = "PS00049"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-06"

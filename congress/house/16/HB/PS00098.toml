@@ -1,0 +1,46 @@
+billNumber = "PS00098"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=PS00098"
+lastScraped = "2025-09-21T23:56:23.310415"
+title = "Tax Raps Against Rep. Manny Pacquiao"
+longTitle = "GARNISHMENT OF REP. PACQUIAO'S ASSETS"
+scope = "Local"
+dateFiled = "2013-11-27"
+status = "Pending with the Committee on WAYS AND MEANS since 2013-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/PS098_Rep. Ong.pdf"
+fileSize = 57471
+author = "Ong, Emil L."
+[[authorsDetail]]
+name = "Ong, Emil L."
+nameCode = "Ong"
+date = "2013-11-27"
+sequence = 1
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2013-12-03"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 55206
+congress = 16
+bill_no = "PS00098"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-12-03"

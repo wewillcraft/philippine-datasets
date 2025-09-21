@@ -1,0 +1,106 @@
+billNumber = "HR00513"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HR00513"
+lastScraped = "2025-09-22T00:13:49.220960"
+title = "HR00513"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCES OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF MS. KRISTINA CASIMIRA VERA PEREZ DE VENECIA, DAUGHTER OF THE HONORABLE SPEAKER JOSE C. DE VENECIA, JR., REPRESENTATIVE 0F THE FOURTH DISTRICT OF PANGASINAN"
+scope = "National"
+dateFiled = "2005-01-03"
+status = "Approved on Second Reading on 2005-01-05"
+statusOrder = 13.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+coAuthors = [ "DEL MAR, RAUL V.", "ESCUDERO, FRANCIS G.", " A L L  MEMBERS",]
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, FRANCIS G."
+nameCode = "Escudero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = " A L L  MEMBERS"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2005-01-05"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[motherBills]]
+bill_no = "HR00508"
+sequence = 1
+flag = "C"
+
+[[motherBills]]
+bill_no = "HR00515"
+sequence = 2
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR00508"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR00515"
+sequence = 2
+flag = "C"
+
+[firstReading]
+id = 81776
+congress = 13
+bill_no = "HR00513"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-01-05"
+date_read = "2005-01-05"
+
+[secondReading]
+id = 12000
+congress = 13
+bill_no = "HR00513"
+adopted_resolution = "HR00028"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = "All Members were made Coauthors."
+recommended_reconsidered = " "
+date_calendared = "2005-01-05"
+date_approved = "2005-01-05"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

@@ -1,0 +1,56 @@
+billNumber = "HB10001"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10001"
+lastScraped = "2025-09-22T00:20:59.286754"
+title = "HB10001"
+longTitle = "AN ACT TO INSTITUTE COASTAL AND FORESHORE LAND REFORM"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "ADAMAT, RONALDO",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ADAMAT, RONALDO"
+nameCode = "Adamat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 116422
+congress = 10
+bill_no = "HB10001"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-10-02"

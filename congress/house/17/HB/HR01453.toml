@@ -1,0 +1,47 @@
+billNumber = "HR01453"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01453"
+lastScraped = "2025-09-21T23:55:46.525129"
+title = "HR01453"
+longTitle = "RESOLUTION CALLING FOR THE COMMITTEE ON TRANSPORTATION TO EXERCISE ITS OVERSIGHT FUNCTION AND INVESTIGATE, IN AID OF LEGISLATION, THE MRT MANAGEMENT ON THE ACCIDENT THAT HAPPENED AT THE METRO RAIL TRANSIT LINE 3 (MRT 3) AYALA STATION LAST NOVEMBER 14, 2017"
+scope = "National"
+dateFiled = "2017-11-20"
+status = "Pending with the Committee on TRANSPORTATION since 2017-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01453.pdf"
+fileSize = 266215
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2017-11-20"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-11-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 44195
+congress = 17
+bill_no = "HR01453"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-11-28"
+date_read = "2017-11-22"

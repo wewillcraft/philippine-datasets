@@ -1,0 +1,41 @@
+billNumber = "HR01366"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01366"
+lastScraped = "2025-09-22T00:20:59.687433"
+title = "HR01366"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH ITS COMMITTEE ON SOCIAL SERVICES, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ANOMALOUS PRACTICE OF CERTAIN ORGANIZATIONS WHO REQUIRE RECIPIENTS OF THEIR AWARDS OR CITATIONS TO DONATE TO THEIR ORGANIZATION"
+scope = "National"
+dateFiled = "1997-09-16"
+status = "Pending with the Committee on SOCIAL SERVICES since 1997-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cosalan, Ronald M."
+[[authorsDetail]]
+name = "Cosalan, Ronald M."
+nameCode = "Cosalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1997-09-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118420
+congress = 10
+bill_no = "HR01366"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1997-09-29"

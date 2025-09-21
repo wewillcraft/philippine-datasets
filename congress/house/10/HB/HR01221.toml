@@ -1,0 +1,41 @@
+billNumber = "HR01221"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01221"
+lastScraped = "2025-09-22T00:20:59.660801"
+title = "HR01221"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON NATIONAL DEFENSE TO INQUIRE, IN AID OF LEGISLATION, INTO THE STATUS OF THE ARMED FORCES OF THE PHILIPPINES (AFP) MODERNIZATION PROGRAM AND TO REQUIRE THE AFP TO PREPARE AN INTERIM PROGRAM TO ENHANCE THEIR DEFENSE CAPABILITY AND TO BETTER PERFORM THEIR CONSTITUTIONAL MANDATE WHILE AWAITING THE COMPLETION OF THE MODERNIZATION PROGRAM"
+scope = "National"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118275
+congress = 10
+bill_no = "HR01221"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-05-22"

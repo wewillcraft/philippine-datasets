@@ -1,0 +1,42 @@
+billNumber = "HR00836"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00836"
+lastScraped = "2025-09-22T00:47:02.689849"
+title = "HR00836"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON FOREIGN AFFAIRS AND COMMITTEE ON DEFENSE TO IMMEDIATELY CONDUCT A JOINT INVESTIGATION IN AID OF LEGISLATION OF THE CASE OF FILIPINO FISHERMEN APPREHENDED AND DETAINED BY MALAYSIAN AUTHORITIES ON CHARGE OF ILLEGAL FISHING ON MALAYSIAN WATERS LAST APRIL 5, 1988"
+scope = "National"
+dateFiled = "1988-08-04"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1988-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1988-08-10"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 170717
+congress = 8
+bill_no = "HR00836"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1988-08-10"

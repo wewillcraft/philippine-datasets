@@ -1,0 +1,61 @@
+billNumber = "HB06444"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB06444"
+lastScraped = "2025-09-21T23:55:45.490236"
+title = "HB06444"
+longTitle = "AN ACT REQUIRING THE INSTALLATION OF DASHBOARD CAMERAS ON MOTOR VEHICLES"
+scope = "National"
+dateFiled = "2017-09-25"
+status = "Pending with the Committee on TRANSPORTATION since 2017-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB06444.pdf"
+fileSize = 253450
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "NIETO, YUL SERVO", "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2017-09-25"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2018-01-22"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2018-03-15"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-09-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 39911
+congress = 17
+bill_no = "HB06444"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-09-26"

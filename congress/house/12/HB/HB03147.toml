@@ -1,0 +1,47 @@
+billNumber = "HB03147"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03147"
+lastScraped = "2025-09-22T00:13:00.375965"
+title = "HB03147"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A WOMEN'S CENTER IN THE MUNICIPALITY OF LABRADOR, PROVINCE OF PANGASINAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-20"
+status = "Pending with the Committee on WOMEN since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espino, Amado Jr. T."
+[[authorsDetail]]
+name = "Espino, Amado Jr. T."
+nameCode = "Espino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86307
+congress = 12
+bill_no = "HB03147"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2001-09-27"

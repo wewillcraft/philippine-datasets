@@ -1,0 +1,42 @@
+billNumber = "HB10230"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10230"
+lastScraped = "2025-09-22T00:46:58.383124"
+title = "HB10230"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN LATOH-LATOH, BONGAO, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFORAN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN LATOH-LATOH, BONGAO, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-18"
+status = "Pending with the Committee on HEALTH since 1988-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-24"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 144903
+congress = 8
+bill_no = "HB10230"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-24"

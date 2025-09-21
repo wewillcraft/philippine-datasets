@@ -1,0 +1,42 @@
+billNumber = "HR01565"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01565"
+lastScraped = "2025-09-22T00:47:02.849995"
+title = "HR01565"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE PUBLIC INVESTIGATION OF THE PLANNED PURCHASE BY THE ARMED FORCES OF THE PHILIPPINES OF ONE HUNDRED AND FIFTY (150) UNITS OF A MECHANIZED BRITISH-MADE ARMORED PERSONNEL VEHICLE NAMED 'SIMBA' AT A TOTAL COST OF P1.2 BILLION PESOS"
+scope = "National"
+dateFiled = "1989-11-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano"
+[[authorsDetail]]
+name = "Albano"
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-11-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 171425
+congress = 8
+bill_no = "HR01565"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-11-29"

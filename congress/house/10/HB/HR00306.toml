@@ -1,0 +1,50 @@
+billNumber = "HR00306"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00306"
+lastScraped = "2025-09-22T00:20:59.478977"
+title = "HR00306"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED EXISTENCE OF A RICE CARTEL AND ON RICE HOARDERS AND PROFITEERS, AND TO ADOPT APPROPRIATE MEASURES TO EFFECTIVELY ADDRESS THIS SITUATION"
+scope = "National"
+dateFiled = "1995-11-14"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117360
+congress = 10
+bill_no = "HR00306"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Trade and Industry on Nov. 20, 1995."
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-11-20"

@@ -1,0 +1,46 @@
+billNumber = "HB10820"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10820"
+lastScraped = "2025-09-22T00:01:47.313571"
+title = "HB10820"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO JIN JIANG"
+scope = "National"
+dateFiled = "2022-03-16"
+status = "Pending with the Committee on JUSTICE since 2022-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10820.pdf"
+fileSize = 709723
+author = "Pineda, Enrico A."
+[[authorsDetail]]
+name = "Pineda, Enrico A."
+nameCode = "Pineda"
+date = "2022-03-16"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2022-05-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30224
+congress = 18
+bill_no = "HB10820"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-05-23"

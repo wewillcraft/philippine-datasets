@@ -1,0 +1,46 @@
+billNumber = "HB09923"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB09923"
+lastScraped = "2025-09-22T00:23:17.415787"
+title = "HB09923"
+longTitle = "AN ACT ESTABLISHING A MODEL FARM IN THE MUNICIPALITY OF SAN VICENTE, PROVINCE OF CAMARINES NORTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-03-16"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2000-03-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "2000-03-22"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 101356
+congress = 11
+bill_no = "HB09923"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "2000-03-22"

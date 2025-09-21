@@ -1,0 +1,47 @@
+billNumber = "HB08786"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08786"
+lastScraped = "2025-09-22T00:25:56.180338"
+title = "HB08786"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HALL IN BARANGAY MUDIANG, CITY OF DAVAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127404
+congress = 9
+bill_no = "HB08786"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-05-04"

@@ -1,0 +1,46 @@
+billNumber = "HB10680"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10680"
+lastScraped = "2025-09-22T00:01:47.280796"
+title = "HB10680"
+longTitle = "AN ACT EXEMPTING FROM TAXES THE FERTILIZERS AND PESTICIDES USED IN RICE, CORN AND SUGAR PRODUCTION"
+scope = "National"
+dateFiled = "2022-01-17"
+status = "Pending with the Committee on WAYS AND MEANS since 2022-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10680.pdf"
+fileSize = 751186
+author = "Gorriceta, Michael B."
+[[authorsDetail]]
+name = "Gorriceta, Michael B."
+nameCode = "Gorriceta"
+date = "2022-01-17"
+sequence = 1
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2022-01-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 30084
+congress = 18
+bill_no = "HB10680"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-01-24"

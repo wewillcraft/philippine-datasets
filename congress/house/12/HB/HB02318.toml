@@ -1,0 +1,47 @@
+billNumber = "HB02318"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02318"
+lastScraped = "2025-09-22T00:13:00.216736"
+title = "HB02318"
+longTitle = "AN ACT UPGRADING THE PRIMARY HOSPITAL IN BARAS, CATANDUANES TO A SECONDARY HOSPITAL TO BE KNOWN AS THE BARAS DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-13"
+status = "Pending with the Committee on HEALTH since 2001-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santiago, Joseph A."
+[[authorsDetail]]
+name = "Santiago, Joseph A."
+nameCode = "Santiago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85478
+congress = 12
+bill_no = "HB02318"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-20"

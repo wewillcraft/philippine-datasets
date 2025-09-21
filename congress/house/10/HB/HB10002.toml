@@ -1,0 +1,46 @@
+billNumber = "HB10002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10002"
+lastScraped = "2025-09-22T00:20:59.286927"
+title = "HB10002"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF MAASIN INTO A COMPONENT CITY OF THE PROVINCE OF SOUTHERN LEYTE TO BE KNOWN AS THE CITY OF MAASIN"
+scope = "Local"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116423
+congress = 10
+bill_no = "HB10002"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-10-02"

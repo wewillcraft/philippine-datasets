@@ -1,0 +1,54 @@
+billNumber = "HB08081"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08081"
+lastScraped = "2025-09-22T00:20:58.894725"
+title = "HB08081"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE CANAS ELEMENTARY SCHOOL, BARANGAY CANAS, MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-10-03"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114502
+congress = 10
+bill_no = "HB08081"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-08"

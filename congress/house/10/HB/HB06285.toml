@@ -1,0 +1,71 @@
+billNumber = "HB06285"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06285"
+lastScraped = "2025-09-22T00:20:58.529863"
+title = "HB06285"
+longTitle = "AN ACT DECLARING THE BULABOG-PUTIAN NATIONAL PARK IN THE MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, A TOURIST SPOT"
+scope = "Local"
+dateFiled = "1996-02-19"
+status = "Approved by the House on 1997-01-29, transmitted to on 1997-01-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-02-22"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112706
+congress = 10
+bill_no = "HB06285"
+report = "00706"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1996-02-22"
+date_ob = "1996-12-11"
+date_report = "1996-12-10"
+
+[secondReading]
+id = 18325
+congress = 10
+bill_no = "HB06285"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2925
+congress = 10
+bill_no = "HB06285"
+date_dist = "1997-01-21"
+date_adopt = "1997-01-29"
+no_yeas = 149
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-30"
+date_rec = "1997-02-03"

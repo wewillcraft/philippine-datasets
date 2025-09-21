@@ -1,0 +1,54 @@
+billNumber = "HB06323"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06323"
+lastScraped = "2025-09-22T00:20:58.537862"
+title = "HB06323"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A POPULATION OFFICE IN ALL LOCAL GOVERNMENT UNITS AND TRANSFERRING THE CONTROL AND SUPERVISION OVER EXISTING LOCAL POPULATION OFFICES TO THE COMMISSION ON POPULATION"
+scope = "National"
+dateFiled = "1996-02-21"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 1996-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1996-02-26"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112744
+congress = 10
+bill_no = "HB06323"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+date_read = "1996-02-26"

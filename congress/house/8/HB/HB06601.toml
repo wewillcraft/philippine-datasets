@@ -1,0 +1,42 @@
+billNumber = "HB06601"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06601"
+lastScraped = "2025-09-22T00:46:57.778784"
+title = "HB06601"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY PALTIC, MUNICIPALITY OF DINGALAN, PROVINCEOF AURORA, TO BE KNOWN AS PALTIC BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-17"
+status = "Pending with the Committee on HEALTH since 1988-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Miran"
+[[authorsDetail]]
+name = "Miran"
+nameCode = "Miran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-21"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 141282
+congress = 8
+bill_no = "HB06601"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-21"

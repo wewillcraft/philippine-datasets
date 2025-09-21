@@ -1,0 +1,54 @@
+billNumber = "HR01228"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01228"
+lastScraped = "2025-09-22T00:20:59.661846"
+title = "HR01228"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND THE COMMITTEE ON AGRARIAN REFORM TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IRREGULAR TITLING AND SURVEYING OF A PORTION OF LAND IN BARANGAY BAGALANGIT, MUNICIPALITY OF MABINI, PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "1997-05-27"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-05-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 118282
+congress = 10
+bill_no = "HR01228"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-05-29"

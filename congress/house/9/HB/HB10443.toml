@@ -1,0 +1,47 @@
+billNumber = "HB10443"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10443"
+lastScraped = "2025-09-22T00:25:56.487004"
+title = "HB10443"
+longTitle = "AN ACT CREATING THE REGISTRY OF DEEDS OF THE MUNICIPALITY OF MUNTINLUPA, METRO MANILA, THEREBY AMENDING SECTION 30, CHAPTER 9, TITLE III, BOOK IV OF EXECUTIVE ORDER NO. 292, OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1993-08-18"
+status = "Pending with the Committee on JUSTICE since 1993-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-08-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129061
+congress = 9
+bill_no = "HB10443"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-08-25"

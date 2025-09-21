@@ -1,0 +1,42 @@
+billNumber = "HR01106"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01106"
+lastScraped = "2025-09-22T00:47:02.752781"
+title = "HR01106"
+longTitle = "RESOLUSYON NA NAGTATAKDA SA KOMITE NG EDUKASYON AT KULTURA, NA MAGSAGAWA NG PAG-AARAL O PAGSASALIKSIK BILANG TULONG SA GAWAING PAGBABATAS TUNGO SA PAGPAPALAGANAP AT PAGPAPAUNLAD NG ARNIS SA LAHAT NG MATAAS NA PAARALANG PAMBAYAN AT PRIBADO MAN"
+scope = "National"
+dateFiled = "1989-01-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1989-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap"
+[[authorsDetail]]
+name = "Yap"
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1989-01-30"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 170980
+congress = 8
+bill_no = "HR01106"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1989-01-30"

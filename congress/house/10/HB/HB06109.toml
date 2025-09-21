@@ -1,0 +1,41 @@
+billNumber = "HB06109"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06109"
+lastScraped = "2025-09-22T00:20:58.496691"
+title = "HB06109"
+longTitle = "AN ACT TO AMEND SECTION 14 OF PRESIDENTIAL DECREE NUMBERED ONE THOUSAND ONE HUNDRED SEVENTY-SEVEN AS CODIFIED UNDER SECTION 12, FORM AND CONTENT OF THE BUDGET, CHAPTER 3 - BUDGET PREPARATION - OF EXECUTIVE ORDER NUMBERED TWO HUNDRED AND EIGHTY TWO,AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-02-05"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 112530
+congress = 10
+bill_no = "HB06109"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-02-12"

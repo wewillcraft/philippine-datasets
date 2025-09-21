@@ -1,0 +1,46 @@
+billNumber = "HB01521"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01521"
+lastScraped = "2025-09-22T00:20:57.634914"
+title = "HB01521"
+longTitle = "AN ACT PROVIDING FOR THE REPAIR AND REHABILITATION OF THE MARCOS ALVAREZ ROAD IN LAS PINAS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107942
+congress = 10
+bill_no = "HB01521"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-03"

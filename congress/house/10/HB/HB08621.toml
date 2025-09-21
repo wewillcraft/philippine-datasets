@@ -1,0 +1,76 @@
+billNumber = "HB08621"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08621"
+lastScraped = "2025-09-22T00:20:58.998040"
+title = "HB08621"
+longTitle = "AN ACT CONVERTING THE MARGOSATUBIG DISTRICT HOSPITAL IN MARGOSATUBIG, ZAMBOANGA DEL SUR, INTO A REGIONAL HOSPITAL TO BE KNOWN AS MARGOSATUBIG REGIONAL HOSPITAL AND TO INCREASE THE BED CAPACITY TO THREE HUNDRED (300) BEDS AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-12-13"
+status = "REPUBLIC ACT RA08412 (Lapsed into law on 1997-11-27)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-12-17"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115042
+congress = 10
+bill_no = "HB08621"
+report = "00859"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval without amendment"
+date_read = "1996-12-17"
+date_ob = "1997-04-21"
+date_report = "1997-04-10"
+
+[secondReading]
+id = 18609
+congress = 10
+bill_no = "HB08621"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-04-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3197
+congress = 10
+bill_no = "HB08621"
+date_dist = "1997-05-05"
+date_adopt = "1997-05-08"
+no_yeas = 158
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-05-08"
+date_rec = "1997-05-15"
+date_agram = "1997-10-06"
+amend_ind = "Y"
+act_pres = "L"
+dte_transp = "1997-10-23"
+dte_actedp = "1997-11-27"

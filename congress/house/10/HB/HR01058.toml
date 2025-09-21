@@ -1,0 +1,47 @@
+billNumber = "HR01058"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01058"
+lastScraped = "2025-09-22T00:20:59.630971"
+title = "HR01058"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEE ON GOOD GOVERNMENT, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED ANOMALOUS PURCHASE OF COMMUNICATIONS EQUIPMENT BY THE TELECOMMUNICATI ONS OFFICE ANDTHE OFFICE OF COMMUNICATIONS MANAGEMENT OF THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS"
+scope = "Local"
+dateFiled = "1997-01-22"
+status = "Pending with the Committee on RULES since 1997-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-28"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 118112
+congress = 10
+bill_no = "HR01058"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Good Government on Jan. 28, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-28"

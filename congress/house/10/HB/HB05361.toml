@@ -1,0 +1,41 @@
+billNumber = "HB05361"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05361"
+lastScraped = "2025-09-22T00:20:58.360672"
+title = "HB05361"
+longTitle = "AN ACT CHANGING THE SCHOOL CALENDAR OF SCHOOLS IN THE MOUNT PINATUBO- AFFECTED AREAS FROM JUNE-MARCH TO NOVEMBER-JUNE AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-11-29"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-12-06"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 111782
+congress = 10
+bill_no = "HB05361"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-12-06"

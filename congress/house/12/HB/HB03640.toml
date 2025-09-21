@@ -1,0 +1,47 @@
+billNumber = "HB03640"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03640"
+lastScraped = "2025-09-22T00:13:00.459724"
+title = "HB03640"
+longTitle = "AN ACT APPROPRIATING SIX MILLION PESOS (P6,000,000.00) FOR THE ESTABLISHMENT OF A TEN-BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF PALAPAG, PROVINCE OF NORTHERN SAMAR, TO BE KNOWN AS PALAPAG DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "2001-10-24"
+status = "Pending with the Committee on HEALTH since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vicencio, Romualdo T."
+[[authorsDetail]]
+name = "Vicencio, Romualdo T."
+nameCode = "Vicencio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86800
+congress = 12
+bill_no = "HB03640"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-11-19"

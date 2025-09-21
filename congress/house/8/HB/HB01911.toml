@@ -1,0 +1,42 @@
+billNumber = "HB01911"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01911"
+lastScraped = "2025-09-22T00:46:56.897447"
+title = "HB01911"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT AND COMPLETION OF THE CONCRETING OF THE ABRA-ILOCOS SUR NATIONAL ROAD"
+scope = "Local"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bernardez"
+[[authorsDetail]]
+name = "Bernardez"
+nameCode = "Bernardez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 136601
+congress = 8
+bill_no = "HB01911"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-29"

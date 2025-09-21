@@ -1,0 +1,62 @@
+billNumber = "HB03232"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03232"
+lastScraped = "2025-09-22T00:25:55.168176"
+title = "HB03232"
+longTitle = "AN ACT INSTITUTING A MEDICAL CARE PROGRAM FOR ALL FILIPINO CITIZENS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-10-01"
+status = "Substituted by HB14225"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "ROMERO, MIGUEL L.", "GOLEZ, ROILO",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-07"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121851
+congress = 9
+bill_no = "HB03232"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-07"

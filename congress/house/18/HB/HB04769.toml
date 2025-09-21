@@ -1,0 +1,46 @@
+billNumber = "HB04769"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB04769"
+lastScraped = "2025-09-22T00:01:45.892206"
+title = "HB04769"
+longTitle = "AN ACT CREATING THE CLARK CHILDREN CENTER, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2019-09-23"
+status = "Pending with the Committee on HEALTH since 2019-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB04769.pdf"
+fileSize = 2740047
+author = "Romero, Michael L. Ph.D."
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2019-09-23"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-09-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 24178
+congress = 18
+bill_no = "HB04769"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-09-25"

@@ -1,0 +1,55 @@
+billNumber = "HB00405"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00405"
+lastScraped = "2025-09-22T00:25:54.668354"
+title = "HB00405"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE (25) BED EMERGENCY HOSPITAL AT BARANGAY TANDAAY IN THE MUNICIPALITY OF NABUA, PROVINCE OF CAMARINES SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-30"
+status = "Pending with the Committee on HEALTH since 1992-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119024
+congress = 9
+bill_no = "HB00405"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-05"

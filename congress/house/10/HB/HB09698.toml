@@ -1,0 +1,49 @@
+billNumber = "HB09698"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09698"
+lastScraped = "2025-09-22T00:20:59.228791"
+title = "HB09698"
+longTitle = "AN ACT CREATING THE GAWAD-SAKA INSURANCE FUND FOR BONAFIDE GAWAD-SAKA INDIVIDUAL AWARDEES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-07-29"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Geronimo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Geronimo"
+nameCode = "Geronimo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-08-05"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 116119
+congress = 10
+bill_no = "HB09698"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-08-05"

@@ -1,0 +1,42 @@
+billNumber = "HR00528"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00528"
+lastScraped = "2025-09-22T00:47:02.628926"
+title = "HR00528"
+longTitle = "RESOLUTION COMMENDING THE ARMED FORCES OF THE PHILIPPINES IN THE SUCCESSFUL CAPTURE OF MUTINY LEADER GREGORIO HONASAN AND PROMOTE THE RANKS OF SOLDIERS INVOLVED IN HONASAN'S CAPTURE"
+scope = "National"
+dateFiled = "1987-12-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-12-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170416
+congress = 8
+bill_no = "HR00528"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-12-14"

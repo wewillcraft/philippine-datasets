@@ -1,0 +1,60 @@
+billNumber = "HR01234"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01234"
+lastScraped = "2025-09-22T00:47:02.773713"
+title = "HR01234"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES, ON THE SUDDEN DEMISE OF HONORABLE TITO M.DUPAYA, JR., REPRESENTATIVE FROM THE THIRD DISTRICT OF CAGAYAN PROVINCE, REGION IIRESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES, ON THE SUDDEN DEMISE OF HONORABLE TITO M.DUPAYA, REPRESENTATIVE FROM THE THIRD DISTRICT OFCAGAYAN PROVINCE, REGION II"
+scope = "Local"
+dateFiled = "1989-04-06"
+status = "Adopted as Resolution No. HR00047 on 1989-04-10"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-04-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171105
+congress = 8
+bill_no = "HR01234"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-04-10"
+
+[secondReading]
+id = 21658
+congress = 8
+bill_no = "HR01234"
+adopted_resolution = "HR00047"
+remarks = "ADOPTED WITHOUT AMENDMENTS"
+date_calendared = "1989-04-10"
+date_approved = "1989-04-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1334
+congress = 8
+bill_no = "HR01234"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0

@@ -1,0 +1,44 @@
+billNumber = "PS00061"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00061"
+lastScraped = "2025-09-21T23:39:49.251794"
+title = "PS00061"
+longTitle = "TOTAL LIFTING OF TRAVEL TAX FOR DEPARTING FILIPINOS EXCEPT BUSINESS AND FIRST CLASS TICKET HOLDERS"
+dateFiled = "2025-08-26"
+status = "Pending with the Committee on TOURISM since 2025-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.B.)"
+date = "2025-08-26"
+sequence = 1
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2025-08-26"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 4896
+congress = 103
+bill_no = "PS00061"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-02"
+date_read = "2025-08-26"

@@ -1,0 +1,52 @@
+billNumber = "HR00277"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00277"
+lastScraped = "2025-09-22T00:01:47.388527"
+title = "HR00277"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEES ON BASIC EDUCATION AND CULTURE, AND HIGHER AND TECHNICAL EDUCATION TO LOOK INTO THE IMPLEMENTATION OF REPUBLIC ACT NO. 8047 AND OTHER RELATED LAWS ESPECIALLY ON THE PRODUCTION, PUBLICATION AND DISTRIBUTION OF BOOKS AND TEXTBOOKS WITH THE END IN VIEW OF ENACTING LEGISLATIVE MEASURES TO IMPROVE AND ENHANCE THE NATIONAL BOOK POLICY AND NATIONAL BOOK DEVELOPMENT PLAN OF THE COUNTRY"
+scope = "National"
+dateFiled = "2019-08-28"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00277.pdf"
+fileSize = 442403
+author = "Escudero, Evelina G."
+[[authorsDetail]]
+name = "Escudero, Evelina G."
+nameCode = "Escudero"
+date = "2019-08-28"
+sequence = 1
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2019-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[firstReading]
+id = 30605
+congress = 18
+bill_no = "HR00277"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-03"

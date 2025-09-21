@@ -1,0 +1,46 @@
+billNumber = "HB01195"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01195"
+lastScraped = "2025-09-21T23:39:48.533818"
+title = "HB01195"
+longTitle = "AN ACT PROVIDING FUNDS FOR COLLEGE EDUCATION IN EXCHANGE FOR MANDATORY MILITARY SERVICE UPON GRADUATION, ESTABLISHING THE MILITARY SERVICE SCHOLARSHIP PROGRAM, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-03"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01195.pdf"
+fileSize = 150806
+author = "POE, BRIAN"
+[[authorsDetail]]
+name = "POE, BRIAN"
+nameCode = "Poe"
+date = "2025-07-03"
+sequence = 1
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 1196
+congress = 103
+bill_no = "HB01195"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

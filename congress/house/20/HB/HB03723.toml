@@ -1,0 +1,46 @@
+billNumber = "HB03723"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03723"
+lastScraped = "2025-09-21T23:39:49.002674"
+title = "HB03723"
+longTitle = "AN ACT ESTABLISHING A TRIPARTITE COUNCIL TO ADDRESS UNEMPLOYMENT, UNDEREMPLOYMENT AND JOB-SKILLS MISMATCH, AND APPROPRIATING FUNDS THEREFOR \r\n"
+scope = "National"
+dateFiled = "2025-08-13"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2025-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB03723.pdf"
+fileSize = 303866
+author = "POE, BRIAN"
+[[authorsDetail]]
+name = "POE, BRIAN"
+nameCode = "Poe"
+date = "2025-08-13"
+sequence = 1
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2025-08-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 3724
+congress = 103
+bill_no = "HB03723"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-18"

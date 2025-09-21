@@ -1,0 +1,42 @@
+billNumber = "HB03328"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03328"
+lastScraped = "2025-09-22T00:46:57.148029"
+title = "HB03328"
+longTitle = "AN ACT PROVIDING INTEREST FOR TAX REFUNDS TO TAXPAYERS"
+scope = "National"
+dateFiled = "1987-11-03"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-11-10"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 138016
+congress = 8
+bill_no = "HB03328"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-11-10"

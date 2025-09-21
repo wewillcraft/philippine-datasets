@@ -1,0 +1,42 @@
+billNumber = "HJR0008"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HJR0008"
+lastScraped = "2025-09-22T00:47:02.521316"
+title = "HJR0008"
+longTitle = "JOIN RESOLUTION PROPOSING AN AMENDMENT TO SECTION 2, ARTICLE VI, OF THE CONSTITUTION, BY PROVIDING FOR THE ELECTION OF SENATORS BY REGIONS"
+scope = "National"
+dateFiled = "1989-08-14"
+status = "Pending with the Committee on CONSTITUTIONAL AMENDMENTS since 1989-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "507"
+dateRead = "1989-08-14"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 169901
+congress = 8
+bill_no = "HJR0008"
+referral = "507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+sub_name = ""
+date_read = "1989-08-14"

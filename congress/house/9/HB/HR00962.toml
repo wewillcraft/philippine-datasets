@@ -1,0 +1,42 @@
+billNumber = "HR00962"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00962"
+lastScraped = "2025-09-22T00:25:57.545705"
+title = "HR00962"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON WAYS AND MEANS TO LOOK INTO POSSIBLE MASSIVE TAX EVASION BY LARGE HOTELS AND RESTAURANTS IN CREDIT CARD TRANSACTIONS"
+scope = "National"
+dateFiled = "1994-02-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1994-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1994-03-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 134269
+congress = 9
+bill_no = "HR00962"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1994-03-03"

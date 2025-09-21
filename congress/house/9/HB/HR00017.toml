@@ -1,0 +1,57 @@
+billNumber = "HR00017"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00017"
+lastScraped = "2025-09-22T00:25:57.370210"
+title = "HR00017"
+longTitle = "RESOLUTION CREATING A HOUSE COMMISSION TO INVESTIGATE THE POWER CRISIS"
+scope = "National"
+dateFiled = "1992-07-24"
+status = "Pending with the Committee on ENERGY since 1992-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "LEVISTE, RENATO V.", "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LEVISTE, RENATO V."
+nameCode = "Leviste"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 133329
+congress = 9
+bill_no = "HR00017"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-07-30"

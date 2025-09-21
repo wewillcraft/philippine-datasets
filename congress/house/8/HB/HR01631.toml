@@ -1,0 +1,49 @@
+billNumber = "HR01631"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01631"
+lastScraped = "2025-09-22T00:47:02.859634"
+title = "HR01631"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SESSION TODAY, JANUARY THREE, NINETEEN HUNDRED AND NINETY, TO HAVE BEEN READ AND APPROVED"
+scope = "Local"
+dateFiled = "1990-01-03"
+status = "Adopted as Resolution No.  on 1990-01-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-01-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171476
+congress = 8
+bill_no = "HR01631"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-01-03"
+
+[secondReading]
+id = 21666
+congress = 8
+bill_no = "HR01631"
+date_approved = "1990-01-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

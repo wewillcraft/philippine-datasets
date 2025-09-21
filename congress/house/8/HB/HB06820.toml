@@ -1,0 +1,42 @@
+billNumber = "HB06820"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06820"
+lastScraped = "2025-09-22T00:46:57.812105"
+title = "HB06820"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF SEVENTY-FIVE THOUSAND PESOS (P75,000.00) FOR THE ESTABLISHMENT OF A DAY CARE CENTER IN THE MUNICIPALITY OF IBA, PROVINCE OF ZAMBALES"
+scope = "Local"
+dateFiled = "1988-03-21"
+status = "Pending with the Committee on SOCIAL SERVICES since 1988-03-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1988-03-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 141501
+congress = 8
+bill_no = "HB06820"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1988-03-23"

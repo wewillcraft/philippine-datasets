@@ -1,0 +1,41 @@
+billNumber = "HB01419"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01419"
+lastScraped = "2025-09-22T00:23:15.756885"
+title = "HB01419"
+longTitle = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 16029(RE: ILLEGAL GA MBLING PENALTIES/FINES )"
+scope = "National"
+dateFiled = "1998-07-28"
+status = "Pending with the Committee on JUSTICE since 1998-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-08-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 92860
+congress = 11
+bill_no = "HB01419"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1998-08-03"

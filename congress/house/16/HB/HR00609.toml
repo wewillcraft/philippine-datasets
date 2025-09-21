@@ -1,0 +1,47 @@
+billNumber = "HR00609"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00609"
+lastScraped = "2025-09-21T23:56:22.910353"
+title = "HR00609"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE OPERATIONS AND PRACTICES OF THE ENERGY REGULATORY COMMISSION (ERC), PARTICULARLY ITS RATE BASING MECHANISM"
+scope = "National"
+dateFiled = "2013-12-11"
+status = "Pending with the Committee on ENERGY since 2014-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00609.pdf"
+fileSize = 151868
+author = "Dela Cruz, Jonathan A."
+[[authorsDetail]]
+name = "Dela Cruz, Jonathan A."
+nameCode = "Dela Cruz"
+date = "2013-12-11"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2013-12-16"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 53008
+congress = 16
+bill_no = "HR00609"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-01-22"
+date_read = "2013-12-16"

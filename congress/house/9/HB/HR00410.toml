@@ -1,0 +1,49 @@
+billNumber = "HR00410"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00410"
+lastScraped = "2025-09-22T00:25:57.440819"
+title = "HR00410"
+longTitle = "RESOLUTION DIRECTING THE PROPER HOUSE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, REGARDING THE PROJECTED SALE OF PETRON TO FOREIGNERS BY THE GOVERNMENT"
+scope = "Local"
+dateFiled = "1992-12-17"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1993-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1993-01-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 133722
+congress = 9
+bill_no = "HR00410"
+report = "00799"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = "ENERGY"
+date_read = "1993-01-18"
+date_report = "1994-06-22"

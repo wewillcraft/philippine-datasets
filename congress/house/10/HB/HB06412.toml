@@ -1,0 +1,46 @@
+billNumber = "HB06412"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06412"
+lastScraped = "2025-09-22T00:20:58.553301"
+title = "HB06412"
+longTitle = "AN ACT CONVERTING THE EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE (LTO) IN THE MUNICIPALITY OF TUBOD, LANAO DEL NORTE, INTO A REGULAR DISTRICT OFFICE, TO BE KNOWN AS THE LTO DISTRICT OFFICE OF TUBOD, LANAO DEL NORTE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-02-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-02-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112833
+congress = 10
+bill_no = "HB06412"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-02-29"

@@ -1,0 +1,62 @@
+billNumber = "HR01028"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01028"
+lastScraped = "2025-09-22T00:13:01.375856"
+title = "HR01028"
+longTitle = "RESOLUTION CALLING ON THE GOVERNMENT OF THE PHILIPPINES TO UNDERTAKE CERTAIN NATIONAL AUSERITY MEASURES"
+scope = "National"
+dateFiled = "2003-03-03"
+status = "Pending with the Committee on APPROPRIATIONS since 2003-03-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marcos, Imee R."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L", "TULAGAN, GENEROSO DC.",]
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = "Marcos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J059"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2003-03-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 90964
+congress = 12
+bill_no = "HR01028"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2003-03-05"

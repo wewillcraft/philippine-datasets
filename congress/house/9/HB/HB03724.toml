@@ -1,0 +1,47 @@
+billNumber = "HB03724"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03724"
+lastScraped = "2025-09-22T00:25:55.254240"
+title = "HB03724"
+longTitle = "AN ACT APPROPRIATING THE SUM OF TWO MILLION FIVE HUNDRED THOUSAND PESOS (P2,500,000.00) FOR THE CONSTRUCTION OF A SEA WALL IN THE MUNICIPALITY OF BALANGIGA, PROVINCE OF EASTERN SAMAR"
+scope = "Local"
+dateFiled = "1992-10-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122343
+congress = 9
+bill_no = "HB03724"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-20"

@@ -1,0 +1,66 @@
+billNumber = "HB04279"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04279"
+lastScraped = "2025-09-22T00:20:58.175423"
+title = "HB04279"
+longTitle = "AN ACT RENAMING THE MUNICIPALITY OF ENRIQUE VILLANUEVA IN THE PROVINCE OF SIQUIJOR INTO THE MUNICIPALITY OF TALINGTING"
+scope = "Local"
+dateFiled = "1995-10-06"
+status = "Approved by the House on 1997-05-29, transmitted to on 1997-05-29 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua, Orlando  B."
+[[authorsDetail]]
+name = "Fua, Orlando  B."
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 110700
+congress = 10
+bill_no = "HB04279"
+report = "00913"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+recomm = "approval without amendments"
+date_read = "1995-10-23"
+date_ob = "1997-05-14"
+date_report = "1997-05-08"
+
+[secondReading]
+id = 18103
+congress = 10
+bill_no = "HB04279"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-05-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2713
+congress = 10
+bill_no = "HB04279"
+date_dist = "1997-05-20"
+date_adopt = "1997-05-29"
+no_yeas = 141
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-05-29"
+date_rec = "1997-06-02"

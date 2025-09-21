@@ -1,0 +1,62 @@
+billNumber = "HB06497"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06497"
+lastScraped = "2025-09-21T23:56:22.780629"
+title = "Creating A New District Engineering Office In The Third Legislative District Of The Province Of Zamboanga Del Norte"
+longTitle = "AN ACT CREATING A NEW DISTRICT ENGINEERING OFFICE IN THE THIRD LEGISLATIVE DISTRICT OF THE PROVINCE OF ZAMBOANGA DEL NORTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2016-04-13"
+status = "Pending With Rules (Included in OB on 2016-05-23)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Amatong, Isagani S."
+[[authorsDetail]]
+name = "Amatong, Isagani S."
+nameCode = "Amatong (I.)"
+date = "2016-04-13"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-05-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HB05812"
+sequence = 1
+date = "2016-04-13"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05812"
+sequence = 1
+date = "2016-04-13"
+flag = "S"
+
+[firstReading]
+id = 52311
+congress = 16
+bill_no = "HB06497"
+report = "01045"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "PUBLIC WORKS AND HIGHWAYS, APPROPRIATIONS"
+recomm = "approval"
+remarks = ""
+file = "CR01045.pdf"
+date_read = "2016-05-23"
+date_ob = "2016-05-23"
+date_report = "2016-04-13"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR01045.pdf"

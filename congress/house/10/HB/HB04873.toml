@@ -1,0 +1,58 @@
+billNumber = "HB04873"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04873"
+lastScraped = "2025-09-22T00:20:58.275480"
+title = "HB04873"
+longTitle = "AN ACT PROVIDING FOR THE DEVELOPMENT AND CONSERVATION OF SEAWEED RESOURCES, GRANTING INCENTIVES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-11-07"
+status = "Bill reported out 1998-02-05 (#01477)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1995-11-13"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111294
+congress = 10
+bill_no = "HB04873"
+report = "01477"
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+recomm = "approval with amendments"
+date_read = "1995-11-13"
+date_ob = "1998-02-06"
+date_report = "1998-02-05"

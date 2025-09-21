@@ -1,0 +1,47 @@
+billNumber = "HB02400"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02400"
+lastScraped = "2025-09-22T00:25:55.017994"
+title = "HB02400"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETING OF THE DUNGAO-MAGUILLI NG ROAD FROM BARANGAY DUNGAO, MUNICIPALITY OF STO. NINO TO THE NATIONAL HIGHWAY IN BARANGAY MAGUILLING, MUNICIPALITY OF PIAT, ALL IN THE PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-07"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121019
+congress = 9
+bill_no = "HB02400"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-18"

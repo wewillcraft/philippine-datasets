@@ -1,0 +1,79 @@
+billNumber = "HB05111"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05111"
+lastScraped = "2025-09-22T00:20:58.314911"
+title = "HB05111"
+longTitle = "AN ACT ESTABLISHING THE BUGKALOT CENTER FOR THE PROVINCES OF NUEVA VIZCAYA, QUIRINO, AURORA AND THE SECOND DISTRICT OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-15"
+status = "Approved by the House on 1996-07-24, transmitted to on 1996-07-25 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+coAuthors = [ "ANGARA-CASTILLO, BELLAFLOR J.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR J."
+nameCode = "Angara-castillo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL CULTURAL COMMUNITIES"
+type = "primary"
+referralCode = "0524"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111532
+congress = 10
+bill_no = "HB05111"
+report = "00468"
+referral = "0524"
+ref_name = "NATIONAL CULTURAL COMMUNITIES"
+recomm = "approval with amendments"
+date_read = "1995-11-20"
+date_ob = "1996-06-05"
+date_report = "1996-06-04"
+
+[secondReading]
+id = 18162
+congress = 10
+bill_no = "HB05111"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-06-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2769
+congress = 10
+bill_no = "HB05111"
+date_dist = "1996-06-08"
+date_adopt = "1996-07-24"
+no_yeas = 174
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-07-25"
+date_rec = "1996-07-30"

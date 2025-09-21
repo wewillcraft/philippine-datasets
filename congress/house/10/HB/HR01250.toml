@@ -1,0 +1,61 @@
+billNumber = "HR01250"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01250"
+lastScraped = "2025-09-22T00:20:59.665458"
+title = "HR01250"
+longTitle = "RESOLUTION AUTHORIZING ALL COMMITTEES AND SUB-COMMITTEES TO FUNCTION DURING THE RECESS OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1997-06-04"
+status = "Adopted as Resolution No. HR00110 on 1997-06-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-06-05"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118304
+congress = 10
+bill_no = "HR01250"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-06-05"
+
+[secondReading]
+id = 19029
+congress = 10
+bill_no = "HR01250"
+adopted_resolution = "HR00110"
+date_calendared = "1997-06-05"
+date_approved = "1997-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00110.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00110.pdf"

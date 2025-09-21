@@ -1,0 +1,42 @@
+billNumber = "HR00339"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00339"
+lastScraped = "2025-09-22T00:25:57.427765"
+title = "HR00339"
+longTitle = "RESOLUTION REQUESTING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS TO DECLARE A CESSATION OF HOSTILITIES BETWEEN THE ARMED FORCES OF THE PHILIPPINES AND VARIOUS REBEL GROUPS FROM DECEMBER 24, 1992 TO JANUARY 6, 1993"
+scope = "National"
+dateFiled = "1992-11-12"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-11-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133651
+congress = 9
+bill_no = "HR00339"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-11-17"

@@ -1,0 +1,47 @@
+billNumber = "HR00642"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00642"
+lastScraped = "2025-09-21T23:56:22.916222"
+title = "HR00642"
+longTitle = "A RESOLUTION CALLING FOR AN INQUIRY, IN AID OF LEGISLATION, BY THE APPROPRIATE COMMITTEE, ON THE RECENT ACCIDENT INVOLVING A PUBLIC UTILITY BUS OPERATED BY DON MARIANO TRANSIT, CORP. THAT FELL OFF THE SKYWAY IN BARANGAY MARCELO GREEN, PARAÑAQUE CITY LAST DECEMBER 16, 2013 KILLING ABOUT 18 PEOPLE"
+scope = "National"
+dateFiled = "2013-12-18"
+status = "Pending with the Committee on TRANSPORTATION since 2014-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00642.pdf"
+fileSize = 206982
+author = "Tambunting, Gus S."
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2013-12-18"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-01-20"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 53041
+congress = 16
+bill_no = "HR00642"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-01-28"
+date_read = "2014-01-20"

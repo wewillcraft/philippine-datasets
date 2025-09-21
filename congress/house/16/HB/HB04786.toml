@@ -1,0 +1,75 @@
+billNumber = "HB04786"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04786"
+lastScraped = "2025-09-21T23:56:22.384707"
+title = "HB04786"
+longTitle = "AN ACT DECLARING THE PHILIPPINE ARENA IN CIUDAD DE VICTORIA, BOCAUE AND SANTA MARIA, BULACAN AS A TOURISM ENTERPRISE, GRANTING INCENTIVES AND BENEFITS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2014-08-04"
+status = "Pending with the Committee on TOURISM since 2014-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04786.pdf"
+fileSize = 321075
+author = "Evardone, Ben P."
+coAuthors = [ "MENDOZA, JOSELITO ANDREW ROXAS", "PRIMICIAS-AGABAS, MARLYN L.", "ECHIVERRI, ENRICO \"RECOM\"", "PANCHO, GAVINI \"APOL\" C.",]
+[[authorsDetail]]
+name = "Evardone, Ben P."
+nameCode = "Evardone"
+date = "2014-08-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MENDOZA, JOSELITO ANDREW ROXAS"
+nameCode = "Mendoza (J.)"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO \"RECOM\""
+nameCode = "Echiverri"
+date = "2015-01-20"
+journalNo = "J038"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "PANCHO, GAVINI \"APOL\" C."
+nameCode = "Pancho"
+date = "2015-02-24"
+journalNo = "J053"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2014-08-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 50600
+congress = 16
+bill_no = "HB04786"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-08-11"

@@ -1,0 +1,50 @@
+billNumber = "HR01986"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01986"
+lastScraped = "2025-09-22T00:47:02.921035"
+title = "HR01986"
+longTitle = "RESOLUTION REQUESTING THE PRESIDENT OF THE PHILIPPINES TO APPOINT TO THE POSITION OF SECRETARY OF NATIONAL DEFENSE ONLY PERSONS WITH BASICALLY CIVILIAN BACKGROUND AS A MATTER OF ADMINISTRATION POLICY"
+scope = "National"
+dateFiled = "1990-10-22"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1990-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1990-10-25"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 171822
+congress = 8
+bill_no = "HR01986"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1990-10-25"

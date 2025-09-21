@@ -1,0 +1,42 @@
+billNumber = "HR01214"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01214"
+lastScraped = "2025-09-22T00:25:57.592052"
+title = "HR01214"
+longTitle = "RESOLUTION URGING THE SECRETARY OF HEALTH TO STRICTLY ENFORCE BATAS PAMBANSA BILANG PITONG DAAN AT DALAWA ENTITLED, \"AN ACT PROHIBITING THE DEMAND OF DEPOSITS OR ADVANCE PAYMENTS FOR THE CONFINEMENT OR TREATMENT OF PATIENTS IN HOSPITALS AND MEDICALCLINICS IN CERTAIN CASES"
+scope = "National"
+dateFiled = "1994-09-08"
+status = "Pending with the Committee on HEALTH since 1994-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-09-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134520
+congress = 9
+bill_no = "HR01214"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-09-20"

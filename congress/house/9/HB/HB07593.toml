@@ -1,0 +1,42 @@
+billNumber = "HB07593"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07593"
+lastScraped = "2025-09-22T00:25:55.978744"
+title = "HB07593"
+longTitle = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NO. 760, AS AMENDED, BY EXTENDING THE EXISTING BAREBOAT CHARTERING PROGRAM"
+scope = "National"
+dateFiled = "1993-02-17"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-02-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 126212
+congress = 9
+bill_no = "HB07593"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-02-22"

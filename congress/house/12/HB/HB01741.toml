@@ -1,0 +1,74 @@
+billNumber = "HB01741"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01741"
+lastScraped = "2025-09-22T00:13:00.116837"
+title = "Establishing an Additional Branch of the Regional Trial Court in the Eleventh Judicial Region"
+longTitle = "AN ACT ESTABLISHING AN ADDITIONAL BRANCH OF THE REGIONAL TRIAL COURT IN THE ELEVENTH JUDICIAL REGION, AMENDING FOR THE PURPOSE THE JUDICIARY ACT OF 1980, AS AMENDED AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-31"
+status = "Approved by the House on 2003-03-11, transmitted to on 2003-03-12 and received by the Senate on 2003-03-17"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Floirendo, Antonio Jr. R."
+[[authorsDetail]]
+name = "Floirendo, Antonio Jr. R."
+nameCode = "Floirendo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84901
+congress = 12
+bill_no = "HB01741"
+report = "01103"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "APPROPRIATIONS, JUSTICE"
+recomm = "approval"
+date_read = "2001-08-06"
+date_ob = "2002-12-18"
+date_report = "2002-12-17"
+
+[secondReading]
+id = 14224
+congress = 12
+bill_no = "HB01741"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks."
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "2003-02-10"
+date_approved = "2003-01-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4780
+congress = 12
+bill_no = "HB01741"
+date_dist = "2003-02-11"
+date_adopt = "2003-03-11"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-03-12"
+date_rec = "2003-03-17"

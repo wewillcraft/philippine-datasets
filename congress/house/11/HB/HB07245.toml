@@ -1,0 +1,89 @@
+billNumber = "HB07245"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB07245"
+lastScraped = "2025-09-22T00:23:16.925553"
+title = "HB07245"
+longTitle = "AN ACT TO AMEND REPUBLIC ACT NO. 8239, OTHERWISE KNOWN AS THE PHILIPPINE PASSPORT ACT OF 1996"
+scope = "National"
+dateFiled = "1999-04-19"
+status = "Approved by the House on 1999-05-31, transmitted to on 1999-06-01 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "ANTONINO, LUWALHATI R.", "BADELLES, ALIPIO CIRILO V.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANTONINO, LUWALHATI R."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-04-20"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HB04762"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04762"
+flag = "S"
+
+[firstReading]
+id = 98680
+congress = 11
+bill_no = "HB07245"
+report = "00258"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "approval in substituti on of HB04762"
+date_read = "1999-04-20"
+date_ob = "1999-04-20"
+date_report = "1999-04-19"
+
+[secondReading]
+id = 16810
+congress = 11
+bill_no = "HB07245"
+date_calendared = "1999-04-27"
+date_approved = "1999-05-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4068
+congress = 11
+bill_no = "HB07245"
+date_dist = "1999-05-27"
+date_adopt = "1999-05-31"
+no_yeas = 182
+no_nays = 2
+no_abstent = 0
+date_trans = "1999-06-01"
+date_rec = "1999-06-02"

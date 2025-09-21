@@ -1,0 +1,68 @@
+billNumber = "HR00292"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00292"
+lastScraped = "2025-09-22T00:23:18.002387"
+title = "HR00292"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED SYNDICATE IN THE DEPARTMENT OF HEALTH WHICH IS INVOLVED IN ANOMALOUS PROCUREMENT OF MEDICINES FOR THE DEPARTMENT"
+scope = "National"
+dateFiled = "1998-09-08"
+status = "Consigned to the Archives on 2000-11-22"
+statusOrder = 2.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "UNDE, GORGONIO P.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "UNDE, GORGONIO P."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-09-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[motherBills]]
+bill_no = "HR00079"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00079"
+flag = "S"
+
+[firstReading]
+id = 104750
+congress = 11
+bill_no = "HR00292"
+report = "01262"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "See page 9 of Ctte. Rpt. No. 1262"
+date_read = "1998-09-29"
+date_ob = "2000-10-16"
+date_report = "2000-10-13"

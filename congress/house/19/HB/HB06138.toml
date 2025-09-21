@@ -1,0 +1,61 @@
+billNumber = "HB06138"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06138"
+lastScraped = "2025-09-21T23:55:21.214466"
+title = "HB06138"
+longTitle = "AN ACT MANDATING THE INCLUSION OF THE BLOOD TYPE OF INDIVIDUALS IN THEIR BIRTH CERTIFICATES"
+scope = "National"
+dateFiled = "2022-11-15"
+status = "Pending with the Committee on HEALTH since 2022-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06138.pdf"
+fileSize = 323266
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "SUAN, LORDAN", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2022-11-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUAN, LORDAN"
+nameCode = "Suan"
+date = "2023-09-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-03-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 11057
+congress = 19
+bill_no = "HB06138"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-21"

@@ -1,0 +1,46 @@
+billNumber = "HB07340"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07340"
+lastScraped = "2025-09-22T00:20:58.722135"
+title = "HB07340"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF BARANGAY MAKABAKLAY, MUNICIPALITY OF GAPAN, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Pending with the Committee on ENERGY since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113761
+congress = 10
+bill_no = "HB07340"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-06-08"

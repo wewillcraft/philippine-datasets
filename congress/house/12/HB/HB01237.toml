@@ -1,0 +1,61 @@
+billNumber = "HB01237"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01237"
+lastScraped = "2025-09-22T00:13:00.027614"
+title = "HB01237"
+longTitle = "AN ACT AUTHORIZING THE TRANSFER OF OFFENDERS TO OR FROM FOREIGN COUNTRIES"
+scope = "National"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on JUSTICE since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 84397
+congress = 12
+bill_no = "HB01237"
+comm_act = "jt. ref'ls as per J.17; p.15(Aug. 28,2001)"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-30"

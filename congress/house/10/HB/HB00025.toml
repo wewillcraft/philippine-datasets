@@ -1,0 +1,63 @@
+billNumber = "HB00025"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00025"
+lastScraped = "2025-09-22T00:20:57.359748"
+title = "HB00025"
+longTitle = "AN ACT PROVIDING FOR THE INTEGRATION OF NATIONAL POLICIES IN DEALING WITH EMERGENCIES, GRAVE CIVIL DISORDERS OR WAR SITUATIONS THRU COORDINATION OF NATIONAL SECURITY OPERATIONS, ORGANIZATION AND CONTROL OF INTELLIGENCE ACTIVITIES"
+scope = "National"
+dateFiled = "1995-06-30"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "FIGUEROA, CATALINO V.", "CRUZ-DUCUT, ZENAIDA", "SILVERIO, RICARDO C.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SILVERIO, RICARDO C."
+nameCode = "Silverio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 106446
+congress = 10
+bill_no = "HB00025"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1995-07-25"

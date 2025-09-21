@@ -1,0 +1,68 @@
+billNumber = "HB07623"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07623"
+lastScraped = "2025-09-22T00:20:58.771846"
+title = "HB07623"
+longTitle = "AN ACT PROVIDING FREE HOSPITALIZATION TO GOVERNMENT TRAFFIC ENFORCERS INJURED WHILE IN THE PERFORMANCE OF DUTY AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-07-30"
+status = "Pending with the Committee on HEALTH since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "RAMIREZ, JOSE T.", "RUIZ, NERISSA CORAZON S.", "PALMA GIL, MA. ELENA T.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114044
+congress = 10
+bill_no = "HB07623"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-08-05"

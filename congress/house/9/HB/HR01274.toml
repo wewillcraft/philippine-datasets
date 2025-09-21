@@ -1,0 +1,42 @@
+billNumber = "HR01274"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01274"
+lastScraped = "2025-09-22T00:25:57.603671"
+title = "HR01274"
+longTitle = "RESOLUTION CREATING THE COMMITTEE ON COOPERATIVES IN THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1994-10-25"
+status = "Pending with the Committee on RULES since 1994-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-11-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134580
+congress = 9
+bill_no = "HR01274"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-11-07"

@@ -1,0 +1,41 @@
+billNumber = "HB01031"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01031"
+lastScraped = "2025-09-22T00:20:57.550572"
+title = "HB01031"
+longTitle = "AN ACT REQUIRING CERTAIN EMPLOYERS TO PROVIDE COMMUTERS TRANSPORTATION SERVICES FOR THEIR EMPLOYEES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107452
+congress = 10
+bill_no = "HB01031"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-07-27"

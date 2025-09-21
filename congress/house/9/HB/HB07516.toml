@@ -1,0 +1,52 @@
+billNumber = "HB07516"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07516"
+lastScraped = "2025-09-22T00:25:55.967438"
+title = "HB07516"
+longTitle = "AN ACT CREATING THE PHILIPPINE DEVELOPMENT CORPORATION"
+scope = "National"
+dateFiled = "1993-02-16"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1993-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1993-02-22"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 126135
+congress = 9
+bill_no = "HB07516"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "1993-02-22"

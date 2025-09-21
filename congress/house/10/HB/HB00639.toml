@@ -1,0 +1,49 @@
+billNumber = "HB00639"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00639"
+lastScraped = "2025-09-22T00:20:57.485286"
+title = "HB00639"
+longTitle = "AN ACT PROVIDING FOR PREFERENTIAL POWER RATES TO BUSINESS ENTERPRISES IN INDUSTRIAL ZONES OF DEPRESSED REGIONS WITH ABUNDANT INDIGENOUS POWER SUPPLY"
+scope = "National"
+dateFiled = "1995-07-11"
+status = "Pending with the Committee on ENERGY since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "NOGRALES, PROSPERO JR. C.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO JR. C."
+nameCode = "Nograles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 107060
+congress = 10
+bill_no = "HB00639"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-07-27"

@@ -1,0 +1,85 @@
+billNumber = "HB00100"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00100"
+lastScraped = "2025-09-22T00:46:56.565861"
+title = "HB00100"
+longTitle = "AN ACT ESTABLISHING A TEN-BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF KIBAWE, PROVINCE OF BUKIDNON TO BE KNOWN AS KIBAWE EMERGENCY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-04"
+status = "REPUBLIC ACT (RA06863) enacted on 1990-03-08"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Jose Maria Jr. R."
+coAuthors = [ "ACOSTA, SOCORRO O.", "LABARIA, VIOLETA T.",]
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ACOSTA, SOCORRO O."
+nameCode = "Acosta"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LABARIA, VIOLETA T."
+nameCode = "Labaria"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 134798
+congress = 8
+bill_no = "HB00100"
+report = "00636"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-05"
+date_ob = "1989-05-24"
+date_cal = "1989-05-24"
+date_unass = "1989-05-24"
+date_report = "1989-05-23"
+
+[secondReading]
+id = 20230
+congress = 8
+bill_no = "HB00100"
+date_approved = "1989-06-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 14
+congress = 8
+bill_no = "HB00100"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 142
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "A"
+dte_transp = "1990-01-09"
+dte_actedp = "1990-03-08"

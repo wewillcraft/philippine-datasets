@@ -1,0 +1,73 @@
+billNumber = "HB07789"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07789"
+lastScraped = "2025-09-22T00:20:58.842690"
+title = "HB07789"
+longTitle = "THE SOLAR CONVERSION POWER SYSTEMS ACT OF 1996"
+scope = "National"
+dateFiled = "1996-08-20"
+status = "Pending with the Committee on ENERGY since 1996-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEL MAR, RAUL V.", "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-08-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 114210
+congress = 10
+bill_no = "HB07789"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-08-26"

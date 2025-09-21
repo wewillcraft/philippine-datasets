@@ -1,0 +1,58 @@
+billNumber = "HR00009"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00009"
+lastScraped = "2025-09-22T00:13:01.143335"
+title = "HR00009"
+longTitle = "RESOLUTION URGING IMMEDIATE ADOPTION OF AN APPROPRIATE ANTI-MONEY LAUNDERING BILL"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nantes, Rafael P."
+[[authorsDetail]]
+name = "Nantes, Rafael P."
+nameCode = "Nantes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 89948
+congress = 12
+bill_no = "HR00009"
+comm_act = "jt. ref'ls as per J.17; p.15 (Aug. 28,2001);a s per J.18;p.19( Aug.29,200 1)"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "2001-07-24"

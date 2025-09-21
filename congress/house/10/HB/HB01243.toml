@@ -1,0 +1,63 @@
+billNumber = "HB01243"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01243"
+lastScraped = "2025-09-22T00:20:57.588025"
+title = "HB01243"
+longTitle = "AN ACT DISSOLVING ALL PARAMILITARY UNITS, INCLUDING THE CITIZENS ARMED FORCES GEOGRAPHICAL UNITS (CAFGUs), REPEALING FOR THE PURPOSE EXECUTIVE ORDER NUMBERED TWO HUNDRED AND SIXTY-FOUR"
+scope = "National"
+dateFiled = "1995-07-25"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "PEREZ, HERNANDO B.", "ABAD, FLORENCIO B.", "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAD, FLORENCIO B."
+nameCode = "Abad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 107664
+congress = 10
+bill_no = "HB01243"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1995-07-31"

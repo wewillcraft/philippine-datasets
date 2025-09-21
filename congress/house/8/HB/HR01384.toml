@@ -1,0 +1,42 @@
+billNumber = "HR01384"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01384"
+lastScraped = "2025-09-22T00:47:02.801239"
+title = "HR01384"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND CURRENCY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED DUBIOUS OPERATIONS OF THE 'PALUWAGAN' SYSTEM IN THE PROVINCE OF ISABELA"
+scope = "Local"
+dateFiled = "1989-08-02"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1989-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Respicio"
+[[authorsDetail]]
+name = "Respicio"
+nameCode = "Respicio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1989-08-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171250
+congress = 8
+bill_no = "HR01384"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1989-08-02"

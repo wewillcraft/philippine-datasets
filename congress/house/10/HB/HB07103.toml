@@ -1,0 +1,46 @@
+billNumber = "HB07103"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07103"
+lastScraped = "2025-09-22T00:20:58.675382"
+title = "HB07103"
+longTitle = "AN ACT ESTABLISHING A BAMBOO NURSERY IN THE MUNICIPALITY OF PAKIL, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-23"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-05-28"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113524
+congress = 10
+bill_no = "HB07103"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-05-28"

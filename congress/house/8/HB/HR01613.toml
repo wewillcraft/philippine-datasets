@@ -1,0 +1,42 @@
+billNumber = "HR01613"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01613"
+lastScraped = "2025-09-22T00:47:02.857084"
+title = "HR01613"
+longTitle = "RESOLUTION URGING THE PRESIDENT FOR THE IMMEDIATE OUSTER OF SECRETARY CARLOS G. DOMINGUEZ OF THE DEPARTMENT OF AGRICULTURE FOR GROSS INCOMPETENCE, ARROGANCE AND FAILURE TO SOLVE THE CRITICAL PROBLEMS ON AGRICULTURE"
+scope = "Local"
+dateFiled = "1989-12-19"
+status = "Pending with the Committee on RULES since 1989-12-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guerrero"
+[[authorsDetail]]
+name = "Guerrero"
+nameCode = "Guerrero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-12-19"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 171459
+congress = 8
+bill_no = "HR01613"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-12-19"

@@ -1,0 +1,56 @@
+billNumber = "HR01399"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01399"
+lastScraped = "2025-09-22T00:20:59.693104"
+title = "HR01399"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION ON THE ERRONEOUS IMPOSITIONS OF CUSTOMS DUTIES AND OTHER TAXES IN THE IMPORTATIONS OF CRUDE OIL OF THE COUNTRY'S THREE LEADING OIL COMPANIES, NAMELY: SHELL PHILIPPINES,INC., CALTEX PHILIPPINES, INC., AND PETRON DURING THE PERIOD 1996 UP TO THE PRESENT, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-10-14"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "CERILLES, ANTONIO H.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CERILLES, ANTONIO H."
+nameCode = "Cerilles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 118453
+congress = 10
+bill_no = "HR01399"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-10-20"

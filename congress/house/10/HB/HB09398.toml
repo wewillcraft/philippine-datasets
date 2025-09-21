@@ -1,0 +1,68 @@
+billNumber = "HB09398"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09398"
+lastScraped = "2025-09-22T00:20:59.159971"
+title = "HB09398"
+longTitle = "AN ACT CREATING THE OFFICE OF THE OMBUDSPERSON FOR CHILDREN, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-05-13"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1997-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Periquet"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Periquet"
+nameCode = "Periquet"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1997-05-15"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115819
+congress = 10
+bill_no = "HB09398"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1997-05-15"

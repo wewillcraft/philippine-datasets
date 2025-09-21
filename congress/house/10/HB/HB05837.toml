@@ -1,0 +1,54 @@
+billNumber = "HB05837"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05837"
+lastScraped = "2025-09-22T00:20:58.448358"
+title = "HB05837"
+longTitle = "AN ACT TO DEVELOP THE CAPAS NATIONAL SHRINE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on VETERANS AFFAIRS since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "BADELLES, MARIANO SR. LL.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BADELLES, MARIANO SR. LL."
+nameCode = "Badelles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112258
+congress = 10
+bill_no = "HB05837"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1996-01-29"

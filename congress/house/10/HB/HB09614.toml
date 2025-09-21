@@ -1,0 +1,51 @@
+billNumber = "HB09614"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09614"
+lastScraped = "2025-09-22T00:20:59.196718"
+title = "HB09614"
+longTitle = "AN ACT ESTABLISHING AN 'ADOPT-OUT-OF SCHOOL YOUTH PROGRAM' IN BARANGAY ALEGRIA, MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-07-15"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116035
+congress = 10
+bill_no = "HB09614"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-07-30"

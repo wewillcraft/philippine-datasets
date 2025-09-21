@@ -1,0 +1,42 @@
+billNumber = "HB03645"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03645"
+lastScraped = "2025-09-22T00:46:57.203909"
+title = "HB03645"
+longTitle = "AN ACT EXCEMPTING THE PERSONNEL OF THE CONGRESS OF THE PHILIPPINES FROM THE COVERAGE OF THE COMPENSATION AND POSITION CLASSIFICATION SYSTEM AMENDING FOR THE PURPOSE P.D. 985"
+scope = "National"
+dateFiled = "1987-11-16"
+status = "Pending with the Committee on APPROPRIATIONS since 1987-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco"
+[[authorsDetail]]
+name = "Cuenco"
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1987-12-16"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 138331
+congress = 8
+bill_no = "HB03645"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1987-12-16"

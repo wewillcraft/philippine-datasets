@@ -1,0 +1,42 @@
+billNumber = "HB01234"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01234"
+lastScraped = "2025-09-22T00:46:56.780273"
+title = "HB01234"
+longTitle = "AN ACT CONVERTING THE NATIONAL MANPOWER AND YOUTHCOUNCIL TRAINING CENTER IN THE MUNICIPALITY OF TAGOLOAN, PROVINCE OF MISAMIS ORIENTAL, INTO A MANPOWER AND LIVELIHOOD TRAINING AND ASSISTANCE CENTER,UNDER THE SUPERVISION AND CONTROL OF THE NATIONALMANPOWE R AND YOUTH COUNCIL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-08"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 135930
+congress = 8
+bill_no = "HB01234"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-09-10"

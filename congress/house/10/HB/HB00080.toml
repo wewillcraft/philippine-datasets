@@ -1,0 +1,61 @@
+billNumber = "HB00080"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00080"
+lastScraped = "2025-09-22T00:20:57.390145"
+title = "HB00080"
+longTitle = "AN ACT REQUIRING THE USE OF RECYCLABLE MATERIALS FOR THE PACKAGING OF CONSUMER PRODUCTS TO BE SOLD COMMERCIALLY, PROVIDING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-06-30"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "PEREZ, HERNANDO B.", "CRUZ-DUCUT, ZENAIDA",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 106501
+congress = 10
+bill_no = "HB00080"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-07-25"

@@ -1,0 +1,47 @@
+billNumber = "HB04554"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04554"
+lastScraped = "2025-09-22T00:25:55.451590"
+title = "HB04554"
+longTitle = "AN ACT ESTABLISHING THE TROPICAL CROPS RESEARCH AND MARKETING CENTER, AUTHORIZING AN APPROPRIATION IN THE AMOUNT OF P20 MILLION PER YEAR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-11-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-11"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123173
+congress = 9
+bill_no = "HB04554"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-11"

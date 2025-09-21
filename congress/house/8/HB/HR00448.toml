@@ -1,0 +1,42 @@
+billNumber = "HR00448"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00448"
+lastScraped = "2025-09-22T00:47:02.612418"
+title = "HR00448"
+longTitle = "RESOLUTION FOR AN INQUIRY IN AID OF LEGISLATION, INTO THE REPORTED THEFT OF THE ARMORED CAR BY REBEL SOLDIER ABRAHHAM SIASON AT FORT BONIFACIO LAST OCTOBER 18, 1987"
+scope = "Local"
+dateFiled = "1987-10-19"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-10-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 170339
+congress = 8
+bill_no = "HR00448"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-10-20"

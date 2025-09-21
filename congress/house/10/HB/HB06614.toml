@@ -1,0 +1,49 @@
+billNumber = "HB06614"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06614"
+lastScraped = "2025-09-22T00:20:58.589412"
+title = "HB06614"
+longTitle = "AN ACT UPGRADING THE MINIMUM SALARY GRADE OF PUBLIC ELEMENTARY SCHOOL PRINCIPALS, AMENDING FOR THE PURPOSE THE 'COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989'"
+scope = "National"
+dateFiled = "1996-03-19"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 113035
+congress = 10
+bill_no = "HB06614"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-03-21"

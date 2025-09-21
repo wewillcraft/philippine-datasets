@@ -1,0 +1,46 @@
+billNumber = "HR01146"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01146"
+lastScraped = "2025-09-22T00:01:47.549845"
+title = "HR01146"
+longTitle = "A RESOLUTION URGING THE DEPARTMENT OF HEALTH TO DISCOURAGE THE USE OF RAPID TESTING IN SCREENING PEOPLE FOR COVID-19"
+scope = "National"
+dateFiled = "2020-08-19"
+status = "Pending with the Committee on HEALTH since 2020-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01146.pdf"
+fileSize = 1141362
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2020-08-19"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-08-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31465
+congress = 18
+bill_no = "HR01146"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-08-25"

@@ -1,0 +1,54 @@
+billNumber = "HB06141"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06141"
+lastScraped = "2025-09-21T23:55:21.214935"
+title = "HB06141"
+longTitle = "AN ACT CREATING A DATABASE OF PRODUCTS CONTAINING PROBABLE CARCINOGENS"
+scope = "National"
+dateFiled = "2022-11-15"
+status = "Pending with the Committee on HEALTH since 2022-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06141.pdf"
+fileSize = 296228
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2022-11-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-03-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 11060
+congress = 19
+bill_no = "HB06141"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-21"

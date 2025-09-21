@@ -1,0 +1,49 @@
+billNumber = "HJR0008"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0008"
+lastScraped = "2025-09-22T00:20:59.420523"
+title = "HJR0008"
+longTitle = "JOINT RESOLUTION URGING PRESIDENT FIDEL V. RAMOS TO IMMEDIATELY SUSPEND FOR A PERIOD OF ONE YEAR THE IMPLEMENTATION OF REPUBLIC ACT  NUMBERED 7716 EXPANDING THE COVERAGE OF THE VALUE ADDED TAX"
+scope = "National"
+dateFiled = "1996-01-09"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lagman, Edcel C."
+coAuthors = [ "QUIMPO, ALLEN S.",]
+[[authorsDetail]]
+name = "Lagman, Edcel C."
+nameCode = "Lagman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 117035
+congress = 10
+bill_no = "HJR0008"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-01-22"

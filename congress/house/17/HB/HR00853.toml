@@ -1,0 +1,47 @@
+billNumber = "HR00853"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00853"
+lastScraped = "2025-09-21T23:55:46.399255"
+title = "HR00853"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED DISPARITY AND OVERPRICING OF FUEL PRICES IN NORTHERN LUZON"
+scope = "National"
+dateFiled = "2017-03-07"
+status = "Deliberated upon by the Mother Committee on 2018-02-19"
+statusOrder = 4.21
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00853.pdf"
+fileSize = 519810
+author = "Go, Mark O."
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2017-03-07"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2017-03-13"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 43595
+congress = 17
+bill_no = "HR00853"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-05-02"
+date_read = "2017-03-13"

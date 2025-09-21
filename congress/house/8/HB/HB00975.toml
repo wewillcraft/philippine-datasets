@@ -1,0 +1,42 @@
+billNumber = "HB00975"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00975"
+lastScraped = "2025-09-22T00:46:56.736382"
+title = "HB00975"
+longTitle = "AN ACT ESTABLISHING A YOUTH TRAINING AND GUIDANCECENTER IN THE MUNICIPALITY OF DUMALINAO, PROVINCEOF ZAMBOANGA DEL SUR"
+scope = "Local"
+dateFiled = "1987-09-01"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-09-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 135672
+congress = 8
+bill_no = "HB00975"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-09-03"

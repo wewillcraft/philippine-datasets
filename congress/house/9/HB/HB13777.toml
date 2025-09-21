@@ -1,0 +1,42 @@
+billNumber = "HB13777"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13777"
+lastScraped = "2025-09-22T00:25:57.142473"
+title = "HB13777"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF ALL BARANGAYS IN THE MUNICIPALITY OF  SOLANA, PROVINCE PF CAGAYAN, AND APPROPRIAITING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-09-19"
+status = "Pending with the Committee on ENERGY since 1994-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mamba"
+[[authorsDetail]]
+name = "Mamba"
+nameCode = "Mamba"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-09-22"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132386
+congress = 9
+bill_no = "HB13777"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-09-22"

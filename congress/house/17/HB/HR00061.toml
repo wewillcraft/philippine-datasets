@@ -1,0 +1,47 @@
+billNumber = "HR00061"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00061"
+lastScraped = "2025-09-21T23:55:46.235765"
+title = "HR00061"
+longTitle = "A RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION INTO THE SPATE OF EXTRAJUDICIAL KILLINGS AND/OR SUMMARY EXECUTIONS OF SUSPECTED VIOLATORS OF LAWS ON ILLEGAL DRUGS AND OTHER SUSPECTED CRIMINALS"
+scope = "National"
+dateFiled = "2016-07-07"
+status = "Pending with the Committee on RULES since 2016-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00061.pdf"
+fileSize = 467018
+author = "Baguilat, Teddy Jr. Brawner"
+[[authorsDetail]]
+name = "Baguilat, Teddy Jr. Brawner"
+nameCode = "Baguilat"
+date = "2016-07-07"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 42804
+congress = 17
+bill_no = "HR00061"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-19"
+date_read = "2016-07-26"

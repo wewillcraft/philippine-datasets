@@ -1,0 +1,42 @@
+billNumber = "HB01612"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01612"
+lastScraped = "2025-09-22T00:46:56.845049"
+title = "HB01612"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED CAPACITY HOSPITAL IN THE MUNICIPALITY OF CABUYAO, PROVINCE OFLAGUNA, TO BE KNOWN AS CABUYAO MUNICIPAL HOSPITALAND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-12"
+status = "Pending with the Committee on HEALTH since 1987-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-22"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136304
+congress = 8
+bill_no = "HB01612"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-22"

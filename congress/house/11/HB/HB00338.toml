@@ -1,0 +1,54 @@
+billNumber = "HB00338"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB00338"
+lastScraped = "2025-09-22T00:23:15.562776"
+title = "HB00338"
+longTitle = "AN ACT ESTABLISHING A COMPREHENSIVE JUVENILE JUSTICE SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1998-07-01"
+status = "Pending with the Committee on JUSTICE since 1998-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "ANGARA-CASTILLO, BELLAFLOR",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 91779
+congress = 11
+bill_no = "HB00338"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1998-07-28"

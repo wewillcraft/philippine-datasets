@@ -1,0 +1,57 @@
+billNumber = "HR00228"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00228"
+lastScraped = "2025-09-22T00:47:02.569372"
+title = "HR00228"
+longTitle = "RESOLUTION CREATING AN AD-HOC COMMITTEE TO CONDUCT AN IN-DEPTH STUDY FOR POSSIBILITY OF NATIONALIZING OIL INDUSTRIES"
+scope = "National"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on ENERGY since 1987-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+coAuthors = [ "MONFORT, NARCISO D.", "ANDOLANA, GREGORIO A.",]
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-09-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170129
+congress = 8
+bill_no = "HR00228"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-09-01"

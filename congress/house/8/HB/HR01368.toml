@@ -1,0 +1,42 @@
+billNumber = "HR01368"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01368"
+lastScraped = "2025-09-22T00:47:02.799280"
+title = "HR01368"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CORPORATIONS AND FRANCHISE TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE PROLIFERATION OF FICTITIOUS COMPANIES AND THEIR ILLEGAL OPERATIONS AND ACTIVITIES IN THE COUNTRY"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171236
+congress = 8
+bill_no = "HR01368"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-07-25"

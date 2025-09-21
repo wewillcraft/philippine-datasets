@@ -1,0 +1,71 @@
+billNumber = "HB06447"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06447"
+lastScraped = "2025-09-22T00:20:58.560333"
+title = "HB06447"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A SOLDIER'S MEMORIAL MONUMENT IN THE RIZAL PARK, AUTHORIZING THE APPROPRIATIONS OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-03-01"
+status = "Approved by the House on 1997-05-22, transmitted to on 1997-05-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales, Neptali II M."
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1996-03-06"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112868
+congress = 10
+bill_no = "HB06447"
+report = "00865"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+recomm = "approval with amendment"
+date_read = "1996-03-06"
+date_ob = "1997-04-24"
+date_report = "1997-04-22"
+
+[secondReading]
+id = 18360
+congress = 10
+bill_no = "HB06447"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-04-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2958
+congress = 10
+bill_no = "HB06447"
+date_dist = "1997-05-13"
+date_adopt = "1997-05-22"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-05-22"
+date_rec = "1997-05-28"

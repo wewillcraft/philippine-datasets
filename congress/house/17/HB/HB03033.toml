@@ -1,0 +1,67 @@
+billNumber = "HB03033"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03033"
+lastScraped = "2025-09-21T23:55:44.691752"
+title = "HB03033"
+longTitle = "AN ACT CREATING THE NATIONAL EYE CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-08-17"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2016-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03033.pdf"
+fileSize = 997099
+author = "Vargas, Alfred D."
+coAuthors = [ "PRIMICIAS-AGABAS, MARLYN L.", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2016-08-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2016-09-13"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2016-09-29"
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2016-08-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 36501
+congress = 17
+bill_no = "HB03033"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-11-28"
+date_read = "2016-08-24"

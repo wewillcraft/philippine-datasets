@@ -1,0 +1,50 @@
+billNumber = "HR00461"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00461"
+lastScraped = "2025-09-22T00:20:59.507007"
+title = "HR00461"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE POSSIBILITY AND PRACTICALITY OF TRANSFERRING RESPONSIBILITY OVER THE INSURGENCY PROBLEM FROM THE PNP TO THE AFP"
+scope = "National"
+dateFiled = "1996-02-12"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1996-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1996-02-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117515
+congress = 10
+bill_no = "HR00461"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte. on National Defense on Feb. 19, 1996."
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1996-02-14"

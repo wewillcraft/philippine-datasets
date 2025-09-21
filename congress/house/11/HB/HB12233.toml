@@ -1,0 +1,41 @@
+billNumber = "HB12233"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12233"
+lastScraped = "2025-09-22T00:23:17.808161"
+title = "HB12233"
+longTitle = "AN ACT DECLARING THE AGUSAN MARSH IN THE PROVINCE OF AGUSAN DEL SUR AS A TOURIST SPOT/ZONE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-08-30"
+status = "Pending with the Committee on TOURISM since 2000-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2000-09-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 103648
+congress = 11
+bill_no = "HB12233"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2000-09-19"

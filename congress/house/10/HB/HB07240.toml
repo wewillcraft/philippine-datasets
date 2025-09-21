@@ -1,0 +1,46 @@
+billNumber = "HB07240"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07240"
+lastScraped = "2025-09-22T00:20:58.705312"
+title = "HB07240"
+longTitle = "AN ACT ESTABLISHING A POTTERY/CERAMIC S MAKING TRAINING CENTER IN THE MUNICIPALITY OF MASBATE, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-03"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113661
+congress = 10
+bill_no = "HB07240"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-06-05"

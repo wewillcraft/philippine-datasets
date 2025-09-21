@@ -1,0 +1,54 @@
+billNumber = "HB05384"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05384"
+lastScraped = "2025-09-21T23:55:21.020369"
+title = "HB05384"
+longTitle = "AN ACT CREATING COURTS FOR INDIGENOUS PEOPLES"
+scope = "National"
+dateFiled = "2022-10-03"
+status = "Pending with the Committee on JUSTICE since 2022-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05384.pdf"
+fileSize = 1350795
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2022-10-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-06-10"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2022-11-07"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 10303
+congress = 19
+bill_no = "HB05384"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-07"

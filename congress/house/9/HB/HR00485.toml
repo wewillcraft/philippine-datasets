@@ -1,0 +1,47 @@
+billNumber = "HR00485"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00485"
+lastScraped = "2025-09-22T00:25:57.455388"
+title = "HR00485"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TRANSPORTATION AND COMMUNICATIONS AND LEGISLATIVE FRANCHISES TO CONDUCT A JOINT INVESTIGATION ON THE REPORTED USE OF THE FRANCHISE GRANTED TO ADELAIDA C. ZARRAGOZA UNDER R.A. NO. 5841 BY ANOTHER ENTITY/CORPORATION WITH PRIOR APPROVAL OF CONGRESS"
+scope = "Local"
+dateFiled = "1993-02-11"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-02-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua, Junie E."
+[[authorsDetail]]
+name = "Cua, Junie E."
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-02-16"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "secondary"
+referralCode = "0508"
+
+[firstReading]
+id = 133797
+congress = 9
+bill_no = "HR00485"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-02-16"

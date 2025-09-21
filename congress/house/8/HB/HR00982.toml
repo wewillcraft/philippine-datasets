@@ -1,0 +1,42 @@
+billNumber = "HR00982"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00982"
+lastScraped = "2025-09-22T00:47:02.727540"
+title = "HR00982"
+longTitle = "RESOLUTION REQUESTING THE PRESIDENT TO DIRECT ALLDEPARTMENT SECRETARIES TO UNDERTAKE REGULAR VISITS TO THE DIFFERENT CONGRESSIONAL DISTRICTS FOR INFORMATION, MONITORING AND EVALUATION PURPOSES IN FURTHERANCE OF THEIR FUNCTIONS"
+scope = "National"
+dateFiled = "1988-10-11"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1988-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1988-10-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170859
+congress = 8
+bill_no = "HR00982"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1988-10-17"

@@ -1,0 +1,47 @@
+billNumber = "HR00413"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00413"
+lastScraped = "2025-09-22T00:01:47.414681"
+title = "HR00413"
+longTitle = "A RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE SERIES OF RECENT NATURAL DISASTERS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2019-10-02"
+status = "Pending with the Committee on DISASTER RESILIENCE since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00413.pdf"
+fileSize = 437477
+author = "Garcia, Pablo John F."
+[[authorsDetail]]
+name = "Garcia, Pablo John F."
+nameCode = "Garcia (P.J.)"
+date = "2019-10-02"
+sequence = 1
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "primary"
+referralCode = "I504"
+dateRead = "2019-11-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 30741
+congress = 18
+bill_no = "HR00413"
+report = ""
+comm_act = ""
+referral = "I504"
+ref_name = "DISASTER RESILIENCE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-11-04"

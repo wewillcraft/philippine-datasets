@@ -1,0 +1,54 @@
+billNumber = "HB04498"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04498"
+lastScraped = "2025-09-22T00:20:58.211132"
+title = "HB04498"
+longTitle = "AN ACT EXEMPTING OWNERS OF LAND OCCUPIED BY SQUATTERS FROM THE PAYMENT OF REAL ESTATE TAXES"
+scope = "National"
+dateFiled = "1995-10-19"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "ESPINA, GERARDO S.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 110919
+congress = 10
+bill_no = "HB04498"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-10-25"

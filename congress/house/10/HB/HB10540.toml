@@ -1,0 +1,52 @@
+billNumber = "HB10540"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10540"
+lastScraped = "2025-09-22T00:20:59.404402"
+title = "HB10540"
+longTitle = "AN ACT CONVERTING THE NORTHERN MINDANAO STATE INSTITUTE OF SCIENCE AND TECHNOLOGY IN THE CITY OF BUTUAN INTO A STATE UNIVERSITY TO BE KNOWN AS THE NORTHEASTERN MINDANAO STATE UNIVERSITY, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-02-20"
+status = "Bill reported out 1998-02-20 (#01511)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[motherBills]]
+bill_no = "HB00240"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00240"
+flag = "S"
+
+[firstReading]
+id = 116960
+congress = 10
+bill_no = "HB10540"
+report = "01511"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1998-05-25"
+date_report = "1998-02-20"

@@ -1,0 +1,47 @@
+billNumber = "HB00594"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00594"
+lastScraped = "2025-09-22T00:25:54.701830"
+title = "HB00594"
+longTitle = "AN ACT DIVIDING THE PROVINCE OF SURIGAO DEL SUR AND CREATING THE PROVINCE OF SURIGAO ORIENTAL"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Estrella"
+[[authorsDetail]]
+name = "Estrella"
+nameCode = "Estrella"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119213
+congress = 9
+bill_no = "HB00594"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-11"

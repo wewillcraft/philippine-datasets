@@ -1,0 +1,46 @@
+billNumber = "PS00054"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=PS00054"
+lastScraped = "2025-09-21T23:55:46.748213"
+title = "Budget 2017"
+longTitle = "A NATIONAL BUDGET RESPONSIVE TO NEEDS OF THE PEOPLE"
+scope = "National"
+dateFiled = "2016-08-24"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/PS054_Rep. Bordado.pdf"
+fileSize = 123074
+author = "Bordado, Gabriel Jr. H."
+[[authorsDetail]]
+name = "Bordado, Gabriel Jr. H."
+nameCode = "Bordado"
+date = "2016-08-24"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-09-14"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 45399
+congress = 17
+bill_no = "PS00054"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-14"

@@ -1,0 +1,47 @@
+billNumber = "HR00080"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00080"
+lastScraped = "2025-09-21T23:55:46.238788"
+title = "HR00080"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION ON THE STRUCTURAL INTEGRITY AND REALIBILITY OF THE LA MESA DAM DURING EARTHQUAKES AND OTHER DISASTERS"
+scope = "National"
+dateFiled = "2016-07-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00080.pdf"
+fileSize = 273558
+author = "Vargas, Alfred D."
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2016-07-14"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 42823
+congress = 17
+bill_no = "HR00080"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-08-01"

@@ -1,0 +1,46 @@
+billNumber = "PS00016"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00016"
+lastScraped = "2025-09-21T23:56:42.634820"
+title = "Bombing In Zamboanga International Airport"
+longTitle = "CALLED FOR IMPROVEMENTS OF THE ZAMBOANGA INTERNATIONAL AIRPORT"
+scope = "Local"
+dateFiled = "2010-08-09"
+status = "Pending with the Committee on TRANSPORTATION since 2010-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Climaco, Maria Isabelle 'Beng' G."
+[[authorsDetail]]
+name = "Climaco, Maria Isabelle 'Beng' G."
+nameCode = "Climaco"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2010-08-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 65535
+congress = 15
+bill_no = "PS00016"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-24"

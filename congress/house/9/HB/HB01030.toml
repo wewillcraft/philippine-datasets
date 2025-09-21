@@ -1,0 +1,47 @@
+billNumber = "HB01030"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01030"
+lastScraped = "2025-09-22T00:25:54.781024"
+title = "HB01030"
+longTitle = "AN ACT TO ESTABLISH A BAMBOO RESEARCH, NURSERY AND DISPERSAL CENTER IN THE MUNICIPALITY OF PAETE, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-14"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119649
+congress = 9
+bill_no = "HB01030"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-08-20"

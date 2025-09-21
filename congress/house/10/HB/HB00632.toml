@@ -1,0 +1,56 @@
+billNumber = "HB00632"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00632"
+lastScraped = "2025-09-22T00:20:57.484148"
+title = "HB00632"
+longTitle = "AN ACT AMENDING SECTION 31 OF REPUBLIC ACT NO. 6770 ENTITLED \"AN ACT FOR THE FUNCTIONAL AND STRUCTURAL ORGANIZATION OF THE OFFICE OF THE OMBUDSMAN, AND FOR OTHER PURPOSES\""
+scope = "National"
+dateFiled = "1995-07-11"
+status = "Pending with the Committee on JUSTICE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "BELMONTE, FELICIANO JR. R.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELMONTE, FELICIANO JR. R."
+nameCode = "Belmonte"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 107053
+congress = 10
+bill_no = "HB00632"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-27"

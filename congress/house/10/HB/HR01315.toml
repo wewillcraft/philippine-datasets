@@ -1,0 +1,56 @@
+billNumber = "HR01315"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01315"
+lastScraped = "2025-09-22T00:20:59.676926"
+title = "HR01315"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, REGARDING  THE HIGH INTEREST RATES IMPOSED ON LOANS BY BANKS IN CONNECTION WITH THE RECENT DE FACTO PESO DEVALUATION"
+scope = "National"
+dateFiled = "1997-08-05"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 118369
+congress = 10
+bill_no = "HR01315"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-08-07"

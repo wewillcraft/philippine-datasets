@@ -1,0 +1,61 @@
+billNumber = "HB01633"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01633"
+lastScraped = "2025-09-21T23:56:40.860163"
+title = "HB01633"
+longTitle = "AN ACT REQUIRING ALL PUBLIC HEALTH CENTERS TO BE OPEN AT ALL TIMES TO PROVIDE CONTINUOUS HEALTH AND MEDICAL SERVICES TO THE PUBLIC"
+scope = "National"
+dateFiled = "2010-07-22"
+status = "Pending with the Committee on HEALTH since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01633.pdf"
+fileSize = 190139
+author = "RODRIGUEZ, MAXIMO B., JR."
+coAuthors = [ "CASTELO, WINSTON TAQUEBAN", "RODRIGUEZ, RUFUS BAUTISTA",]
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J049"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, RUFUS BAUTISTA"
+nameCode = "Rodriguez (R.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 57105
+congress = 15
+bill_no = "HB01633"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

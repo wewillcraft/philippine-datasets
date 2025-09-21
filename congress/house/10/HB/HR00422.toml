@@ -1,0 +1,50 @@
+billNumber = "HR00422"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00422"
+lastScraped = "2025-09-22T00:20:59.500752"
+title = "HR00422"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ECOLOGY AND NATURAL RESOURCES TO CONDUCT AND INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED ENVIRONMENTAL THREATS CAUSED BY EMISSION OF TOXIC AND HAZARDOUS WASTES IN MANILA BAY AND LAGUNA DE BAY BY MAJOR INDUSTRIES, TO EVALUATE THE IMPLEMENTATION OF REPUBLIC ACT NO. 6969 OTHERWISE KNOWN AS THE TOXIC SUBSTANCES AND HAZARDOUS NUCLEAR WASTES CONTROL ACT OF 1992 AND TO PROPOSE REMEDIAL MEASURES THERETO"
+scope = "Local"
+dateFiled = "1996-01-25"
+status = "Pending with the Committee on ECOLOGY since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "BAGATSING, RAMON JR. S.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117476
+congress = 10
+bill_no = "HR00422"
+comm_act = "Change of Referral from the Ctee. on Rules to the Ctte. on Ecology on Jan. 31, 1996."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-01-30"

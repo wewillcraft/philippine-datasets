@@ -1,0 +1,50 @@
+billNumber = "HR01506"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01506"
+lastScraped = "2025-09-22T00:23:18.231517"
+title = "HR01506"
+longTitle = "RESOLUTION URGING THE PRESIDENT, HIS EXCELLENCY JOSEPH EJERCITO ESTRADA, TO LIFT THE MORATORIUM ON THE EXECUTION OF THE DEATH PENALTY INSOFAR AS IT APPLIES TO CONVICTED DRUG TRAFFICKERS"
+scope = "National"
+dateFiled = "2000-04-07"
+status = "Pending with the Committee on JUSTICE since 2000-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "UNDE, GORGONIO P.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "UNDE, GORGONIO P."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2000-05-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 105962
+congress = 11
+bill_no = "HR01506"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2000-05-08"

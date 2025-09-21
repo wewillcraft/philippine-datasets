@@ -1,0 +1,47 @@
+billNumber = "HB07125"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07125"
+lastScraped = "2025-09-22T00:25:55.903521"
+title = "HB07125"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HEALTH CENTER AT BARANAY MAN-UP, MUNICIPALITY OF ALTAVAS, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-02-04"
+status = "Pending with the Committee on HEALTH since 1993-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-09"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125744
+congress = 9
+bill_no = "HB07125"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-09"

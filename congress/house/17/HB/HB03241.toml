@@ -1,0 +1,66 @@
+billNumber = "HB03241"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03241"
+lastScraped = "2025-09-21T23:55:44.727044"
+title = "HB03241"
+longTitle = "AN ACT CREATING THE COMMISSION ON SPECIAL EDUCATION, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-08-23"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2016-08-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03241.pdf"
+fileSize = 1101313
+author = "Zubiri, Manuel  F."
+coAuthors = [ "ZAMORA, MARIA CARMEN S.", "DEL ROSARIO, MONSOUR",]
+[[authorsDetail]]
+name = "Zubiri, Manuel  F."
+nameCode = "Zubiri"
+date = "2016-08-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZAMORA, MARIA CARMEN S."
+nameCode = "Zamora (M.C.)"
+date = "2016-09-07"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, MONSOUR"
+nameCode = "Del Rosario"
+date = "2016-09-29"
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2016-08-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 36709
+congress = 17
+bill_no = "HB03241"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-30"

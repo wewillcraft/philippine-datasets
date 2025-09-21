@@ -1,0 +1,42 @@
+billNumber = "HB11187"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11187"
+lastScraped = "2025-09-22T00:46:58.535221"
+title = "HB11187"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A DAY CARECENTER AT BARANGAY SUCLARAN, MUNICIPALITY OF BUENAVISTA, SUB-PROVINCE OF GUIMARAS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-26"
+status = "Pending with the Committee on SOCIAL SERVICES since 1988-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1988-05-31"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 145856
+congress = 8
+bill_no = "HB11187"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1988-05-31"

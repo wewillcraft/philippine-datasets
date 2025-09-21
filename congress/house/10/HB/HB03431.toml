@@ -1,0 +1,49 @@
+billNumber = "HB03431"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03431"
+lastScraped = "2025-09-22T00:20:58.009046"
+title = "HB03431"
+longTitle = "AN ACT PROVIDING FOR THE APPOINTMENT OF A SECTORAL REPRESENTATIVE FOR THE VETERANS TO THE HOUSE OF REPRESENTATIVES"
+scope = "National"
+dateFiled = "1995-09-11"
+status = "Pending with the Committee on PEOPLES PARTICIPATION since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "CRUZ-DUCUT, ZENAIDA",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PEOPLES PARTICIPATION"
+type = "primary"
+referralCode = "0527"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 109852
+congress = 10
+bill_no = "HB03431"
+referral = "0527"
+ref_name = "PEOPLES PARTICIPATION"
+date_read = "1995-09-18"

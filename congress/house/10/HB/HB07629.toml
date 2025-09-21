@@ -1,0 +1,70 @@
+billNumber = "HB07629"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07629"
+lastScraped = "2025-09-22T00:20:58.772994"
+title = "HB07629"
+longTitle = "AN ACT CONVERTING THE PROVINCIAL ROADS FROM DINGLE-DAIS-BON GLOY TO LIBO-O; CAMAMBUCAN-CAGA YUMAN-AGTATACAY -TULATULA-AN TO NAZUNI; TABUGON-ALEGRIA TO BUENAVISTA; AND TANGHAUAN TO SINIBA-AN, ALL IN THE MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-30"
+status = "Approved by the House on 1997-10-30 and transmitted to the Senate on 1997-11-03"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114050
+congress = 10
+bill_no = "HB07629"
+report = "01197"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-08-05"
+date_ob = "1997-10-21"
+date_report = "1997-10-16"
+
+[secondReading]
+id = 18509
+congress = 10
+bill_no = "HB07629"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3104
+congress = 10
+bill_no = "HB07629"
+date_dist = "1997-10-27"
+date_adopt = "1997-10-30"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-11-03"

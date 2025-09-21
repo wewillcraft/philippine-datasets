@@ -1,0 +1,47 @@
+billNumber = "HB04944"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04944"
+lastScraped = "2025-09-22T00:25:55.544831"
+title = "HB04944"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF BARANGAY PANTAO IN THE MUNICIPALITY OF LIBON, PROVINCE OF ALBAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-18"
+status = "Pending with the Committee on ENERGY since 1992-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bichara, Al Francis C."
+[[authorsDetail]]
+name = "Bichara, Al Francis C."
+nameCode = "Bichara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-11-23"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123563
+congress = 9
+bill_no = "HB04944"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-11-23"

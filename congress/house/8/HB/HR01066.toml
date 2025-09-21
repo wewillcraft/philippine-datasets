@@ -1,0 +1,50 @@
+billNumber = "HR01066"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01066"
+lastScraped = "2025-09-22T00:47:02.743742"
+title = "HR01066"
+longTitle = "RESOLUTION REQUESTING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO, TO DIRECT ALL DEPARTMENT SECRETARIES TO FURNISH THE HOUSE OF REPRESENTATIVES WITH A LIST OF ALL THEIR RESPECTIVE PROJECTS FROM 1985 UP TO PRESENT INCLUDING THEIR CORRESPONDING COSTS"
+scope = "National"
+dateFiled = "1989-01-05"
+status = "Pending with the Committee on APPROPRIATIONS since 1989-01-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1989-01-16"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170940
+congress = 8
+bill_no = "HR01066"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1989-01-16"

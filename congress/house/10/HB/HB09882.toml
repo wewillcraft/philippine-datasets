@@ -1,0 +1,75 @@
+billNumber = "HB09882"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09882"
+lastScraped = "2025-09-22T00:20:59.262194"
+title = "HB09882"
+longTitle = "AN ACT UPGRADING THE CAMIGUIN ISLAND HOSPITAL TO TERTIARY LEVEL II TO BE KNOWN AS THE CAMIGUIN GENERAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-25"
+status = "REPUBLIC ACT (RA08482) enacted on 1998-02-10"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romualdo, Pedro P."
+[[authorsDetail]]
+name = "Romualdo, Pedro P."
+nameCode = "Romualdo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-08-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116303
+congress = 10
+bill_no = "HB09882"
+report = "01230"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendment"
+date_read = "1997-08-27"
+date_ob = "1997-10-24"
+date_report = "1997-10-23"
+
+[secondReading]
+id = 18756
+congress = 10
+bill_no = "HB09882"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3328
+congress = 10
+bill_no = "HB09882"
+date_dist = "1997-10-27"
+date_adopt = "1997-10-30"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-11-03"
+date_agram = "1998-01-19"
+amend_ind = "Y"
+act_pres = "A"
+dte_transp = "1998-01-27"
+dte_actedp = "1998-02-10"

@@ -1,0 +1,49 @@
+billNumber = "HR01284"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01284"
+lastScraped = "2025-09-22T00:20:59.671155"
+title = "HR01284"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF BUDGET AND MANAGEMENT TO ADOPT A PERFORMANCE BUDGET SYSTEM/ZERO-BAS E SCHEME IN THE PREPARATION OF THE NATIONAL BUDGET, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-07-24"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 118338
+congress = 10
+bill_no = "HR01284"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-07-31"

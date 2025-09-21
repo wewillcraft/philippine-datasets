@@ -1,0 +1,42 @@
+billNumber = "HB07748"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07748"
+lastScraped = "2025-09-22T00:46:57.960775"
+title = "HB07748"
+longTitle = "AN ACT DECLARING LAKEWOOD AS A TOURIST SPOT IN THE MUNICIPALITY OF LAKEWOOD, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-19"
+status = "Pending with the Committee on TOURISM since 1988-04-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1988-04-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 142426
+congress = 8
+bill_no = "HB07748"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1988-04-25"

@@ -1,0 +1,48 @@
+billNumber = "RPT0002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=RPT0002"
+lastScraped = "2025-09-22T00:20:59.715386"
+title = "RPT0002"
+longTitle = "SUBCOMMITTEE REPORT ON THE PROPOSED AMENDMENTS TO THE RULES OF PROCEDURE IN IMPEACHMENT PROCEEDINGS"
+scope = "National"
+dateFiled = "1995-08-16"
+status = "Adopted as Resolution No.  on 1995-08-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-08-17"
+
+[firstReading]
+id = 118589
+congress = 10
+bill_no = "RPT0002"
+report = "00002"
+referral = "0532"
+ref_name = "RULES"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1995-08-17"
+date_ob = "1995-08-17"
+date_report = "1995-08-16"
+
+[secondReading]
+id = 19067
+congress = 10
+bill_no = "RPT0002"
+date_calendared = "1995-08-23"
+date_approved = "1995-08-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

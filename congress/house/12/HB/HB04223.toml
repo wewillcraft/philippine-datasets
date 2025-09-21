@@ -1,0 +1,47 @@
+billNumber = "HB04223"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04223"
+lastScraped = "2025-09-22T00:13:00.556182"
+title = "HB04223"
+longTitle = "AN ACT CREATING SPECIAL REGIONAL TRIAL COURTS TO TRY CASES OF VIOLATIONS OF THE DANGEROUS DRUGS ACT OF 1972 AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-01-16"
+status = "Pending with the Committee on JUSTICE since 2002-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-01-22"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87383
+congress = 12
+bill_no = "HB04223"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-01-22"

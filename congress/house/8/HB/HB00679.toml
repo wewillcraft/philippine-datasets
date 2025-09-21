@@ -1,0 +1,42 @@
+billNumber = "HB00679"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00679"
+lastScraped = "2025-09-22T00:46:56.682337"
+title = "HB00679"
+longTitle = "AN ACT CONVERTING THE LEMERY RURAL HEALTH CENTER IN THE MUNICIPALITY OF LEMERY, PROVINCE OF ILOILO,INTO A TEN-BED MUNICIPAL HOSPITAL TO BE KNOWN AS THE LEMERY MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-24"
+status = "Pending with the Committee on HEALTH since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 135376
+congress = 8
+bill_no = "HB00679"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-26"

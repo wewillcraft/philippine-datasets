@@ -1,0 +1,71 @@
+billNumber = "HB03231"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03231"
+lastScraped = "2025-09-22T00:20:57.970915"
+title = "HB03231"
+longTitle = "AN ACT CREATING THE FIRST QUEZON DEVELOPMENT ADMINISTRATION, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-09-05"
+status = "Approved by the House on 1997-02-24, transmitted to on 1997-02-25 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 109652
+congress = 10
+bill_no = "HB03231"
+report = "00758"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+recomm = "approval with amendments"
+date_read = "1995-09-18"
+date_ob = "1997-02-03"
+date_report = "1997-01-29"
+
+[secondReading]
+id = 17989
+congress = 10
+bill_no = "HB03231"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2601
+congress = 10
+bill_no = "HB03231"
+date_dist = "1997-02-19"
+date_adopt = "1997-02-24"
+no_yeas = 159
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-02-25"
+date_rec = "1997-02-28"

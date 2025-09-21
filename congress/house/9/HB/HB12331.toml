@@ -1,0 +1,42 @@
+billNumber = "HB12331"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12331"
+lastScraped = "2025-09-22T00:25:56.873664"
+title = "HB12331"
+longTitle = "AN ACT TO ESTABLISH A BRANCH OFFICE FOR THE REGISTRY OF DEEDS IN THE MUNICIPALITY OF SAN PEDRO, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-03-15"
+status = "Pending with the Committee on JUSTICE since 1994-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-03-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130946
+congress = 9
+bill_no = "HB12331"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-03-21"

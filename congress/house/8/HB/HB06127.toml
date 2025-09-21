@@ -1,0 +1,42 @@
+billNumber = "HB06127"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06127"
+lastScraped = "2025-09-22T00:46:57.702007"
+title = "HB06127"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK FARM AND ANIMAL BREEDING STATION IN THE MUNICIPALITY OF AGDANGAN, PROVINCE OF QUEZON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-08"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-03-10"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 140808
+congress = 8
+bill_no = "HB06127"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-03-10"

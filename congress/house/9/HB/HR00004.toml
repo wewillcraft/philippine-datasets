@@ -1,0 +1,42 @@
+billNumber = "HR00004"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00004"
+lastScraped = "2025-09-22T00:25:57.367977"
+title = "HR00004"
+longTitle = "RESOLUTION INSURING LEADERSHIP STABILITY IN THE HOUSE OF REPRESENTATIVES BY PROVIDING THAT NO REORGANIZATION SHOULD BE EFFECTED OR INITIATED WITHIN A PERIOD OF ONE (1) YEAR FOLLOWING THE INSTALLATION OF THE SPEAKER"
+scope = "National"
+dateFiled = "1992-07-10"
+status = "Pending with the Committee on RULES since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133316
+congress = 9
+bill_no = "HR00004"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-07-28"

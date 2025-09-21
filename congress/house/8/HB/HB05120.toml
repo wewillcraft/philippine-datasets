@@ -1,0 +1,42 @@
+billNumber = "HB05120"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05120"
+lastScraped = "2025-09-22T00:46:57.447840"
+title = "HB05120"
+longTitle = "AN ACT CREATING BARANGAY CALENDOLA IN THE MUNICIPALITY OF SAN PEDRO, LAGUNA"
+scope = "Local"
+dateFiled = "1988-01-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1988-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-02-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 139803
+congress = 8
+bill_no = "HB05120"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1988-02-03"

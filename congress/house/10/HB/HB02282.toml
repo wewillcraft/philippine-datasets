@@ -1,0 +1,75 @@
+billNumber = "HB02282"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02282"
+lastScraped = "2025-09-22T00:20:57.777154"
+title = "HB02282"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF JIMENEZ, PROVINCE OF MISAMIS OCCIDENTAL, TO BE KNOWN AS THE JIMENEZ NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-10"
+status = "REPUBLIC ACT RA08515 (Lapsed into law on 1998-02-13)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-16"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108703
+congress = 10
+bill_no = "HB02282"
+report = "00714"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-08-16"
+date_ob = "1996-12-12"
+date_report = "1996-12-10"
+
+[secondReading]
+id = 17901
+congress = 10
+bill_no = "HB02282"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2518
+congress = 10
+bill_no = "HB02282"
+date_dist = "1996-12-18"
+date_adopt = "1997-01-29"
+no_yeas = 147
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-30"
+date_rec = "1997-02-03"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-01-12"
+dte_actedp = "1998-02-13"

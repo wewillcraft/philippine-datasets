@@ -1,0 +1,41 @@
+billNumber = "HB08826"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08826"
+lastScraped = "2025-09-22T00:20:59.045689"
+title = "HB08826"
+longTitle = "AN ACT ABOLISHING THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT (PCGG) AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-01-29"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1997-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1997-02-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 115247
+congress = 10
+bill_no = "HB08826"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1997-02-03"

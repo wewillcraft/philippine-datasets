@@ -1,0 +1,47 @@
+billNumber = "HB10795"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10795"
+lastScraped = "2025-09-22T00:25:56.554938"
+title = "HB10795"
+longTitle = "AN ACT AUTHORIZING THE PRESIDENT TO CREATE A BODY THAT WOULD STUDY THE POSSIBLE TRANSFER OF ALL NATIONAL GOVERNMENT AGENCIES TO A NATIONAL GOVERNMENT CENTER AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-09-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap, Jose V."
+[[authorsDetail]]
+name = "Yap, Jose V."
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-09-23"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129413
+congress = 9
+bill_no = "HB10795"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-09-23"

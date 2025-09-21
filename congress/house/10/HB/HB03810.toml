@@ -1,0 +1,41 @@
+billNumber = "HB03810"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03810"
+lastScraped = "2025-09-22T00:20:58.080413"
+title = "HB03810"
+longTitle = "AN ACT TRANSFERRING THE POWERS OF THE PROVINCE UNDER SECTION 138, REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, TO THE MUNICIPALITIES UNDER SECTION 142-A OF THE SAME CODE"
+scope = "National"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 110231
+congress = 10
+bill_no = "HB03810"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-09-29"

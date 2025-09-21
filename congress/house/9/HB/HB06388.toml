@@ -1,0 +1,47 @@
+billNumber = "HB06388"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06388"
+lastScraped = "2025-09-22T00:25:55.781754"
+title = "HB06388"
+longTitle = "AN ACT CREATING THE PROVINCE OF WESTERN LEYTE"
+scope = "Local"
+dateFiled = "1993-01-18"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-01-20"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125007
+congress = 9
+bill_no = "HB06388"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-01-20"

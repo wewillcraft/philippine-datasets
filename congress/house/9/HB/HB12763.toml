@@ -1,0 +1,42 @@
+billNumber = "HB12763"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12763"
+lastScraped = "2025-09-22T00:25:56.961845"
+title = "HB12763"
+longTitle = "AN ACT CREATING THE GREEN BRIGADE IN ALL BARANGAYS, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED 7160, OTHERWISE KNOWN AS THE \"LOCAL GOVERNMENT CODE OF 1991\""
+scope = "National"
+dateFiled = "1994-05-20"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1994-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chavez"
+[[authorsDetail]]
+name = "Chavez"
+nameCode = "Chavez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1994-05-25"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131372
+congress = 9
+bill_no = "HB12763"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1994-05-25"

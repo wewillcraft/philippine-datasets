@@ -1,0 +1,42 @@
+billNumber = "HB04100"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04100"
+lastScraped = "2025-09-22T00:46:57.276845"
+title = "HB04100"
+longTitle = "AN ACT APPROPRIATING THE SUM OF ONE HUNDRED THOUSAND PESOS FOR THE CONSTRUCTION OF AN ARABIC MADRASAH MULTIPURPOSE SCHOOL BUILDING IN BARANGAY TAMBACAN, CITY OF ILIGAN"
+scope = "Local"
+dateFiled = "1987-11-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-12-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 138786
+congress = 8
+bill_no = "HB04100"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-12-03"

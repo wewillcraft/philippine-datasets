@@ -1,0 +1,46 @@
+billNumber = "PS00026"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00026"
+lastScraped = "2025-09-21T23:56:42.636280"
+title = "N F A's Importation Of Rice"
+longTitle = "RICE CRISIS"
+scope = "National"
+dateFiled = "2010-08-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2010-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanlao, Agapito H."
+[[authorsDetail]]
+name = "Guanlao, Agapito H."
+nameCode = "Guanlao"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2010-08-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 65543
+congress = 15
+bill_no = "PS00026"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-24"

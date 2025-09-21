@@ -1,0 +1,61 @@
+billNumber = "HB00871"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00871"
+lastScraped = "2025-09-22T00:20:57.523188"
+title = "HB00871"
+longTitle = "AN ACT GRANTING BENEFITS FOR DEATHS OR INJURIES SUFFERED BY CIVILIANS IN THE COURSE OF MILITARY OR POLICE OPERATIONS"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on CIVIL, POLITICAL AND HUMAN RIGHTS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "RODRIGUEZ, OSCAR S.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107292
+congress = 10
+bill_no = "HB00871"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+date_read = "1995-07-27"

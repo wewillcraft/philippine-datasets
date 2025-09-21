@@ -1,0 +1,46 @@
+billNumber = "HB09365"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09365"
+lastScraped = "2025-09-22T00:20:59.152849"
+title = "HB09365"
+longTitle = "AN ACT PROVIDING FOR THE REHABILITATION OF TWO (2) CREEKS SITUATED WITHIN BARANGAY LAS PINAS, PENARANDA, NUEVA ECIJA, PROVIDING FOR THE DREDGING AND DESILTING, AND THE CONSTRUCTION OF CHECK-GATES THEREAT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-05-13"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115786
+congress = 10
+bill_no = "HB09365"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-05-13"

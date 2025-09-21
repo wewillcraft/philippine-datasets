@@ -1,0 +1,60 @@
+billNumber = "HB07049"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB07049"
+lastScraped = "2025-09-22T00:01:46.422632"
+title = "HB07049"
+longTitle = "AN ACT PROVIDING FOR A NATIONAL DIGITAL TRANSFORMATION POLICY AND FOR OTHER PURPOSES\r\n"
+scope = "National"
+dateFiled = "2020-07-01"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 2020-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB07049.pdf"
+fileSize = 2772913
+author = "Siao, Frederick W."
+coAuthors = [ "SALVADOR-TAMBUNTING, JOY MYRA",]
+[[authorsDetail]]
+name = "Siao, Frederick W."
+nameCode = "Siao"
+date = "2020-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2021-08-31"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "secondary"
+referralCode = "E504"
+
+[firstReading]
+id = 26456
+congress = 18
+bill_no = "HB07049"
+report = ""
+comm_act = ""
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-09-15"
+date_read = "2020-07-28"

@@ -1,0 +1,46 @@
+billNumber = "PS00203"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=PS00203"
+lastScraped = "2025-09-21T23:56:23.326112"
+title = "Military Coup In Thailand"
+longTitle = ""
+scope = "National"
+dateFiled = "2014-05-28"
+status = "Pending with the Committee on RULES since 2014-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/PS203_Rep. Bello (W.).pdf"
+fileSize = 52391
+author = "Bello, Walden F."
+[[authorsDetail]]
+name = "Bello, Walden F."
+nameCode = "Bello (W.)"
+date = "2014-05-28"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-05-28"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 55278
+congress = 16
+bill_no = "PS00203"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-28"

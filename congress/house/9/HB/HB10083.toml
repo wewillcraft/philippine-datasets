@@ -1,0 +1,47 @@
+billNumber = "HB10083"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10083"
+lastScraped = "2025-09-22T00:25:56.420632"
+title = "HB10083"
+longTitle = "AN ACT ESTABLISHING A BARANGAY MULTIPURPOSE HALL IN BARANGAY F. DE JESUS, MUNICIPALITY OF UNISAN, PROVINCE OF QUEZON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-08-02"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-08-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128701
+congress = 9
+bill_no = "HB10083"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-08-05"

@@ -1,0 +1,42 @@
+billNumber = "HB03986"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03986"
+lastScraped = "2025-09-22T00:13:00.516413"
+title = "HB03986"
+longTitle = "AN ACT ALLOWING FIFTY PERCENT (50%) OF THE TOTAL VALUE ADDED TAX (VAT) PAID AS DEDUCTION FROM THE INCOME TAX"
+scope = "National"
+dateFiled = "2001-11-28"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-12-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 87146
+congress = 12
+bill_no = "HB03986"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-12-04"

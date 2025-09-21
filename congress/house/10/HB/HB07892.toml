@@ -1,0 +1,46 @@
+billNumber = "HB07892"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07892"
+lastScraped = "2025-09-22T00:20:58.860781"
+title = "HB07892"
+longTitle = "AN ACT CONVERTING THE MINGLANILLA CENTRAL ELEMENTARY SCHOOL IN THE MUNICIPALITY OF MINGLANILLA, PROVINCE OF CEBU, INTO AN ELEMENTARY SCIENCE SCHOOL TO BE KNOWN AS MINGLANILLA ELEMENTARY SCIENCE SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-05"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-09-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114313
+congress = 10
+bill_no = "HB07892"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-09-10"

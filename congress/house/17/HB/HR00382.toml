@@ -1,0 +1,47 @@
+billNumber = "HR00382"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00382"
+lastScraped = "2025-09-21T23:55:46.288966"
+title = "HR00382"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON REFORESTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED IRREGULARITIES AND WRONG POLICIES IN THE IMPLEMENTATION OF THE NATIONAL GREENING PROGRAM WITH THE VIEW OF ASSESSING THE EFFECTIVITY OF THE PROGRAM"
+scope = "National"
+dateFiled = "2016-09-21"
+status = "Pending with the Committee on REFORESTATION since 2016-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00382.pdf"
+fileSize = 944462
+author = "Yu, Divina Grace C."
+[[authorsDetail]]
+name = "Yu, Divina Grace C."
+nameCode = "Yu"
+date = "2016-09-21"
+sequence = 1
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2016-09-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43124
+congress = 17
+bill_no = "HR00382"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-11-14"
+date_read = "2016-09-27"

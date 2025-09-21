@@ -1,0 +1,63 @@
+billNumber = "HB04807"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04807"
+lastScraped = "2025-09-22T00:20:58.263704"
+title = "HB04807"
+longTitle = "AN ACT PROVIDING FOR GRADUATED PENALTIES FOR DRUG-RELATED OFFENSES, FURTHER AMENDING FOR THE PURPOSE 'THE DANGEROUS DRUGS ACT OF 1972'"
+scope = "National"
+dateFiled = "1995-10-30"
+status = "Substituted by HB10084"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "DRAGON, RENATO P.", "GOLEZ, ROILO S.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-11-08"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 111228
+congress = 10
+bill_no = "HB04807"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-11-08"

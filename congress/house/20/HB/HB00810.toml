@@ -1,0 +1,59 @@
+billNumber = "HB00810"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00810"
+lastScraped = "2025-09-21T23:39:48.460856"
+title = "HB00810"
+longTitle = "AN ACT REORGANIZING THE NATIONAL COUNCIL ON DISABILITY AFFAIRS INTO THE NATIONAL COMMISSION ON DISABILITY AFFAIRS, DEFINING ITS POWER AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00810.pdf"
+fileSize = 1039753
+author = "SUAN, LORDAN G."
+coAuthors = [ "ANGELES, MARIA CRISTINA C.",]
+[[authorsDetail]]
+name = "SUAN, LORDAN G."
+nameCode = "Suan"
+date = "2025-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ANGELES, MARIA CRISTINA C."
+nameCode = "Angeles"
+date = "2025-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 811
+congress = 103
+bill_no = "HB00810"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

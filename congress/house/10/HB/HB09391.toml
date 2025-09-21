@@ -1,0 +1,46 @@
+billNumber = "HB09391"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09391"
+lastScraped = "2025-09-22T00:20:59.158363"
+title = "HB09391"
+longTitle = "AN ACT ESTABLISHING AN ANTI-ILLEGAL DRUG TEAM IN BARANGAY DAWIS, MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-08"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-05-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-05-14"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115812
+congress = 10
+bill_no = "HB09391"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-05-14"

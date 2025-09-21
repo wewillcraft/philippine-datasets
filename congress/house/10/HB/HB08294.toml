@@ -1,0 +1,54 @@
+billNumber = "HB08294"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08294"
+lastScraped = "2025-09-22T00:20:58.938095"
+title = "HB08294"
+longTitle = "AN ACT TO INSTITUTE A NATIONAL AQUATIC FOOD SANITATION PROGRAM, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-10-24"
+status = "Pending with the Committee on FISHERIES INDUSTRY (SPECIAL CTTE.) since 1996-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1996-11-05"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114715
+congress = 10
+bill_no = "HB08294"
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+date_read = "1996-11-05"

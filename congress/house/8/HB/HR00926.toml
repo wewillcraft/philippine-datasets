@@ -1,0 +1,42 @@
+billNumber = "HR00926"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00926"
+lastScraped = "2025-09-22T00:47:02.706919"
+title = "HR00926"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTUREAND FOOD TO CONDUCT AN IMMEDIATE INVESTIGATION INTO THE ALLEGED ILLEGAL DIVERSION OF THE SIX HUNDRED THIRTY MILLION (P630 M) PESOS IN GRAINS BUYING FUND OF THE NATIONAL FOOD AUTHORITY WHICH WAS USED TO FINANCE RICE IMPORTATION FROM THE UNITED STATESAND RECOMMENDING APPROPRIATE LEGAL AND ADMINISTRATIVE SANCTIONS AGAINST THE GOVERNMENT OFFICIALS INVOLVED HEREIN"
+scope = "National"
+dateFiled = "1988-09-14"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ong"
+[[authorsDetail]]
+name = "Ong"
+nameCode = "Ong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-09-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170806
+congress = 8
+bill_no = "HR00926"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-09-19"

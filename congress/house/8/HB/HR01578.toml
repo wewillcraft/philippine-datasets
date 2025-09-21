@@ -1,0 +1,42 @@
+billNumber = "HR01578"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01578"
+lastScraped = "2025-09-22T00:47:02.852629"
+title = "HR01578"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED ANOMALIES ON SUPPLIES PROCUREMENT FOR ELECTRIC COOPERATIVES AT THE NATIONAL ELECTRIFICATION ADMINISTRATION"
+scope = "National"
+dateFiled = "1989-12-05"
+status = "Pending with the Committee on ENERGY since 1989-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pedro"
+[[authorsDetail]]
+name = "Pedro"
+nameCode = "Pedro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1989-12-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171436
+congress = 8
+bill_no = "HR01578"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1989-12-05"

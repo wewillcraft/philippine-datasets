@@ -1,0 +1,55 @@
+billNumber = "HR00698"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00698"
+lastScraped = "2025-09-22T00:20:59.557259"
+title = "HR00698"
+longTitle = "RESOLUTION CALLING FOR THE INVESTIGATION OF THE CHANGE IN THE LOCATION OF THE EDSA LRT CUBAO STATION"
+scope = "Local"
+dateFiled = "1996-06-17"
+status = "Pending with the Committee on RULES since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[firstReading]
+id = 117752
+congress = 10
+bill_no = "HR00698"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Works and Highways on July 24, 199"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-23"

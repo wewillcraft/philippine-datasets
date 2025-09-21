@@ -1,0 +1,52 @@
+billNumber = "HR00501"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00501"
+lastScraped = "2025-09-22T00:01:47.430230"
+title = "HR00501"
+longTitle = "A RESOLUTION URGING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, REGARDING MANILA WATER'S 780% HIKE WARNING IN THE EVENT THAT THE SUPREME COURT DOES NOT REVERSE ITS DECISION TO PENALIZE THE COMPANY FOR ITS FAILURE TO COMPLY WITH THE CLEAN WATER ACT"
+scope = "National"
+dateFiled = "2019-11-06"
+status = "Pending with the Committee on GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY since 2019-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00501.pdf"
+fileSize = 452969
+author = "Castelo, Precious Hipolito"
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-11-06"
+sequence = 1
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "A502"
+dateRead = "2019-11-11"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "secondary"
+referralCode = "D501"
+
+[firstReading]
+id = 30829
+congress = 18
+bill_no = "HR00501"
+report = ""
+comm_act = ""
+referral = "A502"
+ref_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-12-11"
+date_read = "2019-11-11"

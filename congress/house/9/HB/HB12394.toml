@@ -1,0 +1,42 @@
+billNumber = "HB12394"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12394"
+lastScraped = "2025-09-22T00:25:56.886043"
+title = "HB12394"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MUNICIPAL ORGANIC FERTILIZER PLANT IN THE MUNICIPALITY OF PAETE, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-03-23"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-03-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131009
+congress = 9
+bill_no = "HB12394"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-03-24"

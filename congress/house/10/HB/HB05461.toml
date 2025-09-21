@@ -1,0 +1,46 @@
+billNumber = "HB05461"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05461"
+lastScraped = "2025-09-22T00:20:58.379477"
+title = "HB05461"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN CALAIGANG ELEMENTARY SCHOOL, BARANGAY CALAIGANG, MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-12-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-12-12"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111882
+congress = 10
+bill_no = "HB05461"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-12-12"

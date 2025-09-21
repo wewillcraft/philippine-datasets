@@ -1,0 +1,47 @@
+billNumber = "HB03427"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03427"
+lastScraped = "2025-09-22T00:13:00.421735"
+title = "HB03427"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN ANIMAL BREEDING STATION AND LIVESTOCK FARM IN THE MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-09"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86587
+congress = 12
+bill_no = "HB03427"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-10-15"

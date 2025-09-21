@@ -1,0 +1,46 @@
+billNumber = "HB07289"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07289"
+lastScraped = "2025-09-22T00:20:58.713927"
+title = "HB07289"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN LO-ONG ELEMENTARY SCHOOL, BARANGAY LO-ONG, MUNICIPALITY OF CONCEPCION, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-06-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-06-06"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113710
+congress = 10
+bill_no = "HB07289"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-06-06"

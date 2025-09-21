@@ -1,0 +1,62 @@
+billNumber = "HR01803"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01803"
+lastScraped = "2025-09-22T00:47:02.885082"
+title = "HR01803"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE IS READY TO ENTER UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1990-07-23"
+status = "Adopted as Resolution No. HR00087 on 1990-07-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sumulong"
+coAuthors = [ "RULES",]
+[[authorsDetail]]
+name = "Sumulong"
+nameCode = "Sumulong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-07-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171640
+congress = 8
+bill_no = "HR01803"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-07-23"
+date_ob = "1990-07-23"
+date_cal = "1990-07-23"
+date_unass = "1990-07-23"
+
+[secondReading]
+id = 21671
+congress = 8
+bill_no = "HR01803"
+adopted_resolution = "HR00087"
+date_approved = "1990-07-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

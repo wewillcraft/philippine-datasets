@@ -1,0 +1,90 @@
+billNumber = "HB06778"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06778"
+lastScraped = "2025-09-22T00:20:58.617577"
+title = "HB06778"
+longTitle = "AN ACT CONVERTING THE CAGAYAN VALLEY REGIONAL HOSPITAL INTO A MEDICAL CENTER TO BE KNOWN AS THE CAGAYAN VALLEY MEDICAL CENTER, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-28"
+status = "REPUBLIC ACT RA08599 (Lapsed into law on 1998-03-20)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+coAuthors = [ "ANTONIO, PATRICIO T.", "MAMBA, MANUEL N.",]
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANTONIO, PATRICIO T."
+nameCode = "Antonio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MAMBA, MANUEL N."
+nameCode = "Mamba"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113199
+congress = 10
+bill_no = "HB06778"
+report = "00500"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1996-04-29"
+date_ob = "1996-07-23"
+date_report = "1996-06-26"
+
+[secondReading]
+id = 18404
+congress = 10
+bill_no = "HB06778"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-07-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3002
+congress = 10
+bill_no = "HB06778"
+date_dist = "1996-07-30"
+date_adopt = "1996-08-15"
+no_yeas = 172
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-08-15"
+date_rec = "1996-08-21"
+date_agram = "1998-01-12"
+amend_ind = "Y"
+act_pres = "L"
+dte_actedp = "1998-03-20"

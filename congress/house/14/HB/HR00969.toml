@@ -1,0 +1,90 @@
+billNumber = "HR00969"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HR00969"
+lastScraped = "2025-09-22T00:15:39.502185"
+title = "HR00969"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON JUSTICE AND DANGEROUS DRUGS TO INVESTIGATE THE DRUG CASES DISMISSED BY THE DEPARTMENT OF JUSTICE"
+scope = "National"
+dateFiled = "2009-01-28"
+status = "Adopted Resolution (Pending with the committee on JUSTICE since 2009-02-24)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "DEFENSOR, ARTHUR D.", "ZAMORA, RONALDO B.", "RULES",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEFENSOR, ARTHUR D."
+nameCode = "Defensor (A.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora (R.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2009-02-03"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 74223
+congress = 14
+bill_no = "HR00969"
+report = "01768"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption with amendments."
+remarks = ""
+date_read = "2009-02-03"
+date_report = "2009-02-16"
+
+[secondReading]
+id = 10808
+congress = 14
+bill_no = "HR00969"
+adopted_resolution = "HR00339"
+adopted_resolution_title = "RESOLUTION DIRECTING  THE COMMITTEE ON JUSTICE  TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON  THE DRUG CASES DISMISSED BY THE DEPARTMENT OF JUSTICE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2009-02-24"
+date_approved = "2009-02-24"
+adopted_resolution_with_amendment = "Y"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+date_refferral = "2009-02-24"
+action_on_adopted_resolution = ""
+file = "HR00969.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_14/HR00969.pdf"

@@ -1,0 +1,47 @@
+billNumber = "HR01076"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01076"
+lastScraped = "2025-09-22T00:20:59.633851"
+title = "HR01076"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ECOLOGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE COMPLAINTS OF SMALL FARMERS IN THE MUNICIPALITIES OF TUPI, POLOMOLOK, AND TAMPAKAN, ALL IN SOUTH COTABATO, REGARDING THE DESTRUCTION OF THEIR FARMS AND DAMAGE TO THE ENVIRONMENT ALLEGEDLY CAUSED BY THE FARMING METHODS USED BY DOLE PHILIPPINES, INC., IN ITS PINEAPPLE PLANTATION IN THESE MUNICIPALITIES"
+scope = "Local"
+dateFiled = "1997-02-05"
+status = "Pending with the Committee on RULES since 1997-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 118130
+congress = 10
+bill_no = "HR01076"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte. on Ecology on Feb. 11, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-10"

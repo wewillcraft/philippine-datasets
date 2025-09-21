@@ -1,0 +1,42 @@
+billNumber = "HB04466"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04466"
+lastScraped = "2025-09-22T00:46:57.339666"
+title = "HB04466"
+longTitle = "AN ACT ESTABLISHING A TOURISM MANPOWER TRAINING CENTER, IN THE MUNICIPALITY OF LOS BANOS, PROVINCE OF LAGUNA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-09"
+status = "Pending with the Committee on TOURISM since 1987-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1987-12-15"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 139150
+congress = 8
+bill_no = "HB04466"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+date_read = "1987-12-15"

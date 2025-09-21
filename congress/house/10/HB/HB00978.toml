@@ -1,0 +1,51 @@
+billNumber = "HB00978"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00978"
+lastScraped = "2025-09-22T00:20:57.540065"
+title = "HB00978"
+longTitle = "AN ACT CONVERTING THE VISAYAS STATE COLLEGE OF AGRICULTURE INTO A STATE UNIVERSITY TO BE KNOWN AS THE VISAYAS STATE UNIVERSITY OF AGRICULTURE (VISUA)"
+scope = "Local"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Loreto"
+[[authorsDetail]]
+name = "Loreto"
+nameCode = "Loreto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 107399
+congress = 10
+bill_no = "HB00978"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-27"

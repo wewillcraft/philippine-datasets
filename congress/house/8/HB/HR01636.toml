@@ -1,0 +1,42 @@
+billNumber = "HR01636"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01636"
+lastScraped = "2025-09-22T00:47:02.860379"
+title = "HR01636"
+longTitle = "RESOLUTION DIRECTING THE PROPER COMMITTEE, IN AID OF LEGISLATION, TO LOOK INTO THE IMPLEMENTATION OF PENSION LAWS BY THE GOVERNMENT SERVICE INSURANCE SYSTEM FOR GOVERNMENT RETIREES"
+scope = "National"
+dateFiled = "1990-02-01"
+status = "Pending with the Committee on CIVIL SERVICE since 1990-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1990-02-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 171481
+congress = 8
+bill_no = "HR01636"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1990-02-01"

@@ -1,0 +1,68 @@
+billNumber = "HB09819"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09819"
+lastScraped = "2025-09-22T00:20:59.251055"
+title = "HB09819"
+longTitle = "AN ACT ESTABLISHING A YOUTH ENQUIRY SERVICE  (YES) PROGRAM IN ALL CONGRESSIONAL DISTRICTS"
+scope = "National"
+dateFiled = "1997-08-12"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1997-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "DEL MAR, RAUL V.", "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1997-08-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116240
+congress = 10
+bill_no = "HB09819"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+date_read = "1997-08-20"

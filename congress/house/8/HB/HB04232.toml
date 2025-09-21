@@ -1,0 +1,42 @@
+billNumber = "HB04232"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04232"
+lastScraped = "2025-09-22T00:46:57.298066"
+title = "HB04232"
+longTitle = "AN ACT ESTABLISHING A FISHPORT PROCESSING CENTER IN THE MUNICIPALITY OF TANDUBAS, PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-03"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-12-09"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 138918
+congress = 8
+bill_no = "HB04232"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-12-09"

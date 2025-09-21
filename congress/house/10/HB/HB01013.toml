@@ -1,0 +1,51 @@
+billNumber = "HB01013"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01013"
+lastScraped = "2025-09-22T00:20:57.547335"
+title = "HB01013"
+longTitle = "AN ACT CREATING THE PHILIPPINE AGRICULTURAL INSURANCE AND SECURITY SYSTEM, DEFINING ITS OBJECTIVES, POWERS, FUNCTIONS, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-17"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 107434
+congress = 10
+bill_no = "HB01013"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-07-27"

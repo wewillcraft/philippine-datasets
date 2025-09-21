@@ -1,0 +1,41 @@
+billNumber = "HB10143"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10143"
+lastScraped = "2025-09-22T00:20:59.322122"
+title = "HB10143"
+longTitle = "AN ACT PROVIDING FOR A MORE RESPONSIVE CHARTER FOR PASAY CITY, AMENDING FOR THE PURPOSE THE CHARTER OF PASAY CITY, AS AMENDED"
+scope = "Local"
+dateFiled = "1997-10-21"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-10-23"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 116564
+congress = 10
+bill_no = "HB10143"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-10-23"

@@ -1,0 +1,49 @@
+billNumber = "HR01202"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01202"
+lastScraped = "2025-09-22T00:20:59.657590"
+title = "HR01202"
+longTitle = "RESOLUTION URGING THE APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ANOMALOUS DEATH OF ENSIGN PHILIP ANDREW AZARCON PESTANO"
+scope = "Local"
+dateFiled = "1997-05-06"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-05-13"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118256
+congress = 10
+bill_no = "HR01202"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-05-13"

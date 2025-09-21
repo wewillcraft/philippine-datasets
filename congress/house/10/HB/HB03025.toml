@@ -1,0 +1,71 @@
+billNumber = "HB03025"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03025"
+lastScraped = "2025-09-22T00:20:57.926329"
+title = "HB03025"
+longTitle = "AN ACT CREATING A SEPARATE ENGINEERING DISTRICT IN THE SECOND CONGRESSIONAL DISTRICT IN QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-31"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109446
+congress = 10
+bill_no = "HB03025"
+report = "00419"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-09-06"
+date_ob = "1996-05-22"
+date_report = "1996-05-21"
+
+[secondReading]
+id = 17980
+congress = 10
+bill_no = "HB03025"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2593
+congress = 10
+bill_no = "HB03025"
+date_dist = "1996-05-28"
+date_adopt = "1996-06-06"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-14"

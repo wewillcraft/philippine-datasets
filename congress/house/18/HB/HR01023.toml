@@ -1,0 +1,46 @@
+billNumber = "HR01023"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01023"
+lastScraped = "2025-09-22T00:01:47.526633"
+title = "HR01023"
+longTitle = "RESOLUTION CALLING FOR THE EARLY RELEASE OF SENIOR CITIZEN INMATES WHO ARE AGED SEVENTY (70) AND ABOVE WHO ARE ELIGIBLE FOR PAROLE"
+scope = "National"
+dateFiled = "2020-07-02"
+status = "Pending with the Committee on JUSTICE since 2020-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01023.pdf"
+fileSize = 1110467
+author = "Datol, Francisco Jr. G."
+[[authorsDetail]]
+name = "Datol, Francisco Jr. G."
+nameCode = "Datol"
+date = "2020-07-02"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 31342
+congress = 18
+bill_no = "HR01023"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-07-28"

@@ -1,0 +1,41 @@
+billNumber = "HR00899"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00899"
+lastScraped = "2025-09-22T00:20:59.594690"
+title = "HR00899"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ECOLOGY TO INVESTIGATE, IN AID OF LEGISLATION, ON THE IMPORTATION AND RECYCLING OF LEAD ACID BATTERIES AND IN THE PROCESS DETERMINE THE EFFECTIVENESS OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCESIN ENFORCING REPUBLIC ACT NO. 6969"
+scope = "National"
+dateFiled = "1996-10-09"
+status = "Pending with the Committee on RULES since 1996-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-11"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 117953
+congress = 10
+bill_no = "HR00899"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-11"

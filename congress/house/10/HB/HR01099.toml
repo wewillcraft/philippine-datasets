@@ -1,0 +1,47 @@
+billNumber = "HR01099"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01099"
+lastScraped = "2025-09-22T00:20:59.637783"
+title = "HR01099"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO INQUIRE, IN AID OF LEGISLATION, INTO THE ALLEGED P163.0 MILLION OVERPRICING IN THE PROCUREMENT OF AIRPORT EQUIPMENT AND FACILITIES FOR THE CLARK INTERNATIONAL AIRPORT"
+scope = "Local"
+dateFiled = "1997-02-18"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-02-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-02-20"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 118153
+congress = 10
+bill_no = "HR01099"
+comm_act = "Change of Referral from the Ctte. on Good Government to the Ctte. on Transporta tion and Communicat"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-02-20"

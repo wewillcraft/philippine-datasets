@@ -1,0 +1,75 @@
+billNumber = "HR00963"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00963"
+lastScraped = "2025-09-22T00:20:59.607153"
+title = "HR00963"
+longTitle = "RESOLUTION COMMENDING AND CONGRATULATING RICO SIODERA, RUDY IDANO, ROLANDO TOYOGAN AND GERRY PENALOSA FOR THEIR VICTORIES IN THE WORLD BOXING FEDERATION CHAMPIONSHIP BOUT DURING THE FIESTA FISTIANA HELD ON NOVEMBER 9, 1996 AT THE NINOY AQUINO STADIUM IN MANILA"
+scope = "Local"
+dateFiled = "1996-11-19"
+status = "Adopted as Resolution No. HR00081 on 1996-11-19"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "DAZA, RAUL A.", "ALBANO, RODOLFO JR. B.", "DAMASING, ERASMO B.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DAZA, RAUL A."
+nameCode = "Daza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DAMASING, ERASMO B."
+nameCode = "Damasing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-19"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 118017
+congress = 10
+bill_no = "HR00963"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-19"
+
+[secondReading]
+id = 19008
+congress = 10
+bill_no = "HR00963"
+adopted_resolution = "HR00081"
+date_calendared = "1996-11-19"
+date_approved = "1996-11-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00081.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00081.pdf"

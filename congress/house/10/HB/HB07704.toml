@@ -1,0 +1,54 @@
+billNumber = "HB07704"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07704"
+lastScraped = "2025-09-22T00:20:58.786311"
+title = "HB07704"
+longTitle = "AN ACT ESTABLISHING A HATCHERY OF FRESHWATER AQUARIUM FISHES IN BARANGAY SAN ANTONIO, MUNICIPALITY OF BAY, PROVINCE OF LAGUNA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-08-12"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114125
+congress = 10
+bill_no = "HB07704"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-08-12"

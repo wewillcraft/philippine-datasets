@@ -1,0 +1,47 @@
+billNumber = "HB04682"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04682"
+lastScraped = "2025-09-22T00:25:55.473419"
+title = "HB04682"
+longTitle = "AN ACT AMENDING SECITON 5 OF REPUBLIC ACT NO. 4618 (Defines the qualifications of the National Stud Master as one who has been a licensed and practicing Doctor of Veterinary Medicine for at least ten years)"
+scope = "National"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123301
+congress = 9
+bill_no = "HB04682"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-16"

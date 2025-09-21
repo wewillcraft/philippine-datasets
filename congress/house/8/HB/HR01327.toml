@@ -1,0 +1,42 @@
+billNumber = "HR01327"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01327"
+lastScraped = "2025-09-22T00:47:02.791431"
+title = "HR01327"
+longTitle = "RESOLUTION URGING THE APPROPRIATE HOUSE COMMITTEETO UNDERTAKE STUDY ON THE FEASIBILITY AND PRACTICABILITY OF ADOPTING LOCALLY THE AMERICAN JURY SYSTEM OF ADMINISTERING JUSTICE"
+scope = "National"
+dateFiled = "1989-06-05"
+status = "Pending with the Committee on JUSTICE since 1989-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1989-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171195
+congress = 8
+bill_no = "HR01327"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1989-06-08"

@@ -1,0 +1,42 @@
+billNumber = "HB03311"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03311"
+lastScraped = "2025-09-22T00:46:57.145676"
+title = "HB03311"
+longTitle = "AN ACT GRANTING AUTHORITY TO ELECTRIC COOPERATIVES TO SUPPLY ELECTRICITY ON A PER MUNICIPALITY COVERAGE SERVICE BASIS"
+scope = "National"
+dateFiled = "1987-10-30"
+status = "Pending with the Committee on ENERGY since 1987-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-11-10"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 137999
+congress = 8
+bill_no = "HB03311"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-11-10"

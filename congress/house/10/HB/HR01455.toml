@@ -1,0 +1,46 @@
+billNumber = "HR01455"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01455"
+lastScraped = "2025-09-22T00:20:59.702440"
+title = "HR01455"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON SCIENCE AND TECHNOLOGY AND HEALTH TO EXAMINE, IN AID OF LEGISLATION, THE USE OF SCIENTIFICALLY VALIDATED MEDICINAL PLANTS AS A MAJOR STRATEGY TO MAKE MEDICINES MORE AFFORDABLE TO THE PUBLIC, AS WELL AS THE POTENTIAL OF MEDICINAL PLANTS PROCESSED INTO DOSAGE FORMULATIONS (TABLETS, CAPSULES, ETC.) AS A MAJOR, VALUE-ADDED EXPORT PRODUCT, GIVEN THE EXPANDING WORLD MARKET FOR HERBAL MEDICINES"
+scope = "National"
+dateFiled = "1997-12-08"
+status = "Pending with the Committee on HEALTH since 1997-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-12-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 118509
+congress = 10
+bill_no = "HR01455"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-12-10"

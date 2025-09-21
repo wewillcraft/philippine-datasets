@@ -1,0 +1,47 @@
+billNumber = "HR01075"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01075"
+lastScraped = "2025-09-22T00:20:59.633703"
+title = "HR01075"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY, IN AID OF LEGISLATION, BY THE HOUSE COMMITTEE ON ENERGY ON THE REPORTED ECONOMIC DISADVANTAGES TO GOVERNMENT RESULTING FROM THE UNSOUND OPERATION AND MAINTENANCE OF THE GEOTHERMAL PLANTS OPERATED BY THE PHILIPPINENATIONAL OIL COMPANY-EXPLORA TION DEVELOPMENT CORPORATION, AS WELL AS THE BIDDING PROCESS AND AWARDING CONTRACTS FOR ACQUISITION OF EQUIPMENT, SUPPLIES AND SERVICES WITH THE END IN VIEW OF LOWERING THE CORPORATION'S TRANSFER COST OF STEAM THEREBY LOWERING THE COST OF ELECTRICITY GENERATED THEREFROM"
+scope = "National"
+dateFiled = "1997-02-05"
+status = "Pending with the Committee on RULES since 1997-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 118129
+congress = 10
+bill_no = "HR01075"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Feb. 11, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-10"

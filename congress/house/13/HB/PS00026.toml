@@ -1,0 +1,47 @@
+billNumber = "PS00026"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00026"
+lastScraped = "2025-09-22T00:13:49.476130"
+title = "PS00026"
+longTitle = "Recent Spate of Media Killings"
+scope = "National"
+dateFiled = "2004-08-17"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2004-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce Enrile, Juan Jr. C."
+[[authorsDetail]]
+name = "Ponce Enrile, Juan Jr. C."
+nameCode = "Enrile"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2004-08-31"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "secondary"
+referralCode = "0528"
+
+[firstReading]
+id = 82831
+congress = 13
+bill_no = "PS00026"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+date_read = "2004-08-31"

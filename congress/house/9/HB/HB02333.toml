@@ -1,0 +1,47 @@
+billNumber = "HB02333"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02333"
+lastScraped = "2025-09-22T00:25:55.007326"
+title = "HB02333"
+longTitle = "AN ACT ESTABLISHING A RATTAN AND BAMBOO SEEDLING FARM IN BARANGAY MALABOG, DISTRICT OF PAQUIBATO, DAVAO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120952
+congress = 9
+bill_no = "HB02333"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-09-18"

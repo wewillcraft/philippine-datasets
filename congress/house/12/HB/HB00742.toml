@@ -1,0 +1,50 @@
+billNumber = "HB00742"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00742"
+lastScraped = "2025-09-22T00:12:59.939697"
+title = "HB00742"
+longTitle = "AN ACT PROHIBITING THE SERVICE OF WARRANTS OF ARREST IN CERTAIN CASES AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
+scope = "National"
+dateFiled = "2001-07-06"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar, Cynthia A."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Villar, Cynthia A."
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 83902
+congress = 12
+bill_no = "HB00742"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

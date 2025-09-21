@@ -1,0 +1,41 @@
+billNumber = "HR01265"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01265"
+lastScraped = "2025-09-22T00:20:59.668034"
+title = "HR01265"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED HAZING AND/OR ATTEMPTED SUICIDE AT THE PHILIPPINE MILITARY ACADEMY, BAGUIO CITY"
+scope = "Local"
+dateFiled = "1997-06-26"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118319
+congress = 10
+bill_no = "HR01265"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-07-30"

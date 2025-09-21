@@ -1,0 +1,42 @@
+billNumber = "HB00870"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00870"
+lastScraped = "2025-09-22T00:46:56.715948"
+title = "HB00870"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF DUMANJUG, PROVINCE OF CEBU, TO BE KNOWN AS THE DUMANJUG DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on HEALTH since 1987-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abines"
+[[authorsDetail]]
+name = "Abines"
+nameCode = "Abines"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-01"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[firstReading]
+id = 135567
+congress = 8
+bill_no = "HB00870"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-01"

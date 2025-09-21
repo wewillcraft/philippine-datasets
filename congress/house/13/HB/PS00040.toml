@@ -1,0 +1,47 @@
+billNumber = "PS00040"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00040"
+lastScraped = "2025-09-22T00:13:49.478061"
+title = "PS00040"
+longTitle = "Protection of Consumers Against Lemon or Defective Vechicles"
+scope = "National"
+dateFiled = "2004-09-01"
+status = "Pending with the Committee on TRANSPORTATION since 2005-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Manuel 'Way Kurat' E."
+[[authorsDetail]]
+name = "Zamora, Manuel 'Way Kurat' E."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2005-03-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 82840
+congress = 13
+bill_no = "PS00040"
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+date_read = "2005-03-01"

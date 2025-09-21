@@ -1,0 +1,61 @@
+billNumber = "HB07583"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07583"
+lastScraped = "2025-09-22T00:20:58.765494"
+title = "HB07583"
+longTitle = "AN ACT ESTABLISHING NEW RATES OF BASE PAY FOR UNIFORMED MEMBERS OF THE DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-07-24"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEL MAR, RAUL V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114004
+congress = 10
+bill_no = "HB07583"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-07-29"

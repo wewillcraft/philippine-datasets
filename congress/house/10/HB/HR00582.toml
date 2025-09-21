@@ -1,0 +1,41 @@
+billNumber = "HR00582"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00582"
+lastScraped = "2025-09-22T00:20:59.532680"
+title = "HR00582"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, IN THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS (DECS) FOR ITS REDUCTION OF ALLOCATIONS FOR CLASSROOM CONSTRUCTION IN THE 1996 GENERAL APPROPRIATIONS ACT"
+scope = "National"
+dateFiled = "1996-04-23"
+status = "Pending with the Committee on RULES since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 117636
+congress = 10
+bill_no = "HR00582"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-04-30"

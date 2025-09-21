@@ -1,0 +1,79 @@
+billNumber = "HB06218"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06218"
+lastScraped = "2025-09-22T00:20:58.516135"
+title = "HB06218"
+longTitle = "AN ACT CONVERTING THE AGUSAN DEL NORTE PROVINCIAL HOSPITAL IN BUTUAN CITY INTO A REGIONAL HOSPITAL TO BE KNOWN AS CARAGA REGIONAL HOSPITAL AND TRAINING CENTER"
+scope = "Local"
+dateFiled = "1996-02-13"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+coAuthors = [ "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-02-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112639
+congress = 10
+bill_no = "HB06218"
+report = "00799"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1996-02-15"
+date_ob = "1997-02-25"
+date_report = "1997-02-24"
+
+[secondReading]
+id = 18313
+congress = 10
+bill_no = "HB06218"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2913
+congress = 10
+bill_no = "HB06218"
+date_dist = "1997-03-03"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"

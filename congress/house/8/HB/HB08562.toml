@@ -1,0 +1,42 @@
+billNumber = "HB08562"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08562"
+lastScraped = "2025-09-22T00:46:58.114462"
+title = "HB08562"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF CALONG-CALONG, MUNICIPALITY OF TOLEDO, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on HEALTH since 1988-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-04"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 143239
+congress = 8
+bill_no = "HB08562"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-04"

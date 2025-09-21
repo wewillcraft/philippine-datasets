@@ -1,0 +1,52 @@
+billNumber = "HB05120"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05120"
+lastScraped = "2025-09-22T00:13:48.858750"
+title = "HB05120"
+longTitle = "AN ACT ESTABLISHING A REFORESTATION PROGRAM COVERING TWO HUNDRED (200) HECTARES IN THE MUNICIPALITIES OF DOLORES, CANDELARIA, SARIAYA AND TIAONG , PROVINCE OF QUEZON, INCLUDING THE PROTECTED AREAS OF MTS. BANAHAW AND SAN CRISTOBAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2006-02-07"
+status = "Pending with the Committee on REFORESTATION since 2006-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05120.pdf"
+fileSize = 1137471
+author = "Alcala, Proceso J."
+[[authorsDetail]]
+name = "Alcala, Proceso J."
+nameCode = "Alcala"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2006-02-13"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 80210
+congress = 13
+bill_no = "HB05120"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-02-13"
+date_read = "2006-02-13"

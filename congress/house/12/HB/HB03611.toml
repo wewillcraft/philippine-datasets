@@ -1,0 +1,47 @@
+billNumber = "HB03611"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03611"
+lastScraped = "2025-09-22T00:13:00.454750"
+title = "HB03611"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL IDENTIFICATION (ID) SYSTEM TO CONSOLIDATE EXISTING ID SYSTEMS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-10-19"
+status = "Pending with the Committee on JUSTICE since 2001-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso, Eduardo K."
+[[authorsDetail]]
+name = "Veloso, Eduardo K."
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-10-25"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86771
+congress = 12
+bill_no = "HB03611"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-10-25"

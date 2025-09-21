@@ -1,0 +1,42 @@
+billNumber = "HB04095"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04095"
+lastScraped = "2025-09-22T00:46:57.276142"
+title = "HB04095"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF 25-BED CAPACITY MATAN-AO MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MATAN-AO PROVINCE OF DAYAO DEL SUR"
+scope = "Local"
+dateFiled = "1987-11-27"
+status = "Pending with the Committee on HEALTH since 1987-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-03"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 138781
+congress = 8
+bill_no = "HB04095"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-12-03"

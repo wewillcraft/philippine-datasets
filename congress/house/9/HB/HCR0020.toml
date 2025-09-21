@@ -1,0 +1,72 @@
+billNumber = "HCR0020"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HCR0020"
+lastScraped = "2025-09-22T00:25:57.347937"
+title = "HCR0020"
+longTitle = "CONCURRENT RESOLUTION GIVING CONSENT TO THE HONORABLE TOMAS R. PADILLA TO ACCEPT THE ORDER OF DIPLOMATIC SERVICE MERIT GWANGHUA MEDAL AWARDED TO HIM BY THE GOVERNMENT OF THE REPUBLIC OF KOREA"
+scope = "Local"
+dateFiled = "1993-03-23"
+status = "Approved by the House on , transmitted to on 1993-04-30 and received by the Senate on 1993-05-10"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "CUENCO, ANTONIO V.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-03-26"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 133259
+congress = 9
+bill_no = "HCR0020"
+comm_act = "Change of Referral from the Committee on Civil Service and Profession al Regulation s - 04/01/93 Jou"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-03-26"
+
+[secondReading]
+id = 20061
+congress = 9
+bill_no = "HCR0020"
+adopted_resolution = "CR00013"
+remarks = "Adopted by the House on April 1, 1993"
+date_approved = "1993-04-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2274
+congress = 9
+bill_no = "HCR0020"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-04-30"
+date_rec = "1993-05-10"
+amend_ind = "N"

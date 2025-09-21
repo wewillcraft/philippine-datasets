@@ -1,0 +1,68 @@
+billNumber = "HB09045"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09045"
+lastScraped = "2025-09-22T00:20:59.087749"
+title = "HB09045"
+longTitle = "AN ACT PROVIDING FOR A REHABILITATION PROGRAM FOR INMATES, PROBATIONERS AND PAROLEES AND APPROPRIATING THE AMOUNT OF TEN MILLION PESOS (P10,000,000.00 ) FOR THE PURPOSE"
+scope = "National"
+dateFiled = "1997-03-04"
+status = "Pending with the Committee on JUSTICE since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.", "RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115466
+congress = 10
+bill_no = "HB09045"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-03-06"

@@ -1,0 +1,54 @@
+billNumber = "HB10200"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10200"
+lastScraped = "2025-09-22T00:01:47.159313"
+title = "HB10200"
+longTitle = "AN ACT ESTABLISHING A HEALTH AND EDUCATION GRANT PROGRAM RELATED TO AUTISM SPECTRUM DISORDERS"
+scope = "National"
+dateFiled = "2021-09-13"
+status = "Pending with the Committee on HEALTH since 2021-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10200.pdf"
+fileSize = 322150
+author = "Vargas, Alfred D."
+coAuthors = [ "ZUBIRI, MANUEL ANTONIO F.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2021-09-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZUBIRI, MANUEL ANTONIO F."
+nameCode = "Zubiri"
+date = "2021-11-09"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-09-15"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 29604
+congress = 18
+bill_no = "HB10200"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-09-15"

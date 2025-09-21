@@ -1,0 +1,71 @@
+billNumber = "HR00595"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00595"
+lastScraped = "2025-09-22T00:47:02.642877"
+title = "HR00595"
+longTitle = "RESOLUTION REQUESTING THE NATIONAL DEFENSE AND SECURITY COMMITTEE OF CONGRESS TO INVESTIGATE AND STUDY THE PROBLEM OF PEACE AND ORDER AND INSURGENCY IN THE COUNTRY"
+scope = "Local"
+dateFiled = "1988-02-24"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+coAuthors = [ "PAYUMO, FELICITO C.", "WEBB, FREDDIE N.", "ROA, BENEDICTA B.", "VALDEZ, ESTANISLAO V.",]
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PAYUMO, FELICITO C."
+nameCode = "Payumo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VALDEZ, ESTANISLAO V."
+nameCode = "Valdez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-03-01"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 170481
+congress = 8
+bill_no = "HR00595"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-03-01"

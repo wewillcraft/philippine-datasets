@@ -1,0 +1,56 @@
+billNumber = "HB10007"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10007"
+lastScraped = "2025-09-22T00:20:59.287762"
+title = "HB10007"
+longTitle = "AN ACT REQUIRING ALL PUBLIC HEALTH CENTERS TO BE OPEN AT ALL TIMES TO PROVIDE CONTINUOUS HEALTH AND MEDICAL SERVICES TO THE PUBLIC"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on HEALTH since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "ADAMAT, RONALDO",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ADAMAT, RONALDO"
+nameCode = "Adamat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 116428
+congress = 10
+bill_no = "HB10007"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-10-02"

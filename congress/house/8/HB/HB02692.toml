@@ -1,0 +1,68 @@
+billNumber = "HB02692"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02692"
+lastScraped = "2025-09-22T00:46:57.038528"
+title = "HB02692"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO JULIA THOMSON AND JOSHUA CHARLES THOMSON"
+scope = "Local"
+dateFiled = "1987-10-13"
+status = "Approved by the House on 1988-09-06, transmitted to on 1988-09-07 and received by the Senate on 1988"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puyat-reyes"
+[[authorsDetail]]
+name = "Puyat-reyes"
+nameCode = "Puyat-reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-10-17"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[firstReading]
+id = 137381
+congress = 8
+bill_no = "HB02692"
+report = "00163"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-10-17"
+date_ob = "1988-05-24"
+date_cal = "1988-05-24"
+date_unass = "1988-05-24"
+date_report = "1988-05-10"
+
+[secondReading]
+id = 20482
+congress = 8
+bill_no = "HB02692"
+date_approved = "1988-08-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 262
+congress = 8
+bill_no = "HB02692"
+date_dist = "1988-09-01"
+date_adopt = "1988-09-06"
+no_yeas = 115
+no_nays = 8
+no_abstent = 7
+date_trans = "1988-09-07"
+date_rec = "1988-09-13"

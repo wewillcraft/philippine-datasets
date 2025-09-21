@@ -1,0 +1,42 @@
+billNumber = "HR01320"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01320"
+lastScraped = "2025-09-22T00:25:57.611537"
+title = "HR01320"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE BRUTAL MURDER OF UNIVERSITY OF THE PHILIPPINES STUDENT DENNIS VENTURINA"
+scope = "Local"
+dateFiled = "1994-12-13"
+status = "Pending with the Committee on RULES since 1994-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-12-15"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 134625
+congress = 9
+bill_no = "HR01320"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-12-15"

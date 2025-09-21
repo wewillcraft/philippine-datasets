@@ -1,0 +1,64 @@
+billNumber = "HB09126"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09126"
+lastScraped = "2025-09-22T00:20:59.107121"
+title = "HB09126"
+longTitle = "AN ACT RECLASSIFYING THE LANDS IN BARANGAY STA. IRENE, MUNICIPALITY OF PROSPERIDAD, AGUSAN DEL SUR, FROM FOREST LAND AND DESIGNATING THE SAME AS ITS BARANGAY SITE"
+scope = "Local"
+dateFiled = "1997-03-18"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-03-20"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 115547
+congress = 10
+bill_no = "HB09126"
+report = "01358"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "approval with amendments"
+date_read = "1997-03-20"
+date_ob = "1997-12-17"
+date_report = "1997-12-16"
+
+[secondReading]
+id = 18685
+congress = 10
+bill_no = "HB09126"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3265
+congress = 10
+bill_no = "HB09126"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

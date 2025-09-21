@@ -1,0 +1,41 @@
+billNumber = "HB07927"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07927"
+lastScraped = "2025-09-22T00:20:58.867429"
+title = "HB07927"
+longTitle = "AN ACT TO REGIONALIZE THE COLLECTION DISTRICTS OF THE BUREAU OF CUSTOMS"
+scope = "National"
+dateFiled = "1996-09-11"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 114348
+congress = 10
+bill_no = "HB07927"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-09-23"

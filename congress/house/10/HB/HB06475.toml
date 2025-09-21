@@ -1,0 +1,46 @@
+billNumber = "HB06475"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06475"
+lastScraped = "2025-09-22T00:20:58.564976"
+title = "HB06475"
+longTitle = "AN ACT DECLARING NEW BOHOL LAKE LOCATED AT MERANGERAN, QUEZON IN THE PROVINCE OF BUKIDNON, A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1996-03-05"
+status = "Pending with the Committee on TOURISM since 1996-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-03-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112896
+congress = 10
+bill_no = "HB06475"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-03-07"

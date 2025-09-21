@@ -1,0 +1,40 @@
+billNumber = "HR00927"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00927"
+lastScraped = "2025-09-22T00:23:18.119402"
+title = "HR00927"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON GOVERNMENT ENTERPRISES AND PRIVATIZATION AND GOOD GOVERNMENT TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE UNDUE CONCENTRATION OF INVESTMENTS IN PRIVATE ENTERPRISES BY THE GOVERNMENT SERVICE INSURANCE SYSTEM (GSIS) AND THE SOCIAL SECURITY SYSTEM (SSS)"
+scope = "National"
+dateFiled = "1999-05-17"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1999-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1999-05-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 105383
+congress = 11
+bill_no = "HR00927"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "1999-05-20"

@@ -1,0 +1,50 @@
+billNumber = "HB05770"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05770"
+lastScraped = "2025-09-22T00:46:57.560336"
+title = "HB05770"
+longTitle = "AN ACT AMENDING SECTIONS 3 AND 21 OF REPUBLIC ACTNO. 3720, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1988-02-26"
+status = "Pending with the Committee on HEALTH since 1988-03-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 140451
+congress = 8
+bill_no = "HB05770"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-02"

@@ -1,0 +1,49 @@
+billNumber = "HB01966"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01966"
+lastScraped = "2025-09-22T00:20:57.716394"
+title = "HB01966"
+longTitle = "AN ACT EXPANDING THE JURISDICTION OF METROPOLITAN TRIAL COURTS, MUNICIPAL TRIAL COURTS AND MUNICIPAL CIRCUIT TRIAL COURTS, AMENDING FOR THE PURPOSE THE 'JUDICIARY REORGANIZATION ACT OF 1980'"
+scope = "National"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on JUSTICE since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 108387
+congress = 10
+bill_no = "HB01966"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-14"

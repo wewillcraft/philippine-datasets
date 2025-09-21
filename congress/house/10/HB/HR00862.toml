@@ -1,0 +1,47 @@
+billNumber = "HR00862"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00862"
+lastScraped = "2025-09-22T00:20:59.587501"
+title = "HR00862"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND THE SPECIAL COMMITTEE ON FOOD SECURITY TO INVESTIGATE FARMERS' COMPLAINTS ABOUT THE SEVERE DROP IN PALAY FARMGATE PRICES,ALLEGEDL Y CAUSED BY THE NATIONAL FOOD AUTHORITY'S EXCESSIVE AND UNTIMELYIMPORTATIONS OF RICE DURING CROP YEAR 1995-96"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on RULES since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 117916
+congress = 10
+bill_no = "HR00862"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agricultur e and Food and to the Special"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-26"

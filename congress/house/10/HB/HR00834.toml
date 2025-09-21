@@ -1,0 +1,72 @@
+billNumber = "HR00834"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00834"
+lastScraped = "2025-09-22T00:20:59.582369"
+title = "HR00834"
+longTitle = "RESOLUTION COMMENDING EIGHT-YEAR OLD RHONA MAHILUM OF DIVINA COLONIA, SAGAY, NEGROS OCCIDENTAL, FOR HER EXTRAORDINARY ACT OF HEROISM AND COURAGE"
+scope = "Local"
+dateFiled = "1996-09-05"
+status = "Adopted as Resolution No. HR00078 on 1996-10-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "CALALAY, REYNALDO A.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-10"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 117888
+congress = 10
+bill_no = "HR00834"
+report = "00607"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption without amendments ."
+date_read = "1996-09-10"
+date_ob = "1996-10-01"
+date_report = "1996-09-23"
+
+[secondReading]
+id = 18997
+congress = 10
+bill_no = "HR00834"
+adopted_resolution = "HR00078"
+date_calendared = "1996-10-03"
+date_approved = "1996-10-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00078.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00078.pdf"

@@ -1,0 +1,46 @@
+billNumber = "HB08987"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08987"
+lastScraped = "2025-09-22T00:20:59.076423"
+title = "HB08987"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT, CONSTRUCTION AND MAINTENANCE OF A PUBLIC MARKET IN THE MUNICIPALITY OF BADOC, PROVINCE OF ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-02-21"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-02-26"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115408
+congress = 10
+bill_no = "HB08987"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-02-26"

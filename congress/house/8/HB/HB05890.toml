@@ -1,0 +1,42 @@
+billNumber = "HB05890"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05890"
+lastScraped = "2025-09-22T00:46:57.662758"
+title = "HB05890"
+longTitle = "AN ACT RELOCATING THE SITES OF CAMP GENERAL EMILIO AGUINALDO AND CAMP CRAME BOTH IN QUEZON CITY, AND FORT BONIFACIO IN MAKATI TO LAGUNA"
+scope = "Local"
+dateFiled = "1988-03-02"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mendiola"
+[[authorsDetail]]
+name = "Mendiola"
+nameCode = "Mendiola"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 140571
+congress = 8
+bill_no = "HB05890"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-03-07"

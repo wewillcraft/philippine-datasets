@@ -1,0 +1,42 @@
+billNumber = "HB11446"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11446"
+lastScraped = "2025-09-22T00:25:56.686727"
+title = "HB11446"
+longTitle = "AN ACT REPEALING PRESIDENTIAL DECREE NO. 1853 AND FOR OTHER PURPOSES (Declares that the posting of deposit of duties at the time of opening letters of credit is no longer required)"
+scope = "National"
+dateFiled = "1993-12-07"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 130061
+congress = 9
+bill_no = "HB11446"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-12-09"

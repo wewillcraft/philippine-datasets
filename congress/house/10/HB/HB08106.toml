@@ -1,0 +1,46 @@
+billNumber = "HB08106"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08106"
+lastScraped = "2025-09-22T00:20:58.900239"
+title = "HB08106"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF A BARANGAY HEALTH STATION IN BARANGAY DALLIGAN, MUNICIPALITY OF KIANGAN, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-08"
+status = "Pending with the Committee on HEALTH since 1996-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114527
+congress = 10
+bill_no = "HB08106"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-10-10"

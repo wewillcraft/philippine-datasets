@@ -1,0 +1,47 @@
+billNumber = "HR01090"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01090"
+lastScraped = "2025-09-21T23:55:22.790361"
+title = "HR01090"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON HEALTH, COMMITTEE\r\nON TRADE AND INDUSTRY, AND OTHER APPROPRIATE\r\nHOUSE COMMITTEES TO LOOK INTO AND INVESTIGATE THE\r\nPROLIFERATION OF THE ONLINE SALE OF UNREGISTERED\r\nPRODUCTS SUCH AS COSMETICS AND FOOD SUPPLEMENTS"
+scope = "National"
+dateFiled = "2023-06-19"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2023-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01090.pdf"
+fileSize = 230015
+author = "BIRON, FERJENEL G., MD"
+[[authorsDetail]]
+name = "BIRON, FERJENEL G., MD"
+nameCode = "Biron"
+date = "2023-06-19"
+sequence = 1
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2023-07-25"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 17634
+congress = 19
+bill_no = "HR01090"
+report = ""
+comm_act = ""
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-08-01"
+date_read = "2023-07-25"

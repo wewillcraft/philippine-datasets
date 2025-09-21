@@ -1,0 +1,69 @@
+billNumber = "HR01723"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01723"
+lastScraped = "2025-09-21T23:55:22.916094"
+title = "HR01723"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN\r\nINQUIRY, IN AID OF LEGISLATION, ON THE STATUS OF IMPLEMENTATION OF REPUBLIC ACT NO. 11697 OR THE “ELECTRIC VEHICLE INDUSTRY DEVELOPMENT ACT”"
+scope = "National"
+dateFiled = "2024-05-15"
+status = "Pending with the Committee on ENERGY since 2024-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01723.pdf"
+fileSize = 738897
+author = "REVILLA, BRYAN B."
+[[authorsDetail]]
+name = "REVILLA, BRYAN B."
+nameCode = "Revilla (B.)"
+date = "2024-05-15"
+sequence = 1
+
+[[authorsDetail]]
+name = "MERCADO-REVILLA, LANI"
+nameCode = "Mercado-Revilla"
+date = "2024-05-15"
+sequence = 2
+
+[[authorsDetail]]
+name = "REVILLA, RAMON JOLO III B."
+nameCode = "Revilla (R.J.)"
+date = "2024-05-15"
+sequence = 3
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2024-05-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "secondary"
+referralCode = "E509"
+
+[firstReading]
+id = 18268
+congress = 19
+bill_no = "HR01723"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2024-07-30"
+date_read = "2024-05-20"

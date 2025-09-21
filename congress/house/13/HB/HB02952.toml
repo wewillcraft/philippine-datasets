@@ -1,0 +1,69 @@
+billNumber = "HB02952"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02952"
+lastScraped = "2025-09-22T00:13:48.373061"
+title = "HB02952"
+longTitle = "AN ACT REQUIRING THE PHILIPPINE PORT AUTHORITY TO SHARE THE TEN PERCENT (10%) OF ITS INCOME TO THE LOCAL GOVERNMENT UNITS WHERE THEY ARE OPERATING"
+scope = "National"
+dateFiled = "2004-09-20"
+status = "Pending with the Committee on APPROPRIATIONS since 2004-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02952.pdf"
+fileSize = 1215709
+author = "Carmona, Tranquilino B."
+coAuthors = [ "NIEVA, ERNESTO A.", "VILLAROSA, AMELITA C.", "GONZALEZ, RAUL JR. T.",]
+[[authorsDetail]]
+name = "Carmona, Tranquilino B."
+nameCode = "Carmona"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIEVA, ERNESTO A."
+nameCode = "Nieva"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, AMELITA C."
+nameCode = "Villarosa"
+date = ""
+journalNo = "J028"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, RAUL JR. T."
+nameCode = "Gonzalez"
+date = ""
+journalNo = "J033"
+sessionNo = "1RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2004-10-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 78042
+congress = 13
+bill_no = "HB02952"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-10-25"
+date_read = "2004-10-25"

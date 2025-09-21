@@ -1,0 +1,113 @@
+billNumber = "HB05666"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05666"
+lastScraped = "2025-09-22T00:20:58.418458"
+title = "HB05666"
+longTitle = "AN ACT PROHIBITING THE MANUFACTURE, SALE, OFFERING FOR SALE, DONATION, DISTRIBUTION, BROKERING, TRAFFICKING, EXPORTATION OR IMPORTATION OF COUNTERFEIT DRUGS, AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1996-01-04"
+status = "REPUBLIC ACT (RA08203) enacted on 1996-09-04"
+statusOrder = 33.0
+urgent = true
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "VERCELES, LEANDRO JR. B.", "TY, MARIO S.", "ESPINA, GERARDO S.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TY, MARIO S."
+nameCode = "Ty"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HB00324"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB02770"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00324"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02770"
+flag = "S"
+
+[firstReading]
+id = 112087
+congress = 10
+bill_no = "HB05666"
+report = "00130"
+referral = "0532"
+ref_name = "RULES"
+recomm = "APPROVAL IN SUBSTITUTI ON OF HB00324 AND HB02770"
+date_read = "1996-01-22"
+date_ob = "1996-01-22"
+date_unass = "1996-01-23"
+date_report = "1995-01-04"
+
+[secondReading]
+id = 18245
+congress = 10
+bill_no = "HB05666"
+date_calendared = "1996-05-21"
+date_approved = "1996-05-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2849
+congress = 10
+bill_no = "HB05666"
+date_dist = "1996-05-30"
+date_adopt = "1996-06-04"
+remarks = "House elected Cong. Ty as head of the Bicameral Conference Committee on July 31, 1996"
+no_yeas = 171
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-04"
+date_rec = "1996-06-06"
+date_rqcc = "1996-06-03"
+date_agrcc = "1996-06-05"
+ccreqby = "S"
+act_pres = "A"
+dte_hsagcc = "1996-08-22"
+dte_snagcc = "1996-08-27"
+dte_actedp = "1996-09-04"

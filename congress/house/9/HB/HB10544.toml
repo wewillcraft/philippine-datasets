@@ -1,0 +1,47 @@
+billNumber = "HB10544"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10544"
+lastScraped = "2025-09-22T00:25:56.508449"
+title = "HB10544"
+longTitle = "AN ACT DECLARING THE PAADJAO FALLS IN BARANGAY BOCBOC, MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE, AS A TOURIST SPOT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-08-26"
+status = "Pending with the Committee on TOURISM since 1993-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-09-01"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129162
+congress = 9
+bill_no = "HB10544"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-09-01"

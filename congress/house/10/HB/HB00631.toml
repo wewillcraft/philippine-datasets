@@ -1,0 +1,70 @@
+billNumber = "HB00631"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00631"
+lastScraped = "2025-09-22T00:20:57.483976"
+title = "HB00631"
+longTitle = "AN ACT MAKING MANDATORY THE EMPLOYMENT OF WOMEN AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-11"
+status = "Pending with the Committee on WOMEN since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "LUCIANO, LEONOR INES", "AVILA, EDGAR M.", "VILLAREAL, JULITA L.", "PALMA GIL, MA. ELENA T.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 107052
+congress = 10
+bill_no = "HB00631"
+referral = "A504"
+ref_name = "WOMEN"
+date_read = "1995-07-27"

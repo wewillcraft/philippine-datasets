@@ -1,0 +1,65 @@
+billNumber = "HB00395"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00395"
+lastScraped = "2025-09-22T00:20:57.447184"
+title = "HB00395"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HEALTH CENTER IN LUMBA-BAYABAO, LANAO DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-06"
+status = "Pending with the Committee on HEALTH since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 106816
+congress = 10
+bill_no = "HB00395"
+comm_act = "joint ref'ls with Cttes. on Ecology and Foreign Affairs as per J. 11; p. 34; ug. 13, 1996"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-26"

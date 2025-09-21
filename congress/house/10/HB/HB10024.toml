@@ -1,0 +1,53 @@
+billNumber = "HB10024"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10024"
+lastScraped = "2025-09-22T00:20:59.290837"
+title = "HB10024"
+longTitle = "AN ACT CREATING TWO (2) ADDITIONAL MUNICIPAL TRIAL COURT BRANCHES AND TWO (2) REGIONAL TRIAL COURT BRANCHES IN THE MUNICIPALITY OF TAGUIG, METRO MANILA, FOR THE PURPOSE AMENDING BATAS PAMBANSA BLG. ONE HUNDRED AND TWENTY-NINE, OTHERWISE KNOWN AS THE'JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-09-30"
+status = "Pending with the Committee on JUSTICE since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116445
+congress = 10
+bill_no = "HB10024"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-10-06"
+
+[secondReading]
+id = 18778
+congress = 10
+bill_no = "HB10024"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

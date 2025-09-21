@@ -1,0 +1,57 @@
+billNumber = "HB01041"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01041"
+lastScraped = "2025-09-22T00:25:54.783034"
+title = "HB01041"
+longTitle = "AN ACT TO BE KNOWN AS THE MARITIME LIEN AND SHIPMORTGAGE ACT OF 1992"
+scope = "National"
+dateFiled = "1992-08-14"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+coAuthors = [ "GOLEZ, ROILO", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 119660
+congress = 9
+bill_no = "HB01041"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-08-20"

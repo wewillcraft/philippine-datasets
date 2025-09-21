@@ -1,0 +1,46 @@
+billNumber = "HB05530"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05530"
+lastScraped = "2025-09-22T00:20:58.395204"
+title = "HB05530"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE VISTA ALEGRE ELEMENTARY SCHOOL, BARANGAY VISTA ALEGRE, MUNICIPALITY OF BAROTAC VIEJO, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-12-13"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-12-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-12-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111951
+congress = 10
+bill_no = "HB05530"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-12-19"

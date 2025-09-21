@@ -1,0 +1,55 @@
+billNumber = "HB00087"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00087"
+lastScraped = "2025-09-22T00:25:54.607971"
+title = "HB00087"
+longTitle = "AN ACT CONVERTING THE QUEZON MEDICARE HOSPITAL INTO A 25-BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF QUEZON, PROVINCE OF PALAWAN, TO BE KNOWN AS THE VICTOR PAGAYONA DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-13"
+status = "Pending with the Committee on HEALTH since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118706
+congress = 9
+bill_no = "HB00087"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-07-28"

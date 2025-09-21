@@ -1,0 +1,73 @@
+billNumber = "HR00498"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00498"
+lastScraped = "2025-09-22T00:13:01.250139"
+title = "Projected Water Rate Increases of Maynilad Water Services, Inc. and Manila Water Company, Inc."
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LEGISLATIVE FRANCHISES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROJECTED WATER RATE INCREASES OF MAYNILAD WATER SERVICES, INC. AND MANILA WATER COMPANY, INC."
+scope = "Local"
+dateFiled = "2002-04-05"
+status = "Adopted Resolution (Pending with the committee on PUBLIC WORKS AND HIGHWAYS since 2002-05-23)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+coAuthors = [ "NICOLAS, REYLINA \"NENENG\" G.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NICOLAS, REYLINA \"NENENG\" G."
+nameCode = "Nicolas"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-03-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00500"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00500"
+flag = "S"
+
+[firstReading]
+id = 90435
+congress = 12
+bill_no = "HR00498"
+report = "00501"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments , in consolidat ion with House Resolution No. 500."
+date_read = "2002-03-16"
+date_report = "2002-05-23"
+
+[secondReading]
+id = 15157
+congress = 12
+bill_no = "HR00498"
+adopted_resolution = "HR00255"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS AND THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROJECTED WATER RATE INCREASES OF MAYNILAD WATER SERVICES, INC. AND MANILA WATER COMPANY, INC."
+date_calendared = "2002-05-23"
+date_approved = "2002-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-05-23"

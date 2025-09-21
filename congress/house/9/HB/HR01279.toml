@@ -1,0 +1,42 @@
+billNumber = "HR01279"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01279"
+lastScraped = "2025-09-22T00:25:57.604396"
+title = "HR01279"
+longTitle = "RESOLUTION URGING THE MOUNT PINATUBO COMMISSION TO ESTABLISH RESETTLEMENT AREAS IN LUBAO, PAMPANGA"
+scope = "Local"
+dateFiled = "1994-10-27"
+status = "Pending with the Committee on REHABILITATION OF MT. PINATUBO DEVASTATED since 1994-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lingad"
+[[authorsDetail]]
+name = "Lingad"
+nameCode = "Lingad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REHABILITATION OF MT. PINATUBO DEVASTATED"
+type = "primary"
+referralCode = "A503"
+dateRead = "1994-11-08"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 134585
+congress = 9
+bill_no = "HR01279"
+referral = "A503"
+ref_name = "REHABILITATION OF MT. PINATUBO DEVASTATED"
+sub_name = ""
+date_read = "1994-11-08"

@@ -1,0 +1,75 @@
+billNumber = "HB05889"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05889"
+lastScraped = "2025-09-22T00:13:00.931083"
+title = "Creating Barangay Palasipas in Alilem, Ilocos Sur"
+longTitle = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY PALASIPAS IN THE MUNICIPALITY OF ALILEM, PROVINCE OF ILOCOS SUR"
+scope = "Local"
+dateFiled = "2003-03-26"
+status = "Approved by the House on 2003-05-26, transmitted to on 2003-06-02 and received by the Senate on 2003-06-03"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-04-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HB01964"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01964"
+flag = "S"
+
+[firstReading]
+id = 89043
+congress = 12
+bill_no = "HB05889"
+report = "01367"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+date_read = "2003-04-23"
+date_ob = "2003-04-23"
+date_report = "2003-03-26"
+
+[secondReading]
+id = 14825
+congress = 12
+bill_no = "HB05889"
+remarks = "The Body approved to insert the Explanatory Note of the Bill as the   sponsorship remarks; terminated the period of sponsorship and debate  and approved any amendments as contained in the Committee Report."
+date_approved = "2003-05-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5336
+congress = 12
+bill_no = "HB05889"
+date_dist = "2003-05-13"
+date_adopt = "2003-05-26"
+no_yeas = 148
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-06-02"
+date_rec = "2003-06-03"

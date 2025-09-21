@@ -1,0 +1,46 @@
+billNumber = "HR00700"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00700"
+lastScraped = "2025-09-22T00:01:47.468345"
+title = "HR00700"
+longTitle = "A RESOLUTION TO URGENTLY CONSTITUTE THE LEGISLATIVE OVERSIGHT COMMITTEE TO MONITOR AND OVERSEE THE IMPLEMENTATION OF THE VISITING FORCES AGREEMENT WITH THE UNITED STATES OF AMERICA"
+scope = "National"
+dateFiled = "2020-02-05"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2020-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00700.pdf"
+fileSize = 913977
+author = "Pimentel, Johnny Ty"
+[[authorsDetail]]
+name = "Pimentel, Johnny Ty"
+nameCode = "Pimentel"
+date = "2020-02-05"
+sequence = 1
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2020-02-10"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 31019
+congress = 18
+bill_no = "HR00700"
+report = ""
+comm_act = ""
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-02-10"

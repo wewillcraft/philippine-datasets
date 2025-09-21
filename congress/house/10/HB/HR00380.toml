@@ -1,0 +1,42 @@
+billNumber = "HR00380"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00380"
+lastScraped = "2025-09-22T00:20:59.493698"
+title = "HR00380"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO INVESTIGATE THE RECENT SEA ACCIDENT INVOLVING MV KIMELODY CRISTY TO DETERMINE THE CAUSE OF THE DISASTER"
+scope = "National"
+dateFiled = "1995-12-19"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-12-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-12-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117434
+congress = 10
+bill_no = "HR00380"
+comm_act = "Change 0f Referral from the Ctte. on Rules to the Ctte. on Transporta tion and Communicat ions on De"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-12-21"

@@ -1,0 +1,41 @@
+billNumber = "HR01382"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01382"
+lastScraped = "2025-09-22T00:20:59.690417"
+title = "HR01382"
+longTitle = "RESOLUTION TO DECLARE LAWYER ROBERT SWIFT PERSONA NON GRATA AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-10-02"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-10-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118436
+congress = 10
+bill_no = "HR01382"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-10-07"

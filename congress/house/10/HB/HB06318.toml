@@ -1,0 +1,54 @@
+billNumber = "HB06318"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06318"
+lastScraped = "2025-09-22T00:20:58.537084"
+title = "HB06318"
+longTitle = "AN ACT CREATING THE PHILIPPINE EXCLUSIVE ECONOMIC ZONE COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-02-21"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acuña"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Acuña"
+nameCode = "Acuña"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-02-26"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112739
+congress = 10
+bill_no = "HB06318"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-02-26"

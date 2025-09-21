@@ -1,0 +1,65 @@
+billNumber = "HR00042"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00042"
+lastScraped = "2025-09-22T00:01:47.345440"
+title = "HR00042"
+longTitle = "RESOLUTION OPPOSING RENEWED INITIATIVES TO LOWER THE MINIMUM AGE OF CRIMINAL RESPONSIBILITY AND URGING THE HOUSE COMMITTEE ON JUSTICE AND COMMITTEE ON APPROPRIATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION ON THE IMPLEMENTATION OF REPUBLIC ACT 10630 OR AN ACT ESTABLISHING A COMPREHENSIVE JUVENILE JUSTICE AND WELFARE SYSTEM"
+scope = "National"
+dateFiled = "2019-07-09"
+status = "Pending with the Committee on JUSTICE since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00042.pdf"
+fileSize = 712519
+author = "Brosas, Arlene D."
+[[authorsDetail]]
+name = "Brosas, Arlene D."
+nameCode = "Brosas"
+date = "2019-07-09"
+sequence = 1
+
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2019-07-09"
+sequence = 2
+
+[[authorsDetail]]
+name = "Castro, France L."
+nameCode = "Castro (F.L.)"
+date = "2019-07-09"
+sequence = 3
+
+[[authorsDetail]]
+name = "ELAGO, SARAH JANE I."
+nameCode = "Elago"
+date = "2019-07-09"
+sequence = 4
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30371
+congress = 18
+bill_no = "HR00042"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-24"

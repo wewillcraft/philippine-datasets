@@ -1,0 +1,48 @@
+billNumber = "HR00218"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00218"
+lastScraped = "2025-09-22T00:13:01.185540"
+title = "HR00218"
+longTitle = "RESOLUTION STRONGLY URGING THE IMMEDIATE TRANSFER OF THE OIL DEPOT IN PANDACAN, MANILA TO A MORE APPROPRIATE LOCATION AS A PRECAUTIONARY MEASURE CONSISTENT WITH ENVIRONMENTAL PRESERVATION AND PUBLIC SAFETY"
+scope = "Local"
+dateFiled = "2001-09-25"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bacani, Rodolfo C."
+[[authorsDetail]]
+name = "Bacani, Rodolfo C."
+nameCode = "Bacani"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-10-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 90157
+congress = 12
+bill_no = "HR00218"
+comm_act = "jt ref'l as per J. 37; p.19"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-10-01"

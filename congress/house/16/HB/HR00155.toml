@@ -1,0 +1,47 @@
+billNumber = "HR00155"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00155"
+lastScraped = "2025-09-21T23:56:22.825156"
+title = "HR00155"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED DYING CONDITION OF MANILA BAY DUE TO POLLUTANTS COMING FROM BOTH LAND AND SEA AND TO RECOMMEND REMEDIAL MEASURES IN THE REHABILITATION OF MANILA BAY"
+scope = "National"
+dateFiled = "2013-08-05"
+status = "Pending with the Committee on ECOLOGY since 2013-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00155.pdf"
+fileSize = 208202
+author = "Bagatsing, Amado S."
+[[authorsDetail]]
+name = "Bagatsing, Amado S."
+nameCode = "Bagatsing"
+date = "2013-08-05"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2013-08-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52554
+congress = 16
+bill_no = "HR00155"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-19"
+date_read = "2013-08-12"

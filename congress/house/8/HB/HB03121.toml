@@ -1,0 +1,50 @@
+billNumber = "HB03121"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03121"
+lastScraped = "2025-09-22T00:46:57.110850"
+title = "HB03121"
+longTitle = "AN ACT NULLIFYING TAX EXEMPTIONS GRANTED TO THE NATIONAL POWER CORPORATION AND OTHER PURPOSES"
+scope = "National"
+dateFiled = "1987-10-21"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Teves"
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-11-09"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 137810
+congress = 8
+bill_no = "HB03121"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-11-09"

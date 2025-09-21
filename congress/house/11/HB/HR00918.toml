@@ -1,0 +1,46 @@
+billNumber = "HR00918"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00918"
+lastScraped = "2025-09-22T00:23:18.116606"
+title = "HR00918"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEES ON ENERGY AND MINDANAO AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGATION OF THE NAPOCOR EMPLOYEES' CONSOLIDATED UNION (NECU) AND THE NAPOCOR WORKERS' UNION, ANENT THE OPERATIONS OF THE MT. APO GEOTHERMAL POWER PLANT II"
+scope = "Local"
+dateFiled = "1999-05-14"
+status = "Pending with the Committee on ENERGY since 1999-05-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1999-05-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[firstReading]
+id = 105374
+congress = 11
+bill_no = "HR00918"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1999-05-19"

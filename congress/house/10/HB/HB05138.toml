@@ -1,0 +1,46 @@
+billNumber = "HB05138"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05138"
+lastScraped = "2025-09-22T00:20:58.320159"
+title = "HB05138"
+longTitle = "AN ACT ESTABLISHING A YOUTH COUNSELLING OFFICE IN BARANGAY MANUYO II, LAS PINAS, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-20"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1995-11-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1995-11-22"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111559
+congress = 10
+bill_no = "HB05138"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+date_read = "1995-11-22"

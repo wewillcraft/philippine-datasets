@@ -1,0 +1,46 @@
+billNumber = "HB02021"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02021"
+lastScraped = "2025-09-21T23:39:48.705389"
+title = "HB02021"
+longTitle = "AN ACT ESTABLISHING A CENTER FOR AUTISM IN EVERY PROVINCE OF THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-16"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02021.pdf"
+fileSize = 6487511
+author = "ADIONG, ZIAUR-RAHMAN \"ZIA\" ALONTO"
+[[authorsDetail]]
+name = "ADIONG, ZIAUR-RAHMAN \"ZIA\" ALONTO"
+nameCode = "Adiong"
+date = "2025-07-16"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 2022
+congress = 103
+bill_no = "HB02021"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

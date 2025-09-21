@@ -1,0 +1,69 @@
+billNumber = "HB01307"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01307"
+lastScraped = "2025-09-22T00:13:00.039702"
+title = "HB01307"
+longTitle = "AN ACT GRANTING FREE MEDICAL AND HOSPITALIZATION BENEFITS TO INDIGENT FILIPINO WOMEN SUFFERING FROM WOMEN'S DISEASES, ILLNESSES AND INJURIES DUE TO VIOLENCE INFLICTED ON WOMEN, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on HEALTH since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castelo-Daza, Nanette"
+coAuthors = [ "ESPINA, GERARDO S.", "CUENCO, ANTONIO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Castelo-Daza, Nanette"
+nameCode = "Castelo-daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J039"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J017"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84467
+congress = 12
+bill_no = "HB01307"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-30"

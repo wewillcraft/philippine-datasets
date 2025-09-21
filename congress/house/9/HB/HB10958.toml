@@ -1,0 +1,48 @@
+billNumber = "HB10958"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10958"
+lastScraped = "2025-09-22T00:25:56.587363"
+title = "HB10958"
+longTitle = "AN ACT CREATING THE BANANA EXPORT INDUSTRY BOARD, DEFINING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-09-30"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-10-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 129575
+congress = 9
+bill_no = "HB10958"
+comm_act = "change of ctte. ref'l from Government Reorganiz ation ; floor, 2rs-28; 10-04-93"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-10-04"

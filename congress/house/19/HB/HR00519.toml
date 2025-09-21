@@ -1,0 +1,47 @@
+billNumber = "HR00519"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00519"
+lastScraped = "2025-09-21T23:55:22.642733"
+title = "HR00519"
+longTitle = "A RESOLUTION URGING THE HOUSE COIVIIVIITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROJECTED DEPLETION OF PHILHEALTH ACTUARIAL FUNDS BY 2027"
+scope = "National"
+dateFiled = "2022-11-08"
+status = "Pending with the Committee on HEALTH since 2022-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00519.pdf"
+fileSize = 997514
+author = "Reyes, Ray T."
+[[authorsDetail]]
+name = "Reyes, Ray T."
+nameCode = "Reyes"
+date = "2022-11-08"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 17063
+congress = 19
+bill_no = "HR00519"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-11-16"
+date_read = "2022-11-09"

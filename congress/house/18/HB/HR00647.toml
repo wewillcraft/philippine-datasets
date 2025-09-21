@@ -1,0 +1,47 @@
+billNumber = "HR00647"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00647"
+lastScraped = "2025-09-22T00:01:47.455345"
+title = "HR00647"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED LOPSIDED CONCESSION AGREEMENT ENTERED BY THE GOVERNMENT WITH THE AYALA-PANGILINAN CONSORTIUM LIGHT RAIL MANAGEMENT CORPORATION (LRMC)"
+scope = "National"
+dateFiled = "2020-01-20"
+status = "Pending with the Committee on TRANSPORTATION since 2020-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00647.pdf"
+fileSize = 765637
+author = "YAP, ERIC GO"
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (E.)"
+date = "2020-01-20"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2020-01-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30966
+congress = 18
+bill_no = "HR00647"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-02-18"
+date_read = "2020-01-20"

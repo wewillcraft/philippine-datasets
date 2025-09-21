@@ -1,0 +1,54 @@
+billNumber = "HB04463"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04463"
+lastScraped = "2025-09-22T00:20:58.205720"
+title = "HB04463"
+longTitle = "AN ACT REQUIRING SECONDARY AND COLLEGIATE EDUCATIONAL INSTITUTIONS WITH MINIMUM POPULATION OF FIVE THOUSAND STUDENTS TO ESTABLISH AND MAINTAIN STUDENT DORMITORIES"
+scope = "National"
+dateFiled = "1995-10-17"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Durano"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Durano"
+nameCode = "Durano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110884
+congress = 10
+bill_no = "HB04463"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-25"

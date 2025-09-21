@@ -1,0 +1,68 @@
+billNumber = "HR01933"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01933"
+lastScraped = "2025-09-21T23:56:23.154960"
+title = "HR01933"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE STATE OF IMPLEMENTATION OF AGRARIAN REFORM LAWS IN THE PROVINCE OF BATAAN"
+scope = "National"
+dateFiled = "2015-02-23"
+status = "Pending with the Committee on RULES since 2015-03-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR01933.pdf"
+fileSize = 314875
+author = "Bello, Walden F."
+coAuthors = [ "KATOH, ANGELINA LUDOVICE", "ROMAN, HERMINIA BATISTA", "GUTIERREZ, IBARRA III M.",]
+[[authorsDetail]]
+name = "Bello, Walden F."
+nameCode = "Bello (W.)"
+date = "2015-02-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "KATOH, ANGELINA LUDOVICE"
+nameCode = "Katoh"
+date = "2015-07-28"
+journalNo = "J002"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "ROMAN, HERMINIA BATISTA"
+nameCode = "Roman"
+date = "2016-02-03"
+journalNo = "J051"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "GUTIERREZ, IBARRA III M."
+nameCode = "Gutierrez"
+date = "2015-02-23"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2015-03-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 54330
+congress = 16
+bill_no = "HR01933"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-03-02"

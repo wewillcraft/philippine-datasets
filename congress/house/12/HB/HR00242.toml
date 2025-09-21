@@ -1,0 +1,42 @@
+billNumber = "HR00242"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00242"
+lastScraped = "2025-09-22T00:13:01.191452"
+title = "HR00242"
+longTitle = "RESOLUTION BANNING THE USE OF BIOTECHNOLOGY (BT) IN THE PRODUCTION OF CORN AND OTHER AGRICULTURAL PRODUCE IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2001-10-08"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 90181
+congress = 12
+bill_no = "HR00242"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-10-15"

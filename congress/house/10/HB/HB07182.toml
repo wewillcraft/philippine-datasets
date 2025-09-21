@@ -1,0 +1,46 @@
+billNumber = "HB07182"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07182"
+lastScraped = "2025-09-22T00:20:58.694928"
+title = "HB07182"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DISTRICT HOSPITAL IN THE MUNICIPALITY OF T'BOLI, PROVINCE OF SOUTH COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-29"
+status = "Pending with the Committee on HEALTH since 1996-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avance-Fuentes, Daisy"
+[[authorsDetail]]
+name = "Avance-Fuentes, Daisy"
+nameCode = "Fuentes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113603
+congress = 10
+bill_no = "HB07182"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-06-03"

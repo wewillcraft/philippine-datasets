@@ -1,0 +1,76 @@
+billNumber = "HB05513"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05513"
+lastScraped = "2025-09-22T00:20:58.392034"
+title = "HB05513"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 6060, CREATING THE SOUTHWESTERN PHILIPPINES POLYTECHNIC UNIVERSITY, DEFINING ITS FUNCTIONS AND OBJECTIVES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-12-12"
+status = "Approved by the House on 1997-02-10, transmitted to on 1997-02-11 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jaafar, Nur G."
+[[authorsDetail]]
+name = "Jaafar, Nur G."
+nameCode = "Jaafar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-12-18"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111934
+congress = 10
+bill_no = "HB05513"
+report = "00730"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval as modified by the Committee"
+date_read = "1995-12-18"
+date_ob = "1996-12-18"
+date_report = "1996-12-17"
+
+[secondReading]
+id = 18227
+congress = 10
+bill_no = "HB05513"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2831
+congress = 10
+bill_no = "HB05513"
+date_dist = "1997-01-27"
+date_adopt = "1997-02-10"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-02-11"
+date_rec = "1997-02-13"

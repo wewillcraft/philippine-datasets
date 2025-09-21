@@ -1,0 +1,67 @@
+billNumber = "HR00411"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00411"
+lastScraped = "2025-09-22T00:20:59.499179"
+title = "HR00411"
+longTitle = "RESOLUTION DECLARING THE FIRST WEEK OF DECEMBER OF EVERY YEAR AS THE EXPORTERS' WEEK IN THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1996-01-23"
+status = "Adopted as Resolution No. HR00033 on 1996-03-07"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EXPORT PROMOTION (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B504"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 117465
+congress = 10
+bill_no = "HR00411"
+report = "00239"
+comm_act = "Change of Referral from the Ctte. on Rules to the Special Ctte. on Export Promotion on Jan. 31, 1996"
+referral = "B504"
+ref_name = "EXPORT PROMOTION (SPECIAL CTTE.)"
+recomm = "Adoption"
+date_read = "1996-01-29"
+date_ob = "1996-02-28"
+date_report = "1996-02-27"
+
+[secondReading]
+id = 18957
+congress = 10
+bill_no = "HR00411"
+adopted_resolution = "HR00033"
+remarks = "(Sposorship Speech of Hon. Antonino be inserted into the Records of   the House)"
+date_calendared = "1996-03-07"
+date_approved = "1996-03-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00033.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00033.pdf"

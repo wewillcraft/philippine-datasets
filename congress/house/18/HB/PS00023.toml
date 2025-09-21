@@ -1,0 +1,46 @@
+billNumber = "PS00023"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=PS00023"
+lastScraped = "2025-09-22T00:01:47.881580"
+title = "Sea Tragedy In Guimaras Strait"
+longTitle = ""
+scope = "Local"
+dateFiled = "2019-08-05"
+status = "Pending with the Committee on TRANSPORTATION since 2020-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "DEFENSOR, LORENZ R."
+[[authorsDetail]]
+name = "DEFENSOR, LORENZ R."
+nameCode = "Defensor (L.)"
+date = "2019-08-05"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2020-03-03"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 32952
+congress = 18
+bill_no = "PS00023"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-03-03"

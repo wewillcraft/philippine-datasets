@@ -1,0 +1,46 @@
+billNumber = "HR01234"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01234"
+lastScraped = "2025-09-22T00:20:59.662772"
+title = "HR01234"
+longTitle = "RESOLUTION URGING THE GOVERNMENT TO RENEGOTIATE THE TERMS OF TARIFF REDUCTION PLAN FOR SUGAR BY INVOKING ARTICLE 19 OF THE GATT AND UNILATERALLY BAN THE IMPORTATION OF SUGAR; AND ARTICLE 2 OF THE WTO AND MAINTAIN THE EXISTING ONE HUNDRED PERCENT (100%)TARIFF FOR FOUR (4) YEARS AND UPHOLDING THE APEC AGREEMENT OF TARIFF LIBERALIZATION FOR DEVELOPING COUNTRIES BY THE YEAR 2020"
+scope = "National"
+dateFiled = "1997-05-28"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-06-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 118288
+congress = 10
+bill_no = "HR01234"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-06-02"

@@ -1,0 +1,47 @@
+billNumber = "HB06629"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06629"
+lastScraped = "2025-09-22T00:25:55.820931"
+title = "HB06629"
+longTitle = "AN ACT MAKING MANDATORY THE ENGRAVING OF THE REGISTRATION PLATE NUMBERS OF CARS BOTH IN  THE  RIGHT FRONT AND REAR LEFT WINDSHIELDS"
+scope = "National"
+dateFiled = "1993-01-25"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-01-28"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125248
+congress = 9
+bill_no = "HB06629"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-01-28"

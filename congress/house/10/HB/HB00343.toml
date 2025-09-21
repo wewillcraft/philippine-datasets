@@ -1,0 +1,75 @@
+billNumber = "HB00343"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00343"
+lastScraped = "2025-09-22T00:20:57.439473"
+title = "HB00343"
+longTitle = "AN ACT CONSTITUTING THE FIRST CONGRESSIONAL DISTRICT IN THE PROVINCE OF SAMAR INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-06"
+status = "REPUBLIC ACT RA08530 (Lapsed into law on 1998-02-14)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106764
+congress = 10
+bill_no = "HB00343"
+report = "00236"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-07-26"
+date_ob = "1996-02-26"
+date_report = "1996-02-26"
+
+[secondReading]
+id = 17692
+congress = 10
+bill_no = "HB00343"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-02-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2316
+congress = 10
+bill_no = "HB00343"
+date_dist = "1996-03-07"
+date_adopt = "1996-03-21"
+no_yeas = 121
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-03-21"
+date_rec = "1996-03-27"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-01-13"
+dte_actedp = "1998-02-14"

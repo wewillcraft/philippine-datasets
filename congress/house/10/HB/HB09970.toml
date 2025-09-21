@@ -1,0 +1,79 @@
+billNumber = "HB09970"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09970"
+lastScraped = "2025-09-22T00:20:59.281331"
+title = "HB09970"
+longTitle = "AN ACT PROVIDING FOR A COMPREHENSIVE WATER RESOURCES MANAGEMENT TO ADDRESS THE NATIONAL WATER CRISIS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-09-18"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "AUMENTADO, ERICO B.", "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-09-30"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 116391
+congress = 10
+bill_no = "HB09970"
+comm_act = "jointly referred with Ctte on Government Reorg. as per J. 33, p. 23(dtd. Nov. 11,1997)"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-09-30"

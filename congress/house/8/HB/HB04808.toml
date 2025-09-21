@@ -1,0 +1,42 @@
+billNumber = "HB04808"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04808"
+lastScraped = "2025-09-22T00:46:57.393742"
+title = "HB04808"
+longTitle = "AN ACT BANNING THE APPOINTMENTS OF MEMBERS OF CONGRESS TO ANY CABINET OR OTHER GOVERNMENT POSITIONSDURING THEIR TERM OF OFFICE"
+scope = "National"
+dateFiled = "1987-12-16"
+status = "Pending with the Committee on REVISION OF LAWS since 1987-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "531"
+dateRead = "1987-12-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 139491
+congress = 8
+bill_no = "HB04808"
+referral = "531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1987-12-18"

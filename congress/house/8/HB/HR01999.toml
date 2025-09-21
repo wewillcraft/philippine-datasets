@@ -1,0 +1,50 @@
+billNumber = "HR01999"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01999"
+lastScraped = "2025-09-22T00:47:02.923625"
+title = "HR01999"
+longTitle = "RESOLUTION URGING PRESIDENT CORAZON C. AQUINO TO INCREASE THE ANNUAL CHRISTMAS CASH GIFT GIVEN TO GOVERNMENT EMPLOYEES FROM P1,000.00 TO P2,000.00 D FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1990-10-29"
+status = "Pending with the Committee on APPROPRIATIONS since 1990-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1990-11-07"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[firstReading]
+id = 171835
+congress = 8
+bill_no = "HR01999"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1990-11-07"

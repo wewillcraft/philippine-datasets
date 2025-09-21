@@ -1,0 +1,42 @@
+billNumber = "HB05309"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05309"
+lastScraped = "2025-09-22T00:46:57.484402"
+title = "HB05309"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TEN-BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF HERNANI, PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDSTHEREFOR"
+scope = "Local"
+dateFiled = "1988-02-08"
+status = "Pending with the Committee on HEALTH since 1988-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-02-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 139992
+congress = 8
+bill_no = "HB05309"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-02-08"

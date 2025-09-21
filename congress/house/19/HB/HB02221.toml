@@ -1,0 +1,54 @@
+billNumber = "HB02221"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02221"
+lastScraped = "2025-09-21T23:55:20.463984"
+title = "HB02221"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A RAILWAY SYSTEM IN THE EASTERN VISAYAS REGION, FROM ORMOC CITY, TO BAYBAY CITY, MAASIN CITY AND TO THE MUNICIPALITY OF SAN RICARDO IN THE PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2022-07-21"
+status = "Pending with the Committee on TRANSPORTATION since 2022-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02221.pdf"
+fileSize = 308566
+author = "GOMEZ, RICHARD I., DPA"
+coAuthors = [ "GONZALEZ, CARLO LISANDRO L.",]
+[[authorsDetail]]
+name = "GOMEZ, RICHARD I., DPA"
+nameCode = "Gomez"
+date = "2022-07-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, CARLO LISANDRO L."
+nameCode = "Gonzalez"
+date = "2023-09-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 7140
+congress = 19
+bill_no = "HB02221"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-02"

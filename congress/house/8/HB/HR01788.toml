@@ -1,0 +1,64 @@
+billNumber = "HR01788"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01788"
+lastScraped = "2025-09-22T00:47:02.882954"
+title = "HR01788"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE POLICIES AND PROCEDURES RELATIVE TO THE POWER EXPANSION PROGRAM OF THE NATIONAL POWER CORPORATION WITH THE END IN VIEW OF ACCELERATING THE IMPLEMENTATION THEREOF"
+scope = "National"
+dateFiled = "1990-06-08"
+status = "Pending with the Committee on ENERGY since 1990-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mar"
+coAuthors = [ "SARTE, ELFREN", "SANTOS, ROMEO", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Mar"
+nameCode = "Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SARTE, ELFREN"
+nameCode = "Sarte"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SANTOS, ROMEO"
+nameCode = "Santos"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-07-25"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 171626
+congress = 8
+bill_no = "HR01788"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-07-25"

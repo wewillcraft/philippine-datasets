@@ -1,0 +1,61 @@
+billNumber = "HB03000"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB03000"
+lastScraped = "2025-09-22T00:23:16.028102"
+title = "HB03000"
+longTitle = "AN ACT GRANTING A MONTHLY ALLOWANCE OF FIVE HUNDRED PESOS (P500.00) TO MEMBERS OF THE SANGGUNIANG KABATAAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1998-08-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1998-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "UNDE, GORGONIO P.", "CAPPLEMAN, BENJAMIN B.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "UNDE, GORGONIO P."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CAPPLEMAN, BENJAMIN B."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1998-09-02"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 94441
+congress = 11
+bill_no = "HB03000"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1998-09-02"

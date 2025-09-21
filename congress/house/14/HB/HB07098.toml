@@ -1,0 +1,44 @@
+billNumber = "HB07098"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB07098"
+lastScraped = "2025-09-22T00:15:39.235174"
+title = "HB07098"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE-BED CITY IN THE CITY OF MALABON, METRO MANILA, TO BE KNOWN AS THE MALABON CITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2010-01-07"
+status = "Pending with the Committee on HEALTH since 2010-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-01-18"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 73062
+congress = 14
+bill_no = "HB07098"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-01-18"

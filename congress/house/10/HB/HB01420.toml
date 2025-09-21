@@ -1,0 +1,68 @@
+billNumber = "HB01420"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01420"
+lastScraped = "2025-09-22T00:20:57.618338"
+title = "HB01420"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HOSPITAL WITH A 25-BED CAPACITY IN THE TOWN OF SAN GUILLERMO, PROVINCE OF ISABELA"
+scope = "Local"
+dateFiled = "1995-07-27"
+status = "Pending with the Committee on HEALTH since 1995-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Respicio"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "ABAYA, ANTONIO M.", "DY, FAUSTINO JR. S.",]
+[[authorsDetail]]
+name = "Respicio"
+nameCode = "Respicio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107841
+congress = 10
+bill_no = "HB01420"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-02"

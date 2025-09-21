@@ -1,0 +1,42 @@
+billNumber = "HB04382"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04382"
+lastScraped = "2025-09-22T00:25:55.419059"
+title = "HB04382"
+longTitle = "AN ACT AMENDING SECTIONS 138 (A) AND (B), 139 AND 140 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED, TO INCREASE TAXES THEREFOR"
+scope = "National"
+dateFiled = "1992-10-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 123001
+congress = 9
+bill_no = "HB04382"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1992-11-09"

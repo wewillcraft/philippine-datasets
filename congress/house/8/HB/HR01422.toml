@@ -1,0 +1,42 @@
+billNumber = "HR01422"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01422"
+lastScraped = "2025-09-22T00:47:02.806763"
+title = "HR01422"
+longTitle = "RESOLUTION AFFIRMING THE SUPPORT AND CONFIDENCE OF THE HOUSE OF REPRESENTATIVES IN THE HONORABLE SECRETARY OF THE DEPARTMENT OF LOCAL GOVERNMENT"
+scope = "Local"
+dateFiled = "1989-08-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1989-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1989-08-28"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 171287
+congress = 8
+bill_no = "HR01422"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1989-08-28"

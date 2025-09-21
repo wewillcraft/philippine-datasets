@@ -1,0 +1,41 @@
+billNumber = "HB07922"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07922"
+lastScraped = "2025-09-22T00:20:58.866041"
+title = "HB07922"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF CANDON INTO AN INDEPENDENT COMPONENT CITY TO BE KNOWN AS THE CITY OF CANDON"
+scope = "Local"
+dateFiled = "1996-09-09"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-09-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-09-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114343
+congress = 10
+bill_no = "HB07922"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-09-11"

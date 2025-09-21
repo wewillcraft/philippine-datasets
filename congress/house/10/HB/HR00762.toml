@@ -1,0 +1,62 @@
+billNumber = "HR00762"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00762"
+lastScraped = "2025-09-22T00:20:59.568702"
+title = "HR00762"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE NATIONAL POWER CORPORATION'S CONSTANT PRACTICE OF RELEASING WATER FROM THE BINGA AND AMBUKLAO HYDROELECTRIC DAMS IN BENGUET PROVINCE DURING HEAVYRAINS WHICH RESULTS TO THE PERRENIAL FLOODING OF MANY MUNICIPALITIES IN THE PROVINCE OF PANGASINAN"
+scope = "Local"
+dateFiled = "1996-08-05"
+status = "Pending with the Committee on RULES since 1996-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "BENGSON, ANTONIO III E.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BENGSON, ANTONIO III E."
+nameCode = "Bengson"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 117816
+congress = 10
+bill_no = "HR00762"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Aug. 8, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-07"

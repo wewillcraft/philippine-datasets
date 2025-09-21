@@ -1,0 +1,54 @@
+billNumber = "HB05319"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05319"
+lastScraped = "2025-09-21T23:55:21.009104"
+title = "HB05319"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE HEALTH SECURITY COUNCIL AND \r\nAPPROPPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-10-03"
+status = "Pending with the Committee on HEALTH since 2022-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05319.pdf"
+fileSize = 6405692
+author = "CUA, MIDY N."
+coAuthors = [ "BARBA, ANGELO MARCOS",]
+[[authorsDetail]]
+name = "CUA, MIDY N."
+nameCode = "Cua"
+date = "2022-10-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2022-11-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 10238
+congress = 19
+bill_no = "HB05319"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-07"

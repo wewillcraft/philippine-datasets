@@ -1,0 +1,46 @@
+billNumber = "PS00220"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=PS00220"
+lastScraped = "2025-09-22T00:01:47.912230"
+title = "Covid-19"
+longTitle = "SUPPORT THE FIGHT AGAINST COVID-19"
+scope = "National"
+dateFiled = "2020-05-04"
+status = "Pending with the Committee on DEFEAT COVID-19 AD-HOC COMMITTEE since 2020-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Oaminal, Henry S."
+[[authorsDetail]]
+name = "Oaminal, Henry S."
+nameCode = "Oaminal"
+date = "2020-05-04"
+sequence = 1
+
+[[committee]]
+name = "DEFEAT COVID-19 AD-HOC COMMITTEE"
+type = "primary"
+referralCode = "J503"
+dateRead = "2020-06-03"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 33143
+congress = 18
+bill_no = "PS00220"
+report = ""
+comm_act = ""
+referral = "J503"
+ref_name = "DEFEAT COVID-19 AD-HOC COMMITTEE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-06-03"

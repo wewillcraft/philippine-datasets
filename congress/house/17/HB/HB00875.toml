@@ -1,0 +1,68 @@
+billNumber = "HB00875"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00875"
+lastScraped = "2025-09-21T23:55:44.254945"
+title = "HB00875"
+longTitle = "AN ACT STRENGTHENING THE NATIONAL AND LOCAL HEALTH AND NUTRITION PROGRAMS FOR PREGNANT AND LACTATING WOMEN, INFANTS AND YOUNG CHILDREN IN THE FIRST 1000 DAYS AND APPROPRIATING FUNDS THEREFOR\r\n"
+scope = "National"
+dateFiled = "2016-07-04"
+status = "Substituted by HB05777"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00875.pdf"
+fileSize = 963163
+author = "Espina, Rogelio J.,M.D."
+coAuthors = [ "BATOCABE, RODEL M.", "NAVA, LUCILLE", "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "Espina, Rogelio J.,M.D."
+nameCode = "Espina"
+date = "2016-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2016-11-23"
+journalNo = "J048"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NAVA, LUCILLE"
+nameCode = "Nava"
+date = "2016-11-23"
+journalNo = "J048"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2017-03-14"
+journalNo = "J082"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 34343
+congress = 17
+bill_no = "HB00875"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-27"

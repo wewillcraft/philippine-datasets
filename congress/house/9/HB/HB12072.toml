@@ -1,0 +1,42 @@
+billNumber = "HB12072"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12072"
+lastScraped = "2025-09-22T00:25:56.819447"
+title = "HB12072"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT AND CONSTRUCTION OF A DOMESTIC AIRPORT IN THE MUNICIPALITY OF MEDELLIN, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-15"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1994-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez"
+[[authorsDetail]]
+name = "Martinez"
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1994-02-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130687
+congress = 9
+bill_no = "HB12072"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1994-02-21"

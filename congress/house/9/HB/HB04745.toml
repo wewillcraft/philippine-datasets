@@ -1,0 +1,47 @@
+billNumber = "HB04745"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04745"
+lastScraped = "2025-09-22T00:25:55.485402"
+title = "HB04745"
+longTitle = "AN ACT ESTABLISHING A BAMBOO NURSERY AND DISTRIBUTION CENTER IN ALL MUNICIPALITIES OF THE PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-12"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-11-17"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123364
+congress = 9
+bill_no = "HB04745"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-11-17"

@@ -1,0 +1,60 @@
+billNumber = "HR01289"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01289"
+lastScraped = "2025-09-22T00:20:59.671943"
+title = "HR01289"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEE ON ECOLOGY, THE COMMITTEE ON LABOR AND EMPLOYMENT, THE COMMITTEE ON NATURAL RESOURCES, AND THE SPECIAL COMMITTEE ON FOOD SECURITY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON WHAT MEASURES HAVE BEEN OR ARE BEING UNDERTAKEN BY GOVERNMENT AGENCIES CONCERNED TO COMBAT AND/OR NEUTRALIZE THE EXPECTED DEVASTATING EFFECTS OF THE 'EL NINO' PHENOMENON"
+scope = "National"
+dateFiled = "1997-07-25"
+status = "Pending with the Committee on ECOLOGY since 1997-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 118343
+congress = 10
+bill_no = "HR01289"
+comm_act = "Jointly referred to the Spl. Ctte. on Food Security on Nov. 26, 1997."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-07-31"

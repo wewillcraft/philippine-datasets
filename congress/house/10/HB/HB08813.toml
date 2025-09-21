@@ -1,0 +1,46 @@
+billNumber = "HB08813"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08813"
+lastScraped = "2025-09-22T00:20:59.042892"
+title = "HB08813"
+longTitle = "AN ACT ESTABLISHING A SEPARATE NATIONAL HIGH SCHOOL IN BARANGAY TINAGAKAN, GENERAL SANTOS CITY, TO BE KNOWN AS THE TINAGAKAN NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-01-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115234
+congress = 10
+bill_no = "HB08813"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-01-30"

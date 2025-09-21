@@ -1,0 +1,46 @@
+billNumber = "HB09152"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09152"
+lastScraped = "2025-09-22T00:20:59.112961"
+title = "HB09152"
+longTitle = "AN ACT DECLARING CERTAIN AREAS IN PAMPANGA, TARLAC, AND ZAMBALES AS PROTECTED LANDSCAPES AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-03-25"
+status = "Pending with the Committee on ECOLOGY since 1997-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-04-21"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115573
+congress = 10
+bill_no = "HB09152"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-04-21"

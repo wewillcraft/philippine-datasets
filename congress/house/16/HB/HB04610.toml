@@ -1,0 +1,69 @@
+billNumber = "HB04610"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04610"
+lastScraped = "2025-09-21T23:56:22.343833"
+title = "HB04610"
+longTitle = "AN ACT TO INSTITUTIONALIZE A SYSTEM OF PERFORMANCE PLANNING, BUDGETING, AND ACCOUNTABILITY IN ALL GOVERNMENT AGENCIES"
+scope = "National"
+dateFiled = "2014-06-09"
+status = "Pending with the Committee on APPROPRIATIONS since 2014-09-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04610.pdf"
+fileSize = 601399
+author = "Abad, Henedina R."
+coAuthors = [ "BANAL, JORGE JOHN JR. BALUYUT", "SARMIENTO, MEL SENEN SEVILLA", "BAG-AO, KAKA J.",]
+[[authorsDetail]]
+name = "Abad, Henedina R."
+nameCode = "Abad"
+date = "2014-06-09"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BANAL, JORGE JOHN JR. BALUYUT"
+nameCode = "Banal"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, MEL SENEN SEVILLA"
+nameCode = "Sarmiento (M.)"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "BAG-AO, KAKA J."
+nameCode = "Bag-ao"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2014-06-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 50424
+congress = 16
+bill_no = "HB04610"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-09-16"
+date_read = "2014-06-11"

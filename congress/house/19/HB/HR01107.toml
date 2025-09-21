@@ -1,0 +1,55 @@
+billNumber = "HR01107"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01107"
+lastScraped = "2025-09-21T23:55:22.793170"
+title = "HR01107"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ACCOUNTS AND THE COMMITTEE ON MUSLIM AFFAIRS TO JOINTLY CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE 2023 HAJJ"
+scope = "National"
+dateFiled = "2023-07-05"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2024-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01107.pdf"
+fileSize = 657022
+author = "MASTURA, BAI DIMPLE I."
+coAuthors = [ "BARONDA, JULIENNE \"Jam\"",]
+[[authorsDetail]]
+name = "MASTURA, BAI DIMPLE I."
+nameCode = "Mastura"
+date = "2023-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BARONDA, JULIENNE \"Jam\""
+nameCode = "Baronda"
+date = "2023-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2023-07-25"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 17651
+congress = 19
+bill_no = "HR01107"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2024-01-30"
+date_read = "2023-07-25"

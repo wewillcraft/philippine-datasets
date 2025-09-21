@@ -1,0 +1,46 @@
+billNumber = "HB09117"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09117"
+lastScraped = "2025-09-22T00:20:59.104072"
+title = "HB09117"
+longTitle = "AN ACT AUTHORIZING THE REPAIR AND RENOVATION OF THE PARISH CHURCH OF BALIUAG, BULACAN, AS A NATIONAL HISTORICAL LANDMARK AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-03-17"
+status = "Pending with the Committee on TOURISM since 1997-03-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1997-03-19"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115538
+congress = 10
+bill_no = "HB09117"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1997-03-19"

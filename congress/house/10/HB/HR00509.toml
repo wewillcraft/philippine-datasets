@@ -1,0 +1,41 @@
+billNumber = "HR00509"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00509"
+lastScraped = "2025-09-22T00:20:59.519043"
+title = "HR00509"
+longTitle = "RESOLUTION DIRECTING THE HOUSE SPECIAL COMMITTEE ON EFFECTIVE LAW ENFORCEMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, OF THE ROBBERY INCIDENT AT THE PHILIPPINE COMMERCIAL INDUSTRIAL BANK (PCIB) BRANCH IN TAFT AVE., MANILA ON FEBRUARY 28,1996, WHICH LEFT TWO INNOCENT CIVILIANS DEAD"
+scope = "Local"
+dateFiled = "1996-02-29"
+status = "Pending with the Committee on RULES since 1996-03-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-03-05"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 117563
+congress = 10
+bill_no = "HR00509"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-03-05"

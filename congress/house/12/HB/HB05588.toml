@@ -1,0 +1,52 @@
+billNumber = "HB05588"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05588"
+lastScraped = "2025-09-22T00:13:00.854124"
+title = "HB05588"
+longTitle = "AN ACT CREATING THE BUREAU OF SPECIAL EDUCATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2003-01-10"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2003-01-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2003-01-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 88743
+congress = 12
+bill_no = "HB05588"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2003-01-15"

@@ -1,0 +1,42 @@
+billNumber = "HB11770"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11770"
+lastScraped = "2025-09-22T00:25:56.762931"
+title = "HB11770"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A GARBAGE RECYCLING CENTER IN BARANGAY PAMPLONA II, LAS PINAS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-01-18"
+status = "Pending with the Committee on ECOLOGY since 1994-01-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1994-01-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130385
+congress = 9
+bill_no = "HB11770"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1994-01-26"

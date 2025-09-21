@@ -1,0 +1,67 @@
+billNumber = "HB04010"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04010"
+lastScraped = "2025-09-22T00:13:00.520971"
+title = "HB04010"
+longTitle = "AN ACT DECLARING THE COCONUT LEVY FUNDS AS PUBLIC FUNDS, CREATING THE COCONUT INDUSTRY REHABILITATION AND DEVELOPMENT FUND AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-12-03"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor, Felix Jr. R."
+coAuthors = [ "CUENCO, ANTONIO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Alfelor, Felix Jr. R."
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J063"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-12-10"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 87170
+congress = 12
+bill_no = "HB04010"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-12-10"

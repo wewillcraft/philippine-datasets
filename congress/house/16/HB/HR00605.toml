@@ -1,0 +1,47 @@
+billNumber = "HR00605"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00605"
+lastScraped = "2025-09-21T23:56:22.909550"
+title = "HR00605"
+longTitle = "A RESOLUTION INVESTIGATING THE IMPENDING P3.44 PER KILOWATTHOUR INCREASE TO BE CHARGED BY MERALCO TO ITS CUSTOMERS BEGINNING NOVEMBER BILLING PERIOD; AND URGENT REVIEW OF THE ELECTRIC POWER INDUSTRY REFORM ACT (EPIRA) AND PROPOSING AMENDMENTS THERETO IN THE INTEREST OF CONSUMER PROTECTION"
+scope = "National"
+dateFiled = "2013-12-10"
+status = "Pending with the Committee on ENERGY since 2014-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00605.pdf"
+fileSize = 433989
+author = "MENDOZA, RAYMOND DEMOCRITO C."
+[[authorsDetail]]
+name = "MENDOZA, RAYMOND DEMOCRITO C."
+nameCode = "Mendoza (R.)"
+date = "2013-12-10"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2013-12-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 53004
+congress = 16
+bill_no = "HR00605"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-01-22"
+date_read = "2013-12-16"

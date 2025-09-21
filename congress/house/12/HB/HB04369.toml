@@ -1,0 +1,47 @@
+billNumber = "HB04369"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04369"
+lastScraped = "2025-09-22T00:13:00.584359"
+title = "HB04369"
+longTitle = "AN ACT ESTABLISHING A COMMUNITY HOSPITAL IN THE MUNICIPALITY OF SINILOAN, PROVINCE OF LAGUNA, TO BE KNOWN AS THE SINILOAN COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-02-08"
+status = "Pending with the Committee on HEALTH since 2002-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-02-18"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87529
+congress = 12
+bill_no = "HB04369"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-02-18"

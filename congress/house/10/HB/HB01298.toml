@@ -1,0 +1,57 @@
+billNumber = "HB01298"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01298"
+lastScraped = "2025-09-22T00:20:57.598279"
+title = "HB01298"
+longTitle = "AN ACT CONVERTING THE PROVINCIAL RAOD FROM THE TOWN OF PIDIGAN TO THE TOWNS OF SAN ISIDRO, VILLAVICIOSA AND PILAR, ALL IN THE PROVINCE OF ABRA, AND STA. MARIA, PROVINCE OF ILOCOS SUR, INTO A NATIONAL ROAD"
+scope = "Local"
+dateFiled = "1995-07-26"
+status = "Bill reported out 1998-03-17 (#01529)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+coAuthors = [ "SINGSON, ERIC D.",]
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SINGSON, ERIC D."
+nameCode = "Singson"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107719
+congress = 10
+bill_no = "HB01298"
+report = "01529"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-08-01"
+date_report = "1998-03-17"

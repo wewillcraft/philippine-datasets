@@ -1,0 +1,47 @@
+billNumber = "HB03752"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03752"
+lastScraped = "2025-09-22T00:25:55.258865"
+title = "HB03752"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF BALO-I, PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE BALO-I DISTRICT HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-15"
+status = "Pending with the Committee on HEALTH since 1992-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122371
+congress = 9
+bill_no = "HB03752"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-20"

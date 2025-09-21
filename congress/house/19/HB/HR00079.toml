@@ -1,0 +1,47 @@
+billNumber = "HR00079"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00079"
+lastScraped = "2025-09-21T23:55:22.560057"
+title = "HR00079"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEE ON HEALTH TO\r\nCONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF THE DENGUE PREVENTION AND PATIENT CARE PROGRAMS OF THE DEPARTMENT OF HEALTH."
+scope = "National"
+dateFiled = "2022-07-26"
+status = "Pending with the Committee on HEALTH since 2022-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00079.pdf"
+fileSize = 234673
+author = "Salo, Ron P."
+[[authorsDetail]]
+name = "Salo, Ron P."
+nameCode = "Salo"
+date = "2022-07-26"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 16623
+congress = 19
+bill_no = "HR00079"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-08-24"
+date_read = "2022-08-02"

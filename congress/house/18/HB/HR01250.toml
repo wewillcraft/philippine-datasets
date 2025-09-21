@@ -1,0 +1,46 @@
+billNumber = "HR01250"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01250"
+lastScraped = "2025-09-22T00:01:47.578182"
+title = "HR01250"
+longTitle = "A RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO INCREASE THE FUNDS TO BE APPROPRIATED TO THE DEPARTMENT OF AGRICULTURE\r\n"
+scope = "National"
+dateFiled = "2020-09-24"
+status = "Pending with the Committee on APPROPRIATIONS since 2020-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01250.pdf"
+fileSize = 1145424
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2020-09-24"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2020-09-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 31569
+congress = 18
+bill_no = "HR01250"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-09-29"

@@ -1,0 +1,61 @@
+billNumber = "HB04100"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04100"
+lastScraped = "2025-09-21T23:55:20.799259"
+title = "HB04100"
+longTitle = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PUBLIC \r\nHEALTH EMERGENCY PREPAREDNESS AND RESPONSE \r\nCAPABILITIES, ESTABLISHING FOR THIS PURPOSE THE \r\nCENTER FOR DISEASE PREVENTION AND CONTROL, AND \r\nAPPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-08-25"
+status = "Substituted by HB06522"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04100.pdf"
+fileSize = 402016
+author = "DEFENSOR, LORENZ R."
+coAuthors = [ "ABANTE, BIENVENIDO M.", "REGENCIA, CELSO G.",]
+[[authorsDetail]]
+name = "DEFENSOR, LORENZ R."
+nameCode = "Defensor (L.)"
+date = "2022-08-25"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABANTE, BIENVENIDO M."
+nameCode = "Abante"
+date = "2022-09-12"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REGENCIA, CELSO G."
+nameCode = "Regencia"
+date = "2023-09-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 9019
+congress = 19
+bill_no = "HB04100"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-31"

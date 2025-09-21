@@ -1,0 +1,42 @@
+billNumber = "HB06106"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06106"
+lastScraped = "2025-09-22T00:46:57.698715"
+title = "HB06106"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY SIANAN, MUNICIPALITY OF GODOD, PROVINCE OF ZAMBOANGA DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-08"
+status = "Pending with the Committee on HEALTH since 1988-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Carloto"
+[[authorsDetail]]
+name = "Carloto"
+nameCode = "Carloto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 140787
+congress = 8
+bill_no = "HB06106"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-10"

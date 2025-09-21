@@ -1,0 +1,42 @@
+billNumber = "HB02571"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02571"
+lastScraped = "2025-09-22T00:46:57.017355"
+title = "HB02571"
+longTitle = "AN ACT PROVIDING FOR THE COMPLETION OF THE BLEACHER STAND IN THE SOCIAL CENTER OF LAZI SIQUIJOR"
+scope = "Local"
+dateFiled = "1987-10-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua"
+[[authorsDetail]]
+name = "Fua"
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-10-13"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 137260
+congress = 8
+bill_no = "HB02571"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-10-13"

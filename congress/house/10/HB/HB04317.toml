@@ -1,0 +1,46 @@
+billNumber = "HB04317"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04317"
+lastScraped = "2025-09-22T00:20:58.182403"
+title = "HB04317"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN ACACIA MANGUIN, MAHOGANY AND MOLAVE TREES EXPERIMENTAL NURSERY STATION IN BARANGAY TAMBOBO, MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-10"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110738
+congress = 10
+bill_no = "HB04317"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-10-23"

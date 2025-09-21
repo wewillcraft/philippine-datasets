@@ -1,0 +1,50 @@
+billNumber = "HR01136"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01136"
+lastScraped = "2025-09-22T00:47:02.757890"
+title = "HR01136"
+longTitle = "RESOLUTION RESPECTFULLY URGING MEMBERS OF CONGRESS TO COME TO GRIPS WITH THE SITUATION AND EXERT COLLECTIVE AND INDIVIDUAL EFFORTS TO HELP REVERSE THE PUBLIC PERCEPTION THAT CONGRESS AS AN INSTITUTION MAY BE DONE AWAY WITH"
+scope = "National"
+dateFiled = "1989-02-07"
+status = "Pending with the Committee on RULES since 1989-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "ESTRELLA, ERNESTO T.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESTRELLA, ERNESTO T."
+nameCode = "Estrella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-02-13"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 171010
+congress = 8
+bill_no = "HR01136"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-02-13"

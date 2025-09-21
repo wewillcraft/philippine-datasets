@@ -1,0 +1,47 @@
+billNumber = "HB10789"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10789"
+lastScraped = "2025-09-22T00:25:56.553555"
+title = "HB10789"
+longTitle = "AN ACT CREATING A COMMISSION TO CONDUCT A THOROUGH FACT-FINDING REINVESTIGATION OF THE 1983 ASSASSINATION OF FORMER BENIGNO S. AQUINO, JR. AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1993-09-20"
+status = "Pending with the Committee on JUSTICE since 1993-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-09-22"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129407
+congress = 9
+bill_no = "HB10789"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-09-22"

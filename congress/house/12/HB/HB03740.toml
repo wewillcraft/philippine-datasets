@@ -1,0 +1,55 @@
+billNumber = "HB03740"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03740"
+lastScraped = "2025-09-22T00:13:00.475603"
+title = "HB03740"
+longTitle = "AN ACT TO ESTABLISH THE CENTER FOR MARITIME AND OCEAN AFFAIRS (MOAC), APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-24"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J074"
+sessionNo = "1RS"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86900
+congress = 12
+bill_no = "HB03740"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2001-11-19"

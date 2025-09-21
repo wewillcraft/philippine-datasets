@@ -1,0 +1,42 @@
+billNumber = "HR00929"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00929"
+lastScraped = "2025-09-22T00:47:02.707444"
+title = "HR00929"
+longTitle = "RESOLUTION URGING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO, TO GIVE HIGH PRIORITY TO GENUINE GOVERNMENT DECENTRALIZATIO N OF FUNCTIONS, AUTHORITIESAND BUDGET TO ACCELERATE DEVELOPMENT IN THE COUNTRYSIDE"
+scope = "National"
+dateFiled = "1988-09-15"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1988-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1988-09-21"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 170809
+congress = 8
+bill_no = "HR00929"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1988-09-21"

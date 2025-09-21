@@ -1,0 +1,47 @@
+billNumber = "HB01536"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01536"
+lastScraped = "2025-09-22T00:25:54.873565"
+title = "HB01536"
+longTitle = "AN ACT APPROPRIATING TEN MILLION PESOS FOR THE REACTIVATION OF THE CABANGAN HOSPITAL IN THE MUNICIPALITY OF CABANGAN, PROVINCE OF ZAMBALES, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on HEALTH since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120155
+congress = 9
+bill_no = "HB01536"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-31"

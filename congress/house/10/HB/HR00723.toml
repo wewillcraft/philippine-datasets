@@ -1,0 +1,41 @@
+billNumber = "HR00723"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00723"
+lastScraped = "2025-09-22T00:20:59.561790"
+title = "HR00723"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON RULES TO FACILITATE THE CONSIDERATION AND PASSAGE OF HOUSE BILL NUMBER 33"
+scope = "Local"
+dateFiled = "1996-07-23"
+status = "Pending with the Committee on RULES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 117777
+congress = 10
+bill_no = "HR00723"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-29"

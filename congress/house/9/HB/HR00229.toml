@@ -1,0 +1,55 @@
+billNumber = "HR00229"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00229"
+lastScraped = "2025-09-22T00:25:57.408330"
+title = "HR00229"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON JUSTICE AND REVISION OF LAWS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION , ON THE MOST HUMANE MANNER OF EXECUTING THE DEATH PENALTY, OTHER THAN BY ELECTROCUTION, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-10-05"
+status = "Substituted by HB12786"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-10-06"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "secondary"
+referralCode = "0531"
+
+[firstReading]
+id = 133541
+congress = 9
+bill_no = "HR00229"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-10-06"

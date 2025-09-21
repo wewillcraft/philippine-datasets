@@ -1,0 +1,61 @@
+billNumber = "HR00181"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00181"
+lastScraped = "2025-09-22T00:25:57.399932"
+title = "HR00181"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT THE HOUSE OF REPRESENTATIVES HAS CONVENED ON SPECIAL SESSION CALLED BY HIS EXCELLENCY, THE PRESIDENT OF THE PHILIPPINES, UNDER PROCLAMATION NO. 43, THAT A QUORUM IS PRESENT AND, THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1992-09-16"
+status = "Adopted as Resolution No. HR00013 on 1992-09-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "MONTEJO, CIRILO ROY G.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEJO, CIRILO ROY G."
+nameCode = "Montejo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-09-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133493
+congress = 9
+bill_no = "HR00181"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-09-17"
+
+[secondReading]
+id = 20096
+congress = 9
+bill_no = "HR00181"
+adopted_resolution = "HR00013"
+date_approved = "1992-09-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00181.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00181.pdf"

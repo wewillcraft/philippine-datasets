@@ -1,0 +1,61 @@
+billNumber = "HB05321"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05321"
+lastScraped = "2025-09-21T23:55:21.009429"
+title = "HB05321"
+longTitle = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE NATIONAL MAPPING AND\r\nRESOURCE INFORMATION AUTHORITY (NAMRIA)"
+scope = "National"
+dateFiled = "2022-10-03"
+status = "Pending with the Committee on NATURAL RESOURCES since 2022-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05321.pdf"
+fileSize = 4994950
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "CHUA, JOEL", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2022-10-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CHUA, JOEL"
+nameCode = "Chua"
+date = "2023-09-19"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-06-10"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2022-11-07"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 10240
+congress = 19
+bill_no = "HB05321"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-07"

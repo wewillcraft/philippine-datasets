@@ -1,0 +1,63 @@
+billNumber = "HR01374"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01374"
+lastScraped = "2025-09-22T00:20:59.688940"
+title = "HR01374"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY, IN AID OF LEGISLATION, BY THE HOUSE COMMITTEE ON ECOLOGY ON THE FOREST FIRE HAZE WHICH HAS REACHED MOST OF THE SOUTHERN ISLANDS OF THE PHILIPPINE ARCHIPELAGO, PARTICULARLY THE ISLANDS OF MINDANAO AND PALAWAN, FOR THE PURPOSE OF DETERMINING THE NECESSITY OF ADOPTING REMEDIAL LEGISLATIVE MEASURES TO SECURE THE HEALTH AND SAFETY OF THE INHABITANTS IN THE AFFECTED AREAS AND OF THE WILDLIFE THEREIN"
+scope = "Local"
+dateFiled = "1997-09-26"
+status = "Pending with the Committee on ECOLOGY since 1997-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.", "MONTEMAYOR, LEONARDO Q.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-10-01"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 118428
+congress = 10
+bill_no = "HR01374"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-10-01"

@@ -1,0 +1,42 @@
+billNumber = "HR01904"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01904"
+lastScraped = "2025-09-22T00:47:02.905837"
+title = "HR01904"
+longTitle = "RESOLUTION COMMENDING THE PHILIPPINE NATIONAL RED CROSS (PNRC) FOR ITS PROMPT AND EXEMPLARY RELIEF OPERATIONS DURING THE RECENT EARTHQUAKE THAT HIT THE COUNTRY"
+scope = "Local"
+dateFiled = "1990-08-30"
+status = "Pending with the Committee on SOCIAL SERVICES since 1990-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1990-09-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171740
+congress = 8
+bill_no = "HR01904"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1990-09-05"

@@ -1,0 +1,46 @@
+billNumber = "HR00221"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00221"
+lastScraped = "2025-09-21T23:39:49.232461"
+title = "HR00221"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE SKILLS MATCHING AND FORECASTING POLICIES ENSURING QUALITY EMPLOYMENT AND JOB SECURITY FOR FILIPINOS"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00221.pdf"
+fileSize = 255125
+author = "BENITEZ, ALFREDO \"ALBEE\" B."
+[[authorsDetail]]
+name = "BENITEZ, ALFREDO \"ALBEE\" B."
+nameCode = "Benitez (A.)"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2025-09-03"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 4777
+congress = 103
+bill_no = "HR00221"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-03"

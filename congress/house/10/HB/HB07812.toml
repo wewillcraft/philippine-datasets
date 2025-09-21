@@ -1,0 +1,46 @@
+billNumber = "HB07812"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07812"
+lastScraped = "2025-09-22T00:20:58.847481"
+title = "HB07812"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK BREEDING STATION IN THE MUNICIPALITY OF BANTAYAN, BANTAYAN ISLAND, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-22"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez"
+[[authorsDetail]]
+name = "Martinez"
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-08-27"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114233
+congress = 10
+bill_no = "HB07812"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-08-27"

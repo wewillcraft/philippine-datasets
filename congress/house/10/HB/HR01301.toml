@@ -1,0 +1,56 @@
+billNumber = "HR01301"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01301"
+lastScraped = "2025-09-22T00:20:59.674035"
+title = "HR01301"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PERFORMANCE OF THE PHILIPPINE STOCK EXCHANGE AND TO RECOMMEND MEASURES TO PROFESSIONALIZE ITS OPERATION"
+scope = "National"
+dateFiled = "1997-07-29"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "JOAQUIN, NEREO R.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-08-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 118355
+congress = 10
+bill_no = "HR01301"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-08-06"

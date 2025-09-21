@@ -1,0 +1,46 @@
+billNumber = "HB07995"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07995"
+lastScraped = "2025-09-22T00:20:58.879415"
+title = "HB07995"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A LEGISLATIVE DISTRICT BUILDING FOR EACH LEGISLATIVE DISTRICT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114416
+congress = 10
+bill_no = "HB07995"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-09-26"

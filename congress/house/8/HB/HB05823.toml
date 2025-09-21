@@ -1,0 +1,42 @@
+billNumber = "HB05823"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05823"
+lastScraped = "2025-09-22T00:46:57.568762"
+title = "HB05823"
+longTitle = "AN ACT TO AMEND THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED BY EXECUTIVE ORDER NOS. 273 AND 72 AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1988-02-29"
+status = "Pending with the Committee on WAYS AND MEANS since 1988-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1988-03-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 140504
+congress = 8
+bill_no = "HB05823"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1988-03-03"

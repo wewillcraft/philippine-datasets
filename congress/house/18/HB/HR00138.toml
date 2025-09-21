@@ -1,0 +1,46 @@
+billNumber = "HR00138"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00138"
+lastScraped = "2025-09-22T00:01:47.365819"
+title = "HR00138"
+longTitle = "A RESOLUTION DECLARING JULY 15 OF EVERY YEAR AS \\\"NATIONAL SMOKE-FREE DAY\\\" UPON WHICH ALL CITIZENS SHALL BE PROHIBITED TO SMOKE AND PRESCRIBING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "2019-07-29"
+status = "Pending with the Committee on HEALTH since 2019-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00138.pdf"
+fileSize = 209858
+author = "Castelo, Precious Hipolito"
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-07-29"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30466
+congress = 18
+bill_no = "HR00138"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-08-06"

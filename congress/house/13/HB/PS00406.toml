@@ -1,0 +1,42 @@
+billNumber = "PS00406"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00406"
+lastScraped = "2025-09-22T00:13:49.530858"
+title = "PS00406"
+longTitle = "Creation of a Special Committee on Climate Change"
+scope = "National"
+dateFiled = "2006-05-16"
+status = "Pending with the Committee on RULES since 2006-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Hontiveros-Baraquel, Ana Theresia 'Risa'"
+[[authorsDetail]]
+name = "Hontiveros-Baraquel, Ana Theresia 'Risa'"
+nameCode = "Hontiveros-baraquel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2006-05-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 83069
+congress = 13
+bill_no = "PS00406"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2006-05-30"

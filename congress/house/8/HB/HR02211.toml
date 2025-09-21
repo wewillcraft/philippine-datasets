@@ -1,0 +1,50 @@
+billNumber = "HR02211"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02211"
+lastScraped = "2025-09-22T00:47:02.982905"
+title = "HR02211"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE PUBLIC INQUIRY INTO THE BREAKDOWN OF DISCIPLINE IN THE ARMED FORCES OF THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1991-04-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1991-04-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano"
+coAuthors = [ "BORJAL, ARTURO A.",]
+[[authorsDetail]]
+name = "Albano"
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BORJAL, ARTURO A."
+nameCode = "Borjal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1991-04-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172045
+congress = 8
+bill_no = "HR02211"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1991-04-23"

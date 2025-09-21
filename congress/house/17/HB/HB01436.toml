@@ -1,0 +1,68 @@
+billNumber = "HB01436"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01436"
+lastScraped = "2025-09-21T23:55:44.351763"
+title = "HB01436"
+longTitle = "AN ACT SETTING THE MINIMUM FOR INCREASE IN TEACHERS' SALARIES"
+scope = "National"
+dateFiled = "2016-07-12"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01436.pdf"
+fileSize = 375449
+author = "Belaro, Salvador Jr. B."
+coAuthors = [ "LACSON, VIRGILIO S.", "NAVA, LUCILLE", "CAGAS, MERCEDES C.",]
+[[authorsDetail]]
+name = "Belaro, Salvador Jr. B."
+nameCode = "Belaro"
+date = "2016-07-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LACSON, VIRGILIO S."
+nameCode = "Lacson"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NAVA, LUCILLE"
+nameCode = "Nava"
+date = "2017-02-20"
+journalNo = "J072"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CAGAS, MERCEDES C."
+nameCode = "Cagas"
+date = "2018-08-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 34904
+congress = 17
+bill_no = "HB01436"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

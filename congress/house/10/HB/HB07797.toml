@@ -1,0 +1,54 @@
+billNumber = "HB07797"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07797"
+lastScraped = "2025-09-22T00:20:58.844129"
+title = "HB07797"
+longTitle = "AN ACT REGULATING THE PROCUREMENT AND TRANSPLANT OF HUMAN ORGANS AND TISSUES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-08-21"
+status = "Pending with the Committee on HEALTH since 1996-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-08-27"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114218
+congress = 10
+bill_no = "HB07797"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-08-27"

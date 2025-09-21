@@ -1,0 +1,41 @@
+billNumber = "HB10255"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10255"
+lastScraped = "2025-09-22T00:20:59.342025"
+title = "HB10255"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF BAYBAY INTO A COMPONENT CITY OF THE PROVINCE OF LEYTE TO BE KNOWN AS THE CITY OF BAYBAY"
+scope = "Local"
+dateFiled = "1997-11-07"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Loreto"
+[[authorsDetail]]
+name = "Loreto"
+nameCode = "Loreto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-11-13"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 116676
+congress = 10
+bill_no = "HB10255"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-11-13"

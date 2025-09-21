@@ -1,0 +1,72 @@
+billNumber = "HB13810"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13810"
+lastScraped = "2025-09-22T00:25:57.149084"
+title = "HB13810"
+longTitle = "AN ACT DECLARING OCTOBER TWENTY OF EVERY YEAR AS ADLAW SA ORMOC, A SPEICAL NON-WORKING PUBLIC HOLIDAY FOR THE CITY OF ORMOC"
+scope = "Local"
+dateFiled = "1994-09-22"
+status = "Approved by the House on 1994-10-17, transmitted to on 1994-10-20 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-09-27"
+
+[[motherBills]]
+bill_no = "HB13161"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB13161"
+flag = "S"
+
+[firstReading]
+id = 132419
+congress = 9
+bill_no = "HB13810"
+report = "00879"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1994-09-27"
+date_ob = "1994-09-27"
+date_cal = "1994-09-27"
+date_unass = "1994-09-27"
+date_report = "1994-09-22"
+
+[secondReading]
+id = 19926
+congress = 9
+bill_no = "HB13810"
+remarks = "Considered the Explantory Note as the Sponsorship Speech"
+date_approved = "1994-09-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2154
+congress = 9
+bill_no = "HB13810"
+date_dist = "1994-10-04"
+date_adopt = "1994-10-17"
+no_yeas = 160
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-10-20"
+date_rec = "1994-10-24"

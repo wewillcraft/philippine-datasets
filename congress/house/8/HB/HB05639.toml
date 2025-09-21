@@ -1,0 +1,72 @@
+billNumber = "HB05639"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05639"
+lastScraped = "2025-09-22T00:46:57.538558"
+title = "HB05639"
+longTitle = "AN ACT EXPANDING THE CAUAYAN DISTRICT HOSPITAL OF CAUAYAN, ISABELA PROVINCE, FROM A 50-BED CAPACITY INTO A 100-BED CAPACITY"
+scope = "Local"
+dateFiled = "1988-02-22"
+status = "REPUBLIC ACT (RA07213) enacted on 1992-03-06"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Respicio"
+[[authorsDetail]]
+name = "Respicio"
+nameCode = "Respicio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-02-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 140321
+congress = 8
+bill_no = "HB05639"
+report = "01252"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1988-02-24"
+date_ob = "1991-02-06"
+date_cal = "1991-02-06"
+date_unass = "1991-02-06"
+date_report = "1990-01-22"
+
+[secondReading]
+id = 20628
+congress = 8
+bill_no = "HB05639"
+date_approved = "1991-02-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 404
+congress = 8
+bill_no = "HB05639"
+date_dist = "1991-02-18"
+date_adopt = "1991-02-28"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-03-01"
+date_rec = "1991-03-18"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1992-01-27"
+dte_actedp = "1992-03-06"

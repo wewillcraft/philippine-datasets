@@ -1,0 +1,54 @@
+billNumber = "HB06914"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06914"
+lastScraped = "2025-09-22T00:20:58.642168"
+title = "HB06914"
+longTitle = "AN ACT AUTHORIZING THE FIBER INDUSTRY DEVELOPMENT AUTHORITY TO ORGANIZE AND IMPLEMENT A FIVE-YEAR NATIONAL ABACA PRODUCTION PROGRAM IN ALL ABACA PRODUCING REGIONS OF THE COUNTRY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-05-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "PIMENTEL, EMMANUEL B.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PIMENTEL, EMMANUEL B."
+nameCode = "Pimentel"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-05-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113335
+congress = 10
+bill_no = "HB06914"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-05-09"

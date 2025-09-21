@@ -1,0 +1,41 @@
+billNumber = "HR01274"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01274"
+lastScraped = "2025-09-22T00:20:59.669452"
+title = "HR01274"
+longTitle = "RESOLUTION TO INVESTIGATE IN AID OF LEGISLATION THE SECRETARY OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES IN THE PROCESSES AND PROCEDURES BEFORE DECLARING BORACAY ISLAND, A TOURISM DESTINATION AS A DISASTER CASE"
+scope = "Local"
+dateFiled = "1997-07-09"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118328
+congress = 10
+bill_no = "HR01274"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-07-30"

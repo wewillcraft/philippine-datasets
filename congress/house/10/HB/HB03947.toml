@@ -1,0 +1,41 @@
+billNumber = "HB03947"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03947"
+lastScraped = "2025-09-22T00:20:58.104076"
+title = "HB03947"
+longTitle = "AN ACT DECLARING AS HEINOUS CRIMES THE INTENTIONAL REVERSING OF GEARS OR RUNNING OVER TO FINISH OFF PRIOR VICTIMS OF VEHICULAR ACCIDENTS, AND IMPOSING THE DEATH PENALTY THEREOF"
+scope = "National"
+dateFiled = "1995-09-27"
+status = "Pending with the Committee on JUSTICE since 1995-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 110368
+congress = 10
+bill_no = "HB03947"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-02"

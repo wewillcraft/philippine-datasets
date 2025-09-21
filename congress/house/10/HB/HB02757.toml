@@ -1,0 +1,71 @@
+billNumber = "HB02757"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02757"
+lastScraped = "2025-09-22T00:20:57.876880"
+title = "HB02757"
+longTitle = "AN ACT CONVERTING ALL PROVINCIAL ROADS IN THE FIRST CONGRESSIONAL DISTRICT OF CEBU PROVINCE INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-23"
+status = "Approved by the House on 1997-10-20, transmitted to on 1997-10-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109178
+congress = 10
+bill_no = "HB02757"
+report = "01100"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-08-29"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 17953
+congress = 10
+bill_no = "HB02757"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2568
+congress = 10
+bill_no = "HB02757"
+date_dist = "1997-10-09"
+date_adopt = "1997-10-20"
+no_yeas = 150
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-21"
+date_rec = "1997-10-23"

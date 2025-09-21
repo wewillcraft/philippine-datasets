@@ -1,0 +1,42 @@
+billNumber = "HB07914"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07914"
+lastScraped = "2025-09-22T00:46:57.988251"
+title = "HB07914"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF SANGI, MUNICIPALITY OF TOLEDO, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-21"
+status = "Pending with the Committee on HEALTH since 1988-04-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-26"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 142592
+congress = 8
+bill_no = "HB07914"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-26"

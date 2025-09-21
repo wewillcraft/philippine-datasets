@@ -1,0 +1,62 @@
+billNumber = "HB08856"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB08856"
+lastScraped = "2025-09-21T23:55:21.864029"
+title = "HB08856"
+longTitle = "AN ACT RECOGNIZING THE RIGHTS OF NATURAL ECOSYSTEMS, POPULATIONS, AND PROCESSES AND PROVIDING MECHANISMS FOR THE PROTECTION AND ENFORCEMENT THEREOF"
+scope = "National"
+dateFiled = "2023-08-14"
+status = "Pending with the Committee on ECOLOGY since 2023-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB08856.pdf"
+fileSize = 304700
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RIVERA, BONG", "CENDAÑA, PERCIVAL V",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2023-08-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-10-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CENDAÑA, PERCIVAL V"
+nameCode = "Cendaña"
+date = "2025-01-28"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2023-08-15"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 13775
+congress = 19
+bill_no = "HB08856"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-09-05"
+date_read = "2023-08-15"

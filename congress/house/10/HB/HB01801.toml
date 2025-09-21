@@ -1,0 +1,46 @@
+billNumber = "HB01801"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01801"
+lastScraped = "2025-09-22T00:20:57.682619"
+title = "HB01801"
+longTitle = "AN ACT ESTABLISHING A COMPREHENSIVE MANPOWER, HANDICRAFT AND LIVELIHOOD INDUSTRIES RESOURCE AND TRAINING CENTER IN THE MUNICIPALITY OF STA. CATALINA, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE STA. CATALINA MANPOWER, HANDICRAFT AND LIVELIHOOD RESOURCE CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108222
+congress = 10
+bill_no = "HB01801"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-09"

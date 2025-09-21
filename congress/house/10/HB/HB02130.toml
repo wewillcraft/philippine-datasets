@@ -1,0 +1,61 @@
+billNumber = "HB02130"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02130"
+lastScraped = "2025-09-22T00:20:57.750515"
+title = "HB02130"
+longTitle = "AN ACT GRANTING FINANCIAL SUBSIDY TO ALL STUDENTS PURSUING COURSES IN AGRICULTURE, FISHERY, ENVIRONMENT, COOPERATIVES AND FORESTRY, ASSURING THEM LIVELIHOOD ASSISTANCE AND EMPLOYMENT UPON GRADUATION, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "RAMIREZ, JOSE T.", "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108551
+congress = 10
+bill_no = "HB02130"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-15"

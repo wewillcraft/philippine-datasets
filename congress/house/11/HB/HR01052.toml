@@ -1,0 +1,47 @@
+billNumber = "HR01052"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01052"
+lastScraped = "2025-09-22T00:23:18.143617"
+title = "HR01052"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, REGARDING THE ALLEGED CODDLING BY REGIONAL EXECUTIVE DIRECTOR GREGORIO O. NISPEROS OF NOTORIOUSLY UNDESIRABLE PERSONNEL AT THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES (DENR) REGIONAL OFFICE NO. III"
+scope = "Local"
+dateFiled = "1999-07-29"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1999-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1999-08-09"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 105508
+congress = 11
+bill_no = "HR01052"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1999-08-09"

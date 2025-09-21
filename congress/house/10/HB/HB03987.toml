@@ -1,0 +1,63 @@
+billNumber = "HB03987"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03987"
+lastScraped = "2025-09-22T00:20:58.110906"
+title = "HB03987"
+longTitle = "AN ACT PROVIDING FOR THE EXECUTION OF SENTENCE FOR PERSONS CONVICTED OF BANK ROBBERY WITHIN NINETY (90) DAYS FROM THE FINALITY OF JUDGEMENT"
+scope = "National"
+dateFiled = "1995-09-27"
+status = "Pending with the Committee on JUSTICE since 1995-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "RAMIREZ, JOSE T.", "AVILA, EDGAR M.", "RAMA, EDUARDO SR. L.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO SR. L."
+nameCode = "Rama"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 110408
+congress = 10
+bill_no = "HB03987"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-02"

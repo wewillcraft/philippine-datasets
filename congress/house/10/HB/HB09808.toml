@@ -1,0 +1,73 @@
+billNumber = "HB09808"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09808"
+lastScraped = "2025-09-22T00:20:59.248982"
+title = "HB09808"
+longTitle = "AN ACT TO ESTABLISH A SYSTEM OF NATIONAL FOOD SECURITY RESERVATIONS IN THE PHILIPPINES, ESTABLISH THEIR IMPLEMENTING MECHANISMS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-08-12"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+coAuthors = [ "RAMIREZ, JOSE T.", "CALALAY, REYNALDO A.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-08-14"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 116229
+congress = 10
+bill_no = "HB09808"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-08-14"

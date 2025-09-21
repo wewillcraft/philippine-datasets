@@ -1,0 +1,68 @@
+billNumber = "HB01753"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01753"
+lastScraped = "2025-09-22T00:46:56.869270"
+title = "HB01753"
+longTitle = "AN ACT DECLARING THE MUNICIPALITY OF GENERAL LUNA IN SIARGAO ISLAND, PROVINCE OF SURIGAO DEL NORTE, AS A TOURIST SPOT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-22"
+status = "Approved by the House on 1991-01-17, transmitted to on 1991-01-18 and received by the Senate on 1991"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Navarro"
+[[authorsDetail]]
+name = "Navarro"
+nameCode = "Navarro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 136444
+congress = 8
+bill_no = "HB01753"
+report = "01005"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+recomm = "Approval with amendments"
+date_read = "1987-09-24"
+date_ob = "1990-11-29"
+date_cal = "1990-11-29"
+date_unass = "1990-11-29"
+date_report = "1990-01-30"
+
+[secondReading]
+id = 20424
+congress = 8
+bill_no = "HB01753"
+date_approved = "1990-12-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 206
+congress = 8
+bill_no = "HB01753"
+date_dist = "1990-12-10"
+date_adopt = "1991-01-17"
+no_yeas = 116
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-01-18"
+date_rec = "1991-02-06"

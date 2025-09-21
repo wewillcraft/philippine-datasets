@@ -1,0 +1,47 @@
+billNumber = "HB01176"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01176"
+lastScraped = "2025-09-22T00:25:54.805726"
+title = "HB01176"
+longTitle = "AN ACT PROVIDING FOR THE DEVELOPMENT OF A MUNICIPAL PARK IN THE MUNICIPALITY OF MANDAON, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119795
+congress = 9
+bill_no = "HB01176"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-25"

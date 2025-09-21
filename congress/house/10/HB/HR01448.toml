@@ -1,0 +1,41 @@
+billNumber = "HR01448"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01448"
+lastScraped = "2025-09-22T00:20:59.701452"
+title = "HR01448"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON LOSSES SUFFERRED BY THE PROVINCE OF AGUSAN DEL SUR DUE TO APPARENT ANOMALIES COMMITTED BY PROVINCIAL OFFICIALS AS UNCOVERED DURING A SPECIAL AUDITOF THE COMMISSION ON AUDIT AND AS REPORTED IN THE 1996 ANNUAL AUDIT REPORT FOR THE PROVINCE OF AGUSAN DEL SUR"
+scope = "Local"
+dateFiled = "1997-11-28"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118502
+congress = 10
+bill_no = "HR01448"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-12-03"

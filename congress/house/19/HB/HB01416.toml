@@ -1,0 +1,54 @@
+billNumber = "HB01416"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01416"
+lastScraped = "2025-09-21T23:55:20.327214"
+title = "HB01416"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PATIENT NAVIGATION AND REFERRAL SYSTEM FOR THE PURPOSE OF STRENGTHENING THE PROVISION OF HEALTH CARE DELIVERY SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-07-06"
+status = "Pending with the Committee on HEALTH since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01416.pdf"
+fileSize = 482796
+author = "TAN, KEITH MICAH \"ATTY. MIKE\" D.L."
+coAuthors = [ "ROMUALDO, JURDIN JESUS M.",]
+[[authorsDetail]]
+name = "TAN, KEITH MICAH \"ATTY. MIKE\" D.L."
+nameCode = "Tan (K.M.)"
+date = "2022-07-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = "2022-09-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 6335
+congress = 19
+bill_no = "HB01416"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

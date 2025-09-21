@@ -1,0 +1,68 @@
+billNumber = "HB01247"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01247"
+lastScraped = "2025-09-22T00:46:56.782572"
+title = "HB01247"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF NORALA DISTRICT HOSPITAL IN THE PROVINCE OF SOUTH COTABATO FROM 25 TO 50 UNITS AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-09"
+status = "REPUBLIC ACT (RA07188) enacted on 1992-01-30"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pedro"
+[[authorsDetail]]
+name = "Pedro"
+nameCode = "Pedro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-14"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 135943
+congress = 8
+bill_no = "HB01247"
+report = "01391"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-14"
+
+[secondReading]
+id = 20378
+congress = 8
+bill_no = "HB01247"
+date_calendared = "1991-04-30"
+date_approved = "1991-05-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 160
+congress = 8
+bill_no = "HB01247"
+date_dist = "1991-05-09"
+date_adopt = "1991-05-16"
+no_yeas = 115
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-05-17"
+date_rec = "1991-05-31"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1991-12-11"
+dte_actedp = "1992-01-30"

@@ -1,0 +1,61 @@
+billNumber = "HB00805"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00805"
+lastScraped = "2025-09-21T23:55:20.223614"
+title = "HB00805"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO.7394, OTHERWISE KNOWN\r\nAS THE “CONSUMER ACT OF THE PHILIPPINES”, INCREASING\r\nITS PENALTIES AND SANCTIONS, RATIONALIZING ITS POLICIES \r\nAND GUIDELINES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-01"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00805.pdf"
+fileSize = 486648
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "RIVERA, BONG", "LEE, WILBERT T.",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2022-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-05-06"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 5724
+congress = 19
+bill_no = "HB00805"
+report = ""
+comm_act = ""
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

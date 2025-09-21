@@ -1,0 +1,65 @@
+billNumber = "HR00117"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00117"
+lastScraped = "2025-09-22T00:25:57.389105"
+title = "HR00117"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON TOURISM TO CONDUCT A REVIEW OF THE BALIKBAYAN PROGRAM, AS MANDATED IN REPUBLIC ACT NO. 6768"
+scope = "National"
+dateFiled = "1992-08-26"
+status = "Unfinished Business (Period of Interpellation)"
+statusOrder = 12.2
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 133429
+congress = 9
+bill_no = "HR00117"
+report = "00085"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+recomm = "that House Bill No. 7848, prepared by the Committee, be approved"
+date_read = "1992-08-27"
+date_ob = "1993-03-16"
+date_cal = "1993-03-16"
+date_unass = "1993-03-16"
+date_report = "1993-03-01"
+
+[secondReading]
+id = 20090
+congress = 9
+bill_no = "HR00117"
+remarks = "Replaced by HB07848; Interpellation by Abaya, Albano, Dureza. Golez,  Lopez, E., Valdez, Albano"
+date_calendared = "1993-05-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

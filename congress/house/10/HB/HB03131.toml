@@ -1,0 +1,46 @@
+billNumber = "HB03131"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03131"
+lastScraped = "2025-09-22T00:20:57.954296"
+title = "HB03131"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PANGPANG, MUNICIPALITY OF PALAPAG, SECOND DISTRICT OF NORTHERN SAMAR, TO BE KNOWN AS THE PANGPANG NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109552
+congress = 10
+bill_no = "HB03131"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-09-06"

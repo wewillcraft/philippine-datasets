@@ -1,0 +1,42 @@
+billNumber = "HR00942"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00942"
+lastScraped = "2025-09-22T00:47:02.709625"
+title = "HR00942"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF AGRICULTURE TO SHIFT THE USE OF EDB (ETHYL DIBROMIDE) TO VHT(VAPOR HEAT TREATMENT) IN EXPORT CROPS AND FRUITSSINCE THE FORMER IS CARCINOGENIC"
+scope = "National"
+dateFiled = "1988-09-26"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-09-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 170820
+congress = 8
+bill_no = "HR00942"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-09-29"

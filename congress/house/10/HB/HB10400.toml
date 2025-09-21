@@ -1,0 +1,71 @@
+billNumber = "HB10400"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10400"
+lastScraped = "2025-09-22T00:20:59.375655"
+title = "HB10400"
+longTitle = "AN ACT CONVERTING THE ISABEL NATIONAL AGRICULTURAL AND VOCATION SCHOOL IN THE MUNICIPALITY OF ISABEL, PROVINCE OF LEYTE, INTO A POLYTECHNIC STATE COLLEGE, TO BE KNOWN AS THE LEYTE POLYTECHNIC STATE COLLEGE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-12-15"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-12-17"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[motherBills]]
+bill_no = "HB05598"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05598"
+flag = "S"
+
+[firstReading]
+id = 116821
+congress = 10
+bill_no = "HB10400"
+report = "01346"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-12-17"
+date_ob = "1997-12-17"
+date_report = "1997-12-15"
+
+[secondReading]
+id = 18843
+congress = 10
+bill_no = "HB10400"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3404
+congress = 10
+bill_no = "HB10400"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

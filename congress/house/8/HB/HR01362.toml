@@ -1,0 +1,42 @@
+billNumber = "HR01362"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01362"
+lastScraped = "2025-09-22T00:47:02.798409"
+title = "HR01362"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE PROPRIETY OF BANNING THE PRESIDENT OF THE SENATE, THE SPEAKER OF THE HOUSE, THE PRESIDENT PRO-TEMPORE, THE SENATE MAJORITY FLOOR LEADER, THE SENATE MINORITY FLOOR LEADER, THE HOUSE MINORITY FLOOR LEADER, MEMBERS OF THE CABINET, FROM SEEKING THE PRESIDENCY OR THE VICE-PRESIDENCY IMMEDIATELY AFTER THEIR TERM"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on ETHICS since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171230
+congress = 8
+bill_no = "HR01362"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1989-07-25"

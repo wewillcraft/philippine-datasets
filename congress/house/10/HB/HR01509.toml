@@ -1,0 +1,41 @@
+billNumber = "HR01509"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01509"
+lastScraped = "2025-09-22T00:20:59.711002"
+title = "HR01509"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE EFFECTS OF THE INCINERATORS TO THE ENVIRONMENT AS WELL AS TO THE WELFARE OF THE GENERAL PUBLIC"
+scope = "National"
+dateFiled = "1998-02-03"
+status = "Pending with the Committee on ECOLOGY since 1998-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1998-02-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118563
+congress = 10
+bill_no = "HR01509"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1998-02-04"

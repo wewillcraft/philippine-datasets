@@ -1,0 +1,77 @@
+billNumber = "HB01007"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01007"
+lastScraped = "2025-09-22T00:25:54.777186"
+title = "HB01007"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY GOHANG IN THE MUNICIPALITY OF BANAUE, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-13"
+status = "REPUBLIC ACT RA07758 (Lapsed into law on 1994-06-19)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119626
+congress = 9
+bill_no = "HB01007"
+report = "00387"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = "APPROPRIATIONS, EDUCATION AND CULTURE"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1992-08-20"
+date_ob = "1993-11-24"
+date_cal = "1993-11-24"
+date_unass = "1993-11-24"
+date_report = "1993-11-23"
+
+[secondReading]
+id = 19162
+congress = 9
+bill_no = "HB01007"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1993-12-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1439
+congress = 9
+bill_no = "HB01007"
+date_dist = "1993-12-09"
+date_adopt = "1993-12-17"
+no_yeas = 116
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-12-20"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1994-05-10"
+dte_actedp = "1994-06-19"

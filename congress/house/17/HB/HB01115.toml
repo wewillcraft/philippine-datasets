@@ -1,0 +1,75 @@
+billNumber = "HB01115"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01115"
+lastScraped = "2025-09-21T23:55:44.295363"
+title = "HB01115"
+longTitle = "AN ACT PROVIDING FOR THE REORGANIZATION AND MODERNIZATION OF THE PHILIPPINE NATIONAL POLICE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01115.pdf"
+fileSize = 3219515
+author = "Alejano, Gary C."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "CATAMCO, NANCY A.", "RODRIGUEZ, MAXIMO JR.B.", "DALIPE, MANUEL JOSE M.",]
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2016-11-08"
+journalNo = "J041"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2016-11-14"
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR.B."
+nameCode = "Rodriguez (M.)"
+date = "2016-11-23"
+journalNo = "J048"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2016-12-05"
+journalNo = "J051"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 34583
+congress = 17
+bill_no = "HB01115"
+report = ""
+comm_act = ""
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

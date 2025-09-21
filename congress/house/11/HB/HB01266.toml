@@ -1,0 +1,71 @@
+billNumber = "HB01266"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01266"
+lastScraped = "2025-09-22T00:23:15.731755"
+title = "HB01266"
+longTitle = "AN ACT ESTABLISHING THE SECOND ENGINEERING DISTRICT IN THE PROVINCE OF CAPIZ TO BE LOCATED IN THE MUNICIPALITY OF SIGMA AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-07-23"
+status = "Approved by the House on 1999-03-01, transmitted to on 1999-03-02 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92707
+congress = 11
+bill_no = "HB01266"
+report = "00169"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1998-07-30"
+date_ob = "1999-02-02"
+date_report = "1999-02-02"
+
+[secondReading]
+id = 16302
+congress = 11
+bill_no = "HB01266"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1999-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3575
+congress = 11
+bill_no = "HB01266"
+date_dist = "1999-02-08"
+date_adopt = "1999-03-01"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1999-03-02"
+date_rec = "1999-03-03"

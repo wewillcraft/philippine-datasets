@@ -1,0 +1,55 @@
+billNumber = "HR00006"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00006"
+lastScraped = "2025-09-22T00:01:47.338418"
+title = "HR00006"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PLUMETTING FARMGATE PRICE OF PALAY AND PROPOSE REMEDIAL MEASURES TO EASE THE BURDEN OF PALAY FARMERS IN ALL PROVINCES THROUGHOUT THE COUNTRY"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00006.pdf"
+fileSize = 414617
+author = "Suansing, Estrellita B."
+coAuthors = [ "YAP, VICTOR A.",]
+[[authorsDetail]]
+name = "Suansing, Estrellita B."
+nameCode = "Suansing (E.)"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "YAP, VICTOR A."
+nameCode = "Yap (V.)"
+date = "2019-08-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 30335
+congress = 18
+bill_no = "HR00006"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-23"

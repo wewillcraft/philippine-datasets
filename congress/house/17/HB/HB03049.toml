@@ -1,0 +1,74 @@
+billNumber = "HB03049"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03049"
+lastScraped = "2025-09-21T23:55:44.694279"
+title = "HB03049"
+longTitle = "AN ACT CREATING A NATIONAL CANCER INSTITUTE TO BE KNOWN AS THE NATIONAL CANCER INSTITUTE OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFORE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-08-17"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2016-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03049.pdf"
+fileSize = 2747253
+author = "Tambunting, Gus S."
+coAuthors = [ "VIOLAGO, MICALEA S.", "CHIPECO, JOAQUIN JR. M.", "SUANSING, GING",]
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2016-08-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2016-12-07"
+journalNo = "J053"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2017-02-13"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2016-08-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 36517
+congress = 17
+bill_no = "HB03049"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-11-28"
+date_read = "2016-08-24"

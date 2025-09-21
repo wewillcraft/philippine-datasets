@@ -1,0 +1,47 @@
+billNumber = "HB05800"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05800"
+lastScraped = "2025-09-22T00:13:00.912710"
+title = "HB05800"
+longTitle = "AN ACT AMENDING SECTION 463, CHAPTER 2, TITLE FOUR, BOOK III OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991 AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2003-02-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2003-03-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dadivas, Rodriguez D."
+[[authorsDetail]]
+name = "Dadivas, Rodriguez D."
+nameCode = "Dadivas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2003-03-05"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88955
+congress = 12
+bill_no = "HB05800"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2003-03-05"

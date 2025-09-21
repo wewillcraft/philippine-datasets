@@ -1,0 +1,46 @@
+billNumber = "HB03414"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03414"
+lastScraped = "2025-09-22T00:20:58.004314"
+title = "HB03414"
+longTitle = "AN ACT ESTABLISHING AN OFFICE OF THE REGISTER OF DEEDS IN THE MUNICIPALITY OF ROXAS, PROVINCE OF MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-11"
+status = "Pending with the Committee on JUSTICE since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109835
+congress = 10
+bill_no = "HB03414"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-18"

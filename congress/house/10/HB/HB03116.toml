@@ -1,0 +1,46 @@
+billNumber = "HB03116"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03116"
+lastScraped = "2025-09-22T00:20:57.951810"
+title = "HB03116"
+longTitle = "AN ACT ESTABLISHING A MANPOWER TRAINING CENTER IN THE DISTRICT OF TORIL, CITY OF DAVAO, TO BE KNOWN AS THE TORIL MANPOWER TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-01"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109537
+congress = 10
+bill_no = "HB03116"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-09-06"

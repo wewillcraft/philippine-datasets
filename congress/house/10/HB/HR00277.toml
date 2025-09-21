@@ -1,0 +1,56 @@
+billNumber = "HR00277"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00277"
+lastScraped = "2025-09-22T00:20:59.474359"
+title = "HR00277"
+longTitle = "RESOLUTION TURNING OVER TO THE PROVINCE OF CAVITE AND THE MUNICIPALITY OF SILANG, CAVITE, THE 18 HECTARE CAMP BELARMINO IN SILANG, CAVITE FOR THEIR JOINT BENEFICIAL USE"
+scope = "Local"
+dateFiled = "1995-10-26"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1995-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+coAuthors = [ "UNAS, TELESFORO A.", "ABAYA, PLARIDEL M.",]
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "UNAS, TELESFORO A."
+nameCode = "Unas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, PLARIDEL M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 117331
+congress = 10
+bill_no = "HR00277"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1995-11-07"

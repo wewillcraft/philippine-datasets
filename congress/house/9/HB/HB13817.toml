@@ -1,0 +1,42 @@
+billNumber = "HB13817"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13817"
+lastScraped = "2025-09-22T00:25:57.152397"
+title = "HB13817"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SAN ANTONIO, PROVINCE OF QUEZON, TO BE KNOWN AS THE SAN ANTONIO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-09-22"
+status = "Pending with the Committee on HEALTH since 1994-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-09-28"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132426
+congress = 9
+bill_no = "HB13817"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-09-28"

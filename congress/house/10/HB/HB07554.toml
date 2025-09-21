@@ -1,0 +1,46 @@
+billNumber = "HB07554"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07554"
+lastScraped = "2025-09-22T00:20:58.760451"
+title = "HB07554"
+longTitle = "AN ACT DECLARING MANIMAYAG CAVES LOCATED IN BARANGAY SAN ISIDRO IN THE MUNICIPALITY OF KITAOTAO, PROVINCE OF BUKIDNON, AS TOURIST ZONE"
+scope = "Local"
+dateFiled = "1996-07-23"
+status = "Pending with the Committee on TOURISM since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113975
+congress = 10
+bill_no = "HB07554"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-07-29"

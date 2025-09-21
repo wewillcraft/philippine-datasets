@@ -1,0 +1,46 @@
+billNumber = "HB05709"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05709"
+lastScraped = "2025-09-22T00:20:58.426303"
+title = "HB05709"
+longTitle = "AN ACT PROVIDING FOR THE CEMENTING OF THE ROAD LINKING BARANGAY BONIFACIO TO POBLACION ROAD, BOTH IN THE MUNICIPALITY OF BANATE, PROVINCE OF ILOILO, AND ALLOCATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-23"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112130
+congress = 10
+bill_no = "HB05709"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-23"

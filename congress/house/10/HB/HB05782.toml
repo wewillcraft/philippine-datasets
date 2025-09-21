@@ -1,0 +1,41 @@
+billNumber = "HB05782"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05782"
+lastScraped = "2025-09-22T00:20:58.439188"
+title = "HB05782"
+longTitle = "AN ACT AMENDING SECTION THREE-HUNDRED TWENTY-FIVE OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE 'LOCAL GOVERNMENT CODE OF 1990', AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-01-22"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112203
+congress = 10
+bill_no = "HB05782"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-01-25"

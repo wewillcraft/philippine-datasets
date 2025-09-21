@@ -1,0 +1,68 @@
+billNumber = "HR00457"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00457"
+lastScraped = "2025-09-22T00:20:59.506404"
+title = "HR00457"
+longTitle = "RESOLUTION COMMENDING THE LINGKOD BAYAN, ABS-CBN FOR ITS INVALUABLE HUMANITARIAN CONCERN TO THE FILIPINO PEOPLE, ACKNOWLEDGING ITS VALUABLE ASSISTANCE TO THE RESIDENTS OF FOUR (4) SAMAR TOWNS WHO FACED STARVATION AS REPORTED BY PHILIPPINE DAILY INQUIRER VISAYAS BUREAU"
+scope = "Local"
+dateFiled = "1996-02-08"
+status = "Adopted as Resolution No. HR00035 on 1996-03-11"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-02-13"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 117511
+congress = 10
+bill_no = "HR00457"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-02-13"
+
+[secondReading]
+id = 18961
+congress = 10
+bill_no = "HR00457"
+adopted_resolution = "HR00035"
+date_calendared = "1996-03-11"
+date_approved = "1996-03-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00035.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00035.pdf"

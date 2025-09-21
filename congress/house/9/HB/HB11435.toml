@@ -1,0 +1,57 @@
+billNumber = "HB11435"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11435"
+lastScraped = "2025-09-22T00:25:56.684259"
+title = "HB11435"
+longTitle = "AN ACT PRESCRIBING THE REQUIREMENTS AND THE PROCEDURE FOR THE LICENSING OF PHARMACEUTICAL ESTABLISHMENTS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-12-02"
+status = "Pending with the Committee on HEALTH since 1993-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+coAuthors = [ "LIBAN, DANTE V.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-12-07"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 130050
+congress = 9
+bill_no = "HB11435"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-12-07"

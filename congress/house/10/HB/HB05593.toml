@@ -1,0 +1,46 @@
+billNumber = "HB05593"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05593"
+lastScraped = "2025-09-22T00:20:58.406497"
+title = "HB05593"
+longTitle = "AN ACT RECLASSIFYING PUROK TONDO, BARANGAY POBLACION, MUNICIPALITY OF CARMEN, PROVINCE OF COTABATO, FROM MILITARY RESERVATION TO ALIENABLE AND DISPOSABLE LAND FOR RESIDENTIAL PURPOSES"
+scope = "Local"
+dateFiled = "1995-12-20"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 112014
+congress = 10
+bill_no = "HB05593"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-01-22"

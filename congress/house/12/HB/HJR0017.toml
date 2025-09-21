@@ -1,0 +1,42 @@
+billNumber = "HJR0017"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HJR0017"
+lastScraped = "2025-09-22T00:13:01.137254"
+title = "HJR0017"
+longTitle = "JOINT RESOLUTION TO EXTEND THE IMPLEMENTATION OF SECTIONS 109 AND 112 OF REPUBLIC ACT NO. 8435, OTHERWISE KNOWN AS `THE AGRICULTURE AND FISHERIES MODERNIZATION ACT OF 1997'"
+scope = "National"
+dateFiled = "2002-08-06"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2002-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2002-08-12"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 89921
+congress = 12
+bill_no = "HJR0017"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2002-08-12"

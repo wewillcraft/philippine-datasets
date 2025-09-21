@@ -1,0 +1,41 @@
+billNumber = "HB07512"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07512"
+lastScraped = "2025-09-22T00:20:58.754149"
+title = "HB07512"
+longTitle = "AN ACT REQUIRING CERTAIN BUILDINGS, INSTITUTIONS, ESTABLISHMENTS AND PUBLIC UTILITIES TO RESERVE SUFFICIENT AND SUITABLE PARKING OR SEATING SPACES FOR THE USE OF EXPECTANT MOTHERS"
+scope = "National"
+dateFiled = "1996-07-16"
+status = "Pending with the Committee on SOCIAL SERVICES since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 113933
+congress = 10
+bill_no = "HB07512"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1996-07-24"

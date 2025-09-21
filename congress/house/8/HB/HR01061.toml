@@ -1,0 +1,42 @@
+billNumber = "HR01061"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01061"
+lastScraped = "2025-09-22T00:47:02.741975"
+title = "HR01061"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEE ON HEALTH OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE IMPASSE IN THE UNITED DOCTORS MEDICAL CENTER (UDMC) MANAGEMENT WHICH SHOULD HAVE RESULTED TO A DRAMATICAL REDUCTIONOF THE COST OF MEDICAL SERVICES FOR THE BENEFIT OF THE GREATER NUMBER BUT LESS FORTUNATE FILIPINOS AND TO REQUIRE SAID COMMITTEE TO RECOMMEND LEGISLATIVE MEASURE TO IMPROVE HOSPITAL MANAGEMENT IN OURCOUNTRY WITH A VIEW TO EFFECTING A MORE AFFORDABLEMEDICAL SERVICES"
+scope = "Local"
+dateFiled = "1988-12-20"
+status = "Pending with the Committee on HEALTH since 1989-01-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-01-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170935
+congress = 8
+bill_no = "HR01061"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-01-16"

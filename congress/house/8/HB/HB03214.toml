@@ -1,0 +1,42 @@
+billNumber = "HB03214"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03214"
+lastScraped = "2025-09-22T00:46:57.124550"
+title = "HB03214"
+longTitle = "AN ACT RE-ESTABLISHING THE THIRD ENGINEERING DISTRICT IN DINAGAT ISLAND, IN THE PROVINCE OF SURIGAODEL NORTE, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-10-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo"
+[[authorsDetail]]
+name = "Ecleo"
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-11-10"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 137902
+congress = 8
+bill_no = "HB03214"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-11-10"

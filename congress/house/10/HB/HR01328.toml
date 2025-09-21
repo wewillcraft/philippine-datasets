@@ -1,0 +1,61 @@
+billNumber = "HR01328"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01328"
+lastScraped = "2025-09-22T00:20:59.679359"
+title = "HR01328"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON EDUCATION AND CULTURE AND APPROPRIATIONS TO IMMEDIATELY CONDUCT AN INQUIRY AND STUDY ON THE SLOW DEVELOPMENT OF SEVERAL STATE UNIVERSITIES AND COLLEGES WHICH ARE VERY MUCH WAY BEHIND THE UNIVERSITY OF THE PHILIPPINES WITH THE END IN VIEW OF ACHIEVING QUALITY EDUCATION AND ITS ACCESSIBILITY TO THE POOR WHETHER IN URBAN OR RURAL AREAS"
+scope = "Local"
+dateFiled = "1997-08-12"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+coAuthors = [ "CALALAY, REYNALDO A.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118382
+congress = 10
+bill_no = "HR01328"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-14"

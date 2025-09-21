@@ -1,0 +1,42 @@
+billNumber = "HB08833"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08833"
+lastScraped = "2025-09-22T00:46:58.156606"
+title = "HB08833"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK FARM IN BARANGAY OVERLAND, MUNICIPALITY OF BUENAVISTA, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1988-05-05"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-05-10"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 143510
+congress = 8
+bill_no = "HB08833"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-05-10"

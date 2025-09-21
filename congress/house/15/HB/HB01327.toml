@@ -1,0 +1,68 @@
+billNumber = "HB01327"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01327"
+lastScraped = "2025-09-21T23:56:40.794447"
+title = "HB01327"
+longTitle = "AN ACT ESTABLISHING A FREE MEDICINE ASSISTANCE PROGRAM FOR THE POOR AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2010-07-13"
+status = "Pending with the Committee on HEALTH since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01327.pdf"
+fileSize = 399167
+author = "Marcoleta, Rodante D."
+coAuthors = [ "SYJUCO, AUGUSTO, JR. LIMCACO", "BONOAN-DAVID, MA. THERESA BRONDIAL", "CASTELO, WINSTON TAQUEBAN",]
+[[authorsDetail]]
+name = "Marcoleta, Rodante D."
+nameCode = "Marcoleta"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO, JR. LIMCACO"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BONOAN-DAVID, MA. THERESA BRONDIAL"
+nameCode = "Bonoan-David"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J052"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 56799
+congress = 15
+bill_no = "HB01327"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

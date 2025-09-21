@@ -1,0 +1,47 @@
+billNumber = "HB05395"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05395"
+lastScraped = "2025-09-22T00:13:00.809769"
+title = "HB05395"
+longTitle = "AN ACT UPGRADING THE SALARY GRADE LEVEL OF THE SCHOOLS DISTRICT SUPERVISORS FROM SALARY GRADE NINETEEN TO SALARY GRADE TWENTY-FOUR"
+scope = "National"
+dateFiled = "2002-10-17"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-10-23"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 88550
+congress = 12
+bill_no = "HB05395"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-10-23"

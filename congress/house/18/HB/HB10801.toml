@@ -1,0 +1,46 @@
+billNumber = "HB10801"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10801"
+lastScraped = "2025-09-22T00:01:47.310118"
+title = "HB10801"
+longTitle = "AN ACT ESTABLISHING A DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT REGIONAL WAREHOUSE IN EVERY REGION OF THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-02-09"
+status = "Pending with the Committee on SOCIAL SERVICES since 2022-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10801.pdf"
+fileSize = 308725
+author = "Vargas, Alfred D."
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2022-02-09"
+sequence = 1
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2022-05-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 30205
+congress = 18
+bill_no = "HB10801"
+report = ""
+comm_act = ""
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-05-23"

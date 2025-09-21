@@ -1,0 +1,62 @@
+billNumber = "HR00111"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00111"
+lastScraped = "2025-09-21T23:56:22.817438"
+title = "HR00111"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOVERNMENT ENTERPRISES AND PRIVATIZATION AND THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROPOSED METRO RAIL TRANSIT (MRT) AND LIGHT RAIL TRANSIT (LRT) FARE HIKES"
+scope = "National"
+dateFiled = "2013-07-24"
+status = "Pending with the Committee on TRANSPORTATION since 2013-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00111.pdf"
+fileSize = 244730
+author = "Colmenares, Neri J"
+coAuthors = [ "HICAP, FERNANDO L.", "ZARATE, CARLOS ISAGANI T.",]
+[[authorsDetail]]
+name = "Colmenares, Neri J"
+nameCode = "Colmenares"
+date = "2013-07-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "HICAP, FERNANDO L."
+nameCode = "Hicap"
+date = "2015-01-20"
+journalNo = "J038"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ZARATE, CARLOS ISAGANI T."
+nameCode = "Zarate"
+date = "2013-07-24"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 52510
+congress = 16
+bill_no = "HR00111"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-19"
+date_read = "2013-07-31"

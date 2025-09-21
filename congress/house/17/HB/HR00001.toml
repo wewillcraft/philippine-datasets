@@ -1,0 +1,55 @@
+billNumber = "HR00001"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00001"
+lastScraped = "2025-09-21T23:55:46.224758"
+title = "HR00001"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE STATUS OF THE AUTOMATION PROGRAM OF THE BUREAU OF CUSTOMS"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on WAYS AND MEANS since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00001.pdf"
+fileSize = 318497
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-09-07"
+journalNo = "J020"
+sessionNo = "2RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 42744
+congress = 17
+bill_no = "HR00001"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-07-26"

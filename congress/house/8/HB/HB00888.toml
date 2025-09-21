@@ -1,0 +1,42 @@
+billNumber = "HB00888"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00888"
+lastScraped = "2025-09-22T00:46:56.720771"
+title = "HB00888"
+longTitle = "AN ACT AUTHORIZING THE ESTABLISHMENT OF A NURSERYAND ANIMAL BREEDING STATION IN THE MUNICIPALITY OF MALALAG, DAVAO DEL SUR, AND PROVIDING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-02"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 135585
+congress = 8
+bill_no = "HB00888"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-02"

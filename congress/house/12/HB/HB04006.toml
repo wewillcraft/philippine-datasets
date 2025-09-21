@@ -1,0 +1,57 @@
+billNumber = "HB04006"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04006"
+lastScraped = "2025-09-22T00:13:00.520328"
+title = "HB04006"
+longTitle = "AN ACT GRANTING ADDITIONAL PRIVILEGES AND INCENTIVES TO DISABLED PERSONS SIMILAR TO THOSE ENJOYED BY SENIOR CITIZENS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7277, OTHERWISE KNOWN AS THE MAGNA CARTA FOR DISABLED PERSONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-12-03"
+status = "Pending with the Committee on SOCIAL SERVICES since 2001-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Erice"
+coAuthors = [ "ZAMORA, MANUEL \"WAY KURAT\" E.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Erice"
+nameCode = "Erice"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, MANUEL \"WAY KURAT\" E."
+nameCode = "Zamora"
+date = ""
+journalNo = "J071"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J060"
+sessionNo = "2RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2001-12-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 87166
+congress = 12
+bill_no = "HB04006"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2001-12-10"

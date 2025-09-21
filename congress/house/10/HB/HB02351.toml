@@ -1,0 +1,54 @@
+billNumber = "HB02351"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02351"
+lastScraped = "2025-09-22T00:20:57.789816"
+title = "HB02351"
+longTitle = "AN ACT CONDONING AND CONVERTING INTO PURE GRANT BY THE NATIONAL IRRIGATION ADMINISTRATION OF LOAN FUNDS FOR IRRIGATION TO RICE FARMERS, INCLUDING THEIR ASSOCIATIONS"
+scope = "National"
+dateFiled = "1995-08-14"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+coAuthors = [ "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-17"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 108772
+congress = 10
+bill_no = "HB02351"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-17"

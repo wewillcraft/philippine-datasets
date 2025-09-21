@@ -1,0 +1,73 @@
+billNumber = "HB06973"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06973"
+lastScraped = "2025-09-22T00:20:58.652900"
+title = "HB06973"
+longTitle = "AN ACT CREATING THE NATIONAL ENVIRONMENTAL MANAGEMENT AUTHORITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-05-15"
+status = "Pending with the Committee on ECOLOGY since 1996-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "VILLAREAL, JULITA L.", "OCAMPO, ROSENDA ANN M.",]
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "OCAMPO, ROSENDA ANN M."
+nameCode = "Ocampo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-05-20"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 113394
+congress = 10
+bill_no = "HB06973"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-05-20"

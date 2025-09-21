@@ -1,0 +1,46 @@
+billNumber = "HB09469"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09469"
+lastScraped = "2025-09-22T00:20:59.171551"
+title = "HB09469"
+longTitle = "AN ACT ESTABLISHING A MEDICARE CLINIC IN THE MUNICIPALITY OF MALVAR, PROVINCE OF BATANGAS, TO BE KNOWN AS THE MALVAR MEDICARE CLINIC, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-05-27"
+status = "Pending with the Committee on HEALTH since 1997-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-05-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115890
+congress = 10
+bill_no = "HB09469"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-05-29"

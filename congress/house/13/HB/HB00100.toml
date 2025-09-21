@@ -1,0 +1,88 @@
+billNumber = "HB00100"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB00100"
+lastScraped = "2025-09-22T00:13:47.855572"
+title = "Science and Technology Funding Act of 2004"
+longTitle = "AN ACT INCREASING THE YEARLY ALLOCATION FOR SCIENTIFIC AND TECHNOLOGICAL ACTIVITIES (STA)"
+scope = "National"
+dateFiled = "2004-07-01"
+status = "Pending with the Committee on APPROPRIATIONS since 2004-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/hb00100.pdf"
+fileSize = 120971
+author = "Angara, Juan Edgardo M."
+coAuthors = [ "CODILLA, EUFROCINO SR. M.", "AMIN, HUSSIN U.", "ABAYON, HARLIN CAST", "NANTES, RAFAEL P.", "SYJUCO, JUDY",]
+[[authorsDetail]]
+name = "Angara, Juan Edgardo M."
+nameCode = "Angara"
+date = ""
+sequence = 99
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR. M."
+nameCode = "Codilla"
+date = ""
+journalNo = "J004"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J006"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN CAST"
+nameCode = "Abayon"
+date = ""
+journalNo = "J015"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NANTES, RAFAEL P."
+nameCode = "Nantes"
+date = ""
+journalNo = "J063"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, JUDY"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2004-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 75190
+congress = 13
+bill_no = "HB00100"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-07-27"
+date_read = "2004-07-27"

@@ -1,0 +1,46 @@
+billNumber = "HB04417"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04417"
+lastScraped = "2025-09-22T00:20:58.198192"
+title = "HB04417"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A SENIOR CITIZENS ASSISTANCE CENTER IN BARANGAY PAYATAS OF SECOND DISTRICT, QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-16"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110838
+congress = 10
+bill_no = "HB04417"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+date_read = "1995-10-24"

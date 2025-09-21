@@ -1,0 +1,54 @@
+billNumber = "HB04031"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04031"
+lastScraped = "2025-09-22T00:20:58.119568"
+title = "HB04031"
+longTitle = "AN ACT ESTABLISHING AN OFFICE OF THE REGISTRY OF DEEDS IN THE MUNICIPALITY OF PANABO, PROVINCE OF DAVAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-28"
+status = "Pending with the Committee on JUSTICE since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110452
+congress = 10
+bill_no = "HB04031"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-03"

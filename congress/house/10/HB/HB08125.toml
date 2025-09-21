@@ -1,0 +1,49 @@
+billNumber = "HB08125"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08125"
+lastScraped = "2025-09-22T00:20:58.906411"
+title = "HB08125"
+longTitle = "AN ACT INCREASING THE DAILY FOOD SUBSISTENCE OF PRISONERS FROM TWENTY-TWO PESOS (P22.00) FORTY PESOS (P40.00) MINIMUM DAILY SUBSISTENCE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-10-08"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114546
+congress = 10
+bill_no = "HB08125"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-10-10"

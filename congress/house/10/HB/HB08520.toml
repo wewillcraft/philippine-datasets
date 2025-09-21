@@ -1,0 +1,81 @@
+billNumber = "HB08520"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08520"
+lastScraped = "2025-09-22T00:20:58.978105"
+title = "HB08520"
+longTitle = "AN ACT AMENDING SECTIONS 140 AND 142 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED BY REPUBLIC ACT NUMBERED EIGHTY-TWO HUNDRED AND FORTY(AMENDMENT S TO COMPREHENSIVE TAX REFORM PACKAGE) (ctrp II, beer, cigarette, liquor)jm"
+scope = "National"
+dateFiled = "1996-12-02"
+status = "Approved by the House on 1997-01-29, transmitted to on 1997-01-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+coAuthors = [ "CALALAY, REYNALDO A.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114941
+congress = 10
+bill_no = "HB08520"
+report = "00684"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+recomm = "approval"
+date_read = "1996-12-03"
+date_ob = "1996-12-05"
+date_report = "1996-12-04"
+
+[secondReading]
+id = 18597
+congress = 10
+bill_no = "HB08520"
+date_calendared = "1996-12-11"
+date_approved = "1996-12-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3187
+congress = 10
+bill_no = "HB08520"
+date_dist = "1997-01-21"
+date_adopt = "1997-01-29"
+no_yeas = 149
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-30"
+date_rec = "1997-02-03"

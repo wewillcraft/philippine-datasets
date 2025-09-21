@@ -1,0 +1,49 @@
+billNumber = "HB05248"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05248"
+lastScraped = "2025-09-22T00:20:58.338540"
+title = "HB05248"
+longTitle = "AN ACT AMENDING ARTICLE 125 OF ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
+scope = "National"
+dateFiled = "1995-11-22"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-11-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 111669
+congress = 10
+bill_no = "HB05248"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-11-05"

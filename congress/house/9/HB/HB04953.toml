@@ -1,0 +1,47 @@
+billNumber = "HB04953"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04953"
+lastScraped = "2025-09-22T00:25:55.546368"
+title = "HB04953"
+longTitle = "AN ACT ESTABLISHING A BRANCH OFFICE OF THE REGISTER OF DEEDS OF DAVAO CITY IN TORIL, DAVAO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-19"
+status = "Pending with the Committee on JUSTICE since 1992-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-11-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123572
+congress = 9
+bill_no = "HB04953"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-11-24"

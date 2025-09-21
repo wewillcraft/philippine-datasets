@@ -1,0 +1,46 @@
+billNumber = "HR01531"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01531"
+lastScraped = "2025-09-22T00:20:59.713775"
+title = "HR01531"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON EFFECTIVE LAW ENFORCEMENT AND GAMES AND AMUSEMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE RESURGENCE OF \"JUETENG,\" AN ILLEGAL NUMBERS GAME, IN THE CITY OF DAVAO AND PROVINCE OF DAVAO DEL SUR AND TO RECOMMEND REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "Local"
+dateFiled = "1998-02-20"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "secondary"
+referralCode = "0514"
+
+[firstReading]
+id = 118577
+congress = 10
+bill_no = "HR01531"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1998-05-25"

@@ -1,0 +1,75 @@
+billNumber = "HB05880"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05880"
+lastScraped = "2025-09-22T00:20:58.455042"
+title = "HB05880"
+longTitle = "AN ACT CONVERTING THE SOUTHERN ISABELA DISTRICT HOSPITAL IN SANTIAGO CITY, PROVINCE OF ISABELA, INTO AN EXTENSION OF THE CAGAYAN VALLEY REGIONAL HOSPITAL IN THE PROVINCE OF CAGAYAN, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "REPUBLIC ACT RA08338 (Lapsed into law on 1997-08-08)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112301
+congress = 10
+bill_no = "HB05880"
+report = "00377"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1996-01-29"
+date_ob = "1996-05-13"
+date_report = "1996-05-08"
+
+[secondReading]
+id = 18267
+congress = 10
+bill_no = "HB05880"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-16"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2869
+congress = 10
+bill_no = "HB05880"
+date_dist = "1996-05-16"
+date_adopt = "1996-05-20"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-23"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-07-07"
+dte_actedp = "1997-08-08"

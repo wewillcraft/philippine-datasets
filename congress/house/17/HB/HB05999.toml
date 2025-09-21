@@ -1,0 +1,89 @@
+billNumber = "HB05999"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05999"
+lastScraped = "2025-09-21T23:55:45.296708"
+title = "HB05999"
+longTitle = "AN ACT PROVIDING FOR AN INCREASE IN THE SALARY OF, AND ADDITIONAL INCENTIVES FOR, GOVERNMENT PHYSICIANS AND APPROPRIATING FUNDS THEREFORE"
+scope = "National"
+dateFiled = "2017-07-18"
+status = "Pending with the Committee on APPROPRIATIONS since 2017-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05999.pdf"
+fileSize = 256299
+author = "Vargas, Alfred D."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "CUEVA, LEO RAFAEL M.", "SY-ALVARADO, JOSE ANTONIO R.", "AUMENTADO, ERICO ARISTOTLE", "NIETO, YUL SERVO", "LAZATIN, CARMELO II B.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2017-07-18"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-08-14"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2017-08-14"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-08-14"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO ARISTOTLE"
+nameCode = "Aumentado"
+date = "2017-08-22"
+journalNo = "J013"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-08-22"
+journalNo = "J013"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO II B."
+nameCode = "Lazatin"
+date = "2017-10-04"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2017-07-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 39467
+congress = 17
+bill_no = "HB05999"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-26"

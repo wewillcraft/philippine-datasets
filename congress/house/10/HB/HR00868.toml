@@ -1,0 +1,47 @@
+billNumber = "HR00868"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00868"
+lastScraped = "2025-09-22T00:20:59.588540"
+title = "HR00868"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROPER IMPLEMENTATION OF MEMORANDUM ORDER NO. 391 STRENGTHENING THE NATIONAL GOVERNMENT CENTER HOUSING COMMITTEE ANDFOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-09-25"
+status = "Pending with the Committee on RULES since 1996-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-30"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[firstReading]
+id = 117922
+congress = 10
+bill_no = "HR00868"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Housing and Urban Develpment on Oct. 1, 1"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-30"

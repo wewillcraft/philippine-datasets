@@ -1,0 +1,47 @@
+billNumber = "HB02024"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02024"
+lastScraped = "2025-09-22T00:25:54.954763"
+title = "HB02024"
+longTitle = "AN ACT PROVIDING FOR THE FULL ELECTRIFICATION OF ALL THE BARANGAYS IN THE FIRST CONGRESSIONAL DISTRICT OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-02"
+status = "Pending with the Committee on ENERGY since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120643
+congress = 9
+bill_no = "HB02024"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-09-03"

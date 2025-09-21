@@ -1,0 +1,62 @@
+billNumber = "HB05214"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05214"
+lastScraped = "2025-09-22T00:13:48.880976"
+title = "\\\"Magna Carta of Agricultural Developement Workers\\\""
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA OF AGRICULTURAL DEVELOPMENT WORKERS"
+scope = "National"
+dateFiled = "2006-02-15"
+status = "Under deliberation by the Mother Committee on 2006-05-21"
+statusOrder = 4.21
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05214.pdf"
+fileSize = 4376305
+author = "Defensor, Arthur Jr. R."
+coAuthors = [ "FIGUEROA, CATALINO V.", "NANTES, RAFAEL P.",]
+[[authorsDetail]]
+name = "Defensor, Arthur Jr. R."
+nameCode = "Defensor"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = "J053"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "NANTES, RAFAEL P."
+nameCode = "Nantes"
+date = ""
+journalNo = "J019"
+sessionNo = "3RS"
+
+[[committee]]
+name = "AGRICULTURE & FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2006-02-21"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 80304
+congress = 13
+bill_no = "HB05214"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE & FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-02-21"
+date_read = "2006-02-21"

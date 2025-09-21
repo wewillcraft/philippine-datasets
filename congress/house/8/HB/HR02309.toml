@@ -1,0 +1,42 @@
+billNumber = "HR02309"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02309"
+lastScraped = "2025-09-22T00:47:03.000229"
+title = "HR02309"
+longTitle = "RESOLUTION URGING ALL CONCERNED PARTICULARLY ALL \"COMITE DE FESTEJOS\" AND ALL CITY AND MUNICIPAL COUNCILS TO BE AUSTERE IN THE CELEBRATION OF THEIR TOWN FIESTA AND TO DONATE PART OF THEIR SAVINGS TO OUR BROTHERS IN DISTRESSED AREAS IN CENTRAL LUZON"
+scope = "National"
+dateFiled = "1991-07-04"
+status = "Pending with the Committee on SOCIAL SERVICES since 1991-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1991-07-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172140
+congress = 8
+bill_no = "HR02309"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1991-07-24"

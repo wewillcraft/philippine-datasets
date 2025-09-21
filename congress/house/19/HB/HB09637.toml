@@ -1,0 +1,68 @@
+billNumber = "HB09637"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB09637"
+lastScraped = "2025-09-21T23:55:22.046623"
+title = "HB09637"
+longTitle = "AN ACT ESTABLISHING A FORENSIC DNA DATABASE IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2023-11-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2023-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB09637.pdf"
+fileSize = 439008
+author = "LEGARDA, ANTONIO B., JR"
+coAuthors = [ "VERGARA, ROSANNA \"RIA\"", "YAP, CHRISTIAN TELL A.", "ESCUDERO, DETTE",]
+[[authorsDetail]]
+name = "LEGARDA, ANTONIO B., JR"
+nameCode = "Legarda"
+date = "2023-11-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VERGARA, ROSANNA \"RIA\""
+nameCode = "Vergara"
+date = "2024-01-30"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YAP, CHRISTIAN TELL A."
+nameCode = "Yap (C.T.)"
+date = "2024-03-20"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, DETTE"
+nameCode = "Escudero"
+date = "2024-07-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2023-12-04"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 14556
+congress = 19
+bill_no = "HB09637"
+report = ""
+comm_act = ""
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-12-04"

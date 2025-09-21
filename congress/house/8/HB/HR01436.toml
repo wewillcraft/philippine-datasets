@@ -1,0 +1,42 @@
+billNumber = "HR01436"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01436"
+lastScraped = "2025-09-22T00:47:02.808973"
+title = "HR01436"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT A PUBLIC HEARING IN AID OF LEGISLATION TO LOOK INTO THE AIRCRAFT OPERATIONAL AND READINESS CAPABILITY OF OUR PHILIPPINE AIR FORCE"
+scope = "Local"
+dateFiled = "1989-09-04"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rivera"
+[[authorsDetail]]
+name = "Rivera"
+nameCode = "Rivera"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-09-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171301
+congress = 8
+bill_no = "HR01436"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-09-04"

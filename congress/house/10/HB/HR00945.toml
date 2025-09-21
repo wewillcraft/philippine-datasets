@@ -1,0 +1,64 @@
+billNumber = "HR00945"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00945"
+lastScraped = "2025-09-22T00:20:59.604181"
+title = "HR00945"
+longTitle = "RESOLUTION APPROVING THE TRANSFER, SALE OR ASSIGNMENT OF THE CONTROLLING INTEREST IN ALLIED BROADCASTING CENTER, INC., TO APPOLO BROADCAST INVESTORS, INC., IN ORDER TO COMPLY WITH THE REQUIREMENTS OF REPUBLIC ACT NO. 8096"
+scope = "Local"
+dateFiled = "1996-11-06"
+status = "Adopted as Resolution No. HR00104 on 1997-03-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1996-11-13"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117999
+congress = 10
+bill_no = "HR00945"
+report = "00842"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "Adoption"
+date_read = "1996-11-13"
+date_report = "1997-03-20"
+
+[secondReading]
+id = 19006
+congress = 10
+bill_no = "HR00945"
+adopted_resolution = "HR00104"
+date_calendared = "1997-03-21"
+date_approved = "1997-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00104.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00104.pdf"

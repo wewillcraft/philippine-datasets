@@ -1,0 +1,42 @@
+billNumber = "HR00493"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00493"
+lastScraped = "2025-09-22T00:25:57.456541"
+title = "HR00493"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON FINANCE TO STUDY, IN AID OF LEGISLATION, ON THE REPORTED CB'S SECRET DEBT SERVICE"
+scope = "National"
+dateFiled = "1993-02-16"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-02-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133805
+congress = 9
+bill_no = "HR00493"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-02-18"

@@ -1,0 +1,46 @@
+billNumber = "PS00101"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=PS00101"
+lastScraped = "2025-09-21T23:56:23.310819"
+title = "H I V / A I D S"
+longTitle = "NEED TO IMMEDIATELY ADDRESS THE RISING INCIDENCE OF HIV-AIDS IN THE COUNTRY"
+scope = "National"
+dateFiled = "2013-12-02"
+status = "Pending with the Committee on HEALTH since 2014-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/PS101_Rep. Gutierrez.pdf"
+fileSize = 66017
+author = "Gutierrez, Ibarra \"Barry\" M. III"
+[[authorsDetail]]
+name = "Gutierrez, Ibarra \"Barry\" M. III"
+nameCode = "Gutierrez"
+date = "2013-12-02"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2014-01-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 55209
+congress = 16
+bill_no = "PS00101"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-01-20"

@@ -1,0 +1,57 @@
+billNumber = "HB03315"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03315"
+lastScraped = "2025-09-22T00:13:00.403797"
+title = "HB03315"
+longTitle = "AN ACT PROVIDING FOR A NATIONAL IDENTIFICATION SYSTEM, DEFINING ITS COVERAGE AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-02"
+status = "Pending with the Committee on JUSTICE since 2001-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Remulla, Gilbert C."
+coAuthors = [ "ESPINO, AMADO JR. T.", "ECHIVERRI, ENRICO R.",]
+[[authorsDetail]]
+name = "Remulla, Gilbert C."
+nameCode = "Remulla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-10-08"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 86475
+congress = 12
+bill_no = "HB03315"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-10-08"

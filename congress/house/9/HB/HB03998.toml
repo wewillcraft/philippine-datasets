@@ -1,0 +1,47 @@
+billNumber = "HB03998"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03998"
+lastScraped = "2025-09-22T00:25:55.357376"
+title = "HB03998"
+longTitle = "AN ACT ESTABLISHING THE AGRICULTURAL RESEARCH CAREER SYSTEM IN THE DEPARTMENT OF AGRICULTURE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-10-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-10-26"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122617
+congress = 9
+bill_no = "HB03998"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-10-26"

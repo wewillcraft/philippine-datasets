@@ -1,0 +1,46 @@
+billNumber = "HB03281"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03281"
+lastScraped = "2025-09-22T00:20:57.980592"
+title = "HB03281"
+longTitle = "AN ACT TRANSFERRING THE SUPERVISION AND CONTROL OF ALL PROVINCIAL, DISTRICT, CITY AND MUNICIPAL JAILS TO THE BUREAU OF CORRECTIONS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-09-06"
+status = "Pending with the Committee on JUSTICE since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109702
+congress = 10
+bill_no = "HB03281"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-18"

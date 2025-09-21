@@ -1,0 +1,47 @@
+billNumber = "HB01918"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01918"
+lastScraped = "2025-09-22T00:13:00.149432"
+title = "HB01918"
+longTitle = "AN ACT CREATING AND ESTABLISHING THE INSTITUTE FOR STRATEGIC STUDIES"
+scope = "National"
+dateFiled = "2001-08-02"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2001-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cagas, Douglas RA."
+[[authorsDetail]]
+name = "Cagas, Douglas RA."
+nameCode = "Cagas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2001-08-08"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85078
+congress = 12
+bill_no = "HB01918"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2001-08-08"

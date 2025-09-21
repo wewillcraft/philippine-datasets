@@ -1,0 +1,47 @@
+billNumber = "HB06300"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06300"
+lastScraped = "2025-09-22T00:25:55.767417"
+title = "HB06300"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BARANGAY HEALTH CENTER IN BARANGAY CABULALAAN, MUNICIPALITY OF SINAIT, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE CABULALAAN BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-12"
+status = "Pending with the Committee on HEALTH since 1993-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124919
+congress = 9
+bill_no = "HB06300"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-01-19"

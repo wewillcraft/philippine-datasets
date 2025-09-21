@@ -1,0 +1,46 @@
+billNumber = "HB02125"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02125"
+lastScraped = "2025-09-22T00:20:57.749774"
+title = "HB02125"
+longTitle = "AN ACT ESTABLISHING THE BANAOANG PUBLIC RESERVE AND MARINE PARK, PROVIDING FUNDS FOR ITS ANNUAL OPERATIONS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108546
+congress = 10
+bill_no = "HB02125"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-08-15"

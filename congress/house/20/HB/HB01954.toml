@@ -1,0 +1,46 @@
+billNumber = "HB01954"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01954"
+lastScraped = "2025-09-21T23:39:48.693459"
+title = "HB01954"
+longTitle = "AN ACT PROVIDING COMPREHENSIVE MATERNAL HEALTHCARE INCLUDING IMMUNIZATION FOR PREGNANT WOMEN"
+scope = "National"
+dateFiled = "2025-07-15"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01954.pdf"
+fileSize = 155732
+author = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+[[authorsDetail]]
+name = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+nameCode = "Gato"
+date = "2025-07-15"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 1955
+congress = 103
+bill_no = "HB01954"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

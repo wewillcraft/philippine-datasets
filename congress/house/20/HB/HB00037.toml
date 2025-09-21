@@ -1,0 +1,89 @@
+billNumber = "HB00037"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00037"
+lastScraped = "2025-09-21T23:39:48.303870"
+title = "HB00037"
+longTitle = "AN ACT TO ENHANCE THE DELIVERY OF EARLY CHILDHOOD CARE AND DEVELOPMENT (ECCD) AND BASIC EDUCATION SERVICES AT THE LOCAL LEVEL"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00037.pdf"
+fileSize = 662475
+author = "FRESNEDI, JAIME R."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "BENITEZ, JAVIER MIGUEL LOPEZ", "YU, JOSEPH KIM C.", "YU, JEYZEL VICTORIA C.", "ANGELES, MARIA CRISTINA C.", "GLEPA, MARIA KRISTINA JIHAN B.",]
+[[authorsDetail]]
+name = "FRESNEDI, JAIME R."
+nameCode = "Fresnedi"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YU, JOSEPH KIM C."
+nameCode = "Yu (J.K.)"
+date = "2025-08-28"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YU, JEYZEL VICTORIA C."
+nameCode = "Yu (J.V.)"
+date = "2025-08-28"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ANGELES, MARIA CRISTINA C."
+nameCode = "Angeles"
+date = "2025-09-02"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GLEPA, MARIA KRISTINA JIHAN B."
+nameCode = "Glepa"
+date = "2025-09-04"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 38
+congress = 103
+bill_no = "HB00037"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

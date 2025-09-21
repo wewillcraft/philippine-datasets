@@ -1,0 +1,49 @@
+billNumber = "HR01357"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01357"
+lastScraped = "2025-09-22T00:20:59.685749"
+title = "HR01357"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE STATUS OF THE REHABILITATION OF THE AMBUKLAO AND BINGA DAMS AS WELL AS THE ALLEGED FAVORED TREATMENT GRANTED TO A PROJECT CONTRACTOR BY THE NATIONAL POWER CORPORATION (NPC)"
+scope = "Local"
+dateFiled = "1997-08-29"
+status = "Pending with the Committee on ENERGY since 1997-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118411
+congress = 10
+bill_no = "HR01357"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-09-03"

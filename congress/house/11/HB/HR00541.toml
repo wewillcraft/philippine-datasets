@@ -1,0 +1,42 @@
+billNumber = "HR00541"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00541"
+lastScraped = "2025-09-22T00:23:18.044539"
+title = "HR00541"
+longTitle = "A RESOLUTION CALLING FOR A `CEASE-FIRE FOR CENSUS 2000'"
+scope = "National"
+dateFiled = "1998-11-23"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1998-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1998-11-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 104999
+congress = 11
+bill_no = "HR00541"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1998-11-26"

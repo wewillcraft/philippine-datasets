@@ -1,0 +1,60 @@
+billNumber = "HR00586"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00586"
+lastScraped = "2025-09-22T00:25:57.474160"
+title = "HR00586"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON NATIONAL DEFENSE AND SECURITY, IN AID OF LEGISLATION, TO LOOK INTO THE IMPLEMENTATION OF R.A. 7077 AND ASCERTAIN ITS FUNDING IN RELATION TO THE TOTAL RESERVIST POPULATION"
+scope = "National"
+dateFiled = "1993-04-13"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+coAuthors = [ "PLAZA, CHARITO B.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 133898
+congress = 9
+bill_no = "HR00586"
+report = "00168"
+comm_act = "Change of referral from the Committee on Rules(J.10 3) (Ctte. Rpt. No. 168, submitted by the Ctte. o"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = "RULES"
+date_read = "1993-05-04"
+date_report = "1993-05-18"

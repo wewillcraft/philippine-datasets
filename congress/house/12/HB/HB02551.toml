@@ -1,0 +1,47 @@
+billNumber = "HB02551"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02551"
+lastScraped = "2025-09-22T00:13:00.257269"
+title = "HB02551"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF GUBA, EMERGENCY HOSPITAL, LOCATED IN CEBU CITY, FROM TEN (10) TO TWENTY FIVE (25) BED CAPACITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-20"
+status = "Pending with the Committee on HEALTH since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85711
+congress = 12
+bill_no = "HB02551"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-27"

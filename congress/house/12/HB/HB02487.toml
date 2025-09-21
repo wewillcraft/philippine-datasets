@@ -1,0 +1,83 @@
+billNumber = "HB02487"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02487"
+lastScraped = "2025-09-22T00:13:00.245507"
+title = "HB02487"
+longTitle = "AN ACT REQUIRING ALL GOVERNMENT AND PRIVATE HOSPITALS, MEDICAL CENTERS, CLINICS, INFIRMARIES, PUERICULTURE CENTERS TO EXTEND FREE MEDICAL AND DENTAL ASSISTANCE TO INDIGENT CHILDREN"
+scope = "National"
+dateFiled = "2001-08-16"
+status = "Pending with the Committee on HEALTH since 2001-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roco"
+coAuthors = [ "DEL MAR, RAUL V.", "JOAQUIN, ULIRAN T.", "CUENCO, ANTONIO V.", "VILLARAMA, WILFRIDO", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Roco"
+nameCode = "Roco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, ULIRAN T."
+nameCode = "Joaquin"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J042"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARAMA, WILFRIDO"
+nameCode = "Villarama"
+date = ""
+journalNo = "J042"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J067"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-22"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 85647
+congress = 12
+bill_no = "HB02487"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-22"

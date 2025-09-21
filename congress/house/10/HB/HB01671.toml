@@ -1,0 +1,46 @@
+billNumber = "HB01671"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01671"
+lastScraped = "2025-09-22T00:20:57.661064"
+title = "HB01671"
+longTitle = "AN ACT CONVERTING THE JONES MEDICARE HOSPITAL IN THE MUNICIPALITY OF JONES, PROVINCE OF ISABELA, INTO A TWENTY-FIVE-BED CAPACITY DISTRICT HOSPITAL TO BE KNOWN AS JONES DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on HEALTH since 1995-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108092
+congress = 10
+bill_no = "HB01671"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-07"

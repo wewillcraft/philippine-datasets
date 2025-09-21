@@ -1,0 +1,49 @@
+billNumber = "HJR0010"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0010"
+lastScraped = "2025-09-22T00:20:59.420802"
+title = "HJR0010"
+longTitle = "JOINT RESOLUTION CREATING THE LEGISLATIVE-EXE CUTIVE ADVISORY COUNCIL FOR MINDANAO DEVELOPMENT"
+scope = "Local"
+dateFiled = "1996-05-30"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1996-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "DEL ROSARIO, RODOLFO P.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, RODOLFO P."
+nameCode = "Del Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1996-06-04"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 117037
+congress = 10
+bill_no = "HJR0010"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1996-06-04"

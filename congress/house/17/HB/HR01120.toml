@@ -1,0 +1,47 @@
+billNumber = "HR01120"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01120"
+lastScraped = "2025-09-21T23:55:46.444012"
+title = "HR01120"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES ON THE POSSIBLE RELOCATION OF NATIONAL GOVERNMENT CENTERS TO GENERAL NAKAR, QUEZON, AND CONSTRUCTION OF NATIONAL CIRCUMFERENTIAL ROAD"
+scope = "National"
+dateFiled = "2017-07-19"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2017-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01120.pdf"
+fileSize = 445101
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = "2017-07-19"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2017-07-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43862
+congress = 17
+bill_no = "HR01120"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-08-08"
+date_read = "2017-07-26"

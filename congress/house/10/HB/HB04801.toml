@@ -1,0 +1,46 @@
+billNumber = "HB04801"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04801"
+lastScraped = "2025-09-22T00:20:58.262595"
+title = "HB04801"
+longTitle = "AN ACT CREATING A SPECIAL REAL ESTATE COURTS TO TRY AND DECIDE REAL ESTATE CASES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-30"
+status = "Pending with the Committee on JUSTICE since 1995-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ocampo, Rosenda Ann"
+[[authorsDetail]]
+name = "Ocampo, Rosenda Ann"
+nameCode = "Ocampo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-11-08"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111222
+congress = 10
+bill_no = "HB04801"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-11-08"

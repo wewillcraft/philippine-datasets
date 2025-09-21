@@ -1,0 +1,77 @@
+billNumber = "HR01341"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01341"
+lastScraped = "2025-09-22T00:20:59.681966"
+title = "HR01341"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO CONDEMN THE MALICIOUS DEPORTATION OF SIX (6) FILIPINO YOUTHS FROM SEOUL, SOUTH KOREA"
+scope = "Local"
+dateFiled = "1997-08-20"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "DOMINGUEZ, VICTOR S.", "COSALAN, RONALD M.", "DEL MAR, RAUL V.", "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DOMINGUEZ, VICTOR S."
+nameCode = "Dominguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "COSALAN, RONALD M."
+nameCode = "Cosalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-08-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118395
+congress = 10
+bill_no = "HR01341"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-08-26"

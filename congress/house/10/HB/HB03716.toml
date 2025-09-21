@@ -1,0 +1,49 @@
+billNumber = "HB03716"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03716"
+lastScraped = "2025-09-22T00:20:58.062346"
+title = "HB03716"
+longTitle = "AN ACT STABILIZING THE PRICE OF OIL PRODUCTS AND PROVIDING PROTECTION TO WORKERS, CONSUMERS AND PRODUCERS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on ENERGY since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Ronaldo B."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Zamora, Ronaldo B."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 110137
+congress = 10
+bill_no = "HB03716"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-09-26"

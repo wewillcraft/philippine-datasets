@@ -1,0 +1,61 @@
+billNumber = "HR01539"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01539"
+lastScraped = "2025-09-22T00:20:59.714964"
+title = "HR01539"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SESSION TODAY, MAY 25,1998, AS HAVING BEEN READ AND APPROVED"
+scope = "Local"
+dateFiled = "1998-05-25"
+status = "Adopted as Resolution No. HR00151 on 1998-05-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118585
+congress = 10
+bill_no = "HR01539"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-05-25"
+
+[secondReading]
+id = 19066
+congress = 10
+bill_no = "HR01539"
+adopted_resolution = "HR00151"
+date_calendared = "1998-05-25"
+date_approved = "1998-05-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00151.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00151.pdf"

@@ -1,0 +1,57 @@
+billNumber = "HR01026"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01026"
+lastScraped = "2025-09-22T00:25:57.556294"
+title = "HR01026"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS (DPWH) AND THE PHILIPPINE NATIONAL CONSTRUCTION CORPORATION (PNCC) TO IMMEDIATELY CONSTRUCT AN ENTRY-EXIT INTERCHANGE AT STA. ROSA, MARILAO, BULACAN, ALONG THE NORTH EXPRESSWAY BETWEEN THE MEYCAUAYAN AND BOCAUE ENTRY-EXIT INTERCHANGES"
+scope = "Local"
+dateFiled = "1994-04-27"
+status = "Adopted as Resolution No. HR00101 on 1994-12-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1994-05-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 134333
+congress = 9
+bill_no = "HR01026"
+report = "01025"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "Adoption"
+date_read = "1994-05-03"
+date_report = "1994-12-09"
+
+[secondReading]
+id = 20168
+congress = 9
+bill_no = "HR01026"
+adopted_resolution = "HR00101"
+date_calendared = "1994-12-15"
+date_approved = "1994-12-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01026.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01026.pdf"

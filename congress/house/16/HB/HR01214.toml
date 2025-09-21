@@ -1,0 +1,52 @@
+billNumber = "HR01214"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01214"
+lastScraped = "2025-09-21T23:56:23.020820"
+title = "HR01214"
+longTitle = "A RESOLUTION URGING THE COMMITTEE ON AGRICULTURE AND FOOD AND THE SPECIAL COMMITTEE ON FOOD SECURITY, IN A JOINT HEARING TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE STATE OF THE PHILIPPINE CARABAO DEVELOPMENT PROGRAM AND EVALUATE THE INDUSTRY'S ECONOMIC VIABILITY"
+scope = "National"
+dateFiled = "2014-06-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2015-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanlao, Agapito H."
+[[authorsDetail]]
+name = "Guanlao, Agapito H."
+nameCode = "Guanlao"
+date = "2014-06-10"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2014-06-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 53612
+congress = 16
+bill_no = "HR01214"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2015-05-13"
+date_read = "2014-06-11"

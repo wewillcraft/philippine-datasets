@@ -1,0 +1,52 @@
+billNumber = "HR00159"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00159"
+lastScraped = "2025-09-22T00:01:47.369220"
+title = "HR00159"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON HEALTH AND LABOR AND EMPLOYMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE IMPLEMENTATION OF THE PROVISIONS OF PRESIDENTIAL DECREE NO. 442, (P.D NO. 442), OTHERWISE KNOWN AS THE LABOR CODE OF THE PHILIPPINES GOVERNING NORMAL HOURS OF WORK WITH THE END VIEW OF ASSURING HUMANE CONDITIONS OF WORK AND PROTECTION OF HEALTH AND WELL-BEING OF WORKERS"
+scope = "National"
+dateFiled = "2019-07-31"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00159.pdf"
+fileSize = 1101323
+author = "Tan, Angelina"
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2019-07-31"
+sequence = 1
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 30487
+congress = 18
+bill_no = "HR00159"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

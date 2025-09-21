@@ -1,0 +1,42 @@
+billNumber = "HB06901"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06901"
+lastScraped = "2025-09-22T00:46:57.825269"
+title = "HB06901"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY APLAYA, MUNICIPALITY OF HAGONOY, PROVINCE OF DAVAO DEL SUR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 141582
+congress = 8
+bill_no = "HB06901"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

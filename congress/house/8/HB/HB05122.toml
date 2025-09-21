@@ -1,0 +1,42 @@
+billNumber = "HB05122"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05122"
+lastScraped = "2025-09-22T00:46:57.448137"
+title = "HB05122"
+longTitle = "AN ACT TO AMEND EXECUTIVE ORDER 259"
+scope = "National"
+dateFiled = "1988-01-27"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1988-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1988-02-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 139805
+congress = 8
+bill_no = "HB05122"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1988-02-03"

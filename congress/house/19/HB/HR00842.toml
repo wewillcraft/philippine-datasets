@@ -1,0 +1,52 @@
+billNumber = "HR00842"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00842"
+lastScraped = "2025-09-21T23:55:22.704662"
+title = "HR00842"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY, THE COMMITTEE ON NATURAL RESOURCES, AND THE COMMITTEE ON TOURISM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE OIL SPILL IN ORIENTAL MINDORO AND NEARBY PROVINCES FOR THE PURPOSES OF DETERMINING THE EXTENT OF DAMAGE TO THE MARINE RESOURCES, HEALTH, TOURISM, AND LIVELIHOOD, AND RECOMMENDING APPROPRIATE MEASURES TO REHABILTATE COASTAL AREAS, PROVIDE ASSISTANCE TO AFFECTED COMMUNITIES, AND MITIGATE EFFECTS OF THE DISASTER"
+scope = "National"
+dateFiled = "2023-03-08"
+status = "Pending with the Committee on ECOLOGY since 2023-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00842.pdf"
+fileSize = 338705
+author = "Haresco, Teodorico Jr. T."
+[[authorsDetail]]
+name = "Haresco, Teodorico Jr. T."
+nameCode = "Haresco"
+date = "2023-03-08"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2023-03-13"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 17386
+congress = 19
+bill_no = "HR00842"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-05-09"
+date_read = "2023-03-13"

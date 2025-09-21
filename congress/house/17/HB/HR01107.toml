@@ -1,0 +1,47 @@
+billNumber = "HR01107"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01107"
+lastScraped = "2025-09-21T23:55:46.442081"
+title = "HR01107"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES ON THE POSSIBLE MANDATORY CONSTRUCTION OF ALTERNATIVE ROADS TO MAJOR HIGHWAYS"
+scope = "National"
+dateFiled = "2017-07-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2017-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01107.pdf"
+fileSize = 148172
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = "2017-07-04"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2017-07-25"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 43849
+congress = 17
+bill_no = "HR01107"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-08-01"
+date_read = "2017-07-25"

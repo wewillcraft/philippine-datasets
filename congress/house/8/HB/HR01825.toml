@@ -1,0 +1,57 @@
+billNumber = "HR01825"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01825"
+lastScraped = "2025-09-22T00:47:02.889341"
+title = "HR01825"
+longTitle = "RESOLUTION DIRECTING THE COMMITTE ON HEALTH TO LOOK INTO THE REPORT THAT THE METRO WATER SOURCE IS THREATENED WITH POLLUTION FROM MMA DUMPSITE, IN AID OF RELEVANT LEGISLATION"
+scope = "National"
+dateFiled = "1990-07-25"
+status = "Pending with the Committee on HEALTH since 1990-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "DRAGON, RENATO P.", "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1990-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171662
+congress = 8
+bill_no = "HR01825"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1990-07-31"

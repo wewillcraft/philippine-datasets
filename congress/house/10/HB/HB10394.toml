@@ -1,0 +1,61 @@
+billNumber = "HB10394"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10394"
+lastScraped = "2025-09-22T00:20:59.373598"
+title = "HB10394"
+longTitle = "AN ACT CREATING THE NATIONAL HEALTH INSTITUTES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-12-11"
+status = "Pending with the Committee on HEALTH since 1997-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DE VENECIA, JOSE JR. C.", "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, JOSE JR. C."
+nameCode = "De Venecia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-12-15"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116815
+congress = 10
+bill_no = "HB10394"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-12-15"

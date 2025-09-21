@@ -1,0 +1,42 @@
+billNumber = "HB00487"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00487"
+lastScraped = "2025-09-22T00:12:59.894742"
+title = "HB00487"
+longTitle = "AN ACT AUTHORIZING THE LOCAL GOVERNMENT OF ILOILO CITY TO SELL, ALIENATE OR LEASE THE ILOILO CITY PARK"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 83647
+congress = 12
+bill_no = "HB00487"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-07-24"

@@ -1,0 +1,57 @@
+billNumber = "HB01514"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01514"
+lastScraped = "2025-09-22T00:13:48.120073"
+title = "HB01514"
+longTitle = "AN ACT ESTABLISHING A LAND TRANSPORTATION OFFICE (LTO) DISTRICT OFFICE IN THE MUNICIPALITY OF BONGABONG, PROVINCE OF ORIENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2004-07-20"
+status = "Pending with the Committee on TRANSPORTATION since 2005-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB001514.pdf"
+fileSize = 13462672
+author = "UMALI, ALFONSO V., JR."
+[[authorsDetail]]
+name = "UMALI, ALFONSO V., JR."
+nameCode = "Umali"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2004-08-03"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 76604
+congress = 13
+bill_no = "HB01514"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-01-12"
+date_read = "2004-08-03"

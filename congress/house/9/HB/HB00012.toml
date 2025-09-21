@@ -1,0 +1,76 @@
+billNumber = "HB00012"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00012"
+lastScraped = "2025-09-22T00:25:54.588792"
+title = "HB00012"
+longTitle = "AN ACT TO ESTABLISH A NATIONAL JUNIOR POLICE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-07-01"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "RAMIREZ, JOSE T.", "FUGOSO, LEONARDO B.", "DRAGON, RENATO P.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FUGOSO, LEONARDO B."
+nameCode = "Fugoso"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118631
+congress = 9
+bill_no = "HB00012"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1992-07-28"

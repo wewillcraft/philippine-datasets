@@ -1,0 +1,54 @@
+billNumber = "HB08567"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08567"
+lastScraped = "2025-09-21T23:55:46.009545"
+title = "HB08567"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 4136, OTHERWISE KNOWN AS THE LAND TRANSPORTATION AND TRAFFIC CODE"
+scope = "National"
+dateFiled = "2018-11-14"
+status = "Pending with the Committee on TRANSPORTATION since 2018-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08567.pdf"
+fileSize = 668221
+author = "Pico, Pepito M."
+coAuthors = [ "CATAMCO, NANCY A.",]
+[[authorsDetail]]
+name = "Pico, Pepito M."
+nameCode = "Pico"
+date = "2018-11-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2018-12-04"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2018-11-20"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 42034
+congress = 17
+bill_no = "HB08567"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-11-20"

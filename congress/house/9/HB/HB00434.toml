@@ -1,0 +1,69 @@
+billNumber = "HB00434"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00434"
+lastScraped = "2025-09-22T00:25:54.673157"
+title = "HB00434"
+longTitle = "AN ACT CREATING THE SPECIAL DRUG COURTS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-07-31"
+status = "Pending with the Committee on JUSTICE since 1992-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+coAuthors = [ "RAMIREZ, JOSE T.", "BARBERS, ROBERT Z.", "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT Z."
+nameCode = "Barbers"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119053
+congress = 9
+bill_no = "HB00434"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-05"

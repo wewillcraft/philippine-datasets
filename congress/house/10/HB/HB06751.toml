@@ -1,0 +1,46 @@
+billNumber = "HB06751"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06751"
+lastScraped = "2025-09-22T00:20:58.612584"
+title = "HB06751"
+longTitle = "AN ACT ESTABLISHING A BAMBOO NURSERY IN THE MUNICIPALITY OF STA. MARIA, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-27"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113172
+congress = 10
+bill_no = "HB06751"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-04-29"

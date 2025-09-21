@@ -1,0 +1,42 @@
+billNumber = "HB02055"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02055"
+lastScraped = "2025-09-22T00:46:56.922021"
+title = "HB02055"
+longTitle = "AN ACT DECLARING LAPULAPU CITY IN MACTAN ISLAND, PROVINCE OF CEBU, A TOURIST ZONE, AND APPROPRIATING FUNDS FOR THE ESTABLISHMENT OF TOURISM SUPPORT FACILITIES"
+scope = "Local"
+dateFiled = "1987-09-29"
+status = "Pending with the Committee on TOURISM since 1987-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1987-10-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136745
+congress = 8
+bill_no = "HB02055"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1987-10-01"

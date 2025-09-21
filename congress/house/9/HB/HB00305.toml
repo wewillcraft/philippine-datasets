@@ -1,0 +1,47 @@
+billNumber = "HB00305"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00305"
+lastScraped = "2025-09-22T00:25:54.649203"
+title = "HB00305"
+longTitle = "AN ACT ESTABLISHING THE CENTRAL LUZON DEVELOPMENT AUTHORITY, PROVIDING FOR ITS FUNCTIONS AND POWERS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-07-28"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1992-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1992-08-03"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118924
+congress = 9
+bill_no = "HB00305"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1992-08-03"

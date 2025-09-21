@@ -1,0 +1,61 @@
+billNumber = "HB05803"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05803"
+lastScraped = "2025-09-22T00:20:58.442747"
+title = "HB05803"
+longTitle = "AN ACT ESTABLISHING A CENTER FOR TEACHER'S EXCELLENCE IN ALL THE LEGISLATIVE DISTRICTS THROUGHOUT THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-01-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112224
+congress = 10
+bill_no = "HB05803"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-01-25"

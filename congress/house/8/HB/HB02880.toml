@@ -1,0 +1,42 @@
+billNumber = "HB02880"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02880"
+lastScraped = "2025-09-22T00:46:57.072212"
+title = "HB02880"
+longTitle = "AN ACT ESTABLISHING A FISH PROCESSING PLANT IN THE MUNICIPALITY OF SIMUNUL, PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-16"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-10-19"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 137569
+congress = 8
+bill_no = "HB02880"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-10-19"

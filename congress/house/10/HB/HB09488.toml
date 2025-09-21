@@ -1,0 +1,59 @@
+billNumber = "HB09488"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09488"
+lastScraped = "2025-09-22T00:20:59.174750"
+title = "HB09488"
+longTitle = "AN ACT CREATING THE PALAWAN ISLANDS DEVELOPMENT AUTHORITY, PRESCRIBING ITS CHARTER, PROVIDING FOR SOURCES OF INVESTMENTS THEREON, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-05-28"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1997-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1997-06-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 115909
+congress = 10
+bill_no = "HB09488"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1997-06-02"

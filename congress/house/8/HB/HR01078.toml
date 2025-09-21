@@ -1,0 +1,42 @@
+billNumber = "HR01078"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01078"
+lastScraped = "2025-09-22T00:47:02.745784"
+title = "HR01078"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HOUSING TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED ANOMALIES IN THE 1963 NATIONAL PRESS CLUB HOUSING PROJECT AT THE FOURTH ESTATE SUBDIVISION IN SUCAT, PARANAQUE IN ORDER TO DETERMINE THE TRUTH ANDGIVE JUSTICE TO NPC MEMBERS RESIDING THEREIN FOR THE LAST (25) TWENTY-FIVE YEARS AND TO SUMMON MESSRS. MACARIO D. VICENCIO, RODOLFO T. REYES, VIC TAGLE, JOSE RODRIGUEZ, V.C. PONCE AND COMPANY AND ALLTHE FOURTH ESTATE RESIDENTS INVOLVED THEREIN"
+scope = "National"
+dateFiled = "1989-01-05"
+status = "Pending with the Committee on HOUSING since 1989-01-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1989-01-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170952
+congress = 8
+bill_no = "HR01078"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = ""
+date_read = "1989-01-16"

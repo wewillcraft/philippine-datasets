@@ -1,0 +1,40 @@
+billNumber = "HR01422"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01422"
+lastScraped = "2025-09-22T00:23:18.214664"
+title = "HR01422"
+longTitle = "A RESOLUTION EXPRESSING THE SENSE OF CONCERN OF THE HOUSE OF REPRESENTATIVES ON THE TREATMENT BY THE POLICE OF CONG. MICHAEL T. DEFENSOR"
+scope = "Local"
+dateFiled = "2000-03-01"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2000-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2000-03-01"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 105878
+congress = 11
+bill_no = "HR01422"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2000-03-01"

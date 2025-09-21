@@ -1,0 +1,45 @@
+billNumber = "HR00028"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00028"
+lastScraped = "2025-09-21T23:39:49.201878"
+title = "HR00028"
+longTitle = "A RESOLUTION URGING BOTH HOUSES OF CONGRESS TO OPEN TO THE PUBLIC ALL BICAMERAL CONFERENCE COMMITTEE HEARINGS INLUDING THE NATIONAL BUDGET"
+dateFiled = "2025-07-07"
+status = "Pending with the Committee on RULES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00028.pdf"
+fileSize = 4739753
+author = "TEVES, JOSE \"BONG\" J., JR."
+[[authorsDetail]]
+name = "TEVES, JOSE \"BONG\" J., JR."
+nameCode = "Teves"
+date = "2025-07-07"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 4584
+congress = 103
+bill_no = "HR00028"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

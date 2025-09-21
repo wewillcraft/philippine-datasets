@@ -1,0 +1,46 @@
+billNumber = "HB05734"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05734"
+lastScraped = "2025-09-22T00:20:58.431636"
+title = "HB05734"
+longTitle = "AN ACT ESTABLISHING A COTTAGE INDUSTRY TRAINING CENTER TO BE LOCATED AT POBLACION, CARMEN, PROVINCE OF SURIGAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-15"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-01-23"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112155
+congress = 10
+bill_no = "HB05734"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-01-23"

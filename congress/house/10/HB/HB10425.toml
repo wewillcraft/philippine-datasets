@@ -1,0 +1,41 @@
+billNumber = "HB10425"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10425"
+lastScraped = "2025-09-22T00:20:59.382013"
+title = "HB10425"
+longTitle = "AN ACT AMENDING SECTION TEN (10) OF REPUBLIC ACT NO. 26, ENTITLED 'AN ACT PROVIDING SPECIAL PROCEDURE FOR THE RECONSTITUTION OF TORRENS CERTIFICATES OF TITLE LOST OR DESTROYED'"
+scope = "National"
+dateFiled = "1997-12-19"
+status = "Pending with the Committee on JUSTICE since 1998-01-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romualdo, Pedro P."
+[[authorsDetail]]
+name = "Romualdo, Pedro P."
+nameCode = "Romualdo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-01-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 116846
+congress = 10
+bill_no = "HB10425"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1998-01-09"

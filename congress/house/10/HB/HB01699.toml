@@ -1,0 +1,46 @@
+billNumber = "HB01699"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01699"
+lastScraped = "2025-09-22T00:20:57.665673"
+title = "HB01699"
+longTitle = "AN ACT CONVERTING THE RURAL HEALTH UNIT IN STO. DOMINGO, ILOCOS SUR, INTO A TEN-BED MUNCIPAL MEDICAL CENTER TO BE KNOWN AS THE BENITO SOLIVEN MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on HEALTH since 1995-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108120
+congress = 10
+bill_no = "HB01699"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-08"

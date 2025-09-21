@@ -1,0 +1,42 @@
+billNumber = "HR01070"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01070"
+lastScraped = "2025-09-22T00:13:01.386357"
+title = "HR01070"
+longTitle = "RESOLUTION URGING HER EXCELLENCY PRESIDENT GLORIA MACAPAGAL-ARROY O TO TAKE A NEUTRAL STAND IN THE UNITED STATES-IRAQ CONFLICT"
+scope = "National"
+dateFiled = "2003-03-18"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2003-04-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2003-04-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 91006
+congress = 12
+bill_no = "HR01070"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2003-04-21"

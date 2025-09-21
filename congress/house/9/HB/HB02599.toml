@@ -1,0 +1,47 @@
+billNumber = "HB02599"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02599"
+lastScraped = "2025-09-22T00:25:55.059826"
+title = "HB02599"
+longTitle = "AN ACT PROVIDNG FOR THE CEMENTING OF THE ROAD LINKING SANTILLAN ST. TO NEW TOWNSITE ROAD BOTH IN THE MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121218
+congress = 9
+bill_no = "HB02599"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-21"

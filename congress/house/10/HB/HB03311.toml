@@ -1,0 +1,57 @@
+billNumber = "HB03311"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03311"
+lastScraped = "2025-09-22T00:20:57.987387"
+title = "HB03311"
+longTitle = "AN ACT GRANTING THE RADYO PILIPINO CORPORATION A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN COMMERCIAL RADIO AND TELEVISION BROADCASTING STATIONS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1995-09-07"
+status = "Consigned to the Archives on 1995-11-09"
+statusOrder = 2.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 109732
+congress = 10
+bill_no = "HB03311"
+report = "00032"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "APPROVAL"
+date_read = "1995-09-18"
+date_ob = "1995-10-02"
+date_report = "1995-09-27"
+
+[secondReading]
+id = 17999
+congress = 10
+bill_no = "HB03311"
+reasons = "A franchise bill with the same subject matter was already approved by the 9th Congress and had lapse"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1995-11-09"
+date_approved = "1995-10-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

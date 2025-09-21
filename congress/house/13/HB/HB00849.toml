@@ -1,0 +1,57 @@
+billNumber = "HB00849"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB00849"
+lastScraped = "2025-09-22T00:13:48.001750"
+title = "HB00849"
+longTitle = "AN ACT CONVERTING THE EXISTING MILITARY AIRPORT IN FORT MAGSAYSAY, CITY OF PALAYAN, PROVINCE OF NUEVA ECIJA, INTO A DOMESTIC AIRPORT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2004-07-01"
+status = "Pending with the Committee on TRANSPORTATION since 2005-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB00849.pdf"
+fileSize = 31622885
+author = "Umali, Oyie"
+[[authorsDetail]]
+name = "Umali, Oyie"
+nameCode = "Umali"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2004-07-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 75939
+congress = 13
+bill_no = "HB00849"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-01-12"
+date_read = "2004-07-28"

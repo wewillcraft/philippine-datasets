@@ -1,0 +1,47 @@
+billNumber = "HR00701"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00701"
+lastScraped = "2025-09-21T23:56:22.926694"
+title = "HR00701"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO IMMEDIATELY CONDUCT AN INVESTIGATION INTO THE DELAY OR NON-IMPLEMENTATION OF THE GPS-ENABLED CARGO MONITORING SYSTEM OF THE BUREAU OF CUSTOMS TO PREVENT SMUGGLING AND HIJACKING"
+scope = "National"
+dateFiled = "2014-01-22"
+status = "Pending with the Committee on WAYS AND MEANS since 2014-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00701.pdf"
+fileSize = 229955
+author = "Gomez, Lucy T."
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2014-01-22"
+sequence = 1
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2014-01-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 53100
+congress = 16
+bill_no = "HR00701"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-02-05"
+date_read = "2014-01-27"

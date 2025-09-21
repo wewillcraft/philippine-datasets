@@ -1,0 +1,61 @@
+billNumber = "HB00200"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00200"
+lastScraped = "2025-09-21T23:39:48.335780"
+title = "HB00200"
+longTitle = "AN ACT MANDATING THE DEPARTMENT OF HEALTH (DOH) TO ENSURE THE AVAILABILITY OF MEDICINES AND PROCUREMENT OF MEDICAL EQUIPMENT IN ALL PUBLIC HOSPITALS THROUGH THE UTILIZATION OF THE MEDICAL ASSISTANCE TO INDIGENT AND FINANCIALLY INCAPACITATED PATIENTS (MAIFIP) FUND, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on HEALTH since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00200.pdf"
+fileSize = 5414853
+author = "YAP, EDVIC G."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "BENITEZ, JAVIER MIGUEL LOPEZ",]
+[[authorsDetail]]
+name = "YAP, EDVIC G."
+nameCode = "Yap (EDVIC)"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 201
+congress = 103
+bill_no = "HB00200"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

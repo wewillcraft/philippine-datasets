@@ -1,0 +1,46 @@
+billNumber = "HB06225"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06225"
+lastScraped = "2025-09-22T00:20:58.517532"
+title = "HB06225"
+longTitle = "AN ACT CONVERTING THE DON CASIMIRO ANDRADA NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF CARLES, PROVINCE OF ILOILO, INTO A POLYTECHNIC COLLEGE TO BE KNOWN AS THE DON CASIMIRO ANDRADA POLYTECHNIC COLLEGE"
+scope = "Local"
+dateFiled = "1996-02-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112646
+congress = 10
+bill_no = "HB06225"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-02-19"

@@ -1,0 +1,42 @@
+billNumber = "HB12068"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12068"
+lastScraped = "2025-09-22T00:25:56.818894"
+title = "HB12068"
+longTitle = "AN ACT DECLARING THE MUNICIPALITY OF LAKE SEBU IN THE PROVINCE OF SOUTH COTABATO A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1994-02-15"
+status = "Pending with the Committee on TOURISM since 1994-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avance-Fuentes, Daisy"
+[[authorsDetail]]
+name = "Avance-Fuentes, Daisy"
+nameCode = "Fuentes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-02-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130683
+congress = 9
+bill_no = "HB12068"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-02-21"

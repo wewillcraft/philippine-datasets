@@ -1,0 +1,46 @@
+billNumber = "HR02001"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02001"
+lastScraped = "2025-09-22T00:01:47.738273"
+title = "HR02001"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES COMMITTEE ON HEALTH AND\r\nDEPARTMENT OF HEALTH COMMISSION AN INDEPENDENT STUDY ON THE EFFICACY OF FACE SHIELDS AGAINST THE TRANSMISSION OF COVID-19"
+scope = "National"
+dateFiled = "2021-07-27"
+status = "Pending with the Committee on HEALTH since 2021-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR02001.pdf"
+fileSize = 295868
+author = "ELAGO, SARAH JANE I."
+[[authorsDetail]]
+name = "ELAGO, SARAH JANE I."
+nameCode = "Elago"
+date = "2021-07-27"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-08-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 32318
+congress = 18
+bill_no = "HR02001"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-08-02"

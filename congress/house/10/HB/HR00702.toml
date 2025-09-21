@@ -1,0 +1,41 @@
+billNumber = "HR00702"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00702"
+lastScraped = "2025-09-22T00:20:59.557895"
+title = "HR00702"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON REFORESTATION TO REVIEW AND MONITOR THE IMPLEMENTATION OF REFORESTATION PROJECTS BY THE NATIONAL GOVERNMENT, INCLUDING THE UTILIZATION AND DISBURSEMENT OF THE ALLOCATED FUNDS OF THE PROGRAM WITH THE ENDIN VIEW OF ENHANCING EXISTING POLICIES AND GUIDELINES GOVERNING THE PROGRAM TO ENSURE ITS SUCCESS AND PROPER USE OF THE FINANCIAL RESOURCES OF THE PROGRAM"
+scope = "National"
+dateFiled = "1996-06-20"
+status = "Pending with the Committee on REFORESTATION (SPECIAL CTTE.) since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REFORESTATION (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B505"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117756
+congress = 10
+bill_no = "HR00702"
+referral = "B505"
+ref_name = "REFORESTATION (SPECIAL CTTE.)"
+date_read = "1996-07-23"

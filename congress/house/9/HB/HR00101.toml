@@ -1,0 +1,42 @@
+billNumber = "HR00101"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00101"
+lastScraped = "2025-09-22T00:25:57.386618"
+title = "HR00101"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEES TO LOOK INTO THE EFFECTS ON MAN AND HIS ENVIRONMENT ON THE DWINDLING RESOURCES OF MT. MAKILING, AND EXPLORE THE POSSIBILITY OF CREATING A MT. MAKILING CONSERVATION COUNCIL THAT WILL FORMULATE PLANS, POLICIES, AND STRATEGIES AS WELL AS OVERSEE, MONITOR, AND COORDINATE THE IMPLEMENTATION OF PROGRAMS, PROJECTS, AND ACTIVITIES FOR THE CONSERVATION OF MT. MAKILING"
+scope = "National"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on ECOLOGY since 1992-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tingzon"
+[[authorsDetail]]
+name = "Tingzon"
+nameCode = "Tingzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON MARAWI REHABILITATION AND VICTIMS COMPENSATION"
+type = "principal"
+referralCode = "K502"
+
+[firstReading]
+id = 133413
+congress = 9
+bill_no = "HR00101"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1992-08-27"

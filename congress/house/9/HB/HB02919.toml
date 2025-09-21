@@ -1,0 +1,47 @@
+billNumber = "HB02919"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02919"
+lastScraped = "2025-09-22T00:25:55.113314"
+title = "HB02919"
+longTitle = "AN ACT ESTABLISHING LIVELIHOOD PROJECTS IN EACH BARANGAY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-09-23"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-09-30"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121538
+congress = 9
+bill_no = "HB02919"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-09-30"

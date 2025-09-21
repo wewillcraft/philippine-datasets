@@ -1,0 +1,42 @@
+billNumber = "HB10500"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10500"
+lastScraped = "2025-09-22T00:46:58.426095"
+title = "HB10500"
+longTitle = "AN ACT EXTENDING PERMANENT STATUS TO ALL GOVERNMENT OFFICIALS AND EMPLOYEES UNDER CERTAIN CONDITIONSAN ACT EXTENDING PERMANENT STATUS TO ALL GOVERNMENT OFFICIALS AND EMPLOYEES UNDER CERTAIN CONDITIONS"
+scope = "National"
+dateFiled = "1988-05-20"
+status = "Pending with the Committee on CIVIL SERVICE since 1988-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1988-05-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 145173
+congress = 8
+bill_no = "HB10500"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1988-05-25"

@@ -1,0 +1,46 @@
+billNumber = "HB01863"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01863"
+lastScraped = "2025-09-21T23:39:48.676572"
+title = "HB01863"
+longTitle = "AN ACT ESTABLISHING THE TAMBOBO BAY PORT AND LOGISTICS HUB IN THE MUNICIPALITY OF SIATON, NEGROS ORIENTAL, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2025-07-14"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01863.pdf"
+fileSize = 3600812
+author = "DEGAMO, JANICE"
+[[authorsDetail]]
+name = "DEGAMO, JANICE"
+nameCode = "Degamo"
+date = "2025-07-14"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[firstReading]
+id = 1864
+congress = 103
+bill_no = "HB01863"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

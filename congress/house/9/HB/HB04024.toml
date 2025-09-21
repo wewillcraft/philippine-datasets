@@ -1,0 +1,47 @@
+billNumber = "HB04024"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04024"
+lastScraped = "2025-09-22T00:25:55.361578"
+title = "HB04024"
+longTitle = "AN ACT PROVIDING THE ESTABLISHMENT AND CONSTRUCTION OF A HEALTH CARE CENTER IN BARANGAY LAG-ASAN, BAGO CITY, PROVINCE OF NEGROS OCCIDENTAL"
+scope = "Local"
+dateFiled = "1992-10-21"
+status = "Pending with the Committee on HEALTH since 1992-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122643
+congress = 9
+bill_no = "HB04024"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-26"

@@ -1,0 +1,46 @@
+billNumber = "HB09337"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09337"
+lastScraped = "2025-09-22T00:20:59.146464"
+title = "HB09337"
+longTitle = "AN ACT ESTABLISHING AN AGRO-INDUSTRIAL SITE IN BARANGAY MACABACLAY, GAPAN, NUEVA ECIJA, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-05-05"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-05-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115758
+congress = 10
+bill_no = "HB09337"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-05-08"

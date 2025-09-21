@@ -1,0 +1,47 @@
+billNumber = "HR01003"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01003"
+lastScraped = "2025-09-21T23:55:46.424418"
+title = "HR01003"
+longTitle = "A RESOLUTION URGING THE HOUSE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE EXISTING SYSTEM AND PROCESSES OF THE LAND TRANSPORTATION OFFICE (LTO) WITH REGARD TO THE REGISTRATION OF ELECTRONIC CARS AND VEHICLES WITH THE PURPOSE OF PROMOTING ALTERNATIVE MODES OF TRANSPORTATION WHICH WILL HELP REDUCE AIR POLLUTION IN THE COUNTRY"
+scope = "National"
+dateFiled = "2017-05-16"
+status = "Pending with the Committee on TRANSPORTATION since 2017-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01003.pdf"
+fileSize = 536045
+author = "Lopez, Manuel Luis T."
+[[authorsDetail]]
+name = "Lopez, Manuel Luis T."
+nameCode = "Lopez (M.L.)"
+date = "2017-05-16"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-05-17"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 43745
+congress = 17
+bill_no = "HR01003"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-05-24"
+date_read = "2017-05-17"

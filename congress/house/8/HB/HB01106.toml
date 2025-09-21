@@ -1,0 +1,42 @@
+billNumber = "HB01106"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01106"
+lastScraped = "2025-09-22T00:46:56.758987"
+title = "HB01106"
+longTitle = "AN ACT ESTABLISHING MANPOWER TRAINING CENTER IN THE MUNICIPALITY OF SANTA CRUZ, PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-03"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes"
+[[authorsDetail]]
+name = "Reyes"
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-09-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 135803
+congress = 8
+bill_no = "HB01106"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-09-08"

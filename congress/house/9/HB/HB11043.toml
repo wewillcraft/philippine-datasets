@@ -1,0 +1,47 @@
+billNumber = "HB11043"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11043"
+lastScraped = "2025-09-22T00:25:56.603488"
+title = "HB11043"
+longTitle = "AN ACT ESTABLISHING A YOUTH HOSTEL IN THE MUNICIPALITY OF MAYOYAO IN THE PROVINCE OF IFUGAO AND APPROPRIATING FIVE MILLION PESOS IN SUPPORT THEREOF"
+scope = "Local"
+dateFiled = "1993-10-07"
+status = "Pending with the Committee on TOURISM since 1993-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-11-04"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129659
+congress = 9
+bill_no = "HB11043"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-11-04"

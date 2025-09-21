@@ -1,0 +1,68 @@
+billNumber = "HB08377"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08377"
+lastScraped = "2025-09-21T23:55:45.971090"
+title = "HB08377"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE COOPERATIVE DEVELOPMENT ACADEMY, APPROPRIATING FUNDS THERETO, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-10-08"
+status = "Pending with the Committee on COOPERATIVES DEVELOPMENT since 2018-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08377.pdf"
+fileSize = 823270
+author = "Cua, Dakila Carlo E."
+coAuthors = [ "NIETO, YUL SERVO", "TAMBUNTING, GUSTAVO S.", "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Cua, Dakila Carlo E."
+nameCode = "Cua"
+date = "2018-10-08"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2018-11-29"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-12-10"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-01-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2018-10-10"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 41844
+congress = 17
+bill_no = "HB08377"
+report = ""
+comm_act = ""
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-10-10"

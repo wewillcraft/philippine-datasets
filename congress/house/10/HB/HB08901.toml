@@ -1,0 +1,51 @@
+billNumber = "HB08901"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08901"
+lastScraped = "2025-09-22T00:20:59.059574"
+title = "HB08901"
+longTitle = "AN ACT ESTABLISHING A COMPUTER TECHNOLOGY TRAINING CENTER AT THE CONCEPCION POLYTECHNIC COLLEGE IN THE MUNICIPALITY OF CONCEPCION, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1997-02-05"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-02-10"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 115322
+congress = 10
+bill_no = "HB08901"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-02-10"

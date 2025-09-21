@@ -1,0 +1,42 @@
+billNumber = "HB05005"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05005"
+lastScraped = "2025-09-22T00:46:57.429183"
+title = "HB05005"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY MALUNGON, MUNICIPALITY OF MAGSAYSAY, PROVINCE OF DAVAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-01-19"
+status = "Pending with the Committee on HEALTH since 1988-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-01-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 139688
+congress = 8
+bill_no = "HB05005"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-01-25"

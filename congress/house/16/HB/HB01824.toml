@@ -1,0 +1,73 @@
+billNumber = "HB01824"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01824"
+lastScraped = "2025-09-21T23:56:21.805476"
+title = "HB01824"
+longTitle = "AN ACT PROVIDING FOR THE PROTECTION, REHABILITATION, AND SUSTAINABLE MANAGEMENT OF FOREST ECOSYSTEM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-24"
+status = "Pending with the Committee on NATURAL RESOURCES since 2013-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01824.pdf"
+fileSize = 5587175
+author = "Yu, Victor J."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Yu, Victor J."
+nameCode = "Yu"
+date = "2013-07-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2015-02-16"
+journalNo = "J049"
+sessionNo = "2RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "REFORESTATION"
+type = "secondary"
+referralCode = "B505"
+
+[firstReading]
+id = 47638
+congress = 16
+bill_no = "HB01824"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-31"

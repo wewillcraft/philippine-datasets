@@ -1,0 +1,67 @@
+billNumber = "HB04955"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB04955"
+lastScraped = "2025-09-22T00:13:48.817990"
+title = "HB04955"
+longTitle = "AN ACT PROVIDING FOR AN INCREASE IN THE SALARY OF GOVERNMENT DOCTORS AND FOR EDUCATIONAL BENEFITS OF THEIR CHILDREN, APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2005-11-30"
+status = "Pending with the Committee on APPROPRIATIONS since 2005-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB04955.pdf"
+fileSize = 1207395
+author = "BIRON, FERJENEL G., MD"
+coAuthors = [ "CARMONA, TRANQUILINO B.", "MANGUDADATU, SUHARTO T.",]
+[[authorsDetail]]
+name = "BIRON, FERJENEL G., MD"
+nameCode = "Biron"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CARMONA, TRANQUILINO B."
+nameCode = "Carmona"
+date = ""
+journalNo = "J042"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MANGUDADATU, SUHARTO T."
+nameCode = "Mangudadatu"
+date = ""
+journalNo = "J051"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2005-12-06"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 80045
+congress = 13
+bill_no = "HB04955"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-12-06"
+date_read = "2005-12-06"

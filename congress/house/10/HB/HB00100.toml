@@ -1,0 +1,62 @@
+billNumber = "HB00100"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00100"
+lastScraped = "2025-09-22T00:20:57.394470"
+title = "HB00100"
+longTitle = "AN ACT CREATING AND ESTABLISHING THE INSTITUTE FOR ADVANCED STRATEGIC AND INTERNATIONAL STUDIES TO RESEARCH AND FORMULATE STRATEGIC OPTIONS FOR NATIONAL ECONOMIC, SECURITY AND FOREIGN POLICIES"
+scope = "National"
+dateFiled = "1995-06-30"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "GOLEZ, ROILO S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106521
+congress = 10
+bill_no = "HB00100"
+comm_act = "change of ctte. ref'l from Gov't Enterprise s as per J. 23 (Sept. 9, 1995); p. 42"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-25"

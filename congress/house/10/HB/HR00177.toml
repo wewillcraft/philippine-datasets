@@ -1,0 +1,75 @@
+billNumber = "HR00177"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00177"
+lastScraped = "2025-09-22T00:20:59.455627"
+title = "HR00177"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE DOMINGO L. SIAZON, JR., SECRETARY OF FOREIGN AFFAIRS, TO ACCEPT THE GRAND CODON OF THE ORDER OF THE RISING SUN AWARDED TO HIM BY THE GOVERNMENT OF JAPAN"
+scope = "Local"
+dateFiled = "1995-09-08"
+status = "Adopted as Resolution No. HR00026 on 1995-12-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[motherBills]]
+bill_no = "HR00185"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00185"
+flag = "S"
+
+[firstReading]
+id = 117231
+congress = 10
+bill_no = "HR00177"
+report = "00082"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+recomm = "Adoption in consolidat ion with House Resolution No. 185."
+date_read = "1995-09-18"
+date_ob = "1995-11-29"
+date_unass = "1995-12-05"
+date_report = "1995-11-27"
+
+[secondReading]
+id = 18932
+congress = 10
+bill_no = "HR00177"
+adopted_resolution = "HR00026"
+remarks = "Nature of this Resolution requires the concurrence of the Senate,     must be adopted as Concurrent Resolution."
+date_calendared = "1995-12-12"
+date_approved = "1995-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00026.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00026.pdf"

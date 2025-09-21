@@ -1,0 +1,71 @@
+billNumber = "HB05366"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05366"
+lastScraped = "2025-09-22T00:13:00.804319"
+title = "Amending Certain Provisions of EO 18, Creating the Sugar Regulatory Administration"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF EXECUTIVE ORDER NO. 18, CREATING THE SUGAR REGULATORY ADMINISTRATION"
+scope = "National"
+dateFiled = "2002-10-15"
+status = "Unfinished Business (Period of Sponsorship)"
+statusOrder = 12.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puentevella, Monico O."
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Puentevella, Monico O."
+nameCode = "Puentebella"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J049"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-10-21"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[motherBills]]
+bill_no = "HB02390"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02390"
+flag = "S"
+
+[firstReading]
+id = 88521
+congress = 12
+bill_no = "HB05366"
+report = "00920"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "AGRICULTURE, FOOD & FISHERIES"
+recomm = "APPROVAL WITHOUT AMNEDMENTS"
+date_read = "2002-10-21"
+date_ob = "2002-10-21"
+date_report = "2002-10-15"
+
+[secondReading]
+id = 14680
+congress = 12
+bill_no = "HB05366"
+remarks = "The Body approved to consider the Explanatory Note of the original HB 2390 as the sponsorship remarks."
+date_calendared = "2002-11-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

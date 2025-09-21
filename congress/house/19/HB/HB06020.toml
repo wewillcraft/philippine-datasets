@@ -1,0 +1,54 @@
+billNumber = "HB06020"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06020"
+lastScraped = "2025-09-21T23:55:21.193631"
+title = "HB06020"
+longTitle = "AN ACT TO INTEGRATE, COORDINATE, AND INTENSIFY SCIENTIFIC AND TECHNOLOGICAL RESEARCH AND DEVELOPMENT IN AGRICULTURE"
+scope = "National"
+dateFiled = "2022-11-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-11-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06020.pdf"
+fileSize = 3195012
+author = "Bordado, Gabriel Jr. H."
+coAuthors = [ "GALEOS, EDSEL",]
+[[authorsDetail]]
+name = "Bordado, Gabriel Jr. H."
+nameCode = "Bordado"
+date = "2022-11-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GALEOS, EDSEL"
+nameCode = "Galeos"
+date = "2023-11-29"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-11-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 10939
+congress = 19
+bill_no = "HB06020"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-15"

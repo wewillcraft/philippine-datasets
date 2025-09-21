@@ -1,0 +1,52 @@
+billNumber = "HB03061"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB03061"
+lastScraped = "2025-09-22T00:13:48.392849"
+title = "HB03061"
+longTitle = "AN ACT PROVIDING FOR THE CONVERSION OF THE POBLACION MAIN HEALTH CENTER IN THE MUNICIPALITY OF STA. RITA, PROVINCE OF SAMAR, INTO A TEN (10) BED CAPACITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2004-09-29"
+status = "Pending with the Committee on HEALTH since 2004-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB03061.pdf"
+fileSize = 859565
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2004-10-26"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 78151
+congress = 13
+bill_no = "HB03061"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-10-26"
+date_read = "2004-10-26"

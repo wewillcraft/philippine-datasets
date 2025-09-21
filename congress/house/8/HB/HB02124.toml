@@ -1,0 +1,42 @@
+billNumber = "HB02124"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02124"
+lastScraped = "2025-09-22T00:46:56.933765"
+title = "HB02124"
+longTitle = "AN ACT ABOLISHING THE CEDULA OR RESIDENCE CERTIFICATE TAX AND INSTITUTING ONE IDENTIFICATION CARD FOR ALL FILIPINOS"
+scope = "National"
+dateFiled = "1987-09-30"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 136813
+congress = 8
+bill_no = "HB02124"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-10-05"

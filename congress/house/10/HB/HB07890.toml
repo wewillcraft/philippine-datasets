@@ -1,0 +1,49 @@
+billNumber = "HB07890"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07890"
+lastScraped = "2025-09-22T00:20:58.860456"
+title = "HB07890"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7659, OTHERWISE KNOWN AS THE HEINOUS CRIME LAW"
+scope = "National"
+dateFiled = "1996-09-04"
+status = "Pending with the Committee on JUSTICE since 1996-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-09-09"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 114311
+congress = 10
+bill_no = "HB07890"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-09-09"

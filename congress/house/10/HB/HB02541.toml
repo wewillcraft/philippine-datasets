@@ -1,0 +1,49 @@
+billNumber = "HB02541"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02541"
+lastScraped = "2025-09-22T00:20:57.837084"
+title = "HB02541"
+longTitle = "AN ACT AMENDING SECTION 15 AND 28 OF REPUBLIC ACT NO. 165, ENTITLED 'AN ACT CREATING A PATENT OFFICE, PRESCRIBING ITS POWERS AND DUTIES, REGULATING THE ISSUANCE OF PATENTS, AND APPROPRIATING FUNDS THEREFOR,' AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 108962
+congress = 10
+bill_no = "HB02541"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-23"

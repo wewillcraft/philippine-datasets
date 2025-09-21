@@ -1,0 +1,69 @@
+billNumber = "HB09898"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09898"
+lastScraped = "2025-09-22T00:20:59.265257"
+title = "HB09898"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TUBURAN, MUNICIPALITY OF POTOTAN, PROVINCE OF ILOILO, TO BE NAMED AS THE JOSE FACULTAD NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-27"
+status = "Approved on Third Reading on 1998-02-02"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-09-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116319
+congress = 10
+bill_no = "HB09898"
+report = "01410"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1997-09-01"
+date_ob = "1998-01-28"
+date_report = "1998-01-28"
+
+[secondReading]
+id = 18761
+congress = 10
+bill_no = "HB09898"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-01-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3332
+congress = 10
+bill_no = "HB09898"
+date_dist = "1998-01-30"
+date_adopt = "1998-02-02"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0

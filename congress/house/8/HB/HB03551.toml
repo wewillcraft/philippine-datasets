@@ -1,0 +1,43 @@
+billNumber = "HB03551"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03551"
+lastScraped = "2025-09-22T00:46:57.188539"
+title = "HB03551"
+longTitle = "AN ACT DEFINING CERTAIN ACTS AND OMISSION INIMICAL TO THE POSTAL SYSTEM, PROVIDING PENALTIES THEREFOOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1987-11-12"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-11-16"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 138238
+congress = 8
+bill_no = "HB03551"
+comm_act = "SUBSTITUTE D BY HB 13778"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-11-16"

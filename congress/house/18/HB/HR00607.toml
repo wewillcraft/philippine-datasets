@@ -1,0 +1,47 @@
+billNumber = "HR00607"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00607"
+lastScraped = "2025-09-22T00:01:47.448596"
+title = "HR00607"
+longTitle = "RESOLUTION\r\nURGING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES, TO INVESTIGATE IN AID OF LEGISLATION, IN DETERMINING THE NEED TO REINSTATE THE BUREAU OF DENTAL SERVICES IN THE DEPARTMENT OF HEALTH AND THE INCREASE OF NUMBER OF DENTIST WORKING IN THE GOVERNMENT\r\n"
+scope = "National"
+dateFiled = "2019-12-16"
+status = "Pending with the Committee on HEALTH since 2020-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00607.pdf"
+fileSize = 983391
+author = "Villa, Jake Vincent"
+[[authorsDetail]]
+name = "Villa, Jake Vincent"
+nameCode = "Villa"
+date = "2019-12-16"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-12-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30935
+congress = 18
+bill_no = "HR00607"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-02-04"
+date_read = "2019-12-18"

@@ -1,0 +1,42 @@
+billNumber = "PS00322"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00322"
+lastScraped = "2025-09-22T00:13:49.519505"
+title = "PS00322"
+longTitle = "Abuses Made by Northwest Airlines to Filipino Passengers"
+scope = "National"
+dateFiled = "2006-01-23"
+status = "Pending with the Committee on TRANSPORTATION since 2006-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Hizon, Joey D."
+[[authorsDetail]]
+name = "Hizon, Joey D."
+nameCode = "Hizon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2006-02-14"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[firstReading]
+id = 83033
+congress = 13
+bill_no = "PS00322"
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+date_read = "2006-02-14"

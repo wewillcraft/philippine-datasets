@@ -1,0 +1,54 @@
+billNumber = "HB09101"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB09101"
+lastScraped = "2025-09-21T23:55:21.916509"
+title = "HB09101"
+longTitle = "AN ACT ESTABLISHING A LUNG CENTER OF THE PHILIPPINES IN CAGAYAN DE ORO CITY FOR MINDANAO, AMENDING SECTION 1 OF PRESIDENTIAL DECREE NO. 1823, ENTITLED \"AN ACT CREATING THE LUNG CENTER OF THE PHILIPPINES, PROVIDING FUNDS THEREFOR\", PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2023-09-11"
+status = "Pending with the Committee on HEALTH since 2023-09-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB09101.pdf"
+fileSize = 314501
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "LEE, WILBERT T.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2023-09-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2023-09-25"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-09-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 14020
+congress = 19
+bill_no = "HB09101"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-09-13"

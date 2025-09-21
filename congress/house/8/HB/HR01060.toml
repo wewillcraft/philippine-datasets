@@ -1,0 +1,67 @@
+billNumber = "HR01060"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01060"
+lastScraped = "2025-09-22T00:47:02.741816"
+title = "HR01060"
+longTitle = "RESOLUTION URGING THE NATIONAL POWER CORPORATION TO IMMEDIATELY UNDERTAKE AND INSTITUTE REMEDIAL MEASURES TO REHABILITATE THE POWER PLANT OF THE ORIENTAL MINDORO ELECTRIC COOPERATIVE, INC., (ORMECO) SITUATED IN BARANGAY CIMARRON, MUNICIPALITY OF CALAPAN, PROVINCE OF ORIENTAL MINDORO"
+scope = "Local"
+dateFiled = "1988-12-15"
+status = "Adopted as Resolution No. HR00050 on 1989-04-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valencia, Rodolfo G."
+[[authorsDetail]]
+name = "Valencia, Rodolfo G."
+nameCode = "Valencia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1989-01-16"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 170934
+congress = 8
+bill_no = "HR01060"
+report = "00470"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = "ENERGY"
+recomm = "ADOPTION WITH AMENDMENTS"
+date_read = "1989-01-16"
+date_ob = "1989-04-18"
+date_cal = "1989-04-18"
+date_unass = "1989-04-18"
+date_report = "1989-04-18"
+
+[secondReading]
+id = 21652
+congress = 8
+bill_no = "HR01060"
+adopted_resolution = "HR00050"
+remarks = "ADOPTED WITH AMENDMENTS"
+date_calendared = "1989-01-16"
+date_approved = "1989-04-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1328
+congress = 8
+bill_no = "HR01060"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0

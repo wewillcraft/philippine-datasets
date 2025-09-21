@@ -1,0 +1,42 @@
+billNumber = "HR00219"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00219"
+lastScraped = "2025-09-22T00:25:57.406896"
+title = "HR00219"
+longTitle = "RESOLUTION PROVIDING FOR AN INQUIRY IN AID OF LEGISLATION INTO THE STOCK TRADING ACTIVITIES IN THE COUNTRY'S STOCK EXCHANGES"
+scope = "National"
+dateFiled = "1992-10-01"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1992-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1992-10-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133531
+congress = 9
+bill_no = "HR00219"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "1992-10-06"

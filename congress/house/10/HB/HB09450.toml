@@ -1,0 +1,69 @@
+billNumber = "HB09450"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09450"
+lastScraped = "2025-09-22T00:20:59.168793"
+title = "HB09450"
+longTitle = "AN ACT TO ESTABLISH THE SOUTHWESTERN MINDORO MEDICAL CENTER IN THE MUNICIPALITY OF CALINTAAN, PROVINCE OF OCCIDENTAL MINDORO"
+scope = "Local"
+dateFiled = "1997-05-23"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-05-27"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "principal"
+referralCode = "B512"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115871
+congress = 10
+bill_no = "HB09450"
+report = "01348"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1997-05-27"
+date_ob = "1997-12-17"
+date_report = "1997-12-15"
+
+[secondReading]
+id = 18725
+congress = 10
+bill_no = "HB09450"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3300
+congress = 10
+bill_no = "HB09450"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

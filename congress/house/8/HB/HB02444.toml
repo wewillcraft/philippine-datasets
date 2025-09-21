@@ -1,0 +1,42 @@
+billNumber = "HB02444"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02444"
+lastScraped = "2025-09-22T00:46:56.996376"
+title = "HB02444"
+longTitle = "AN ACT PROHIBITING THE IMPORTATION OF ALL KINDS OF FEEDS AND FEED MATERIALS FOR ANIMALS OR AQUACULTURE AVAILABLE LOCALLY"
+scope = "National"
+dateFiled = "1987-10-07"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-10-09"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 137133
+congress = 8
+bill_no = "HB02444"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1987-10-09"

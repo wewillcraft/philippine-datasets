@@ -1,0 +1,62 @@
+billNumber = "HB05179"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05179"
+lastScraped = "2025-09-22T00:13:00.762269"
+title = "HB05179"
+longTitle = "AN ACT UPGRADING THE SALARY GRADE OF EDUCATION SUPERVISORS I & II, AMENDING FOR THE PURPOSE THE `COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989'"
+scope = "National"
+dateFiled = "2002-08-28"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dy, Consuelo A."
+coAuthors = [ "TULAGAN, GENEROSO DC.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Dy, Consuelo A."
+nameCode = "Dy"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J018"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J029"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-09-05"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 88334
+congress = 12
+bill_no = "HB05179"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-09-05"

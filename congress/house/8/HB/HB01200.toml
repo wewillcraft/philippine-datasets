@@ -1,0 +1,90 @@
+billNumber = "HB01200"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01200"
+lastScraped = "2025-09-22T00:46:56.774146"
+title = "HB01200"
+longTitle = "AN ACT PROVIDING FOR THE SALE OF ALL ABANDONED LOTS OF THE PHILIPPINE NATIONAL RAILWAYS (PNR) IN THE PROVINCE OF CAVITE"
+scope = "Local"
+dateFiled = "1987-09-07"
+status = "Approved by the House on 1990-04-05, transmitted to on 1990-04-16 and received by the Senate on 1990"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guerrero"
+coAuthors = [ "NUÑEZ, JORGE A.", "DRAGON, RENATO P.", "LINGAD, EMIGDIO L.",]
+[[authorsDetail]]
+name = "Guerrero"
+nameCode = "Guerrero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NUÑEZ, JORGE A."
+nameCode = "Nuñez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LINGAD, EMIGDIO L."
+nameCode = "Lingad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 135896
+congress = 8
+bill_no = "HB01200"
+report = "00261"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = "GOVERNMENT ENTERPRISES"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-09-10"
+date_ob = "1990-02-17"
+date_cal = "1990-02-17"
+date_unass = "1990-02-17"
+date_report = "1988-08-16"
+
+[secondReading]
+id = 20373
+congress = 8
+bill_no = "HB01200"
+date_approved = "1990-03-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 155
+congress = 8
+bill_no = "HB01200"
+date_dist = "1990-04-02"
+date_adopt = "1990-04-05"
+no_yeas = 138
+no_nays = 0
+no_abstent = 0
+date_trans = "1990-04-16"
+date_rec = "1990-05-21"

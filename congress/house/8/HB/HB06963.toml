@@ -1,0 +1,42 @@
+billNumber = "HB06963"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06963"
+lastScraped = "2025-09-22T00:46:57.834956"
+title = "HB06963"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF BAIRAN, MUNICIPALITY OF ASTURIAS, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 141644
+congress = 8
+bill_no = "HB06963"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

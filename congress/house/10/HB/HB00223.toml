@@ -1,0 +1,68 @@
+billNumber = "HB00223"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00223"
+lastScraped = "2025-09-22T00:20:57.419508"
+title = "HB00223"
+longTitle = "AN ACT ESTABLISHING A ONE (1)-YEAR PREPARATORY SCHOOL IN ALL PUBLIC ELEMENTARY SCHOOLS IN THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "GARCIA, ENRIQUE JR. T.", "LIBAN, DANTE V.", "RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GARCIA, ENRIQUE JR. T."
+nameCode = "Garcia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106644
+congress = 10
+bill_no = "HB00223"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-26"

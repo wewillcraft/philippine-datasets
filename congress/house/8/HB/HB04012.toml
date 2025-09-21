@@ -1,0 +1,42 @@
+billNumber = "HB04012"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04012"
+lastScraped = "2025-09-22T00:46:57.262260"
+title = "HB04012"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE INTERNATIONAL TRADE AND MARKETING CENTER, DEFINING ITS POWERS AND FUNCTIONS, AND PROVIDING THE MANNER OF FINANCINGITS OPERATIONS"
+scope = "National"
+dateFiled = "1987-11-24"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-11-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 138698
+congress = 8
+bill_no = "HB04012"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1987-11-27"

@@ -1,0 +1,42 @@
+billNumber = "HB05071"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05071"
+lastScraped = "2025-09-22T00:46:57.439685"
+title = "HB05071"
+longTitle = "AN ACT ESTABLISHING A STOCK FARM IN THE SECOND CONGRESSIONAL DISTRICT OF THE PROVINCE OF SOUTH COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-01-26"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pedro"
+[[authorsDetail]]
+name = "Pedro"
+nameCode = "Pedro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-01-28"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 139754
+congress = 8
+bill_no = "HB05071"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-01-28"

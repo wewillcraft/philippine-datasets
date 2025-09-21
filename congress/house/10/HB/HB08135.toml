@@ -1,0 +1,46 @@
+billNumber = "HB08135"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08135"
+lastScraped = "2025-09-22T00:20:58.907982"
+title = "HB08135"
+longTitle = "AN ACT PROVIDING FOR THE BACKFILLING OF THE RECLAMATION AREA IN BARANGAY I, MUNICIPALITY OF NASIPIT, PROVINCE OF AGUSAN DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-11"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114556
+congress = 10
+bill_no = "HB08135"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-11"

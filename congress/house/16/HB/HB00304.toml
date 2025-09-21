@@ -1,0 +1,61 @@
+billNumber = "HB00304"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00304"
+lastScraped = "2025-09-21T23:56:21.530164"
+title = "HB00304"
+longTitle = "AN ACT RECONFIGURING THE DISPOSITION OF THE MONIES COLLECTED AND DELINEATING THE STATUS OF THE SPECIAL FUNDS, AMENDING FOR THE PURPOSE SECTIONS 7 AND 8 OF REPUBLIC ACT NO. 8794, OTHERWISE KNOWN AS THE MOTOR VEHICLE USER'S CHARGE LAW, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00304.pdf"
+fileSize = 833331
+author = "Yap, Susan"
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Yap, Susan"
+nameCode = "Yap (S.)"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-08-14"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-08-14"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 46118
+congress = 16
+bill_no = "HB00304"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

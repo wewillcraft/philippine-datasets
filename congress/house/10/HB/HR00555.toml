@@ -1,0 +1,57 @@
+billNumber = "HR00555"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00555"
+lastScraped = "2025-09-22T00:20:59.526474"
+title = "HR00555"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE(S) OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, OF THE CIRCUMSTANCES SURROUNDING THE DEATHS OF SEVERAL PERSONS RESULTING FROM THE FIRE AT THE OZONE DISCOTHEQUE INQUEZON CITY, METRO MANILA, AND TO RECOMMEND APPROPRIATE LEGISLATION THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-19"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Belmonte, Feliciano Jr. R."
+coAuthors = [ "SHAHANI, RANJIT R.", "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Belmonte, Feliciano Jr. R."
+nameCode = "Belmonte"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SHAHANI, RANJIT R."
+nameCode = "Shahani"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 117609
+congress = 10
+bill_no = "HR00555"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Order and Security on May 20, 1996"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-03-21"

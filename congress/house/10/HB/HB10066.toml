@@ -1,0 +1,69 @@
+billNumber = "HB10066"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10066"
+lastScraped = "2025-09-22T00:20:59.301663"
+title = "HB10066"
+longTitle = "AN ACT PROHIBITING THE ESTABLISHMENT OF POLITICAL DYNASTIES"
+scope = "National"
+dateFiled = "1997-10-07"
+status = "Bill reported out 1997-10-07 (#01125)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "TANJUATCO, EMIGDIO JR. S.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TANJUATCO, EMIGDIO JR. S."
+nameCode = "Tanjuatco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-10-07"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[motherBills]]
+bill_no = "HB02692"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB03584"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02692"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03584"
+flag = "S"
+
+[firstReading]
+id = 116487
+congress = 10
+bill_no = "HB10066"
+report = "01125"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-10-07"
+date_ob = "1997-10-07"
+date_report = "1997-10-07"

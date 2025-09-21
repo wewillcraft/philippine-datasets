@@ -1,0 +1,41 @@
+billNumber = "HB03280"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03280"
+lastScraped = "2025-09-22T00:20:57.980424"
+title = "HB03280"
+longTitle = "AN ACT INCREASING THE NUMBER OF COURT OF APPEALS JUSTICES TO SEVENTY-FIVE AMENDING FOR THE PURPOSE THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED"
+scope = "National"
+dateFiled = "1995-09-06"
+status = "Substituted by HB07108"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 109701
+congress = 10
+bill_no = "HB03280"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-18"

@@ -1,0 +1,47 @@
+billNumber = "HR00400"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00400"
+lastScraped = "2025-09-22T00:13:01.225683"
+title = "HR00400"
+longTitle = "RESOLUTION URGING THE NATIONAL GOVERNMENT TO CONSTRUCT A BRIDGE CONNECTING THE ISLAND OF PANAY, GUIMARAS AND NEGROS TO HASTEN THE ECONOMIC DEVELOPMENT OF THESE ISLANDS"
+scope = "Local"
+dateFiled = "2002-01-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2002-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2002-02-06"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 90338
+congress = 12
+bill_no = "HR00400"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2002-02-06"

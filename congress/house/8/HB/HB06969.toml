@@ -1,0 +1,42 @@
+billNumber = "HB06969"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06969"
+lastScraped = "2025-09-22T00:46:57.835783"
+title = "HB06969"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF OLANGO, MUNICIPALITY OF ALOGUINSAN,PROV INCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 141650
+congress = 8
+bill_no = "HB06969"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

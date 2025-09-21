@@ -1,0 +1,42 @@
+billNumber = "HR00022"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00022"
+lastScraped = "2025-09-22T00:47:02.527185"
+title = "HR00022"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL SECURITY, DEFENSE AND PEACE AND ORDER TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE RAMPANT INCIDENCE OF CARNAPPING WHICH TO THIS DATE, DESPITE EFFORTS OF THE LAW ENFORCEMENTS AGENCIES, HAS REMAINED UNBATED AND TO RECOMMEND SUCH MEASURE AS MAY BE NECESSARY TO MINIMIZE ITS INCIDENCE"
+scope = "National"
+dateFiled = "1987-07-27"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-07-30"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[firstReading]
+id = 169932
+congress = 8
+bill_no = "HR00022"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-07-30"

@@ -1,0 +1,76 @@
+billNumber = "HB01243"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01243"
+lastScraped = "2025-09-22T00:13:00.028857"
+title = "HB01243"
+longTitle = "AN ACT CREATING A DEPARTMENT OF FISHERIES AND AQUATIC RESOURCES, PROVIDING FOR ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "PUENTEBELLA, MONICO O.", "NANTES, RAFAEL P.", "LOZADA, JOSE APOLINARIO JR. L.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PUENTEBELLA, MONICO O."
+nameCode = "Puentebella"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NANTES, RAFAEL P."
+nameCode = "Nantes"
+date = ""
+journalNo = "J057"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LOZADA, JOSE APOLINARIO JR. L."
+nameCode = "Lozada"
+date = ""
+journalNo = "J010"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84403
+congress = 12
+bill_no = "HB01243"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2001-07-30"

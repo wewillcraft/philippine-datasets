@@ -1,0 +1,43 @@
+billNumber = "HR01120"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01120"
+lastScraped = "2025-09-22T00:25:57.572380"
+title = "HR01120"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON EDUCATION AND CULTURE, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED PURCHASES BY THE INSTRUCTIONAL MATERIALS DEVELOPMENT CENTER OF TREASURY BILLS WHICH HAD NOT BEEN DELIVERED AND ITS EFFECTS ON THE AGENCY'S CAPABILITY TO DEVELOP, PRODUCE AND DISTRIBUTE QUALITY INSTRUCTIONAL MATERIALS AT REASONABLE COSTS FOR THE PURPOSE OF RECOMMENDING APPROPRIATE LEGISLATION THEREON"
+scope = "National"
+dateFiled = "1994-07-25"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-07-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134426
+congress = 9
+bill_no = "HR01120"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEE ON EDUCATION AND CULTURE ON 08/09/94"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-07-28"

@@ -1,0 +1,44 @@
+billNumber = "PS00042"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00042"
+lastScraped = "2025-09-21T23:39:49.248954"
+title = "PS00042"
+longTitle = "RECLAIMING PASSENGER RIGHTS IN A DEREGULATED AIRLINE INDUSTRY"
+dateFiled = "2025-08-18"
+status = "Pending with the Committee on TRANSPORTATION since 2025-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "DAGOOC, SERGIO C."
+[[authorsDetail]]
+name = "DAGOOC, SERGIO C."
+nameCode = "Dagooc"
+date = "2025-08-18"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-08-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4877
+congress = 103
+bill_no = "PS00042"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-27"
+date_read = "2025-08-18"

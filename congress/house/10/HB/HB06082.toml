@@ -1,0 +1,54 @@
+billNumber = "HB06082"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06082"
+lastScraped = "2025-09-22T00:20:58.491991"
+title = "HB06082"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A FIRE STATION EQUIPPED WITH SUFFICIENT AND MODERN FACILITIES AND EQUIPMENT IN THE MUNICIPALITY OF TAGANA-AN, PROVINCE OF SURIGAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-02"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "RAMA, EDUARDO SR. L.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO SR. L."
+nameCode = "Rama"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-02-07"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112503
+congress = 10
+bill_no = "HB06082"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-02-07"

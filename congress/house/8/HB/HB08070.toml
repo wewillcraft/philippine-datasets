@@ -1,0 +1,42 @@
+billNumber = "HB08070"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08070"
+lastScraped = "2025-09-22T00:46:58.010431"
+title = "HB08070"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF LUCA, MUNICIPALITY OF BALAMBAN, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-25"
+status = "Pending with the Committee on HEALTH since 1988-04-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 142748
+congress = 8
+bill_no = "HB08070"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-27"

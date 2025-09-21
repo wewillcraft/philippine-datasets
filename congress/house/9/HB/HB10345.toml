@@ -1,0 +1,47 @@
+billNumber = "HB10345"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10345"
+lastScraped = "2025-09-22T00:25:56.468471"
+title = "HB10345"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A PUBLIC LIBRARY IN THE MUNICIPALITY OF TINOC, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-08-10"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1993-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1993-08-16"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128963
+congress = 9
+bill_no = "HB10345"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1993-08-16"

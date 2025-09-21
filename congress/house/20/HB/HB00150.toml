@@ -1,0 +1,68 @@
+billNumber = "HB00150"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00150"
+lastScraped = "2025-09-21T23:39:48.325495"
+title = "HB00150"
+longTitle = "AN ACT EXEMPTING PERSONS WITH DISABILITIES (PWD) AND SENIOR CITIZENS OF THE PAYMENT OF TRAVEL TAX"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on TOURISM since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00150.pdf"
+fileSize = 4720424
+author = "OLIVAREZ, ERIC L."
+coAuthors = [ "REMULLA, CRISPIN DIEGO D.", "RIVERA, NOEL \"Bong\" N.", "ANGELES, MARIA CRISTINA C.",]
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REMULLA, CRISPIN DIEGO D."
+nameCode = "Remulla"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ANGELES, MARIA CRISTINA C."
+nameCode = "Angeles"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 151
+congress = 103
+bill_no = "HB00150"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

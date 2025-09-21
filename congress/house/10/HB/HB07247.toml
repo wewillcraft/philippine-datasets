@@ -1,0 +1,68 @@
+billNumber = "HB07247"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07247"
+lastScraped = "2025-09-22T00:20:58.706513"
+title = "HB07247"
+longTitle = "AN ACT CREATING AN ECOLOGY TRUST FUND FOR THE REHABILITATION OF OUR ENVIRONMENT AND HAZARDOUS WASTE SITES,FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-06-03"
+status = "Pending with the Committee on ECOLOGY since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113668
+congress = 10
+bill_no = "HB07247"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-06-05"

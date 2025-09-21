@@ -1,0 +1,68 @@
+billNumber = "HR01486"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01486"
+lastScraped = "2025-09-22T00:20:59.707233"
+title = "HR01486"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES OVER THE DEATH OF HONORABLE PROSPERO G. BELLO, FORMER ASSEMBLYMAN, BATASANG PAMBANSA, REPRESENTING REGION 11"
+scope = "Local"
+dateFiled = "1998-01-12"
+status = "Adopted as Resolution No. HR00126 on 1998-01-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "RESPICIO, SANTIAGO P.", "ABAYA, ANTONIO M.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-01-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118540
+congress = 10
+bill_no = "HR01486"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-01-12"
+
+[secondReading]
+id = 19055
+congress = 10
+bill_no = "HR01486"
+adopted_resolution = "HR00126"
+date_calendared = "1998-01-12"
+date_approved = "1998-01-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00126.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00126.pdf"

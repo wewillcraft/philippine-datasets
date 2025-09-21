@@ -1,0 +1,61 @@
+billNumber = "HB06056"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB06056"
+lastScraped = "2025-09-21T23:55:45.310755"
+title = "HB06056"
+longTitle = "AN ACT PROVIDING FOR A BILL OF RIGHTS FOR AIR PASSENGERS AND CARRIER OBLIGATIONS"
+scope = "National"
+dateFiled = "2017-07-26"
+status = "Pending with the Committee on TRANSPORTATION since 2017-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB06056.pdf"
+fileSize = 4018447
+author = "Herrera, Bernadette \"BH\""
+coAuthors = [ "CATAMCO, NANCY A.", "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera-Dy"
+date = "2017-07-26"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2017-08-14"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-08-29"
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-07-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 39524
+congress = 17
+bill_no = "HB06056"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-31"

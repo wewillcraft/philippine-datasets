@@ -1,0 +1,47 @@
+billNumber = "HB04377"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04377"
+lastScraped = "2025-09-22T00:13:00.586243"
+title = "HB04377"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE ST. ANTHONY MOTHER AND CHILD HOSPITAL IN BARANGAY BASAK-SAN NICOLAS, CITY OF CEBU, FROM 25 TO 50 BEDS AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-02-11"
+status = "Pending with the Committee on HEALTH since 2002-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-02-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87537
+congress = 12
+bill_no = "HB04377"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-02-18"

@@ -1,0 +1,69 @@
+billNumber = "HB10200"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10200"
+lastScraped = "2025-09-22T00:25:56.443434"
+title = "HB10200"
+longTitle = "AN ACT ESTABLISHING A HOUSING PROGRAM FOR THE MEMBERS OF THE PHILIPPINE NATIONAL POLICE (PNP) AND BUREAU OF FIRE PROTECTION (BFP) APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-08-05"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1993-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DEL MAR, RAUL V.", "RAMIREZ, JOSE T.", "SOON-RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON S."
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1993-08-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128818
+congress = 9
+bill_no = "HB10200"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "1993-08-10"

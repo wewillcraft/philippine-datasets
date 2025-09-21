@@ -1,0 +1,56 @@
+billNumber = "HB06982"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06982"
+lastScraped = "2025-09-22T00:20:58.654436"
+title = "HB06982"
+longTitle = "AN ACT DECLARING ILLEGAL RECRUITMENT, AS DEFINED IN EXISTING LAWS, AS A HEINOUS CRIME AND IMPOSING THE DEATH PENALTY THEREFOR"
+scope = "National"
+dateFiled = "1996-05-15"
+status = "Pending with the Committee on JUSTICE since 1996-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-05-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 113403
+congress = 10
+bill_no = "HB06982"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-05-20"

@@ -1,0 +1,66 @@
+billNumber = "HR00063"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00063"
+lastScraped = "2025-09-22T00:13:01.152732"
+title = "Commending Dorothy Delasin for Winning the Giant Eagle Ladies Professional Golf Association (LPGA) Classic Championship"
+longTitle = "RESOLUTION COMMENDING DOROTHY DELASIN FOR WINNING THE GIANT EAGLE LADIES PROFESSIONAL GOLF ASSOCIATION (LPGA) CLASSIC CHAMPIONSHIP"
+scope = "Local"
+dateFiled = "2001-07-31"
+status = "Adopted as Resolution No. HR00007 on 2001-08-01"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[motherBills]]
+bill_no = "HR00064"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00064"
+flag = "S"
+
+[firstReading]
+id = 90002
+congress = 12
+bill_no = "HR00063"
+report = "00003"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval in consolidat ion with House Resolution No. 64 without amendments ."
+date_read = "2001-07-31"
+date_ob = "2001-07-31"
+date_report = "2001-07-31"
+
+[secondReading]
+id = 14926
+congress = 12
+bill_no = "HR00063"
+adopted_resolution = "HR00007"
+date_calendared = "2001-08-01"
+date_approved = "2001-08-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00007.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00007.pdf"

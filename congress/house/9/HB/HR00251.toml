@@ -1,0 +1,42 @@
+billNumber = "HR00251"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00251"
+lastScraped = "2025-09-22T00:25:57.412161"
+title = "HR00251"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON JUSTICE TO REVIEW PRESIDENTIAL DECREE NO. 1083, OTHERWISE KNOWN AS THE 'CODE OF MUSLIM PERSONAL LAWS OF THE PHILIPPINES,' AND TO RECOMMEND AMENDMENTS THERETO FOR A MORE MEANINGFUL IMPLEMENTATION OF THE SHARIAH LAWSIN MUSLIM SOCIETY"
+scope = "Local"
+dateFiled = "1992-10-12"
+status = "Pending with the Committee on JUSTICE since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tulawie"
+[[authorsDetail]]
+name = "Tulawie"
+nameCode = "Tulawie"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 133563
+congress = 9
+bill_no = "HR00251"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-10-15"

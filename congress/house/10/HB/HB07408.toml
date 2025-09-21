@@ -1,0 +1,56 @@
+billNumber = "HB07408"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07408"
+lastScraped = "2025-09-22T00:20:58.735228"
+title = "HB07408"
+longTitle = "AN ACT PROVIDING FOR A MORATORIUM FOR ALL LAND CONVERSION ACTIVITIES AND PROCESSING APPLICATIONS FOR THE SAME, AND PROVIDING MECHANISMS AND PENALTIES THEREOF"
+scope = "National"
+dateFiled = "1996-06-11"
+status = "Pending with the Committee on AGRARIAN REFORM since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanada"
+coAuthors = [ "LIBAN, DANTE V.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Tanada"
+nameCode = "Tanada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 113829
+congress = 10
+bill_no = "HB07408"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+date_read = "1996-07-23"

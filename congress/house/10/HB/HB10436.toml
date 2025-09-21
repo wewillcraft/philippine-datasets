@@ -1,0 +1,46 @@
+billNumber = "HB10436"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10436"
+lastScraped = "2025-09-22T00:20:59.383732"
+title = "HB10436"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A CULTURAL AND READING CENTER IN BARANGAY BONGLOY, MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-01-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1998-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-01-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116857
+congress = 10
+bill_no = "HB10436"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1998-01-12"

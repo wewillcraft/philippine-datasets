@@ -1,0 +1,42 @@
+billNumber = "HB08320"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08320"
+lastScraped = "2025-09-22T00:46:58.075286"
+title = "HB08320"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY LAKIT-LAKIT, SAPA-SAPA, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-27"
+status = "Pending with the Committee on HEALTH since 1988-05-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-02"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 142998
+congress = 8
+bill_no = "HB08320"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-02"

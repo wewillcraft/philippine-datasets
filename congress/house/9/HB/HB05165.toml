@@ -1,0 +1,42 @@
+billNumber = "HB05165"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05165"
+lastScraped = "2025-09-22T00:25:55.583098"
+title = "HB05165"
+longTitle = "AN ACT AUTHORIZING THE BUREAU OF CUSTOMS TO CONSIGN CONFISCATED AND ABANDONED ITEMS TO THE DUTY FREE SHOP PHILIPPINES"
+scope = "National"
+dateFiled = "1992-11-25"
+status = "Pending with the Committee on WAYS AND MEANS since 1992-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1992-12-07"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 123784
+congress = 9
+bill_no = "HB05165"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1992-12-07"

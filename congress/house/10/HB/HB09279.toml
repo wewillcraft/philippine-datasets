@@ -1,0 +1,66 @@
+billNumber = "HB09279"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09279"
+lastScraped = "2025-09-22T00:20:59.135339"
+title = "HB09279"
+longTitle = "AN ACT DECLARING JULY FIFTEEN OF EVERY YEAR AS THE FOUNDATION DAY OF THE MUNICIPALITY OF PADADA, PROVINCE OF DAVAO DEL SUR, AND AS A SPECIAL NONWORKING PUBLIC HOLIDAY IN SAID TOWN"
+scope = "Local"
+dateFiled = "1997-04-24"
+status = "Approved by the House on 1997-08-26, transmitted to on 1997-08-27 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almendras"
+[[authorsDetail]]
+name = "Almendras"
+nameCode = "Almendras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-04-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 115700
+congress = 10
+bill_no = "HB09279"
+report = "00994"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1997-04-29"
+date_ob = "1997-07-29"
+date_report = "1997-06-09"
+
+[secondReading]
+id = 18701
+congress = 10
+bill_no = "HB09279"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-07-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3280
+congress = 10
+bill_no = "HB09279"
+date_dist = "1997-08-07"
+date_adopt = "1997-08-26"
+no_yeas = 172
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-27"
+date_rec = "1997-09-01"

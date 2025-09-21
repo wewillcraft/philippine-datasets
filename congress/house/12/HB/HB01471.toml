@@ -1,0 +1,42 @@
+billNumber = "HB01471"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01471"
+lastScraped = "2025-09-22T00:13:00.069531"
+title = "HB01471"
+longTitle = "AN ACT DECLARING THE CABUL-AN ISLAND IN THE MUNICIPALITY OF BUENAVISTA, PROVINCE OF BOHOL, A TOURISM ZONE"
+scope = "Local"
+dateFiled = "2001-07-25"
+status = "Pending with the Committee on TOURISM since 2001-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cajes, Roberto C."
+[[authorsDetail]]
+name = "Cajes, Roberto C."
+nameCode = "Cajes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 84631
+congress = 12
+bill_no = "HB01471"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-07-31"

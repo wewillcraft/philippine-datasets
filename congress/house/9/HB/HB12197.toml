@@ -1,0 +1,42 @@
+billNumber = "HB12197"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12197"
+lastScraped = "2025-09-22T00:25:56.846395"
+title = "HB12197"
+longTitle = "AN ACT ESTABLISHING A MINI-LIVESTOCK FEED MILL IN THE MUNICIPALITY OF CAVINTI, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-03-02"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-03-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-03-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130812
+congress = 9
+bill_no = "HB12197"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-03-08"

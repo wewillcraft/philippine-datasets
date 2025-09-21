@@ -1,0 +1,44 @@
+billNumber = "HR00054"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00054"
+lastScraped = "2025-09-21T23:39:49.205925"
+title = "HR00054"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S OF THE HOUSE OF\r\nREPRESENTATIVES, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ANOMALOUS AND FRAUDULENT TRANSACTIONS IN THE RELEASE AND UTILIZATION OF FUNDS UNDER THE AUSPICES OF THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT REGION 10\r\n"
+dateFiled = "2025-07-16"
+status = "Pending with the Committee on SOCIAL SERVICES since 2025-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "OAMINAL, SANCHO FERNANDO \"ANDO\" F."
+[[authorsDetail]]
+name = "OAMINAL, SANCHO FERNANDO \"ANDO\" F."
+nameCode = "Oaminal (S. F. F.)"
+date = "2025-07-16"
+sequence = 1
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4610
+congress = 103
+bill_no = "HR00054"
+report = ""
+comm_act = ""
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-13"
+date_read = "2025-07-30"

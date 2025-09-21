@@ -1,0 +1,68 @@
+billNumber = "HB01049"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01049"
+lastScraped = "2025-09-22T00:20:57.553808"
+title = "HB01049"
+longTitle = "AN ACT PROVIDING FOR THE ORGANIZATIONAL STRUCTURE OF THE OFFICE OF THE SPECIAL PROSECUTOR AND THE FUNCTIONS THEREOF, INDEPENDENT OF THE OFFICE OF THE OMBUDSMAN, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED 6770, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on JUSTICE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "GONZALEZ, RAUL M.", "LIBAN, DANTE V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, RAUL M."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107470
+congress = 10
+bill_no = "HB01049"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-27"

@@ -1,0 +1,42 @@
+billNumber = "HR01622"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01622"
+lastScraped = "2025-09-22T00:47:02.858351"
+title = "HR01622"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INQUIRY INTO THE MANAGEMENT AND OPERATIONS OF EPZA, AND FURTHER ON TO CONDUCT A REVIEW OF THE PRESIDENTIAL DECREE THAT CREATED IT"
+scope = "Local"
+dateFiled = "1990-01-22"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1990-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1990-01-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171468
+congress = 8
+bill_no = "HR01622"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1990-01-22"

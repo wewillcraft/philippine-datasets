@@ -1,0 +1,104 @@
+billNumber = "HB01254"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01254"
+lastScraped = "2025-09-22T00:25:54.819633"
+title = "HB01254"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF PUBLIC RESTROOMS ALONG NATIONAL HIGHWAYS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-08-20"
+status = "Approved by the House on 1994-11-28, transmitted to on 1994-12-01 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "PLAZA, CHARITO B.", "PAYUMO, FELICITO C.", "DE LA CRUZ, ZOILO JR. V.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PAYUMO, FELICITO C."
+nameCode = "Payumo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DE LA CRUZ, ZOILO JR. V."
+nameCode = "De La Cruz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[motherBills]]
+bill_no = "HB05276"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05276"
+flag = "S"
+
+[firstReading]
+id = 119873
+congress = 9
+bill_no = "HB01254"
+report = "00770"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "APPROVAL"
+date_read = "1992-08-26"
+date_ob = "1994-08-03"
+date_cal = "1994-08-03"
+date_unass = "1994-08-03"
+date_report = "1994-06-06"
+
+[secondReading]
+id = 19178
+congress = 9
+bill_no = "HB01254"
+date_calendared = "1994-08-08"
+date_approved = "1994-11-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1455
+congress = 9
+bill_no = "HB01254"
+date_dist = "1994-11-15"
+date_adopt = "1994-11-28"
+no_yeas = 136
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-12-01"
+date_rec = "1994-12-02"

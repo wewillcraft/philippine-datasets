@@ -1,0 +1,52 @@
+billNumber = "PS00513"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00513"
+lastScraped = "2025-09-22T00:13:49.546300"
+title = "PS00513"
+longTitle = "Fake Visas of Foreign Nationals"
+scope = "National"
+dateFiled = "2006-11-27"
+status = "Pending with the Committee on OVERSIGHT since 2006-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers, Robert Ace S."
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "OVERSIGHT"
+type = "primary"
+referralCode = "D501"
+dateRead = "2006-11-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "secondary"
+referralCode = "D502"
+
+[firstReading]
+id = 83122
+congress = 13
+bill_no = "PS00513"
+referral = "D501"
+ref_name = "OVERSIGHT"
+sub_name = ""
+date_read = "2006-11-27"

@@ -1,0 +1,70 @@
+billNumber = "HB05622"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05622"
+lastScraped = "2025-09-22T00:20:58.411143"
+title = "HB05622"
+longTitle = "AN ACT CREATING SEPARATE MUNICIPAL TRIAL COURTS FOR THE MUNICIPALITIES OF SAN ISIDRO AND CABIAO, NUEVA ECIJA, ABOLISHING THEREBY THE EXISTING 4TH MUNICIPAL CIRCUIT TRIAL COURT OF NUEVA ECIJA, AMENDING FOR THE PURPOSE ADMINISTRATIVE ORDER NO. 33, SERIES OF 1978, OF THE SUPREME COURT OF THE PHILIPPINES, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-12-21"
+status = "Approved on Third Reading on 1998-02-06"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112043
+congress = 10
+bill_no = "HB05622"
+report = "01430"
+referral = "0520"
+ref_name = "JUSTICE"
+recomm = "approval without amendments"
+date_read = "1996-01-22"
+date_ob = "1998-02-02"
+date_report = "1998-01-30"
+
+[secondReading]
+id = 18243
+congress = 10
+bill_no = "HB05622"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1998-02-02"
+date_approved = "1998-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2847
+congress = 10
+bill_no = "HB05622"
+date_dist = "1998-02-02"
+date_adopt = "1998-02-06"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0

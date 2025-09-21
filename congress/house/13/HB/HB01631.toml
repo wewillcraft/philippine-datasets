@@ -1,0 +1,67 @@
+billNumber = "HB01631"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01631"
+lastScraped = "2025-09-22T00:13:48.140209"
+title = "Free Physical Examination for Public School Teachers Act of 2004"
+longTitle = "AN ACT TO GRANT PUBLIC SHCOOL TEACHERS FREE OF CHARGE X-RAY AND OTHER FORMS OF LABORATORY EXAMINATIONS IN ANY GOVERNMENT AND PRIVATE HOSPITALS DURING THEIR REQUIRED ANNUAL PHYSICAL EXAMINATION AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2004-07-26"
+status = "Pending with the Committee on HEALTH since 2004-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB01631.pdf"
+fileSize = 8454362
+author = "Barinaga, Roseller L."
+coAuthors = [ "CHATTO, EDGARDO M.", "SYJUCO, JUDY",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, JUDY"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2004-08-03"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 76721
+congress = 13
+bill_no = "HB01631"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-08-03"
+date_read = "2004-08-03"

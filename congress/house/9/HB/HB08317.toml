@@ -1,0 +1,47 @@
+billNumber = "HB08317"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08317"
+lastScraped = "2025-09-22T00:25:56.100367"
+title = "HB08317"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE (25) BED HOSPITAL IN BARANGAY LITTLE BAGUIO, MUNICIPALITY OF MALITA, PROVINCE OF DAVAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-03-23"
+status = "Pending with the Committee on HEALTH since 1993-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-03-26"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126936
+congress = 9
+bill_no = "HB08317"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-03-26"

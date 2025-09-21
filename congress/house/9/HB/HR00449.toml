@@ -1,0 +1,50 @@
+billNumber = "HR00449"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00449"
+lastScraped = "2025-09-22T00:25:57.447577"
+title = "HR00449"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO STUDY IN AID OF LEGISLATION REQUIRING THE BUREAU OF CUSTOMS TO SIMPLIFY IMPORT PROCEDURES"
+scope = "National"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 133761
+congress = 9
+bill_no = "HR00449"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1993-02-02"

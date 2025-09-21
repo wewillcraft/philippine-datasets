@@ -1,0 +1,54 @@
+billNumber = "HR01388"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01388"
+lastScraped = "2025-09-22T00:20:59.691321"
+title = "HR01388"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON GOOD GOVERNMENT AND ON LOCAL GOVERNMENT TO CONDUCT AN INQUIRY, IN AID LEGISLATION, ON THE PROPOSED NEGOTIATED SALE OF THE GOVERNMENT LAND IN CALOOCAN CITY, ON WHICH THE GOTESCO GRAND CENTRAL STANDS"
+scope = "Local"
+dateFiled = "1997-10-08"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-10-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 118442
+congress = 10
+bill_no = "HR01388"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-10-13"

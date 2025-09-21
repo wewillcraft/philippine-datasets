@@ -1,0 +1,64 @@
+billNumber = "HB00809"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00809"
+lastScraped = "2025-09-22T00:12:59.952383"
+title = "HB00809"
+longTitle = "AN ACT PROVIDING HIGHER COMPENSATION TO VICTIMS OF UNJUST IMPRISONMENT OR DETENTION AND VICTIMS OF VIOLENT CRIMES, AMENDING FOR THE PURPOSE SECTION 14 OF REPUBLIC ACT NO. 7309, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-06"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "MONFORT, NARCISO D.", "MATHAY ISMAEL III G.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MATHAY ISMAEL III G."
+nameCode = "Mathay"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 83969
+congress = 12
+bill_no = "HB00809"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

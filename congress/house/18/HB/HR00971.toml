@@ -1,0 +1,59 @@
+billNumber = "HR00971"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00971"
+lastScraped = "2025-09-22T00:01:47.517883"
+title = "HR00971"
+longTitle = "RESOLUTION DIRECTING THE DEFEAT COVID-19 COMMITTEE TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED CONNECTION BETWEEN THE PROLIFERATION OF PHILIPPINE OFFSHORE GAMING OPERATORS AND ILLEGAL MEDICAL FACILITIES IN THE COUNTRY"
+scope = "National"
+dateFiled = "2020-06-15"
+status = "Pending with the Committee on HEALTH since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00971.pdf"
+fileSize = 1931019
+author = "Zarate, Carlos Isagani T."
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2020-06-15"
+sequence = 1
+
+[[authorsDetail]]
+name = "Gaite, Ferdinand R."
+nameCode = "Gaite"
+date = "2020-06-15"
+sequence = 2
+
+[[authorsDetail]]
+name = "Cullamat, Eufemia \"Ka Femia\" C."
+nameCode = "Cullamat"
+date = "2020-06-15"
+sequence = 3
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 31290
+congress = 18
+bill_no = "HR00971"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-07-28"

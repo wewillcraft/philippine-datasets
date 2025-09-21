@@ -1,0 +1,60 @@
+billNumber = "HB01626"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01626"
+lastScraped = "2025-09-22T00:13:48.139374"
+title = "Transfer of Prisoners Act of 2004"
+longTitle = "AN ACT AUTHORIZING THE TRANSFER OF OFFENDERS TO OR FROM FOREIGN COUNTRIES"
+scope = "National"
+dateFiled = "2004-07-26"
+status = "Pending with the Committee on JUSTICE since 2004-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB01626.pdf"
+fileSize = 6147080
+author = "Barinaga, Roseller L."
+coAuthors = [ "SYJUCO, JUDY",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SYJUCO, JUDY"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2004-08-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 76716
+congress = 13
+bill_no = "HB01626"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-08-03"
+date_read = "2004-08-03"

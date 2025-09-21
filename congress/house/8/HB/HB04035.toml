@@ -1,0 +1,42 @@
+billNumber = "HB04035"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04035"
+lastScraped = "2025-09-22T00:46:57.265891"
+title = "HB04035"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF LIMASAWA IN THE PROVINCE OF SOUTHERN LEYTE, AND FOR OTHER PURPOSES."
+scope = "Local"
+dateFiled = "1987-11-25"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-12-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 138721
+congress = 8
+bill_no = "HB04035"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-12-02"

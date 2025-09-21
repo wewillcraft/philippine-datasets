@@ -1,0 +1,69 @@
+billNumber = "HB08315"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08315"
+lastScraped = "2025-09-22T00:20:58.941750"
+title = "HB08315"
+longTitle = "AN ACT INCREASING THE AUTHORIZED BED CAPACITY OF THE AMANG RODRIGUEZ MEDICAL CENTER TO THREE HUNDRED BEDS"
+scope = "Local"
+dateFiled = "1996-10-30"
+status = "Approved on Third Reading on 1998-02-20"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-11-06"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114736
+congress = 10
+bill_no = "HB08315"
+report = "01467"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1996-11-06"
+date_ob = "1998-02-04"
+date_report = "1998-02-03"
+
+[secondReading]
+id = 18574
+congress = 10
+bill_no = "HB08315"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3164
+congress = 10
+bill_no = "HB08315"
+date_dist = "1998-02-06"
+date_adopt = "1998-02-20"
+no_yeas = 106
+no_nays = 0
+no_abstent = 0

@@ -1,0 +1,46 @@
+billNumber = "HB01162"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01162"
+lastScraped = "2025-09-22T00:20:57.573730"
+title = "HB01162"
+longTitle = "AN ACT PROVIDING FOR THE EXPANSION/IMPRO VEMENT OF THE SLAUGHTERHOUSE IN THE MUNICIPALITY OF PIDDIG, PROVINCE OF ILOCOS NORTE"
+scope = "Local"
+dateFiled = "1995-07-21"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107583
+congress = 10
+bill_no = "HB01162"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-07-31"

@@ -1,0 +1,47 @@
+billNumber = "HB04458"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04458"
+lastScraped = "2025-09-22T00:25:55.435004"
+title = "HB04458"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF FIVE HUNDRED THOUSAND PESOS (P500,000.00) FOR THE CEMENTING OF THE SAN LUIS BARANGAY ROAD IN THE MUNICIPALITY OF SOLANO, PROVINCE OF NUEVA VIZCAYA"
+scope = "Local"
+dateFiled = "1992-10-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123077
+congress = 9
+bill_no = "HB04458"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-09"

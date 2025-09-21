@@ -1,0 +1,47 @@
+billNumber = "HB01225"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01225"
+lastScraped = "2025-09-22T00:25:54.814021"
+title = "HB01225"
+longTitle = "AN ACT CONVERTING FRANCISCO F. ILLESCAS BARANGAY HIGH SCHOOL INTO FRANCISCO F. ILLESCAL NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Silverio"
+[[authorsDetail]]
+name = "Silverio"
+nameCode = "Silverio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119844
+congress = 9
+bill_no = "HB01225"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-08-25"

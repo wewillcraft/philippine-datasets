@@ -1,0 +1,42 @@
+billNumber = "HB03032"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03032"
+lastScraped = "2025-09-22T00:13:00.353922"
+title = "HB03032"
+longTitle = "AN ACT STRENGTHENING MEDICAL ETHICS BY REPEALING PRESIDENTIAL DECREE NO. 169, AS AMENDED BY EXECUTIVE ORDER NO. 212, WHICH REQUIRES ANY ATTENDING PHYSICIAN OF ANY HOSPITAL, MEDICAL CLINIC, SANITARIUM OR OTHER MEDICAL ESTABLISHMENTS OR ANY MEDICAL PRACTITIONER WHO HAS TREATED ANY PERSON FOR SERIOUS OR LESS SERIOUS PHYSICAL INJURIES TO REPORT THE FACT OF TREATMENT"
+scope = "National"
+dateFiled = "2001-09-13"
+status = "Pending with the Committee on HEALTH since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 86192
+congress = 12
+bill_no = "HB03032"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-27"

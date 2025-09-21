@@ -1,0 +1,42 @@
+billNumber = "HR00446"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00446"
+lastScraped = "2025-09-22T00:20:59.504683"
+title = "HR00446"
+longTitle = "RESOLUTION REQUESTING THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID  OF LEGISLATION, ON THE LEGALITY AND PROPRIETY OF THE HIRING AS CONSULTANT OF MERILLL-LYNCH BY NATIONAL POWER CORPORATION IN THE PROPOSEDPRIVATIZATION OF ITS PROJECTS"
+scope = "National"
+dateFiled = "1996-02-05"
+status = "Pending with the Committee on ENERGY since 1996-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-02-07"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117500
+congress = 10
+bill_no = "HR00446"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Feb. 7, 1996. (Journal referred"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-02-07"

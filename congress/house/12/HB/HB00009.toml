@@ -1,0 +1,75 @@
+billNumber = "HB00009"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00009"
+lastScraped = "2025-09-22T00:12:59.784221"
+title = "HB00009"
+longTitle = "AN ACT CURTAILING THE ILLEGAL ACTIVITIES OF RACKETEERS AND POWERFUL SYNDICATES IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Crespo"
+coAuthors = [ "RODRIGUEZ, OSCAR S.", "LIBANAN, MARCELINO C.", "ESPINO, AMADO JR. T.",]
+[[authorsDetail]]
+name = "Crespo"
+nameCode = "Crespo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 83169
+congress = 12
+bill_no = "HB00009"
+comm_act = "change of cttee. ref'l from Public Order and Security as per J.21;p.20( dtd. Sept. 5,2001)"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "2001-07-24"

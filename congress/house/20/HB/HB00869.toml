@@ -1,0 +1,46 @@
+billNumber = "HB00869"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00869"
+lastScraped = "2025-09-21T23:39:48.472225"
+title = "HB00869"
+longTitle = "AN ACT ESTABLISHING THE LINEMAN TRAINING ACADEMY OF THE PHILIPPINES, PROVIDING FOR ITS POWERS, STRUCTURE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on ENERGY since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00869.pdf"
+fileSize = 359811
+author = "DAGOOC, SERGIO C."
+[[authorsDetail]]
+name = "DAGOOC, SERGIO C."
+nameCode = "Dagooc"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 870
+congress = 103
+bill_no = "HB00869"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

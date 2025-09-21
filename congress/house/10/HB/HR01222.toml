@@ -1,0 +1,41 @@
+billNumber = "HR01222"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01222"
+lastScraped = "2025-09-22T00:20:59.660942"
+title = "HR01222"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ENERGY OF THE HOUSE OF REPRESENTATIVES TO INQUIRE, IN AID OF LEGISLATION, INTO THE STATUS OF THE CONSTRUCTION OF THE NATURAL GAS TRANSMISSION AND DISTRIBUTION PIPELINES AND SUB-STATIONS FROM MALAMPAYA IN NORTHWEST PALAWAN BEING UNDERTAKEN BY THE NATIONAL POWER CORPORATION (NAPOCOR)"
+scope = "Local"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on ENERGY since 1997-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118276
+congress = 10
+bill_no = "HR01222"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-05-22"

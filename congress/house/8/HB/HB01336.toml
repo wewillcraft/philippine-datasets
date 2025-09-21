@@ -1,0 +1,42 @@
+billNumber = "HB01336"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01336"
+lastScraped = "2025-09-22T00:46:56.798595"
+title = "HB01336"
+longTitle = "AN ACT INCREASING THE NUMBER OF ASSISTANT FISCALSIN THE PROVINCE OF COTABATO, FROM FOUR TO NINE ASSISTANT FISCALS AND AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on JUSTICE since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 136032
+congress = 8
+bill_no = "HB01336"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-09-15"

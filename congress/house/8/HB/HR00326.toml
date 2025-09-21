@@ -1,0 +1,85 @@
+billNumber = "HR00326"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00326"
+lastScraped = "2025-09-22T00:47:02.590291"
+title = "HR00326"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES ON THE URGENT NEED FOR NATIONAL UNITY AND SUPPORT FOR THE LEADERSHIP OF PRESIDENT CORAZON C. AQUINO"
+scope = "National"
+dateFiled = "1987-09-17"
+status = "Transmitted to the President for Signature on 1987-09-28"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puyat-reyes"
+coAuthors = [ "SANTOS, LUIS", "MAR, RAUL V. DEL", "LOPEZ, JAIME C.",]
+[[authorsDetail]]
+name = "Puyat-reyes"
+nameCode = "Puyat-reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANTOS, LUIS"
+nameCode = "Santos"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOPEZ, JAIME C."
+nameCode = "Lopez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1987-09-17"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 170225
+congress = 8
+bill_no = "HR00326"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1987-09-17"
+
+[secondReading]
+id = 21611
+congress = 8
+bill_no = "HR00326"
+adopted_resolution = "HR00009"
+remarks = "ADOPTED WITH AMENDMENTS"
+date_calendared = "1987-09-17"
+date_approved = "1987-09-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1294
+congress = 8
+bill_no = "HR00326"
+date_dist = "1987-09-17"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+dte_transp = "1987-09-28"

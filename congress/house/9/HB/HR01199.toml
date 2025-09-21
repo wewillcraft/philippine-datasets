@@ -1,0 +1,43 @@
+billNumber = "HR01199"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01199"
+lastScraped = "2025-09-22T00:25:57.588390"
+title = "HR01199"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE IN THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, THE INDISCRIMINATE AND UNJUST RELIEF OF FIVE (5) POLICEMEN IN THE MUNICIPALITY OF NABUA, PROVINCE OF CAMARINES SUR"
+scope = "Local"
+dateFiled = "1994-08-31"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1994-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1994-09-06"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 134505
+congress = 9
+bill_no = "HR01199"
+comm_act = "Change of Referral from the Ctte. On Rules to the Ctte. on Public Order and Security on 09/07/94"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1994-09-06"

@@ -1,0 +1,75 @@
+billNumber = "HB01119"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01119"
+lastScraped = "2025-09-22T00:20:57.566201"
+title = "HB01119"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BANAYOYO, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE BANAYOYO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-20"
+status = "REPUBLIC ACT RA08516 (Lapsed into law on 1998-02-13)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107540
+congress = 10
+bill_no = "HB01119"
+report = "00692"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-07-31"
+date_ob = "1996-12-09"
+date_report = "1996-12-05"
+
+[secondReading]
+id = 17744
+congress = 10
+bill_no = "HB01119"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2366
+congress = 10
+bill_no = "HB01119"
+date_dist = "1996-12-19"
+date_adopt = "1997-01-20"
+no_yeas = 195
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-21"
+date_rec = "1997-01-27"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-01-12"
+dte_actedp = "1998-02-13"

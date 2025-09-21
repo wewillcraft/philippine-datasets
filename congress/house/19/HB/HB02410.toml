@@ -1,0 +1,82 @@
+billNumber = "HB02410"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02410"
+lastScraped = "2025-09-21T23:55:20.496406"
+title = "HB02410"
+longTitle = "AN ACT INSTITUTIONALIZING COASTAL CLEANUP IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-27"
+status = "Pending with the Committee on ECOLOGY since 2022-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02410.pdf"
+fileSize = 281958
+author = "BARBA, ANGELO MARCOS"
+coAuthors = [ "CABREDO, FERNANDO T.", "ABALOS, JONATHAN CLEMENT II M.", "RIVERA, BONG", "PLEYTO, SALVADOR A.", "DELOS SANTOS, ALFRED C.",]
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2022-07-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CABREDO, FERNANDO T."
+nameCode = "Cabredo"
+date = "2022-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABALOS, JONATHAN CLEMENT II M."
+nameCode = "Abalos"
+date = "2022-09-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-03-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PLEYTO, SALVADOR A."
+nameCode = "Pleyto"
+date = "2024-07-29"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DELOS SANTOS, ALFRED C."
+nameCode = "Delos Santos"
+date = "2024-10-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2022-08-03"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 7329
+congress = 19
+bill_no = "HB02410"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-03"

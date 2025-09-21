@@ -1,0 +1,52 @@
+billNumber = "HR01815"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01815"
+lastScraped = "2025-09-22T00:01:47.685172"
+title = "HR01815"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON JUSTICE AND HUMAN RIGHTS TO CONDEMN AND CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, THE UNJUST ARREST AND DETENTION OF YOUTH ACTIVISTS, AND CALL FOR THEIR IMMEDIATE AND UNCONDITIONAL RELEASE"
+scope = "National"
+dateFiled = "2021-05-31"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2021-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01815.pdf"
+fileSize = 313974
+author = "ELAGO, SARAH JANE I."
+[[authorsDetail]]
+name = "ELAGO, SARAH JANE I."
+nameCode = "Elago"
+date = "2021-05-31"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2021-06-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 32133
+congress = 18
+bill_no = "HR01815"
+report = ""
+comm_act = ""
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-07-28"
+date_read = "2021-06-01"

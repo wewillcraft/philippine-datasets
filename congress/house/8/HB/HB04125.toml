@@ -1,0 +1,42 @@
+billNumber = "HB04125"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04125"
+lastScraped = "2025-09-22T00:46:57.281012"
+title = "HB04125"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF TEN MILLION PESOS FOR THE RELOCATION AND IMPROVEMENT OF THE TOWNSITE OF THE MUNICIPALITY OF ESPERANZA, PROVINCE OFAGUSAN DEL SUR"
+scope = "Local"
+dateFiled = "1987-12-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-12-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 138811
+congress = 8
+bill_no = "HB04125"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-12-07"

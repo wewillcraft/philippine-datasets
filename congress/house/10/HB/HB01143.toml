@@ -1,0 +1,75 @@
+billNumber = "HB01143"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01143"
+lastScraped = "2025-09-22T00:20:57.570631"
+title = "HB01143"
+longTitle = "AN ACT FORFEITING IN FAVOR OF THE GOVERNMENT, AGRICULTURAL LANDS AWARDED UNDER THE AGRARIAN REFORM PROGRAM FOR BEING IDLE OR ABANDONED, OR FOR HAVING BEEN SOLD, TRANSFERRED OR CONVEYED BY THE BENEFICIARIES THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-21"
+status = "Business for the day on 1997-11-18"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salalima"
+coAuthors = [ "LUCERO, WILMAR P.", "LIBAN, DANTE V.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Salalima"
+nameCode = "Salalima"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LUCERO, WILMAR P."
+nameCode = "Lucero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 107564
+congress = 10
+bill_no = "HB01143"
+report = "01266"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+recomm = "approval with amendments"
+date_read = "1995-07-31"
+date_ob = "1997-11-11"
+date_report = "1997-11-10"
+
+[secondReading]
+id = 17752
+congress = 10
+bill_no = "HB01143"
+date_calendared = "1997-11-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

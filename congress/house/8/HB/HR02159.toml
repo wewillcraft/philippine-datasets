@@ -1,0 +1,42 @@
+billNumber = "HR02159"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02159"
+lastScraped = "2025-09-22T00:47:02.973009"
+title = "HR02159"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS AND OTHER APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE UNREASONABLE DELAYS IN MAIL DELIVERIES AND OTHER INEFFCIENCIES IN POSTAL SERVICES AND RECOMMEND REMEDIAL MEASURES RELATIVE THERETO"
+scope = "National"
+dateFiled = "1991-02-13"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1991-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1991-02-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171994
+congress = 8
+bill_no = "HR02159"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1991-02-19"

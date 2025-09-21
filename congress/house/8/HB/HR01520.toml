@@ -1,0 +1,42 @@
+billNumber = "HR01520"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01520"
+lastScraped = "2025-09-22T00:47:02.820632"
+title = "HR01520"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON GOVERNMENT ENTERPRISES TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE GSIS PROVIDENT FUND AND SIMILAR PROVIDENT FUNDS OF THE SOCIAL SECURITY SYSTEM (SSS), PHILIPPINE NATIONAL BANK (PNB), DEVELOPMENT OF THE PHILIPPINES (DBP), LAND BANK OF THE PHILIPPINE (LBP) AND OTHER GOVERNMENT FINNCIAL INSTITUTIONS"
+scope = "National"
+dateFiled = "1989-10-18"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES since 1989-10-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1989-10-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171382
+congress = 8
+bill_no = "HR01520"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = ""
+date_read = "1989-10-18"

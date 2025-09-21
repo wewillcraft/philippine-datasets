@@ -1,0 +1,42 @@
+billNumber = "HB01408"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01408"
+lastScraped = "2025-09-22T00:46:56.811965"
+title = "HB01408"
+longTitle = "AN ACT ESTABLISHING A LEMON SEEDLING FARM IN THE MUNICIPALITY OF SIMUNUL, PROVINCE OF TAWI-TAWI, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-14"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-16"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136103
+congress = 8
+bill_no = "HB01408"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-16"

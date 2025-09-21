@@ -1,0 +1,57 @@
+billNumber = "HB01361"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01361"
+lastScraped = "2025-09-22T00:13:00.050053"
+title = "HB01361"
+longTitle = "AN ACT INCREASING TO ONE THOUSAND FIVE HUNDRED PESOS (P1,500) THE MONTHLY PERSONNEL ECONOMIC RELIEF ALLOWANCE (PERA) GRANTED TO GOVERNMENT EMPLOYEES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pichay, Prospero Jr. A."
+coAuthors = [ "DUMPIT, TOMAS M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = "Pichay"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DUMPIT, TOMAS M."
+nameCode = "Dumpit"
+date = ""
+journalNo = "J062"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J010"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 84521
+congress = 12
+bill_no = "HB01361"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-07-30"

@@ -1,0 +1,47 @@
+billNumber = "HB11504"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11504"
+lastScraped = "2025-09-22T00:25:56.698815"
+title = "HB11504"
+longTitle = "AN ACT PROVIDING FOR THE DEVELOPMENT OF THE CAWASAN SPRING IN THE MUNICIPALITY OF BOLJOON, PROVINCE OF CEBU, TO BE KNOWN AS THE CAWASAN SPRING WATERWORKS SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-12-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abines"
+[[authorsDetail]]
+name = "Abines"
+nameCode = "Abines"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-12-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130119
+congress = 9
+bill_no = "HB11504"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-12-14"

@@ -1,0 +1,60 @@
+billNumber = "HR01835"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01835"
+lastScraped = "2025-09-22T00:23:18.296786"
+title = "HR01835"
+longTitle = "RESOLUTION AUTHORIZING ALL COMMITTEES, SUBCOMMITTEES, SPECIAL COMMITTEES AND BICAMERAL CONFERENCE COMMITTEES TO FUNCTION DURING THE RECESS OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "2000-10-26"
+status = "Adopted as Resolution No. HR00158 on 2000-10-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "BELMONTE, FELICIANO JR.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELMONTE, FELICIANO JR."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-10-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 106289
+congress = 11
+bill_no = "HR01835"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2000-10-26"
+
+[secondReading]
+id = 17618
+congress = 11
+bill_no = "HR01835"
+adopted_resolution = "HR00158"
+date_calendared = "2000-10-27"
+date_approved = "2000-10-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

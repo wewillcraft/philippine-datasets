@@ -1,0 +1,55 @@
+billNumber = "HB01212"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01212"
+lastScraped = "2025-09-22T00:25:54.811553"
+title = "HB01212"
+longTitle = "AN ACT CONVERTING THE PUERTO PRINCESA DOMESTIC AIRPORT IN THE PROVINCE OF PALAWAN INTO AN INTERNATIONAL AIRPORT TO BE KNOWN AS THE PUERTO PRINCESA INTERNATIONAL AIRPORT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "PONCE DE LEON, DAVID A.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119831
+congress = 9
+bill_no = "HB01212"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-08-25"

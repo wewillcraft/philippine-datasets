@@ -1,0 +1,61 @@
+billNumber = "HB00784"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00784"
+lastScraped = "2025-09-21T23:39:48.456163"
+title = "HB00784"
+longTitle = "AN ACT REQUIRING THE ESTABLISHMENT OF DIALYSIS CLINICS IN ALL NATIONAL, REGIONAL, PROVINCIAL AND STRATEGIC DISTRICT HOSPITALS, PROVIDING FOR FREE DIALYSIS TREATMENTS TO INDIGENT PATIENTS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on HEALTH since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00784.pdf"
+fileSize = 320530
+author = "ALVAREZ, MERCEDES K."
+coAuthors = [ "IWAY, EMMANUEL L.", "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "ALVAREZ, MERCEDES K."
+nameCode = "Alvarez (M.)"
+date = "2025-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "IWAY, EMMANUEL L."
+nameCode = "Iway"
+date = "2025-08-18"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 785
+congress = 103
+bill_no = "HB00784"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

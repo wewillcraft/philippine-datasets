@@ -1,0 +1,46 @@
+billNumber = "HB10341"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10341"
+lastScraped = "2025-09-22T00:01:47.200875"
+title = "HB10341"
+longTitle = "AN ACT CREATING AN ADDITIONAL BRANCH IN THE SECOND JUDICIAL REGION TO BE\r\nSTATIONED IN THE MUNICIPALITY OF AURORA, PROVINCE OF ISABELA, AND \r\nAPPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2021-10-05"
+status = "Pending with the Committee on JUSTICE since 2021-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10341.pdf"
+fileSize = 304525
+author = "DY, FAUSTINO MICHAEL CARLOS III T."
+[[authorsDetail]]
+name = "DY, FAUSTINO MICHAEL CARLOS III T."
+nameCode = "Dy (F.M.C.)"
+date = "2021-10-05"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2021-11-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 29745
+congress = 18
+bill_no = "HB10341"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-11-08"

@@ -1,0 +1,42 @@
+billNumber = "HB05342"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05342"
+lastScraped = "2025-09-22T00:46:57.488965"
+title = "HB05342"
+longTitle = "AN ACT TO CONSTRUCT A MUNICIPAL RESORT AT TAGUIS,LILA, BOHOL, AND PROVIDE FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-02-09"
+status = "Pending with the Committee on TOURISM since 1988-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1988-02-11"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 140024
+congress = 8
+bill_no = "HB05342"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1988-02-11"

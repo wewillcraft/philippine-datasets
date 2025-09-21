@@ -1,0 +1,102 @@
+billNumber = "HR02409"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02409"
+lastScraped = "2025-09-22T00:01:47.839634"
+title = "HR02409"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO ESTABLISH A CONSULAR OFFICE IN THE CITY OF TAGBILARAN, PROVINCE OF BOHOL\r\n"
+scope = "National"
+dateFiled = "2021-12-13"
+status = "Adopted as Resolution No. HR00255 on 2022-01-24"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chatto, Edgar M."
+[[authorsDetail]]
+name = "Chatto, Edgar M."
+nameCode = "Chatto"
+date = "2021-12-13"
+sequence = 1
+
+[[authorsDetail]]
+name = "Aumentado, Erico Aristotle C."
+nameCode = "Aumentado"
+date = "2021-12-13"
+sequence = 2
+
+[[authorsDetail]]
+name = "Hofer, Ann K."
+nameCode = "Hofer"
+date = "2021-12-13"
+sequence = 3
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2021-12-14"
+
+[[motherBills]]
+bill_no = "HB08767"
+sequence = 1
+date = "2021-12-13"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB10518"
+sequence = 2
+date = "2021-12-13"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08767"
+sequence = 1
+date = "2021-12-13"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB10518"
+sequence = 2
+date = "2021-12-13"
+flag = "S"
+
+[firstReading]
+id = 32726
+congress = 18
+bill_no = "HR02409"
+report = "01382"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "Recommending its adoption in substitution of House Bills Numbered 8767 and 10518"
+remarks = ""
+file = "CR01382.pdf"
+date_read = "2021-12-14"
+date_ob = "2021-12-14"
+date_report = "2021-12-13"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR01382.pdf"
+
+[secondReading]
+id = 3300
+congress = 18
+bill_no = "HR02409"
+adopted_resolution = "HR00255"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO ESTABLISH A CONSULAR OFFICE IN THE CITY OF TAGBILARAN, PROVINCE OF BOHOL"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2022-01-24"
+date_approved = "2022-01-24"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR02409.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR02409.pdf"

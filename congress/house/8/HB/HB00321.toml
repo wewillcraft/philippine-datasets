@@ -1,0 +1,50 @@
+billNumber = "HB00321"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00321"
+lastScraped = "2025-09-22T00:46:56.614759"
+title = "HB00321"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HOSPITAL WITH A TEN-BED CAPACITY AND SECONDARY LEVEL CAPABILITY IN THE MUNICIPALITY OF JAVIER, PROVINCE OF LEYTE, TO BE KNOWN AS THE JAVIER MUNICIPAL HOSPITAL, AND AUTHORIZING THE APPROPRIATIONS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-12"
+status = "Pending with the Committee on HEALTH since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Loreto"
+coAuthors = [ "SARTE, ELFREN",]
+[[authorsDetail]]
+name = "Loreto"
+nameCode = "Loreto"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SARTE, ELFREN"
+nameCode = "Sarte"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 135018
+congress = 8
+bill_no = "HB00321"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-13"

@@ -1,0 +1,46 @@
+billNumber = "HB03381"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03381"
+lastScraped = "2025-09-22T00:20:57.998851"
+title = "HB03381"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MULTIPURPOSE CENTER IN BARANGAY QUIPOT, TIAONG, QUEZON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-08"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109802
+congress = 10
+bill_no = "HB03381"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-18"

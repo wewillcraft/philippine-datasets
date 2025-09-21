@@ -1,0 +1,52 @@
+billNumber = "HR00700"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00700"
+lastScraped = "2025-09-22T00:20:59.557570"
+title = "HR00700"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECOLOGY, AGRARIAN REFORM, AND AGRICULTURE AND FOOD TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ECOLOGICAL, TENURIAL AND SOCIO-ECONOMIC RAMIFICATIONS OF THE PROPOSED ESTABLISHMENT OF THE NATIONAL STOCK FARM IN GENERAL TINIO, NUEVA ECIJA"
+scope = "Local"
+dateFiled = "1996-06-19"
+status = "Pending with the Committee on RULES since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 117754
+congress = 10
+bill_no = "HR00700"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ecology, Agrarian Reform and Agricultur"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-23"

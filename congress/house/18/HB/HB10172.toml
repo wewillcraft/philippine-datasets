@@ -1,0 +1,54 @@
+billNumber = "HB10172"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10172"
+lastScraped = "2025-09-22T00:01:47.150726"
+title = "HB10172"
+longTitle = "AN ACT CREATING A DATABASE OF PRODUCTS CONTAINING PROBABLE CARCINOGENS"
+scope = "National"
+dateFiled = "2021-09-09"
+status = "Pending with the Committee on HEALTH since 2021-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10172.pdf"
+fileSize = 301629
+author = "Vargas, Alfred D."
+coAuthors = [ "ZUBIRI, MANUEL ANTONIO F.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2021-09-09"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZUBIRI, MANUEL ANTONIO F."
+nameCode = "Zubiri"
+date = "2021-11-09"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-09-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 29576
+congress = 18
+bill_no = "HB10172"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-09-14"

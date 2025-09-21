@@ -1,0 +1,67 @@
+billNumber = "HR01146"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01146"
+lastScraped = "2025-09-22T00:13:01.404467"
+title = "HR01146"
+longTitle = "RESOLUTION URGING ALL CONCERNED AGENCIES AND INSTRUMENTALITI ES OF GOVERNMENT AS WELL AS PRIVATE CORPORATIONS TO EXTEND ALL POSSIBLE SUPPORT INCLUDING FINANCIAL LOANS TO PROTECT WORKERS FROM THE EFFECTS OF INFLATION"
+scope = "National"
+dateFiled = "2003-05-14"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2003-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castelo-Daza, Nanette"
+coAuthors = [ "CODILLA, EUFROCINO SR.", "AMIN, HUSSIN U.",]
+[[authorsDetail]]
+name = "Castelo-Daza, Nanette"
+nameCode = "Castelo-daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR."
+nameCode = "Codilla"
+date = ""
+journalNo = "J076"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J076"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2003-05-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "secondary"
+referralCode = "0515"
+
+[firstReading]
+id = 91081
+congress = 12
+bill_no = "HR01146"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2003-05-21"

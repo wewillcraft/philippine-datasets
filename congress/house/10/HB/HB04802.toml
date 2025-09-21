@@ -1,0 +1,46 @@
+billNumber = "HB04802"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04802"
+lastScraped = "2025-09-22T00:20:58.262771"
+title = "HB04802"
+longTitle = "AN ACT CONVERTING THE EXISTING BAYANIHAN HIGH SCHOOL ION BARANGAY SAMARENIANA, MUNICIPALITY OF BROOKE'S POINT, PROVINCE OF PALAWAN, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE SAMARENIANA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-30"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-08"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111223
+congress = 10
+bill_no = "HB04802"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-11-08"

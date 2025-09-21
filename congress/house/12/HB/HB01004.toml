@@ -1,0 +1,75 @@
+billNumber = "HB01004"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01004"
+lastScraped = "2025-09-22T00:12:59.987045"
+title = "HB01004"
+longTitle = "AN ACT INSTITUTING THE DANGEROUS DRUGS ACT OF 2001 REPEALING REPUBLIC ACT NO. 6425, AS AMENDED"
+scope = "National"
+dateFiled = "2001-07-12"
+status = "Substituted by HB04433"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yapha, Antonio Jr. P."
+coAuthors = [ "CUENCO, ANTONIO V.", "DUAVIT, MICHAEL JOHN \"JACK\" R.", "ROMUALDO, JURDIN JESUS M.",]
+[[authorsDetail]]
+name = "Yapha, Antonio Jr. P."
+nameCode = "Yapha"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DUAVIT, MICHAEL JOHN \"JACK\" R."
+nameCode = "Duavit"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = ""
+journalNo = "J074"
+sessionNo = "1RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 84164
+congress = 12
+bill_no = "HB01004"
+comm_act = "change of ctte. ref'l from Health as per J.5; p.30(July 31,2001); as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-07-25"

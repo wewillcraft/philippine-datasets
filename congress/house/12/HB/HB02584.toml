@@ -1,0 +1,50 @@
+billNumber = "HB02584"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02584"
+lastScraped = "2025-09-22T00:13:00.262229"
+title = "HB02584"
+longTitle = "AN ACT PENALIZING INFLUENCE PEDDLING AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-08-21"
+status = "Pending with the Committee on JUSTICE since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Francis G."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Escudero, Francis G."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J067"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 85744
+congress = 12
+bill_no = "HB02584"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-08-27"

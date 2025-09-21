@@ -1,0 +1,46 @@
+billNumber = "HB08751"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08751"
+lastScraped = "2025-09-22T00:20:59.032770"
+title = "HB08751"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HALL OF JUSTICE FOR THE 6TH MUNICIPAL CIRCUIT TRIAL COURT IN THE MUNICIPALITY OF ALTAVAS, PROVINCE OF AKLAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-21"
+status = "Pending with the Committee on JUSTICE since 1997-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-01-27"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115172
+congress = 10
+bill_no = "HB08751"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-01-27"

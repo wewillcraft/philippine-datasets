@@ -1,0 +1,47 @@
+billNumber = "HB04242"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04242"
+lastScraped = "2025-09-22T00:25:55.396909"
+title = "HB04242"
+longTitle = "AN ACT ESTABLISHING A NATIONAL ALGAL BLOOM CONTROL PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-10-27"
+status = "Pending with the Committee on ECOLOGY since 1992-10-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1992-10-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122861
+congress = 9
+bill_no = "HB04242"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1992-10-29"

@@ -1,0 +1,46 @@
+billNumber = "HB09338"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09338"
+lastScraped = "2025-09-22T00:20:59.146611"
+title = "HB09338"
+longTitle = "AN ACT ESTABLISHING A HOUSING PROJECT FOR THE BENEFIT OF THE WORKERS OF THE AGRO-INDUSTRIAL SITE IN MACABACLAY, GAPAN, NUEVA ECIJA, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-05-05"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1997-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1997-05-08"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115759
+congress = 10
+bill_no = "HB09338"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1997-05-08"

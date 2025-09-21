@@ -1,0 +1,48 @@
+billNumber = "HB00066"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00066"
+lastScraped = "2025-09-22T00:12:59.804735"
+title = "HB00066"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT OF THE MUNICIPAL JAIL IN THE CAPITAL TOWN OF BONGAO, PROVINCE OF TAWI-TAWI AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jaafar"
+[[authorsDetail]]
+name = "Jaafar"
+nameCode = "Jaafar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83226
+congress = 12
+bill_no = "HB00066"
+comm_act = "change of ctte. ref'l from Justice as per J.5;p.30(J uly 31,2001)"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2001-07-24"

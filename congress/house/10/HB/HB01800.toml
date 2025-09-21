@@ -1,0 +1,46 @@
+billNumber = "HB01800"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01800"
+lastScraped = "2025-09-22T00:20:57.682476"
+title = "HB01800"
+longTitle = "AN ACT ESTABLISHING A NON-FORMAL EDUCATION CENTER IN THE UNIVERSITY OF NORTHERN PHILIPPINES IN VIGAN, ILOCOS SUR, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108221
+congress = 10
+bill_no = "HB01800"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-09"

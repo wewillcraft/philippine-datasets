@@ -1,0 +1,61 @@
+billNumber = "HB00811"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00811"
+lastScraped = "2025-09-22T00:01:45.198216"
+title = "HB00811"
+longTitle = "AN ACT TO RAISE PUBLIC AWARENESS ON THE NATURE OF FOOD ALLERGENS"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on HEALTH since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00811.pdf"
+fileSize = 311393
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "AGABAS, TYRONE D.", "ALONTE-NAGUIAT, LEN B.",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "AGABAS, TYRONE D."
+nameCode = "Agabas"
+date = "2019-10-02"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2020-12-10"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 20223
+congress = 18
+bill_no = "HB00811"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

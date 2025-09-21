@@ -1,0 +1,55 @@
+billNumber = "HR00476"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00476"
+lastScraped = "2025-09-22T00:20:59.510335"
+title = "HR00476"
+longTitle = "RESOLUTION URGING THE HOUSE, THROUGH THE COMMITTEES ON AGRARIAN REFORM AND NATURAL RESOURCES AND/OR APPROPRIATE COMMITTEE CONCERNED, TO INVESTIGATE, IN AID OF LEGISLATION, THE PROPOSAL OF JANOUB, A PRIVATE BUSINESS CORPORATION PRINCIPALLY ENGAGED  IN RECRUITMENT, FOR THE UTILIZATION OF 301,939 HECTARES OF LAND LOCATED IN LANAO DEL SUR AND LANAO DEL NORTE AS SITES FOR PALM OIL PLANTATION BY A MALAYSIAN CONSORTIUM"
+scope = "Local"
+dateFiled = "1996-02-16"
+status = "Pending with the Committee on AGRARIAN REFORM since 1996-02-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1996-02-20"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 117530
+congress = 10
+bill_no = "HR00476"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agrarian Reform and on Natural Resource"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+date_read = "1996-02-20"

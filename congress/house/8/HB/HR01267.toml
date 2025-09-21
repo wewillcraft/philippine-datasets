@@ -1,0 +1,42 @@
+billNumber = "HR01267"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01267"
+lastScraped = "2025-09-22T00:47:02.779072"
+title = "HR01267"
+longTitle = "RESOLUTION URGING THE PROPER HOUSE COMMITTEE TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE MANAGEMENT OF THE BENGUET ELECTRIC COOPERATIVE (BENECO) THAT HAS EARNED FOR IT THE DUBIOUS DISTINCTION OF BEING THE COUNTRY'S TOPNOTCHER IN ARREARS TOTHE NATIONAL POWER CORPORATION (NPC) DESPITE ITS POOR SERVICES THAT HAVE ADVERSELY AFFECTED THE TOURISM INDUSTRY IN BAGUIO CITY AND ENVIRONS"
+scope = "Local"
+dateFiled = "1989-04-28"
+status = "Pending with the Committee on ENERGY since 1989-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1989-05-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171136
+congress = 8
+bill_no = "HR01267"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1989-05-04"

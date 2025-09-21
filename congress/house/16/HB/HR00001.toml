@@ -1,0 +1,47 @@
+billNumber = "HR00001"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00001"
+lastScraped = "2025-09-21T23:56:22.798764"
+title = "HR00001"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE AND SECURITY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF THE REVISED ARMED FORCES OF THE PHILIPPINES MODERNIZATION PROGRAM, WITH FOCUS ON ITS OBJECTIVES, PRIORITIZATION IN EQUIPMENT ACQUISITION, AND FUNDING REQUIREMENTS AND SOURCES, IN RELATION TO THE COUNTRY'S PRESENT NEEDS"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2013-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00001.pdf"
+fileSize = 178309
+author = "Biazon, Rodolfo G."
+[[authorsDetail]]
+name = "Biazon, Rodolfo G."
+nameCode = "Biazon"
+date = "2013-07-01"
+sequence = 1
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 52400
+congress = 16
+bill_no = "HR00001"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-10-14"
+date_read = "2013-07-23"

@@ -1,0 +1,109 @@
+billNumber = "HR01138"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HR01138"
+lastScraped = "2025-09-22T00:13:49.375838"
+title = "HR01138"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ESTIMATED 3000 LITER-BUNKER OIL SPILL SPURRED BY THE POWER BARGE 106 OF THE NATIONAL POWER CORPORATION WHEN IT RAN AGROUND 200 METERS OFF THE SHORES OF SITIO BOBOG,BARANGAY SEMIRARA, SEMIRARA ISLAND"
+scope = "National"
+dateFiled = "2006-02-07"
+status = "Adopted Resolution (Pending with the committee on ECOLOGY since 2006-03-29)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta, J.R. Nereus O."
+coAuthors = [ "NOGRALES, PROSPERO C.", "ESCUDERO, FRANCIS G.", "RULES",]
+[[authorsDetail]]
+name = "Acosta, J.R. Nereus O."
+nameCode = "Acosta"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO C."
+nameCode = "Nograles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, FRANCIS G."
+nameCode = "Escudero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2006-02-13"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[motherBills]]
+bill_no = "HR01128"
+sequence = 1
+flag = "C"
+
+[[motherBills]]
+bill_no = "HR01140"
+sequence = 2
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01128"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01140"
+sequence = 2
+flag = "C"
+
+[firstReading]
+id = 82400
+congress = 13
+bill_no = "HR01138"
+report = "01639"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption in consolidation with House Resolution Nos. 1128 and 1140."
+remarks = ""
+date_pend = "2006-02-13"
+date_read = "2006-02-13"
+date_report = "2006-03-21"
+
+[secondReading]
+id = 13385
+congress = 13
+bill_no = "HR01138"
+adopted_resolution = ""
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ESTIMATED 3,000 LITER-BUNKER OIL SPILL SPURRED BY THE POWER BARGE 106 OF THE NATIONAL POWER CORPORATION WHEN IT RAN AGROUND 200 METERS OFF THE SHORES OF SITIO BOBOG, BARANGAY SEMIRARA, SEMIRARA ISLAND"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = "Adopted for Referral to the Ctte. on Ecology."
+recommended_reconsidered = " "
+date_calendared = "2006-03-29"
+date_approved = "2006-03-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+date_refferral = "2006-03-29"
+action_on_adopted_resolution = ""

@@ -1,0 +1,59 @@
+billNumber = "HB00377"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00377"
+lastScraped = "2025-09-22T00:20:57.444585"
+title = "HB00377"
+longTitle = "AN ACT ESTABLISHING THE CENTER FOR INTERNATIONAL STUDIES AND NATIONAL SECURITY DEVELOPMENT"
+scope = "National"
+dateFiled = "1995-07-06"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 106798
+congress = 10
+bill_no = "HB00377"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1995-07-26"

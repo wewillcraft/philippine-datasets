@@ -1,0 +1,61 @@
+billNumber = "HR00032"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00032"
+lastScraped = "2025-09-22T00:25:57.372656"
+title = "HR00032"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF HONORABLE DEMOCLITO J. ANGELES, FORMER MEMBER OF THE HOUSE OF REPRESENTATIVES , EIGHT CONGRESS OF THE REPUBLIC OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1992-07-30"
+status = "Adopted as Resolution No. HR00004 on 1992-07-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 133344
+congress = 9
+bill_no = "HR00032"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-07-30"
+
+[secondReading]
+id = 20084
+congress = 9
+bill_no = "HR00032"
+adopted_resolution = "HR00004"
+date_approved = "1992-07-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00032.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00032.pdf"

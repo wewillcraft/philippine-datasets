@@ -1,0 +1,62 @@
+billNumber = "HB04990"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04990"
+lastScraped = "2025-09-22T00:13:00.721240"
+title = "HB04990"
+longTitle = "AN ACT TO REGULATE THE PRACTICE OF IRIDOLOGY"
+scope = "National"
+dateFiled = "2002-07-22"
+status = "Pending with the Committee on HEALTH since 2002-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "CALALAY, REYNALDO A.", "SOON-RUIZ, NERISSA CORAZON",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J006"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON"
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-07-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88145
+congress = 12
+bill_no = "HB04990"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-07-30"

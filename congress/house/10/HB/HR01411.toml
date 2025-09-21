@@ -1,0 +1,68 @@
+billNumber = "HR01411"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01411"
+lastScraped = "2025-09-22T00:20:59.695301"
+title = "HR01411"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON EDUCATION AND CULTURE AND THE COMMITTEE ON HEALTH, TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROLIFERATION IN THE LOCAL MARKET OF TOYS INJURIOUS TO CHILDREN'S HEALTH AND MORALS"
+scope = "National"
+dateFiled = "1901-01-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calalay"
+coAuthors = [ "DEL MAR, RAUL V.", "COLAMBO, FELIZARDO R.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Calalay"
+nameCode = "Calalay"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "COLAMBO, FELIZARDO R."
+nameCode = "Colambo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-10-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 118465
+congress = 10
+bill_no = "HR01411"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-10-27"

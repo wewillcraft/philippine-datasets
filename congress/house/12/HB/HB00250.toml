@@ -1,0 +1,54 @@
+billNumber = "HB00250"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00250"
+lastScraped = "2025-09-22T00:12:59.848104"
+title = "HB00250"
+longTitle = "AN ACT AUTHORIZING THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES TO CONDUCT A RE-SURVEY OF CADASTRAL LOTS IN LAHAR-AFFECTED AREAS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on NATURAL RESOURCES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lapus"
+[[authorsDetail]]
+name = "Lapus"
+nameCode = "Lapus"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83410
+congress = 12
+bill_no = "HB00250"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2001-07-24"
+
+[secondReading]
+id = 14077
+congress = 12
+bill_no = "HB00250"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

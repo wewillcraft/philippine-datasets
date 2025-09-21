@@ -1,0 +1,73 @@
+billNumber = "HB09918"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09918"
+lastScraped = "2025-09-22T00:20:59.268729"
+title = "HB09918"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA OF AGRICULTURAL OFFICERS, EMPLOYEES AND PRACTITIONERS"
+scope = "National"
+dateFiled = "1997-09-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "RAMIREZ, JOSE T.", "DEL MAR, RAUL V.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 116339
+congress = 10
+bill_no = "HB09918"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-09-03"

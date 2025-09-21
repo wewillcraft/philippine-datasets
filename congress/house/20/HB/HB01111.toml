@@ -1,0 +1,46 @@
+billNumber = "HB01111"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01111"
+lastScraped = "2025-09-21T23:39:48.518693"
+title = "HB01111"
+longTitle = "AN ACT RECLASSIFYING A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN THE MUNICIPALITY OF CABANGLASAN, PROVINCE OF BUKIDNON, AS AGRICULTURAL LAND AND OPEN TO DISPOSITION"
+scope = "Local"
+dateFiled = "2025-07-02"
+status = "Pending with the Committee on NATURAL RESOURCES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01111.pdf"
+fileSize = 406893
+author = "FLORES, JONATHAN KEITH T."
+[[authorsDetail]]
+name = "FLORES, JONATHAN KEITH T."
+nameCode = "Flores"
+date = "2025-07-02"
+sequence = 1
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 1112
+congress = 103
+bill_no = "HB01111"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

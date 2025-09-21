@@ -1,0 +1,42 @@
+billNumber = "HB11191"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11191"
+lastScraped = "2025-09-22T00:46:58.535832"
+title = "HB11191"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HEALTHCENTER IN BARANGAY GETULIO, MUNICIPALITY OF BUENAVISTA, SUB-PROVINCE OF GUIMARAS, AND APPROPRIATINGFU NDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-26"
+status = "Pending with the Committee on HEALTH since 1988-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-31"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 145860
+congress = 8
+bill_no = "HB11191"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-31"

@@ -1,0 +1,47 @@
+billNumber = "HB03059"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03059"
+lastScraped = "2025-09-22T00:13:00.358891"
+title = "HB03059"
+longTitle = "AN ACT DECLARING MOUNT PULAG IN THE MUNICIPALITY OF KABAYAN, PROVINCE OF BENGUET AS A TOURIST SPOT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-17"
+status = "Pending with the Committee on TOURISM since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dangwa, Samuel M."
+[[authorsDetail]]
+name = "Dangwa, Samuel M."
+nameCode = "Dangwa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86219
+congress = 12
+bill_no = "HB03059"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-09-27"

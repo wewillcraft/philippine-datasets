@@ -1,0 +1,78 @@
+billNumber = "HB02524"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02524"
+lastScraped = "2025-09-22T00:13:00.251718"
+title = "HB02524"
+longTitle = "AN ACT DECLARING THE RIGHTS OF PATIENTS AND PRESCRIBING PENALTIES FOR VIOLATIONS THEREOF"
+scope = "National"
+dateFiled = "2001-08-20"
+status = "Pending with the Committee on HEALTH since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "AMIN, HUSSIN U.", "DEL MAR, RAUL V.", "ESPINO, AMADO JR. T.", "BADELLES, ALIPIO CIRILO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = "Badelles"
+date = ""
+journalNo = "J037"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 85684
+congress = 12
+bill_no = "HB02524"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-27"

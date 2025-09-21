@@ -1,0 +1,75 @@
+billNumber = "HB02601"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02601"
+lastScraped = "2025-09-22T00:46:57.023012"
+title = "HB02601"
+longTitle = "AN ACT TO DEFER THE EFFECTIVITY OF EXECUTIVE ORDER NO. 273"
+scope = "National"
+dateFiled = "1987-10-09"
+status = "Approved by the House on 1987-12-14 and transmitted to the Senate on 1987-12-15"
+statusOrder = 20.0
+urgent = true
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-10-13"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 137290
+congress = 8
+bill_no = "HB02601"
+report = "00053"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = "WAYS AND MEANS"
+recomm = "APPROVAL"
+date_read = "1987-10-13"
+date_ob = "1987-12-08"
+date_cal = "1987-12-08"
+date_unass = "1987-12-08"
+date_report = "1987-12-08"
+
+[secondReading]
+id = 20476
+congress = 8
+bill_no = "HB02601"
+date_approved = "1987-12-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 256
+congress = 8
+bill_no = "HB02601"
+date_dist = "1987-12-14"
+date_adopt = "1987-12-14"
+no_yeas = 96
+no_nays = 0
+no_abstent = 0
+date_trans = "1987-12-15"

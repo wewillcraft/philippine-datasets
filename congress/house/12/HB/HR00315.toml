@@ -1,0 +1,58 @@
+billNumber = "HR00315"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00315"
+lastScraped = "2025-09-22T00:13:01.207386"
+title = "Investigating Charges of Graft and Corruption at Bureau of Customs in Cebu"
+longTitle = "RESOLUTION TO INVESTIGATE CHARGES OF GRAFT AND CORRUPTION AT THE BUREAU OF CUSTOMS IN CEBU"
+scope = "Local"
+dateFiled = "2001-12-04"
+status = "Adopted as Resolution No. HR00120 on 2002-01-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-12-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90254
+congress = 12
+bill_no = "HR00315"
+report = "00154"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2001-12-11"
+date_report = "2002-01-23"
+
+[secondReading]
+id = 15040
+congress = 12
+bill_no = "HR00315"
+adopted_resolution = "HR00120"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO INVESTIGATE CHARGES OF GRAFT AND CORRUPTION AT THE BUREAU OF CUSTOMS IN CEBU"
+date_calendared = "2002-01-23"
+date_approved = "2002-01-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00120.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00120.pdf"

@@ -1,0 +1,42 @@
+billNumber = "HR01124"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01124"
+lastScraped = "2025-09-22T00:13:01.399476"
+title = "HR01124"
+longTitle = "RESOLUTION INQUIRING INTO THE GOVERNMENT'S PROVISION OF ADEQUATE COMPENSATION THE FAMILIES OF OFWS FATALLY INFECTED WITH SEVERE ACUTE RESPIRATORY SYNDROME (SARS)"
+scope = "National"
+dateFiled = "2003-05-06"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2003-05-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marcos, Imee R."
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = "Marcos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2003-05-07"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 91059
+congress = 12
+bill_no = "HR01124"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2003-05-07"

@@ -1,0 +1,50 @@
+billNumber = "HB12991"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12991"
+lastScraped = "2025-09-22T00:25:57.003119"
+title = "HB12991"
+longTitle = "AN ACT CONVERTING TE PUERTO PRINCESA PROVINCIAL HOSPITAL IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN, INTO THE PALAWAN REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-06-08"
+status = "Pending with the Committee on HEALTH since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "PONCE DE LEON, DAVID A.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131600
+congress = 9
+bill_no = "HB12991"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-07-26"

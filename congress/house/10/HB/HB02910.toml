@@ -1,0 +1,46 @@
+billNumber = "HB02910"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02910"
+lastScraped = "2025-09-22T00:20:57.903850"
+title = "HB02910"
+longTitle = "AN ACT PROVIDING FOR THE EXPANSION AND IMPROVEMENT OF THE PUBLIC MARKET IN THE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109331
+congress = 10
+bill_no = "HB02910"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-09-04"

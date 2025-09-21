@@ -1,0 +1,42 @@
+billNumber = "HR00736"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00736"
+lastScraped = "2025-09-22T00:47:02.671077"
+title = "HR00736"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON NATURAL RESOURCES TO CONDUCT A LEGISLATIVE INQUIRY INTO THE IMPLEMENTATION OF LETTER OF INSTRUCTIONS NO. 1258 PARTICULARLY WITH RESPECT TO GOVERNMENT RESERVATIONS WITHIN THE BAGUIO CITY TOWNSITE"
+scope = "Local"
+dateFiled = "1988-05-31"
+status = "Pending with the Committee on NATURAL RESOURCES since 1988-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1988-06-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 170617
+congress = 8
+bill_no = "HR00736"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1988-06-03"

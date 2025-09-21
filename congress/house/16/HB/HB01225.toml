@@ -1,0 +1,60 @@
+billNumber = "HB01225"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01225"
+lastScraped = "2025-09-21T23:56:21.701180"
+title = "HB01225"
+longTitle = "AN ACT ESTABLISHING A NATIONAL CANCER CENTER TO BE KNOWN AS THE PHILIPPINE NATIONAL CANCER CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2013-07-09"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2014-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01225.pdf"
+fileSize = 602692
+author = "ROMUALDEZ, FERDINAND MARTIN G."
+coAuthors = [ "LOBREGAT, CELSO",]
+[[authorsDetail]]
+name = "ROMUALDEZ, FERDINAND MARTIN G."
+nameCode = "Romualdez"
+date = "2013-07-09"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, CELSO"
+nameCode = "Lobregat"
+date = "2014-06-09"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 47039
+congress = 16
+bill_no = "HB01225"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-09-03"
+date_read = "2013-07-29"

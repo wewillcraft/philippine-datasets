@@ -1,0 +1,47 @@
+billNumber = "HB03958"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03958"
+lastScraped = "2025-09-22T00:25:55.351620"
+title = "HB03958"
+longTitle = "AN ACT DECLARING THE CAGBANTOY BEACH IN THE MUNICIPALITY OF PLACER, PROVINCE OF SURIGAO DEL NORTE, AS A TOURIST SPOT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-20"
+status = "Pending with the Committee on TOURISM since 1992-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1992-10-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122577
+congress = 9
+bill_no = "HB03958"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1992-10-26"

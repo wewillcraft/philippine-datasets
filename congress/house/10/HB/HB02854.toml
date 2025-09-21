@@ -1,0 +1,46 @@
+billNumber = "HB02854"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02854"
+lastScraped = "2025-09-22T00:20:57.893884"
+title = "HB02854"
+longTitle = "AN ACT ESTABLISHING AN ELEMENTARY SCHOOL IN BARANGAY SAN JUAN, MUNICIPALITY OF LUBAO, PROVINCE OF PAMPANGA, TO BE KNOWN AS THE BARANGAY SAN JUAN ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109275
+congress = 10
+bill_no = "HB02854"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-31"

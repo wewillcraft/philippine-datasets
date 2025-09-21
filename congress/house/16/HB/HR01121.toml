@@ -1,0 +1,82 @@
+billNumber = "HR01121"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01121"
+lastScraped = "2025-09-21T23:56:23.003140"
+title = "HR01121"
+longTitle = "A RESOLUTION CONGRATULATING AND COMMENDING ABS-CBN FOR CREATING THE INSPIRATIONAL TELESERYE \\\"HONESTO\\\""
+scope = "National"
+dateFiled = "2014-05-14"
+status = "Adopted as Resolution No. HR00095 on 2014-05-20"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "OLIVAREZ, ERIC L."
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2014-05-14"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-05-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00473"
+sequence = 1
+date = "2014-05-14"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00473"
+sequence = 1
+date = "2014-05-14"
+flag = "S"
+
+[firstReading]
+id = 53519
+congress = 16
+bill_no = "HR01121"
+report = "00205"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "PUBLIC INFORMATION"
+recomm = "Adoption in substitution of House Resolution No. 473."
+remarks = ""
+file = "CR00205.pdf"
+date_read = "2014-05-19"
+date_ob = "2014-05-19"
+date_report = "2014-05-14"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00205.pdf"
+
+[secondReading]
+id = 5218
+congress = 16
+bill_no = "HR01121"
+adopted_resolution = "HR00095"
+adopted_resolution_title = "RESOLUTION CONGRATULATING AND COMMENDING ABS-CBN FOR CREATING THE INSPIRATIONAL TELESERYE \"HONESTO\""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2014-05-20"
+date_approved = "2014-05-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01121.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_16/HR01121.pdf"

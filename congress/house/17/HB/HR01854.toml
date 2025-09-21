@@ -1,0 +1,47 @@
+billNumber = "HR01854"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01854"
+lastScraped = "2025-09-21T23:55:46.607990"
+title = "HR01854"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE DEVELOPMENT OF THE NEW BILIBID PRISON"
+scope = "National"
+dateFiled = "2018-05-09"
+status = "Pending with the Committee on JUSTICE since 2018-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01854.pdf"
+fileSize = 736603
+author = "Biazon, Rozzano Rufino B."
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2018-05-09"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2018-05-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 44596
+congress = 17
+bill_no = "HR01854"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-05-30"
+date_read = "2018-05-21"

@@ -1,0 +1,54 @@
+billNumber = "HB05788"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05788"
+lastScraped = "2025-09-21T23:55:45.244467"
+title = "HB05788"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF VICENTE SOTTO MEMORIAL MEDICAL CENTER, LOCATED IN CEBU CITY, FROM ONE THOUSAND TWO HUNDRED (1,200) TO ONE THOUSAND FIVE HUNDRED (1,500) BED CAPACITY, AND APPROPRIATING FUNDS THEREFORE"
+scope = "Local"
+dateFiled = "2017-05-30"
+status = "Pending with the Committee on HEALTH since 2017-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05788.pdf"
+fileSize = 203608
+author = "Del Mar, Raul V."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = "2017-05-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-08-08"
+journalNo = "J008"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2017-05-31"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 39256
+congress = 17
+bill_no = "HB05788"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-05-31"

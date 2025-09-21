@@ -1,0 +1,46 @@
+billNumber = "HB07687"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07687"
+lastScraped = "2025-09-22T00:20:58.783154"
+title = "HB07687"
+longTitle = "AN ACT CONVERTING THE PURIFICACION D. MONFORT CENTRAL ELEMENTARY SCHOOLS 11 IN THE MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO, INTO A SCIENCE ELEMENTARY SCHOOL, TO BE KNOWN AS THE PURIFICACION D. MONFORT SCIENCE ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114108
+congress = 10
+bill_no = "HB07687"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-08-08"

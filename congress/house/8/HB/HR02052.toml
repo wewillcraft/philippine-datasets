@@ -1,0 +1,42 @@
+billNumber = "HR02052"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02052"
+lastScraped = "2025-09-22T00:47:02.932514"
+title = "HR02052"
+longTitle = "RESOLUTION TO DIRECT THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO DETERMINE THE PROPRIETY ON THE PART OF THE CENTRAL BANK TO RAISE THE RESERVE REQUIREMENT OF THE BANKS"
+scope = "National"
+dateFiled = "1990-11-28"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1990-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aniag"
+[[authorsDetail]]
+name = "Aniag"
+nameCode = "Aniag"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1990-12-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 171888
+congress = 8
+bill_no = "HR02052"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1990-12-04"

@@ -1,0 +1,48 @@
+billNumber = "HB02518"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02518"
+lastScraped = "2025-09-22T00:25:55.045197"
+title = "HB02518"
+longTitle = "AN ACT PROHIBITING THE UNAUTHORIZED CONVERSION OF COCONUT FARMS INTO OTHER AGRICULTURAL USES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-09-14"
+status = "Pending with the Committee on AGRARIAN REFORM since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121137
+congress = 9
+bill_no = "HB02518"
+comm_act = "Change of ctte. ref'l from Agric. & Foods as per Rules Memo dtd: 2-15-93"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1992-09-21"

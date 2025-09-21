@@ -1,0 +1,47 @@
+billNumber = "HR00981"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00981"
+lastScraped = "2025-09-22T00:23:18.129480"
+title = "HR00981"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS AND THE COMMITTEE ON LEGISLATIVE FRANCHISES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE MEMORANDUM OF UNDERSTANDING AMONG PLDT, METRO PACIFIC GROUP, FIRST PACIFIC GROUP AND NIPPON TELEGRAPH AND TELEPHONE CORPORATION AFFECTING GOVERNMENT INTEREST IN PLDT"
+scope = "Local"
+dateFiled = "1999-06-21"
+status = "Pending with the Committee on WAYS AND MEANS since 1999-07-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1999-07-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "secondary"
+referralCode = "0508"
+
+[firstReading]
+id = 105437
+congress = 11
+bill_no = "HR00981"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1999-07-13"

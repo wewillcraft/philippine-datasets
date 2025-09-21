@@ -1,0 +1,69 @@
+billNumber = "HB04612"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04612"
+lastScraped = "2025-09-22T00:13:00.640493"
+title = "HB04612"
+longTitle = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE (1) DENTIST IN EVERY MUNICIPALITY OF EVERY PROVINCE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2002-03-21"
+status = "Pending with the Committee on HEALTH since 2002-04-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Umali, Oyie"
+coAuthors = [ "CHIPECO, JOAQUIN JR. M.", "VIOLAGO, ELEUTERIO R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Umali, Oyie"
+nameCode = "Umali"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J080"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = "J028"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-04-15"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87767
+congress = 12
+bill_no = "HB04612"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-04-15"

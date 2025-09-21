@@ -1,0 +1,42 @@
+billNumber = "HB01929"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01929"
+lastScraped = "2025-09-22T00:46:56.900623"
+title = "HB01929"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN ENTRYEXIT POINT TO AND FROM THE SOUTH SUPERHIGHWAY IN THE MUNICIPALITY OF SAN PEDRO, PROVINCE OF LAGUNA"
+scope = "Local"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 136619
+congress = 8
+bill_no = "HB01929"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-29"

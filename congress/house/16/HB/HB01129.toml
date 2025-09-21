@@ -1,0 +1,61 @@
+billNumber = "HB01129"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01129"
+lastScraped = "2025-09-21T23:56:21.681739"
+title = "HB01129"
+longTitle = "AN ACT MANDATING THE LAND TRANSPORTATION OFFICE (LTO) TO OPEN ITS BRANCHES/OFFICES ON SATURDAYS TO SERVICE THE PUBLIC NEED"
+scope = "National"
+dateFiled = "2013-07-04"
+status = "Pending with the Committee on TRANSPORTATION since 2013-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01129.pdf"
+fileSize = 299870
+author = "Gomez, Lucy T."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2013-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-09-16"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-09-16"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 46943
+congress = 16
+bill_no = "HB01129"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-29"

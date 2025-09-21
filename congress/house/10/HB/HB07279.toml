@@ -1,0 +1,46 @@
+billNumber = "HB07279"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07279"
+lastScraped = "2025-09-22T00:20:58.712373"
+title = "HB07279"
+longTitle = "AN ACT ESTABLISHING THE MAASIN ABACA RESEARCH AND DEVELOPMENT CENTER IN THE PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-04"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-06-06"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113700
+congress = 10
+bill_no = "HB07279"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-06-06"

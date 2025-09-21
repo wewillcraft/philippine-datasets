@@ -1,0 +1,46 @@
+billNumber = "HR01243"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01243"
+lastScraped = "2025-09-22T00:01:47.576626"
+title = "HR01243"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON LABOR AND EMPLOYMENT\r\nAND OTHER RELEVANT COMMITTEES TO CONDUCT AN INQUIRY IN AID OF\r\nLEGISLATION ON THE IMPLEMENTATION OF, AND THE COMPLIANCE WITH\r\nTHE DIRECTIVES MADE BY RA 10361"
+scope = "National"
+dateFiled = "2020-09-22"
+status = "Pending with the Committee on RULES since 2020-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01243.pdf"
+fileSize = 406306
+author = "Aglipay, Michael Edgar Y."
+[[authorsDetail]]
+name = "Aglipay, Michael Edgar Y."
+nameCode = "Aglipay"
+date = "2020-09-22"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2020-09-23"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 31562
+congress = 18
+bill_no = "HR01243"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-09-23"

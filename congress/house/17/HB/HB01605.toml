@@ -1,0 +1,52 @@
+billNumber = "HB01605"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01605"
+lastScraped = "2025-09-21T23:55:44.385469"
+title = "HB01605"
+longTitle = "AN ACT INSTITUTIONALIZING A PRE-HOSPITAL EMERGENCY CARE SYSTEM, PROVIDING FOR THE ESTABLISHMENT, SUPERVISION AND REGULATION OF THE PRE-HOSPITAL EMERGENCY CARE PROFESSION, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-14"
+status = "Pending with the Committee on HEALTH since 2017-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01605.pdf"
+fileSize = 1991737
+author = "Baguilat, Teddy Jr. Brawner"
+[[authorsDetail]]
+name = "Baguilat, Teddy Jr. Brawner"
+nameCode = "Baguilat"
+date = "2016-07-14"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 35073
+congress = 17
+bill_no = "HB01605"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-10-02"
+date_read = "2016-08-02"

@@ -1,0 +1,47 @@
+billNumber = "HB03667"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03667"
+lastScraped = "2025-09-22T00:25:55.244165"
+title = "HB03667"
+longTitle = "AN ACT CONVERTING THE GEN. MACARTHUR MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF GEN. MACARTHUR, PROVINCE OF EASTERN SAMAR, INTO A TWENTY FIVE (25) BED CAPACITY DISTRICT HOSPITAL TO BE KNOWN AS THE GEN. MACARTHUR DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-14"
+status = "Pending with the Committee on HEALTH since 1992-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-19"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122286
+congress = 9
+bill_no = "HB03667"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-19"

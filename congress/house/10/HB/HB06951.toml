@@ -1,0 +1,87 @@
+billNumber = "HB06951"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06951"
+lastScraped = "2025-09-22T00:20:58.648607"
+title = "HB06951"
+longTitle = "AN ACT PENALIZING CREDIT CARD FRAUD, PRESCRIBING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-05-13"
+status = "REPUBLIC ACT (RA08484) enacted on 1998-02-11"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1996-05-16"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HB08443"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08443"
+flag = "S"
+
+[firstReading]
+id = 113372
+congress = 10
+bill_no = "HB06951"
+report = "01314"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+recomm = "approval with amendments"
+date_read = "1996-05-16"
+date_ob = "1997-12-08"
+date_report = "1997-12-05"
+
+[secondReading]
+id = 18434
+congress = 10
+bill_no = "HB06951"
+date_calendared = "1997-12-09"
+date_approved = "1998-01-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3030
+congress = 10
+bill_no = "HB06951"
+date_dist = "1998-01-22"
+date_adopt = "1998-01-27"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_rqcc = "1998-01-27"
+date_agrcc = "1998-01-28"
+ccreqby = "H"
+act_pres = "A"
+dte_hsagcc = "1998-02-02"
+dte_snagcc = "1998-02-03"
+dte_actedp = "1998-02-11"

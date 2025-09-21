@@ -1,0 +1,71 @@
+billNumber = "HB06075"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB06075"
+lastScraped = "2025-09-22T00:13:00.975136"
+title = "HB06075"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO.7227, OTHERWISE KNOWN AS THE `BASES CONVERSION AND DEVELOPMENT ACT OF 1992' AS AMENDED BY REPUBLIC ACT NO.7917, ADJUSTING THE ALLOCATION OF REVENUES FROM THE SALE, LEASE, JOINT-VENTURE AGREEMENTS AND OTHER TRANSACTIONS INVOLVING MILITARY BASES AND RESERVATIONS, ALLOCATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2003-06-03"
+status = "Pending with the Committee on APPROPRIATIONS since 2003-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "DOMOGAN, MAURICIO G."
+coAuthors = [ "CODILLA, EUFROCINO SR.", "AMIN, HUSSIN U.",]
+[[authorsDetail]]
+name = "DOMOGAN, MAURICIO G."
+nameCode = "Domogan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR."
+nameCode = "Codilla"
+date = ""
+journalNo = "J002"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J004"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2003-07-29"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[[committee]]
+name = "BASES CONVERSION"
+type = "secondary"
+referralCode = "A509"
+
+[firstReading]
+id = 89229
+congress = 12
+bill_no = "HB06075"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2003-07-29"

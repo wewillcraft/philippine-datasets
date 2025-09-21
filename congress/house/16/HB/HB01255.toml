@@ -1,0 +1,68 @@
+billNumber = "HB01255"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01255"
+lastScraped = "2025-09-21T23:56:21.706584"
+title = "HB01255"
+longTitle = "AN ACT DIRECTING THE REDUCTION OF ELECTRICITY RATES THROUGH THE UTILIZATION OF THE GOVERNMENT SHARE IN THE DISCOVERY, EXPLORATION, DEVELOPMENT AND/OR PRODUCTION OF INDIGENOUS SOURCES OF ENERGY FOR THE PURPOSE OF LOWERING THE COST OF ELECTRICITY"
+scope = "National"
+dateFiled = "2013-07-09"
+status = "Referred to Stakeholders on 2013-08-13"
+statusOrder = 4.01
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01255.pdf"
+fileSize = 614156
+author = "Umali, Reynaldo V."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "LOBREGAT, CELSO",]
+[[authorsDetail]]
+name = "Umali, Reynaldo V."
+nameCode = "Umali (R.)"
+date = "2013-07-09"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-10-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-10-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, CELSO"
+nameCode = "Lobregat"
+date = "2014-08-11"
+journalNo = "J006"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 47069
+congress = 16
+bill_no = "HB01255"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-29"

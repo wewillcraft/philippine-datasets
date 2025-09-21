@@ -1,0 +1,55 @@
+billNumber = "HB00225"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB00225"
+lastScraped = "2025-09-22T00:23:15.540151"
+title = "HB00225"
+longTitle = "AN ACT CREATING THE MANILA BAY AREA COMMISSION, DEFINING ITS POWERS, FUNCTIONS AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-07-01"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1998-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 91666
+congress = 11
+bill_no = "HB00225"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1998-07-28"

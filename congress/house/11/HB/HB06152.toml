@@ -1,0 +1,46 @@
+billNumber = "HB06152"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB06152"
+lastScraped = "2025-09-22T00:23:16.731177"
+title = "HB06152"
+longTitle = "AN ACT ESTABLISHING A METROPOLITAN MANILA DRUG REHABILITATION CENTER, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-12-17"
+status = "Pending with the Committee on HEALTH since 1999-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1999-01-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 97587
+congress = 11
+bill_no = "HB06152"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1999-01-18"

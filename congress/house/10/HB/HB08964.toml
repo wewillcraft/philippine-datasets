@@ -1,0 +1,66 @@
+billNumber = "HB08964"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08964"
+lastScraped = "2025-09-22T00:20:59.071752"
+title = "HB08964"
+longTitle = "AN ACT GRANTING THE ST. IGNATIUS COOPERATIVE, INC., A FRANCHISE TO CONSTRUCT, INSTALL, ESTABLISH, OPERATE AND MAINTAIN COMMERCIAL RADIO STATIONS IN THE PROVINCE OF CAMARINES NORTE"
+scope = "Local"
+dateFiled = "1997-02-19"
+status = "Approved by the House on 1997-08-05, transmitted to on 1997-08-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1997-02-24"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 115385
+congress = 10
+bill_no = "HB08964"
+report = "00952"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "approval with amendments"
+date_read = "1997-02-24"
+date_ob = "1997-05-29"
+date_report = "1997-05-27"
+
+[secondReading]
+id = 18654
+congress = 10
+bill_no = "HB08964"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-05-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3236
+congress = 10
+bill_no = "HB08964"
+date_dist = "1997-06-03"
+date_adopt = "1997-08-05"
+no_yeas = 151
+no_nays = 1
+no_abstent = 0
+date_trans = "1997-08-06"
+date_rec = "1997-08-12"

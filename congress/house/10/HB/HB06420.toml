@@ -1,0 +1,81 @@
+billNumber = "HB06420"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06420"
+lastScraped = "2025-09-22T00:20:58.554786"
+title = "HB06420"
+longTitle = "AN ACT SEPARATING THE ILOILO STATE COLLEGE OF FISHERIES IN SAGAY, NEGROS OCCIDENTAL, FROM ILOILO STATE COLLEGE OF FISHERIES AND CONVERTING IT INTO AN INDEPENDENT STATE COLLEGE OF FISHERIES TO BE KNOWN AS THE NORTHERN NEGROS STATE COLLEGE OF FISHERIES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-27"
+status = "REPUBLIC ACT RA08448 (Lapsed into law on 1998-01-09)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marañon"
+[[authorsDetail]]
+name = "Marañon"
+nameCode = "Marañon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 112841
+congress = 10
+bill_no = "HB06420"
+report = "00780"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1996-02-29"
+date_ob = "1997-02-17"
+date_report = "1997-02-17"
+
+[secondReading]
+id = 18352
+congress = 10
+bill_no = "HB06420"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2950
+congress = 10
+bill_no = "HB06420"
+date_dist = "1997-03-03"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"
+date_agram = "1997-10-21"
+amend_ind = "Y"
+act_pres = "L"
+dte_transp = "1997-12-04"
+dte_actedp = "1998-01-09"

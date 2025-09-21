@@ -1,0 +1,42 @@
+billNumber = "HR00030"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00030"
+lastScraped = "2025-09-22T00:25:57.372375"
+title = "HR00030"
+longTitle = "RESOLUTION CALLING FOR THE CREATION OF A SPECIAL CONGRESSIONAL COMMITTEE REPRESENTING THE HOUSE OF REPRESENTATIVES AND BE PART OF THE PROPOSED LEGISLATIVE-EXE CUTIVE UNIFICATION COMMISSION TO MAP OUT A COMPREHENSIVE, PEACEFUL AND LASTING SOLUTION TOTHE INTERNAL ARMED CONFLICT WHICH FOR DECADES HAS RAVAGED THIS COUNTRY AND ITS PEOPLE"
+scope = "National"
+dateFiled = "1992-07-30"
+status = "Pending with the Committee on RULES since 1992-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-08-04"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 133342
+congress = 9
+bill_no = "HR00030"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-08-04"

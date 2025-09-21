@@ -1,0 +1,68 @@
+billNumber = "HB02438"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02438"
+lastScraped = "2025-09-22T00:46:56.995456"
+title = "HB02438"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A PROVINCIAL CAPITOL BUILDING AT SIQUIJOR, SIQUIJOR"
+scope = "Local"
+dateFiled = "1987-10-07"
+status = "Approved by the House on 1989-11-20, transmitted to on 1989-11-21 and received by the Senate on 1989"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua"
+[[authorsDetail]]
+name = "Fua"
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-10-09"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[firstReading]
+id = 137127
+congress = 8
+bill_no = "HB02438"
+report = "00690"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "APPROVAL"
+date_read = "1987-10-09"
+date_ob = "1989-08-07"
+date_cal = "1989-08-07"
+date_unass = "1989-08-07"
+date_report = "1989-06-08"
+
+[secondReading]
+id = 20466
+congress = 8
+bill_no = "HB02438"
+date_approved = "1989-09-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 246
+congress = 8
+bill_no = "HB02438"
+date_dist = "1989-10-10"
+date_adopt = "1989-11-20"
+no_yeas = 125
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-11-21"
+date_rec = "1989-11-24"

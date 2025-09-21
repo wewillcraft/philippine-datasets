@@ -1,0 +1,73 @@
+billNumber = "HB00062"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00062"
+lastScraped = "2025-09-21T23:55:20.071088"
+title = "HB00062"
+longTitle = "AN ACT TO PROMOTE AND PROTECT THE HEALTH OF SCHOOL CHILDREN IN PUBLIC ELEMENTARY AND SECONDARY SCHOOLS AND LEARNING CENTERS"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on HEALTH since 2022-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00062.pdf"
+fileSize = 218187
+author = "FRESNEDI, JAIME R."
+coAuthors = [ "GOMEZ, RICHARD", "TUTOR, KRISTINE ALEXIE B.", "CELESTE, ART",]
+[[authorsDetail]]
+name = "FRESNEDI, JAIME R."
+nameCode = "Fresnedi"
+date = "2022-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GOMEZ, RICHARD"
+nameCode = "Gomez"
+date = "2022-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TUTOR, KRISTINE ALEXIE B."
+nameCode = "Tutor"
+date = "2022-11-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CELESTE, ART"
+nameCode = "Celeste"
+date = "2023-06-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 4981
+congress = 19
+bill_no = "HB00062"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-26"

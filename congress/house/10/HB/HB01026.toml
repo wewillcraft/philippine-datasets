@@ -1,0 +1,41 @@
+billNumber = "HB01026"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01026"
+lastScraped = "2025-09-22T00:20:57.549714"
+title = "HB01026"
+longTitle = "AN ACT CREATING THE PROVINCE OF DAVAO OCCIDENTAL"
+scope = "Local"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 107447
+congress = 10
+bill_no = "HB01026"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-07-27"

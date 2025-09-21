@@ -1,0 +1,46 @@
+billNumber = "HB07599"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07599"
+lastScraped = "2025-09-22T00:20:58.768138"
+title = "HB07599"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TECHNOLOGY AND LIVELIHOOD RESOURCE TECHNOBANK CENTER IN BARANGAY BALINGASAG, MUNICIPALITY OF DUENAS, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-29"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-08-01"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114020
+congress = 10
+bill_no = "HB07599"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-08-01"

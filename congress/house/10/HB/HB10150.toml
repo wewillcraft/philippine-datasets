@@ -1,0 +1,46 @@
+billNumber = "HB10150"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10150"
+lastScraped = "2025-09-22T00:20:59.323316"
+title = "HB10150"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF FOUR (4) ADDITIONAL CLASSROOMS WITH REMOVAL PARTITION IN STO. CRISTO SUR ELEMENTARY SCHOOL AT GAPAN, NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-10-24"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116571
+congress = 10
+bill_no = "HB10150"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-10-24"

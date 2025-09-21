@@ -1,0 +1,42 @@
+billNumber = "HR00260"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00260"
+lastScraped = "2025-09-22T00:20:59.471682"
+title = "HR00260"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO INVESTIGATE, IN AID OF LEGISLATION, THE DRUG ABUSE SITUATION IN THE COUNTRY SPECIALLY IN THE URBAN AREAS AND ITS RELATION TO VIOLENT CRIMES AND SERIOUS VEHICULAR ACCIDENTS"
+scope = "National"
+dateFiled = "1995-10-13"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117314
+congress = 10
+bill_no = "HR00260"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Order and Security on Nov. 27, 199"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-10-24"

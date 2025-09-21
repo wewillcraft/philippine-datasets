@@ -1,0 +1,50 @@
+billNumber = "HB02303"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02303"
+lastScraped = "2025-09-22T00:13:00.214528"
+title = "HB02303"
+longTitle = "AN ACT PROVIDING ADDITIONAL TAX DEDUCTIONS FOR INDIVIDUAL INCOME EARNERS, AMENDING FOR THE PURPOSE SECTION THIRTY- FOUR OF `THE TAX REFORM ACT OF 1997'"
+scope = "National"
+dateFiled = "2001-08-10"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+coAuthors = [ "CUENCO, ANTONIO V.",]
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J041"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 85463
+congress = 12
+bill_no = "HB02303"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-08-20"

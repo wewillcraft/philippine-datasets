@@ -1,0 +1,61 @@
+billNumber = "HB08285"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB08285"
+lastScraped = "2025-09-22T00:01:46.681469"
+title = "HB08285"
+longTitle = "AN ACT PROVIDING MECHANISMS NECESSARY FOR THE IMMEDIATE \r\nPROCUREMENT DISTRIBUTION, AND ADMINISTRATION OF COVID-19 \r\nVACCINES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2020-12-29"
+status = "Pending with the Committee on HEALTH since 2021-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB08285.pdf"
+fileSize = 693090
+author = "Salceda, Joey Sarte"
+coAuthors = [ "BAÑAS-NOGRALES, SHIRLYN", "LEGARDA, LOREN B.",]
+[[authorsDetail]]
+name = "Salceda, Joey Sarte"
+nameCode = "Salceda"
+date = "2020-12-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BAÑAS-NOGRALES, SHIRLYN"
+nameCode = "Bañas-Nograles"
+date = "2021-03-09"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LEGARDA, LOREN B."
+nameCode = "Legarda"
+date = "2021-03-17"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-01-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 27690
+congress = 18
+bill_no = "HB08285"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-01-18"

@@ -1,0 +1,74 @@
+billNumber = "HR01213"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01213"
+lastScraped = "2025-09-21T23:56:23.020635"
+title = "HR01213"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SESSIONS FROM JUNE 09 TO JUNE 11, 2014, AS HAVING BEEN READ AND APPROVED"
+scope = "National"
+dateFiled = "2014-06-10"
+status = "Adopted as Resolution No. HR00110 on 2014-06-11"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales, Neptali II M."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales"
+date = "2014-06-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora (R.)"
+date = "2014-06-10"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-06-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 53611
+congress = 16
+bill_no = "HR01213"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-06-11"
+
+[secondReading]
+id = 5301
+congress = 16
+bill_no = "HR01213"
+adopted_resolution = "HR00110"
+adopted_resolution_title = "RESOLUTION DECLARING THE JOURNAL OF THE SESSIONS FROM JUNE 09 TO JUNE 11, 2014, AS HAVING BEEN READ AND APPROVED"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2014-06-11"
+date_approved = "2014-06-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01213.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_16/HR01213.pdf"

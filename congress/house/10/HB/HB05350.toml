@@ -1,0 +1,46 @@
+billNumber = "HB05350"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05350"
+lastScraped = "2025-09-22T00:20:58.358643"
+title = "HB05350"
+longTitle = "AN ACT PROVIDING THE SUM OF TWENTY MILLION PESOS NECESSARY FOR THE IMPROVEMENT AND EXPANSION OF THE KALIBO AIRPORT  IN THE MUNICIPALITY OF KALIBO, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THERETO"
+scope = "Local"
+dateFiled = "1995-11-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111771
+congress = 10
+bill_no = "HB05350"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-12-05"

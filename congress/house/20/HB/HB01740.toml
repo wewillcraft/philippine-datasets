@@ -1,0 +1,54 @@
+billNumber = "HB01740"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01740"
+lastScraped = "2025-09-21T23:39:48.639377"
+title = "HB01740"
+longTitle = "AN ACT CREATING THE MAGNA CARTA FOR PUBLIC TRANSPORTATION DRIVERS, PROMOTING THEIR RIGHTS, WELFARE, AND SOCIAL PROTECTION, AND FOR OTHER PURPOSES \r\n"
+scope = "National"
+dateFiled = "2025-07-10"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01740.pdf"
+fileSize = 361571
+author = "POE, BRIAN"
+coAuthors = [ "VILLAFUERTE, VINCENZO RENATO LUIGI R.",]
+[[authorsDetail]]
+name = "POE, BRIAN"
+nameCode = "Poe"
+date = "2025-07-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VILLAFUERTE, VINCENZO RENATO LUIGI R."
+nameCode = "Villafuerte (V. R. L. R.)"
+date = "2025-09-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 1741
+congress = 103
+bill_no = "HB01740"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

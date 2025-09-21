@@ -1,0 +1,76 @@
+billNumber = "HB01665"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01665"
+lastScraped = "2025-09-22T00:20:57.659989"
+title = "HB01665"
+longTitle = "AN ACT DISQUALIFYING, UNDER CERTAIN CONDITIONS, APPOINTIVE GOVERNMENT OFFICIALS TO RUN FOR PUBLIC OFFICE"
+scope = "National"
+dateFiled = "1995-08-01"
+status = "Bill reported out 1997-04-29 (#00901)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "RAMIREZ, JOSE T.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1995-08-07"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[motherBills]]
+bill_no = "HB00212"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB05000"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00212"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05000"
+flag = "S"
+
+[firstReading]
+id = 108086
+congress = 10
+bill_no = "HB01665"
+report = "00901"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+recomm = "approval"
+date_read = "1995-08-07"
+date_ob = "1997-05-05"
+date_report = "1997-04-29"

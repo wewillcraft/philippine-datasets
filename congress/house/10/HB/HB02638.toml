@@ -1,0 +1,54 @@
+billNumber = "HB02638"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02638"
+lastScraped = "2025-09-22T00:20:57.855419"
+title = "HB02638"
+longTitle = "AN ACT PROVIDING FOR INCENTIVES TO THE SHIPBREAKING INDUSTRY, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-18"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = true
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 109059
+congress = 10
+bill_no = "HB02638"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-08-28"

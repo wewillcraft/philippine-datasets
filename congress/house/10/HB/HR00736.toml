@@ -1,0 +1,72 @@
+billNumber = "HR00736"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00736"
+lastScraped = "2025-09-22T00:20:59.563689"
+title = "HR00736"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECOLOGY, HEALTH, AGRARIAN REFORM, AND AGRICULTURE AND FOOD TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPACT OF THE WIDESPREAD CONSTRUCTION AND MAINTENANCE OF GOLF COURSES ON THE ENVIRONMENT, THE HEALTH, WATER AND FOOD SECURITY OF THE FILIPINO PEOPLE, AND THE TENURIAL SECURITY AND LIVELIHOOD OF FARMERS"
+scope = "National"
+dateFiled = "1996-07-29"
+status = "Pending with the Committee on RULES since 1996-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 117790
+congress = 10
+bill_no = "HR00736"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agricultur e and Food, on Ecology, on A"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-01"

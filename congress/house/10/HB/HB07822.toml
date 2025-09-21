@@ -1,0 +1,52 @@
+billNumber = "HB07822"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07822"
+lastScraped = "2025-09-22T00:20:58.849111"
+title = "HB07822"
+longTitle = "AN ACT CREATING THE NATIONAL RECYCLING AUTHORITY, DEFINING ITS NATURE, POWERS AND DUTIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-08-26"
+status = "Pending with the Committee on ECOLOGY since 1996-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-08-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "secondary"
+referralCode = "0515"
+
+[firstReading]
+id = 114243
+congress = 10
+bill_no = "HB07822"
+comm_act = "joint ref'l with Gov't Enterprise s & Privatizat ion as per J. 55; p. 83; dtd. Jan. 29 & 30,1997)"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-08-29"

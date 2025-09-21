@@ -1,0 +1,61 @@
+billNumber = "HB07587"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07587"
+lastScraped = "2025-09-22T00:20:58.766131"
+title = "HB07587"
+longTitle = "AN ACT ESTABLISHING A LIBRARY IN ALL GOVERNMENT OFFICES"
+scope = "National"
+dateFiled = "1996-07-25"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Durano"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Durano"
+nameCode = "Durano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-07-30"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114008
+congress = 10
+bill_no = "HB07587"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-07-30"

@@ -1,0 +1,47 @@
+billNumber = "HB02106"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02106"
+lastScraped = "2025-09-22T00:13:00.180644"
+title = "HB02106"
+longTitle = "AN ACT CREATING BARANGAY TUDOG IN THE MUNICIPALITY OF SENATOR NINOY AQUINO, PROVINCE OF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "2001-08-07"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montilla"
+[[authorsDetail]]
+name = "Montilla"
+nameCode = "Montilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85266
+congress = 12
+bill_no = "HB02106"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-08-13"

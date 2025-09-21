@@ -1,0 +1,54 @@
+billNumber = "HR00345"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00345"
+lastScraped = "2025-09-22T00:20:59.486017"
+title = "HR00345"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEES ON GOVERNMENT ENTERPRISES AND PRIVATIZATION AND ECONOMIC AFFAIRS TO CONDUCT AN INVENTORY OF ALL NATIONAL GOVERNMENT-OWNE D LANDS WITHIN METRO MANILA FOR THE PURPOSE OF ENACTING APPROPRIATE LEGISLATION TO ENSURE THE OPTIMAL ECONOMIC UTILIZATION OF THESE PROPERTIES FOR THE GOVERNMENT"
+scope = "Local"
+dateFiled = "1995-11-29"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1995-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1995-12-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 117399
+congress = 10
+bill_no = "HR00345"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+date_read = "1995-12-06"

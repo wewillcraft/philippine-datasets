@@ -1,0 +1,44 @@
+billNumber = "HR01014"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01014"
+lastScraped = "2025-09-22T00:47:02.732988"
+title = "HR01014"
+longTitle = "RESOLUTION REQUIRING ALL MEMBERS OF CONGRESS WHO ARE LAWYERS TO SUBMIT TO THE OFFICE OF THE HOUSE SECRETARY GENERAL ON OR BEFORE JANUARY 15 EVERY YEAR THE LIST OF THE NAMES OF THEIR PRESENT CLIENTS AND THEIR FINANCIAL AND BUSINESS INTERESTS IN ANY CORPORATION, PARTNERSHIP OR OTHER BUSINESS ENTITIES"
+scope = "National"
+dateFiled = "1988-11-02"
+status = "Pending with the Committee on ETHICS since 1988-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1988-11-21"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 170890
+congress = 8
+bill_no = "HR01014"
+comm_act = "LAID ON THE TABLE ON APRIL 26, 1989"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1988-11-21"
+date_laid = "1989-04-26"

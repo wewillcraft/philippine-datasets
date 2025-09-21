@@ -1,0 +1,66 @@
+billNumber = "HB09756"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09756"
+lastScraped = "2025-09-22T00:20:59.239597"
+title = "HB09756"
+longTitle = "AN ACT PROVIDING FOR A BARANGAY ENERGIZATION FUND FOR RURAL ELECTRIC COOPERATIVES (RECs) TO ENERGIZE ALL BARANGAYS IN THE COUNTRY"
+scope = "National"
+dateFiled = "1997-08-05"
+status = "Pending with the Committee on ENERGY since 1997-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-08-11"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "secondary"
+referralCode = "B512"
+
+[firstReading]
+id = 116177
+congress = 10
+bill_no = "HB09756"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-08-11"

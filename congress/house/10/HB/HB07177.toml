@@ -1,0 +1,46 @@
+billNumber = "HB07177"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07177"
+lastScraped = "2025-09-22T00:20:58.694162"
+title = "HB07177"
+longTitle = "AN ACT CONVERTING THE BULACAN PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF MALOLOS, PROVINCE OF BULACAN, INTO A MEDICAL CENTER, TO BE KNOWN AS THE BULACAN MEDICAL CENTER, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-05-29"
+status = "Pending with the Committee on HEALTH since 1996-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113598
+congress = 10
+bill_no = "HB07177"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-06-03"

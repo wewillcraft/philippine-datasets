@@ -1,0 +1,61 @@
+billNumber = "HB04259"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04259"
+lastScraped = "2025-09-22T00:20:58.171244"
+title = "HB04259"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF LIVELIHOOD PRODUCTION AND TRAINING CENTERS IN EVERY PROVINCE AND CITY OF THE PHILIPPINES, COMPLETE WITH TRAINING FACILITIES AND EQUIPMENT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-05"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+coAuthors = [ "AUMENTADO, ERICO B.", "SERAPIO, ANTONIO M.",]
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SERAPIO, ANTONIO M."
+nameCode = "Serapio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110680
+congress = 10
+bill_no = "HB04259"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-10-23"

@@ -1,0 +1,79 @@
+billNumber = "HB03198"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03198"
+lastScraped = "2025-09-21T23:39:48.913010"
+title = "HB03198"
+longTitle = "AN ACT INSTITUTING A NATIONAL AUTISM CARE PLAN, ESTABLISHING A SUB-COMMITTEE ON AUTISM UNDER THE NATIONAL COUNCIL ON DISABILITY AFFAIRS, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-08-06"
+status = "Pending with the Committee on HEALTH since 2025-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB03198.pdf"
+fileSize = 583803
+author = "CENDAÑA, PERCIVAL \"PERCI\""
+coAuthors = [ "TAN, REYNOLDS  MICHAEL T.", "MONTES, IRIS MARIE DEMESA",]
+[[authorsDetail]]
+name = "CENDAÑA, PERCIVAL \"PERCI\""
+nameCode = "Cendaña"
+date = "2025-08-06"
+sequence = 1
+
+[[authorsDetail]]
+name = "DIOKNO, JOSE MANUEL TADEO \"CHEL\" I."
+nameCode = "Diokno"
+date = "2025-08-06"
+sequence = 2
+
+[[authorsDetail]]
+name = "ISMULA, DADAH KIRAM"
+nameCode = "Ismula"
+date = "2025-08-06"
+sequence = 3
+
+[[authorsDetail]]
+name = "BAG-AO, KAKA J."
+nameCode = "Bag-ao"
+date = "2025-08-06"
+sequence = 4
+
+[[coAuthorsDetail]]
+name = "TAN, REYNOLDS  MICHAEL T."
+nameCode = "Tan (R. M.T.)"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONTES, IRIS MARIE DEMESA"
+nameCode = "Montes"
+date = "2025-09-03"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-12"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 3199
+congress = 103
+bill_no = "HB03198"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-12"

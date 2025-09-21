@@ -1,0 +1,75 @@
+billNumber = "HB00315"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00315"
+lastScraped = "2025-09-21T23:39:48.357905"
+title = "HB00315"
+longTitle = "AN ACT PROVIDING FOR A FRAMEWORK FOR CIRCULAR ECONOMY TO PROMOTE SUSTAINABLE PRODUCTION AND CONSUMPTION, AND NATIONAL ECONOMIC SECURITY"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00315.pdf"
+fileSize = 932949
+author = "BENITEZ, JAVIER MIGUEL LOPEZ"
+coAuthors = [ "LOYOLA, ROY M.", "DE VENECIA, MARIA GEORGINA P.", "RIVERA, NOEL \"Bong\" N.", "REMULLA, CRISPIN DIEGO D.",]
+[[authorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY M."
+nameCode = "Loyola"
+date = "2025-08-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, MARIA GEORGINA P."
+nameCode = "De Venecia"
+date = "2025-08-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REMULLA, CRISPIN DIEGO D."
+nameCode = "Remulla"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 316
+congress = 103
+bill_no = "HB00315"
+report = ""
+comm_act = ""
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

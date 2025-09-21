@@ -1,0 +1,42 @@
+billNumber = "HR01197"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01197"
+lastScraped = "2025-09-22T00:25:57.588095"
+title = "HR01197"
+longTitle = "RESOLUTION DIRECTING AN APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CIRCUMSTANCES SURROUNDING THE SUDDEN DEPORTATION OF ELEVEN INDIAN NATIONALS WHO WERE FACING DRUG CHARGES ALREADY FILED IN COURT"
+scope = "Local"
+dateFiled = "1994-08-30"
+status = "Pending with the Committee on RULES since 1994-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-09-05"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 134503
+congress = 9
+bill_no = "HR01197"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-09-05"

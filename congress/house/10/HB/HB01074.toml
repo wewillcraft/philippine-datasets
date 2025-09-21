@@ -1,0 +1,54 @@
+billNumber = "HB01074"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01074"
+lastScraped = "2025-09-22T00:20:57.558653"
+title = "HB01074"
+longTitle = "FISHERIES CONSERVATION AND MANAGEMENT ACT"
+scope = "National"
+dateFiled = "1995-07-19"
+status = "Substituted by HB07366"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107495
+congress = 10
+bill_no = "HB01074"
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+date_read = "1995-07-27"

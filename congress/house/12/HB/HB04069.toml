@@ -1,0 +1,47 @@
+billNumber = "HB04069"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04069"
+lastScraped = "2025-09-22T00:13:00.531141"
+title = "HB04069"
+longTitle = "AN ACT TRANSFERRING THE MAINTENANCE AND OPERATIONS OF THE MANUEL B. VELOSO MEMORIAL HOSPITAL IN THE MUNICIPALITY OF PALOMPON, PROVINCE OF LEYTE, TO THE NATIONAL GOVERNMENT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-12-11"
+status = "Pending with the Committee on HEALTH since 2001-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-12-18"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87229
+congress = 12
+bill_no = "HB04069"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-12-18"

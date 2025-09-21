@@ -1,0 +1,81 @@
+billNumber = "HB00620"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB00620"
+lastScraped = "2025-09-22T00:13:47.959669"
+title = "HB00620"
+longTitle = "AN ACT UPGRADING THE MINIMUM SALARY GRADE OF PUBLIC SCHOOLS DISTRICT SUPERVISORS (PSDS) AND EDUCATION SUPERVISORS-1 (ES1), AMENDING FOR THE PURPOSE THE 'COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989'"
+scope = "National"
+dateFiled = "2004-07-01"
+status = "Pending with the Committee on APPROPRIATIONS since 2004-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB00620.pdf"
+fileSize = 28439278
+author = "Escudero, Francis G."
+coAuthors = [ "JARAULA, CONSTANTINO G.", "CHIPECO, JUSTIN MARC SB", "ESPINO, AMADO JR. T.", "BACANI, RODOLFO C.",]
+[[authorsDetail]]
+name = "Escudero, Francis G."
+nameCode = "Escudero"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JUSTIN MARC SB"
+nameCode = "Chipeco"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BACANI, RODOLFO C."
+nameCode = "Bacani"
+date = ""
+journalNo = "J027"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2004-07-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 75710
+congress = 13
+bill_no = "HB00620"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-07-28"
+date_read = "2004-07-28"

@@ -1,0 +1,46 @@
+billNumber = "HB01615"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01615"
+lastScraped = "2025-09-22T00:20:57.651196"
+title = "HB01615"
+longTitle = "AN ACT ADOPTING THE STRATEGIC ENVIRONMENTAL PLAN FOR THE PROVINCE OF KALINGA, CREATING THE ADMINISTRATIVE MACHINERY FOR ITS IMPLEMENTATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-01"
+status = "Substituted by HB07030"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108036
+congress = 10
+bill_no = "HB01615"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-08-03"

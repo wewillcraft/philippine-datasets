@@ -1,0 +1,47 @@
+billNumber = "HB01202"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01202"
+lastScraped = "2025-09-22T00:13:00.021982"
+title = "HB01202"
+longTitle = "AN ACT ESTABLISHING A BAMBOO NURSERY IN BARANGAY SAN SIMON, CITY OF CAGAYAN DE ORO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jaraula, Constantino G."
+[[authorsDetail]]
+name = "Jaraula, Constantino G."
+nameCode = "Jaraula"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84362
+congress = 12
+bill_no = "HB01202"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-07-30"

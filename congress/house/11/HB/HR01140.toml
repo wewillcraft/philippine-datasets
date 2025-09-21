@@ -1,0 +1,42 @@
+billNumber = "HR01140"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01140"
+lastScraped = "2025-09-22T00:23:18.161425"
+title = "HR01140"
+longTitle = "RESOLUTION CALLING ON THE COMMITTEE ON GAMES AND AMUSEMENTS TO INVESTIGATE THE ALLEGED GAME-FIXING IN THE JAI-ALAI FRONTON"
+scope = "National"
+dateFiled = "1999-09-17"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1999-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1999-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 105596
+congress = 11
+bill_no = "HR01140"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1999-09-22"

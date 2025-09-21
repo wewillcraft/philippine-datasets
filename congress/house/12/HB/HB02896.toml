@@ -1,0 +1,47 @@
+billNumber = "HB02896"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02896"
+lastScraped = "2025-09-22T00:13:00.330637"
+title = "HB02896"
+longTitle = "AN ACT ESTABLISHING A MEDICAL CENTER IN THE CITY OF MASBATE TO BE KNOWN AS THE MASBATE CITY MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-05"
+status = "Pending with the Committee on HEALTH since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa, Emilio Jr. R."
+[[authorsDetail]]
+name = "Espinosa, Emilio Jr. R."
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86056
+congress = 12
+bill_no = "HB02896"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-25"

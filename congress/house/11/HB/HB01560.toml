@@ -1,0 +1,72 @@
+billNumber = "HB01560"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01560"
+lastScraped = "2025-09-22T00:23:15.782629"
+title = "HB01560"
+longTitle = "AN ACT CONVERTING AND DECLARING CERTAIN ROADS IN THE PROVINCE OF LEYTE, INTO A NATIONAL ROAD, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-07-31"
+status = "Approved by the House on 1998-12-21, transmitted to on 1998-12-21 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1998-08-06"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 93001
+congress = 11
+bill_no = "HB01560"
+report = "00066"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendments"
+date_read = "1998-08-06"
+date_ob = "1998-11-24"
+date_report = "1998-11-23"
+
+[secondReading]
+id = 16329
+congress = 11
+bill_no = "HB01560"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-11-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3601
+congress = 11
+bill_no = "HB01560"
+date_dist = "1998-12-03"
+date_adopt = "1998-12-21"
+no_yeas = 200
+no_nays = 0
+no_abstent = 0
+date_trans = "1998-12-21"
+date_rec = "1999-01-06"

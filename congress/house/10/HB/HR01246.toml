@@ -1,0 +1,54 @@
+billNumber = "HR01246"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01246"
+lastScraped = "2025-09-22T00:20:59.664764"
+title = "HR01246"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SECURITY AND THE COMMITTEE ON PUBLIC INFORMATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE APPARENT EXECUTION/SLAYI NG OF PEOPLE'S TONIGHT COLUMNIST DANNY HERNANDEZ, TO LOOK INTO THISDASTARDLY CRIME AS WELL AS OTHER SIMILAR PAST INCIDENCE AGAINST MEMBERS OF THE MEDIA"
+scope = "Local"
+dateFiled = "1997-06-03"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-06-05"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "secondary"
+referralCode = "0528"
+
+[firstReading]
+id = 118300
+congress = 10
+bill_no = "HR01246"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-06-05"

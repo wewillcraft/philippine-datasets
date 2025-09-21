@@ -1,0 +1,54 @@
+billNumber = "HB04077"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04077"
+lastScraped = "2025-09-22T00:20:58.127445"
+title = "HB04077"
+longTitle = "AN ACT DECLARING BARANGAY BUENAVISTA IN SURIGAO CITY AND ITS EXISTING EXQUISITE NATURAL CAVES AS A TOURIST SPOT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-28"
+status = "Pending with the Committee on TOURISM since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "RAMA, EDUARDO SR. L.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO SR. L."
+nameCode = "Rama"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110498
+congress = 10
+bill_no = "HB04077"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-10-03"

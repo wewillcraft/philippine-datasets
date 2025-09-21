@@ -1,0 +1,46 @@
+billNumber = "HB05983"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05983"
+lastScraped = "2025-09-22T00:20:58.472517"
+title = "HB05983"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING IN CABUGAO NUEVO ELEMENTARY SCHOOL, BARANGAY CABUGAO NUEVO, MUNICIPALITY OF SAN ENRIQUE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-30"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-01"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112404
+congress = 10
+bill_no = "HB05983"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-01"

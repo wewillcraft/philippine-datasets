@@ -1,0 +1,42 @@
+billNumber = "HB14032"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14032"
+lastScraped = "2025-09-22T00:25:57.195220"
+title = "HB14032"
+longTitle = "AN ACT ESTABLISHING A REGISTRY OF DEEDS OFFICE IN THE CITY OF DAPITAN, PROVINCE OF ZAMBOANGA DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-10-26"
+status = "Pending with the Committee on JUSTICE since 1994-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adasa"
+[[authorsDetail]]
+name = "Adasa"
+nameCode = "Adasa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-11-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132641
+congress = 9
+bill_no = "HB14032"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-11-08"

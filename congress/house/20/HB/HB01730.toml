@@ -1,0 +1,54 @@
+billNumber = "HB01730"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01730"
+lastScraped = "2025-09-21T23:39:48.637547"
+title = "HB01730"
+longTitle = "AN ACT PROVIDING FOR A NATIONAL EMPLOYMENT ASSISTANCE PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-10"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01730.pdf"
+fileSize = 215263
+author = "RECTO, RYAN S."
+coAuthors = [ "GARDIOLA, EDWIN L.",]
+[[authorsDetail]]
+name = "RECTO, RYAN S."
+nameCode = "Santos (R. S.)"
+date = "2025-07-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GARDIOLA, EDWIN L."
+nameCode = "Gardiola"
+date = "2025-09-11"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 1731
+congress = 103
+bill_no = "HB01730"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

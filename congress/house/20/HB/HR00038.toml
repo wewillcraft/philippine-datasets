@@ -1,0 +1,45 @@
+billNumber = "HR00038"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00038"
+lastScraped = "2025-09-21T23:39:49.203506"
+title = "HR00038"
+longTitle = "A RESOLUTION OF THE HOUSE OF REPRESENTATIVES EXPRESSING WARMEST\r\nGREETINGS AND CONGRATULATIONS TO THE IGLESIA NI CRISTO ON ITS 111TH\r\nFOUNDING ANNIVERSARY"
+dateFiled = "2025-07-08"
+status = "Pending with the Committee on RULES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00038.pdf"
+fileSize = 281470
+author = "OLIVAREZ, ERIC L."
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2025-07-08"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 4594
+congress = 103
+bill_no = "HR00038"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

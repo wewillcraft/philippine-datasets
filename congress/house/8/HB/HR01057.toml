@@ -1,0 +1,42 @@
+billNumber = "HR01057"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01057"
+lastScraped = "2025-09-22T00:47:02.741407"
+title = "HR01057"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOVERNMENT REORGANIZATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED IRREGULARITIES COMMITTEDIN THE IMPLEMENTATION OF THE REORGANIZATION ACT OF THE DEPARTMENT OF AGRICULTURE"
+scope = "National"
+dateFiled = "1988-12-14"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1988-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1988-12-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 170931
+congress = 8
+bill_no = "HR01057"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1988-12-16"

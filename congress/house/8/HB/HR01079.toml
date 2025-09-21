@@ -1,0 +1,42 @@
+billNumber = "HR01079"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01079"
+lastScraped = "2025-09-22T00:47:02.745954"
+title = "HR01079"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CIVIL SERVICE TO REQUEST THE CIVIL SERVICE COMMISSION TO SPEED THE RELEASE OF THE RESULTS OF THE LAST CIVIL SERVICE EXAMINATION"
+scope = "National"
+dateFiled = "1989-01-05"
+status = "Pending with the Committee on CIVIL SERVICE since 1989-01-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1989-01-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170953
+congress = 8
+bill_no = "HR01079"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1989-01-16"

@@ -1,0 +1,54 @@
+billNumber = "HB00245"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00245"
+lastScraped = "2025-09-21T23:39:48.345311"
+title = "HB00245"
+longTitle = "AN ACT PROVIDING FOR A BILL OF RIGHTS FOR AIR PASSENGERS, PENALIZING VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00245.pdf"
+fileSize = 800342
+author = "NAZAL, ROBERT"
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "NAZAL, ROBERT"
+nameCode = "Nazal"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 246
+congress = 103
+bill_no = "HB00245"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

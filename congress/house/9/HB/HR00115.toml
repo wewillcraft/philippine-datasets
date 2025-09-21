@@ -1,0 +1,42 @@
+billNumber = "HR00115"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00115"
+lastScraped = "2025-09-22T00:25:57.388809"
+title = "HR00115"
+longTitle = "RESOLUTION EXTENDING PERMANENT STATUS TO ALL THE EMPLOYEES COMPOSING THE JANITORIAL SERVICES OF THE HOUSE OF REPRESENTATIVES , IN ACCORDANCE WITH THE STAFFING PATTERN FOR THE 1992 HOUSE BUDGET"
+scope = "Local"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on ACCOUNTS since 1992-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "0501"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 133427
+congress = 9
+bill_no = "HR00115"
+referral = "0501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "1992-08-27"

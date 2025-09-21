@@ -1,0 +1,42 @@
+billNumber = "HB05936"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05936"
+lastScraped = "2025-09-22T00:46:57.670687"
+title = "HB05936"
+longTitle = "AN ACT ESTABLISHING HEALTH CENTER IN LOPEZ JAENA STREET, BARANGAY TANONG, IN THE MUNICIPALITY OF MARIKINA, METRO MANILA"
+scope = "Local"
+dateFiled = "1988-03-03"
+status = "Pending with the Committee on HEALTH since 1988-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 140617
+congress = 8
+bill_no = "HB05936"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-07"

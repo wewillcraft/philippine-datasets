@@ -1,0 +1,47 @@
+billNumber = "HR00725"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00725"
+lastScraped = "2025-09-22T00:20:59.562070"
+title = "HR00725"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CAUSES OF THE EXCESSIVE OVERRUNS IN OFFICIAL DEVELOPMENT ASSISTANCE PROJECTS AND TO DETERMINE THE ROLE PLAYED BY FOREIGN CONSULTANTS IN THE OCCURRENCE OF SUCH OVERRUNS AND OTHER MATTERS"
+scope = "National"
+dateFiled = "1996-07-24"
+status = "Pending with the Committee on RULES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Osmeña"
+[[authorsDetail]]
+name = "Osmeña"
+nameCode = "Osmeña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[firstReading]
+id = 117779
+congress = 10
+bill_no = "HR00725"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Works and highways on July 30. 199"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-29"

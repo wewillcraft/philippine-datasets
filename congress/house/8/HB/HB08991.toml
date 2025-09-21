@@ -1,0 +1,42 @@
+billNumber = "HB08991"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08991"
+lastScraped = "2025-09-22T00:46:58.180743"
+title = "HB08991"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF POBLACION II, MUNICIPALITY OF TUBURAN, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-09"
+status = "Pending with the Committee on HEALTH since 1988-05-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 143666
+congress = 8
+bill_no = "HB08991"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-11"

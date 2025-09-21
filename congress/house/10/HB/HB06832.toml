@@ -1,0 +1,46 @@
+billNumber = "HB06832"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06832"
+lastScraped = "2025-09-22T00:20:58.628441"
+title = "HB06832"
+longTitle = "AN ACT CREATING A TESDA PROVINCIAL SKILLS TRAINING CENTER IN THE MUNICIPALITY OF ISABELA, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-04-19"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113253
+congress = 10
+bill_no = "HB06832"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-04-30"

@@ -1,0 +1,42 @@
+billNumber = "HR01192"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01192"
+lastScraped = "2025-09-22T00:47:02.767148"
+title = "HR01192"
+longTitle = "RESOLUTION REQUESTING THE DEPARTMENT OF AGRICULTURE TO CONDUCT A STUDY ON THE FEASIBILITY OF ESTABLISHING A FOOD TERMINAL IN GENERAL SANTOS CITY"
+scope = "Local"
+dateFiled = "1989-03-06"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1989-03-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1989-03-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 171065
+congress = 8
+bill_no = "HR01192"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1989-03-09"

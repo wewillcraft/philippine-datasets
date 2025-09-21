@@ -1,0 +1,42 @@
+billNumber = "HR00569"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00569"
+lastScraped = "2025-09-22T00:47:02.635942"
+title = "HR00569"
+longTitle = "RESOLUTION SEEKING MEMBERSHIP ON THE RP-US BASES TALKS FOR GOVERNORS AND MAYORS OF HOST CITIES TO MILITARY BASES AND NEIGHBORING PROVINCES"
+scope = "National"
+dateFiled = "1988-02-05"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-02-09"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170456
+congress = 8
+bill_no = "HR00569"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-02-09"

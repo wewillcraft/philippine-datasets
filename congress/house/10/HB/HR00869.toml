@@ -1,0 +1,47 @@
+billNumber = "HR00869"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00869"
+lastScraped = "2025-09-22T00:20:59.588699"
+title = "HR00869"
+longTitle = "RESOLUTION DIRECTING THE AD HOC OVERSIGHT COMMITTEE OF THE BASES CONVERSION DEVELOPMENT AUTHORITY TO INITIATE A CONGRESSIONAL INQUIRY, IN AID OF LEGISLATION, INTO THE FACTS AND CIRCUMSTANCES SURROUNDING THE PROPOSED SALE OF THE COMMUNITY SERVICE STRIP OF LAND AT VILLAMOR AIR BASE"
+scope = "Local"
+dateFiled = "1996-09-25"
+status = "Pending with the Committee on RULES since 1996-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-30"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "BASES CONVERSION"
+type = "secondary"
+referralCode = "A509"
+
+[firstReading]
+id = 117923
+congress = 10
+bill_no = "HR00869"
+comm_act = "Change of referral from the Ctte. on Rules to Ad Hoc Ctte. on Bases Conversion on Oct. 1, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-30"

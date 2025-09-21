@@ -1,0 +1,41 @@
+billNumber = "HB10118"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10118"
+lastScraped = "2025-09-22T00:20:59.317510"
+title = "HB10118"
+longTitle = "AN ACT TO ELIMINATE THE AUTOMATIC APPROPRIATION FEATURE OF PRESIDENTIAL DECRE NUMBERED ONE THOUSAND NINE HUNDRED AND SIXTY-SEVEN, AMENDING SECTIONS 1 AND 3 OF SAID DECREE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-10-15"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116539
+congress = 10
+bill_no = "HB10118"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-10-20"

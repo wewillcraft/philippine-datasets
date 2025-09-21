@@ -1,0 +1,46 @@
+billNumber = "HB06677"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06677"
+lastScraped = "2025-09-22T00:20:58.600517"
+title = "HB06677"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE OPERATION OF A FIVE-BED CLINIC/HOSPITAL IN THE MUNICIPALITY OF CARAGA, PROVINCE OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on HEALTH since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113098
+congress = 10
+bill_no = "HB06677"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-03-26"

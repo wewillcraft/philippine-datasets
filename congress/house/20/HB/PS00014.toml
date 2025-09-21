@@ -1,0 +1,43 @@
+billNumber = "PS00014"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00014"
+lastScraped = "2025-09-21T23:39:49.244476"
+title = "Automatic Appropriations In G A A 2025"
+longTitle = "AUTOMATIC APPROPRIATIONS IN GAA 2025"
+dateFiled = "2025-08-04"
+status = "Pending with the Committee on RULES since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "UNGAB, ISIDRO T."
+[[authorsDetail]]
+name = "UNGAB, ISIDRO T."
+nameCode = "Ungab"
+date = "2025-08-04"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[firstReading]
+id = 4849
+congress = 103
+bill_no = "PS00014"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

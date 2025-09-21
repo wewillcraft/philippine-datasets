@@ -1,0 +1,57 @@
+billNumber = "HR01211"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01211"
+lastScraped = "2025-09-22T00:47:02.769962"
+title = "HR01211"
+longTitle = "RESOLUTION REGULATING FOREIGN TRAVELS OF MEMBERS AND PERSONNEL OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1989-03-14"
+status = "Pending with the Committee on ETHICS since 1989-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+coAuthors = [ "CABOCHAN, GERARDO P.", "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CABOCHAN, GERARDO P."
+nameCode = "Cabochan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1989-03-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 171084
+congress = 8
+bill_no = "HR01211"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1989-03-17"

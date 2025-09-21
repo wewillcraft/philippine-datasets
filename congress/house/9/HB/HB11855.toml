@@ -1,0 +1,57 @@
+billNumber = "HB11855"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11855"
+lastScraped = "2025-09-22T00:25:56.779708"
+title = "HB11855"
+longTitle = "AN ACT RETURNING THE OWNERSHIP, MANAGEMENT AND CONTROL OF MEDICARE, MUNICIPAL, DISTRICT, AND PROVINCIAL HOSPITALS TO THE DEPARTMENT OF HEALTH"
+scope = "National"
+dateFiled = "1994-01-28"
+status = "Pending with the Committee on HEALTH since 1994-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro"
+coAuthors = [ "RAMIREZ, JOSE T.", "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Ramiro"
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-02-02"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130470
+congress = 9
+bill_no = "HB11855"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-02-02"

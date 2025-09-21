@@ -1,0 +1,54 @@
+billNumber = "HB01498"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01498"
+lastScraped = "2025-09-22T00:23:15.771449"
+title = "HB01498"
+longTitle = "AN ACT REGULATING FOOD AND DRINK THAT DEVELOP OBESITY AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1998-07-29"
+status = "Pending with the Committee on HEALTH since 1998-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "PARCON, MANUEL P.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PARCON, MANUEL P."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-08-04"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92939
+congress = 11
+bill_no = "HB01498"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1998-08-04"

@@ -1,0 +1,47 @@
+billNumber = "HB08002"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08002"
+lastScraped = "2025-09-22T00:25:56.045750"
+title = "HB08002"
+longTitle = "AN ACT PROVIDING FOR THE OUTRIGHT DISMISSAL FROM THE SERVICE MEMBERS OF THE NATIONAL POLICE AND THE MILITARY FOR AWOL OFFENSES"
+scope = "National"
+dateFiled = "1993-03-04"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1993-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1993-03-10"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 126621
+congress = 9
+bill_no = "HB08002"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1993-03-10"

@@ -1,0 +1,48 @@
+billNumber = "HR00783"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00783"
+lastScraped = "2025-09-22T00:25:57.509134"
+title = "HR00783"
+longTitle = "RESOLUTION URGING CONGRESS TO MAKE AN INQUIRY INTO THE STATUS OF THE TOBACCO INDUSTRY IN THE FACE OF THE WORLD TOBACCO PRODUCTION GLUT, THE WORLDWIDE CAMPAIGN AGAINST SMOKING AND THE EFFECT OF THE BIR MEMORANDUM CIRCULAR NO. 37-93"
+scope = "National"
+dateFiled = "1993-09-27"
+status = "Pending with the Committee on AGRARIAN REFORM since 1993-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1993-09-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 134095
+congress = 9
+bill_no = "HR00783"
+comm_act = "Change of referral from the Committee on Rules(J.27 ,p.169)"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1993-09-30"

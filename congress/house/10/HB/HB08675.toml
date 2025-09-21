@@ -1,0 +1,61 @@
+billNumber = "HB08675"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08675"
+lastScraped = "2025-09-22T00:20:59.010453"
+title = "HB08675"
+longTitle = "AN ACT DEFINING THE RIGHTS OF VICTIMS OF CRIME, ESTABLISHING THE OFFICE OF VICTIMS OF CRIME UNDER THE DEPARTMENT OF JUSTICE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-12-20"
+status = "Pending with the Committee on JUSTICE since 1997-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "PERIQUET, ANNA MARIE K.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PERIQUET, ANNA MARIE K."
+nameCode = "Periquet"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-01-20"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115096
+congress = 10
+bill_no = "HB08675"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-01-20"

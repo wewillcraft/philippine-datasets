@@ -1,0 +1,41 @@
+billNumber = "HR00521"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00521"
+lastScraped = "2025-09-22T00:20:59.521092"
+title = "HR00521"
+longTitle = "RESOLUTION COMMENDING FILIPINO BOXER LUISITO ESPINOSA FOR HIS SUCCESSFUL DEFENSE OF THE WORLD BOXING COUNCIL FEATHERWEIGHT CROWN"
+scope = "National"
+dateFiled = "1996-03-05"
+status = "Pending with the Committee on RULES since 1996-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-03-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117575
+congress = 10
+bill_no = "HR00521"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-03-07"

@@ -1,0 +1,47 @@
+billNumber = "HB00030"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00030"
+lastScraped = "2025-09-22T00:25:54.592940"
+title = "HB00030"
+longTitle = "AN ACT ESTABLISHING A FORTY-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF LAGONGLONG, PROVINCE OF MISAMIS ORIENTAL, TO BE KNOWN AS THE LAGONGLONG MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-01"
+status = "Pending with the Committee on HEALTH since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118649
+congress = 9
+bill_no = "HB00030"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-07-28"

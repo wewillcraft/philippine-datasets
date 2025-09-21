@@ -1,0 +1,46 @@
+billNumber = "HB06243"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06243"
+lastScraped = "2025-09-22T00:20:58.520726"
+title = "HB06243"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WATER IMPOUNDING PROJECT IN THE MUNICIPALITY OF MACALELON, PROVINCE OF QUEZON, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112664
+congress = 10
+bill_no = "HB06243"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-19"

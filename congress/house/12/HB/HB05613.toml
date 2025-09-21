@@ -1,0 +1,42 @@
+billNumber = "HB05613"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05613"
+lastScraped = "2025-09-22T00:13:00.873721"
+title = "HB05613"
+longTitle = "AN ACT SEPARATING THE CITY OF BATANGAS FROM THE 2ND LEGISLATIVE DISTRICT OF THE PROVINCE OF BATANGAS AND CONSTITUTING IT INTO AN INDEPENDENT REPRESENTATIVE DISTRICT OF BATANGAS CITY"
+scope = "Local"
+dateFiled = "2003-01-22"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2003-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2003-01-28"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 88768
+congress = 12
+bill_no = "HB05613"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2003-01-28"

@@ -1,0 +1,46 @@
+billNumber = "HB02889"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02889"
+lastScraped = "2025-09-22T00:20:57.900492"
+title = "HB02889"
+longTitle = "AN ACT TO APPROPRIATE FUNDS FOR THE CONSTRUCTION OF LEVEL II WATER SYSTEM IN THE MUNICIPALITY OF DULAG, PROVINCE OF LEYTE"
+scope = "Local"
+dateFiled = "1995-08-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109310
+congress = 10
+bill_no = "HB02889"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-04"

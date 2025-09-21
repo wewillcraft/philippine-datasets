@@ -1,0 +1,69 @@
+billNumber = "HB01172"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01172"
+lastScraped = "2025-09-22T00:25:54.805019"
+title = "HB01172"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE (25) BED HOSPITAL IN THE MUNICIPALITY OF QUEZON, PROVINCE OF ISABELA, TO BE KNOWN AS THE QUEZON COMMUNITY HOSPITAL"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on HEALTH since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dy"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "ABAYA, ANTONIO M.", "RESPICIO, SANTIAGO P.",]
+[[authorsDetail]]
+name = "Dy"
+nameCode = "Dy"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119791
+congress = 9
+bill_no = "HB01172"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-25"

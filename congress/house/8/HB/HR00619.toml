@@ -1,0 +1,42 @@
+billNumber = "HR00619"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00619"
+lastScraped = "2025-09-22T00:47:02.647320"
+title = "HR00619"
+longTitle = "RESOLUTION REQUESTING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO TO ALLOW FORMER PRESIDENT FERDINAND E. MARCOS, THE IMMEDIATE MEMBERS OF HIS FAMILY AND FORMER AMBASSADOR EDUARDO COJUANGCO, JR. TO RETURN TO THE PHILIPPINES TO FACE SUIT FILED AGAINSTTHEM"
+scope = "National"
+dateFiled = "1988-03-16"
+status = "Pending with the Committee on JUSTICE since 1988-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1988-03-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 170504
+congress = 8
+bill_no = "HR00619"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1988-03-18"

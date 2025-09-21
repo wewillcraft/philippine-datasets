@@ -1,0 +1,43 @@
+billNumber = "HR01221"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01221"
+lastScraped = "2025-09-22T00:25:57.593070"
+title = "HR01221"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE DISTRIBUTION OF INFECTED CARABAOS IN NORTHERN SAMAR"
+scope = "Local"
+dateFiled = "1994-09-19"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Menzon"
+[[authorsDetail]]
+name = "Menzon"
+nameCode = "Menzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134527
+congress = 9
+bill_no = "HR01221"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte. on Agricultur e and Food on 09/26/94"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-09-22"

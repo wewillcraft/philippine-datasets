@@ -1,0 +1,67 @@
+billNumber = "HB04017"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04017"
+lastScraped = "2025-09-22T00:46:57.262944"
+title = "HB04017"
+longTitle = "AN ACT ESTABLISHING A TWENTY-BED CAPACITY EMERGENCY HOSPITAL IN THE MUNICIPALITY OF LINGAYEN, PROVINCE OF PANGASINAN, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-25"
+status = "REPUBLIC ACT (RA06888) enacted on 1990-03-08"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bengson"
+[[authorsDetail]]
+name = "Bengson"
+nameCode = "Bengson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = ""
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 138703
+congress = 8
+bill_no = "HB04017"
+report = "00587"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_laid = "1901-05-24"
+date_report = "1989-05-23"
+
+[secondReading]
+id = 20550
+congress = 8
+bill_no = "HB04017"
+date_approved = "1989-05-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 327
+congress = 8
+bill_no = "HB04017"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 115
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "A"
+dte_transp = "1990-01-09"
+dte_actedp = "1990-03-08"

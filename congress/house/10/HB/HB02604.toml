@@ -1,0 +1,46 @@
+billNumber = "HB02604"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02604"
+lastScraped = "2025-09-22T00:20:57.849032"
+title = "HB02604"
+longTitle = "AN ACT ESTABLISHING A NATIONAL VOCATIONAL AND TECHNOLOGICAL HIGH SCHOOL IN BARANGAY BUENAVIDA, MUNICIPALITY OF MAKILALA, PROVINCE OF NORTH COTABATO, TO BE KNOWN AS 'BUENAVIDA NATIONAL VOCATIONAL AND TECHNOLOGICAL HIGH SCHOOL,' AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109025
+congress = 10
+bill_no = "HB02604"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-28"

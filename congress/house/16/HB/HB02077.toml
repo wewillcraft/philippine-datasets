@@ -1,0 +1,67 @@
+billNumber = "HB02077"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB02077"
+lastScraped = "2025-09-21T23:56:21.852087"
+title = "HB02077"
+longTitle = "AN ACT CREATING A NATIONAL CANCER INSTITUTE TO BE KNOWN AS THE NATIONAL CANCER INSTITUTE OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFORE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-30"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2014-09-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB02077.pdf"
+fileSize = 1267946
+author = "DE VENECIA, MA. GEORGINA P."
+coAuthors = [ "VARGAS, ALFRED PAOLO III", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "DE VENECIA, MA. GEORGINA P."
+nameCode = "De Venecia"
+date = "2013-07-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VARGAS, ALFRED PAOLO III"
+nameCode = "Vargas"
+date = "2014-01-22"
+journalNo = "J039"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2015-02-11"
+journalNo = "J048"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2013-08-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 47891
+congress = 16
+bill_no = "HB02077"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-09-16"
+date_read = "2013-08-06"

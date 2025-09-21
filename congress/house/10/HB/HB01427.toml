@@ -1,0 +1,61 @@
+billNumber = "HB01427"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01427"
+lastScraped = "2025-09-22T00:20:57.619523"
+title = "HB01427"
+longTitle = "AN ACT ESTABLISHING AN AIDS CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-27"
+status = "Substituted by HB10510"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro, Herminia M."
+coAuthors = [ "VERCELES, LEANDRO JR. B.", "PALMA GIL, MA. ELENA T.",]
+[[authorsDetail]]
+name = "Ramiro, Herminia M."
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107848
+congress = 10
+bill_no = "HB01427"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-02"

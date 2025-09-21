@@ -1,0 +1,47 @@
+billNumber = "HR01435"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01435"
+lastScraped = "2025-09-21T23:55:46.521964"
+title = "HR01435"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE TOLL HIKES OF THE NORTH LUZON EXPRESSWAY (NLEX) AND THE SOUTHERN TAGALOG ARTERIAL ROAD (STAR)"
+scope = "National"
+dateFiled = "2017-11-06"
+status = "Pending with the Committee on TRANSPORTATION since 2017-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01435.pdf"
+fileSize = 492299
+author = "Zarate, Carlos Isagani T."
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2017-11-06"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-11-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 44177
+congress = 17
+bill_no = "HR01435"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-11-28"
+date_read = "2017-11-21"

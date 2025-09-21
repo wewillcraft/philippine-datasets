@@ -1,0 +1,46 @@
+billNumber = "HB06048"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06048"
+lastScraped = "2025-09-22T00:20:58.484798"
+title = "HB06048"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING IN BUYO ELEMENTARY SCHOOL, BARANGAY BUYO, MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112469
+congress = 10
+bill_no = "HB06048"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-06"

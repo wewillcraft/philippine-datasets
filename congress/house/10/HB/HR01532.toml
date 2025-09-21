@@ -1,0 +1,41 @@
+billNumber = "HR01532"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01532"
+lastScraped = "2025-09-22T00:20:59.713925"
+title = "HR01532"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGATIONS THAT HOUSING AND URBAN DEVELOPMENT COORDINATING COUNCIL CHAIRMAN DIONISIO C. DE LA CERNA GAVE FIFTY THOUSAND PESOS (P50,000.00) TO EACH CANDIDATE FOR THE DAVAO CITY COUNCIL OF THE ALYANSA NG DABAW IN VIOLATION OF THE OMNIBUS ELECTION CODE AND TO RECOMMEND REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "Local"
+dateFiled = "1998-02-20"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 118578
+congress = 10
+bill_no = "HR01532"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1998-05-25"

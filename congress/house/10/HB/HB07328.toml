@@ -1,0 +1,46 @@
+billNumber = "HB07328"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07328"
+lastScraped = "2025-09-22T00:20:58.720203"
+title = "HB07328"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A WOMEN'S CENTER IN THE MUNICIPALITY OF TARRAGONA, PROVINCE OF DAVAO ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Pending with the Committee on WOMEN since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113749
+congress = 10
+bill_no = "HB07328"
+referral = "A504"
+ref_name = "WOMEN"
+date_read = "1996-06-08"

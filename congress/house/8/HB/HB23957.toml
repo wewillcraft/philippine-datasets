@@ -1,0 +1,60 @@
+billNumber = "HB23957"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB23957"
+lastScraped = "2025-09-22T00:47:00.612716"
+title = "HB23957"
+longTitle = "AN ACT ENSURING PAYMENT OF RETIREMENT BENEFITS TO GOVERNMENT EMPLOYEES ON THE DATE OF THEIR EMPLOYMENT"
+scope = "National"
+dateFiled = "1989-04-20"
+status = "Approved by the House on 1990-04-05, transmitted to on 1990-04-16 and received by the Senate on 1990"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = ""
+
+[firstReading]
+id = 158548
+congress = 8
+bill_no = "HB23957"
+report = "00545"
+referral = "532"
+ref_name = "RULES"
+sub_name = "CIVIL SERVICE"
+recomm = "APPROVAL IN CONSOLIDAT ION WITH HBs 21811 and 21953"
+date_laid = "1901-03-15"
+date_report = "1989-04-21"
+
+[secondReading]
+id = 21033
+congress = 8
+bill_no = "HB23957"
+date_approved = "1990-03-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 798
+congress = 8
+bill_no = "HB23957"
+date_dist = "1990-04-02"
+date_adopt = "1990-04-05"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "1990-04-16"
+date_rec = "1990-05-21"

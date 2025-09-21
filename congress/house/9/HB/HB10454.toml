@@ -1,0 +1,42 @@
+billNumber = "HB10454"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10454"
+lastScraped = "2025-09-22T00:25:56.489415"
+title = "HB10454"
+longTitle = "AN ACT OTHERWISE KNOWN AS THE ENDURING INDUSTRIAL PEACE ACT OF 1993"
+scope = "National"
+dateFiled = "1993-08-23"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1993-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1993-08-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 129072
+congress = 9
+bill_no = "HB10454"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1993-08-26"

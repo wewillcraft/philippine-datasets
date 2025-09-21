@@ -1,0 +1,50 @@
+billNumber = "HB04415"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04415"
+lastScraped = "2025-09-22T00:13:00.593177"
+title = "HB04415"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA OF AGRICULTURAL OFFICERS AND EMPLOYEES"
+scope = "National"
+dateFiled = "2002-02-18"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2002-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "VIOLAGO, ELEUTERIO R.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = "J033"
+sessionNo = "2RS"
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2002-02-26"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 87575
+congress = 12
+bill_no = "HB04415"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2002-02-26"

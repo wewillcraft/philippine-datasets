@@ -1,0 +1,42 @@
+billNumber = "HB08293"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08293"
+lastScraped = "2025-09-22T00:46:58.071431"
+title = "HB08293"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF SUDLON, MUNICIPALITY OF TOLEDO, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-27"
+status = "Pending with the Committee on HEALTH since 1988-05-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 142971
+congress = 8
+bill_no = "HB08293"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-02"

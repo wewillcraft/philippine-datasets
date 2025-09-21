@@ -1,0 +1,42 @@
+billNumber = "HR00379"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00379"
+lastScraped = "2025-09-22T00:25:57.435303"
+title = "HR00379"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION INTO THE PROPRIETY AND LEGALITY OF THE SALE OF THE PHILIPPINE AIRLINES"
+scope = "Local"
+dateFiled = "1992-11-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Silverio"
+[[authorsDetail]]
+name = "Silverio"
+nameCode = "Silverio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 133691
+congress = 9
+bill_no = "HR00379"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-12-08"

@@ -1,0 +1,41 @@
+billNumber = "HB06344"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06344"
+lastScraped = "2025-09-22T00:20:58.541463"
+title = "HB06344"
+longTitle = "AN ACT GRANTING TAX INCENTIVE TO ANY INDIVIDUAL, ESTABLISHMENT, CORPORATION, OR ENTITY WHO EMPLOYS FORMER PRISONERS"
+scope = "National"
+dateFiled = "1996-02-23"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-02-27"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 112765
+congress = 10
+bill_no = "HB06344"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-02-27"

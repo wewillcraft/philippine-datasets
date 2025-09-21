@@ -1,0 +1,41 @@
+billNumber = "HR00659"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00659"
+lastScraped = "2025-09-22T00:20:59.548970"
+title = "HR00659"
+longTitle = "RESOLUTION DESIGNATING JUNE 10 THROUGH 16, 1996 AS 'PEDIATRIC AIDS AWARENESS WEEK'"
+scope = "National"
+dateFiled = "1996-06-04"
+status = "Pending with the Committee on HEALTH since 1996-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-06-06"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117713
+congress = 10
+bill_no = "HR00659"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-06-06"

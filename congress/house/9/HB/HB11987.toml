@@ -1,0 +1,42 @@
+billNumber = "HB11987"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11987"
+lastScraped = "2025-09-22T00:25:56.803061"
+title = "HB11987"
+longTitle = "AN ACT DECLARING AGNAGA FALLS AT BARANGAY KABULIHAN, IN THE MUNICIPALITY OF MALAY, PROVINCE OF AKLAN AS AN ECOTOURISM SPOT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-09"
+status = "Pending with the Committee on TOURISM since 1994-02-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-02-15"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130602
+congress = 9
+bill_no = "HB11987"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-02-15"

@@ -1,0 +1,46 @@
+billNumber = "HB04272"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04272"
+lastScraped = "2025-09-21T23:55:20.829088"
+title = "HB04272"
+longTitle = "AN ACT ESTABLISHING THE ORMOC CITY KIDNEY CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2022-08-31"
+status = "Pending with the Committee on HEALTH since 2022-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04272.pdf"
+fileSize = 358209
+author = "GOMEZ, RICHARD I., DPA"
+[[authorsDetail]]
+name = "GOMEZ, RICHARD I., DPA"
+nameCode = "Gomez"
+date = "2022-08-31"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 9191
+congress = 19
+bill_no = "HB04272"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-05"

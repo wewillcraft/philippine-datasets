@@ -1,0 +1,46 @@
+billNumber = "HB10196"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10196"
+lastScraped = "2025-09-22T00:20:59.332011"
+title = "HB10196"
+longTitle = "AN ACT ESTABLISHING AN INFORMATION TECHNOLOGY TRAINING CENTER IN THE MUNICIPALITY OF ALCALA, PROVINCE OF PANGASINAN"
+scope = "Local"
+dateFiled = "1997-10-28"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1997-10-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1997-10-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116617
+congress = 10
+bill_no = "HB10196"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1997-10-30"

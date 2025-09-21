@@ -1,0 +1,42 @@
+billNumber = "HR00185"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00185"
+lastScraped = "2025-09-22T00:23:17.983803"
+title = "HR00185"
+longTitle = "RESOLUTION URGING THE PHILIPPINE SENATE TO OPPOSE THE RATIFICATION OF THE RP-US VISITING FORCES AGREEMENT"
+scope = "National"
+dateFiled = "1998-08-13"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1998-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1998-08-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 104643
+congress = 11
+bill_no = "HR00185"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1998-08-20"

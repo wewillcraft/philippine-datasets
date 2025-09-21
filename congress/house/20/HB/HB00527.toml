@@ -1,0 +1,61 @@
+billNumber = "HB00527"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00527"
+lastScraped = "2025-09-21T23:39:48.403852"
+title = "HB00527"
+longTitle = "AN ACT PROHIBITING THE ACCESS OF MINORS TO ALCOHOLIC BEVERAGE AND PENALIZING INDIVIDUALS AND ESTABLISHMENTS THAT FURNISH ALCOHOL TO MINORS"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00527.pdf"
+fileSize = 6085176
+author = "ARROGANCIA, REYNANTE U."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "MONTES, IRIS MARIE DEMESA",]
+[[authorsDetail]]
+name = "ARROGANCIA, REYNANTE U."
+nameCode = "Arrogancia"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONTES, IRIS MARIE DEMESA"
+nameCode = "Montes"
+date = "2025-09-03"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 528
+congress = 103
+bill_no = "HB00527"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

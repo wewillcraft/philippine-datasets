@@ -1,0 +1,75 @@
+billNumber = "HB01416"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01416"
+lastScraped = "2025-09-22T00:20:57.617649"
+title = "HB01416"
+longTitle = "AN ACT PROVIDING FOR COMMUNITY HIGH SCHOOL IN POBLACION 1-A IN THE MUNICIPALITY OF MOTIONG, PROVINCE OF SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-27"
+status = "REPUBLIC ACT RA08512 (Lapsed into law on 1998-02-13)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107837
+congress = 10
+bill_no = "HB01416"
+report = "00564"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-08-02"
+date_ob = "1996-09-12"
+date_report = "1996-09-11"
+
+[secondReading]
+id = 17792
+congress = 10
+bill_no = "HB01416"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-09-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2412
+congress = 10
+bill_no = "HB01416"
+date_dist = "1996-09-23"
+date_adopt = "1996-09-26"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-09-26"
+date_rec = "1996-10-03"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-01-12"
+dte_actedp = "1998-02-13"

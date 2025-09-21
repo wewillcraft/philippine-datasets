@@ -1,0 +1,59 @@
+billNumber = "HB04185"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04185"
+lastScraped = "2025-09-22T00:20:58.147299"
+title = "HB04185"
+longTitle = "AN ACT ESTABLISHING THE EAST ASIA DEVELOPMENT ACADEMY, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIE S, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 110606
+congress = 10
+bill_no = "HB04185"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-05"

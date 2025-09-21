@@ -1,0 +1,41 @@
+billNumber = "HB08183"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08183"
+lastScraped = "2025-09-22T00:20:58.917665"
+title = "HB08183"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED SEVENTY-NINE HUNDRED AND ONE BY DELETING THE WORD 'CARAGA' FROM THE TITLE AND PURVIEW THEREOF"
+scope = "Local"
+dateFiled = "1996-10-11"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-10-15"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 114604
+congress = 10
+bill_no = "HB08183"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-10-15"

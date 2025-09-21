@@ -1,0 +1,44 @@
+billNumber = "PS00010"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00010"
+lastScraped = "2025-09-21T23:39:49.243818"
+title = "\" Maritime Independence In The West Philippine Sea \""
+longTitle = "\"MARITIME INDEPENDENCE IN THE WEST PHILIPPINE SEA\""
+dateFiled = "2025-08-04"
+status = "Pending with the Committee on WEST PHILIPPINE SEA since 2025-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "ADIONG, ZIAUR-RAHMAN \"ZIA\" ALONTO"
+[[authorsDetail]]
+name = "ADIONG, ZIAUR-RAHMAN \"ZIA\" ALONTO"
+nameCode = "Adiong"
+date = "2025-08-04"
+sequence = 1
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "primary"
+referralCode = "I503"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 4845
+congress = 103
+bill_no = "PS00010"
+report = ""
+comm_act = ""
+referral = "I503"
+ref_name = "WEST PHILIPPINE SEA"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-06"
+date_read = "2025-08-04"

@@ -1,0 +1,42 @@
+billNumber = "HR02113"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02113"
+lastScraped = "2025-09-22T00:47:02.964321"
+title = "HR02113"
+longTitle = "RESOLUTION URGENTLY REQUESTING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS TO PROVIDE SHUTTLE BUSES TO TRANSPORT PASSENGERS FROM FIRST AND MIDDLE CLASS SUBDIVISIONS TO KEY CENTERS IN METRO MANILA FROM SIX TO NINE O'CLOCK IN THE MORNING AND FROM FOUR TO EIGHT O'CLOCK IN THE EVENING IN ORDER TO FURTHER CONSERVE OIL DURING THESE TIMES OF CRISIS"
+scope = "Local"
+dateFiled = "1991-01-21"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1991-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1991-01-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171948
+congress = 8
+bill_no = "HR02113"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1991-01-23"

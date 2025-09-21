@@ -1,0 +1,53 @@
+billNumber = "HR00045"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00045"
+lastScraped = "2025-09-22T00:20:59.433004"
+title = "HR00045"
+longTitle = "RESOLUTION EXPRESSING DISAPPOINTMENT OVER THE SUSPENSION OF PENSION TO PHILIPPINE WAR VETERANS AND ENJOINING THE PHILIPPINE VETERANS AFFAIRS OFFICE AND OTHER GOVERNMENT AUTHORITIES CONCERNED TO RECONSIDER SAID SUSPENSION AND TO THEREUPON IMMEDIATELYRESUME THE ISSUANCE OF THE MONTHLY PENSION TO PHILIPPINE WAR VETERANS"
+scope = "National"
+dateFiled = "1995-07-25"
+status = "Business for the day on 1995-09-20"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calalay"
+[[authorsDetail]]
+name = "Calalay"
+nameCode = "Calalay"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 117099
+congress = 10
+bill_no = "HR00045"
+report = "00009"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+recomm = "See page 3 of Ctte. Rpt. No. 9"
+date_read = "1995-07-31"
+date_ob = "1995-09-04"
+date_report = "1995-09-01"
+
+[secondReading]
+id = 18915
+congress = 10
+bill_no = "HR00045"
+date_calendared = "1995-09-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

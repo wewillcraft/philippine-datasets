@@ -1,0 +1,51 @@
+billNumber = "HB08791"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08791"
+lastScraped = "2025-09-22T00:20:59.039380"
+title = "HB08791"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TECHNOLOGY TRAINING CENTER IN THE TOWN OF OBANDO, PROVINCE OF BULACAN"
+scope = "Local"
+dateFiled = "1997-01-23"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-01-28"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 115212
+congress = 10
+bill_no = "HB08791"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-01-28"

@@ -1,0 +1,68 @@
+billNumber = "HB00134"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00134"
+lastScraped = "2025-09-21T23:56:21.494655"
+title = "Public School Security Act"
+longTitle = "AN ACT PROVIDING STIFFER PENALTIES FOR THEFT, ROBBERY AND DESTRUCTION OF PUBLIC SCHOOL PROPERTY"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on REVISION OF LAWS since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00134.pdf"
+fileSize = 558062
+author = "Villar, Mark A."
+coAuthors = [ "ROMUALDO, XAVIER JESUS \"XJ\" D.", "DEL ROSARIO, ANTHONY G.", "REVILLA, LANI MERCADO",]
+[[authorsDetail]]
+name = "Villar, Mark A."
+nameCode = "Villar"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, XAVIER JESUS \"XJ\" D."
+nameCode = "Romualdo"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, ANTHONY G."
+nameCode = "Del Rosario (A.G.)"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = "2014-05-12"
+journalNo = "J058"
+sessionNo = "1RS"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 45948
+congress = 16
+bill_no = "HB00134"
+report = ""
+comm_act = ""
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

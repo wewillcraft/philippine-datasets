@@ -1,0 +1,47 @@
+billNumber = "HB03747"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03747"
+lastScraped = "2025-09-22T00:13:00.476690"
+title = "HB03747"
+longTitle = "AN ACT ESTABLISHING A TEN (10)-BED CAPACITY COMMUNITY HOSPITAL IN BARANGAY LITTLE BAGUIO, MUNICIPALITY OF MALITA, PROVINCE OF DAVAO DEL SUR, TO BE KNOWN AS THE LITTLE BAGUIO COMMUNITY HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-24"
+status = "Pending with the Committee on HEALTH since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista, Claude P."
+[[authorsDetail]]
+name = "Bautista, Claude P."
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86907
+congress = 12
+bill_no = "HB03747"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-11-19"

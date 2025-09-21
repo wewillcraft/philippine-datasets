@@ -1,0 +1,46 @@
+billNumber = "HB08590"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08590"
+lastScraped = "2025-09-22T00:20:58.992773"
+title = "HB08590"
+longTitle = "AN ACT CONVERTING THE BATAAN PROVINCIAL HOSPITAL IN THE PROVINCE OF BATAAN INTO A THREE HUNDRED BED REGIONAL HOSPITAL TO BE KNOWN AS THE BATAAN REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on HEALTH since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115011
+congress = 10
+bill_no = "HB08590"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-12-12"

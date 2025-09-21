@@ -1,0 +1,61 @@
+billNumber = "HB11005"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB11005"
+lastScraped = "2025-09-21T23:55:22.398207"
+title = "HB11005"
+longTitle = "AN ACT REQUIRING THE RECOGNITION OF HEALTHCARE PROXIES BY ALL HEALTH FACILITIES THROUGH THE ISSUANCE OF A \"RIGHT TO CARE CARD\" AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2024-11-04"
+status = "Pending with the Committee on HEALTH since 2024-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB11005.pdf"
+fileSize = 313395
+author = "CENDAÑA, PERCIVAL \"PERCI\""
+coAuthors = [ "DE VENECIA, CHRISTOPHER V.P.", "ZAMORA, ATTY. BEL",]
+[[authorsDetail]]
+name = "CENDAÑA, PERCIVAL \"PERCI\""
+nameCode = "Cendaña"
+date = "2024-11-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, CHRISTOPHER V.P."
+nameCode = "De Venecia"
+date = "2025-01-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "ZAMORA, ATTY. BEL"
+nameCode = "Zamora (Y.M.)"
+date = "2025-03-05"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2024-11-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 15924
+congress = 19
+bill_no = "HB11005"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2024-11-06"

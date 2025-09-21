@@ -1,0 +1,68 @@
+billNumber = "HB09123"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB09123"
+lastScraped = "2025-09-21T23:55:21.920310"
+title = "HB09123"
+longTitle = "AN ACT STRENGTHENING THE NATIONAL NUTRITION COUNCIL REPEALING FOR THIS PURPOSE PRESIDENTIAL DECREE NO. 491, ENTITLED CREATING A NATIONAL NUTRITION COUNCIL AND FOR OTHER PURPOSES\", EXPANDING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2023-09-11"
+status = "Pending with the Committee on HEALTH since 2023-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB09123.pdf"
+fileSize = 286668
+author = "ESCUDERO, BERNADETTE G."
+coAuthors = [ "OAMINAL, ANDO", "RAMA, EDUARDO JR. ROA", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "ESCUDERO, BERNADETTE G."
+nameCode = "Escudero"
+date = "2023-09-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OAMINAL, ANDO"
+nameCode = "Oaminal"
+date = "2023-09-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO JR. ROA"
+nameCode = "Rama"
+date = "2023-09-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-06-04"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 14042
+congress = 19
+bill_no = "HB09123"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-09-18"

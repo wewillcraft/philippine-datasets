@@ -1,0 +1,50 @@
+billNumber = "HR00093"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00093"
+lastScraped = "2025-09-22T00:25:57.385238"
+title = "HR00093"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOVERNMENT REORGANIZATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE NECESSITY OF ESTABLISHING A COMMISSION ON RP-US RELATIONS"
+scope = "National"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "ASPIRAS, JOSE D.",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ASPIRAS, JOSE D."
+nameCode = "Aspiras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 133405
+congress = 9
+bill_no = "HR00093"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1992-08-26"

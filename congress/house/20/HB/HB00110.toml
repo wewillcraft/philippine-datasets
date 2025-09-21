@@ -1,0 +1,61 @@
+billNumber = "HB00110"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00110"
+lastScraped = "2025-09-21T23:39:48.318552"
+title = "HB00110"
+longTitle = "AN ACT TO PROMOTE RESPONSIBLE DRIVING AND ESTABLISH FAIR ACCOUNTABILITY FOR ROAD SAFETY INCIDENTS AND VIOLATIONS OF TRAFFIC LAWS AND REGULATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00110.pdf"
+fileSize = 9866210
+author = "ABALOS, JC M."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "BENITEZ, JAVIER MIGUEL LOPEZ",]
+[[authorsDetail]]
+name = "ABALOS, JC M."
+nameCode = "Abalos"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 111
+congress = 103
+bill_no = "HB00110"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

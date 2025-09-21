@@ -1,0 +1,75 @@
+billNumber = "HB01577"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01577"
+lastScraped = "2025-09-22T00:13:00.087437"
+title = "HB01577"
+longTitle = "AN ACT BANNING CIGARETTE/CIGAR SMOKING IN PUBLIC PLACES AND PUBLIC CONVEYANCES AND IMPOSING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "2001-07-30"
+status = "Substituted by HB05950"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marañon"
+coAuthors = [ "VIOLAGO, ELEUTERIO R.", "CUENCO, ANTONIO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Marañon"
+nameCode = "Marañon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J039"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "secondary"
+referralCode = "0528"
+
+[firstReading]
+id = 84737
+congress = 12
+bill_no = "HB01577"
+comm_act = "chnge of cttee. ref'l as per J. 67; p.30"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "2001-08-06"

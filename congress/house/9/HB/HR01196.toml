@@ -1,0 +1,48 @@
+billNumber = "HR01196"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01196"
+lastScraped = "2025-09-22T00:25:57.587951"
+title = "HR01196"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TOURISM AND ECOLOGY TO CONDUCT A REVIEW, IN AID OF LEGISLATION, OF THE BORACAY ISLAND MASTER DEVELOPMENT PLAN IN RELATION TO THE ENVIRONMENTAL/E COLOGICAL CONCERNS OF THE ISLAND AND THEIR EFFECTS ON LOCAL AND INTERNATIONAL TOURISM FOR THE PURPOSE OF RECOMMENDING APPROPRIATE LEGISLATION THEREON"
+scope = "Local"
+dateFiled = "1994-08-30"
+status = "Pending with the Committee on TOURISM since 1994-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-09-05"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 134502
+congress = 9
+bill_no = "HR01196"
+comm_act = "Change of Referral from the Ctte. on Rules to the Cttes. on Tourism and on Ecology on 09/06/94"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-09-05"

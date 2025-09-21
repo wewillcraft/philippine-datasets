@@ -1,0 +1,103 @@
+billNumber = "HB09542"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09542"
+lastScraped = "2025-09-22T00:20:59.183775"
+title = "HB09542"
+longTitle = "AN ACT CHANGING CONGRESSIONAL AVENUE IN QUEZON CITY TO PUGAD LAWIN AVENUE"
+scope = "Local"
+dateFiled = "1997-06-09"
+status = "Approved by the House on 1997-08-26, transmitted to on 1997-08-27 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calalay"
+coAuthors = [ "LIBAN, DANTE V.", "DEFENSOR, MICHAEL T.", "BELMONTE, FELICIANO JR. R.", "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Calalay"
+nameCode = "Calalay"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEFENSOR, MICHAEL T."
+nameCode = "Defensor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BELMONTE, FELICIANO JR. R."
+nameCode = "Belmonte"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-07-29"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[motherBills]]
+bill_no = "HB07698"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB07698"
+flag = "S"
+
+[firstReading]
+id = 115963
+congress = 10
+bill_no = "HB09542"
+report = "00990"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-07-29"
+date_ob = "1997-07-29"
+date_report = "1997-06-09"
+
+[secondReading]
+id = 18732
+congress = 10
+bill_no = "HB09542"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-07-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3307
+congress = 10
+bill_no = "HB09542"
+date_dist = "1997-08-07"
+date_adopt = "1997-08-26"
+no_yeas = 172
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-27"
+date_rec = "1997-09-01"

@@ -1,0 +1,61 @@
+billNumber = "HB01703"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01703"
+lastScraped = "2025-09-21T23:55:44.429717"
+title = "HB01703"
+longTitle = "AN ACT ESTABLISHING A REWARDS FOR INFORMATION CONCERNING TERRORISM PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-07-19"
+status = "Pending with the Committee on JUSTICE since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01703.pdf"
+fileSize = 806512
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "DALIPE, MANUEL JOSE M.", "MACEDA, EDWARD",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2016-07-19"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2017-05-30"
+journalNo = "J096"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MACEDA, EDWARD"
+nameCode = "Maceda"
+date = "2017-09-11"
+journalNo = "J022"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 35171
+congress = 17
+bill_no = "HB01703"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

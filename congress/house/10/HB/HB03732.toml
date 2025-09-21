@@ -1,0 +1,77 @@
+billNumber = "HB03732"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03732"
+lastScraped = "2025-09-22T00:20:58.065825"
+title = "HB03732"
+longTitle = "AN ACT CONVERTING THE FERGUSON ROAD IN BAGUIO CITY INTO A NATIONAL ROAD, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-21"
+status = "Approved on Third Reading on 1997-11-17"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110153
+congress = 10
+bill_no = "HB03732"
+report = "01173"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-09-26"
+date_ob = "1997-10-20"
+date_report = "1997-10-16"
+
+[secondReading]
+id = 18054
+congress = 10
+bill_no = "HB03732"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2665
+congress = 10
+bill_no = "HB03732"
+date_dist = "1997-11-11"
+date_adopt = "1997-11-17"
+no_yeas = 136
+no_nays = 0
+no_abstent = 0

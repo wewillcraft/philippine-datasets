@@ -1,0 +1,47 @@
+billNumber = "HB01000"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01000"
+lastScraped = "2025-09-22T00:23:15.685681"
+title = "HB01000"
+longTitle = "AN ACT ESTABLISHING A BRANCH OFFICE OF THE REGISTER OF DEEDS OF LAGUNA, WITH PERMANENT STATION IN THE MUNICIPALITY OF STA. ROASA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-07-14"
+status = "Pending with the Committee on JUSTICE since 1998-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin, Uliran T."
+[[authorsDetail]]
+name = "Joaquin, Uliran T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92441
+congress = 11
+bill_no = "HB01000"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1998-07-30"

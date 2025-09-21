@@ -1,0 +1,42 @@
+billNumber = "HB13590"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13590"
+lastScraped = "2025-09-22T00:25:57.110455"
+title = "HB13590"
+longTitle = "AN ACT CREATING BARANGAY ABLANG IN THE MUNICIPALITY OF SOLANO, PROVINCE OF NUEVA VIZCAYA"
+scope = "Local"
+dateFiled = "1994-08-26"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1994-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1994-08-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132199
+congress = 9
+bill_no = "HB13590"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1994-08-31"

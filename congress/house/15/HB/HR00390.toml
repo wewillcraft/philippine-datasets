@@ -1,0 +1,78 @@
+billNumber = "HR00390"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HR00390"
+lastScraped = "2025-09-21T23:56:42.002191"
+title = "HR00390"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS(DFA) TO ESTABLISH A FRONTLINE OFFICE IN MAASIN CITY, SOUTHERN LEYTE"
+scope = "National"
+dateFiled = "2010-09-13"
+status = "Adopted as Resolution No. HR00029 on 2010-09-22"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado, Roger G."
+[[authorsDetail]]
+name = "Mercado, Roger G."
+nameCode = "Mercado (R.)"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2010-09-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB01129"
+sequence = 1
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01129"
+sequence = 1
+flag = "S"
+
+[firstReading]
+id = 62860
+congress = 15
+bill_no = "HR00390"
+report = "00189"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "Adoption in substitution to House Bill No. 1129."
+remarks = "(Ctte. Resolution)"
+date_read = "2010-09-14"
+date_ob = "2010-09-14"
+date_report = "2010-09-13"
+
+[secondReading]
+id = 6386
+congress = 15
+bill_no = "HR00390"
+adopted_resolution = "HR00029"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS(DFA) TO ESTABLISH A FRONTLINE OFFICE IN MAASIN CITY, SOUTHERN LEYTE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2010-09-22"
+date_approved = "2010-09-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00390.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_15/HR00390.pdf"

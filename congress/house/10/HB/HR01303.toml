@@ -1,0 +1,49 @@
+billNumber = "HR01303"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01303"
+lastScraped = "2025-09-22T00:20:59.674500"
+title = "HR01303"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON EFFECTIVE LAW ENFORCEMENT AND PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO ALLEGATIONS THAT LAW ENFORCEMENT AGENTS AND POLITICIANS ARE INVOLVED IN THE TRAFFIC OF DRUGS ANDTO RECOMMEND REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "National"
+dateFiled = "1997-07-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-08-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118357
+congress = 10
+bill_no = "HR01303"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-08-06"

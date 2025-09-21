@@ -1,0 +1,41 @@
+billNumber = "HR00930"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00930"
+lastScraped = "2025-09-22T00:20:59.601704"
+title = "HR00930"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE LEGALITY OF THE 'AD INTERIM' APPOINTMENTS OF THE SEVEN SECTORAL REPRESENTATIVES WHO WERE ISSUED THEIR SALARIES AND OTHER BENEFITS PRIOR TO THEIR OFFICIAL CONFIRMATIONS FROM THE COMMISSION ON APPOINTMENTS AND WHO HAVE NOT OFFICIALLY TAKEN THEIR RESPECTIVE OATHS OF OFFICE"
+scope = "Local"
+dateFiled = "1996-10-30"
+status = "Pending with the Committee on RULES since 1996-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-06"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 117984
+congress = 10
+bill_no = "HR00930"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-06"

@@ -1,0 +1,47 @@
+billNumber = "HR00121"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00121"
+lastScraped = "2025-09-22T00:01:47.363024"
+title = "HR00121"
+longTitle = "A RESOLUTION URGING THE CONGRESSIONAL OVERSIGHT COMMITTEE ON BIOFUELS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, IN INCREASING THE USE OF COCO METHYL ESTER FROM 2% TO 5% IN ACCORDANCE WITH REPUBLIC ACT NO. 9367"
+scope = "National"
+dateFiled = "2019-07-24"
+status = "Pending with the Committee on ENERGY since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00121.pdf"
+fileSize = 488172
+author = "TALLADO, JOSEFINA B."
+[[authorsDetail]]
+name = "TALLADO, JOSEFINA B."
+nameCode = "Tallado"
+date = "2019-07-24"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2019-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30449
+congress = 18
+bill_no = "HR00121"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-31"

@@ -1,0 +1,50 @@
+billNumber = "HR02025"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02025"
+lastScraped = "2025-09-22T00:47:02.927688"
+title = "HR02025"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON ENERGY TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED ACTUAL AND/OR IMPENDING SHORTAGE OF GASOLINE AND OIL PRODUCTS"
+scope = "National"
+dateFiled = "1990-11-15"
+status = "Pending with the Committee on ENERGY since 1990-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-11-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 171861
+congress = 8
+bill_no = "HR02025"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-11-21"

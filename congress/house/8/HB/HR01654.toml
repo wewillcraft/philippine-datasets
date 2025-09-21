@@ -1,0 +1,42 @@
+billNumber = "HR01654"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01654"
+lastScraped = "2025-09-22T00:47:02.863132"
+title = "HR01654"
+longTitle = "RESOLUTION CALLING FOR CONSTITUTIONAL AMENDMENT PROPOSING TO ELECT SENATORS BY REGION"
+scope = "National"
+dateFiled = "1990-02-12"
+status = "Pending with the Committee on CONSTITUTIONAL AMENDMENTS since 1990-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "507"
+dateRead = "1990-02-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171499
+congress = 8
+bill_no = "HR01654"
+referral = "507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+sub_name = ""
+date_read = "1990-02-12"

@@ -1,0 +1,41 @@
+billNumber = "HR00419"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00419"
+lastScraped = "2025-09-22T00:20:59.500327"
+title = "HR00419"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF HEALTH TO CONDUCT PERIODIC LABORATORY TEST AND ANALYSIS OF ALL DRUGS, MEDICINES AND OTHER HEALTH PRODUCTS AND TO UNDERTAKE THE NECESSARY MEASURES TO ENSURE THAT DRUGS AND MEDICINES ARE IN ACCORDANCE WITH THE STANDARDS SET BY THE BUREAU OF FOOD AND DRUGS"
+scope = "National"
+dateFiled = "1996-01-25"
+status = "Pending with the Committee on HEALTH since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117473
+congress = 10
+bill_no = "HR00419"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-30"

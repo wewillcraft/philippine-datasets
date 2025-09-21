@@ -1,0 +1,46 @@
+billNumber = "HB06944"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06944"
+lastScraped = "2025-09-22T00:20:58.647433"
+title = "HB06944"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY TOCDOG DACU IN THE MUNICIPALITY OF LOAY, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-15"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113365
+congress = 10
+bill_no = "HB06944"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-05-15"

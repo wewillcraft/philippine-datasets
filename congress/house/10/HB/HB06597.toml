@@ -1,0 +1,46 @@
+billNumber = "HB06597"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06597"
+lastScraped = "2025-09-22T00:20:58.586614"
+title = "HB06597"
+longTitle = "AN ACT ESTABLISHING A FARMERS' TRAINING CENTER IN THE MUNICIPALITY OF JAGNA, PROVINCE OF BOHOL, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-03-15"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-03-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-03-20"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113018
+congress = 10
+bill_no = "HB06597"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-03-20"

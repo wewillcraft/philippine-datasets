@@ -1,0 +1,41 @@
+billNumber = "HB04391"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04391"
+lastScraped = "2025-09-22T00:20:58.194235"
+title = "HB04391"
+longTitle = "AN ACT DECLARING MAY 22 OF EVERY YEAR A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE PROVINCE OF GUIMARAS"
+scope = "Local"
+dateFiled = "1995-10-16"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nava"
+[[authorsDetail]]
+name = "Nava"
+nameCode = "Nava"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 110812
+congress = 10
+bill_no = "HB04391"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-10-24"

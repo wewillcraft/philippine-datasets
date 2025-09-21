@@ -1,0 +1,50 @@
+billNumber = "HB05415"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05415"
+lastScraped = "2025-09-22T00:13:00.814943"
+title = "HB05415"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE NATIONAL IDENTIFICATION SYSTEM"
+scope = "National"
+dateFiled = "2002-10-23"
+status = "Pending with the Committee on JUSTICE since 2002-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dumarpa, Faysah RPM"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Dumarpa, Faysah RPM"
+nameCode = "Dumarpa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J029"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-11-11"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 88570
+congress = 12
+bill_no = "HB05415"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-11-11"

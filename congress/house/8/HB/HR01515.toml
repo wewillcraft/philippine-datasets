@@ -1,0 +1,42 @@
+billNumber = "HR01515"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01515"
+lastScraped = "2025-09-22T00:47:02.819978"
+title = "HR01515"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEES ON GOVERNMENT ENTERPRISES AND PRIVATIZATION AND ECONOMIC AFFAIRS TO CONDUCT AN INVENTORY OF ALL NATIONAL GOVERNMENT-OWNE D LANDS WITHIN METRO MANILA FOR THE PURPOSE OF ENACTING APPROPRIATE LEGISLATION TO ENSURE THE OPTIMAL ECONOMIC UTILIZATION OF THESE PROPERTIES FOR THE GOVERNMENT"
+scope = "National"
+dateFiled = "1989-10-17"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES since 1989-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1989-10-17"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171377
+congress = 8
+bill_no = "HR01515"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = ""
+date_read = "1989-10-17"

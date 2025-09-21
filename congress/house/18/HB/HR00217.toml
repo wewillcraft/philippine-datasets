@@ -1,0 +1,47 @@
+billNumber = "HR00217"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00217"
+lastScraped = "2025-09-22T00:01:47.378770"
+title = "HR00217"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES ON THE POSSIBLE PRIVATIZATION OF POORLY-PERFORMING ELECTRIC COOPERATIVES IN QUEZON PROVINCE"
+scope = "National"
+dateFiled = "2019-08-13"
+status = "Pending with the Committee on ENERGY since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00217.pdf"
+fileSize = 389468
+author = "Suarez, Aleta C."
+[[authorsDetail]]
+name = "Suarez, Aleta C."
+nameCode = "Suarez (A.)"
+date = "2019-08-13"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2019-08-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30545
+congress = 18
+bill_no = "HR00217"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-20"

@@ -1,0 +1,47 @@
+billNumber = "HB04162"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04162"
+lastScraped = "2025-09-22T00:25:55.384427"
+title = "HB04162"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CONCRETE BRIDGE, LOCATED IN EDRALIN, CORDON, MUNICIPALITY OF KASIBU, NUEVA VIZCAYA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122781
+congress = 9
+bill_no = "HB04162"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-28"

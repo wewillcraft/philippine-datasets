@@ -1,0 +1,42 @@
+billNumber = "HB12321"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12321"
+lastScraped = "2025-09-22T00:23:17.824283"
+title = "HB12321"
+longTitle = "AN ACT PRESCRIBING A RATIONALIZED STAFFING PATTERN FOR THE SUPPORT STAFF OF PROVINCIAL/CITY PROSECUTORS OFFICE"
+scope = "National"
+dateFiled = "2000-09-19"
+status = "Pending with the Committee on JUSTICE since 2000-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bacani, Rodolfo C."
+[[authorsDetail]]
+name = "Bacani, Rodolfo C."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2000-09-25"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 103736
+congress = 11
+bill_no = "HB12321"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2000-09-25"

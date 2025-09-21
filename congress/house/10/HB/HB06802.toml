@@ -1,0 +1,70 @@
+billNumber = "HB06802"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06802"
+lastScraped = "2025-09-22T00:20:58.621584"
+title = "HB06802"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF TALISAY, NEGROS OCCIDENTAL, INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF TALISAY"
+scope = "Local"
+dateFiled = "1996-04-16"
+status = "REPUBLIC ACT (RA08489) enacted on 1998-02-11"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 113223
+congress = 10
+bill_no = "HB06802"
+report = "01359"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+recomm = "approval with amendments"
+date_read = "1996-04-30"
+date_ob = "1997-12-17"
+date_report = "1997-12-16"
+
+[secondReading]
+id = 18407
+congress = 10
+bill_no = "HB06802"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1998-01-09"
+date_approved = "1997-12-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3005
+congress = 10
+bill_no = "HB06802"
+date_dist = "1997-12-18"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_agram = "1998-02-04"
+amend_ind = "Y"
+act_pres = "A"
+dte_actedp = "1998-02-11"

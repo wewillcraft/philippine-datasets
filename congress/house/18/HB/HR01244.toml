@@ -1,0 +1,46 @@
+billNumber = "HR01244"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01244"
+lastScraped = "2025-09-22T00:01:47.576836"
+title = "HR01244"
+longTitle = "A RESOLUTION URGING THE IATF-EID TO CREATE STRICTER GUIDELINES\r\nON THE DISPOSAL OF FACE-MASKS AND FACE-SHIELDS AND OTHER WASTE\r\nMATERIALS UTILIZED TO TREAT, DETECT, AND PREVENT THE SPREAD OF\r\nCOVID-19"
+scope = "National"
+dateFiled = "2020-09-22"
+status = "Pending with the Committee on HEALTH since 2020-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01244.pdf"
+fileSize = 420313
+author = "Aglipay, Michael Edgar Y."
+[[authorsDetail]]
+name = "Aglipay, Michael Edgar Y."
+nameCode = "Aglipay"
+date = "2020-09-22"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-09-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31563
+congress = 18
+bill_no = "HR01244"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-09-23"

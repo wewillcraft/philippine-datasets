@@ -1,0 +1,52 @@
+billNumber = "HB03788"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03788"
+lastScraped = "2025-09-21T23:55:44.828524"
+title = "HB03788"
+longTitle = "AN ACT AMENDING SECTIONS 2 AND 3 OF REPUBLIC ACT NO. 8187, OTHERWISE KNOWN AS 'THE PATERNITY LEAVE ACT OF 1996'"
+scope = "National"
+dateFiled = "2016-09-27"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2017-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03788.pdf"
+fileSize = 470470
+author = "Baguilat, Teddy Jr. Brawner"
+[[authorsDetail]]
+name = "Baguilat, Teddy Jr. Brawner"
+nameCode = "Baguilat"
+date = "2016-09-27"
+sequence = 1
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2016-10-03"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 37256
+congress = 17
+bill_no = "HB03788"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-07-26"
+date_read = "2016-10-03"

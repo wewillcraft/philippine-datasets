@@ -1,0 +1,69 @@
+billNumber = "HB00162"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00162"
+lastScraped = "2025-09-22T00:12:59.827814"
+title = "HB00162"
+longTitle = "AN ACT CONVERTING THE TARLAC PROVINCIAL HOSPITAL IN THE PROVINCE OF TARLAC, INTO A MEDICAL CENTER TO BE KNOWN AS THE TARLAC MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teodoro, Gilberto Jr. C."
+coAuthors = [ "COJUANGCO, MARK O.", "COJUANGCO, CARLOS O.", "LAPUS, JESLI A.",]
+[[authorsDetail]]
+name = "Teodoro, Gilberto Jr. C."
+nameCode = "Teodoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "COJUANGCO, MARK O."
+nameCode = "Cojuangco"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "COJUANGCO, CARLOS O."
+nameCode = "Cojuangco"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LAPUS, JESLI A."
+nameCode = "Lapus"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83322
+congress = 12
+bill_no = "HB00162"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

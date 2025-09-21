@@ -1,0 +1,42 @@
+billNumber = "HB11721"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11721"
+lastScraped = "2025-09-22T00:25:56.748511"
+title = "HB11721"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MEDICAL CLINIC IN CAA, MUNICIPALITY OF LAS PINAS, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-01-18"
+status = "Pending with the Committee on HEALTH since 1994-01-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-01-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130336
+congress = 9
+bill_no = "HB11721"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-01-26"

@@ -1,0 +1,42 @@
+billNumber = "HR01620"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01620"
+lastScraped = "2025-09-22T00:47:02.858066"
+title = "HR01620"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO EXAMINE, IN AID OF LEGISLATION, THE COST EFFECTIVENESS OF THE INTELLIGENCE BUDGET OF THE GOVERNMENT, TO THE END THAT INTELLIGENCE FUNDS WILL BE UTILIZED JUDICIOUSLY TO EFFECTIVELY PRESERVE NATIONAL PEACE, ORDER AND SECURITY"
+scope = "National"
+dateFiled = "1989-12-22"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-12-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Starke"
+[[authorsDetail]]
+name = "Starke"
+nameCode = "Starke"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-12-22"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171466
+congress = 8
+bill_no = "HR01620"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-12-22"

@@ -1,0 +1,41 @@
+billNumber = "HB06930"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06930"
+lastScraped = "2025-09-22T00:20:58.645032"
+title = "HB06930"
+longTitle = "AN ACT RENAMING DON MARIANO MARCOS AVENUE IN QUEZON CITY IN HONOR OF THE LATE SENATOR LORENZO M. TANADA"
+scope = "Local"
+dateFiled = "1996-05-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-05-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-05-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 113351
+congress = 10
+bill_no = "HB06930"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-05-14"

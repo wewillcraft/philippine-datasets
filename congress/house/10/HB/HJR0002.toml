@@ -1,0 +1,96 @@
+billNumber = "HJR0002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0002"
+lastScraped = "2025-09-22T00:20:59.419478"
+title = "HJR0002"
+longTitle = "JOINT RESOLUTION CREATING AN AGRICULTURAL COMMISSION TO REVIEW AND ASSESS THE STATE OF PHILIPPINE AGRICULTURE, PARTICULARLY IN THE LIGHT OF THE RATIFICATION OF THE GENERAL AGREEMENT ON TARIFFS ANF TRADE (GATT), AND RECOMMEND POLICY, INSTITUTIONAL AND INFRASTRUCTURAL MEASURES TO ENSURE THE DEVELOPMENT AND MODERNIZATION OF THE SECTOR, PARTICULARLY OF THE SMALL FARMERS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-27"
+status = "House agreed on Conference Committee Report on 1995-12-18"
+statusOrder = 24.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+coAuthors = [ "PEREZ, HERNANDO B.", "LUCIANO, LEONOR INES",]
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[motherBills]]
+bill_no = "HB01792"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01792"
+flag = "S"
+
+[firstReading]
+id = 117029
+congress = 10
+bill_no = "HJR0002"
+report = "00067"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+recomm = "Adoption with amendment, in consolidat ion with H.B. No. 1792."
+date_read = "1995-08-02"
+date_ob = "1995-11-20"
+date_unass = "1995-11-20"
+date_report = "1995-11-20"
+
+[secondReading]
+id = 18898
+congress = 10
+bill_no = "HJR0002"
+date_calendared = "1995-11-22"
+date_approved = "1995-11-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3430
+congress = 10
+bill_no = "HJR0002"
+date_dist = "1995-11-28"
+date_adopt = "1995-12-12"
+no_yeas = 119
+no_nays = 0
+no_abstent = 0
+act_pres = "A"
+dte_hsagcc = "1995-12-18"
+dte_actedp = "1995-12-20"

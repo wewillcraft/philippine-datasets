@@ -1,0 +1,46 @@
+billNumber = "HB00753"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00753"
+lastScraped = "2025-09-22T00:20:57.504328"
+title = "HB00753"
+longTitle = "AN ACT CONVERTING THE JOSE J. LEIDO, JR. NATIONAL MEMORIAL HIGH SCHOOL IN THE MUNICIPALITY OF PUERTO GALERA, PROVINCE OF ORIENTAL MINDORO, INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS PUERTO GALERA NATIONAL HIGH SCHOOL, AND APPROPRIATINGFUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-12"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107174
+congress = 10
+bill_no = "HB00753"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-27"

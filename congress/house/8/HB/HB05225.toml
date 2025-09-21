@@ -1,0 +1,42 @@
+billNumber = "HB05225"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05225"
+lastScraped = "2025-09-22T00:46:57.466651"
+title = "HB05225"
+longTitle = "AN ACT RESTORING PERMANENT EXEMPTION OF ELECTRIC COOPERATIVES IN THE PAYMENT OF INCOME TAXES AS GRANTED UNDER PRESIDENTIAL DECREE NO. 269"
+scope = "National"
+dateFiled = "1988-02-01"
+status = "Pending with the Committee on WAYS AND MEANS since 1988-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1988-02-04"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 139908
+congress = 8
+bill_no = "HB05225"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1988-02-04"

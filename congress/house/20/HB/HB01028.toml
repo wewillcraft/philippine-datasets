@@ -1,0 +1,46 @@
+billNumber = "HB01028"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01028"
+lastScraped = "2025-09-21T23:39:48.503317"
+title = "HB01028"
+longTitle = "AN ACT PROVIDING FOR THE DISABILITY SUPPORT ALLOWANCE FOR PERSONS WITH DISABILITIES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES \r\n"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01028.pdf"
+fileSize = 646075
+author = "NAZAL, ROBERT"
+[[authorsDetail]]
+name = "NAZAL, ROBERT"
+nameCode = "Nazal"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 1029
+congress = 103
+bill_no = "HB01028"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

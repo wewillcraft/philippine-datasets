@@ -1,0 +1,62 @@
+billNumber = "HR01082"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01082"
+lastScraped = "2025-09-22T00:20:59.634771"
+title = "HR01082"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY ON THE ALLEGED ABUSE OF AUTHORITY AND MISMANAGEMENT OF THE BOARD OF DIRECTORS OF THE DAVAO DEL NORTE ELECTRIC COOPERATIVE (DANECO), AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-02-07"
+status = "Pending with the Committee on RULES since 1997-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "DEL ROSARIO, RODOLFO P.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, RODOLFO P."
+nameCode = "Del Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-11"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 118136
+congress = 10
+bill_no = "HR01082"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Feb. 12, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-11"

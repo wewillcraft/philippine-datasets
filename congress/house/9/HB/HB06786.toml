@@ -1,0 +1,47 @@
+billNumber = "HB06786"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06786"
+lastScraped = "2025-09-22T00:25:55.846810"
+title = "HB06786"
+longTitle = "AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF T'BOLI, PROVINCE OF SOUTH COTABATO, TO BE KNOWN AS THE T'BOLI MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on HEALTH since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avance-Fuentes, Daisy"
+[[authorsDetail]]
+name = "Avance-Fuentes, Daisy"
+nameCode = "Fuentes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125405
+congress = 9
+bill_no = "HB06786"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-02"

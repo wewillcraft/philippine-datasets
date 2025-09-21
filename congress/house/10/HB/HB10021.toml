@@ -1,0 +1,41 @@
+billNumber = "HB10021"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10021"
+lastScraped = "2025-09-22T00:20:59.290238"
+title = "HB10021"
+longTitle = "AN ACT REDEFINING THE THIRD LEVEL POSITIONS IN THE CAREER CIVIL SERVICE"
+scope = "National"
+dateFiled = "1997-09-30"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 116442
+congress = 10
+bill_no = "HB10021"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1997-10-06"

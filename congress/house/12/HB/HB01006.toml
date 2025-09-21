@@ -1,0 +1,57 @@
+billNumber = "HB01006"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01006"
+lastScraped = "2025-09-22T00:12:59.987367"
+title = "HB01006"
+longTitle = "AN ACT DEREGULATING CERTAIN PUBLIC SERVICES, AMENDING FOR THE PURPOSE COMMONWEALTH ACT NO. 146, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-12"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+coAuthors = [ "ESPINO, AMADO JR. T.", "ZIALCITA, EDUARDO C.",]
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 84166
+congress = 12
+bill_no = "HB01006"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2001-07-25"

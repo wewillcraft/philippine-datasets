@@ -1,0 +1,46 @@
+billNumber = "HB02219"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02219"
+lastScraped = "2025-09-22T00:20:57.766897"
+title = "HB02219"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY LIGAYA, MUNICIPALITY OF GABALDON, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS THE BARANGAY LIGAYA HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-10"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108640
+congress = 10
+bill_no = "HB02219"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-16"

@@ -1,0 +1,49 @@
+billNumber = "HR01056"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01056"
+lastScraped = "2025-09-22T00:20:59.630659"
+title = "HR01056"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF HEALTH TO REVIEW ITS BASIS FOR THE BANNING OF THE HARVESTING, SELLING AND TRANSFERRING OF SHELLFISHES IN THE ENTIRE MANILA BAY"
+scope = "Local"
+dateFiled = "1997-01-22"
+status = "Pending with the Committee on HEALTH since 1997-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Geronimo"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Geronimo"
+nameCode = "Geronimo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-01-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118110
+congress = 10
+bill_no = "HR01056"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-01-27"

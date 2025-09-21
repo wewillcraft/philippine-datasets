@@ -1,0 +1,62 @@
+billNumber = "HB05471"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05471"
+lastScraped = "2025-09-22T00:13:00.825640"
+title = "HB05471"
+longTitle = "AN ACT RATIONALIZING THE COMPENSATION OF JUSTICE, JUDGE, LAWYER POSITIONS, AND ALL COURT EMPLOYEES IN THE JUDICIARY AND APPROPRIATING FUNDS THEREOF"
+scope = "National"
+dateFiled = "2002-11-20"
+status = "Pending with the Committee on JUSTICE since 2002-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "CALALAY, REYNALDO A.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J035"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-11-26"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88626
+congress = 12
+bill_no = "HB05471"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-11-26"

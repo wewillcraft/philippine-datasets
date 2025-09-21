@@ -1,0 +1,82 @@
+billNumber = "HB06635"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB06635"
+lastScraped = "2025-09-21T23:55:45.543048"
+title = "HB06635"
+longTitle = "AN ACT AMENDING SECTION 46 OF REPUBLIC ACT 8749, OTHERWISE KNOWN AS THE PHILIPPINE CLEAR AIR ACT OF 1999"
+scope = "National"
+dateFiled = "2017-10-23"
+status = "Pending with the Committee on ECOLOGY since 2017-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB06635.pdf"
+fileSize = 312626
+author = "Mariño, Mario Vittorio \"Marvey\" A."
+coAuthors = [ "SUANSING, HORACIO JR. P.", "SUANSING, GING", "NIETO, YUL SERVO", "DALIPE, MANUEL JOSE M.", "MARCOLETA, RODANTE D.",]
+[[authorsDetail]]
+name = "Mariño, Mario Vittorio \"Marvey\" A."
+nameCode = "Mariño"
+date = "2017-10-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUANSING, HORACIO JR. P."
+nameCode = "Suansing (H.)"
+date = "2018-05-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2018-05-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2018-05-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2018-05-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MARCOLETA, RODANTE D."
+nameCode = "Marcoleta"
+date = "2018-06-20"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2017-11-20"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 40102
+congress = 17
+bill_no = "HB06635"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-11-20"

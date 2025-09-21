@@ -1,0 +1,46 @@
+billNumber = "HB08922"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08922"
+lastScraped = "2025-09-22T00:20:59.063652"
+title = "HB08922"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DAY CARE CENTER IN BARANGAY PANILONGAN, MUNICIPALITY OF BURUANGA, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-02-10"
+status = "Pending with the Committee on SOCIAL SERVICES since 1997-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1997-02-12"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115343
+congress = 10
+bill_no = "HB08922"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1997-02-12"

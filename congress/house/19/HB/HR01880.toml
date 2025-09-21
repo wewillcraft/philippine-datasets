@@ -1,0 +1,90 @@
+billNumber = "HR01880"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01880"
+lastScraped = "2025-09-21T23:55:22.943420"
+title = "HR01880"
+longTitle = "RESOLUTION AUTHORIZING THE FOUR (4) COMMITTEES, NAMELY THE COMMITTEES ON DANGEROUS DRUGS, PUBLIC ORDER AND SAFETY, HUMAN RIGHTS AND PUBLIC ACCOUNTS TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, RELATIVE TO THE MEASURES, SUCH AS HOUSE RESOLUTIONS AND PRIVILEGE SPEECHES REFERRED TO THE MENTIONED COMMITTEES INCLUDING MOTU PROPRIO INVESTIGATIONS"
+scope = "National"
+dateFiled = "2024-08-06"
+status = "Adopted as Resolution No. HR00232 on 2024-08-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "CHUA, JOEL R."
+coAuthors = [ "PALMA, WILTER Y.",]
+[[authorsDetail]]
+name = "CHUA, JOEL R."
+nameCode = "Chua"
+date = "2024-08-06"
+sequence = 1
+
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2024-08-06"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "PALMA, WILTER Y."
+nameCode = "Palma"
+date = "2024-08-06"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = ""
+
+[[motherBills]]
+bill_no = "HR01843"
+sequence = 1
+date = "2024-08-06"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01843"
+sequence = 1
+date = "2024-08-06"
+flag = "S"
+
+[firstReading]
+id = 18425
+congress = 19
+bill_no = "HR01880"
+report = "01157"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "RECOMMENDING ITS ADOPTION IN SUBSTITUTION OF HOUSE RESOLUTION NO. 1843"
+remarks = ""
+file = "CR01157.pdf"
+date_report = "2024-08-06"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR01157.pdf"
+
+[secondReading]
+id = 1281
+congress = 19
+bill_no = "HR01880"
+adopted_resolution = "HR00232"
+adopted_resolution_title = "RESOLUTION AUTHORIZING THE FOUR (4) COMMITTEES, NAMELY THE COMMITTEES ON DANGEROUS DRUGS, PUBLIC ORDER AND SAFETY, HUMAN RIGHTS AND PUBLIC ACCOUNTS TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, RELATIVE TO THE MEASURES, SUCH AS HOUSE RESOLUTIONS AND PRIVILEGE SPEECHES REFERRED TO THE MENTIONED COMMITTEES INCLUDING MOTU PROPRIO INVESTIGATIONS"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2024-08-06"
+date_approved = "2024-08-06"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01880.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_19/HR01880.pdf"

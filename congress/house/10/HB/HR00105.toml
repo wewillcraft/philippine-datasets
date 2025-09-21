@@ -1,0 +1,55 @@
+billNumber = "HR00105"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00105"
+lastScraped = "2025-09-22T00:20:59.443218"
+title = "HR00105"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD AND SPECIAL COMMITTEE ON FOOD SECURITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON RICE IMPORTATION AND RICE SHORTAGE, TO STUDY THE CAUSES AND EFFECTS OF THE RICE CRISIS ANDTO INSTITUTE AND ADOPT THE NECESSARY AGRICULTURAL DEVELOPMENT POLICIES AND REFORMS PURSUANT TO THE MEDIUM-TERM AGRICULTURAL DEVELOPMENT PLAN (1993-1998) OF PHLIPPINES 2000"
+scope = "National"
+dateFiled = "1995-08-14"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 117159
+congress = 10
+bill_no = "HR00105"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agricultur e and Food and on Food Secur"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-17"

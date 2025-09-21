@@ -1,0 +1,48 @@
+billNumber = "HR00769"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00769"
+lastScraped = "2025-09-22T00:25:57.506742"
+title = "HR00769"
+longTitle = "RESOLUTION PROVIDING FOR AN INVESTIGATION, IN AID OF LEGISLATION OF THE REPORTED CONVERSION OF PORTIONS OF MILITARY AND NAVAL RESERVATIONS BY PRESIDENTIAL PROCLAMATION, CONVERTING SAID PORTIONS INTO PRIVATE LANDS FOR DISTRIBUTION AS RESIDENTIAL LOTSTO MILITARY ELITE"
+scope = "National"
+dateFiled = "1993-09-16"
+status = "Pending with the Committee on NATURAL RESOURCES since 1993-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1993-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 134081
+congress = 9
+bill_no = "HR00769"
+comm_act = "Change of referral from the Committee on Rules(J.27 ,p.169)"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1993-09-22"

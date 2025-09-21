@@ -1,0 +1,50 @@
+billNumber = "TB00004"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=TB00004"
+lastScraped = "2025-09-22T00:47:03.034908"
+title = "TB00004"
+longTitle = "TEMPORARY BILL FOR SB00744"
+scope = "National"
+dateFiled = "1989-05-29"
+status = "REPUBLIC ACT (RA07226) enacted on 1992-03-12"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1989-05-29"
+
+[firstReading]
+id = 172335
+congress = 8
+bill_no = "TB00004"
+report = "01735"
+comm_act = "recommending approval without amendments on January 20, 1992"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1989-05-29"
+date_report = "1992-01-20"
+
+[secondReading]
+id = 21709
+congress = 8
+bill_no = "TB00004"
+date_approved = "1992-01-28"
+
+[thirdReading]
+id = 1347
+congress = 8
+bill_no = "TB00004"
+date_dist = "1992-01-30"
+date_adopt = "1992-02-03"
+remarks = "Returned to Senate on February 3, 1992"
+no_yeas = 130
+date_trans = "1992-02-03"
+act_pres = "A"
+dte_actedp = "1992-03-12"

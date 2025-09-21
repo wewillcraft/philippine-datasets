@@ -1,0 +1,60 @@
+billNumber = "HR01406"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01406"
+lastScraped = "2025-09-22T00:20:59.694482"
+title = "HR01406"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON CONSTITUTIONAL AMENDMENTS, REVISIONS OF LAWS AND THE COMMITTEE ON JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED VIOLATIONS OF CONSTITUTIONAL PROVISIONS OF ARTICLE 3 OF PRESIDENTIAL DECREE NO. 1620 AND IN THE PROCESS, REVIEW AND ASSESS THE CONTINUING RELEVANCE OF THE SAID DECREE(P.D. 1620 - GRANTS IRRI THE STATUS, PREROGATIVES AND IMMUNITIES OF AN INTERNATIONAL ORGANIZATION)"
+scope = "National"
+dateFiled = "1997-10-20"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1997-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1997-10-23"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "secondary"
+referralCode = "0507"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "secondary"
+referralCode = "0531"
+
+[firstReading]
+id = 118460
+congress = 10
+bill_no = "HR01406"
+comm_act = "Change of Referral from the Ctte. on Labor and Employment to the Ctte's. on Constituti onal Amendmen"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1997-10-23"

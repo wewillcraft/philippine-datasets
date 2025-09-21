@@ -1,0 +1,83 @@
+billNumber = "HB02861"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02861"
+lastScraped = "2025-09-22T00:13:00.324794"
+title = "HB02861"
+longTitle = "AN ACT ENHANCING THE ADMINISTRATION OF JUVENILE JUSTICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER RELATED PURPOSES"
+scope = "National"
+dateFiled = "2001-09-04"
+status = "Pending with the Committee on JUSTICE since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LIBANAN, MARCELINO C."
+coAuthors = [ "BIAZON, ROZZANO RUFINO B.", "ESPINA, GERARDO S.", "ESPINO, AMADO JR. T.", "SOON-RUIZ, NERISSA CORAZON", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BIAZON, ROZZANO RUFINO B."
+nameCode = "Biazon"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON"
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J063"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86021
+congress = 12
+bill_no = "HB02861"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-09-25"

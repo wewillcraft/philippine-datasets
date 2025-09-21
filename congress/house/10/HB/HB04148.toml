@@ -1,0 +1,46 @@
+billNumber = "HB04148"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04148"
+lastScraped = "2025-09-22T00:20:58.140952"
+title = "HB04148"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A PUBLIC LIBRARY BUILDING IN BARANGAY APOLONIO SAMSON, SECOND DISTRICT, QUEZON CITY, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-02"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110569
+congress = 10
+bill_no = "HB04148"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-10-05"

@@ -1,0 +1,55 @@
+billNumber = "HB01033"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01033"
+lastScraped = "2025-09-21T23:56:21.664844"
+title = "HB01033"
+longTitle = "PHILIPPINE IMMIGRATION ACT OF 2013"
+scope = "National"
+dateFiled = "2013-07-03"
+status = "Referred to Stakeholders on 2015-03-16"
+statusOrder = 4.01
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01033.pdf"
+fileSize = 7279304
+author = "ROMULO, ROMAN T."
+coAuthors = [ "OLIVAREZ, ERIC D.",]
+[[authorsDetail]]
+name = "ROMULO, ROMAN T."
+nameCode = "Romulo"
+date = "2013-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC D."
+nameCode = "Olivarez"
+date = "2015-08-05"
+journalNo = "J006"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 46847
+congress = 16
+bill_no = "HB01033"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-03-04"
+date_read = "2013-07-29"

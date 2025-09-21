@@ -1,0 +1,41 @@
+billNumber = "HR01345"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01345"
+lastScraped = "2025-09-22T00:20:59.683048"
+title = "HR01345"
+longTitle = "RESOLUTION CALLING FOR A CONSTITUTIONAL CONVENTION TO BE HELD IN JULY 1998 AND PROVIDING FOR THE ELECTION OF DELEGATES TO THE CONSTITUTIONAL CONVENTION SIMULTANEOUSLY WITH THE NATIONAL ELECTION IN MAY 1998"
+scope = "National"
+dateFiled = "1997-08-25"
+status = "Substituted by HB10303"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "0507"
+dateRead = "1997-08-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 118399
+congress = 10
+bill_no = "HR01345"
+referral = "0507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+date_read = "1997-08-27"

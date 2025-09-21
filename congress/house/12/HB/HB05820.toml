@@ -1,0 +1,42 @@
+billNumber = "HB05820"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05820"
+lastScraped = "2025-09-22T00:13:00.918316"
+title = "HB05820"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 4566, OTHERWISE KNOWN AS THE CONTRACTORS' LICENSE LAW"
+scope = "National"
+dateFiled = "2003-03-05"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2003-03-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2003-03-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 88975
+congress = 12
+bill_no = "HB05820"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2003-03-11"

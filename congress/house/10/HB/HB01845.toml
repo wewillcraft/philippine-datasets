@@ -1,0 +1,46 @@
+billNumber = "HB01845"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01845"
+lastScraped = "2025-09-22T00:20:57.691253"
+title = "HB01845"
+longTitle = "AN ACT TO PROVIDE FOR THE CONSTRUCTION OF THE NOVALICHES PUBLIC MARKET AT NOVALICHES PROPER, SECOND DISTRICT, QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108266
+congress = 10
+bill_no = "HB01845"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-09"

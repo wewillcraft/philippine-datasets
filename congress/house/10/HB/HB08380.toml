@@ -1,0 +1,46 @@
+billNumber = "HB08380"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08380"
+lastScraped = "2025-09-22T00:20:58.952307"
+title = "HB08380"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PUDOC, MUNICIPALITY OF SAN VICENTE, PROVINCE OF ILOCOS SUR, WHICH SHALL BE LOCATED AT BARANGAY PUDOC, TO BE KNOWN AS PUDOC NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-11-07"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-11-13"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114801
+congress = 10
+bill_no = "HB08380"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-11-13"

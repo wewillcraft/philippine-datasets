@@ -1,0 +1,61 @@
+billNumber = "HB04111"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB04111"
+lastScraped = "2025-09-21T23:55:44.891104"
+title = "HB04111"
+longTitle = "AN ACT ESTABLISHING A NATIONAL GREEN BUILDING CODE AND RATING SYSTEM, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-10-17"
+status = "Pending with the Committee on ECOLOGY since 2016-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB04111.pdf"
+fileSize = 710690
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2016-10-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-11-22"
+journalNo = "J047"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-08-07"
+journalNo = "J007"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2016-11-07"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 37579
+congress = 17
+bill_no = "HB04111"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-11-07"

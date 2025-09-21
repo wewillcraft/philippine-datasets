@@ -1,0 +1,75 @@
+billNumber = "HB05788"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05788"
+lastScraped = "2025-09-22T00:13:00.910524"
+title = "Declaring February 5 a Special Holiday in Binan, Laguna - Binan Liberation Day"
+longTitle = "AN ACT DECLARING THE FIFTH OF FEBRUARY OF EVERY YEAR A SPECIAL HOLIDAY IN THE MUNICIPALITY OF BINAN, PROVINCE OF LAGUNA TO BE KNOWN AS BINAN LIBERATION DAY"
+scope = "Local"
+dateFiled = "2003-02-26"
+status = "Approved by the House on 2003-03-20, transmitted to on 2003-03-21 and received by the Senate on 2003-03-28"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin, Uliran T."
+[[authorsDetail]]
+name = "Joaquin, Uliran T."
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-03-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HB04670"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04670"
+flag = "S"
+
+[firstReading]
+id = 88943
+congress = 12
+bill_no = "HB05788"
+report = "01296"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "approval"
+date_read = "2003-03-04"
+date_ob = "2003-03-04"
+date_report = "2003-02-26"
+
+[secondReading]
+id = 14796
+congress = 12
+bill_no = "HB05788"
+remarks = "Considered the Explanatory Note of the original House Bill No. 4670   as the sponsorship remarks."
+date_approved = "2003-03-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5311
+congress = 12
+bill_no = "HB05788"
+date_dist = "2003-03-17"
+date_adopt = "2003-03-20"
+no_yeas = 117
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-03-21"
+date_rec = "2003-03-28"

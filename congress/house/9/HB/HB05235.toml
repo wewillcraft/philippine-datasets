@@ -1,0 +1,47 @@
+billNumber = "HB05235"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05235"
+lastScraped = "2025-09-22T00:25:55.594308"
+title = "HB05235"
+longTitle = "AN ACT APPROPRIATING A CERTAIN SUM FOR LANDSCAPPING FRONTING THE MUNICIPAL GOVERNMENT BUILDING IN THE MUNICIPALITY OF SAN FRANCISCO, PROVINCE OF SURIGAO DEL NORTE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-26"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123854
+congress = 9
+bill_no = "HB05235"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-12-08"

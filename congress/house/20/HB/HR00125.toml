@@ -1,0 +1,46 @@
+billNumber = "HR00125"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00125"
+lastScraped = "2025-09-21T23:39:49.217431"
+title = "HR00125"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED DELAY IN GUARANTEE LETTER REIMBURSEMENT AND DENIAL/LATE PAYMENTS OF PHILHEALTH CLAIMS"
+dateFiled = "2025-08-07"
+status = "Pending with the Committee on HEALTH since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00125.pdf"
+fileSize = 330966
+author = "BENITEZ, ALFREDO \"ALBEE\" B."
+[[authorsDetail]]
+name = "BENITEZ, ALFREDO \"ALBEE\" B."
+nameCode = "Benitez (A.)"
+date = "2025-08-07"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-12"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 4681
+congress = 103
+bill_no = "HR00125"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-12"

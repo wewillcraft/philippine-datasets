@@ -1,0 +1,42 @@
+billNumber = "HB03752"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03752"
+lastScraped = "2025-09-22T00:46:57.220974"
+title = "HB03752"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE CORN AND SORGHUM RESEARCH INSTITUTE AT THE UNIVERSITY OF SOUTHERN MINDANAO, KABACAN, COTABATO"
+scope = "Local"
+dateFiled = "1987-11-18"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gutang"
+[[authorsDetail]]
+name = "Gutang"
+nameCode = "Gutang"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-11-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 138438
+congress = 8
+bill_no = "HB03752"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-11-23"

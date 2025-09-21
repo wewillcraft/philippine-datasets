@@ -1,0 +1,41 @@
+billNumber = "HB06959"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06959"
+lastScraped = "2025-09-22T00:20:58.650789"
+title = "HB06959"
+longTitle = "AN ACT AWARDING A PORTION OF THE CAMP ALLEN MILITARY RESERVATION TO ACTUAL OCCUPANTS THEREOF"
+scope = "Local"
+dateFiled = "1996-05-14"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1996-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1996-05-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 113380
+congress = 10
+bill_no = "HB06959"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1996-05-16"

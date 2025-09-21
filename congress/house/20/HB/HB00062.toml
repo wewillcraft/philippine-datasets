@@ -1,0 +1,66 @@
+billNumber = "HB00062"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00062"
+lastScraped = "2025-09-21T23:39:48.309879"
+title = "HB00062"
+longTitle = "AN ACT REGULATING THE USE OF TREATMENT TECHNOLOGY FOR MUNICIPAL AND HAZARDOUS WASTES, REPEALING FOR THE PURPOSE SECTION 20 OF REPUBLIC ACT NO. 8749, ENTITLED \"THE PHILIPPINE CLEAN AIR ACT OF 1999\""
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on ECOLOGY since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00062.pdf"
+fileSize = 270801
+author = "ROMUALDO, JURDIN JESUS M."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "LORIA, CARLOS ANDES",]
+[[authorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LORIA, CARLOS ANDES"
+nameCode = "Loria"
+date = "2025-09-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 63
+congress = 103
+bill_no = "HB00062"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

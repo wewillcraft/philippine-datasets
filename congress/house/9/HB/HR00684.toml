@@ -1,0 +1,51 @@
+billNumber = "HR00684"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00684"
+lastScraped = "2025-09-22T00:25:57.491302"
+title = "HR00684"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR TO STUDY, IN AID OF LEGISLATION, HOW TO IMPROVE THE SAFETY STANDARDS OF OUR WORKERS IN THE COUNTRY"
+scope = "National"
+dateFiled = "1993-07-27"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1993-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+coAuthors = [ "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1993-08-02"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 133996
+congress = 9
+bill_no = "HR00684"
+comm_act = "Change of referral from the Committee on Rules"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1993-08-02"

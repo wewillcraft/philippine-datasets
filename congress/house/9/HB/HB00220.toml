@@ -1,0 +1,76 @@
+billNumber = "HB00220"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00220"
+lastScraped = "2025-09-22T00:25:54.632797"
+title = "HB00220"
+longTitle = "AN ACT PROVIDING FOR THE CREATION OF HIGHLY SENSITIVE POSITIONS IN THE BUREAU OF INTERNAL REVENUE AND THE BUREAU OF CUSTOMS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-07-22"
+status = "Pending with the Committee on WAYS AND MEANS since 1992-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "TEVES, MARGARITO B.", "PLAZA, CHARITO B.", "PUNZALAN, MARCIAL JR. C.", "NAZARENO, DOMINADOR JR. G.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TEVES, MARGARITO B."
+nameCode = "Teves"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "NAZARENO, DOMINADOR JR. G."
+nameCode = "Nazareno"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1992-07-29"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118839
+congress = 9
+bill_no = "HB00220"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1992-07-29"

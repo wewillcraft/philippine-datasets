@@ -1,0 +1,47 @@
+billNumber = "HB05126"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05126"
+lastScraped = "2025-09-22T00:13:00.750165"
+title = "HB05126"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY AURELIO, MUNICIPALITY OF SAN JOSE, PROVINCE OF SURIGAO DEL NORTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-08-15"
+status = "Pending with the Committee on HEALTH since 2002-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-08-26"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88281
+congress = 12
+bill_no = "HB05126"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-08-26"

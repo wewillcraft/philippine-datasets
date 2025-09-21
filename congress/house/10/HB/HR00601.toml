@@ -1,0 +1,63 @@
+billNumber = "HR00601"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00601"
+lastScraped = "2025-09-22T00:20:59.535551"
+title = "HR00601"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON VETERANS AFFAIRS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF PERTINENT LAWS ON VETERAN'S BENEFITS"
+scope = "National"
+dateFiled = "1996-05-08"
+status = "Pending with the Committee on RULES since 1996-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "LARA, EDGAR R.", "ABAYA, PLARIDEL M.", "LOPEZ, ELIAS B.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LARA, EDGAR R."
+nameCode = "Lara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAYA, PLARIDEL M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOPEZ, ELIAS B."
+nameCode = "Lopez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-05-13"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 117655
+congress = 10
+bill_no = "HR00601"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-05-13"

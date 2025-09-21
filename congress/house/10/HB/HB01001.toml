@@ -1,0 +1,49 @@
+billNumber = "HB01001"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01001"
+lastScraped = "2025-09-22T00:20:57.545061"
+title = "HB01001"
+longTitle = "AN ACT REGULATING THE OWNERSHIP, POSSESSION AND CARRYING OF FIREARMS OUTSIDE OF RESIDENCE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 107422
+congress = 10
+bill_no = "HB01001"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-07-27"

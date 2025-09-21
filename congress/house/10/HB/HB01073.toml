@@ -1,0 +1,46 @@
+billNumber = "HB01073"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01073"
+lastScraped = "2025-09-22T00:20:57.558501"
+title = "HB01073"
+longTitle = "AN ACT CREATING A PUBLIC SCHOOL DIVISION UNDER A SEPARATE DIVISION SUPERINTENDENT OF SCHOOLS IN THE THIRD CONGRESSIONAL DISTRICT OF THE PROVINCE OF ZAMBOANGA DEL NORTE, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-19"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Carloto"
+[[authorsDetail]]
+name = "Carloto"
+nameCode = "Carloto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107494
+congress = 10
+bill_no = "HB01073"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-27"

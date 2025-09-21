@@ -1,0 +1,43 @@
+billNumber = "HR00733"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00733"
+lastScraped = "2025-09-22T00:25:57.500611"
+title = "HR00733"
+longTitle = "RESOLUTION DIRECTING THE WAYS AND MEANS COMMITTEES OF BOTH HOUSES TO REVIEW THE GOVERNMENT'S PRIVATIZATION PROGRAM"
+scope = "National"
+dateFiled = "1993-08-17"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1993-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1993-08-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134045
+congress = 9
+bill_no = "HR00733"
+comm_act = "Change of referral from the Committee on Rules (J.17,p.11 )"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "1993-08-24"

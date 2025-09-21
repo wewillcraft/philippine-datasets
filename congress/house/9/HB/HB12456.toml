@@ -1,0 +1,42 @@
+billNumber = "HB12456"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12456"
+lastScraped = "2025-09-22T00:25:56.900875"
+title = "HB12456"
+longTitle = "AN ACT DECLARING MT. HAMUIGITAN IN THE MUNICIPALITY OF SAN ISIDRO, PROVINCE OF DAVAO ORIENTAL, A NATIONAL PARK, PROVIDING FOR ITS DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-04-13"
+status = "Pending with the Committee on NATURAL RESOURCES since 1994-04-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario, Thelma Z."
+[[authorsDetail]]
+name = "Almario, Thelma Z."
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1994-04-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131071
+congress = 9
+bill_no = "HB12456"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1994-04-18"

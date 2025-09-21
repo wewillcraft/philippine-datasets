@@ -1,0 +1,61 @@
+billNumber = "HB04484"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04484"
+lastScraped = "2025-09-22T00:20:58.208932"
+title = "HB04484"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF MORE BRANCHES OF REGIONAL TRIAL COURTS (RTC) IN URBAN CENTERS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-18"
+status = "Pending with the Committee on JUSTICE since 1995-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+coAuthors = [ "DRAGON, RENATO P.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110905
+congress = 10
+bill_no = "HB04484"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-25"

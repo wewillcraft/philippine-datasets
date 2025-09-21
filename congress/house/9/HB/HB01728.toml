@@ -1,0 +1,47 @@
+billNumber = "HB01728"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01728"
+lastScraped = "2025-09-22T00:25:54.905282"
+title = "HB01728"
+longTitle = "AN ACT ESTABLISHING AN UPLAND AGRICULTURAL RESEARCH, NURSERY, AND EXTENSION SERVICE CENTER IN THE MUNICIPALITY OF BANAUE, PROVINCE OF IFUGAO"
+scope = "Local"
+dateFiled = "1992-08-28"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-09-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120347
+congress = 9
+bill_no = "HB01728"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-09-01"

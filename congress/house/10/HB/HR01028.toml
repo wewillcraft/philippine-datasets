@@ -1,0 +1,55 @@
+billNumber = "HR01028"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01028"
+lastScraped = "2025-09-22T00:20:59.619719"
+title = "HR01028"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY AND OTHER APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION INTO THE FINDINGS OF THE COMMISSION ON AUDIT (COA) REGARDING THE ALLEGED ANOMALIES COMMITTED BY THE NATIONAL POWER CORPORATION's - LAKE LANAO AGUS RIVER DEVELOPMENT PROJECTS (LLARDP) IN MARAWI CITY AND THE LANAO PROVINCES"
+scope = "Local"
+dateFiled = "1996-12-19"
+status = "Pending with the Committee on RULES since 1996-12-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+coAuthors = [ "BALINDONG, PANGALIAN M.",]
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BALINDONG, PANGALIAN M."
+nameCode = "Balindong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 118082
+congress = 10
+bill_no = "HR01028"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Jan. 21, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-20"

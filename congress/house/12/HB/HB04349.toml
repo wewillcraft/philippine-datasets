@@ -1,0 +1,62 @@
+billNumber = "HB04349"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04349"
+lastScraped = "2025-09-22T00:13:00.580957"
+title = "HB04349"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL HEALTH PASSPORT SYSTEM AND PROVIDING FREE DIAGNOSTIC TESTS IN GOVERNMENT HOSPITALS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2002-02-05"
+status = "Pending with the Committee on HEALTH since 2002-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cayetano, Alan Peter S."
+coAuthors = [ "MONFORT, NARCISO D.", "VIOLAGO, ELEUTERIO R.",]
+[[authorsDetail]]
+name = "Cayetano, Alan Peter S."
+nameCode = "Cayetano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J026"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = "J028"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-02-11"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87509
+congress = 12
+bill_no = "HB04349"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-02-11"

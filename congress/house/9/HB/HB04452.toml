@@ -1,0 +1,47 @@
+billNumber = "HB04452"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04452"
+lastScraped = "2025-09-22T00:25:55.432407"
+title = "HB04452"
+longTitle = "AN ACT APPROPRIATING THE SUM OF FIVE HUNDRED TEN THOUSAND PESOS (P510,000.00) FOR THE CONSTRUCTION OF A PERIMETER FENCE FOR THE TEACHER'S BLISS CONDOMINIUM IN THE CITY OF PASAY"
+scope = "Local"
+dateFiled = "1992-10-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123071
+congress = 9
+bill_no = "HB04452"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-09"

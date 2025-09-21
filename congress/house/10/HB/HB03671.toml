@@ -1,0 +1,46 @@
+billNumber = "HB03671"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03671"
+lastScraped = "2025-09-22T00:20:58.054231"
+title = "HB03671"
+longTitle = "AN ACT AUTHORIZING THE CEMENTING OF THE OLD LUCBAN BARANGAY ROAD IN BAGUIO CITY"
+scope = "Local"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110092
+congress = 10
+bill_no = "HB03671"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-25"

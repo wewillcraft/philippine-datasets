@@ -1,0 +1,61 @@
+billNumber = "HB04093"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04093"
+lastScraped = "2025-09-21T23:55:20.798266"
+title = "HB04093"
+longTitle = "AN ACT INTRODUCING A TIERED SYSTEM OF SOCIAL PENSION \r\nFOR INDIGENT SENIOR CITIZENS, AMENDING FOR THE \r\nPURPOSE REPUBLIC ACT NO. 7432, AS AMENDED, \r\nOTHERWISE KNOWN AS THE `EXPANDED SENIOR CITIZENS \r\nACT OF 2010´"
+scope = "National"
+dateFiled = "2022-08-25"
+status = "Pending with the Committee on SENIOR CITIZENS since 2022-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04093.pdf"
+fileSize = 161278
+author = "CUA, MIDY N."
+coAuthors = [ "OAMINAL, ANDO", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "CUA, MIDY N."
+nameCode = "Cua"
+date = "2022-08-25"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OAMINAL, ANDO"
+nameCode = "Oaminal"
+date = "2022-09-29"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2022-08-31"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 9012
+congress = 19
+bill_no = "HB04093"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-31"

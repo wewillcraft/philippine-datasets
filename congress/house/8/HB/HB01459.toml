@@ -1,0 +1,50 @@
+billNumber = "HB01459"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01459"
+lastScraped = "2025-09-22T00:46:56.820343"
+title = "HB01459"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF ALFONSO CASTANEDA, PROVINCE OF NUEVAVISCAYA, TO BE KNOWN AS THE ALFONSO CASTANEDA DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-15"
+status = "Pending with the Committee on HEALTH since 1987-09-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla"
+coAuthors = [ "DOMINGUEZ, VICTOR S.",]
+[[authorsDetail]]
+name = "Padilla"
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DOMINGUEZ, VICTOR S."
+nameCode = "Dominguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-17"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 136154
+congress = 8
+bill_no = "HB01459"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-17"

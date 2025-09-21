@@ -1,0 +1,53 @@
+billNumber = "HR00242"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00242"
+lastScraped = "2025-09-22T00:25:57.410631"
+title = "HR00242"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF THE HONORABLE DOMINADOR M. TAN, FORMER MEMBER OF THE HOUSE OF REPRESENTATIVES , REPRESENTING THE FOURTH DISTRICT OF THE PROVINCE OF LEYTE"
+scope = "Local"
+dateFiled = "1992-10-08"
+status = "Adopted as Resolution No. HR00015 on 1992-10-07"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-10-07"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 133554
+congress = 9
+bill_no = "HR00242"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-10-07"
+
+[secondReading]
+id = 20099
+congress = 9
+bill_no = "HR00242"
+adopted_resolution = "HR00015"
+date_approved = "1992-10-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00242.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00242.pdf"

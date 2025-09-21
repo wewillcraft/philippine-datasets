@@ -1,0 +1,42 @@
+billNumber = "HB05731"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05731"
+lastScraped = "2025-09-22T00:13:00.899311"
+title = "HB05731"
+longTitle = "AN ACT PROHIBITING DRIVERS OF MOTOR OR NON-MOTOR PRIVATE AND PUBLIC VEHICLES FROM SMOKING AND/OR USING CELLULAR PHONE WHILE DRIVING AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
+scope = "National"
+dateFiled = "2003-02-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2003-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lapus"
+[[authorsDetail]]
+name = "Lapus"
+nameCode = "Lapus"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2003-02-13"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 88886
+congress = 12
+bill_no = "HB05731"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2003-02-13"

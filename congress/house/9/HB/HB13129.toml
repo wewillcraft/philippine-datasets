@@ -1,0 +1,42 @@
+billNumber = "HB13129"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13129"
+lastScraped = "2025-09-22T00:25:57.030122"
+title = "HB13129"
+longTitle = "AN ACT CONVERTING THE FIVE-BED HEALTH INFIRMARY (RA 7609) IN THE MUNICIPALITY OF TOLOSA, PROVINCE OF LEYTE INTO A TEN-BED MUNICIPAL HOSPITAL TO BE KNOWN AS THE TOLOSA MUNICIPAL HOSPITAL, AND AUTHORIZING THE APPROPRIATIONS OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-07-18"
+status = "Pending with the Committee on HEALTH since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131738
+congress = 9
+bill_no = "HB13129"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-07-27"

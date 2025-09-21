@@ -1,0 +1,41 @@
+billNumber = "HB08002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08002"
+lastScraped = "2025-09-22T00:20:58.880747"
+title = "HB08002"
+longTitle = "AN ACT TO CREATE THE BARANGAY OF SARACAG, MANUMNUM, MANKAHUNAO AND MATANDA IN THE MUNICIPALITY OF SAN AGUSTIN, PROVICE OF SURIGAO DEL SUR"
+scope = "Local"
+dateFiled = "1996-09-25"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-09-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 114423
+congress = 10
+bill_no = "HB08002"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-09-30"

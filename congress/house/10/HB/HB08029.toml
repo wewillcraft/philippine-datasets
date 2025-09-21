@@ -1,0 +1,78 @@
+billNumber = "HB08029"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08029"
+lastScraped = "2025-09-22T00:20:58.885423"
+title = "HB08029"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE SCIENCE HIGH SCHOOL LANAO DEL NORTE CAMPUS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-27"
+status = "REPUBLIC ACT RA08461 (Lapsed into law on 1998-01-19)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-01"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[motherBills]]
+bill_no = "HB05842"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05842"
+flag = "S"
+
+[firstReading]
+id = 114450
+congress = 10
+bill_no = "HB08029"
+report = "00612"
+referral = "0532"
+ref_name = "RULES"
+recomm = "APPROVAL"
+date_read = "1996-10-01"
+date_ob = "1996-10-01"
+date_report = "1996-09-27"
+
+[secondReading]
+id = 18556
+congress = 10
+bill_no = "HB08029"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-10-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3148
+congress = 10
+bill_no = "HB08029"
+date_dist = "1996-10-14"
+date_adopt = "1996-11-05"
+no_yeas = 139
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-11-06"
+date_rec = "1996-11-12"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-12-17"
+dte_actedp = "1998-01-19"

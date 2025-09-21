@@ -1,0 +1,42 @@
+billNumber = "HR00248"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00248"
+lastScraped = "2025-09-22T00:13:01.192529"
+title = "HR00248"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON APPROPRIATIONS OF THE HOUSE OF REPRESENTATIVES TO RETAIN THE BUDGET OF INDIVIDUAL CHED-SUPERVISED INSTITUTIONS (CSIs) IN THEIR RESPECTIVE INSTITUTIONS IN THE FY 2002 BUDGET"
+scope = "National"
+dateFiled = "2001-10-10"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abayon, Harlin C."
+[[authorsDetail]]
+name = "Abayon, Harlin C."
+nameCode = "Abayon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-10-16"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 90187
+congress = 12
+bill_no = "HR00248"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-10-16"

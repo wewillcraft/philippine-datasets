@@ -1,0 +1,47 @@
+billNumber = "HB02005"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02005"
+lastScraped = "2025-09-22T00:25:54.951708"
+title = "HB02005"
+longTitle = "AN ACT TO ESTABLISH A PANDAN RESEARCH, NURSERY AND DISPERSAL CENTER IN THE MUNICIPALITY OF PAETE, PROVINCE OF LAGUNA AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-02"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120624
+congress = 9
+bill_no = "HB02005"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-09-03"

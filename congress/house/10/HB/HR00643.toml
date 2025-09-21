@@ -1,0 +1,42 @@
+billNumber = "HR00643"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00643"
+lastScraped = "2025-09-22T00:20:59.543804"
+title = "HR00643"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS THROUGH ITS OVERSIGHT SUBCOMMITTEE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE VIOLATIONS BY EVERSUNG DEVELOPMENT LIMITED OF CUSTOMS AND TARIFF LAWS AND REGULATIONS"
+scope = "Local"
+dateFiled = "1996-05-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-05-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117697
+congress = 10
+bill_no = "HR00643"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ways and Means on May 30, 1996."
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-05-30"

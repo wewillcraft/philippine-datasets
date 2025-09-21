@@ -1,0 +1,46 @@
+billNumber = "HR00045"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00045"
+lastScraped = "2025-09-21T23:56:22.806569"
+title = "HR00045"
+longTitle = "A RESOLUTION REQUESTING THE DEPARTMENT OF HEALTH TO ESTABLISH AN ANIMAL BITE CENTER AT THE EAST AVENUE MEDICAL CENTER FOR INDIGENT VICTIMS OF ANIMAL BITES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-09"
+status = "Pending with the Committee on HEALTH since 2013-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00045.pdf"
+fileSize = 110458
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2013-07-09"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 52444
+congress = 16
+bill_no = "HR00045"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-29"

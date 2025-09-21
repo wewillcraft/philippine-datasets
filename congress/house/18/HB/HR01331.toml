@@ -1,0 +1,52 @@
+billNumber = "HR01331"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01331"
+lastScraped = "2025-09-22T00:01:47.594739"
+title = "HR01331"
+longTitle = "A RESOLUTION URGING THE COMMITTEE ON TRADE AND INDUSTRY AND OTHER\r\nAPPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES\r\nTO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE\r\nINCREASING NUMBER OF REPORTED CASES OF ONLINE FRAUD,\r\nINTERNET SCAMS, AND THE PEDDLING OF ILLEGAL DRUGS USING\r\nONLINE FACILITIES"
+scope = "National"
+dateFiled = "2020-11-04"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01331.pdf"
+fileSize = 1161314
+author = "Gatchalian, Weslie T."
+[[authorsDetail]]
+name = "Gatchalian, Weslie T."
+nameCode = "Gatchalian"
+date = "2020-11-04"
+sequence = 1
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2020-11-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "secondary"
+referralCode = "D502"
+
+[firstReading]
+id = 31649
+congress = 18
+bill_no = "HR01331"
+report = ""
+comm_act = ""
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-11-18"

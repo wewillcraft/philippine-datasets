@@ -1,0 +1,68 @@
+billNumber = "HB00108"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB00108"
+lastScraped = "2025-09-21T23:56:40.581980"
+title = "HB00108"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE LEGISLATIVE ACADEMY, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2010-07-01"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 2010-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB00108.pdf"
+fileSize = 577220
+author = "Gonzales, Neptali II M."
+coAuthors = [ "APACIBLE, TOMAS VILLADOLID", "AUMENTADO, ERICO BOYLES", "APSAY, MARIA CARMEN ZAMORA",]
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales (N.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "APACIBLE, TOMAS VILLADOLID"
+nameCode = "Apacible"
+date = ""
+journalNo = "J004"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO BOYLES"
+nameCode = "Aumentado"
+date = ""
+journalNo = "J005"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "APSAY, MARIA CARMEN ZAMORA"
+nameCode = "Zamora-Apsay"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "2010-07-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 55581
+congress = 15
+bill_no = "HB00108"
+report = ""
+comm_act = ""
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-07-27"

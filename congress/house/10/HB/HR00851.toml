@@ -1,0 +1,65 @@
+billNumber = "HR00851"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00851"
+lastScraped = "2025-09-22T00:20:59.585695"
+title = "HR00851"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON GOOD GOVERNMENT AND THE HOUSE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REHABILITATION AND UPGRADING OF THE EXISTING URBAN TRAFFIC SYSTEM IN METRO MANILA"
+scope = "Local"
+dateFiled = "1996-09-12"
+status = "Pending with the Committee on RULES since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117905
+congress = 10
+bill_no = "HR00851"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Public Works and"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-23"

@@ -1,0 +1,42 @@
+billNumber = "HB02090"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02090"
+lastScraped = "2025-09-22T00:46:56.927838"
+title = "HB02090"
+longTitle = "AN ACT PROVIDING FOR THE COMPLETION OF THE LAZI RURAL HEALTH CENTER IN LAZI, SIQUIJOR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-29"
+status = "Pending with the Committee on HEALTH since 1987-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua"
+[[authorsDetail]]
+name = "Fua"
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-10-01"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 136779
+congress = 8
+bill_no = "HB02090"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-10-01"

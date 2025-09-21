@@ -1,0 +1,49 @@
+billNumber = "HB10011"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10011"
+lastScraped = "2025-09-22T00:20:59.288431"
+title = "HB10011"
+longTitle = "AN ACT ESTABLISHING A COMPREHENSIVE PERSONAL ACCIDENT INSURANCE COVERAGE FOR STUDENTS IN ALL PRIVATE AND PUBLIC SCHOOLS THROUGHOUT THE COUNTRY"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 116432
+congress = 10
+bill_no = "HB10011"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-10-02"

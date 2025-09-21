@@ -1,0 +1,51 @@
+billNumber = "HB03018"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB03018"
+lastScraped = "2025-09-21T23:56:22.022668"
+title = "HB03018"
+longTitle = "AN ACT INSTITUTING THE FARMERS' AND FISHERFOLK ASSISTANCE ACT OF 2013 AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-09-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2013-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB03018.pdf"
+fileSize = 607603
+author = "Suansing, Estrellita B."
+[[authorsDetail]]
+name = "Suansing, Estrellita B."
+nameCode = "Suansing"
+date = "2013-09-26"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2013-10-14"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 48832
+congress = 16
+bill_no = "HB03018"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-10-14"

@@ -1,0 +1,42 @@
+billNumber = "HR00408"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00408"
+lastScraped = "2025-09-22T00:25:57.440399"
+title = "HR00408"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE STATUS OF THE GOVERNMENT'S MEDICARE PROGRAM IN THE FACE OF REPORTS OF FRAUDULENT BENEFIT CLAIMS THAT HAVE BEEN DRAINING ITS FUNDS"
+scope = "National"
+dateFiled = "1992-12-16"
+status = "Pending with the Committee on HEALTH since 1992-12-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-17"
+
+[[committee]]
+name = "INTER-PARLIAMENTARY RELATIONS AND DIPLOMACY"
+type = "principal"
+referralCode = "A505"
+
+[firstReading]
+id = 133720
+congress = 9
+bill_no = "HR00408"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-17"

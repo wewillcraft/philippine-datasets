@@ -1,0 +1,46 @@
+billNumber = "HB03395"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03395"
+lastScraped = "2025-09-22T00:20:58.000970"
+title = "HB03395"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY UNANG SIGAW, SECOND DISTRICT, QUEZON CITY, TO BE KNOWN AS THE UNANG SIGAW BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-08"
+status = "Pending with the Committee on HEALTH since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109816
+congress = 10
+bill_no = "HB03395"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-09-18"

@@ -1,0 +1,57 @@
+billNumber = "HR00333"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00333"
+lastScraped = "2025-09-22T00:20:59.483972"
+title = "HR00333"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AND INQUIRY, IN AID OF LEGISLATION, ON THE STATUS AND UTILIZATION OF THE COCONUT INDUSTRY INVESTMENT FUND (CIIF)"
+scope = "National"
+dateFiled = "1995-11-27"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-12-04"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117387
+congress = 10
+bill_no = "HR00333"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agricultur e and Food on Dec. 5, 1995."
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-12-04"

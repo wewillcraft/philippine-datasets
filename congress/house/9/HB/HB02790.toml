@@ -1,0 +1,55 @@
+billNumber = "HB02790"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02790"
+lastScraped = "2025-09-22T00:25:55.090631"
+title = "HB02790"
+longTitle = "AN ACT CONVERTING THE HEALTH CENTER IN THE MUNICIPALITY OF JOSE P. RIZAL, PROVINCE OF PALAWAN INTO A TEN-BED HOSPITAL, AND APPROPRIATING THREE MILLION PESOS (P3,000,000.00) THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-18"
+status = "Pending with the Committee on HEALTH since 1992-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "PONCE DE LEON, DAVID A.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121409
+congress = 9
+bill_no = "HB02790"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-28"

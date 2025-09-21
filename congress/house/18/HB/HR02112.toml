@@ -1,0 +1,62 @@
+billNumber = "HR02112"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02112"
+lastScraped = "2025-09-22T00:01:47.758420"
+title = "HR02112"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES REGARDING THE INFORMATION CENSORSHIP METHODS OF FACEBOOK"
+scope = "National"
+dateFiled = "2021-08-11"
+status = "Pending with the Committee on PUBLIC INFORMATION since 2021-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR02112.pdf"
+fileSize = 338297
+author = "Defensor, Michael T."
+coAuthors = [ "BARBA, ANGELO MARCOS", "HERRERA-DY, BERNADETTE C.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2021-08-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2021-08-26"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "HERRERA-DY, BERNADETTE C."
+nameCode = "Herrera-Dy"
+date = "2021-08-31"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "2021-08-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 32429
+congress = 18
+bill_no = "HR02112"
+report = ""
+comm_act = ""
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-09-01"
+date_read = "2021-08-23"

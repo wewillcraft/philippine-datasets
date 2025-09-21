@@ -1,0 +1,63 @@
+billNumber = "HR00259"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00259"
+lastScraped = "2025-09-21T23:55:22.592147"
+title = "HR00259"
+longTitle = "A RESOLUTION\r\nURGING THE HOUSE OF REPRESENTATIVES COMMITTEE ON GOOD\r\nGOVERNMENT\r\nAND\r\nPUBLIC\r\nACCOUNTABILITY\r\nAND\r\nTHE\r\nCOMMITTEE ON\r\nAGRICULTURE AND FOOD TO IMMEDIATELY\r\nCONDUCT A JOINT INQUIRY, IN AID OF LEGISLATION, ON THE\r\nILLEGAL ISSUANCE BY THE SUGAR REGULATORY ADMINISTRATION\r\n(SRA) OF SUGAR ORDER NO. 4, SERIES OF 2021-2022 AND THE BUNGLED\r\nATTEMPT TO IMPORT SUGAR"
+scope = "National"
+dateFiled = "2022-08-16"
+status = "Pending With Rules (Included in OB on 2022-11-07)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00259.pdf"
+fileSize = 846342
+author = "LIBANAN, MARCELINO C."
+coAuthors = [ "TAMBUNTING, GUS S.",]
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = "2022-08-16"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUS S."
+nameCode = "Tambunting"
+date = "2023-02-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "A502"
+dateRead = "2022-08-17"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "principal"
+referralCode = "A502"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "secondary"
+referralCode = "E505"
+
+[firstReading]
+id = 16803
+congress = 19
+bill_no = "HR00259"
+report = "00100"
+comm_act = ""
+referral = "A502"
+ref_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+sub_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY, AGRICULTURE AND FOOD"
+recomm = "Informing the House of its findings and recommendations"
+remarks = ""
+file = ""
+date_pend = "2022-08-24"
+date_read = "2022-08-17"
+date_ob = "2022-11-07"
+date_report = "2022-10-27"

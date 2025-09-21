@@ -1,0 +1,47 @@
+billNumber = "HR01744"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01744"
+lastScraped = "2025-09-22T00:01:47.671596"
+title = "HR01744"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE COMMITTEE ON JUSTICE OF THE HOUSE OF REPRESENTATIVES REGARDING THE CONTINUED USE OF REMDESIVIR IN THE TREATMENT OF COVID-19 CASES\r\n"
+scope = "National"
+dateFiled = "2021-05-05"
+status = "Pending with the Committee on HEALTH since 2021-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01744.pdf"
+fileSize = 345543
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2021-05-05"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-05-17"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 32062
+congress = 18
+bill_no = "HR01744"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-05-26"
+date_read = "2021-05-17"

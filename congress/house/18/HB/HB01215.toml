@@ -1,0 +1,46 @@
+billNumber = "HB01215"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01215"
+lastScraped = "2025-09-22T00:01:45.269432"
+title = "HB01215"
+longTitle = "AN ACT CREATING A FOREIGN POLICY ADVISORY BOARD, PROVIDING FUNDS THEREFORE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-03"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01215.pdf"
+fileSize = 1864035
+author = "Cabochan, Manuel III DG."
+[[authorsDetail]]
+name = "Cabochan, Manuel III DG."
+nameCode = "Cabochan"
+date = "2019-07-03"
+sequence = 1
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 20624
+congress = 18
+bill_no = "HB01215"
+report = ""
+comm_act = ""
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

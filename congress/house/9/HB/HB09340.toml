@@ -1,0 +1,47 @@
+billNumber = "HB09340"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09340"
+lastScraped = "2025-09-22T00:25:56.277440"
+title = "HB09340"
+longTitle = "AN ACT ESTABLISHING A FIVE (5)-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MATUGUINAO, PROVINCE OF SAMAR, TO BE KNOWN AS THE MATUGUINAO MUNICIPAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-05-28"
+status = "Pending with the Committee on HEALTH since 1993-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-06-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127958
+congress = 9
+bill_no = "HB09340"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-06-02"

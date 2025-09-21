@@ -1,0 +1,47 @@
+billNumber = "HB03700"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03700"
+lastScraped = "2025-09-22T00:25:55.249766"
+title = "HB03700"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF BARANGAY PANTAO IN THE MUNICIPALITY OF LIGAO, PROVINCE OF ALBAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-14"
+status = "Pending with the Committee on ENERGY since 1992-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bichara, Al Francis C."
+[[authorsDetail]]
+name = "Bichara, Al Francis C."
+nameCode = "Bichara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-10-19"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122319
+congress = 9
+bill_no = "HB03700"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-10-19"

@@ -1,0 +1,62 @@
+billNumber = "HB03852"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03852"
+lastScraped = "2025-09-22T00:13:00.494333"
+title = "HB03852"
+longTitle = "AN ACT ESTABLISHING POLICE FORCES IN THE HIGHLY URBANIZED CITIES UNDER THE ADMINISTRATIVE AND OPERATIONAL CONTROL OF THE LOCAL GOVERNMENT EXECUTIVES CONCERNED AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-11-13"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2001-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Hizon, Joey D."
+coAuthors = [ "DEL MAR, RAUL V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Hizon, Joey D."
+nameCode = "Hizon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J045"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2001-11-21"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87012
+congress = 12
+bill_no = "HB03852"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2001-11-21"

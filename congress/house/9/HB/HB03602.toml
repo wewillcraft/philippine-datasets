@@ -1,0 +1,47 @@
+billNumber = "HB03602"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03602"
+lastScraped = "2025-09-22T00:25:55.232915"
+title = "HB03602"
+longTitle = "AN ACT ESTABLISHING A CRAB, PRAWN AND SHRIMP HATCHERY IN BARANGAY CANOMANTAG, MUNICIPALITY OF BARUGO, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122221
+congress = 9
+bill_no = "HB03602"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-10-15"

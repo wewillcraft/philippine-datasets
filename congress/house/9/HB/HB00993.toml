@@ -1,0 +1,62 @@
+billNumber = "HB00993"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00993"
+lastScraped = "2025-09-22T00:25:54.774284"
+title = "HB00993"
+longTitle = "AN ACT ESTABLISHING A PHILIPPINE AGRICULTURAL MODERNIZATION PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-08-13"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "GOLEZ, ROILO", "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119612
+congress = 9
+bill_no = "HB00993"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-20"

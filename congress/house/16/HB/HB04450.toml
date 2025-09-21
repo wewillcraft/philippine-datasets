@@ -1,0 +1,54 @@
+billNumber = "HB04450"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04450"
+lastScraped = "2025-09-21T23:56:22.303281"
+title = "HB04450"
+longTitle = "AN ACT PROVIDING FOR RETIREMENT BENEFITS AND SECURITY PROTECTION FOR RETIRED PRESIDENTS"
+scope = "National"
+dateFiled = "2014-05-20"
+status = "Pending with the Committee on APPROPRIATIONS since 2014-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04450.pdf"
+fileSize = 553191
+author = "Pagdilao, Samuel D."
+coAuthors = [ "CUEVA, LEO RAFAEL M.",]
+[[authorsDetail]]
+name = "Pagdilao, Samuel D."
+nameCode = "Pagdilao"
+date = "2014-05-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2014-06-03"
+journalNo = "J067"
+sessionNo = "1RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2014-05-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 50264
+congress = 16
+bill_no = "HB04450"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-21"

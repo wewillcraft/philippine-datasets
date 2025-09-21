@@ -1,0 +1,41 @@
+billNumber = "HB10871"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10871"
+lastScraped = "2025-09-22T00:23:17.578841"
+title = "HB10871"
+longTitle = "AN ACT GRANTING THE DEPARTMENT OF JUSTICE THE AUTHORITY TO SETTLE MINOR CRIMINAL OFFENSES"
+scope = "National"
+dateFiled = "2000-05-11"
+status = "Pending with the Committee on JUSTICE since 2000-05-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2000-05-17"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 102286
+congress = 11
+bill_no = "HB10871"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2000-05-17"

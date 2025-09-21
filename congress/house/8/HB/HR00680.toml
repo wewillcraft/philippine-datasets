@@ -1,0 +1,42 @@
+billNumber = "HR00680"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00680"
+lastScraped = "2025-09-22T00:47:02.658605"
+title = "HR00680"
+longTitle = "RESOLUTION OPPOSING A PLAN TO EXTEND ELEMENTARY AND HIGH SCHOOL EDUCATION IN THE COUNTRY"
+scope = "National"
+dateFiled = "1988-05-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1988-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1988-05-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170563
+congress = 8
+bill_no = "HR00680"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1988-05-05"

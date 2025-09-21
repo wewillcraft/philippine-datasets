@@ -1,0 +1,41 @@
+billNumber = "HR01480"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01480"
+lastScraped = "2025-09-22T00:20:59.706403"
+title = "HR01480"
+longTitle = "RESOLUTION CALLING FOR AN EXPEDITIOUS CONGRESSIONAL INVESTIGATION OF THE PRESENT FRANCHISING REQUIREMENTS OF THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTRFB), AND THE CONCERNS OF THE HIGHLANDER-TAMA RAW FX OPERATORS ALSO KNOWN AS FILIPINO SHUTTLE OPERATORS"
+scope = "National"
+dateFiled = "1998-01-08"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1998-01-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1998-01-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118534
+congress = 10
+bill_no = "HR01480"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1998-01-10"

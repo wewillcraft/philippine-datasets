@@ -1,0 +1,46 @@
+billNumber = "HB08168"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08168"
+lastScraped = "2025-09-22T00:20:58.914282"
+title = "HB08168"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PARANG, MARIKINA, METRO MANILA, TO BE KNOWN AS THE PARANG-MARIKINA NATIONAL HIGH SCHOOL, APPROPRIATING FUNDS THEREOF AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-10-10"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-10-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114589
+congress = 10
+bill_no = "HB08168"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-10-14"

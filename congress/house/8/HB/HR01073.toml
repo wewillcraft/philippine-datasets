@@ -1,0 +1,42 @@
+billNumber = "HR01073"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01073"
+lastScraped = "2025-09-22T00:47:02.744926"
+title = "HR01073"
+longTitle = "RESOLUTION CREATING A SPECIAL COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE OPERATIONS OF THE DIFFERENT OFFICES AND AGENCIES OF THE GOVERNMENT, INCLUDING GOVERNMENT-OWNE D AND CONTROLLED CORPORATIONS AND TO PROPOSE SUCH REMEDIAL LEGISLATIONS AS IT MAY DEEM PROPER"
+scope = "National"
+dateFiled = "1989-01-05"
+status = "Pending with the Committee on RULES since 1989-01-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-01-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170947
+congress = 8
+bill_no = "HR01073"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-01-16"

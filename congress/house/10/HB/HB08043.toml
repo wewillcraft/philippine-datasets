@@ -1,0 +1,46 @@
+billNumber = "HB08043"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08043"
+lastScraped = "2025-09-22T00:20:58.888388"
+title = "HB08043"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN DUGMAN ELEMENTARY SCHOOL, BARANGAY DUGMAN, MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-10-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-03"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114464
+congress = 10
+bill_no = "HB08043"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-03"

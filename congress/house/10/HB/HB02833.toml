@@ -1,0 +1,66 @@
+billNumber = "HB02833"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02833"
+lastScraped = "2025-09-22T00:20:57.890489"
+title = "HB02833"
+longTitle = "AN ACT RECLASSIFYING THE LANDS COVERING THE BARANGAYS OF MARILOG, MAGSAYSAY, DATU SALUMAY, BAGANIHAN, GUMITAN, BANTOL, MALAMBA, DALAG, BUDA, TAMUGAN, AND SUAWAN, ALL IN MARILOG DISTRICT, CITY OF DAVAO, FROM FOREST LAND TO AGRICULTURAL LANDS OF THE PUBLIC DOMAIN"
+scope = "Local"
+dateFiled = "1995-08-24"
+status = "Approved by the House on 1996-02-20, transmitted to on 1996-02-21 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-08-31"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 109254
+congress = 10
+bill_no = "HB02833"
+report = "00151"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "approval without amendment"
+date_read = "1995-08-31"
+date_ob = "1996-01-29"
+date_report = "1996-01-26"
+
+[secondReading]
+id = 17964
+congress = 10
+bill_no = "HB02833"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-02-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2577
+congress = 10
+bill_no = "HB02833"
+date_dist = "1996-02-05"
+date_adopt = "1996-02-20"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-02-21"
+date_rec = "1996-02-29"

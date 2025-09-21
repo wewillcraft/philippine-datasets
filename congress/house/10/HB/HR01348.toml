@@ -1,0 +1,65 @@
+billNumber = "HR01348"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01348"
+lastScraped = "2025-09-22T00:20:59.683979"
+title = "HR01348"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE DOMINGO L. SIAZON, JR., SECRETARY OF FOREIGN AFFAIRS, TO ACCEPT THE 'GREAT CROSS OF THE ORDEN DEL LIBERTADOR SAN MARTIN' CONFERRED ON HIM BY THE PRESIDENT OF THE REPUBLIC OF ARGENTINA AND THE 'GREAT CROSS OF THE ORDEN AL MERITO DE CHILE' AWARDED TO HIM BY THE REPUBLIC OF CHILE"
+scope = "Local"
+dateFiled = "1997-08-25"
+status = "Adopted as Resolution No. HR00135 on 1998-02-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118402
+congress = 10
+bill_no = "HR01348"
+report = "01281"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments ."
+date_read = "1997-08-28"
+date_ob = "1997-11-24"
+date_report = "1997-11-20"
+
+[secondReading]
+id = 19040
+congress = 10
+bill_no = "HR01348"
+adopted_resolution = "HR00135"
+date_calendared = "1998-02-03"
+date_approved = "1998-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00135.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00135.pdf"

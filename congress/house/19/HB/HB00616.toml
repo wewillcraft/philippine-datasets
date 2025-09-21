@@ -1,0 +1,80 @@
+billNumber = "HB00616"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00616"
+lastScraped = "2025-09-21T23:55:20.187914"
+title = "HB00616"
+longTitle = "AN ACT PROMOTING INTEGRATED URBAN AGRICULTURE IN URBAN AREAS NATIONWIDE TO ADDRESS FOOD SECURITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00616.pdf"
+fileSize = 496602
+author = "De Venecia, Christopher V.P."
+coAuthors = [ "DUJALI, ALAN \"ALDU\" R.", "RIVERA, BONG", "TOLENTINO, ANIELA", "REGENCIA, CELSO G.",]
+[[authorsDetail]]
+name = "De Venecia, Christopher V.P."
+nameCode = "De Venecia"
+date = "2022-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DUJALI, ALAN \"ALDU\" R."
+nameCode = "Dujali"
+date = "2022-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TOLENTINO, ANIELA"
+nameCode = "Tolentino"
+date = "2023-02-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REGENCIA, CELSO G."
+nameCode = "Regencia"
+date = "2023-09-19"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 5535
+congress = 19
+bill_no = "HB00616"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

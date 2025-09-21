@@ -1,0 +1,42 @@
+billNumber = "HR00491"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00491"
+lastScraped = "2025-09-22T00:25:57.456263"
+title = "HR00491"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO STUDY, IN AID OF LEGISLATION, ON HOW TO IMPROVE OUR LEVEL OF PRODUCTIVITY"
+scope = "National"
+dateFiled = "1993-02-16"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1993-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1993-02-18"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 133803
+congress = 9
+bill_no = "HR00491"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1993-02-18"

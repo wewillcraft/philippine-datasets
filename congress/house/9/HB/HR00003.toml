@@ -1,0 +1,57 @@
+billNumber = "HR00003"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00003"
+lastScraped = "2025-09-22T00:25:57.367820"
+title = "HR00003"
+longTitle = "RESOLUTION TO URGE THE PRESIDENT OF THE REPUBLIC OF THE PHILIPPINES TO CREATE A ONE-STOP ENERGY PROCESSING CENTER OR SPECIAL TASK FORCE CHARGED WITH THE PRIMARY FUNCTION OF PROVIDING AND ENSURING URGENT REVIEW AND APPROVAL OF ENERGY-RELATED PROGRAMS, PROJECTS AND PROPOSALS FOR THE PURPOSE OF ALLEVIATING THE ACUTE POWER SHORTAGE AND ENERGY CRISIS"
+scope = "National"
+dateFiled = "1992-07-06"
+status = "Pending with the Committee on ENERGY since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "LACSON, JOSE CARLOS V.", "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 133315
+congress = 9
+bill_no = "HR00003"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-07-28"

@@ -1,0 +1,46 @@
+billNumber = "HB05624"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05624"
+lastScraped = "2025-09-22T00:20:58.411491"
+title = "HB05624"
+longTitle = "AN ACT ESTABLISHING A DISTRICT SEEDLING NURSERY FOR THE FOURTH CONGRESSIONAL DISTRICT OF NUEVA ECIJA, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-12-21"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112045
+congress = 10
+bill_no = "HB05624"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-01-22"

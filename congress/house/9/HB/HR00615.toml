@@ -1,0 +1,43 @@
+billNumber = "HR00615"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00615"
+lastScraped = "2025-09-22T00:25:57.479171"
+title = "HR00615"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CODIFY ALL LAWS, PRESIDENTIAL DECREES, RULES AND REGULATIONS PERTAINING TO HEALTH INTO THE PHILIPPINE HEALTH CODE"
+scope = "National"
+dateFiled = "1993-05-07"
+status = "Pending with the Committee on HEALTH since 1993-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-12"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133927
+congress = 9
+bill_no = "HR00615"
+comm_act = "Change of referral from the Committee on Rules (J.107)"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-12"

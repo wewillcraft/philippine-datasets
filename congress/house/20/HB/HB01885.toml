@@ -1,0 +1,54 @@
+billNumber = "HB01885"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01885"
+lastScraped = "2025-09-21T23:39:48.680771"
+title = "HB01885"
+longTitle = "AN ACT ESTABLISHING THE CHARTER OF THE NATIONAL CENTER FOR MENTAL HEALTH (NCMH), DEFINING AND EXPANDING ITS MANDATE AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-15"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01885.pdf"
+fileSize = 211177
+author = "GONZALES, ALEXANDRIA \"QUEENIE\""
+coAuthors = [ "MONTES, IRIS MARIE DEMESA",]
+[[authorsDetail]]
+name = "GONZALES, ALEXANDRIA \"QUEENIE\""
+nameCode = "Gonzales (A.)"
+date = "2025-07-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MONTES, IRIS MARIE DEMESA"
+nameCode = "Montes"
+date = "2025-09-03"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 1886
+congress = 103
+bill_no = "HB01885"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

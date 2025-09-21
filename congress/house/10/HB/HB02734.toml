@@ -1,0 +1,71 @@
+billNumber = "HB02734"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02734"
+lastScraped = "2025-09-22T00:20:57.872798"
+title = "HB02734"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE JOSE B. LINGAD MEMORIAL REGIONAL HOSPITAL IN SAN FERNANDO, PAMPANGA, FROM TWO HUNDRED FIFTY (250) TO FIVE HUNDRED (500) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-23"
+status = "Approved by the House on 1996-03-28, transmitted to on 1996-03-29 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109155
+congress = 10
+bill_no = "HB02734"
+report = "00313"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-08-29"
+date_ob = "1996-03-21"
+date_report = "1996-03-20"
+
+[secondReading]
+id = 17949
+congress = 10
+bill_no = "HB02734"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2564
+congress = 10
+bill_no = "HB02734"
+date_dist = "1996-03-25"
+date_adopt = "1996-03-28"
+no_yeas = 109
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-03-29"
+date_rec = "1996-04-10"

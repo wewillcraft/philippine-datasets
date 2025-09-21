@@ -1,0 +1,42 @@
+billNumber = "HR00448"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00448"
+lastScraped = "2025-09-22T00:25:57.447424"
+title = "HR00448"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES TO MAKE AN INQUIRY IN AID OF LEGISLATION ON THE CONTINUED LOGGING WITHIN THE BICOL NATIONAL PARK"
+scope = "Local"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on NATURAL RESOURCES since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 133760
+congress = 9
+bill_no = "HR00448"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1993-02-02"

@@ -1,0 +1,41 @@
+billNumber = "HB08338"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08338"
+lastScraped = "2025-09-22T00:20:58.945371"
+title = "HB08338"
+longTitle = "AN ACT PROTECTING PRIVACY OF INFORMATION WITHIN THE PRIVATE SECTOR"
+scope = "National"
+dateFiled = "1996-11-05"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1996-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1996-11-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 114759
+congress = 10
+bill_no = "HB08338"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1996-11-11"

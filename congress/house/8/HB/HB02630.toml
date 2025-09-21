@@ -1,0 +1,42 @@
+billNumber = "HB02630"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02630"
+lastScraped = "2025-09-22T00:46:57.028269"
+title = "HB02630"
+longTitle = "AN ACT AUTHORIZING THE ESTABLISHMENT OF A COMMUNITY COLLEGE IN THE MUNICIPALITY OF DARAM, PROVINCE OF SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-12"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garduce"
+[[authorsDetail]]
+name = "Garduce"
+nameCode = "Garduce"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-10-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 137319
+congress = 8
+bill_no = "HB02630"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-10-14"

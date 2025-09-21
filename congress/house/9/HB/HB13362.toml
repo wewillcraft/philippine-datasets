@@ -1,0 +1,42 @@
+billNumber = "HB13362"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13362"
+lastScraped = "2025-09-22T00:25:57.066409"
+title = "HB13362"
+longTitle = "AN ACT CONVERTING THE CARCAR DISTRICT HOSPITAL INTO A PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF CARCAR, PROVINCE OF CEBU, WITH TWENTY-FIVE BED CAPACITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-04"
+status = "Pending with the Committee on HEALTH since 1994-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-08-09"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131971
+congress = 9
+bill_no = "HB13362"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-08-09"

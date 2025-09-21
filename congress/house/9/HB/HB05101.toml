@@ -1,0 +1,42 @@
+billNumber = "HB05101"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05101"
+lastScraped = "2025-09-22T00:25:55.570471"
+title = "HB05101"
+longTitle = "AN ACT GRANTING THE ACCUSED, AFTER A PLEA OF NOT GUILTY, THIRTY (30) DAYS TO PREPARE FOR TRIAL, AMENDING FOR THE PURPOSE RULE 116 OF THE RULES OF COURT, AS AMENDED"
+scope = "National"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on JUSTICE since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 123720
+congress = 9
+bill_no = "HB05101"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-11-25"

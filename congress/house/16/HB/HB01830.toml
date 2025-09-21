@@ -1,0 +1,66 @@
+billNumber = "HB01830"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01830"
+lastScraped = "2025-09-21T23:56:21.806348"
+title = "HB01830"
+longTitle = "AN ACT CREATING A DEPARTMENT OF FISHERIES AND AQUATIC RESOURCES, PROVIDING FOR ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-24"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2013-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01830.pdf"
+fileSize = 2577752
+author = "Acharon, Pedro Jr. B."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Acharon, Pedro Jr. B."
+nameCode = "Acharon"
+date = "2013-07-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-10-22"
+journalNo = "J024"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-10-22"
+journalNo = "J024"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 47644
+congress = 16
+bill_no = "HB01830"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-31"

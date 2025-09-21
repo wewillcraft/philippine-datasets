@@ -1,0 +1,47 @@
+billNumber = "HB08421"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08421"
+lastScraped = "2025-09-22T00:25:56.118722"
+title = "HB08421"
+longTitle = "AN ACT PROPOSING THE CONSTRUCTION OF AN IRRIGATION SYSTEM IN THE MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-03-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-04-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-04-01"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127040
+congress = 9
+bill_no = "HB08421"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-04-01"

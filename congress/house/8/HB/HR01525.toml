@@ -1,0 +1,42 @@
+billNumber = "HR01525"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01525"
+lastScraped = "2025-09-22T00:47:02.821346"
+title = "HR01525"
+longTitle = "RESOLUTION MANDATING THE DEPARTMENT OF HEALTH (DOH), THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS (DECS) AND THE PHILIPPINE ASSOCIATION OF STATE UNIVERSITIES AND COLLEGES (PASUC) TO NETWORK RESOURCES AND DELIVERY SYSTEMS FOR PRIMARY HEALTH CARE AND HEALTH INFORMATION PROGRAMS"
+scope = "National"
+dateFiled = "1989-10-20"
+status = "Pending with the Committee on HEALTH since 1989-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-10-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 171387
+congress = 8
+bill_no = "HR01525"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-10-20"

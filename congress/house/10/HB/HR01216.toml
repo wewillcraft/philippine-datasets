@@ -1,0 +1,68 @@
+billNumber = "HR01216"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01216"
+lastScraped = "2025-09-22T00:20:59.659976"
+title = "HR01216"
+longTitle = "RESOLUTION URGING THE UPGRADE OF THE EXISTING COMPENSATION AND POSITION CLASSIFICATION OF PUBLIC SCHOOL PRINCIPALS AND TEACHERS BY THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS AND THE DEPARTMENT OF BUDGET AND MANAGEMENT"
+scope = "National"
+dateFiled = "1997-05-15"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-05-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEL MAR, RAUL V.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-19"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118270
+congress = 10
+bill_no = "HR01216"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-05-19"

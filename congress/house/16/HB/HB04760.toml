@@ -1,0 +1,61 @@
+billNumber = "HB04760"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04760"
+lastScraped = "2025-09-21T23:56:22.378899"
+title = "HB04760"
+longTitle = "AN ACT PROHIBITING THE EXPORTATION OF RAW MAGNETITE SAND"
+scope = "National"
+dateFiled = "2014-07-28"
+status = "Pending with the Committee on NATURAL RESOURCES since 2014-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04760.pdf"
+fileSize = 569813
+author = "BENITEZ, ALFREDO \"ALBEE\" B."
+coAuthors = [ "SARMIENTO, CESAR VERGARA", "DALOG, MAXIMO B.",]
+[[authorsDetail]]
+name = "BENITEZ, ALFREDO \"ALBEE\" B."
+nameCode = "Benitez"
+date = "2014-07-28"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, CESAR VERGARA"
+nameCode = "Sarmiento (C.)"
+date = "2014-09-10"
+journalNo = "J016"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DALOG, MAXIMO B."
+nameCode = "Dalog"
+date = "2015-07-28"
+journalNo = "J002"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2014-08-05"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 50574
+congress = 16
+bill_no = "HB04760"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-08-05"

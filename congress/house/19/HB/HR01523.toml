@@ -1,0 +1,59 @@
+billNumber = "HR01523"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01523"
+lastScraped = "2025-09-21T23:55:22.876083"
+title = "HR01523"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON LABOR AND EMPLOYMENT TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE SUSPENSION OF GRAB DELIVERY RIDERS FOR PROTESTING AGAINST GRAB´S FARE RESTRUCTURING PROGRAM"
+scope = "National"
+dateFiled = "2023-12-12"
+status = "Pending with the Committee on TRANSPORTATION since 2024-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01523.pdf"
+fileSize = 361192
+author = "Brosas, Arlene D."
+[[authorsDetail]]
+name = "Brosas, Arlene D."
+nameCode = "Brosas"
+date = "2023-12-12"
+sequence = 1
+
+[[authorsDetail]]
+name = "Castro, France L."
+nameCode = "Castro (F.)"
+date = "2023-12-12"
+sequence = 2
+
+[[authorsDetail]]
+name = "Manuel, Raoul Danniel A."
+nameCode = "Manuel"
+date = "2023-12-12"
+sequence = 3
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2023-12-13"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 18068
+congress = 19
+bill_no = "HR01523"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2024-01-30"
+date_read = "2023-12-13"

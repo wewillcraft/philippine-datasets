@@ -1,0 +1,61 @@
+billNumber = "HB05982"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05982"
+lastScraped = "2025-09-21T23:55:45.292378"
+title = "HB05982"
+longTitle = "AN ACT CREATING A UNIFORM DESIGN OF ROAD SIGNS AND TRAFFIC SYMBOLS ALL THROUGHOUT THE COUNTRY"
+scope = "National"
+dateFiled = "2017-07-12"
+status = "Pending with the Committee on TRANSPORTATION since 2017-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05982.pdf"
+fileSize = 136405
+author = "ERICE, EDGAR R."
+coAuthors = [ "NIETO, YUL SERVO", "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "ERICE, EDGAR R."
+nameCode = "Erice"
+date = "2017-07-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-08-14"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-08-16"
+journalNo = "J012"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-07-25"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 39450
+congress = 17
+bill_no = "HB05982"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-25"

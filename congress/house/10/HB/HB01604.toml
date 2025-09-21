@@ -1,0 +1,49 @@
+billNumber = "HB01604"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01604"
+lastScraped = "2025-09-22T00:20:57.649396"
+title = "HB01604"
+longTitle = "AN ACT CHANGING THE DATE FOR THE OPENING OF CLASSES NATIONWIDE"
+scope = "National"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 108025
+congress = 10
+bill_no = "HB01604"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-03"

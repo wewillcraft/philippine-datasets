@@ -1,0 +1,62 @@
+billNumber = "HR01104"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01104"
+lastScraped = "2025-09-22T00:20:59.638785"
+title = "HR01104"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON SOCIAL SERVICES AND OTHER APPROPRIATE COMMITTEES TO CONDUCT AN OVERSIGHT REVIEW ON THE ENFORCEMENT OF REPUBLIC ACT NUMBERED SEVENTY-FOUR HUNDRED AND THIRTY-TWO (R.A. 7432), OTHERWISE KNOWN AS THE 'SENIOR CITIZENS ACT OF THE PHILIPPINES', WITH EMPHASIS ON THE REPORTED REFUSAL BY SOME ESTABLISHMENTS TO EXTEND THE DATED PRIVILEGES AND SIMILAR ENTITLEMENTS TO SENIOR CITIZENS, AND TO CHART REMEDIAL LEGISLATIVE POLICIES AND MEASURES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-02-19"
+status = "Pending with the Committee on SOCIAL SERVICES since 1997-02-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1997-02-24"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "secondary"
+referralCode = "0512"
+
+[firstReading]
+id = 118158
+congress = 10
+bill_no = "HR01104"
+comm_act = "Change of Referral from the Ctte. on Social Services to the Ctte. on Population and Family Relations"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1997-02-24"

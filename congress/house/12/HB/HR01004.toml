@@ -1,0 +1,79 @@
+billNumber = "HR01004"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01004"
+lastScraped = "2025-09-22T00:13:01.371070"
+title = "Total Mismanagement and Neglect of the Ninoy Aquino International Airport to Paranaque City"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE TOTAL MISMANAGEMENT AND NEGLECT OF THE NINOY AQUINO INTERNATIONAL AIRPORT TO THE CITY OF PARANAQUE"
+scope = "Local"
+dateFiled = "2003-02-14"
+status = "Adopted Resolution (Pending with the committee on TRANSPORTATION AND COMMUNICATIONS since 2003-03-20)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zialcita, Eduardo C."
+coAuthors = [ "GONZALES, NEPTALI II M.", "PADILLA, CARLOS M.", "RULES",]
+[[authorsDetail]]
+name = "Zialcita, Eduardo C."
+nameCode = "Zialcita"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALES, NEPTALI II M."
+nameCode = "Gonzales"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-02-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 90940
+congress = 12
+bill_no = "HR01004"
+report = "01348"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2003-02-24"
+date_report = "2003-03-20"
+
+[secondReading]
+id = 15514
+congress = 12
+bill_no = "HR01004"
+adopted_resolution = "HR00594"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE OPERATIONS AND MANAGEMENT OF THE NINOY AQUINO INTERNATIONAL AIRPORT (NAIA)"
+date_calendared = "2003-03-20"
+date_approved = "2003-03-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2003-03-20"

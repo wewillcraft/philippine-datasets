@@ -1,0 +1,54 @@
+billNumber = "HB07589"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07589"
+lastScraped = "2025-09-22T00:20:58.766432"
+title = "HB07589"
+longTitle = "AN ACT GRANTING MONTHLY GRATUITY AND ADDITIONAL PRIVILEGES TO AN AWARDEE OF AN OLYMPIC GOLD MEDAL"
+scope = "National"
+dateFiled = "1996-07-25"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1996-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1996-07-30"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 114010
+congress = 10
+bill_no = "HB07589"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+date_read = "1996-07-30"

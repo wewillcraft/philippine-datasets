@@ -1,0 +1,71 @@
+billNumber = "HB03078"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03078"
+lastScraped = "2025-09-22T00:20:57.944936"
+title = "HB03078"
+longTitle = "AN ACT CONVERTING THE ROQUE S. ABLAN, SR. MEMORIAL HOSPITAL IN BARANGAY TAMDAGAN, MUNICIPALITY OF VINTAR, PROVINCE OF ILOCOS NORTE, INTO A NATIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-31"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109499
+congress = 10
+bill_no = "HB03078"
+report = "00408"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-09-06"
+date_ob = "1996-05-21"
+date_report = "1996-05-20"
+
+[secondReading]
+id = 17981
+congress = 10
+bill_no = "HB03078"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2594
+congress = 10
+bill_no = "HB03078"
+date_dist = "1996-05-28"
+date_adopt = "1996-06-06"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-14"

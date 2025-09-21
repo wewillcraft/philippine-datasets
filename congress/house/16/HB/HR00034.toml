@@ -1,0 +1,47 @@
+billNumber = "HR00034"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00034"
+lastScraped = "2025-09-21T23:56:22.804663"
+title = "HR00034"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED PERFORMANCE OF STEM CELL TREATMENTS IN NON-HEALTH FACILITIES WITHOUT PRIOR APPROVAL OF THE DEPARTMENT OF HEALTH, AND TO RECOMMEND APPROPRIATE POLICIES OR SAFETY STANDARDS IN THE CONDUCT OF STEM CELL THERAPY IN THE COUNTRY WITH THE END VIEW OF PROTECTING PUBLIC HEALTH AND UPHOLDING THE WELL BEING OF PATIENTS"
+scope = "National"
+dateFiled = "2013-07-08"
+status = "Pending with the Committee on HEALTH since 2013-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00034.pdf"
+fileSize = 153732
+author = "Tan, Angelina"
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2013-07-08"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 52433
+congress = 16
+bill_no = "HR00034"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-10-14"
+date_read = "2013-07-29"

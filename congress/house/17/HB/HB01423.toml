@@ -1,0 +1,61 @@
+billNumber = "HB01423"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01423"
+lastScraped = "2025-09-21T23:55:44.349195"
+title = "HB01423"
+longTitle = "AN ACT PROVIDING INCENTIVES FOR AND ENCOURAGE CONSERVATION AND MAINTENANCE OF FOREST COVER AND TREE PLANTING IN ANCESTRAL LANDS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-12"
+status = "Pending with the Committee on REFORESTATION since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01423.pdf"
+fileSize = 1123853
+author = "Cosalan, Ronald M."
+coAuthors = [ "ALEJANO, GARY C.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Cosalan, Ronald M."
+nameCode = "Cosalan"
+date = "2016-07-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALEJANO, GARY C."
+nameCode = "Alejano"
+date = "2017-05-30"
+journalNo = "J096"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-10-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 34891
+congress = 17
+bill_no = "HB01423"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

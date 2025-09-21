@@ -1,0 +1,47 @@
+billNumber = "HB08790"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08790"
+lastScraped = "2025-09-22T00:25:56.180947"
+title = "HB08790"
+longTitle = "AN ACT CONVERTING THE ABORLAN MEDICARE HOSPITAL IN THE MUNICIPALITY OF ABORLAN, PROVINCE OF PALAWAN, INTO THE ABORLAN MUNICIPAL HOSPITAL AND INCREASING ITS BED CAPACITY FROM 15-BED TO 25-BED, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-23"
+status = "Pending with the Committee on HEALTH since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127408
+congress = 9
+bill_no = "HB08790"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-04"

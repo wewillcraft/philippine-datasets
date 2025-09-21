@@ -1,0 +1,69 @@
+billNumber = "HB08781"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08781"
+lastScraped = "2025-09-22T00:20:59.037679"
+title = "HB08781"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF CATUBIG, SECOND DISTRICT OF NORTHERN SAMAR, TO BE KNOWN AS THE CATUBIG VALLEY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-22"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-01-28"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115202
+congress = 10
+bill_no = "HB08781"
+report = "01324"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1997-01-28"
+date_ob = "1997-12-10"
+date_report = "1997-12-09"
+
+[secondReading]
+id = 18628
+congress = 10
+bill_no = "HB08781"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3214
+congress = 10
+bill_no = "HB08781"
+date_dist = "1997-12-16"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

@@ -1,0 +1,51 @@
+billNumber = "HB09781"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09781"
+lastScraped = "2025-09-22T00:20:59.243787"
+title = "HB09781"
+longTitle = "AN ACT ESTABLISHING AN 'ADOPT-OUT-OF SCHOOL YOUTH PROGRAM' IN BARANGAY SOHOTON, MUNICIPALITY OF BAROTAC NUEVO, PROVINCE OF ILOILO, PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-08-07"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-12"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116202
+congress = 10
+bill_no = "HB09781"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-12"

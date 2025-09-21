@@ -1,0 +1,41 @@
+billNumber = "HR01521"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01521"
+lastScraped = "2025-09-22T00:20:59.712623"
+title = "HR01521"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROCEDURES AND ACTIONS OF THE NATIONAL POWER CORPORATION IN REGARD TO THE BIDDING FOR THE CALIRAYA-BOTOCA N-KALAYAANPROJECT, WITH THE END IN VIEW OF ENABLING CONGRESS TO FORMULATE LEGISLATION TO IMPROVE THE EXPANDED BUILD-OPERATE-T RANSFER LAW"
+scope = "Local"
+dateFiled = "1998-02-11"
+status = "Pending with the Committee on ENERGY since 1998-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1998-02-13"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118570
+congress = 10
+bill_no = "HR01521"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1998-02-13"

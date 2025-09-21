@@ -1,0 +1,72 @@
+billNumber = "HB00342"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00342"
+lastScraped = "2025-09-22T00:46:56.620683"
+title = "HB00342"
+longTitle = "AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF MURCIA, PROVINCE OF NEGROS OCCIDENTAL"
+scope = "Local"
+dateFiled = "1987-08-13"
+status = "REPUBLIC ACT (RA07563) enacted on 1992-05-26"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson"
+[[authorsDetail]]
+name = "Lacson"
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-17"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 135039
+congress = 8
+bill_no = "HB00342"
+report = "01501"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-17"
+date_ob = "1991-09-04"
+date_cal = "1991-09-04"
+date_unass = "1991-09-04"
+date_report = "1991-05-23"
+
+[secondReading]
+id = 20280
+congress = 8
+bill_no = "HB00342"
+date_approved = "1991-10-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 63
+congress = 8
+bill_no = "HB00342"
+date_dist = "1991-10-10"
+date_adopt = "1991-10-17"
+no_yeas = 133
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-10-18"
+date_rec = "1991-11-08"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1992-03-23"
+dte_actedp = "1992-05-26"

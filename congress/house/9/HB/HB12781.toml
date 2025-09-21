@@ -1,0 +1,42 @@
+billNumber = "HB12781"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12781"
+lastScraped = "2025-09-22T00:25:56.966607"
+title = "HB12781"
+longTitle = "AN ACT CREATING BARANGAY MACNIT IN THE MUNICIPALITY OF MAASIM, SARANGANI PROVINCE"
+scope = "Local"
+dateFiled = "1994-05-24"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1994-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chiongbian"
+[[authorsDetail]]
+name = "Chiongbian"
+nameCode = "Chiongbian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1994-05-30"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131390
+congress = 9
+bill_no = "HB12781"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1994-05-30"

@@ -1,0 +1,70 @@
+billNumber = "HR00052"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00052"
+lastScraped = "2025-09-22T00:13:01.150664"
+title = "Expressing Condolence on the Death of Mrs. Rosa Villacorta Badelles"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF MS. ROSA VILLACORTA BEDELLES, MOTHER OF THE HONORABLE ALIPIO CIRILO BADELLES, REPRESENTATIVE OF THE FIRST DISTRICT OF LANAO DEL NORTE"
+scope = "Local"
+dateFiled = "2001-07-24"
+status = "Adopted as Resolution No. HR00003 on 2001-07-24"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "GONZALES, NEPTALI II M.", "ECLEO, GLENDA B.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALES, NEPTALI II M."
+nameCode = "Gonzales"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ECLEO, GLENDA B."
+nameCode = "Ecleo"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 89991
+congress = 12
+bill_no = "HR00052"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-07-24"
+
+[secondReading]
+id = 14923
+congress = 12
+bill_no = "HR00052"
+adopted_resolution = "HR00003"
+remarks = "ALL MEMBERS WERE MADE COAUTHORS"
+date_calendared = "2001-07-24"
+date_approved = "2001-07-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00003.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00003.pdf"

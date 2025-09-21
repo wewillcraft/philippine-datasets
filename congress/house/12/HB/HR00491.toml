@@ -1,0 +1,57 @@
+billNumber = "HR00491"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00491"
+lastScraped = "2025-09-22T00:13:01.248889"
+title = "Investigating the Proposed Increase in the Rates of MERALCO to Determine its Justification for Purpose of Consumer Protection"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE PROPOSE INCREASE IN RATES OF MERALCO TO DETERMINE ITS JUSTIFICATION FOR PURPOSES OF CONSUMER PROTECTION"
+scope = "Local"
+dateFiled = "2002-04-02"
+status = "Adopted Resolution (Pending with the committee on ENERGY since 2002-04-23)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-03-16"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 90428
+congress = 12
+bill_no = "HR00491"
+report = "00385"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-03-16"
+date_report = "2002-04-23"
+
+[secondReading]
+id = 15153
+congress = 12
+bill_no = "HR00491"
+adopted_resolution = "HR00205"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO INVESTIGATE, IN AID OF LEGISLATION, THE PROPOSED INCREASE IN RATES OF THE MANILA ELECTRIC COMPANY (MERALCO) TO DETERMINE ITS JUSTIFICATION FOR PURPOSES OF CONSUMER PROTECTION"
+date_calendared = "2002-04-23"
+date_approved = "2002-04-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-04-23"

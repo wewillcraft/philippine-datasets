@@ -1,0 +1,46 @@
+billNumber = "PS00380"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00380"
+lastScraped = "2025-09-21T23:56:42.718383"
+title = "Oil Price Hike"
+longTitle = "OIL PRICE HIKE"
+scope = "National"
+dateFiled = "2012-02-15"
+status = "Pending with the Committee on ENERGY since 2012-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ilagan,Luzviminda C."
+[[authorsDetail]]
+name = "Ilagan,Luzviminda C."
+nameCode = "Ilagan"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2012-02-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 65837
+congress = 15
+bill_no = "PS00380"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2012-02-21"

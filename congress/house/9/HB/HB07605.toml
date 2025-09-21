@@ -1,0 +1,55 @@
+billNumber = "HB07605"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07605"
+lastScraped = "2025-09-22T00:25:55.980860"
+title = "HB07605"
+longTitle = "AN ACT INCREASING THE MONTHLY RETIREMENT PENSION OF JUSTICES AND JUDGES, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED NINE HUNDRED AND TEN AS AMENDED"
+scope = "National"
+dateFiled = "1993-02-18"
+status = "Pending with the Committee on JUSTICE since 1993-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+coAuthors = [ "PUEY, MANUEL H.",]
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PUEY, MANUEL H."
+nameCode = "Puey"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-02-23"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126224
+congress = 9
+bill_no = "HB07605"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-02-23"

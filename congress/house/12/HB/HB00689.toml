@@ -1,0 +1,62 @@
+billNumber = "HB00689"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00689"
+lastScraped = "2025-09-22T00:12:59.929896"
+title = "HB00689"
+longTitle = "AN ACT PROVIDING RETIREMENT, DEATH, DISABILITY AND OTHER BENEFITS FOR THE PROSECUTORS AND THE LEGAL STAFF OF THE DEPARTMENT OF JUSTICE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-05"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+coAuthors = [ "CHIPECO, JOAQUIN JR. M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J040"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83849
+congress = 12
+bill_no = "HB00689"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

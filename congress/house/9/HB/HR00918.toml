@@ -1,0 +1,43 @@
+billNumber = "HR00918"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00918"
+lastScraped = "2025-09-22T00:25:57.534831"
+title = "HR00918"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON GOOD GOVERNMENT, LOCAL GOVERNMENT, PUBLIC WORKS AND HIGHWAYS AND FINANCE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ALLEGED ANOMALOUS TRANSACTIONS COMMITTED BY CITY OFFICIALS OF SAN CARLOS CITY,THIRD DISTRICT, PROVINCE OF PANGASINAN, AS CONTAINED IN THE COMMISSION ON AUDIT'S SPECIAL AUDIT REPORT NO. 91-78"
+scope = "Local"
+dateFiled = "1994-01-28"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1994-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acuña"
+[[authorsDetail]]
+name = "Acuña"
+nameCode = "Acuña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1994-02-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134225
+congress = 9
+bill_no = "HR00918"
+comm_act = "Change of referral from the Committee on Rules(J.52 ,p.14)"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1994-02-03"

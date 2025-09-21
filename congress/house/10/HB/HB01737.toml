@@ -1,0 +1,112 @@
+billNumber = "HB01737"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01737"
+lastScraped = "2025-09-22T00:20:57.671771"
+title = "HB01737"
+longTitle = "AN ACT CONVERTING THE SURIGAO DEL NORTE PROVINCIAL HOSPITAL IN SURIGAO CITY INTO A REGIONAL TRAINING HOSPITAL TO BE KNOWN AS CARAGA REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "REPUBLIC ACT (RA08255) enacted on 1997-02-11"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "NAVARRO, CONSTANTINO JR. H.", "LIBAN, DANTE V.", "AVILA, EDGAR M.", "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NAVARRO, CONSTANTINO JR. H."
+nameCode = "Navarro"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[motherBills]]
+bill_no = "HB02817"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02817"
+flag = "S"
+
+[firstReading]
+id = 108158
+congress = 10
+bill_no = "HB01737"
+report = "00353"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval"
+date_read = "1995-08-08"
+date_ob = "1996-04-30"
+date_report = "1996-04-17"
+
+[secondReading]
+id = 17832
+congress = 10
+bill_no = "HB01737"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2451
+congress = 10
+bill_no = "HB01737"
+date_dist = "1996-05-15"
+date_adopt = "1996-05-20"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-24"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1996-11-21"
+dte_actedp = "1997-02-11"

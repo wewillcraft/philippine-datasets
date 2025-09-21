@@ -1,0 +1,66 @@
+billNumber = "HB06991"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06991"
+lastScraped = "2025-09-22T00:20:58.655755"
+title = "HB06991"
+longTitle = "AN ACT CHANGING THE NAME OF THE BALANTING ELEMENTARY SCHOOL IN BARANGAY BALANTING, MUNICIPALITY OF SUMISIP, PROVINCE OF BASILAN, INTO HADJI MOHAMMAD SADIK KONG ELEMENTARY SCHOOL"
+scope = "Local"
+dateFiled = "1996-05-16"
+status = "Approved by the House on 1996-12-19, transmitted to on 1997-01-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 113412
+congress = 10
+bill_no = "HB06991"
+report = "00680"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval wihout amendment"
+date_read = "1996-05-21"
+date_ob = "1996-12-04"
+date_report = "1996-12-02"
+
+[secondReading]
+id = 18439
+congress = 10
+bill_no = "HB06991"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3035
+congress = 10
+bill_no = "HB06991"
+date_dist = "1996-12-16"
+date_adopt = "1996-12-19"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-06"
+date_rec = "1997-01-10"

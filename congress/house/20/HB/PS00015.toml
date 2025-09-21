@@ -1,0 +1,44 @@
+billNumber = "PS00015"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00015"
+lastScraped = "2025-09-21T23:39:49.244635"
+title = "Ban On Illegal Online Games"
+longTitle = "BAN ON ILLEGAL ONLINE GAMES"
+dateFiled = "2025-08-05"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 2025-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.B.)"
+date = "2025-08-05"
+sequence = 1
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "2025-08-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 4850
+congress = 103
+bill_no = "PS00015"
+report = ""
+comm_act = ""
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-13"
+date_read = "2025-08-05"

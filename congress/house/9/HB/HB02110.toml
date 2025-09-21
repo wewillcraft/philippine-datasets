@@ -1,0 +1,47 @@
+billNumber = "HB02110"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02110"
+lastScraped = "2025-09-22T00:25:54.967874"
+title = "HB02110"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HALL IN BARANGAY ALABUG, MUNICIPALITY OF TUAO, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-02"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mamba"
+[[authorsDetail]]
+name = "Mamba"
+nameCode = "Mamba"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120729
+congress = 9
+bill_no = "HB02110"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-18"

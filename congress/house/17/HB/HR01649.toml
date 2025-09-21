@@ -1,0 +1,62 @@
+billNumber = "HR01649"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01649"
+lastScraped = "2025-09-21T23:55:46.568502"
+title = "HR01649"
+longTitle = "RESOLUTION STRONGLY URGING THE DEPARTMENT OF TRANSPORTATION AND THE MANILA INTERNATIONAL AIRPORT AUTHORITY TO PRESENT A RATIONALIZATION PROGRAM OF THE NINOY AQUINO INTERNATIONAL AIRPORT TERMINALS TO ENSURE A SAFE, EFFICIENT, AND COMFORTABLE PASSENGER EXPERIENCE"
+scope = "National"
+dateFiled = "2018-02-06"
+status = "Pending with the Committee on TRANSPORTATION since 2018-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01649.pdf"
+fileSize = 561834
+author = "Sarmiento, Cesar V."
+coAuthors = [ "LOPEZ, MANNY", "ALMARIO, MAYO",]
+[[authorsDetail]]
+name = "Sarmiento, Cesar V."
+nameCode = "Sarmiento (C.)"
+date = "2018-02-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOPEZ, MANNY"
+nameCode = "Lopez (M.L.)"
+date = "2018-03-12"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ALMARIO, MAYO"
+nameCode = "Almario"
+date = "2018-03-20"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2018-02-12"
+
+[[committee]]
+name = "INTER-PARLIAMENTARY RELATIONS AND DIPLOMACY"
+type = "principal"
+referralCode = "A505"
+
+[firstReading]
+id = 44391
+congress = 17
+bill_no = "HR01649"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-02-21"
+date_read = "2018-02-12"

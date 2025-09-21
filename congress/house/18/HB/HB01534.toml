@@ -1,0 +1,60 @@
+billNumber = "HB01534"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01534"
+lastScraped = "2025-09-22T00:01:45.324050"
+title = "HB01534"
+longTitle = "AN ACT ESTABLISHING A SYSTEM OF ACCREDITATION FOR GARBAGE COLLECTION SERVICE BUSINESS, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-08"
+status = "Pending with the Committee on ECOLOGY since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01534.pdf"
+fileSize = 1916566
+author = "GARBIN, ALFREDO JR. A."
+coAuthors = [ "FARINAS, RIA CHRISTINA G.",]
+[[authorsDetail]]
+name = "GARBIN, ALFREDO JR. A."
+nameCode = "Garbin"
+date = "2019-07-08"
+sequence = 1
+
+[[authorsDetail]]
+name = "CO, ELIZALDY S."
+nameCode = "Co (E.)"
+date = "2019-07-08"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "FARINAS, RIA CHRISTINA G."
+nameCode = "Fariñas (R.C.)"
+date = "2021-02-24"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 20943
+congress = 18
+bill_no = "HB01534"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

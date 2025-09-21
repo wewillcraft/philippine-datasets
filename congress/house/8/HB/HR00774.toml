@@ -1,0 +1,50 @@
+billNumber = "HR00774"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00774"
+lastScraped = "2025-09-22T00:47:02.677632"
+title = "HR00774"
+longTitle = "RESOLUTION TO DIRECT THE APPROPRIATE STANDING COMMITTEES TO INVESTIGATE, IN AID OF LEGISLATION, THEREAL STATE OF PEACE AND ORDER SITUATION IN THE COUNTRY WITH PARTICULAR EMPHASIS ON THE CONDITION OBTAINING IN METRO MANILA"
+scope = "National"
+dateFiled = "1988-07-01"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1988-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "AQUINO, ANTONIO MODESTO L.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AQUINO, ANTONIO MODESTO L."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "528"
+dateRead = "1988-07-27"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 170655
+congress = 8
+bill_no = "HR00774"
+referral = "528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+date_read = "1988-07-27"

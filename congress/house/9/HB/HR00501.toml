@@ -1,0 +1,50 @@
+billNumber = "HR00501"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00501"
+lastScraped = "2025-09-22T00:25:57.457707"
+title = "HR00501"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED ESCALATING CONFLICT AND POWER PLAY IN THE PHILIPPINE HEART CENTER INVOLVING THE MEDICAL STAFF"
+scope = "Local"
+dateFiled = "1993-02-17"
+status = "Pending with the Committee on HEALTH since 1993-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Datumanong ,Simeon A."
+coAuthors = [ "LANTO, MACABANGKIT B.",]
+[[authorsDetail]]
+name = "Datumanong ,Simeon A."
+nameCode = "Datumanong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LANTO, MACABANGKIT B."
+nameCode = "Lanto"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-23"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 133813
+congress = 9
+bill_no = "HR00501"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-23"

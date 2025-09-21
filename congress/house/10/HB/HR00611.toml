@@ -1,0 +1,41 @@
+billNumber = "HR00611"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00611"
+lastScraped = "2025-09-22T00:20:59.536943"
+title = "HR00611"
+longTitle = "RESOLUTION PROPOSING THE AMENDMENT OF THE CONSTITUTION TO AUTHORIZE THE FILLING-UP OF VACANCIES IN THE HOUSE OF REPRESENTATIVES BY APPOINTMENT"
+scope = "National"
+dateFiled = "1996-05-13"
+status = "Pending with the Committee on CONSTITUTIONAL AMENDMENTS since 1996-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "0507"
+dateRead = "1996-05-16"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 117665
+congress = 10
+bill_no = "HR00611"
+referral = "0507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+date_read = "1996-05-16"

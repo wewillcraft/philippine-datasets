@@ -1,0 +1,46 @@
+billNumber = "HR01416"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01416"
+lastScraped = "2025-09-22T00:20:59.696060"
+title = "HR01416"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE SITUATION AT THE URSULA ISLAND, PALAWAN, IN ORDER TO DETERMINE THE STATUS OF THE PROTECTED AREA, THE PROGRAMS BEING IMPLEMENTED BY THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES ON BIRD SANCTUARIES, THE ENFORCEMENT OF LAWS ON PROTECTED AREAS BY THE LOCAL GOVERNMENT AND IDENTIFY THE NEEDED POLICY REFORM AND/OR BUDGETARY SUPPORT TO STRICTLY ENFORCE ENVIRONMENTAL LAWS"
+scope = "Local"
+dateFiled = "1997-10-29"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-10-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-10-30"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 118470
+congress = 10
+bill_no = "HR01416"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-10-30"

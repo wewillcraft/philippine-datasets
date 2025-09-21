@@ -1,0 +1,42 @@
+billNumber = "HB00675"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00675"
+lastScraped = "2025-09-22T00:25:54.717720"
+title = "HB00675"
+longTitle = "AN ACT CREATING A RENT APPEALS BOARD"
+scope = "National"
+dateFiled = "1992-08-06"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1992-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1992-08-12"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 119294
+congress = 9
+bill_no = "HB00675"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "1992-08-12"

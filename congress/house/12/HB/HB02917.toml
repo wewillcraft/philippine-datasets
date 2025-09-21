@@ -1,0 +1,47 @@
+billNumber = "HB02917"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02917"
+lastScraped = "2025-09-22T00:13:00.334077"
+title = "HB02917"
+longTitle = "AN ACT ESTABLISHING A MEDICAL CENTER IN THE CITY OF CANDON, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE CANDON CITY MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-05"
+status = "Pending with the Committee on HEALTH since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86077
+congress = 12
+bill_no = "HB02917"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-25"

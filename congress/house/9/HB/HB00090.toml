@@ -1,0 +1,42 @@
+billNumber = "HB00090"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00090"
+lastScraped = "2025-09-22T00:25:54.608518"
+title = "HB00090"
+longTitle = "AN ACT PROHIBITING POLITICAL DYNASTIES"
+scope = "National"
+dateFiled = "1992-07-13"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 118709
+congress = 9
+bill_no = "HB00090"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "1992-07-28"

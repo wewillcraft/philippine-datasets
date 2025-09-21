@@ -1,0 +1,42 @@
+billNumber = "PS00280"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00280"
+lastScraped = "2025-09-22T00:13:49.513476"
+title = "PS00280"
+longTitle = "Plight of Children"
+scope = "National"
+dateFiled = "2005-10-10"
+status = "Pending with the Committee on SOCIAL SERVICES since 2005-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joson, Josefina M."
+[[authorsDetail]]
+name = "Joson, Josefina M."
+nameCode = "Joson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2005-11-08"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 83007
+congress = 13
+bill_no = "PS00280"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2005-11-08"

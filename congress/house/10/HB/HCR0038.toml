@@ -1,0 +1,34 @@
+billNumber = "HCR0038"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0038"
+lastScraped = "2025-09-22T00:20:59.415613"
+title = "HCR0038"
+longTitle = "(SEE HR 187)"
+scope = "Local"
+dateFiled = "1997-03-06"
+status = "Pending with the Committee on RULES since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117008
+congress = 10
+bill_no = "HCR0038"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-03-06"

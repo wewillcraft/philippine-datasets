@@ -1,0 +1,42 @@
+billNumber = "HR01399"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01399"
+lastScraped = "2025-09-22T00:47:02.803427"
+title = "HR01399"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE MATTER OF THE POOR MAINTENANCE OF THE SOUTH EXPRESSWAY BY THE PHILIPPINE NATIONAL CONSTRUCTION CORPORATION"
+scope = "Local"
+dateFiled = "1989-08-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1989-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1989-08-09"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 171265
+congress = 8
+bill_no = "HR01399"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1989-08-09"

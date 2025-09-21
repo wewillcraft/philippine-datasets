@@ -1,0 +1,54 @@
+billNumber = "HB03138"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03138"
+lastScraped = "2025-09-22T00:20:57.955423"
+title = "HB03138"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A PUBLIC LIBRARY IN THE MUNICIPALITY OF GIGAQUIT, PROVINCE OF SURIGAO DEL NORTE, TO BE KNOWN AS THE GIGAQUIT PUBLIC LIBRARY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109559
+congress = 10
+bill_no = "HB03138"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-09-06"

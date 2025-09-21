@@ -1,0 +1,42 @@
+billNumber = "HB09825"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09825"
+lastScraped = "2025-09-22T00:25:56.373853"
+title = "HB09825"
+longTitle = "AN ACT PROHIBITING THE MANUFACTURE USE OF STYROFOAM FOOD CONTAINERS IN ALL FAST-FOOD, RESTAURANT, HOTELS AND OTHER FOOD ESTABLISHMENT, AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1993-06-25"
+status = "Pending with the Committee on ECOLOGY since 1993-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sanchez"
+[[authorsDetail]]
+name = "Sanchez"
+nameCode = "Sanchez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-07-27"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 128443
+congress = 9
+bill_no = "HB09825"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-07-27"

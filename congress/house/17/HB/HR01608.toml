@@ -1,0 +1,60 @@
+billNumber = "HR01608"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01608"
+lastScraped = "2025-09-21T23:55:46.558180"
+title = "HR01608"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ANOMALIES BEHIND THE SLOW PASSPORT PROCESSING OF THE DEPARTMENT OF FOREIGN AFFAIRS (DFA)"
+scope = "National"
+dateFiled = "2018-01-23"
+status = "Pending with the Committee on GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY since 2018-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01608.pdf"
+fileSize = 1030185
+author = "Zarate, Carlos Isagani T."
+coAuthors = [ "LOPEZ, MANNY",]
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2018-01-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOPEZ, MANNY"
+nameCode = "Lopez (M.L.)"
+date = "2018-03-05"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "A502"
+dateRead = "2018-01-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 44350
+congress = 17
+bill_no = "HR01608"
+report = ""
+comm_act = ""
+referral = "A502"
+ref_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-02-07"
+date_read = "2018-01-24"

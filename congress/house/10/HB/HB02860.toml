@@ -1,0 +1,54 @@
+billNumber = "HB02860"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02860"
+lastScraped = "2025-09-22T00:20:57.894790"
+title = "HB02860"
+longTitle = "AN ACT ESTABLISHING A GOVERNMENT DRUGSTORE IN EVERY BARANGAY THROUGHOUT THE COUNTRY"
+scope = "National"
+dateFiled = "1995-08-24"
+status = "Substituted by HB08819"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109281
+congress = 10
+bill_no = "HB02860"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-31"

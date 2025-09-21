@@ -1,0 +1,49 @@
+billNumber = "HB04099"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04099"
+lastScraped = "2025-09-22T00:20:58.132117"
+title = "HB04099"
+longTitle = "AN ACT DEFINING AND PENALIZING THE CRIME OF COUP D'ETAT, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-29"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-10-04"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 110520
+congress = 10
+bill_no = "HB04099"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-10-04"

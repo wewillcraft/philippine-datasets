@@ -1,0 +1,42 @@
+billNumber = "HR00549"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00549"
+lastScraped = "2025-09-22T00:47:02.632140"
+title = "HR00549"
+longTitle = "RESOLUTION APPROPRIATING SUFFICIENT FUNDS FOR THEIMMEDIATE COMPLETION OF THE LINAMON AIRPORT TO ACCOMMODATE PAL BAC I-II JETS AND OTHER PLANES OF SIMILAR SIZE"
+scope = "Local"
+dateFiled = "1987-12-17"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-12-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dimaporo"
+[[authorsDetail]]
+name = "Dimaporo"
+nameCode = "Dimaporo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-12-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170436
+congress = 8
+bill_no = "HR00549"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-12-28"

@@ -1,0 +1,42 @@
+billNumber = "HR01902"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01902"
+lastScraped = "2025-09-22T00:47:02.905559"
+title = "HR01902"
+longTitle = "RESOLUTION PROPOSING THE DELETION OF SECTION 6, ARTICLE XVI OF THE 1987 CONSTITUTION"
+scope = "Local"
+dateFiled = "1990-08-30"
+status = "Pending with the Committee on CONSTITUTIONAL AMENDMENTS since 1990-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "507"
+dateRead = "1990-09-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171738
+congress = 8
+bill_no = "HR01902"
+referral = "507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+sub_name = ""
+date_read = "1990-09-04"

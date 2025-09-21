@@ -1,0 +1,75 @@
+billNumber = "HB00724"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00724"
+lastScraped = "2025-09-21T23:56:21.610607"
+title = "HB00724"
+longTitle = "AN ACT GRANTING FULL GOVERNMENT SUBSIDY TO CANCER PATIENTS, INSTITUTIONALIZING A PROGRAM AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on HEALTH since 2013-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00724.pdf"
+fileSize = 286717
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "VELASCO, LORNA Q.", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-08-13"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-08-13"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VELASCO, LORNA Q."
+nameCode = "Velasco, L."
+date = "2013-08-14"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2014-06-09"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-07-24"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 46538
+congress = 16
+bill_no = "HB00724"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-24"

@@ -1,0 +1,47 @@
+billNumber = "HR01346"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01346"
+lastScraped = "2025-09-22T00:01:47.597261"
+title = "HR01346"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, OF THE CONTINUOUS AND LONG-STANDING ILLEGAL ACTIVITIES SUCH AS LOGGING AND QUARRYING IN THE MARIKINA WATERSHED AND OTHER PROTECTED RESERVES"
+scope = "National"
+dateFiled = "2020-11-16"
+status = "Pending with the Committee on NATURAL RESOURCES since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01346.pdf"
+fileSize = 1645031
+author = "Herrera, Bernadette \"BH\""
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera-Dy"
+date = "2020-11-16"
+sequence = 1
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2020-11-23"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 31664
+congress = 18
+bill_no = "HR01346"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-11-23"

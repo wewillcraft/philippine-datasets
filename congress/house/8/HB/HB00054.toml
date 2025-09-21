@@ -1,0 +1,83 @@
+billNumber = "HB00054"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00054"
+lastScraped = "2025-09-22T00:46:56.553278"
+title = "HB00054"
+longTitle = "AN ACT VALIDATING THE CREATION OF THE MUNICIPALITY OF PILAR IN THE PROVINCE OF BOHOL"
+scope = "Local"
+dateFiled = "1987-07-30"
+status = "Approved by the House on 1990-04-05, transmitted to on 1990-04-16 and received by the Senate on 1990"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+coAuthors = [ "BORJA-AGANA, VENICE", "TIROL, DAVID B.",]
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BORJA-AGANA, VENICE"
+nameCode = "Borja-agana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TIROL, DAVID B."
+nameCode = "Tirol"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-04"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 134752
+congress = 8
+bill_no = "HB00054"
+report = "00877"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "Approval without amendment"
+date_read = "1987-08-04"
+date_ob = "1989-12-12"
+date_cal = "1989-12-12"
+date_unass = "1989-12-12"
+date_report = "1989-09-21"
+
+[secondReading]
+id = 20226
+congress = 8
+bill_no = "HB00054"
+date_approved = "1990-03-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 10
+congress = 8
+bill_no = "HB00054"
+date_dist = "1990-04-02"
+date_adopt = "1990-04-05"
+no_yeas = 136
+no_nays = 0
+no_abstent = 0
+date_trans = "1990-04-16"
+date_rec = "1990-05-21"

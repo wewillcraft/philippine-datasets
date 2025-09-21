@@ -1,0 +1,81 @@
+billNumber = "HB00845"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB00845"
+lastScraped = "2025-09-22T00:13:48.001119"
+title = "HB00845"
+longTitle = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE (1) DENTIST IN EVERY MUNICIPALITY OF EVERY PROVINCE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2004-07-01"
+status = "Pending with the Committee on HEALTH since 2004-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB00845.pdf"
+fileSize = 23755780
+author = "Umali, Oyie"
+coAuthors = [ "PETILLA, REMEDIOS L.", "OLANO, ARREL R.", "CODILLA, EUFROCINO SR. M.", "AMIN, HUSSIN U.",]
+[[authorsDetail]]
+name = "Umali, Oyie"
+nameCode = "Umali"
+date = ""
+sequence = 20
+
+[[coAuthorsDetail]]
+name = "PETILLA, REMEDIOS L."
+nameCode = "Petilla"
+date = ""
+journalNo = "J004"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "OLANO, ARREL R."
+nameCode = "Olano"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR. M."
+nameCode = "Codilla"
+date = ""
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2004-07-28"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 75935
+congress = 13
+bill_no = "HB00845"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-07-28"
+date_read = "2004-07-28"

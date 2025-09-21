@@ -1,0 +1,46 @@
+billNumber = "HB09046"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09046"
+lastScraped = "2025-09-22T00:20:59.087913"
+title = "HB09046"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE SAINT ANTHONY MOTHER AND CHILD HOSPITAL (SAMCH) IN BARANGAY BASAK, SAN NICOLAS, CEBU CITY, FROM TWENTY-FIVE TO SEVENTY-FIVE"
+scope = "Local"
+dateFiled = "1997-03-04"
+status = "Pending with the Committee on HEALTH since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115467
+congress = 10
+bill_no = "HB09046"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-06"

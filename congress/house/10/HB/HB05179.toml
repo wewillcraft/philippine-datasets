@@ -1,0 +1,69 @@
+billNumber = "HB05179"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05179"
+lastScraped = "2025-09-22T00:20:58.326923"
+title = "HB05179"
+longTitle = "AN ACT CREATING A REGIONAL TRIAL COURT IN THE PROVINCE OF SARANGANI WITH THE SEAT AT THE MUNICIPALITY OF ALABEL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-20"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chiongbian"
+[[authorsDetail]]
+name = "Chiongbian"
+nameCode = "Chiongbian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-11-23"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111600
+congress = 10
+bill_no = "HB05179"
+report = "01367"
+referral = "0520"
+ref_name = "JUSTICE"
+recomm = "approval with amendment"
+date_read = "1995-11-23"
+date_ob = "1997-12-17"
+date_report = "1997-12-17"
+
+[secondReading]
+id = 18170
+congress = 10
+bill_no = "HB05179"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2777
+congress = 10
+bill_no = "HB05179"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

@@ -1,0 +1,42 @@
+billNumber = "HR02326"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02326"
+lastScraped = "2025-09-22T00:47:03.003252"
+title = "HR02326"
+longTitle = "RESOLUTION ASKING THE COMMITTEE ON HOUSING AND THE COMMITTEE ON URBAN PLANNING AND DEVELOPMENT TO UNDERTAKE A STUDY FOR THE PURPOSE OF FORMULATING AND IMPLEMENTING THE SOCIALIZED PRICING OF NATIONAL HOUSING AUTHORITY - MANAGED AND OPERATED PROJECTS,COVERING THE SALE OF HOUSE AND LOTS AND RESIDENTIAL LOTS"
+scope = "National"
+dateFiled = "1991-07-29"
+status = "Pending with the Committee on HOUSING since 1991-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1991-08-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172155
+congress = 8
+bill_no = "HR02326"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = ""
+date_read = "1991-08-01"

@@ -1,0 +1,93 @@
+billNumber = "HB00456"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00456"
+lastScraped = "2025-09-22T00:46:56.641833"
+title = "HB00456"
+longTitle = "AN ACT ESTABLISHING A 150-BED TERTIARY CITY HOSPITAL IN THE CITY OF MANDAUE (CEBU), TO BE KNOWN AS MANDAUE CITY HOSPITAL, AND APPROPRIATING FUNDS THEREFORE"
+scope = "Local"
+dateFiled = "1987-08-17"
+status = "REPUBLIC ACT (RA06868) enacted on 1990-03-08"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+coAuthors = [ "ECLEO, GLENDA B.", "LABARIA, VIOLETA T.", "GARDUCE, VENANCIO T.",]
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECLEO, GLENDA B."
+nameCode = "Ecleo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LABARIA, VIOLETA T."
+nameCode = "Labaria"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GARDUCE, VENANCIO T."
+nameCode = "Garduce"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-20"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 135153
+congress = 8
+bill_no = "HB00456"
+report = "00623"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-20"
+date_ob = "1989-05-24"
+date_cal = "1989-05-24"
+date_unass = "1989-05-24"
+date_report = "1989-05-23"
+
+[secondReading]
+id = 20289
+congress = 8
+bill_no = "HB00456"
+date_calendared = "1987-08-20"
+date_approved = "1989-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 72
+congress = 8
+bill_no = "HB00456"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 119
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "A"
+dte_transp = "1990-01-09"
+dte_actedp = "1990-03-08"

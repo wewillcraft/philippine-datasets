@@ -1,0 +1,62 @@
+billNumber = "HB02123"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02123"
+lastScraped = "2025-09-22T00:20:57.749466"
+title = "HB02123"
+longTitle = "AN ACT PROHIBITING THE CONVERSION OF IRRIGATED AND IRRIGABLE AGRICULTURAL LANDS INTO ANY OTHER USE, PROVIDING PENALTIES FOR VIOLATIONS THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "RAMIREZ, JOSE T.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108544
+congress = 10
+bill_no = "HB02123"
+comm_act = "change of ctte. ref'l from Agric'l & Food and Revision of Laws to Agric. & Food and Approp. as per J"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-15"

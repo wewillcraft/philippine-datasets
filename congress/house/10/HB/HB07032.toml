@@ -1,0 +1,46 @@
+billNumber = "HB07032"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07032"
+lastScraped = "2025-09-22T00:20:58.663285"
+title = "HB07032"
+longTitle = "AN ACT TRANSFERRING THE OWNERSHIP, MANAGEMENT AND CONTROL OF THE PHILIPPINE AIR FORCE HOSPITAL LOCATED IN VILLAMOR AIR BASE, TO THE DEPARTMENT OF HEALTH TO BE MAINTAINED FOR PASAY CITY AND NEARBY RESIDENTS"
+scope = "Local"
+dateFiled = "1996-05-20"
+status = "Pending with the Committee on HEALTH since 1996-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-05-22"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113453
+congress = 10
+bill_no = "HB07032"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-05-22"

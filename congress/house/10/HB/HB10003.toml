@@ -1,0 +1,56 @@
+billNumber = "HB10003"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10003"
+lastScraped = "2025-09-22T00:20:59.287085"
+title = "HB10003"
+longTitle = "AN ACT REQUIRING ALL LOCAL GOVERNMENT UNITS TO OBTAIN PUBLIC LIABILITY INSURANCE AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "ADAMAT, RONALDO",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ADAMAT, RONALDO"
+nameCode = "Adamat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116424
+congress = 10
+bill_no = "HB10003"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-10-02"

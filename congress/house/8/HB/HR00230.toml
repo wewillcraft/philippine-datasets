@@ -1,0 +1,64 @@
+billNumber = "HR00230"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00230"
+lastScraped = "2025-09-22T00:47:02.569705"
+title = "HR00230"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE FEASIBILITY OF HARNESSING WAVE ENERGY AS A SUPPLEMENTARY AND/OR ALTERNATIVE SOURCE OF ENERGY IN SMALLISLAND COMMUNITIES AND THEREAFTER FORMULATE POLICYAND/OR DRAFT APPROPRIATE LEGISLATION"
+scope = "National"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on ENERGY since 1987-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "ROMERO, MIGUEL L.", "ANDOLANA, GREGORIO A.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-09-01"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 170131
+congress = 8
+bill_no = "HR00230"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-09-01"

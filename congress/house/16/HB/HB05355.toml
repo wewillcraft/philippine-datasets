@@ -1,0 +1,69 @@
+billNumber = "HB05355"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05355"
+lastScraped = "2025-09-21T23:56:22.522358"
+title = "HB05355"
+longTitle = "STUDENT HOUSING ACT OF 2014"
+scope = "National"
+dateFiled = "2015-01-26"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 2015-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05355.pdf"
+fileSize = 251184
+author = "Radaza, Aileen C."
+coAuthors = [ "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Radaza, Aileen C."
+nameCode = "Radaza"
+date = "2015-01-26"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2015-02-17"
+journalNo = "J050"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "2015-02-03"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[[motherBills]]
+bill_no = "HB04270"
+sequence = 1
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04270"
+sequence = 1
+flag = "S"
+
+[firstReading]
+id = 51169
+congress = 16
+bill_no = "HB05355"
+report = ""
+comm_act = ""
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-02-03"

@@ -1,0 +1,49 @@
+billNumber = "HB01875"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01875"
+lastScraped = "2025-09-22T00:20:57.698339"
+title = "HB01875"
+longTitle = "AN ACT TO AMEND SECTIONS TWENTY-SEVEN, TWENTY-NINE, AND THIRTY OF BATAS PAMBANSA BILANG 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1980"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on JUSTICE since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 108296
+congress = 10
+bill_no = "HB01875"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-09"

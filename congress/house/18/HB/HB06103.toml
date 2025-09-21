@@ -1,0 +1,46 @@
+billNumber = "HB06103"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB06103"
+lastScraped = "2025-09-22T00:01:46.199829"
+title = "HB06103"
+longTitle = "AN ACT INSTITUTIONALIZING THE UNANG YAKAP CAMPAIGN, ADOPTING THE PROTOCOL ON ESSENTIAL NEWBORN CARE"
+scope = "National"
+dateFiled = "2020-01-29"
+status = "Pending with the Committee on HEALTH since 2020-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB06103.pdf"
+fileSize = 2313945
+author = "Andaya, Marissa"
+[[authorsDetail]]
+name = "Andaya, Marissa"
+nameCode = "Andaya"
+date = "2020-01-29"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-02-04"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 25511
+congress = 18
+bill_no = "HB06103"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-02-04"

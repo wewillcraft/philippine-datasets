@@ -1,0 +1,46 @@
+billNumber = "HB09301"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09301"
+lastScraped = "2025-09-22T00:20:59.139024"
+title = "HB09301"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED 7943 OTHERWISE KNOWN AS AN ACT CONVERTING THE AMAI PAKPAK GENERAL HOSPITAL IN MARAWI CITY, LANAO DEL SUR, INTO A MEDICAL CENTER, TO BE KNOWN AS THE AMAI PAKPAK MEDICAL CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-04-28"
+status = "Pending with the Committee on HEALTH since 1997-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-04-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115722
+congress = 10
+bill_no = "HB09301"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-04-30"

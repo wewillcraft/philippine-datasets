@@ -1,0 +1,42 @@
+billNumber = "HB12084"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12084"
+lastScraped = "2025-09-22T00:25:56.823494"
+title = "HB12084"
+longTitle = "AN ACT ESTABLISHING THE CENTER FOR INTERNATIONAL STUDIES AND NATIONAL SECURITY DEVELOPMENT"
+scope = "National"
+dateFiled = "1994-02-16"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-02-22"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130699
+congress = 9
+bill_no = "HB12084"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-02-22"

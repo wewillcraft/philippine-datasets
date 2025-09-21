@@ -1,0 +1,42 @@
+billNumber = "HB06618"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06618"
+lastScraped = "2025-09-22T00:46:57.781075"
+title = "HB06618"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY BUENAVISTA, MUNICIPALITY OF BANSALAN, PROVINCE OF DAVAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-17"
+status = "Pending with the Committee on HEALTH since 1988-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-21"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 141299
+congress = 8
+bill_no = "HB06618"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-21"

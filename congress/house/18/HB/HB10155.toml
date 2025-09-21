@@ -1,0 +1,59 @@
+billNumber = "HB10155"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10155"
+lastScraped = "2025-09-22T00:01:47.147677"
+title = "HB10155"
+longTitle = "AN ACT ESTABLISHING A NATIONAL ENERGY POLICY AND REGULATORY FRAMEWORK FOR FACILITIES UTILIZING WASTE-TO-ENERGY TECHNOLOGIES"
+scope = "National"
+dateFiled = "2021-09-06"
+status = "Pending with the Committee on ECOLOGY since 2021-09-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10155.pdf"
+fileSize = 6846424
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "ZUBIRI, MANUEL ANTONIO F.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2021-09-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZUBIRI, MANUEL ANTONIO F."
+nameCode = "Zubiri"
+date = "2021-11-08"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2021-09-13"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 29559
+congress = 18
+bill_no = "HB10155"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-09-13"

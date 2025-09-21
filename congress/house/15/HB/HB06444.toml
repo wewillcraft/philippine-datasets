@@ -1,0 +1,61 @@
+billNumber = "HB06444"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB06444"
+lastScraped = "2025-09-21T23:56:41.766832"
+title = "HB06444"
+longTitle = "AN ACT AMENDING SECTION 7 (A) OF REPUBLIC ACT 10054 OTHERWISE KNOWN AS \\\"THE MOTORCYCLE HELMET ACT OF 2009\\\""
+scope = "National"
+dateFiled = "2012-08-06"
+status = "Pending with the Committee on TRANSPORTATION since 2012-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB06444.pdf"
+fileSize = 245166
+author = "Alcover, Pastor Jr. M."
+coAuthors = [ "ABAYON, DARYL GRACE J", "CASTRO, JANE TAN",]
+[[authorsDetail]]
+name = "Alcover, Pastor Jr. M."
+nameCode = "Alcover"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABAYON, DARYL GRACE J"
+nameCode = "Abayon"
+date = ""
+journalNo = "J018"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "CASTRO, JANE TAN"
+nameCode = "Castro"
+date = ""
+journalNo = "J018"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2012-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 61916
+congress = 15
+bill_no = "HB06444"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2012-08-28"

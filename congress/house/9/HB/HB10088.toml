@@ -1,0 +1,47 @@
+billNumber = "HB10088"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10088"
+lastScraped = "2025-09-22T00:25:56.421465"
+title = "HB10088"
+longTitle = "AN ACT CONVERTING THE REGIONAL HEALTH TRAINING CENTER IN THE MUNICIPALITY OF CARMEN, PROVINCE OF DAVAO, INTO A MUNICIPAL HOSPITAL TO BE KNOWN AS THE CARMEN MUNICIPAL HOSPITAL"
+scope = "Local"
+dateFiled = "1993-08-02"
+status = "Pending with the Committee on HEALTH since 1993-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-05"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128706
+congress = 9
+bill_no = "HB10088"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-05"

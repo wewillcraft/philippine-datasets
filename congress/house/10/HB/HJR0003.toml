@@ -1,0 +1,41 @@
+billNumber = "HJR0003"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0003"
+lastScraped = "2025-09-22T00:20:59.419685"
+title = "HJR0003"
+longTitle = "JOINT RESOLUTION CREATING A LEGISLATIVE-EXE CUTIVE COMMISSION TO REVIEW AND ASSESS THE GOVERNMENT BUREAUCRACY"
+scope = "National"
+dateFiled = "1995-07-31"
+status = "Substituted by HB05671"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1995-08-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117030
+congress = 10
+bill_no = "HJR0003"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1995-08-04"

@@ -1,0 +1,71 @@
+billNumber = "HR00005"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00005"
+lastScraped = "2025-09-22T00:47:02.523691"
+title = "HR00005"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ALLEGED HARMFUL AND DELETERIOUS EFFECTS OF PESTICIDES AND TO RECOMMEND SUCH REMEDIAL MEASURES AS MAY BE NECESSARY TO PREVENT OR MINIMIZE PESTICIDE POISONING"
+scope = "National"
+dateFiled = "1987-07-23"
+status = "Pending with the Committee on HEALTH since 1987-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "PONCE DE LEON, DAVID A.", "ALFELOR, CIRIACO R.", "GONZALEZ, PACITA T.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALFELOR, CIRIACO R."
+nameCode = "Alfelor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, PACITA T."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-07-29"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 169915
+congress = 8
+bill_no = "HR00005"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-07-29"

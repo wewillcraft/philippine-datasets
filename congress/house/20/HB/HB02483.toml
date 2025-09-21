@@ -1,0 +1,46 @@
+billNumber = "HB02483"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02483"
+lastScraped = "2025-09-21T23:39:48.788774"
+title = "HB02483"
+longTitle = "AN ACT ESTABLISHING A SPECIAL HOSPITAL IN THE CITY OF SANTA ROSA, LAGUNA, TO SPECIALIZE IN CANCER TREATMENT AND KIDNEY DIALYSIS, TO BE KNOWN AS THE SANTA ROSA SPECIAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-07-29"
+status = "Pending with the Committee on HEALTH since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02483.pdf"
+fileSize = 153158
+author = "GONZALES, ROY M."
+[[authorsDetail]]
+name = "GONZALES, ROY M."
+nameCode = "Gonzales (R.)"
+date = "2025-07-29"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 2484
+congress = 103
+bill_no = "HB02483"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

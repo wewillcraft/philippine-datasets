@@ -1,0 +1,41 @@
+billNumber = "HB07315"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07315"
+lastScraped = "2025-09-22T00:20:58.718067"
+title = "HB07315"
+longTitle = "AN ACT REGULATING LOBBYING  IN CONGRESS AND PRESCRIBING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1996-06-05"
+status = "Pending with the Committee on PEOPLES PARTICIPATION since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PEOPLES PARTICIPATION"
+type = "primary"
+referralCode = "0527"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 113736
+congress = 10
+bill_no = "HB07315"
+referral = "0527"
+ref_name = "PEOPLES PARTICIPATION"
+date_read = "1996-06-08"

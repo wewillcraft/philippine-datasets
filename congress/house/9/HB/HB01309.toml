@@ -1,0 +1,47 @@
+billNumber = "HB01309"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01309"
+lastScraped = "2025-09-22T00:25:54.829975"
+title = "HB01309"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE CONGRESSMAN LUIS HORA MEMORIAL HOSPITAL IN MOUNTAIN PROVINCE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on HEALTH since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez, Victor S."
+[[authorsDetail]]
+name = "Dominguez, Victor S."
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119928
+congress = 9
+bill_no = "HB01309"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-26"

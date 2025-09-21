@@ -1,0 +1,47 @@
+billNumber = "HB08812"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08812"
+lastScraped = "2025-09-22T00:25:56.184259"
+title = "HB08812"
+longTitle = "AN ACT APPROPRIATING THE SUM OF ONE MILLION FIVE HUNDRED THOUSAND PESOS FOR THE REPAIR AND IMPROVEMENT OF THE DRAINAGE SYSTEM OF THE POBLACION OF THE MUNICIPALITY OF BADIANGAN, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1993-04-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-05-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127430
+congress = 9
+bill_no = "HB08812"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-05-05"

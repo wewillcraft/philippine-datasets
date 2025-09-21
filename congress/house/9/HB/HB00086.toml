@@ -1,0 +1,47 @@
+billNumber = "HB00086"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00086"
+lastScraped = "2025-09-22T00:25:54.607827"
+title = "HB00086"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF CANDON, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE CANDON DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-13"
+status = "Pending with the Committee on HEALTH since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118705
+congress = 9
+bill_no = "HB00086"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-07-28"

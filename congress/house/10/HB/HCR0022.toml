@@ -1,0 +1,59 @@
+billNumber = "HCR0022"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0022"
+lastScraped = "2025-09-22T00:20:59.410509"
+title = "HCR0022"
+longTitle = "CONCURRENT RESOLUTION PROVIDING FOR THE ADJOURNMENT OF THE SPECIAL SESSION OF THE CONGRESS OF THE PHILIPPINES NOT LATER THAN TWELVE O'CLOCK, MIDNIGHT TODAY, MONDAY , JUNE 10, 1996"
+scope = "National"
+dateFiled = "1996-06-10"
+status = "Adopted as Resolution No. CR00007 on 1996-06-10"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-06-10"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 116993
+congress = 10
+bill_no = "HCR0022"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-06-10"
+
+[secondReading]
+id = 18880
+congress = 10
+bill_no = "HCR0022"
+adopted_resolution = "CR00007"
+date_calendared = "1996-06-10"
+date_approved = "1996-06-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

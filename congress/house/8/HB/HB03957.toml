@@ -1,0 +1,42 @@
+billNumber = "HB03957"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03957"
+lastScraped = "2025-09-22T00:46:57.252988"
+title = "HB03957"
+longTitle = "AN ACT DEFINING THE USE OF GSIS AND SSS LOANABLE FUNDS"
+scope = "National"
+dateFiled = "1987-11-23"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES since 1987-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1987-11-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 138643
+congress = 8
+bill_no = "HB03957"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = ""
+date_read = "1987-11-25"

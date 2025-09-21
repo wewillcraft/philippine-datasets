@@ -1,0 +1,46 @@
+billNumber = "HB09035"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09035"
+lastScraped = "2025-09-22T00:20:59.086215"
+title = "HB09035"
+longTitle = "AN ACT ESTABLISHING A DRUG REHABILITATION CENTER IN THE MUNICIPALITY OF SIGMA, PROVINCE OF CAPIZ, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-03-04"
+status = "Pending with the Committee on HEALTH since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115456
+congress = 10
+bill_no = "HB09035"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-06"

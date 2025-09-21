@@ -1,0 +1,68 @@
+billNumber = "HR00884"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00884"
+lastScraped = "2025-09-22T00:20:59.591879"
+title = "HR00884"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE GUARDSON R. LOOD, FORMER MEMBER OF THE BATASANG PAMBANSA REPRESENTING ZAMBOANGA DEL NORTE"
+scope = "Local"
+dateFiled = "1996-10-02"
+status = "Adopted as Resolution No. HR00079 on 1996-10-07"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jalosjos, Romeo Jr. M."
+coAuthors = [ "OSMEÑA, JOHN HENRY R.", "CARLOTO, ANGEL M.",]
+[[authorsDetail]]
+name = "Jalosjos, Romeo Jr. M."
+nameCode = "Jalosjos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "OSMEÑA, JOHN HENRY R."
+nameCode = "Osmeña"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CARLOTO, ANGEL M."
+nameCode = "Carloto"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117938
+congress = 10
+bill_no = "HR00884"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-07"
+
+[secondReading]
+id = 19000
+congress = 10
+bill_no = "HR00884"
+adopted_resolution = "HR00079"
+date_calendared = "1996-10-07"
+date_approved = "1996-10-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00079.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00079.pdf"

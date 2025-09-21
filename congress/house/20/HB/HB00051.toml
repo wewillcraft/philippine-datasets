@@ -1,0 +1,54 @@
+billNumber = "HB00051"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00051"
+lastScraped = "2025-09-21T23:39:48.306436"
+title = "HB00051"
+longTitle = "AN ACT EXCLUDING NON-COMMERCIAL DOCUMENTS FROM THE IMPOSITION OF DOCUMENTARY STAMP TAX, AMENDING SECTIONS 173, 185, 189, 190, 191, 193, AND 196 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on WAYS AND MEANS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00051.pdf"
+fileSize = 158960
+author = "SALCEDA, ADRIAN E."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "SALCEDA, ADRIAN E."
+nameCode = "Salceda"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 52
+congress = 103
+bill_no = "HB00051"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

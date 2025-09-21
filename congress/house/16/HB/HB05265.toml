@@ -1,0 +1,61 @@
+billNumber = "HB05265"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05265"
+lastScraped = "2025-09-21T23:56:22.502768"
+title = "HB05265"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 10606 OTHERWISE KNOWN AS THE 'NATIONAL HEALTH INSURANCE ACT OF 2013', AMENDING REPUBLIC ACT NO. 7875, OTHERWISE KNOWN AS THE 'NATIONAL HEALTH INSURANCE ACT OF 1995', AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2014-12-04"
+status = "Pending with the Committee on HEALTH since 2014-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05265.pdf"
+fileSize = 334292
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "ESPINA, ROGELIO JIMENEZ", "LOYOLA, ROY MAULANIN",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2014-12-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPINA, ROGELIO JIMENEZ"
+nameCode = "Espina"
+date = "2015-02-09"
+journalNo = "J046"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY MAULANIN"
+nameCode = "Loyola"
+date = "2015-09-28"
+journalNo = "J026"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2014-12-10"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 51079
+congress = 16
+bill_no = "HB05265"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-12-10"

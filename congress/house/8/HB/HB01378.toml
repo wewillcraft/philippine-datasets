@@ -1,0 +1,70 @@
+billNumber = "HB01378"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01378"
+lastScraped = "2025-09-22T00:46:56.805712"
+title = "HB01378"
+longTitle = "AN ACT TO ESTABLISH A PENAL/REHABILIT ATION COLONY IN REGION 7 AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-11"
+status = "Approved on Third Reading on 1990-07-24"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bacaltos"
+[[authorsDetail]]
+name = "Bacaltos"
+nameCode = "Bacaltos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-09-16"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 136074
+congress = 8
+bill_no = "HB01378"
+report = "00147"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-09-16"
+date_ob = "1988-06-01"
+date_cal = "1988-06-01"
+date_unass = "1988-06-01"
+date_report = "1988-05-09"
+
+[secondReading]
+id = 20391
+congress = 8
+bill_no = "HB01378"
+reasons = "Reconsider ation of the approval on Second Reading and Third Reading"
+recommended_reconsidered = "1"
+date_recommended_reconsidered = "1990-08-09"
+date_calendared = "1988-06-06"
+date_approved = "1990-05-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 173
+congress = 8
+bill_no = "HB01378"
+date_dist = "1990-06-04"
+date_adopt = "1990-07-24"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0

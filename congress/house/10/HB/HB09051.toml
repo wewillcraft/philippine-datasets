@@ -1,0 +1,46 @@
+billNumber = "HB09051"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09051"
+lastScraped = "2025-09-22T00:20:59.088748"
+title = "HB09051"
+longTitle = "AN ACT TO ESTABLISH AN INFORMATION TECHNOLOGY TRAINING CENTER AT THE KALINGA-APAYAO STATE COLLEGE"
+scope = "Local"
+dateFiled = "1997-03-05"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1997-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1997-03-10"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115472
+congress = 10
+bill_no = "HB09051"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1997-03-10"

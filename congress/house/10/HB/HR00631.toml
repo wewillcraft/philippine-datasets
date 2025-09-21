@@ -1,0 +1,42 @@
+billNumber = "HR00631"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00631"
+lastScraped = "2025-09-22T00:20:59.541543"
+title = "HR00631"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON EDUCATION AND CULTURE TO INVESTIGATE, IN AID OF LEGISLATION, THE CRITERIA/POLICI ES BEING FOLLOWED IN THE ESTABLISHMENT OF COLLEGES AND COURSES BY THE COMMISSION ON HIGHER EDUCATION IN THE PARTICULAR CASE OF THEDEFUNCT NORTHERN PANAY TEACHERS COLLEGE IN AKLAN"
+scope = "Local"
+dateFiled = "1996-05-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117685
+congress = 10
+bill_no = "HR00631"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Education and Culture on May 27, 1996."
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-05-27"

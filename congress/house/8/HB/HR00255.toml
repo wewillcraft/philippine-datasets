@@ -1,0 +1,42 @@
+billNumber = "HR00255"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00255"
+lastScraped = "2025-09-22T00:47:02.575820"
+title = "HR00255"
+longTitle = "RESOLUTION CREATING AN AD-HOC COMMITTEE, IN AID OF LEGISLATION, TO CONDUCT AN INQUIRY ON THE POSSIBLE INVOLVEMENT OF SOME EXTREME RIGHTISTS IN THE USAND THE CIA IN THE RECENT AUGUST 28 MUTINY"
+scope = "National"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on RULES since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170155
+congress = 8
+bill_no = "HR00255"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1987-09-07"

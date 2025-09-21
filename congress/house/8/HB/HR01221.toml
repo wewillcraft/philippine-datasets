@@ -1,0 +1,50 @@
+billNumber = "HR01221"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01221"
+lastScraped = "2025-09-22T00:47:02.771906"
+title = "HR01221"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ALLEGED REFUSAL OF HOSPITALS TO GIVE MEDICAL ATTENTION TO INDIVIDUALS IN EMERGENCY CASES NEEDING IMMEDIATE MEDICAL ATTENTION FOR IN ABILITY TO PAY A DEPOSIT"
+scope = "National"
+dateFiled = "1989-03-16"
+status = "Pending with the Committee on HEALTH since 1989-04-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "PAYUMO, FELICITO C.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PAYUMO, FELICITO C."
+nameCode = "Payumo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-04-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171093
+congress = 8
+bill_no = "HR01221"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-04-12"

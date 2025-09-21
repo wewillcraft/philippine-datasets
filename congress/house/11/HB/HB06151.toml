@@ -1,0 +1,46 @@
+billNumber = "HB06151"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB06151"
+lastScraped = "2025-09-22T00:23:16.731029"
+title = "HB06151"
+longTitle = "AN ACT ESTABLISHING A METROPOLITAN MANILA JAIL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-12-17"
+status = "Pending with the Committee on JUSTICE since 1999-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1999-01-18"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 97586
+congress = 11
+bill_no = "HB06151"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1999-01-18"

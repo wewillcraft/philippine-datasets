@@ -1,0 +1,66 @@
+billNumber = "HCR0036"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HCR0036"
+lastScraped = "2025-09-22T00:47:02.514365"
+title = "HCR0036"
+longTitle = "CONCURRENT RESOLUTION GIVING CONSENT TO THE HONORABLE RODOLFO A. ARIZALA TO ACCEPT THE DECORATION KNOWN AS 'ORDER AL MERITO DE CHILE EN EL GRADO DE GRAN CRUZ' CONFERRED UPON HIM BY THE GOVERNMENT OF CHILE"
+scope = "Local"
+dateFiled = "1989-10-17"
+status = "Approved by the House on , transmitted to on 1990-04-10 and received by the Senate on 1990-05-04"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1989-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 169865
+congress = 8
+bill_no = "HCR0036"
+report = "01027"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = "CIVIL SERVICE"
+recomm = "ADOPTION WITHOUT AMENDMENTS"
+date_read = "1989-10-20"
+date_ob = "1990-03-06"
+date_cal = "1990-03-06"
+date_unass = "1990-03-06"
+
+[secondReading]
+id = 21590
+congress = 8
+bill_no = "HCR0036"
+remarks = "Adopted by the House - Pending with the Senate"
+date_approved = "1990-03-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1282
+congress = 8
+bill_no = "HCR0036"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+date_trans = "1990-04-10"
+date_rec = "1990-05-04"

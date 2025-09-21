@@ -1,0 +1,54 @@
+billNumber = "HB01010"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01010"
+lastScraped = "2025-09-21T23:56:21.661179"
+title = "HB01010"
+longTitle = "AN ACT PROVIDING FOR FREE MEDICAL AND DENTAL SERVICES TO INDIGENT CHILDREN, CREATING AN INDIGENT CHILDREN SECTION AND PENALIZING ANY VIOLATION THEREFOR"
+scope = "National"
+dateFiled = "2013-07-03"
+status = "Pending with the Committee on HEALTH since 2013-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01010.pdf"
+fileSize = 208779
+author = "Fortuno, Salvio B."
+coAuthors = [ "ABUEG, FREDERICK F.",]
+[[authorsDetail]]
+name = "Fortuno, Salvio B."
+nameCode = "Fortuno"
+date = "2013-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABUEG, FREDERICK F."
+nameCode = "Abueg"
+date = "2014-07-30"
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 46824
+congress = 16
+bill_no = "HB01010"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-29"

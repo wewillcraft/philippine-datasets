@@ -1,0 +1,42 @@
+billNumber = "HB02026"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02026"
+lastScraped = "2025-09-22T00:46:56.916746"
+title = "HB02026"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT AND EXPANSION OF THE WATER SYSTEM IN THE MUNICIPALITY OF PAMPLONA, PROVINCE OF NEGROS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 136716
+congress = 8
+bill_no = "HB02026"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-30"

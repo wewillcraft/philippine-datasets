@@ -1,0 +1,51 @@
+billNumber = "HB02365"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02365"
+lastScraped = "2025-09-21T23:39:48.768005"
+title = "HB02365"
+longTitle = "AN ACT PROVIDING FOR EDUCATIONAL ASSISTANCE TO THE CHILDREN AND DEPENDENTS OF FARMERS AND FISHERFOLK, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-28"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02365.pdf"
+fileSize = 7855877
+author = "LEGACION, NELSON S."
+[[authorsDetail]]
+name = "LEGACION, NELSON S."
+nameCode = "Legacion"
+date = "2025-07-28"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 2366
+congress = 103
+bill_no = "HB02365"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

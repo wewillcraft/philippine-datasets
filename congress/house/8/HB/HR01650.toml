@@ -1,0 +1,42 @@
+billNumber = "HR01650"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01650"
+lastScraped = "2025-09-22T00:47:02.862585"
+title = "HR01650"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO STUDY THE MATTER OF THE CONVERSION OF AGRICULTURAL LANDS TO RESIDENTIAL, COMMERCIAL AND INDUSTRIAL LANDS, IN AID OF LEGISLATION"
+scope = "National"
+dateFiled = "1990-02-06"
+status = "Pending with the Committee on AGRARIAN REFORM since 1990-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "502"
+dateRead = "1990-02-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171495
+congress = 8
+bill_no = "HR01650"
+referral = "502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1990-02-06"

@@ -1,0 +1,42 @@
+billNumber = "HR01599"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01599"
+lastScraped = "2025-09-22T00:47:02.855097"
+title = "HR01599"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE TO INVESTIGATE AND ASCERTAIN THE EXTENT OF DAMAGE TO PUBLIC AND PRIVATE BUILDINGS, INSTALLATIONS, AND OTHER PROPERTIES WITH THE PURPOSE OF APPROPRIATING THE NECESSARY AMOUNT FOR REPARATION"
+scope = "National"
+dateFiled = "1989-12-11"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1989-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1989-12-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171446
+congress = 8
+bill_no = "HR01599"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1989-12-11"

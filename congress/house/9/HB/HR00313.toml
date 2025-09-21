@@ -1,0 +1,42 @@
+billNumber = "HR00313"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00313"
+lastScraped = "2025-09-22T00:25:57.422925"
+title = "HR00313"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON FOREIGN AFFAIRS AND NATIONAL DEFENSE TO CONDUCT A GENERAL REVIEW, IN AID OF LEGISLATION, ON THE MERIT OF THE MUTUAL DEFENSE TREATY BETWEEN THE REPUBLIC OF THE PHILIPPINES AND THE UNITED STATES OF AMERICA, AFTERTHE PHILIPPINE SENATE REJECTED THE TREATY OF FRIENDSHIP, COOPERATION, AND SECURITY LAST SEPTEMBER 16, 1991"
+scope = "National"
+dateFiled = "1992-11-06"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1992-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1992-11-11"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 133625
+congress = 9
+bill_no = "HR00313"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1992-11-11"

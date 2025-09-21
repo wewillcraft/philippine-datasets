@@ -1,0 +1,47 @@
+billNumber = "HB01349"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01349"
+lastScraped = "2025-09-22T00:25:54.837065"
+title = "HB01349"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF COMPOSTELA, PROVINCE OF DAVAO, TO BE KNOWN AS THE COMPOSTELA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "Pending with the Committee on HEALTH since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119968
+congress = 9
+bill_no = "HB01349"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-26"

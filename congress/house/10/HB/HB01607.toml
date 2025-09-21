@@ -1,0 +1,69 @@
+billNumber = "HB01607"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01607"
+lastScraped = "2025-09-22T00:20:57.649869"
+title = "HB01607"
+longTitle = "AN ACT DECLARING AS ALIENABLE AND DISPOSABLE THE BATHING ESTABLISHMENT LOCATED AT SITIO OF NATANGKO ISLET BARANGAY OF SILANGAN, MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE"
+scope = "Local"
+dateFiled = "1995-08-01"
+status = "Approved by the House on 1996-02-20, transmitted to on 1996-02-21 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 108028
+congress = 10
+bill_no = "HB01607"
+report = "00148"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "approval with amendments"
+date_read = "1995-08-03"
+date_ob = "1996-01-29"
+date_report = "1996-01-26"
+
+[secondReading]
+id = 17814
+congress = 10
+bill_no = "HB01607"
+reasons = "To introduce some Committee Amendments ."
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1996-02-01"
+date_approved = "1996-02-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2434
+congress = 10
+bill_no = "HB01607"
+date_dist = "1996-02-07"
+date_adopt = "1996-02-20"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-02-21"
+date_rec = "1996-02-29"

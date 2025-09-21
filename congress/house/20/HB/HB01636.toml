@@ -1,0 +1,46 @@
+billNumber = "HB01636"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01636"
+lastScraped = "2025-09-21T23:39:48.619078"
+title = "HB01636"
+longTitle = "AN ACT ESTABLISHING A NATIONAL ENERGY POLICY AND REGULATORY FRAMEWORK FOR FACILITIES UTILIZING WASTE-TO-ENERGY TECHNOLOGIES"
+scope = "National"
+dateFiled = "2025-07-09"
+status = "Pending with the Committee on ENERGY since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01636.pdf"
+fileSize = 9743005
+author = "MARCOLETA, PAOLO HENRY M."
+[[authorsDetail]]
+name = "MARCOLETA, PAOLO HENRY M."
+nameCode = "Marcoleta"
+date = "2025-07-09"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 1637
+congress = 103
+bill_no = "HB01636"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

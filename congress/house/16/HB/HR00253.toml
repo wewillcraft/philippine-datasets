@@ -1,0 +1,47 @@
+billNumber = "HR00253"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00253"
+lastScraped = "2025-09-21T23:56:22.843781"
+title = "HR00253"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE SUPERVISION AND REGULATION OF PHILIPPINE WATER TRANSPORT OPERATIONS BY THE MARITIME INDUSTRY AUTHORITY (MARINA) AND THE PHILIPPINE COAST GUARD, AND URGING THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATION TO CANCEL THE FRANCHISE OF THE COMPANY PROVEN GUILTY IN THE AUGUST 17, 2013 SHIPPING MISHAP"
+scope = "National"
+dateFiled = "2013-09-03"
+status = "Pending with the Committee on TRANSPORTATION since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00253.pdf"
+fileSize = 321226
+author = "RIDON, TERRY L."
+[[authorsDetail]]
+name = "RIDON, TERRY L."
+nameCode = "Ridon"
+date = "2013-09-03"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-09-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 52652
+congress = 16
+bill_no = "HR00253"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-09-09"

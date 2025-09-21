@@ -1,0 +1,47 @@
+billNumber = "HR00395"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00395"
+lastScraped = "2025-09-21T23:56:22.868852"
+title = "HR00395"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SAFETY TO INVESTIGATE, IN AID OF LEGISLATION, THE MULTIPLE-VEHICLE COLLISION IN ATIMONAN, QUEZON PROVINCE THAT KILLED SEVERAL PEOPLE AND SERIOUSLY INJURED MANY PASSENGERS TO DETERMINE WHAT CORRECTIVE MEASURES SHOULD BE PUT IN PLACE TO PREVENT SIMILAR TRAGEDIES IN THE FUTURE"
+scope = "National"
+dateFiled = "2013-10-21"
+status = "Pending with the Committee on TRANSPORTATION since 2013-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00395.pdf"
+fileSize = 253719
+author = "Tan, Angelina"
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2013-10-21"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-11-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52794
+congress = 16
+bill_no = "HR00395"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-12-09"
+date_read = "2013-11-18"

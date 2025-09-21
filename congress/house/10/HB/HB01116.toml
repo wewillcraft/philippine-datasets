@@ -1,0 +1,66 @@
+billNumber = "HB01116"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01116"
+lastScraped = "2025-09-22T00:20:57.565756"
+title = "HB01116"
+longTitle = "AN ACT DECLARING BARANGAY DAJA IN THE MUNICIPALITY OF MAASIN, PROVINCE OF ILOILO, AS A SPECIAL TOURIST SPOT"
+scope = "Local"
+dateFiled = "1995-07-20"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 107537
+congress = 10
+bill_no = "HB01116"
+report = "00809"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-07-31"
+date_ob = "1997-03-04"
+date_report = "1997-03-03"
+
+[secondReading]
+id = 17743
+congress = 10
+bill_no = "HB01116"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2365
+congress = 10
+bill_no = "HB01116"
+date_dist = "1997-03-17"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"

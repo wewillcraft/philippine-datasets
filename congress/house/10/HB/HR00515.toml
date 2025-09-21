@@ -1,0 +1,41 @@
+billNumber = "HR00515"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00515"
+lastScraped = "2025-09-22T00:20:59.520009"
+title = "HR00515"
+longTitle = "RESOLUTION COMMENDING MR. LUISITO ESPINOSA FOR SUCCESSFULLY DEFENDING THE WBC FEATHERWEIGHT TITLE, ONLY WORLD BOXING TITLE HELD BY THE PHILIPPINES, LAST MARCH 3, 1996 AT GUADALAJARA, MEXICO"
+scope = "National"
+dateFiled = "1996-03-04"
+status = "Pending with the Committee on RULES since 1996-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-03-07"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 117569
+congress = 10
+bill_no = "HR00515"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-03-07"

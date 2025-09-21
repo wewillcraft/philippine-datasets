@@ -1,0 +1,47 @@
+billNumber = "HB04385"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04385"
+lastScraped = "2025-09-22T00:25:55.419488"
+title = "HB04385"
+longTitle = "AN ACT PROVIDING FOR THE CREATION OF A PLAYGROUND IN THE POBLACION AREA, MUNICIPALITY OF LOON, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Borja-agana"
+[[authorsDetail]]
+name = "Borja-agana"
+nameCode = "Borja-agana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123004
+congress = 9
+bill_no = "HB04385"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-09"

@@ -1,0 +1,60 @@
+billNumber = "HB06447"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06447"
+lastScraped = "2025-09-21T23:56:22.771831"
+title = "Converting The Municipality Of Sto. Tomas In The Province Of Batangas Into A Component City To Be Known As The City Of Sto. Tomas"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF STO. TOMAS IN THE PROVINCE OF BATANGAS INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF STO. TOMAS"
+scope = "Local"
+dateFiled = "2016-02-03"
+status = "Pending With Rules (Included in OB on 2016-05-23)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Collantes, Sonny P."
+[[authorsDetail]]
+name = "Collantes, Sonny P."
+nameCode = "Collantes"
+date = "2016-02-03"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-05-23"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HB04453"
+sequence = 1
+date = "2016-02-03"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04453"
+sequence = 1
+date = "2016-02-03"
+flag = "S"
+
+[firstReading]
+id = 52261
+congress = 16
+bill_no = "HB06447"
+report = "01026"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+remarks = ""
+date_read = "2016-05-23"
+date_ob = "2016-05-23"
+date_report = "2016-02-03"

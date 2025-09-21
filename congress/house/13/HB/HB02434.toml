@@ -1,0 +1,57 @@
+billNumber = "HB02434"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02434"
+lastScraped = "2025-09-22T00:13:48.280316"
+title = "HB02434"
+longTitle = "AN ACT ESTABLISHING THE LAND TRANSPORTATION OFFICE IN THE CITY OF SAN JOSE DEL MONTE, BULACAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2004-08-16"
+status = "Pending with the Committee on TRANSPORTATION since 2005-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02434.pdf"
+fileSize = 876421
+author = "Roquero, Eduardo V. , M.D."
+[[authorsDetail]]
+name = "Roquero, Eduardo V. , M.D."
+nameCode = "Roquero"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2004-08-23"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 77524
+congress = 13
+bill_no = "HB02434"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-01-12"
+date_read = "2004-08-23"

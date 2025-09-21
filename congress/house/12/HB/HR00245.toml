@@ -1,0 +1,42 @@
+billNumber = "HR00245"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00245"
+lastScraped = "2025-09-22T00:13:01.192001"
+title = "HR00245"
+longTitle = "RESOLUTION URGING CONGRESS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ALLEGED DESTRUCTION OF MORE THAN FOUR HUNDRED TWENTY (420) KILOS OF HIGH-GRADE METHAMPHETAMINE HYDROCHLORIDE OR `SHABU' SEIZED IN BARANGAY BAYAMBANG, INFANTA, PANGASINAN"
+scope = "Local"
+dateFiled = "2001-10-09"
+status = "Pending with the Committee on RULES since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 90184
+congress = 12
+bill_no = "HR00245"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-10-15"

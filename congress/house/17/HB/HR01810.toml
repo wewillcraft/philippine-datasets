@@ -1,0 +1,47 @@
+billNumber = "HR01810"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01810"
+lastScraped = "2025-09-21T23:55:46.599871"
+title = "HR01810"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON ENERGY OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE CONTINUING OIL PRICE HIKE SINCE THE START OF THE YEAR MADE BY OIL COMPANIES"
+scope = "National"
+dateFiled = "2018-04-04"
+status = "Referred to Stakeholders on 2018-06-20"
+statusOrder = 4.01
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01810.pdf"
+fileSize = 391297
+author = "Uybarreta, Carlos Roman"
+[[authorsDetail]]
+name = "Uybarreta, Carlos Roman"
+nameCode = "Uybarreta"
+date = "2018-04-04"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2018-05-15"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 44552
+congress = 17
+bill_no = "HR01810"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-05-23"
+date_read = "2018-05-15"

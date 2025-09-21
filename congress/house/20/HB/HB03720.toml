@@ -1,0 +1,61 @@
+billNumber = "HB03720"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03720"
+lastScraped = "2025-09-21T23:39:49.002123"
+title = "HB03720"
+longTitle = "AN ACT PROVIDING MEASURES TO PROTECT INDIVIDUALS ENGAGED IN FOOD, GROCERY AND PHARMACY DELIVERY SERVICES"
+scope = "National"
+dateFiled = "2025-08-13"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2025-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB03720.pdf"
+fileSize = 303112
+author = "POE, BRIAN"
+coAuthors = [ "SAN FERNANDO, ELIJAH RUMBAOA", "VILLAFUERTE, VINCENZO RENATO LUIGI R.",]
+[[authorsDetail]]
+name = "POE, BRIAN"
+nameCode = "Poe"
+date = "2025-08-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAN FERNANDO, ELIJAH RUMBAOA"
+nameCode = "San Fernando"
+date = "2025-09-02"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAFUERTE, VINCENZO RENATO LUIGI R."
+nameCode = "Villafuerte (V. R. L. R.)"
+date = "2025-09-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2025-08-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 3721
+congress = 103
+bill_no = "HB03720"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-18"

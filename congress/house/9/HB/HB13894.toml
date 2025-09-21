@@ -1,0 +1,42 @@
+billNumber = "HB13894"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13894"
+lastScraped = "2025-09-22T00:25:57.166418"
+title = "HB13894"
+longTitle = "AN ACT ESTABLISHING A CONVENTION CENTER IN THE CITY OF PALAYAN, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-10-04"
+status = "Pending with the Committee on TOURISM since 1994-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-10-06"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132503
+congress = 9
+bill_no = "HB13894"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-10-06"

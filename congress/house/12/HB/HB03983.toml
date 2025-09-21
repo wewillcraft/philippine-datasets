@@ -1,0 +1,55 @@
+billNumber = "HB03983"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03983"
+lastScraped = "2025-09-22T00:13:00.515936"
+title = "HB03983"
+longTitle = "AN ACT CREATING THE PANAY DEVELOPMENT AUTHORITY, DEFINING ITS POWER AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-11-28"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2001-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2001-12-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87143
+congress = 12
+bill_no = "HB03983"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2001-12-04"

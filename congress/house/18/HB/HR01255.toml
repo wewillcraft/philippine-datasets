@@ -1,0 +1,89 @@
+billNumber = "HR01255"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01255"
+lastScraped = "2025-09-22T00:01:47.580605"
+title = "HR01255"
+longTitle = "RESOLUTION\r\n\r\nURGING PRESIDENT RODRIGO ROA DUTERTE, THROUGH THE INTER-\r\nAGENCY TASK FORCE (IATF) FOR THE MANAGEMENT OF EMERGING\r\nINFECTIOUS DISEASES AND THE DEPARTMENT OF EDUCATION, TO\r\nALLOW THE CONDUCT OF “FACE-TO-FACE” CLASSES IN THE PROVINCE\r\nOF BATANES WHICH IS A LOW-RISK AND COVID-FREE PROVINCE"
+scope = "National"
+dateFiled = "2020-09-25"
+status = "Adopted as Resolution No. HR00117 on 2020-11-16"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+[[authorsDetail]]
+name = "GATO, CIRIACO B., JR., MD, FPSO-HNS"
+nameCode = "Gato"
+date = "2020-09-25"
+sequence = 1
+
+[[authorsDetail]]
+name = "ROMULO, ROMAN T."
+nameCode = "Romulo"
+date = "2020-09-25"
+sequence = 2
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2020-09-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01057"
+sequence = 1
+date = "2020-09-25"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01057"
+sequence = 1
+date = "2020-09-25"
+flag = "S"
+
+[firstReading]
+id = 31574
+congress = 18
+bill_no = "HR01255"
+report = "00531"
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = "BASIC EDUCATION AND CULTURE"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1057"
+remarks = ""
+file = "CR00531.pdf"
+date_read = "2020-09-28"
+date_ob = "2020-09-28"
+date_report = "2020-09-25"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00531.pdf"
+
+[secondReading]
+id = 2353
+congress = 18
+bill_no = "HR01255"
+adopted_resolution = "HR00117"
+adopted_resolution_title = "RESOLUTION URGING PRESIDENT RODRIGO ROA DUTERTE, THROUGH THE INTER- AGENCY TASK FORCE (IATF) FOR THE MANAGEMENT OF EMERGING INFECTIOUS DISEASES AND THE DEPARTMENT OF EDUCATION, TO ALLOW THE CONDUCT OF “FACE-TO-FACE” CLASSES IN THE PROVINCE OF BATANES WHICH IS A LOW-RISK AND COVID-FREE PROVINCE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2020-10-14"
+date_approved = "2020-11-16"
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01255.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01255.pdf"

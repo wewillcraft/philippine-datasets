@@ -1,0 +1,67 @@
+billNumber = "HB01902"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01902"
+lastScraped = "2025-09-22T00:20:57.704122"
+title = "HB01902"
+longTitle = "AN ACT CREATING A NATIONAL SEAMEN ADMINISTRATION, PRESCRIBING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+coAuthors = [ "GONZALEZ, RAUL M.", "MARAÑON, ALFREDO G.",]
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, RAUL M."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MARAÑON, ALFREDO G."
+nameCode = "Marañon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 108323
+congress = 10
+bill_no = "HB01902"
+comm_act = "- joint referral as per J. 23 (Sept. 19, 1995); p. 43"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-08-09"

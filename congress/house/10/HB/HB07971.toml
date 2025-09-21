@@ -1,0 +1,97 @@
+billNumber = "HB07971"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07971"
+lastScraped = "2025-09-22T00:20:58.875486"
+title = "HB07971"
+longTitle = "AN ACT ESTABLISHING AN 'ADOPT-A-SCHOOL PROGRAM,' PROVIDING INCENTIVES THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-09-23"
+status = "REPUBLIC ACT (RA08525) enacted on 1998-02-14"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Periquet"
+coAuthors = [ "SEACHON, FAUSTO JR. L.", "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Periquet"
+nameCode = "Periquet"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SEACHON, FAUSTO JR. L."
+nameCode = "Seachon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-09-25"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HB08889"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08889"
+flag = "S"
+
+[firstReading]
+id = 114392
+congress = 10
+bill_no = "HB07971"
+report = "01381"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1996-09-25"
+date_ob = "1997-12-18"
+date_report = "1997-12-18"
+
+[secondReading]
+id = 18546
+congress = 10
+bill_no = "HB07971"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3139
+congress = 10
+bill_no = "HB07971"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+remarks = "Consolidated with SB01827"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_agram = "1998-02-06"
+amend_ind = "Y"
+act_pres = "A"
+dte_actedp = "1998-02-14"

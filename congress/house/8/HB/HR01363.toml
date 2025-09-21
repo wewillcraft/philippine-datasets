@@ -1,0 +1,42 @@
+billNumber = "HR01363"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01363"
+lastScraped = "2025-09-22T00:47:02.798555"
+title = "HR01363"
+longTitle = "RESOLUTION AUTHORIZING A JOINT INQUIRY, IN AID OF LEGISLATION, BY THE COMMITTEES ON ECONOMIC AFFAIRS, FOREIGN RELATIONS AND NATIONAL DEFENSE AND SECURITY INTO THE POLITICAL, ECONOMIC AND NATIONAL SECURITY IMPLICATIONS OF THE PROPOSED PHILIPPINE AIRPLAN (PAP)"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "536"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171231
+congress = 8
+bill_no = "HR01363"
+referral = "536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1989-07-25"

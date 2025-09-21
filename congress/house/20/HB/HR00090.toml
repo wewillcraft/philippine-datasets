@@ -1,0 +1,45 @@
+billNumber = "HR00090"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00090"
+lastScraped = "2025-09-21T23:39:49.211542"
+title = "HR00090"
+longTitle = "A RESOLUTION URGING BOTH CHAMBERS OF CONGRESS TO OPEN BICAMERAL CONFERENCE COMMITTEE HEARINGS TO THE PUBLIC IN THE INTEREST OF FISCAL TRANSPARENCY AND GOOD GOVERNANCE"
+dateFiled = "2025-07-30"
+status = "Pending with the Committee on APPROPRIATIONS since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00090.pdf"
+fileSize = 416582
+author = "HERNANDEZ, CHARISSE ANNE C."
+[[authorsDetail]]
+name = "HERNANDEZ, CHARISSE ANNE C."
+nameCode = "Hernandez (C. A.)"
+date = "2025-07-30"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 4646
+congress = 103
+bill_no = "HR00090"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

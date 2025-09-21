@@ -1,0 +1,51 @@
+billNumber = "HB05076"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05076"
+lastScraped = "2025-09-21T23:55:20.964478"
+title = "HB05076"
+longTitle = "AN ACT PROMOTING INTEGRATED URBAN AGRICULTURE IN URBAN AREAS NATIONWIDE TO ADDRESS FOOD SECURITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-09-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05076.pdf"
+fileSize = 448795
+author = "YAP, ERIC GO"
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (ERIC)"
+date = "2022-09-21"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-09-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 9995
+congress = 19
+bill_no = "HB05076"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-23"

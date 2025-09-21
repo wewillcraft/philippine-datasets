@@ -1,0 +1,60 @@
+billNumber = "HB05277"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05277"
+lastScraped = "2025-09-22T00:13:48.895839"
+title = "\\\"Free Medical Assistance Act of 2006\\\""
+longTitle = "AN ACT ESTABLISHING A FREE MEDICINE ASSISTANCE PROGRAM FOR THE POOR AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2006-02-20"
+status = "Pending with the Committee on HEALTH since 2006-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05277.pdf"
+fileSize = 1587608
+author = "Marcoleta, Rodante D."
+coAuthors = [ "NANTES, RAFAEL P.",]
+[[authorsDetail]]
+name = "Marcoleta, Rodante D."
+nameCode = "Marcoleta"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NANTES, RAFAEL P."
+nameCode = "Nantes"
+date = ""
+journalNo = "J019"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2006-02-22"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 80367
+congress = 13
+bill_no = "HB05277"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-02-22"
+date_read = "2006-02-22"

@@ -1,0 +1,51 @@
+billNumber = "HR01666"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01666"
+lastScraped = "2025-09-22T00:01:47.657016"
+title = "HR01666"
+longTitle = "RESOLUTION DIRECTING   THE   COMMITTEE   ON   GOOD   GOVERNMENT   AND   PUBLIC ACCOUNTABILITY TO CONDUCT  AN  INQUIRY,   IN   AID OF LEGISLATION, ON THE CLOSURE OF INSULAR PRISON ROAD IN THE NEW BILIBID PRISON RESERVATION BY THE BUREAU OF CORRECTIONS"
+scope = "National"
+dateFiled = "2021-03-22"
+status = "Pending With Rules (Included in OB on 2022-05-23)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01666.pdf"
+fileSize = 1504839
+author = "Biazon, Rozzano Rufino B."
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2021-03-22"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2021-03-22"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 31984
+congress = 18
+bill_no = "HR01666"
+report = "01462"
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "Informing the House of its findings and recommendations"
+remarks = ""
+file = "CR01462.pdf"
+date_pend = "2021-05-18"
+date_read = "2021-03-22"
+date_ob = "2022-05-23"
+date_report = "2022-03-24"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR01462.pdf"

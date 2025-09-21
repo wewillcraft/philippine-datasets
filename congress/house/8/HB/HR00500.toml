@@ -1,0 +1,48 @@
+billNumber = "HR00500"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00500"
+lastScraped = "2025-09-22T00:47:02.621937"
+title = "HR00500"
+longTitle = "RESOLUTION GRANTING INCENTIVE PAY AND OTHER BENEFITS TO OFFICERS AND EMPLOYEES OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1987-11-18"
+status = "Pending with the Committee on ACCOUNTS since 1987-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco"
+[[authorsDetail]]
+name = "Cuenco"
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "501"
+dateRead = "1987-11-18"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 170389
+congress = 8
+bill_no = "HR00500"
+report = "00050"
+referral = "501"
+ref_name = "ACCOUNTS"
+sub_name = "ACCOUNTS"
+recomm = "Approval"
+date_read = "1987-11-18"
+date_ob = "1987-11-23"
+date_cal = "1987-11-23"
+date_unass = "1987-11-23"
+date_report = "1987-11-19"

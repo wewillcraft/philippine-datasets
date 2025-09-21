@@ -1,0 +1,42 @@
+billNumber = "HR00323"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00323"
+lastScraped = "2025-09-22T00:47:02.589857"
+title = "HR00323"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON NATURAL RESOURCES AND LABOR TO CONDUCT A PUBLIC HEARING, IN AID OF LEGISLATION, INTO THE MURO AMI FISHING OPERATION IN THE COUNTRY"
+scope = "National"
+dateFiled = "1987-09-17"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-09-22"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 170222
+congress = 8
+bill_no = "HR00323"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-09-22"

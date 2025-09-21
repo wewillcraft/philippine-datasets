@@ -1,0 +1,89 @@
+billNumber = "HR00178"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00178"
+lastScraped = "2025-09-22T00:20:59.455819"
+title = "HR00178"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE FRANCISCO L. BENEDICTO TO ACCEPT THE ORDER OF DIPLOMATIC MERIT (\"KWANG HWA CHANG\") AWARDED TO HIM BY THE GOVERNMENT OF REPUBLIC OF KOREA"
+scope = "Local"
+dateFiled = "1995-09-08"
+status = "Adopted as Resolution No. HR00050 on 1996-06-08"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "DEL MAR, RAUL V.", "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[motherBills]]
+bill_no = "HCR0010"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00186"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HCR0010"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00186"
+flag = "S"
+
+[firstReading]
+id = 117232
+congress = 10
+bill_no = "HR00178"
+report = "00178"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+recomm = "Adoption in consolidat ion with House Resolution No. 186 and House Concurrent Resolutio n No. 10."
+date_read = "1995-09-18"
+date_ob = "1995-12-07"
+date_unass = "1995-12-18"
+date_report = "1995-12-05"
+
+[secondReading]
+id = 18933
+congress = 10
+bill_no = "HR00178"
+adopted_resolution = "HR00050"
+date_calendared = "1996-06-08"
+date_approved = "1996-06-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00050.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00050.pdf"

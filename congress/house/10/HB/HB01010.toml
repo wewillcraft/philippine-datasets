@@ -1,0 +1,82 @@
+billNumber = "HB01010"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01010"
+lastScraped = "2025-09-22T00:20:57.546769"
+title = "HB01010"
+longTitle = "AN ACT GRANTING ASSISTANCE AND SCHOLARSHIP TO THE FAMILY OF MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES AND THE PHILIPPINE NATIONAL POLICE WHO DIE IN LINE OF DUTY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-17"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "DEL MAR, RAUL V.", "BAGATSING, RAMON JR. S.", "DRAGON, RENATO P.", "AVILA, EDGAR M.", "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107431
+congress = 10
+bill_no = "HB01010"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-27"

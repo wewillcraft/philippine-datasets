@@ -1,0 +1,70 @@
+billNumber = "HB04827"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04827"
+lastScraped = "2025-09-21T23:56:22.407186"
+title = "HB04827"
+longTitle = "AN ACT CONVERTING THE WESTERN VISAYAS MEDICAL CENTER INTO A GOVERNMENT-OWNED AND CONTROLLED HOSPITAL CORPORATION, INTEGRATING THEREWITH THE SAN JOAQUIN MUNICIPAL HOSPITAL"
+scope = "Local"
+dateFiled = "2014-08-06"
+status = "Pending With Rules (Included in OB on 2014-08-06)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin, Oscar \"Richard\" Jr. S."
+coAuthors = [ "ERIGUEL, EUFRANIO \"FRANNY\" C. M.D.",]
+[[authorsDetail]]
+name = "Garin, Oscar \"Richard\" Jr. S."
+nameCode = "Garin (O.)"
+date = "2014-08-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ERIGUEL, EUFRANIO \"FRANNY\" C. M.D."
+nameCode = "Eriguel"
+date = "2014-08-06"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-08-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[motherBills]]
+bill_no = "HB02147"
+sequence = 1
+date = "2014-08-06"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02147"
+sequence = 1
+date = "2014-08-06"
+flag = "S"
+
+[firstReading]
+id = 50641
+congress = 16
+bill_no = "HB04827"
+report = "00372"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "HEALTH"
+recomm = "Approval in substitution of House Bill No.2147"
+remarks = ""
+file = "CR00372.pdf"
+date_read = "2014-08-06"
+date_ob = "2014-08-06"
+date_report = "2014-08-06"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00372.pdf"

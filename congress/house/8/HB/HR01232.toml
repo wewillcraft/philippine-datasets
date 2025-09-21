@@ -1,0 +1,42 @@
+billNumber = "HR01232"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01232"
+lastScraped = "2025-09-22T00:47:02.773427"
+title = "HR01232"
+longTitle = "RESOLUTION URGING HEADS OF LOCAL GOVERNMENT UNITSTO BE MORE VIGILANT IN ENFORCING LAWS REGARDING LEWD SHOWS AND PROSTITUTION"
+scope = "National"
+dateFiled = "1989-04-06"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1989-04-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1989-04-13"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 171103
+congress = 8
+bill_no = "HR01232"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1989-04-13"

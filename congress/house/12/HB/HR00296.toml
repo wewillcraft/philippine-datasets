@@ -1,0 +1,59 @@
+billNumber = "HR00296"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00296"
+lastScraped = "2025-09-22T00:13:01.203846"
+title = "Alleged Hounding Tactics Employed by the Star Group Limited on Local Cable Operators"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEES ON TRANSPORTATION AND COMMUNICATIONS, LEGISLATIVE FRANCHISES AND PUBLIC INFORMATION, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED HOUNDING TACTICS EMPLOYED BY THE STAR GROUP LIMITED ON THE LOCAL CABLE OPERATORS WHICH ARE EXPECTED TO AFFECT THE SUBSCRIBERS"
+scope = "Local"
+dateFiled = "2001-11-20"
+status = "Adopted Resolution (Pending with the committee on TRANSPORTATION AND COMMUNICATIONS since 2001-12-12)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castelo-Daza, Nanette"
+[[authorsDetail]]
+name = "Castelo-Daza, Nanette"
+nameCode = "Castelo-daza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[firstReading]
+id = 90235
+congress = 12
+bill_no = "HR00296"
+report = "00113"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2001-11-26"
+date_report = "2001-12-12"
+
+[secondReading]
+id = 15029
+congress = 12
+bill_no = "HR00296"
+adopted_resolution = "HR00096"
+adopted_resolution_title = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED HOUNDING TACTICS EMPLOYED BY THE STAR GROUP LIMITED ON THE LOCAL CABLE OPERATORS WHICH ARE EXPECTED TO AFFECT THE SUBSCRIBERS"
+date_calendared = "2001-12-12"
+date_approved = "2001-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2001-12-12"
+file = "HR00096.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00096.pdf"

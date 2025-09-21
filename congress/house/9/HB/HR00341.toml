@@ -1,0 +1,47 @@
+billNumber = "HR00341"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00341"
+lastScraped = "2025-09-22T00:25:57.428943"
+title = "HR00341"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND CURRENCIES AND THE COMMITTEE ON GOOD GOVERNMENT TO MAKE AN INQUIRY, IN AID OF LEGISLATION, ON THE ANOMALOUS DBP 'BEHEST SALES' WHEREIN 13 FIRMS WERE SOLD BACK TO FORMER OWNERS"
+scope = "Local"
+dateFiled = "1992-11-12"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1992-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1992-11-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 133653
+congress = 9
+bill_no = "HR00341"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "1992-11-17"

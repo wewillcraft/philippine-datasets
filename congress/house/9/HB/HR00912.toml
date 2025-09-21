@@ -1,0 +1,43 @@
+billNumber = "HR00912"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00912"
+lastScraped = "2025-09-22T00:25:57.533863"
+title = "HR00912"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO IMMEDIATELY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPOSED INCREASE IN WATER RATES IN THE DIFFERENT WATER DISTRICTS IN THE COUNTRY AND TO SUBMIT ITS FINDINGS AND RECOMMENDATIONS TO PROTECT AND SAFEGUARD THE INTERESTS AND WELFARE OF THE PUBLIC CONSUMERS"
+scope = "National"
+dateFiled = "1994-01-25"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1994-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1994-01-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134219
+congress = 9
+bill_no = "HR00912"
+comm_act = "Change of referral from the Committee on Rules(J.50 ,p.7)"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1994-01-31"

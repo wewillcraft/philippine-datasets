@@ -1,0 +1,74 @@
+billNumber = "HB02018"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02018"
+lastScraped = "2025-09-22T00:20:57.730044"
+title = "HB02018"
+longTitle = "AN ACT CREATING A SEPARATE ENGINEERING DISTRICT IN THE FIRST CONGRESSIONAL DISTRICT IN THE PROVINCE OF ZAMBOANGA DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "REPUBLIC ACT (RA08194) enacted on 1996-06-11"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jalosjos, Romeo Jr. M."
+[[authorsDetail]]
+name = "Jalosjos, Romeo Jr. M."
+nameCode = "Jalosjos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108439
+congress = 10
+bill_no = "HB02018"
+report = "00371"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-08-14"
+date_ob = "1996-05-07"
+date_report = "1996-04-30"
+
+[secondReading]
+id = 17879
+congress = 10
+bill_no = "HB02018"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2496
+congress = 10
+bill_no = "HB02018"
+date_dist = "1996-05-13"
+date_adopt = "1996-05-20"
+no_yeas = 155
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-21"
+amend_ind = "N"
+act_pres = "A"
+dte_actedp = "1996-06-11"

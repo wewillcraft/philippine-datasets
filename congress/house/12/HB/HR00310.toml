@@ -1,0 +1,56 @@
+billNumber = "HR00310"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00310"
+lastScraped = "2025-09-22T00:13:01.206491"
+title = "HR00310"
+longTitle = "RESOLUTION ENDORSING THE VERIFIED COMPLAINT FOR IMPEACHMENT OF OMBUDSMAN ANIANO DESIERTO AND MOVING THAT THIS RESOLUTION BE CONSOLIDATED WITH THAT OF REPRESENTATIVE OSCAR MORENO ON THE SAME ISSUE, AND URGING THE MEMBERS OF THE HOUSE OF REPRESENTATIVES TO SUPPORT THE CONSOLIDATED RESOLUTION AND GIVE IT DUE COURSE"
+scope = "Local"
+dateFiled = "2001-11-28"
+status = "Adopted as Resolution No.  on 2002-02-13"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers, Robert Ace S."
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-12-05"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 90249
+congress = 12
+bill_no = "HR00310"
+report = "00150"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "Dismiss, compalint is not sufficient in substance."
+date_read = "2001-12-05"
+date_ob = "2002-01-22"
+date_report = "2002-01-18"
+
+[secondReading]
+id = 15038
+congress = 12
+bill_no = "HR00310"
+remarks = "With 122 Affirmative votes, 30 Negative votes and 5 Abstentions, the  Body Approved Ctte. Rpt. No. 150."
+date_calendared = "2002-01-30"
+date_approved = "2002-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

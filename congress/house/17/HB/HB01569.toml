@@ -1,0 +1,68 @@
+billNumber = "HB01569"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01569"
+lastScraped = "2025-09-21T23:55:44.378024"
+title = "HB01569"
+longTitle = "AN ACT PROVIDING FOR A COST OF LIVING ALLOWANCE (COLA) FOR ALL EMPLOYEES IN THE GOVERNMENT SECTOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-14"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01569.pdf"
+fileSize = 600278
+author = "Vargas, Alfred D."
+coAuthors = [ "SUANSING, GING", "SY-ALVARADO, JOSE ANTONIO R.", "LAZATIN, CARMELO II B.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2016-07-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2016-08-16"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-08-17"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO II B."
+nameCode = "Lazatin"
+date = "2018-02-01"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 35037
+congress = 17
+bill_no = "HB01569"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

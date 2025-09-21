@@ -1,0 +1,42 @@
+billNumber = "HB02302"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02302"
+lastScraped = "2025-09-22T00:13:00.214386"
+title = "HB02302"
+longTitle = "AN ACT MANDATING ALL AGENCIES IN THE EXECUTIVE DEPARTMENT TO SUBMIT A POVERTY ALLEVIATION IMPACT STATEMENT (PAIS) IN THE PROPOSED BUDGET OF EACH DEPARTMENT FOR CONSIDERATION IN THE ANNUAL GENERAL APPROPRIATIONS ACT"
+scope = "National"
+dateFiled = "2001-08-10"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 85462
+congress = 12
+bill_no = "HB02302"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-08-20"

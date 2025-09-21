@@ -1,0 +1,46 @@
+billNumber = "HB06790"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06790"
+lastScraped = "2025-09-22T00:20:58.619552"
+title = "HB06790"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A FIRE STATION WITH AT LEAST ONE FIRE TRUCK WITH COMPLETE FIRE FIGHTING FACILITIES IN THE DISTRICT OF LA PAZ, CITY OF ILOILO, AND APPROPRIATING THE AMOUNT OF FIVE MILLION PESOS (P5,000,000.00) FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "1996-04-10"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113211
+congress = 10
+bill_no = "HB06790"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-04-29"

@@ -1,0 +1,42 @@
+billNumber = "HR01600"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01600"
+lastScraped = "2025-09-22T00:47:02.855238"
+title = "HR01600"
+longTitle = "RESOLUTION DIRECTING THE NATIONAL DEFENSE AND PUBLIC ORDER COMMITTEES TO CONDUCT AN INVESTIGATION ON THE NUMBER OF MILITARY PERSONNEL AND CIVILIANS WHO DIED OR WERE INJURED IN THE PROCESS OF MILITARY OPERATIONS FOR THE PURPOSE OF ASCERTAINING THE AMOUNT NECESSARY FOR COMPENSATION AND REPARATION AND TO REPORT THEIR FINDINGS"
+scope = "National"
+dateFiled = "1989-12-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-12-11"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 171447
+congress = 8
+bill_no = "HR01600"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-12-11"

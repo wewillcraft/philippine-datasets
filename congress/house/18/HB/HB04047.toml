@@ -1,0 +1,54 @@
+billNumber = "HB04047"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB04047"
+lastScraped = "2025-09-22T00:01:45.766267"
+title = "HB04047"
+longTitle = "AN ACT CHANGING THE NAME OF CAMP GENERAL EMILIO AGUINALDO INTO CAMP GENERAL ANTONIO LUNA"
+scope = "National"
+dateFiled = "2019-08-20"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2019-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB04047.pdf"
+fileSize = 1199632
+author = "Pimentel, Johnny Ty"
+coAuthors = [ "BARBA, ANGELO MARCOS",]
+[[authorsDetail]]
+name = "Pimentel, Johnny Ty"
+nameCode = "Pimentel"
+date = "2019-08-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2019-10-15"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2019-08-28"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 23456
+congress = 18
+bill_no = "HB04047"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-08-28"

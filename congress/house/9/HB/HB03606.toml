@@ -1,0 +1,53 @@
+billNumber = "HB03606"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03606"
+lastScraped = "2025-09-22T00:25:55.233518"
+title = "HB03606"
+longTitle = "AN ACT CREATING A BATANES ECONOMIC DEVELOPMENT AUTHORITY, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lizardo"
+[[authorsDetail]]
+name = "Lizardo"
+nameCode = "Lizardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 122225
+congress = 9
+bill_no = "HB03606"
+comm_act = "change of ctte. ref'l from Economic Affairs as per J. 12; 8-18-93; p.29"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "1992-10-15"

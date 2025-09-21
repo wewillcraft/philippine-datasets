@@ -1,0 +1,42 @@
+billNumber = "HR01393"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01393"
+lastScraped = "2025-09-22T00:47:02.802576"
+title = "HR01393"
+longTitle = "RESOLUTION URGING THE POPULATION COMMISSION TO REVIEW ITS POLICIES AND PROGRAMS WITH THE END IN VIEW OF ADOPTING SATISFACTORY SOLUTIONS TO OUR BURGEONING POPULATION"
+scope = "National"
+dateFiled = "1989-08-08"
+status = "Pending with the Committee on FAMILY RELATIONS AND POPULATION since 1989-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FAMILY RELATIONS AND POPULATION"
+type = "primary"
+referralCode = "512"
+dateRead = "1989-08-08"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171259
+congress = 8
+bill_no = "HR01393"
+referral = "512"
+ref_name = "FAMILY RELATIONS AND POPULATION"
+sub_name = ""
+date_read = "1989-08-08"

@@ -1,0 +1,42 @@
+billNumber = "HR00237"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00237"
+lastScraped = "2025-09-22T00:47:02.570835"
+title = "HR00237"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON ENVIRONMENT AND NATURAL RESOURCES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE MINING OPERATIONS OF ALL MINERS WHETHER LICENSED OR NOT IN THE 3RD DISTRICT OF BULACAN"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-09-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170138
+congress = 8
+bill_no = "HR00237"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-09-01"

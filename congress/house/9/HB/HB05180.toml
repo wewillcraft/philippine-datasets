@@ -1,0 +1,47 @@
+billNumber = "HB05180"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05180"
+lastScraped = "2025-09-22T00:25:55.585365"
+title = "HB05180"
+longTitle = "AN ACT ESTABLISHING A FIFTEEN-BED CAPACITY COMMUNITY HOSPITAL IN THE MUNICIPALITY OF SAN NICOLAS, PROVINCE OF BATANGAS, TO BE KNOWN AS THE SAN NICOLAS COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-25"
+status = "Pending with the Committee on HEALTH since 1992-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-07"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123799
+congress = 9
+bill_no = "HB05180"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-07"

@@ -1,0 +1,51 @@
+billNumber = "HCR0032"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HCR0032"
+lastScraped = "2025-09-22T00:23:17.940769"
+title = "HCR0032"
+longTitle = "CONCURRENT RESOLUTION PROVIDING THAT THE SENATE AND THE HOUSE OF REPRESENTATIVES HOLD A JOINT SESSION TO HEAR THE MESSAGE OF THE PRESIDENT OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1999-07-26"
+status = "Adopted as Resolution No. CR00009 on 1999-07-26"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-07-26"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 104408
+congress = 11
+bill_no = "HCR0032"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1999-07-26"
+
+[secondReading]
+id = 17402
+congress = 11
+bill_no = "HCR0032"
+adopted_resolution = "CR00009"
+date_calendared = "1999-07-26"
+date_approved = "1999-07-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

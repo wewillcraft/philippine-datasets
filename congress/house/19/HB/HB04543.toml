@@ -1,0 +1,61 @@
+billNumber = "HB04543"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04543"
+lastScraped = "2025-09-21T23:55:20.874228"
+title = "HB04543"
+longTitle = "AN ACT INCREASING AND EXPANDING THE BENEFITS GRANTED TO SENIOR CITIZENS, AMENDING FOR THE PURPOSE REPUBLIC ACT NOS. 7432, 9257, 9994, 1088 AND 11916, AND FOR OTHER PURPOSE."
+scope = "National"
+dateFiled = "2022-09-07"
+status = "Pending with the Committee on SENIOR CITIZENS since 2022-09-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04543.pdf"
+fileSize = 307872
+author = "ABANTE, BIENVENIDO M., JR."
+coAuthors = [ "DALOG, MAXIMO JR. Y.", "REGENCIA, CELSO G.",]
+[[authorsDetail]]
+name = "ABANTE, BIENVENIDO M., JR."
+nameCode = "Abante"
+date = "2022-09-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DALOG, MAXIMO JR. Y."
+nameCode = "Dalog"
+date = "2022-11-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REGENCIA, CELSO G."
+nameCode = "Regencia"
+date = "2023-08-31"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2022-09-12"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 9462
+congress = 19
+bill_no = "HB04543"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-12"

@@ -1,0 +1,51 @@
+billNumber = "HB07784"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07784"
+lastScraped = "2025-09-22T00:20:58.801099"
+title = "HB07784"
+longTitle = "AN ACT CREATING A SPECIAL ECONOMIC ZONE IN THE CITY OF LUCENA, CREATING FOR THIS PURPOSE THE LUCENA CITY SPECIAL ECONOMIC ZONE AUTHORITY, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-08-16"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1996-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1996-08-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 114205
+congress = 10
+bill_no = "HB07784"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1996-08-21"

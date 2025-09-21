@@ -1,0 +1,59 @@
+billNumber = "HR01230"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01230"
+lastScraped = "2025-09-21T23:55:22.816451"
+title = "HR01230"
+longTitle = "RESOLUTION INCREASING THE MEDICAL EXPENSE ALLOWANCE OF SENIOR CITIZEN PERSONS DEPRIVED OF LIBERTY (PDLs)"
+scope = "National"
+dateFiled = "2023-08-29"
+status = "Pending with the Committee on JUSTICE since 2023-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01230.pdf"
+fileSize = 105670
+author = "AQUINO-MAGSAYSAY, MILAGROS"
+coAuthors = [ "BENITEZ, JOSE FRANCISCO B.",]
+[[authorsDetail]]
+name = "AQUINO-MAGSAYSAY, MILAGROS"
+nameCode = "Aquino-Magsaysay"
+date = "2023-08-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BENITEZ, JOSE FRANCISCO B."
+nameCode = "Benitez"
+date = "2023-09-12"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2023-09-04"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 17774
+congress = 19
+bill_no = "HR01230"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-09-04"

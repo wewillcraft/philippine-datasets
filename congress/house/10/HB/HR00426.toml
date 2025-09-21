@@ -1,0 +1,47 @@
+billNumber = "HR00426"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00426"
+lastScraped = "2025-09-22T00:20:59.501357"
+title = "HR00426"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD AND THE COMMITTEE ON TOURISM TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CONDITION OF THE BANAUE RICE TERRACES WITH THE END IN VIEW OF RECOMMENDING POLICIES ANDREMEDIAL MEASURES FOR THEIR PROTECTION AND REHABILITATION"
+scope = "National"
+dateFiled = "1996-01-29"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-01-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "TOURISM"
+type = "secondary"
+referralCode = "0538"
+
+[firstReading]
+id = 117480
+congress = 10
+bill_no = "HR00426"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agricultur e and Food and on Tourism on"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-01-31"

@@ -1,0 +1,42 @@
+billNumber = "HR00082"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00082"
+lastScraped = "2025-09-22T00:20:59.438935"
+title = "HR00082"
+longTitle = "RESOLUTION FOR THE HOUSE OF REPRESENTATIVES TO DIRECT THE COMMITTEE ON AGRICULTURE AND FOOD TO MAKE AN INQUIRY AND INVESTIGATION ON THE SPREAD OF THE FOOT AND MOUTH DISEASE AFFECTING THE ANIMAL INDUSTRY, IN AID OF LEGISLATION"
+scope = "National"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117136
+congress = 10
+bill_no = "HR00082"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agricultur e and Food on Aug. 10, 1995."
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-09"

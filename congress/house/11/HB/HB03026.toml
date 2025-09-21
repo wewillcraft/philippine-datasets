@@ -1,0 +1,83 @@
+billNumber = "HB03026"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB03026"
+lastScraped = "2025-09-22T00:23:16.032263"
+title = "HB03026"
+longTitle = "AN ACT PROHIBITING THE DETAIL OR ASSIGNMENT OF MILITARY PERSONNEL IN CIVILIAN OFFICES AND PUBLIC UTILITIES AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1998-08-28"
+status = "Approved by the House on 2000-04-11, transmitted to on 2000-04-12 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pichay, Prospero Jr. A."
+coAuthors = [ "ANGARA-CASTILLO, BELLAFLOR", "BASCUG, ALEX G.",]
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BASCUG, ALEX G."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1998-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 94467
+congress = 11
+bill_no = "HB03026"
+report = "00453"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = "NATIONAL DEFENSE"
+recomm = "approval with amendments"
+date_read = "1998-09-03"
+date_ob = "1999-09-13"
+date_report = "1999-09-09"
+
+[secondReading]
+id = 16446
+congress = 11
+bill_no = "HB03026"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_calendared = "1999-09-22"
+date_approved = "2000-04-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3718
+congress = 11
+bill_no = "HB03026"
+date_dist = "2000-04-05"
+date_adopt = "2000-04-11"
+no_yeas = 180
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-04-12"
+date_rec = "2000-04-17"

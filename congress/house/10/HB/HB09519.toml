@@ -1,0 +1,41 @@
+billNumber = "HB09519"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09519"
+lastScraped = "2025-09-22T00:20:59.179970"
+title = "HB09519"
+longTitle = "AN ACT EXEMPTING PRIVATE HOSPITALS FROM CERTAIN TAXES AND DUTIES"
+scope = "National"
+dateFiled = "1997-06-03"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia, Enrique Jr. T."
+[[authorsDetail]]
+name = "Garcia, Enrique Jr. T."
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-06-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115940
+congress = 10
+bill_no = "HB09519"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-06-05"

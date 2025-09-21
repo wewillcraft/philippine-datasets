@@ -1,0 +1,41 @@
+billNumber = "HR01502"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01502"
+lastScraped = "2025-09-22T00:20:59.709754"
+title = "HR01502"
+longTitle = "RESOLUTION URGING THE LAND TRANSPORTATION FRANCHISING AND REGULATORY BOARD (LTFRB) TO DEFER IMPLEMENTATION OF ITS MEMORANDUM CIRCULARS NUMBERED 97-011 AND 97-012, PENDING FURTHER STUDY OF CONGRESS OF SAID CIRCULARS"
+scope = "Local"
+dateFiled = "1998-01-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1998-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves"
+[[authorsDetail]]
+name = "Teves"
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1998-01-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118556
+congress = 10
+bill_no = "HR01502"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1998-01-30"

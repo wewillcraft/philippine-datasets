@@ -1,0 +1,61 @@
+billNumber = "HB03007"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB03007"
+lastScraped = "2025-09-22T00:23:16.029293"
+title = "HB03007"
+longTitle = "AN ACT ESTABLISHING A STRATEGIC FOOD SECURITY OF RICE RESERVE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-08-27"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1998-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "ABAYON, HARLIN CAST.", "PONCE, NESTOR JR. C.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN CAST."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PONCE, NESTOR JR. C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1998-09-02"
+
+[[committee]]
+name = "LAND USE"
+type = "principal"
+referralCode = "E515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 94448
+congress = 11
+bill_no = "HB03007"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1998-09-02"

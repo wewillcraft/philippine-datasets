@@ -1,0 +1,43 @@
+billNumber = "HB01187"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01187"
+lastScraped = "2025-09-22T00:46:56.772116"
+title = "HB01187"
+longTitle = "AN ACT LEVYING REAL ESTATE TAX ON THE REAL PROPERTY OF THE NATIONAL POWER CORPORATION SITUATED IN THE PROVINCE OF LAGUNA"
+scope = "Local"
+dateFiled = "1987-09-07"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 135883
+congress = 8
+bill_no = "HB01187"
+comm_act = "SUBSTITUTE D BY HB13738"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-09-10"

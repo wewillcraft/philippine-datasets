@@ -1,0 +1,62 @@
+billNumber = "HR00134"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00134"
+lastScraped = "2025-09-22T00:01:47.365189"
+title = "HR00134"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH AND OTHER APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, IN THE PROCUREMENT OF DRUGS AND MEDICINES NEARING EXPIRY AND ITS DELAYED DISTRIBUTION TO PUBLIC HOSPITALS NATIONWIDE"
+scope = "National"
+dateFiled = "2019-07-29"
+status = "Pending with the Committee on HEALTH since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00134.pdf"
+fileSize = 439693
+author = "Cabatbat, Argel Joseph T."
+coAuthors = [ "LOPEZ, MANUEL LUIS T.", "SALVADOR-TAMBUNTING, JOY MYRA",]
+[[authorsDetail]]
+name = "Cabatbat, Argel Joseph T."
+nameCode = "Cabatbat"
+date = "2019-07-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOPEZ, MANUEL LUIS T."
+nameCode = "Lopez (M.L.)"
+date = "2019-09-20"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2021-01-26"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 30462
+congress = 18
+bill_no = "HR00134"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

@@ -1,0 +1,46 @@
+billNumber = "HB03881"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03881"
+lastScraped = "2025-09-22T00:20:58.092267"
+title = "HB03881"
+longTitle = "AN ACT AUTHORIZING THE CEMENTING OF THE SAN ANTONIO VILLAGE BARANGAY ROAD IN BAGUIO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110302
+congress = 10
+bill_no = "HB03881"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-29"

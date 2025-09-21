@@ -1,0 +1,46 @@
+billNumber = "HB10167"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10167"
+lastScraped = "2025-09-22T00:20:59.326030"
+title = "HB10167"
+longTitle = "AN ACT CONVERTING ALL PROVINCIAL ROADS IN THE FIRST CONGRESSIONAL DISTRICT IN THE PROVINCE OF ORIENTAL MINDORO INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-10-27"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116588
+congress = 10
+bill_no = "HB10167"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-10-27"

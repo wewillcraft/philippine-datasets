@@ -1,0 +1,46 @@
+billNumber = "HR02004"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02004"
+lastScraped = "2025-09-22T00:01:47.738688"
+title = "HR02004"
+longTitle = "RESOLUTION COMMENDING THE EFFORTS OF FILIPINO-AMERICAN POP STAR OLIVIA RODRIGO URGING THE YOUTH TO GET VACCINATED AGAINST COVID-19"
+scope = "National"
+dateFiled = "2021-07-27"
+status = "Pending with the Committee on HEALTH since 2021-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR02004.pdf"
+fileSize = 295007
+author = "ELAGO, SARAH JANE I."
+[[authorsDetail]]
+name = "ELAGO, SARAH JANE I."
+nameCode = "Elago"
+date = "2021-07-27"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-08-02"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 32321
+congress = 18
+bill_no = "HR02004"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-08-02"

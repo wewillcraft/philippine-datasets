@@ -1,0 +1,42 @@
+billNumber = "HR00013"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00013"
+lastScraped = "2025-09-22T00:13:01.144020"
+title = "HR00013"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION INTO THE REPORTED PLAN TO `PRIVATIZE' THE SOCIAL SECURITY SYSTEM (SSS)"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nantes, Rafael P."
+[[authorsDetail]]
+name = "Nantes, Rafael P."
+nameCode = "Nantes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 89952
+congress = 12
+bill_no = "HR00013"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2001-07-24"

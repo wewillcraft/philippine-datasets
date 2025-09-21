@@ -1,0 +1,42 @@
+billNumber = "HB00133"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00133"
+lastScraped = "2025-09-22T00:46:56.575806"
+title = "HB00133"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF TAGACAOLO IN THE PROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1987-08-05"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-06"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 134831
+congress = 8
+bill_no = "HB00133"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-08-06"

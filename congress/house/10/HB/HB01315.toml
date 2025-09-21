@@ -1,0 +1,61 @@
+billNumber = "HB01315"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01315"
+lastScraped = "2025-09-22T00:20:57.600802"
+title = "HB01315"
+longTitle = "AN ACT REORGANIZING THE PHILIPPINE NATIONAL POLICE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DRAGON, RENATO P.", "PEREZ, HERNANDO B.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107736
+congress = 10
+bill_no = "HB01315"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-08-01"

@@ -1,0 +1,70 @@
+billNumber = "HB08269"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08269"
+lastScraped = "2025-09-22T00:20:58.933390"
+title = "HB08269"
+longTitle = "AN ACT CONVERTING ALILEM JUNCTION SUDIPEN ROAD INTO A NATIONAL ROAD, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-23"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114690
+congress = 10
+bill_no = "HB08269"
+report = "01086"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-11-04"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 18572
+congress = 10
+bill_no = "HB08269"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3162
+congress = 10
+bill_no = "HB08269"
+date_dist = "1997-10-08"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"

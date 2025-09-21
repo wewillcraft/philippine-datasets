@@ -1,0 +1,42 @@
+billNumber = "HB07462"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07462"
+lastScraped = "2025-09-22T00:46:57.914996"
+title = "HB07462"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN LIBIS ST. NINO IN THE MUNICIPALITY OF MARIKINA, METRO MANILA"
+scope = "Local"
+dateFiled = "1988-03-29"
+status = "Pending with the Committee on HEALTH since 1988-04-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-19"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 142142
+congress = 8
+bill_no = "HB07462"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-19"

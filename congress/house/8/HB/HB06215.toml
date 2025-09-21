@@ -1,0 +1,42 @@
+billNumber = "HB06215"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06215"
+lastScraped = "2025-09-22T00:46:57.716087"
+title = "HB06215"
+longTitle = "AN ACT ESTABLISHING A TELEPHONE EXCHANGE IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE,AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1988-03-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1988-03-14"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 140896
+congress = 8
+bill_no = "HB06215"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1988-03-14"

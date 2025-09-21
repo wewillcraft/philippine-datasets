@@ -1,0 +1,46 @@
+billNumber = "HB06274"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06274"
+lastScraped = "2025-09-22T00:20:58.526628"
+title = "HB06274"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A TEN-ROOM SCHOOL BUILDING FOR THE LAMITAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF LAMITAN, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-19"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112695
+congress = 10
+bill_no = "HB06274"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-21"

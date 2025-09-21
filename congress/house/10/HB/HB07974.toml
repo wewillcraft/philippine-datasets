@@ -1,0 +1,113 @@
+billNumber = "HB07974"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07974"
+lastScraped = "2025-09-22T00:20:58.876143"
+title = "HB07974"
+longTitle = "AN ACT FACILITATING PROCUREMENT OF SUPPLIES THROUGH PERSONAL CANVASS BY LOCAL GOVERNMENT UNITS, AMENDING FOR THE PURPOSE THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1996-09-23"
+status = "Approved by the House on 1997-02-18, transmitted to on 1997-02-19 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "SALALIMA, ROMEO R.", "ALFELOR, CIRIACO R.", "LOCAL GOVERNMENT", "QUIMPO, ALLEN S.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SALALIMA, ROMEO R."
+nameCode = "Salalima"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALFELOR, CIRIACO R."
+nameCode = "Alfelor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOCAL GOVERNMENT"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-25"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[motherBills]]
+bill_no = "HB01524"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB07082"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01524"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB07082"
+flag = "S"
+
+[firstReading]
+id = 114395
+congress = 10
+bill_no = "HB07974"
+report = "00605"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1996-09-25"
+date_ob = "1996-09-25"
+date_unass = "1996-10-08"
+date_report = "1996-09-23"
+
+[secondReading]
+id = 18547
+congress = 10
+bill_no = "HB07974"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1997-01-30"
+date_approved = "1997-01-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3140
+congress = 10
+bill_no = "HB07974"
+date_dist = "1997-02-10"
+date_adopt = "1997-02-18"
+no_yeas = 156
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-02-19"
+date_rec = "1997-02-21"

@@ -1,0 +1,42 @@
+billNumber = "HB11907"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11907"
+lastScraped = "2025-09-22T00:25:56.789369"
+title = "HB11907"
+longTitle = "AN ACT CREATING THE PASAY CITY SUN VALLEY NATIONAL HIGH SCHOOL IN THE CITY OF PASAY, METRO MANILA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-02"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-02-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130522
+congress = 9
+bill_no = "HB11907"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-02-08"

@@ -1,0 +1,55 @@
+billNumber = "HB00508"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00508"
+lastScraped = "2025-09-22T00:25:54.686097"
+title = "HB00508"
+longTitle = "AN ACT ESTABLISHING A FRUIT TREE AND VEGETABLE NURSERY AND DISTRIBUTION CENTER IN THE MUNICIPALITY OF ARINGAY, PROVINCE OF LA UNION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-04"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+coAuthors = [ "ORTEGA, VICTOR F.",]
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, VICTOR F."
+nameCode = "Ortega"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-10"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119127
+congress = 9
+bill_no = "HB00508"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-10"

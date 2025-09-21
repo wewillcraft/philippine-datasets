@@ -1,0 +1,47 @@
+billNumber = "HR00272"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00272"
+lastScraped = "2025-09-22T00:01:47.387577"
+title = "HR00272"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TOURISM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF SCUBA DIVING SAFETY RULES AND REGULATIONS"
+scope = "National"
+dateFiled = "2019-08-27"
+status = "Pending with the Committee on TOURISM since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00272.pdf"
+fileSize = 218451
+author = "Biazon, Rozzano Rufino B."
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2019-08-27"
+sequence = 1
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2019-09-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 30600
+congress = 18
+bill_no = "HR00272"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-03"

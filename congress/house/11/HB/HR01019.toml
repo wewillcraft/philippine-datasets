@@ -1,0 +1,95 @@
+billNumber = "HR01019"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01019"
+lastScraped = "2025-09-22T00:23:18.136683"
+title = "HR01019"
+longTitle = "RESOLUTION URGING PRESIDENT JOSEPH EJERCITO ESTRADA TO CALL UPON THE GOVERNMENT OF THE UNITED STATES OF AMERICA TO FULFILL ITS RESPONSIBILITY OF CLEANING UP WASTES LEFT BEHIND BY THE AMERICAN TROOPS IN CLARK AND SUBIC"
+scope = "Local"
+dateFiled = "1999-07-15"
+status = "Adopted as Resolution No. HR00075 on 1999-09-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alvarez, Pantaleon D."
+coAuthors = [ "GOLEZ, ROILO S.", "TAÑADA, WIGBERTO E.",]
+[[authorsDetail]]
+name = "Alvarez, Pantaleon D."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAÑADA, WIGBERTO E."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-09-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[motherBills]]
+bill_no = "HR00242"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00270"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00300"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00242"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00270"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00300"
+flag = "S"
+
+[firstReading]
+id = 105475
+congress = 11
+bill_no = "HR01019"
+report = "00390"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "ECOLOGY"
+recomm = "Adoption pursuant to House Resolution Nos. 242, 270 and 300 together with the Ctte. findings and rec"
+date_read = "1999-09-21"
+date_ob = "1999-07-27"
+date_report = "1999-07-15"
+
+[secondReading]
+id = 17506
+congress = 11
+bill_no = "HR01019"
+adopted_resolution = "HR00075"
+date_calendared = "1999-09-21"
+date_approved = "1999-09-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

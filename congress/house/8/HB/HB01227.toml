@@ -1,0 +1,42 @@
+billNumber = "HB01227"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01227"
+lastScraped = "2025-09-22T00:46:56.779139"
+title = "HB01227"
+longTitle = "AN ACT ESTABLISHING BARANGAY HALL IN BARANGAY MARBER, MUNICIPALITY OF BANSALAN, PROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1987-09-08"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 135923
+congress = 8
+bill_no = "HB01227"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-10"

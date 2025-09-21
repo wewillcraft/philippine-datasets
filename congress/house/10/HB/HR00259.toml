@@ -1,0 +1,55 @@
+billNumber = "HR00259"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00259"
+lastScraped = "2025-09-22T00:20:59.471472"
+title = "HR00259"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND THE COMMITTEE ON GOVERNMENT ENTERPRISES AND PRIVATIZATION TO CONDUCT JOINT INQUIRIES, IN AID OF LEGISLATION, INTO THE ALLEGED MISUSE OF FUNDS OF THE GOVERNMENT SERVICE INSURANCE SYSTEM"
+scope = "National"
+dateFiled = "1995-10-13"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "principal"
+referralCode = "A502"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117313
+congress = 10
+bill_no = "HR00259"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte's. on Government Enterpris es and Privatizat"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+date_read = "1995-10-24"

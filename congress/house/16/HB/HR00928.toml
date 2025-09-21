@@ -1,0 +1,59 @@
+billNumber = "HR00928"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00928"
+lastScraped = "2025-09-21T23:56:22.969375"
+title = "HR00928"
+longTitle = "HOUSE RESOLUTION URGING HIS EXCELLENCY PRESIDENT BENIGNO S. AQUINO III TO AMEND SECTION 1 OF EXECUTIVE ORDER NO. 170, SERIES OF 2003, AS AMENDED BY EXECUTIVE ORDER NO. 170-A SERIES OF 2003"
+scope = "National"
+dateFiled = "2014-03-05"
+status = "Pending with the Committee on TRANSPORTATION since 2014-03-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00928.pdf"
+fileSize = 295766
+author = "MENDOZA, RAYMOND DEMOCRITO C."
+coAuthors = [ "ROMUALDO, XAVIER JESUS \"XJ\" D.",]
+[[authorsDetail]]
+name = "MENDOZA, RAYMOND DEMOCRITO C."
+nameCode = "Mendoza (R.)"
+date = "2014-03-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, XAVIER JESUS \"XJ\" D."
+nameCode = "Romualdo"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-03-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "secondary"
+referralCode = "B511"
+
+[firstReading]
+id = 53326
+congress = 16
+bill_no = "HR00928"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-03-12"

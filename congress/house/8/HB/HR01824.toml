@@ -1,0 +1,57 @@
+billNumber = "HR01824"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01824"
+lastScraped = "2025-09-22T00:47:02.889182"
+title = "HR01824"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON NATIONAL DEFENSE, PUBLIC WORKS AND HIGHWAYS AND TRANSPORTATION AND COMMUNICATIONS, TO STUDY, IN AID OF LEGISLATION, HOW TO PUT THE COUNTRY IN AN ACT OF PREPAREDNESS IN THE EVENT OF CALAMITIES TO COME IN THE COUNTRY"
+scope = "National"
+dateFiled = "1990-07-25"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1990-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "DRAGON, RENATO P.", "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1990-07-31"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 171661
+congress = 8
+bill_no = "HR01824"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1990-07-31"

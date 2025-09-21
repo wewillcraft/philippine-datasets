@@ -1,0 +1,46 @@
+billNumber = "HB01567"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01567"
+lastScraped = "2025-09-21T23:39:48.606238"
+title = "HB01567"
+longTitle = "AN ACT PROVIDING FOR REGULATION OF TRICYCLES, INSTITUTIONALIZING MECHANISMS FOR ITS IMPLEMENTATION"
+scope = "National"
+dateFiled = "2025-07-08"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01567.pdf"
+fileSize = 483941
+author = "PRIMICIAS-AGABAS, MARLYN L."
+[[authorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2025-07-08"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 1568
+congress = 103
+bill_no = "HB01567"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

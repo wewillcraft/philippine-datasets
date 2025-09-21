@@ -1,0 +1,59 @@
+billNumber = "HB09912"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09912"
+lastScraped = "2025-09-22T00:20:59.267789"
+title = "HB09912"
+longTitle = "AN ACT CREATING THE SAN FERNANDO-LA UNION AIRPORT AUTHORITY, TRANSFERRING EXISTING ASSETS OF THE SAN FERNANDO AIRPORT TO THE AUTHORITY, VESTING THE AUTHORITY WITH POWER TO ADMINISTER AND OPERATE THE SAN FERNANDO AIRPORT, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-08-29"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "ASPIRAS, JOSE D.",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ASPIRAS, JOSE D."
+nameCode = "Aspiras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116333
+congress = 10
+bill_no = "HB09912"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-09-03"

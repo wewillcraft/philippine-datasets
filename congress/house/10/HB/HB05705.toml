@@ -1,0 +1,46 @@
+billNumber = "HB05705"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05705"
+lastScraped = "2025-09-22T00:20:58.425671"
+title = "HB05705"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CONCRETE ROAD LINKING BARANGAY GINALINAN VIEJO TO ALEGRIA, BOTH IN THE MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, AND ALLOCATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-23"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112126
+congress = 10
+bill_no = "HB05705"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-23"

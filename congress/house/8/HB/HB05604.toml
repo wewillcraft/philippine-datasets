@@ -1,0 +1,71 @@
+billNumber = "HB05604"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05604"
+lastScraped = "2025-09-22T00:46:57.533313"
+title = "HB05604"
+longTitle = "AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF SAN MARIANO, IN 1ST DISTRICT, IN THE PROVINCE OF DAVAO DEL NORTE"
+scope = "Local"
+dateFiled = "1988-02-18"
+status = "REPUBLIC ACT (RA06678) enacted on 1988-10-12"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-02-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 140286
+congress = 8
+bill_no = "HB05604"
+report = "00145"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITHOUT AMENDMENTS"
+date_read = "1988-02-23"
+date_ob = "1988-05-11"
+date_cal = "1988-05-11"
+date_unass = "1988-05-11"
+date_report = "1988-05-09"
+
+[secondReading]
+id = 20626
+congress = 8
+bill_no = "HB05604"
+date_approved = "1988-05-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 402
+congress = 8
+bill_no = "HB05604"
+date_dist = "1988-05-30"
+date_adopt = "1988-06-09"
+no_yeas = 158
+no_nays = 0
+no_abstent = 0
+date_trans = "1988-06-14"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1988-10-12"
+dte_actedp = "1988-10-12"

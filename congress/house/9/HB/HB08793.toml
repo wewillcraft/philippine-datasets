@@ -1,0 +1,42 @@
+billNumber = "HB08793"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08793"
+lastScraped = "2025-09-22T00:25:56.181425"
+title = "HB08793"
+longTitle = "AN ACT SUSPENDING THE PAYMENTS OF ALL FOREIGN DEBTS FOR A PERIOD OF ONE YEAR AND RECHANNELLING SAID PAYMENTS TO FUND ENERGY AND SOCIALIZED HOUSING PROGRAMS"
+scope = "National"
+dateFiled = "1993-04-23"
+status = "Pending with the Committee on APPROPRIATIONS since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 127411
+congress = 9
+bill_no = "HB08793"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1993-05-04"

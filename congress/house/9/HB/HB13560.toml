@@ -1,0 +1,42 @@
+billNumber = "HB13560"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13560"
+lastScraped = "2025-09-22T00:25:57.104120"
+title = "HB13560"
+longTitle = "AN ACT ESTABLISHING AN ANIMAL BREEDING STATION AND LIVESTOCK FARM IN THE MUNICIPALITY OF STO. TOMAS, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-23"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-08-29"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132169
+congress = 9
+bill_no = "HB13560"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-08-29"

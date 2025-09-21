@@ -1,0 +1,42 @@
+billNumber = "HR01572"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01572"
+lastScraped = "2025-09-22T00:47:02.851938"
+title = "HR01572"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO SPEED UP APPROVAL OF ALL MEASURES FILED TO ENHANCE OUR MAJOR SHIFT TO INDUSTRIAL DEVELOPMENT"
+scope = "Local"
+dateFiled = "1989-12-04"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1989-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1989-12-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171432
+congress = 8
+bill_no = "HR01572"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1989-12-04"

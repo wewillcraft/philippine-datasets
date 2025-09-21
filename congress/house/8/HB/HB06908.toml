@@ -1,0 +1,42 @@
+billNumber = "HB06908"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06908"
+lastScraped = "2025-09-22T00:46:57.826231"
+title = "HB06908"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY CLIB, MUNICIPALITY OF HAGONOY, PROVINCE OF DAVAO DEL SUR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 141589
+congress = 8
+bill_no = "HB06908"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

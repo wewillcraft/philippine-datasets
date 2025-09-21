@@ -1,0 +1,45 @@
+billNumber = "TB00001"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=TB00001"
+lastScraped = "2025-09-22T00:23:18.321472"
+title = "TB00001"
+longTitle = ""
+scope = "National"
+dateFiled = "2000-10-10"
+status = "REPUBLIC ACT (RA09009) enacted on 2001-02-24"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-10-16"
+
+[firstReading]
+id = 106421
+congress = 11
+bill_no = "TB00001"
+referral = "0532"
+ref_name = "RULES"
+date_read = "2000-10-16"
+
+[secondReading]
+id = 17657
+congress = 11
+bill_no = "TB00001"
+date_approved = "2000-12-20"
+adopted_resolution_with_amendment = "Y"
+
+[thirdReading]
+id = 4599
+congress = 11
+bill_no = "TB00001"
+date_adopt = "2001-01-16"
+remarks = "Senate concurred to House amendments on January22, 2001"
+no_yeas = 119
+dte_actedp = "2001-02-24"

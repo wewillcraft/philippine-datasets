@@ -1,0 +1,47 @@
+billNumber = "HB03620"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03620"
+lastScraped = "2025-09-22T00:25:55.235889"
+title = "HB03620"
+longTitle = "AN ACT ESTABLISHING A BAMBOO AND NIPA NURSERY IN THE MUNICIPALITY OF SAGAY, PROVINCE OF NEGROS OCCIDENTAL TO BE KNOWN AS THE SAGAY BAMBOO AND NIPA NURSERY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122239
+congress = 9
+bill_no = "HB03620"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-10-15"

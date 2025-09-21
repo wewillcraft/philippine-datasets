@@ -1,0 +1,41 @@
+billNumber = "HB03579"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03579"
+lastScraped = "2025-09-22T00:20:58.037553"
+title = "HB03579"
+longTitle = "AN ACT REGULATING THE IMPORTATION OF DEHYDRATED ONIONS, CARROTS AND OTHER VEGETABLES"
+scope = "National"
+dateFiled = "1995-09-19"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 110000
+congress = 10
+bill_no = "HB03579"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-09-25"

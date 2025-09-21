@@ -1,0 +1,41 @@
+billNumber = "HR00147"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00147"
+lastScraped = "2025-09-22T00:23:17.977558"
+title = "HR00147"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INQUIRY ON THE FUNDS INVESTED BY THE NATIONAL DEVELOPMENT CORPORATION WITH FIRST CENTENNIAL CLARK CORPORATION"
+scope = "National"
+dateFiled = "1998-08-06"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1998-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1998-08-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 104605
+congress = 11
+bill_no = "HR00147"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1998-08-12"

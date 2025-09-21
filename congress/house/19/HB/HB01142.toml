@@ -1,0 +1,61 @@
+billNumber = "HB01142"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01142"
+lastScraped = "2025-09-21T23:55:20.281463"
+title = "HB01142"
+longTitle = "AN ACT GRANTING STUDENT FARE DISCOUNT ON TRANSPORTATION TICKETS PURCHASED ONLINE, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11314, OTHERWISE KNOWN AS THE STUDENT FARE DISCOUNT ACT"
+scope = "National"
+dateFiled = "2022-07-04"
+status = "Pending with the Committee on TRANSPORTATION since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01142.pdf"
+fileSize = 1027359
+author = "Dy, Faustino \"Inno\" V A."
+coAuthors = [ "LACSON-NOEL, JOSEPHINE VERONIQUE", "YAP, CHRISTOPHERSON M.",]
+[[authorsDetail]]
+name = "Dy, Faustino \"Inno\" V A."
+nameCode = "Dy (F.)"
+date = "2022-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LACSON-NOEL, JOSEPHINE VERONIQUE"
+nameCode = "Lacson-Noel"
+date = "2022-09-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YAP, CHRISTOPHERSON M."
+nameCode = "Yap (C.)"
+date = "2022-12-08"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 6061
+congress = 19
+bill_no = "HB01142"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

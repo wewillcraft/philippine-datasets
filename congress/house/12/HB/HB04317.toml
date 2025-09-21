@@ -1,0 +1,47 @@
+billNumber = "HB04317"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04317"
+lastScraped = "2025-09-22T00:13:00.573816"
+title = "HB04317"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY DAY CARE CENTER IN BARANGAY PULOT APLAYA, BATANGAS CITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-01-31"
+status = "Pending with the Committee on SOCIAL SERVICES since 2002-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2002-02-06"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87477
+congress = 12
+bill_no = "HB04317"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2002-02-06"

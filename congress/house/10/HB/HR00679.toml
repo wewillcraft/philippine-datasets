@@ -1,0 +1,47 @@
+billNumber = "HR00679"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00679"
+lastScraped = "2025-09-22T00:20:59.552544"
+title = "HR00679"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON LOCAL GOVERNMENT AND THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT JOINTLY AN INQUIRY, IN AID OF LEGISLATION, INTO THE LEGALITY AND PROPRIETY OF THE QUESTIONABLE FUND DISBURSEMENTS MADE BY MAYOR REYNALDO O. MALONZO OF KALOOKAN CITY, FORMULATE SUCH MEASURES AS ARE NECESSARY TO RECTIFY THE SAME AND RECOMMEND THE PROSECUTION OF THE PARTY OR PARTIES RESPONSIBLE THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Asistio, Luis A."
+[[authorsDetail]]
+name = "Asistio, Luis A."
+nameCode = "Asistio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117733
+congress = 10
+bill_no = "HR00679"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Local Government and on Good Government"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-06-08"

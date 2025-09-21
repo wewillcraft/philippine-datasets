@@ -1,0 +1,41 @@
+billNumber = "HB04568"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04568"
+lastScraped = "2025-09-22T00:20:58.222888"
+title = "HB04568"
+longTitle = "AN ACT AMENDING SECTION 42 AND SECTION 43 OF TITLE TWO (ELECTIVE OFFICIALS) OF THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1995-10-23"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-10-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 110989
+congress = 10
+bill_no = "HB04568"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-10-26"

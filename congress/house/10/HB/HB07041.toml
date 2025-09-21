@@ -1,0 +1,41 @@
+billNumber = "HB07041"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07041"
+lastScraped = "2025-09-22T00:20:58.664750"
+title = "HB07041"
+longTitle = "AN ACT PROVIDING FOR THE PROMOTION OF A CITY OR MUNICIPAL TRIAL COURT JUDGE TO THE POSITION OF A REGIONAL TRIAL COURT JUDGE UPON RETIREMENT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-05-21"
+status = "Pending with the Committee on JUSTICE since 1996-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-05-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 113462
+congress = 10
+bill_no = "HB07041"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-05-23"

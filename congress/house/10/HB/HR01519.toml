@@ -1,0 +1,46 @@
+billNumber = "HR01519"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01519"
+lastScraped = "2025-09-22T00:20:59.712290"
+title = "HR01519"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND THE HOUSE COMMITTEE ON ENVIRONMENT AND NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION ON THE IRREGULAR ISSUANCE OF ENVIRONMENTAL COMPLIANCE CERTIFICATE (ECC) TO THE HAN-JIN CEMENT BATCHING PLANT IN BARANGAY MAYAMOT, ANTIPOLO, RIZAL WITHOUT THE NECESSARY ENVIRONMENTAL IMPACT ASSESSMENT (EIA) AND CONSULTATION WITH PEOPLE OF THE ADJOINING COMMUNITY"
+scope = "Local"
+dateFiled = "1998-02-06"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1998-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aligada"
+[[authorsDetail]]
+name = "Aligada"
+nameCode = "Aligada"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1998-02-06"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 118568
+congress = 10
+bill_no = "HR01519"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1998-02-06"

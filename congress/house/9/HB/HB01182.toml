@@ -1,0 +1,42 @@
+billNumber = "HB01182"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01182"
+lastScraped = "2025-09-22T00:25:54.806667"
+title = "HB01182"
+longTitle = "AN ACT TO LEGALIZE AND REGULATE 'JUETENG', AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez, Victor S."
+[[authorsDetail]]
+name = "Dominguez, Victor S."
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 119801
+congress = 9
+bill_no = "HB01182"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1992-08-25"

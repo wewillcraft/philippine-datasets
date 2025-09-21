@@ -1,0 +1,78 @@
+billNumber = "HB06609"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06609"
+lastScraped = "2025-09-22T00:20:58.588521"
+title = "HB06609"
+longTitle = "AN ACT CONVERTING THE BENITO LEGARDA ELEMENTARY SCHOOL OF SAMPALOC IN THE FOURTH DISTRICT OF MANILA INTO AN ELEMENTARY SCIENCE SCHOOL, TO BE KNOWN AS BENITO LEGARDA ELEMENTARY SCIENCE SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-18"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113030
+congress = 10
+bill_no = "HB06609"
+report = "01040"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-03-21"
+date_ob = "1997-09-02"
+date_report = "1997-09-01"
+
+[secondReading]
+id = 18383
+congress = 10
+bill_no = "HB06609"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2981
+congress = 10
+bill_no = "HB06609"
+date_dist = "1997-09-29"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"

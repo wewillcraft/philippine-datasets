@@ -1,0 +1,42 @@
+billNumber = "HB01476"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01476"
+lastScraped = "2025-09-22T00:46:56.822959"
+title = "HB01476"
+longTitle = "AN ACT EXPANDING THE BURAUEN DISTRICT HOSPITAL WITH A 25-BED CAPACITY, IN THE MUNICIPALITY OF CARIGARA, PROVINCE OF LEYTE, INTO A 50-BED CAPACITY DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1987-09-15"
+status = "Pending with the Committee on HEALTH since 1987-09-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Horca"
+[[authorsDetail]]
+name = "Horca"
+nameCode = "Horca"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-17"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 136171
+congress = 8
+bill_no = "HB01476"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-17"

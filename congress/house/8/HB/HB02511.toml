@@ -1,0 +1,42 @@
+billNumber = "HB02511"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02511"
+lastScraped = "2025-09-22T00:46:57.007615"
+title = "HB02511"
+longTitle = "AN ACT ESTABLISHING A HOSPITAL IN BARANGAY TANDU BANAK, MUNICIPALITY OF SITANGKAI, PROVINCE OF TAWI-TAWI, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-10-08"
+status = "Pending with the Committee on HEALTH since 1987-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-10-12"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 137200
+congress = 8
+bill_no = "HB02511"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-10-12"

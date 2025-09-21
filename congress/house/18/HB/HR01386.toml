@@ -1,0 +1,46 @@
+billNumber = "HR01386"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01386"
+lastScraped = "2025-09-22T00:01:47.604304"
+title = "HR01386"
+longTitle = "A RESOLUTION URGING THE IMMEDIATE IMPLEMENTATION OF THE IMPLEMENTING\r\nRULES AND REGULATIONS (IRR) OF REPUBLIC ACT 11215 (AN ACT\r\nINSTITUTIONALIZING A NATIONAL INTEGRATED CANCER CONTROL PROGRAM AND APPROPRIATING FUNDS THEREFOR)"
+scope = "National"
+dateFiled = "2020-11-26"
+status = "Pending with the Committee on HEALTH since 2020-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01386.pdf"
+fileSize = 1699131
+author = "Romero, Michael L. Ph.D."
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2020-11-26"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-12-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31704
+congress = 18
+bill_no = "HR01386"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-12-02"

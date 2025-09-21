@@ -1,0 +1,94 @@
+billNumber = "HR01700"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01700"
+lastScraped = "2025-09-21T23:55:46.578464"
+title = "HR01700"
+longTitle = "RESOLUTION COMMENDING THE VICTO NATIONAL FEDERATION FOR ITS OUTSTANDING ACHIEVEMENTS AND VALUABLE CONTRIBUTIONS  IN UPLIFTING COMMUNITIES BY PROMOTING  SELF-RELIANCE AND COOPERATIVISM"
+scope = "National"
+dateFiled = "2018-02-19"
+status = "Adopted as Resolution No. HR00147 on 2018-09-11"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Geron, Rico B."
+[[authorsDetail]]
+name = "Geron, Rico B."
+nameCode = "Geron"
+date = "2018-02-19"
+sequence = 1
+
+[[authorsDetail]]
+name = "Bravo, Anthony M., Ph.D."
+nameCode = "Bravo (A.)"
+date = "2018-02-19"
+sequence = 2
+
+[[authorsDetail]]
+name = "Canama, Sabiniano S."
+nameCode = "Canama"
+date = "2018-02-19"
+sequence = 3
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2018-02-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01366"
+sequence = 1
+date = "2018-02-19"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01366"
+sequence = 1
+date = "2018-02-19"
+flag = "S"
+
+[firstReading]
+id = 44442
+congress = 17
+bill_no = "HR01700"
+report = "00616"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "COOPERATIVES DEVELOPMENT"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1366"
+remarks = ""
+file = "CR00616.pdf"
+date_read = "2018-02-20"
+date_ob = "2018-02-20"
+date_report = "2018-02-19"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_17/CR00616.pdf"
+
+[secondReading]
+id = 4382
+congress = 17
+bill_no = "HR01700"
+adopted_resolution = "HR00147"
+adopted_resolution_title = "RESOLUTION COMMENDING THE VICTO NATIONAL FEDERATION FOR ITS OUTSTANDING ACHIEVEMENTS AND VALUABLE CONTRIBUTIONS IN UPLIFTING COMMUNITIES BY PROMOTING SELF-RELIANCE AND COOPERATIVISM"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2018-09-05"
+date_approved = "2018-09-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01700.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_17/HR01700.pdf"

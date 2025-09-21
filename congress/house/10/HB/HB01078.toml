@@ -1,0 +1,61 @@
+billNumber = "HB01078"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01078"
+lastScraped = "2025-09-22T00:20:57.559325"
+title = "HB01078"
+longTitle = "AN ACT PROVIDING FOR COUNTRYWIDE DEVELOPMENT FUND TO PROVINCIAL VICE-GOVERNOR AND REGULAR MEMBERS OF THE SANGGUNIANG PANLALAWIGAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-19"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107499
+congress = 10
+bill_no = "HB01078"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-07-27"

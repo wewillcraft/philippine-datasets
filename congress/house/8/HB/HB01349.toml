@@ -1,0 +1,42 @@
+billNumber = "HB01349"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01349"
+lastScraped = "2025-09-22T00:46:56.800873"
+title = "HB01349"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A FISHINGPORT IN THE MUNICIPALITY OF VICTORIA, PROVINCE OFLAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-11"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 136045
+congress = 8
+bill_no = "HB01349"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-15"

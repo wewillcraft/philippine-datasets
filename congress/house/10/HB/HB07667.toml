@@ -1,0 +1,82 @@
+billNumber = "HB07667"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07667"
+lastScraped = "2025-09-22T00:20:58.779583"
+title = "HB07667"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL COMMISSION FOR RESEARCH AND DEVELOPMENT, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-08-01"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1996-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "RAMIREZ, JOSE T.", "CALALAY, REYNALDO A.", "AUMENTADO, ERICO B.", "PALMA GIL, MA. ELENA T.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1996-08-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114088
+congress = 10
+bill_no = "HB07667"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1996-08-06"

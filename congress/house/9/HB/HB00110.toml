@@ -1,0 +1,42 @@
+billNumber = "HB00110"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00110"
+lastScraped = "2025-09-22T00:25:54.612293"
+title = "HB00110"
+longTitle = "AN ACT PROVIDING FOR A UNIFORM POLICY IN THE GRANT OF VISAS TO NATIONALS OF COUNTRIES MAINTAINING DIPLOMATIC RELATIONS WITH THE PHILIPPINES"
+scope = "National"
+dateFiled = "1992-07-15"
+status = "Pending with the Committee on JUSTICE since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 118729
+congress = 9
+bill_no = "HB00110"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-07-28"

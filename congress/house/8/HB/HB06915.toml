@@ -1,0 +1,42 @@
+billNumber = "HB06915"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06915"
+lastScraped = "2025-09-22T00:46:57.827192"
+title = "HB06915"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BONANZA CREEK, BARANGAY PARANG, IN THE MUNICIPALITY OF MARIKINA, METRO MANILA"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 141596
+congress = 8
+bill_no = "HB06915"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

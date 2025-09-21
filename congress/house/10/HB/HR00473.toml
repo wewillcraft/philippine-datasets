@@ -1,0 +1,50 @@
+billNumber = "HR00473"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00473"
+lastScraped = "2025-09-22T00:20:59.509872"
+title = "HR00473"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TOURISM TO CONDUCT AN INQUIRY ON THE NEGLECT AND DEGRADATION OF THE IFUGAO RICE TERRACES IN THE PROVINCE OF IFUGAO"
+scope = "National"
+dateFiled = "1996-02-15"
+status = "Pending with the Committee on TOURISM since 1996-02-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-02-20"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 117527
+congress = 10
+bill_no = "HR00473"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Tourism on Feb. 21, 1996."
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-02-20"

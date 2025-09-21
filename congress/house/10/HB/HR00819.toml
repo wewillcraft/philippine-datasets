@@ -1,0 +1,65 @@
+billNumber = "HR00819"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00819"
+lastScraped = "2025-09-22T00:20:59.579546"
+title = "HR00819"
+longTitle = "RESOLUTION DIRECTING THE CONGRESSIONAL COMMITTEES ON JUSTICE, LABOR AND EMPLOYMENT AND FOREIGN AFFAIRS, TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, INTO THE UNRESOLVED CASE OF MRS. ESTRELLA PROTEGUESE RAVELO, AN OVERSEAS FILIPINO WORKER"
+scope = "Local"
+dateFiled = "1996-08-29"
+status = "Pending with the Committee on RULES since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 117873
+congress = 10
+bill_no = "HR00819"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Justice, on Labor and Employment and on"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-02"

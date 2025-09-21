@@ -1,0 +1,42 @@
+billNumber = "HB01454"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01454"
+lastScraped = "2025-09-22T00:25:54.855708"
+title = "HB01454"
+longTitle = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 1146 AS AMENDED, OTHERWISE KNOWN AS THE REVISED GOVERNMENT SERVICE INSURANCE ACT OF 1977, IN ORDER TO PROVIDE IMMUNIZATION BENEFITS TO GOVERNMENT EMPLOYEES"
+scope = "National"
+dateFiled = "1992-08-24"
+status = "Pending with the Committee on HEALTH since 1992-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lizardo"
+[[authorsDetail]]
+name = "Lizardo"
+nameCode = "Lizardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 120073
+congress = 9
+bill_no = "HB01454"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-27"

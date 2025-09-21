@@ -1,0 +1,42 @@
+billNumber = "HB05919"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05919"
+lastScraped = "2025-09-22T00:46:57.668046"
+title = "HB05919"
+longTitle = "AN ACT TO ESTABLISH A NATIONAL HIGH SCHOOL IN THEMUNICIPALITY OF TANAUAN, PROVINCE OF LEYTE, TO BEKNOWN AS THE TANAUAN NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1988-03-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1988-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 140600
+congress = 8
+bill_no = "HB05919"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1988-03-07"

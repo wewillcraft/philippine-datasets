@@ -1,0 +1,80 @@
+billNumber = "HB09361"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09361"
+lastScraped = "2025-09-22T00:25:56.280550"
+title = "HB09361"
+longTitle = "AN ACT DECLARING OCTOBER NINETEEN OF EVERY YEAR A SPECIAL NON-WORKING PUBLIC HOLIDAY IN THE CITY OF BACOLOD TO BE KNOWN AS BACOLOD CITY CHARTER DAY"
+scope = "Local"
+dateFiled = "1993-05-31"
+status = "REPUBLIC ACT (RA07724) enacted on 1994-05-19"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-06-02"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[motherBills]]
+bill_no = "HB05573"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05573"
+flag = "S"
+
+[firstReading]
+id = 127979
+congress = 9
+bill_no = "HB09361"
+report = "00195"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1993-06-02"
+date_ob = "1993-06-02"
+date_cal = "1993-06-02"
+date_unass = "1993-06-02"
+date_report = "1993-05-31"
+
+[secondReading]
+id = 19543
+congress = 9
+bill_no = "HB09361"
+date_approved = "1993-06-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1804
+congress = 9
+bill_no = "HB09361"
+date_dist = "1993-07-27"
+date_adopt = "1993-08-03"
+no_yeas = 182
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-08-04"
+date_rec = "1993-08-10"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1994-04-18"
+dte_actedp = "1994-05-19"

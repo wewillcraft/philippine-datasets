@@ -1,0 +1,62 @@
+billNumber = "HB03835"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03835"
+lastScraped = "2025-09-22T00:13:00.491580"
+title = "HB03835"
+longTitle = "AN ACT ESTABLISHING A SENIOR CITIZEN LODGING HOUSE IN ALL CAPITAL TOWNS AND MAJOR CITIES IN THE COUNTRY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-11-13"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2001-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DEL MAR, RAUL V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J041"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J074"
+sessionNo = "2RS"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2001-11-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86995
+congress = 12
+bill_no = "HB03835"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+date_read = "2001-11-21"

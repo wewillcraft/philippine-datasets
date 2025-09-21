@@ -1,0 +1,72 @@
+billNumber = "HB02014"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02014"
+lastScraped = "2025-09-22T00:20:57.729238"
+title = "HB02014"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY BAYBAYOG, MUNICIPALITY OF ALCALA, PROVINCE OF CAGAYAN, TO BE KNOWN AS BAYBAYOG HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Approved by the House on 1996-05-20, transmitted to on 1996-05-20 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonio, Patricio T."
+[[authorsDetail]]
+name = "Antonio, Patricio T."
+nameCode = "Antonio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108435
+congress = 10
+bill_no = "HB02014"
+report = "00346"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-08-14"
+date_ob = "1996-04-30"
+date_report = "1996-04-11"
+
+[secondReading]
+id = 17878
+congress = 10
+bill_no = "HB02014"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2495
+congress = 10
+bill_no = "HB02014"
+date_dist = "1996-05-15"
+date_adopt = "1996-05-20"
+no_yeas = 156
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-24"
+amend_ind = "N"

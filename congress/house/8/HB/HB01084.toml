@@ -1,0 +1,83 @@
+billNumber = "HB01084"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01084"
+lastScraped = "2025-09-22T00:46:56.754983"
+title = "HB01084"
+longTitle = "AN ACT FURTHER AMENDING SECTION THREE (3) OF REPUBLIC ACT NUMBERED THIRTEEN HUNDRED SIXTY-ONE AS AMENDED BY REPUBLIC ACT FIFTY-NINE HUNDRED FORTY ONE"
+scope = "Local"
+dateFiled = "1987-09-03"
+status = "Approved by the House on 1991-06-06, transmitted to on 1991-06-07 and received by the Senate on 1991"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "MONFORT, NARCISO D.", "ROSARIO, RODOLFO P. DEL",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROSARIO, RODOLFO P. DEL"
+nameCode = "Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1987-09-08"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 135781
+congress = 8
+bill_no = "HB01084"
+report = "00304"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = "HOUSING"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-09-08"
+date_ob = "1989-06-01"
+date_cal = "1989-06-01"
+date_unass = "1989-06-01"
+date_report = "1988-09-06"
+
+[secondReading]
+id = 20360
+congress = 8
+bill_no = "HB01084"
+remarks = "RECOMMENDI NG ITS APPROVAL WITH AMENDMENT"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 143
+congress = 8
+bill_no = "HB01084"
+date_dist = "1991-05-27"
+date_adopt = "1991-06-06"
+no_yeas = 116
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-06-07"
+date_rec = "1991-06-20"

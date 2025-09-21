@@ -1,0 +1,42 @@
+billNumber = "HB08627"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08627"
+lastScraped = "2025-09-22T00:46:58.124220"
+title = "HB08627"
+longTitle = "AN ACT AMENDING SECTION 12 (A) OF REPUBLIC ACT NO. 3720 OTHERWISE KNOWN AS THE FOOD, DRUG AND COSMETIC ACT"
+scope = "National"
+dateFiled = "1988-05-03"
+status = "Pending with the Committee on HEALTH since 1988-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-05"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 143304
+congress = 8
+bill_no = "HB08627"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-05"

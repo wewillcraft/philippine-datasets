@@ -1,0 +1,55 @@
+billNumber = "HR01520"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01520"
+lastScraped = "2025-09-21T23:55:46.536880"
+title = "HR01520"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED MISAPPROPRIATION OF FUNDS SOURCED FROM THE DISBURSEMENT ACCELERATION PROGRAM (DAP) AND THE ILLEGAL AND UNAUTHORIZED USE THEREOF"
+scope = "National"
+dateFiled = "2017-12-06"
+status = "Pending with the Committee on GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY since 2018-01-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01520.pdf"
+fileSize = 537181
+author = "Gonzaga, Ruwel Peter"
+coAuthors = [ "ZARATE, CARLOS ISAGANI T.",]
+[[authorsDetail]]
+name = "Gonzaga, Ruwel Peter"
+nameCode = "Gonzaga"
+date = "2017-12-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZARATE, CARLOS ISAGANI T."
+nameCode = "Zarate"
+date = "2018-01-30"
+journalNo = "J056"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "A502"
+dateRead = "2017-12-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 44262
+congress = 17
+bill_no = "HR01520"
+report = ""
+comm_act = ""
+referral = "A502"
+ref_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-01-17"
+date_read = "2017-12-12"

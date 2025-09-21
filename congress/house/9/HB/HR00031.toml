@@ -1,0 +1,42 @@
+billNumber = "HR00031"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00031"
+lastScraped = "2025-09-22T00:25:57.372522"
+title = "HR00031"
+longTitle = "RESOLUTION ENTITLING A VICE-CHAIRMAN OF ANY STANDING COMMITTEE IN THE HOUSE OF REPRESENTATIVES AN ADDITIONAL LEGISLATIVE STAFF OFFICER"
+scope = "Local"
+dateFiled = "1992-07-30"
+status = "Pending with the Committee on ACCOUNTS since 1992-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sanchez"
+[[authorsDetail]]
+name = "Sanchez"
+nameCode = "Sanchez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "0501"
+dateRead = "1992-08-04"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 133343
+congress = 9
+bill_no = "HR00031"
+referral = "0501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "1992-08-04"

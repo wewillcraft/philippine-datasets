@@ -1,0 +1,42 @@
+billNumber = "HR00526"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00526"
+lastScraped = "2025-09-22T00:47:02.628654"
+title = "HR00526"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN ASSESTMENT AND REVIEW OF THE EXISTING POWER RATES OF ELECTRIC COOPERATIVES IN CENTRAL MINDANAO IN ORDER THAT GENERAL POLICY CONSIDERATIONS BE FORMULATED, REVIEWED OR REFORMED TO RATIONALIZE POWER RATES IN THE REGION"
+scope = "Local"
+dateFiled = "1987-12-10"
+status = "Pending with the Committee on ENERGY since 1987-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-12-14"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 170414
+congress = 8
+bill_no = "HR00526"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-12-14"

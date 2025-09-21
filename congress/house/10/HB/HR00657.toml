@@ -1,0 +1,47 @@
+billNumber = "HR00657"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00657"
+lastScraped = "2025-09-22T00:20:59.548430"
+title = "HR00657"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON GOOD GOVERNMENT AND TRADE AND INDUSTRY TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED IRREGULARITIES AND DELAY BY THE PHILIPPINE ECONOMIC ZONE AUTHORITY IN THE BIDDING FOR THE SUPPLY OF POTABLE WATER AT THE MACTAN EXPORT PROCESSING ZONE AND RECOMMEND APPROPRIATE ACTION"
+scope = "Local"
+dateFiled = "1996-06-03"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Soon-Ruiz, Nerissa Corazon"
+[[authorsDetail]]
+name = "Soon-Ruiz, Nerissa Corazon"
+nameCode = "Ruiz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 117711
+congress = 10
+bill_no = "HR00657"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Trade and Indust"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1996-06-05"

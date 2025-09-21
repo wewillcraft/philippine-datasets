@@ -1,0 +1,41 @@
+billNumber = "HB08780"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08780"
+lastScraped = "2025-09-22T00:20:59.037531"
+title = "HB08780"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF LIGAO INTO A COMPONENT CITY OF THE PROVINCE OF ALBAY, TO BE KNOWN AS THE CITY OF LIGAO"
+scope = "Local"
+dateFiled = "1997-01-22"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salalima"
+[[authorsDetail]]
+name = "Salalima"
+nameCode = "Salalima"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-01-28"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 115201
+congress = 10
+bill_no = "HB08780"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-01-28"

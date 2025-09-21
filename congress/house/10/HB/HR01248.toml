@@ -1,0 +1,46 @@
+billNumber = "HR01248"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01248"
+lastScraped = "2025-09-22T00:20:59.665165"
+title = "HR01248"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON FOREIGN AFFAIRS, THE HOUSE COMMITTEE ON LABOR AND THE HOUSE SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED CHILD EXPLOITATION COMMITTED ONA 15-YEAR-OLD FILIPINA IN A NIGHTCLUB IN THE COMMONWEALTH OF NORTHERN MARIANA ISLANDS (CNMI)"
+scope = "Local"
+dateFiled = "1997-06-03"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-06-05"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 118302
+congress = 10
+bill_no = "HR01248"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-06-05"

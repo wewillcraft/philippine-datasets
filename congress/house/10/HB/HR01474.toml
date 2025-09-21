@@ -1,0 +1,58 @@
+billNumber = "HR01474"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01474"
+lastScraped = "2025-09-22T00:20:59.705487"
+title = "HR01474"
+longTitle = "RESOLUTION EXPRESSING THE SENTIMENT OF THE HOUSE OF REPRESENTATIVES URGING HIS EXCELLENCY, THE PRESIDENT OF THE PHILIPPINES AND THE UNIVERSITY OF THE PHILIPPINES TO HOLD IN ABEYANCE THE REPLACEMENT OF THE INCUMBENT DIRECTOR OF THE PHILIPPINE GENERALHOSPITAL, DR. ANTONIO MONTALBAN, PENDING DELIBERATION BY THE HOUSE OF CERTAIN MEASURES RELEVANT TO REFORMS IN THE PHILIPPINE GENERAL HOSPITAL"
+scope = "Local"
+dateFiled = "1997-12-18"
+status = "Adopted as Resolution No. HR00124 on 1997-12-18"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-12-18"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HR01460"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01460"
+flag = "S"
+
+[firstReading]
+id = 118528
+congress = 10
+bill_no = "HR01474"
+report = "01380"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Approval in substituti on of HR No. 1460."
+date_read = "1997-12-18"
+date_ob = "1997-12-18"
+date_report = "1997-12-18"
+
+[secondReading]
+id = 19053
+congress = 10
+bill_no = "HR01474"
+adopted_resolution = "HR00124"
+date_calendared = "1997-12-18"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00124.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00124.pdf"

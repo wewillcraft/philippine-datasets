@@ -1,0 +1,46 @@
+billNumber = "HB06797"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06797"
+lastScraped = "2025-09-22T00:20:58.620729"
+title = "HB06797"
+longTitle = "AN ACT GRANTING HONORARIA TO REPRESENTATIVES OF MEMBERS OF THE HOUSE OF REPRESENTATIVES TO THE L0CAL DEVELOPMENT COUNCILS, AMENDING FOR THE PURPOSE THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1996-04-12"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113218
+congress = 10
+bill_no = "HB06797"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-04-30"

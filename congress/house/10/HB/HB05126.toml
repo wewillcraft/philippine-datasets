@@ -1,0 +1,82 @@
+billNumber = "HB05126"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05126"
+lastScraped = "2025-09-22T00:20:58.317523"
+title = "HB05126"
+longTitle = "AN ACT STABILIZING THE PRICE AND SUPPLY OF RICE AND CORN THROUGH A PRICE SUPPORT PROGRAM,AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-11-16"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+coAuthors = [ "AVILA, EDGAR M.", "DEL MAR, RAUL V.", "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.", "LUCIANO, LEONOR INES",]
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-11-21"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111547
+congress = 10
+bill_no = "HB05126"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-11-21"

@@ -1,0 +1,68 @@
+billNumber = "HR00622"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00622"
+lastScraped = "2025-09-22T00:25:57.480266"
+title = "HR00622"
+longTitle = "RESOLUTION CONGRATULATING THE IGLESIA NI CRISTO UNDER THE LEADERSHIP OF KA ERDY MANALO, ITS EXECUTIVE MINISTER ON THE CELEBRATION OF ITS SEVENTY-NINTH (79TH) ANNIVERSARY"
+scope = "Local"
+dateFiled = "1993-05-13"
+status = "Adopted as Resolution No. HR00037 on 1993-06-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "CAPPLEMAN, BENJAMIN B.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CAPPLEMAN, BENJAMIN B."
+nameCode = "Cappleman"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-05-19"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 133934
+congress = 9
+bill_no = "HR00622"
+report = "00181"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption"
+date_read = "1993-05-19"
+date_ob = "1993-06-01"
+date_cal = "1993-06-01"
+date_unass = "1993-06-01"
+date_report = "1993-05-26"
+
+[secondReading]
+id = 20127
+congress = 9
+bill_no = "HR00622"
+adopted_resolution = "HR00037"
+date_calendared = "1993-06-03"
+date_approved = "1993-06-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00622.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00622.pdf"

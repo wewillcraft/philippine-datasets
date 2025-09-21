@@ -1,0 +1,63 @@
+billNumber = "HR01340"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01340"
+lastScraped = "2025-09-22T00:20:59.681768"
+title = "HR01340"
+longTitle = "RESOLUTION URGING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, TO CALL FOR A SUMMIT ON EDUCATION TECHNOLOGY"
+scope = "National"
+dateFiled = "1997-08-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "BAGATSING, RAMON JR. S.", "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-26"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 118394
+congress = 10
+bill_no = "HR01340"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-26"

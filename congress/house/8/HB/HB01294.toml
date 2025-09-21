@@ -1,0 +1,42 @@
+billNumber = "HB01294"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01294"
+lastScraped = "2025-09-22T00:46:56.791300"
+title = "HB01294"
+longTitle = "AN ACT ESTABLISHING A REHABILITATION CENTER FOR USERS OF PROHIBITED AND DANGEROUS DRUGS IN THE MUNICIPALITY OF PLARIDEL, PROVINCE OF BULACAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on HEALTH since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rivera"
+[[authorsDetail]]
+name = "Rivera"
+nameCode = "Rivera"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 135990
+congress = 8
+bill_no = "HB01294"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-15"

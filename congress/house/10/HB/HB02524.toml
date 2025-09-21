@@ -1,0 +1,72 @@
+billNumber = "HB02524"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02524"
+lastScraped = "2025-09-22T00:20:57.833608"
+title = "HB02524"
+longTitle = "AN ACT INCREASING THE MINIMUM BED CAPACITY OF THE ZAMBOANGA CITY MEDICAL CENTER FROM TWO HUNDRED FIFTY TO FIVE HUNDRED, AMENDING FOR THE PURPOSE SECTION 2 OF REPUBLIC ACT NO. 7272"
+scope = "Local"
+dateFiled = "1995-08-16"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lobregat"
+[[authorsDetail]]
+name = "Lobregat"
+nameCode = "Lobregat"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-22"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108945
+congress = 10
+bill_no = "HB02524"
+report = "00407"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-08-22"
+date_ob = "1996-05-21"
+date_report = "1996-05-20"
+
+[secondReading]
+id = 17932
+congress = 10
+bill_no = "HB02524"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2547
+congress = 10
+bill_no = "HB02524"
+date_dist = "1996-05-28"
+date_adopt = "1996-06-06"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-14"
+amend_ind = "N"

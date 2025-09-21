@@ -1,0 +1,42 @@
+billNumber = "HB04155"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04155"
+lastScraped = "2025-09-22T00:46:57.285486"
+title = "HB04155"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TEN-BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SAN JULIAN, PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-01"
+status = "Pending with the Committee on HEALTH since 1987-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 138841
+congress = 8
+bill_no = "HB04155"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-12-07"

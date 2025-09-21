@@ -1,0 +1,47 @@
+billNumber = "HB00458"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00458"
+lastScraped = "2025-09-22T00:12:59.889857"
+title = "HB00458"
+longTitle = "AN ACT UPGRADING THE SAMAR PROVINCIAL HOSPITAL IN CATBALOGAN, SAMAR INTO THE SAMAR REGIONAL MEDICAL CENTER, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nachura"
+[[authorsDetail]]
+name = "Nachura"
+nameCode = "Nachura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83618
+congress = 12
+bill_no = "HB00458"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

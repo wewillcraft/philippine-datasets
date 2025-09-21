@@ -1,0 +1,41 @@
+billNumber = "HB04832"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04832"
+lastScraped = "2025-09-22T00:20:58.268299"
+title = "HB04832"
+longTitle = "AN ACT INSTITUTING THE PROJECT CHALLENGE SYSTEM FOR THE PROGRAMMING, PLANNING, FINANCING, CONSTRUCTION, OPERATION AND MAINTENANCE OF INFRASTRUCTURE PROJECTS"
+scope = "National"
+dateFiled = "1995-11-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 111253
+congress = 10
+bill_no = "HB04832"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-11-09"

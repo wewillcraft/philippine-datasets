@@ -1,0 +1,41 @@
+billNumber = "HB10316"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10316"
+lastScraped = "2025-09-22T00:20:59.358068"
+title = "HB10316"
+longTitle = "AN ACT CREATING THE PROVINCE OF WESTERN LEYTE"
+scope = "Local"
+dateFiled = "1997-11-21"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Loreto"
+[[authorsDetail]]
+name = "Loreto"
+nameCode = "Loreto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-11-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 116737
+congress = 10
+bill_no = "HB10316"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-11-26"

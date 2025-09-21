@@ -1,0 +1,46 @@
+billNumber = "HB05915"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05915"
+lastScraped = "2025-09-22T00:20:58.460613"
+title = "HB05915"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION, OPERATION AND MAINTENANCE OF SIX WATER PUMPING STATIONS WITHIN THE SERVICE AREA OF THE LOCAL WATER UTILITIES ADMINISTRATION IN THE PROVINCE OF BULACAN"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112336
+congress = 10
+bill_no = "HB05915"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-29"

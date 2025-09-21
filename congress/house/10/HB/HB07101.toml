@@ -1,0 +1,41 @@
+billNumber = "HB07101"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07101"
+lastScraped = "2025-09-22T00:20:58.675018"
+title = "HB07101"
+longTitle = "AN ACT AUTHORIZING THE REGISTER OF DEEDS TO CORRECT TYPOGRAPHICAL ERRORS IN CERTIFICATES OF LAND TITLES, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1529, OTHERWISE KNOWN AS THE 'PROPERTY REGISTRATION DECREE'"
+scope = "National"
+dateFiled = "1996-05-23"
+status = "Pending with the Committee on JUSTICE since 1996-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-05-28"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 113522
+congress = 10
+bill_no = "HB07101"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-05-28"

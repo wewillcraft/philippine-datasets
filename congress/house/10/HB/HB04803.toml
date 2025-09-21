@@ -1,0 +1,46 @@
+billNumber = "HB04803"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04803"
+lastScraped = "2025-09-22T00:20:58.262935"
+title = "HB04803"
+longTitle = "AN ACT SEPARATING THE BUGSUK NATIONAL HIGH SCHOOL-MANGSEE ANNEX IN BARANGAY MANGSEE, MUNICIPALITY OF BALABAC, PROVINCE OF PALAWAN, FROM THE BUGSUK NATIONAL HIGH SCHOOL AND CONVERTING THE SAME INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE MANGSEE NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-30"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111224
+congress = 10
+bill_no = "HB04803"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-11-08"

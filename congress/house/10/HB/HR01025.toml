@@ -1,0 +1,67 @@
+billNumber = "HR01025"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01025"
+lastScraped = "2025-09-22T00:20:59.619265"
+title = "HR01025"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS, COMMITTEE ON LABOR AND EMPLOYMENT, AND THE COMMITTEE ON FOREIGN AFFAIRS, TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED TOXIC POISONING OF OVERSEAS FILIPINO WORKERS AT PHILIPS FACTORY IN HSINCHU, TAIWAN AND URGING THE SAME TO IMMEDIATELY RECOMMEND THE SUSPENSION OF THE DEPLOYMENT OF OFWs WORKING AT PHILIPS FACTORY, TAIWAN"
+scope = "Local"
+dateFiled = "1996-12-16"
+status = "Pending with the Committee on RULES since 1996-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-18"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 118079
+congress = 10
+bill_no = "HR01025"
+comm_act = "Change of Referral from the Ctte. on Rules to the Spl. Ctte. on Overseas Contract Workers, the Ctte."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-18"

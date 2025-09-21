@@ -1,0 +1,51 @@
+billNumber = "HR00001"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00001"
+lastScraped = "2025-09-22T00:13:01.141937"
+title = "HR00001"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR TO UNDERTAKE AN INVESTIGATION, IN AID OF LEGISLATION, REGARDING THE CASE OF OVERSEAS FILIPINO WORKER MYRLINDA M. MOVIDA WHO CAME BACK TO THE PHILIPPINES UNCONSCIOUS AFTER ONLY A BRIEF THREE (3)-WEEK STAY IN MALAYSIA AND THEREAFTER TO MAKE RECOMMENDATIONS IN RELATION THERETO"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 89940
+congress = 12
+bill_no = "HR00001"
+report = ""
+comm_act = "Jointly Referred to the Ctte. on Foreign Affairs on Aug. 28, 2001."
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2001-07-24"

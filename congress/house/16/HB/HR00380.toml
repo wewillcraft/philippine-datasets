@@ -1,0 +1,47 @@
+billNumber = "HR00380"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00380"
+lastScraped = "2025-09-21T23:56:22.866476"
+title = "HR00380"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS, THE COMMITTEE ON HEALTH AND THE COMMITTEE ON NORTHERN LUZON GROWTH QUADRANGLE TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION, ON THE COLLAPSE OF THE CONCRETE GUTTER AND THE IMPLEMENTATION DECISIONS ON THE CURRENT CONSTRUCTION OF THE NEW IFUGAO GENERAL HOSPITAL (IGH) LOCATED AT THE MUNICIPALITY OF LAGAWE, PROVINCE OF IFUGAO"
+scope = "National"
+dateFiled = "2013-10-14"
+status = "Pending with the Committee on HEALTH since 2013-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00380.pdf"
+fileSize = 106517
+author = "Baguilat, Teddy Jr. Brawner"
+[[authorsDetail]]
+name = "Baguilat, Teddy Jr. Brawner"
+nameCode = "Baguilat"
+date = "2013-10-14"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-10-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52779
+congress = 16
+bill_no = "HR00380"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-12-09"
+date_read = "2013-10-21"

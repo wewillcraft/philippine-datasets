@@ -1,0 +1,52 @@
+billNumber = "HCR0022"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HCR0022"
+lastScraped = "2025-09-22T00:47:02.513181"
+title = "HCR0022"
+longTitle = "CONCURRENT RESOLUTION REVISING THE LEGISLATIVE CALENDAR PROVIDED IN CONCURRENT RESOLUTION NO. 8 FOR THE SECOND REGULAR SESSION"
+scope = "Local"
+dateFiled = "1988-09-09"
+status = "Adopted as Resolution No.  on 1988-09-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco"
+[[authorsDetail]]
+name = "Cuenco"
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-09-12"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 169857
+congress = 8
+bill_no = "HCR0022"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-09-12"
+
+[secondReading]
+id = 21588
+congress = 8
+bill_no = "HCR0022"
+remarks = "Adopted by the House - Pending with the Senate"
+date_calendared = "1988-09-12"
+date_approved = "1988-09-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

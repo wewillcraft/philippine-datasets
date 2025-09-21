@@ -1,0 +1,56 @@
+billNumber = "HB02515"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02515"
+lastScraped = "2025-09-22T00:20:57.832211"
+title = "HB02515"
+longTitle = "AN ACT ALLOWING NATURAL-BORN CITIZENS OF THE PHILIPPINES WHO HAVE LOST THEIR CITIZENSHIP TO EXERCISE CERTAIN RIGHTS AND PRIVILEGES ENJOYED BY FILIPINO CITIZENS"
+scope = "National"
+dateFiled = "1995-08-16"
+status = "Pending with the Committee on JUSTICE since 1995-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "AVILA, EDGAR M.", "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 108936
+congress = 10
+bill_no = "HB02515"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-22"

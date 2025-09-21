@@ -1,0 +1,58 @@
+billNumber = "HR00724"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00724"
+lastScraped = "2025-09-22T00:25:57.498711"
+title = "HR00724"
+longTitle = "RESOLUTION URGENTLY REQUESTING THE HOUSE COMMITTEE ON ECOLOGY TO INVESTIGATE AND INQUIRE INTO THE CAUSE OF MASSIVE POISONING OF FISH IN THE BARANGAYS OF MUNTINLUPA, METRO MANILA AND SAN PEDRO, LAGUNA ALONG THE SHORES OF LAGUNA LAKE, AND TO HASTEN THE APPROVAL OF HOUSE RESOLUTIONS NO. 101 AND 135 WHICH ARE AIMED TO PROTECT AND PRESERVE LAGUNA DE BAY AND ITS WATERSHED, MT. MAKILING"
+scope = "Local"
+dateFiled = "1993-08-13"
+status = "Pending with the Committee on ECOLOGY since 1993-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tingzon"
+coAuthors = [ "ALMORO, ROY M.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Tingzon"
+nameCode = "Tingzon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALMORO, ROY M."
+nameCode = "Almoro"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-08-18"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 134036
+congress = 9
+bill_no = "HR00724"
+comm_act = "Change of referral from the Committee on Rules (J.16,p.8)"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-08-18"

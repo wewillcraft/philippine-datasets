@@ -1,0 +1,50 @@
+billNumber = "HR00711"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00711"
+lastScraped = "2025-09-22T00:20:59.559627"
+title = "HR00711"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED UNPAID ALLOWANCES AND BONUSES OF PUBLIC SCHOOL TEACHERS TOTALLING FOUR BILLION PESOS"
+scope = "National"
+dateFiled = "1996-07-12"
+status = "Pending with the Committee on RULES since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117765
+congress = 10
+bill_no = "HR00711"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Education and Culture on July 25, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-24"

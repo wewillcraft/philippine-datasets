@@ -1,0 +1,42 @@
+billNumber = "HB11333"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11333"
+lastScraped = "2025-09-22T00:46:58.558776"
+title = "HB11333"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK FARM IN BARANGAY MERRYLAND, MUNICIPALITY OF BUENAVISTA, PROVINCE OFBOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-30"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-06-01"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 146002
+congress = 8
+bill_no = "HB11333"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-06-01"

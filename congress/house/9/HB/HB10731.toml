@@ -1,0 +1,47 @@
+billNumber = "HB10731"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10731"
+lastScraped = "2025-09-22T00:25:56.542366"
+title = "HB10731"
+longTitle = "AN ACT DECLARING THE SECOND SATURDAY OF MARCH AND SECOND SATURDAY OF MAY OF EVERY YEAR AS NATIONAL IMMUNIZATION DAYS THROUGHOUT THE PHILIPPINES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-09-09"
+status = "Pending with the Committee on HEALTH since 1993-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-09-20"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129349
+congress = 9
+bill_no = "HB10731"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-09-20"

@@ -1,0 +1,47 @@
+billNumber = "HB07894"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07894"
+lastScraped = "2025-09-22T00:25:56.029220"
+title = "HB07894"
+longTitle = "AN ACT ESTABLISHING A DRUG DETECTION AND REHABILITATION CENTER IN THE MUNICIPALITY OF BALAGTAS, PROVICNE OF BULACAN, TO BE KNOWN AS THE BALAGTAS DRUG DPENDENT DETECTION AND REHABILITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-03-03"
+status = "Pending with the Committee on HEALTH since 1993-03-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-03-09"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126513
+congress = 9
+bill_no = "HB07894"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-03-09"

@@ -1,0 +1,42 @@
+billNumber = "HB00905"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00905"
+lastScraped = "2025-09-22T00:46:56.724129"
+title = "HB00905"
+longTitle = "AN ACT ESTABLISHING A TEN-BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF LEYTE, TO BE KNOWN AS THE SAN MIGUEL EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on HEALTH since 1987-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-02"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 135602
+congress = 8
+bill_no = "HB00905"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-02"

@@ -1,0 +1,46 @@
+billNumber = "HB08229"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08229"
+lastScraped = "2025-09-22T00:20:58.924695"
+title = "HB08229"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN THE ALMENANA ELEMENTARY SCHOOL, BARANGAY ALMENANA, MUNICIPALITY OF ESTANCIA, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-10-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-17"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114650
+congress = 10
+bill_no = "HB08229"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-17"

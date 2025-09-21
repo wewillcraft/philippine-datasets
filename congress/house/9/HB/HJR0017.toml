@@ -1,0 +1,47 @@
+billNumber = "HJR0017"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HJR0017"
+lastScraped = "2025-09-22T00:25:57.363997"
+title = "HJR0017"
+longTitle = "JOINT RESOLUTION CREATING A LEGISLATIVE TASK FORCE TO REVIEW ALL EXISTING EXECUTIVE ISSUANCES WITH THE NATURE AND FORCE OF LAW, INCLUDING IMPLEMENTING RULES AND REGULATIONS PROMULGATED BY VARIOUS AGENCIES, APPROPRIATING FUNDS THEREFOR AND FOR OTHERPURPOSES"
+scope = "National"
+dateFiled = "1994-02-24"
+status = "Pending with the Committee on REVISION OF LAWS since 1994-03-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1994-03-02"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 133305
+congress = 9
+bill_no = "HJR0017"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1994-03-02"

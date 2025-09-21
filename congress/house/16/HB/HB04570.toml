@@ -1,0 +1,101 @@
+billNumber = "HB04570"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04570"
+lastScraped = "2025-09-21T23:56:22.332365"
+title = "Dividing Barangay Tanza In The City Of Navotas Into Two (2) Distinct And Independent Barangays"
+longTitle = "AN ACT DIVIDING BARANGAY TANZA IN THE CITY OF NAVOTAS INTO TWO (2) DISTINCT AND INDEPENDENT BARANGAYS TO BE KNOWN AS BARANGAY TANZA 1 AND BARANGAY TANZA 2"
+scope = "Local"
+dateFiled = "2014-06-03"
+status = "Approved by the House on 2014-08-26, transmitted to the Senate on 2014-09-01 and received by the Senate on 2014-09-01"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "TIANGCO, TOBIAS \"TOBY\" M."
+[[authorsDetail]]
+name = "TIANGCO, TOBIAS \"TOBY\" M."
+nameCode = "Tiangco"
+date = "2014-06-03"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-06-04"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[motherBills]]
+bill_no = "HB00704"
+sequence = 1
+date = "2014-06-03"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00704"
+sequence = 1
+date = "2014-06-03"
+flag = "S"
+
+[firstReading]
+id = 50384
+congress = 16
+bill_no = "HB04570"
+report = "00290"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval in substitution of HB NO. 704"
+remarks = ""
+file = "CR00290.pdf"
+date_read = "2014-06-04"
+date_ob = "2014-06-04"
+date_report = "2014-06-03"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00290.pdf"
+
+[secondReading]
+id = 5334
+congress = 16
+bill_no = "HB04570"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2014-08-05"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+
+[thirdReading]
+id = 9946
+congress = 16
+bill_no = "HB04570"
+date_dist = "2014-08-06"
+date_adopt = "2014-08-26"
+remarks = "    "
+no_yeas = 216
+no_nays = 0
+no_abstent = 0
+date_trans = "2014-09-01"
+date_rec = "2014-09-01"
+amend_ind = " "
+ccreqby = " "
+for_enroll = " "
+act_pres = " "
+cc_yeas = 0
+cc_nays = 0
+cc_absten = 0
+file = "hbt4570.pdf"
+third_reading_copy = "https://docs.congress.hrep.online/legisdocs/third_16/hbt4570.pdf"

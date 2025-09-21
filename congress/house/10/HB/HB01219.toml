@@ -1,0 +1,46 @@
+billNumber = "HB01219"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01219"
+lastScraped = "2025-09-22T00:20:57.583761"
+title = "HB01219"
+longTitle = "AN ACT CONVERTING THE NEGROS ORIENTAL NATIONAL AGRICULTURAL SCHOOL (NONAS) INTO A STATE COLLEGE TO BE KNOWN AS NEGROS ORIENTAL STATE COLLEGE OF AGRICULTURE"
+scope = "Local"
+dateFiled = "1995-07-24"
+status = "Substituted by HB09969"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves"
+[[authorsDetail]]
+name = "Teves"
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107640
+congress = 10
+bill_no = "HB01219"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-31"

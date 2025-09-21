@@ -1,0 +1,51 @@
+billNumber = "HB04673"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04673"
+lastScraped = "2025-09-22T00:20:58.239375"
+title = "HB04673"
+longTitle = "AN ACT CONVERTING THE TIEMPO NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF TUBO, PROVINCE OF ABRA, INTO A NATIONAL AGRICULTURAL COLLEGE, TO BE KNOWN AS THE SOUTHERN ABRA NATIONAL AGRICULTURAL COLLEGE, INTEGRATING THEREWITH THE SUPO NATIONAL HIGH SCHOOL IN THE SAME MUNICIPALITY, ALSO IN THE PROVINCE OF ABRA"
+scope = "Local"
+dateFiled = "1995-10-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111094
+congress = 10
+bill_no = "HB04673"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-27"

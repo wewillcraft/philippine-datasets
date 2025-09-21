@@ -1,0 +1,55 @@
+billNumber = "HB01213"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01213"
+lastScraped = "2025-09-22T00:23:15.722875"
+title = "HB01213"
+longTitle = "AN ACT TO APPROPRIATE FUNDS FOR THE BARANGAY HEALTH WORKERS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7883"
+scope = "National"
+dateFiled = "1998-07-21"
+status = "Pending with the Committee on HEALTH since 1998-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calimbas-Villarosa, Ma. Amelita A."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Calimbas-Villarosa, Ma. Amelita A."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92654
+congress = 11
+bill_no = "HB01213"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1998-07-30"

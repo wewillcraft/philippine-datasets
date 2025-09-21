@@ -1,0 +1,49 @@
+billNumber = "HB04382"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04382"
+lastScraped = "2025-09-22T00:20:58.192689"
+title = "HB04382"
+longTitle = "AN ACT AMENDING SECTIONS THIRTY-FOUR AND THIRTY-SIX, CHAPTER 12, TITLE III, BOOK IV, OF EXECUTIVE ORDER NUMBERED 292, OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-10-13"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 110803
+congress = 10
+bill_no = "HB04382"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-10-24"

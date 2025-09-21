@@ -1,0 +1,42 @@
+billNumber = "HB13291"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13291"
+lastScraped = "2025-09-22T00:25:57.054901"
+title = "HB13291"
+longTitle = "AN ACT ESTABLISHING A TOURISM RESORT COMPLEX IN CASAMATA HILL, BANGUED, ABRA AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-02"
+status = "Pending with the Committee on TOURISM since 1994-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-08-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131900
+congress = 9
+bill_no = "HB13291"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-08-08"

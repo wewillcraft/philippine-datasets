@@ -1,0 +1,82 @@
+billNumber = "HB05686"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05686"
+lastScraped = "2025-09-21T23:55:21.124917"
+title = "HB05686"
+longTitle = "AN ACT ESTABLISHING A CANCER MEDICINE AND TREATMENT ASSISTANCE FUND FOR INDIGENT AND UNDERPRIVILEGED FILIPINOS"
+scope = "National"
+dateFiled = "2022-10-25"
+status = "Pending with the Committee on HEALTH since 2022-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05686.pdf"
+fileSize = 156079
+author = "Villar, Camille A."
+coAuthors = [ "TIANGCO, TOBIAS REYNALD M.", "RIVERA, BONG", "LEE, WILBERT T.", "BARONDA, JULIENNE \"Jam\"", "BONDOC, ANNA YORK P.",]
+[[authorsDetail]]
+name = "Villar, Camille A."
+nameCode = "Villar (C)"
+date = "2022-10-25"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TIANGCO, TOBIAS REYNALD M."
+nameCode = "Tiangco"
+date = "2024-01-23"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-02-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-09-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "BARONDA, JULIENNE \"Jam\""
+nameCode = "Baronda"
+date = "2025-01-21"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "BONDOC, ANNA YORK P."
+nameCode = "Bondoc"
+date = "2025-02-03"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 10605
+congress = 19
+bill_no = "HB05686"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-08"

@@ -1,0 +1,71 @@
+billNumber = "HB03520"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03520"
+lastScraped = "2025-09-22T00:20:58.025487"
+title = "HB03520"
+longTitle = "AN ACT CONSTITUTING THE SECOND CONGRESSIONAL DISTRICT OF THE PROVINCE OF ORIENTAL MINDORO INTO A SEPARATE ENGINEERING DISTRICT, TO BE KNOWN AS THE SOUTHERN MINDORO ENGINEERING DISTRICT, THE DISTRICT OFFICE OF WHICH SHALL BE IN THE MUNICIPALITY OF ROXAS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-18"
+status = "Approved by the House on 1996-05-20, transmitted to on 1996-05-20 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-21"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109941
+congress = 10
+bill_no = "HB03520"
+report = "00367"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "1995-09-21"
+date_ob = "1996-05-07"
+date_report = "1996-04-29"
+
+[secondReading]
+id = 18021
+congress = 10
+bill_no = "HB03520"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2632
+congress = 10
+bill_no = "HB03520"
+date_dist = "1996-05-15"
+date_adopt = "1996-05-20"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-24"

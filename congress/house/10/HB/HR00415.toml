@@ -1,0 +1,49 @@
+billNumber = "HR00415"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00415"
+lastScraped = "2025-09-22T00:20:59.499793"
+title = "HR00415"
+longTitle = "RESOLUTION REQUESTING THE COMMISSIONER OF INTERNAL REVENUE TO RELEASE THE LOCAL GOVERNMENT UNITS' SHARE IN THE VALUE- ADDED TAX REVENUE"
+scope = "National"
+dateFiled = "1996-01-24"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 117469
+congress = 10
+bill_no = "HR00415"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-01-29"

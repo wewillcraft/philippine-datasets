@@ -1,0 +1,42 @@
+billNumber = "HB02173"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02173"
+lastScraped = "2025-09-22T00:46:56.942685"
+title = "HB02173"
+longTitle = "AN ACT ESTABLISHING A TREATMENT AND REHABILITATION CENTER FOR DRUG DEPENDENTS OF THE PROVINCE OF CEBU, TO BE SITUATED IN THE MUNICIPALITY OF CONSOLACION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-01"
+status = "Pending with the Committee on HEALTH since 1987-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 136862
+congress = 8
+bill_no = "HB02173"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-10-05"

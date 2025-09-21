@@ -1,0 +1,42 @@
+billNumber = "HCR0032"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HCR0032"
+lastScraped = "2025-09-22T00:47:02.513953"
+title = "HCR0032"
+longTitle = "CONCURRENT RESOLUTION GIVING CONSENT TO THE HONORABLE RUPERTO S. DIZON TO ACCEPT THE DECORATION KNOWN AS 'ORDEN DEL LIBERTADOR SAN MARTINENEL GRADO DE OFFICAL' AWARDED TO HIM BY THE ARGENTINE GOVERNMENT"
+scope = "Local"
+dateFiled = "1989-09-27"
+status = "Pending with the Committee on CIVIL SERVICE since 1989-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1989-09-27"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 169862
+congress = 8
+bill_no = "HCR0032"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1989-09-27"

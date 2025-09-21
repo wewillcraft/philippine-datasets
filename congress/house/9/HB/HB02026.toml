@@ -1,0 +1,55 @@
+billNumber = "HB02026"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02026"
+lastScraped = "2025-09-22T00:25:54.955077"
+title = "HB02026"
+longTitle = "AN ACT ESTABLISHING THE CONGRESSIONAL BUDGET OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-09-02"
+status = "Pending with the Committee on ACCOUNTS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "0501"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120645
+congress = 9
+bill_no = "HB02026"
+referral = "0501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "1992-09-03"

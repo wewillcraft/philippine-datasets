@@ -1,0 +1,46 @@
+billNumber = "HB02008"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02008"
+lastScraped = "2025-09-21T23:55:44.489564"
+title = "HB02008"
+longTitle = "AN ACT PROVIDING FOR THE PROTECTION, SECURITY AND BENEFITS OF WHISTLEBLOWERS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-27"
+status = "Pending with the Committee on JUSTICE since 2016-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02008.pdf"
+fileSize = 1748568
+author = "ACOP, ROMEO M."
+[[authorsDetail]]
+name = "ACOP, ROMEO M."
+nameCode = "Acop"
+date = "2016-07-27"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-08-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 35476
+congress = 17
+bill_no = "HB02008"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-08"

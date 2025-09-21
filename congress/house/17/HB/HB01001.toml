@@ -1,0 +1,89 @@
+billNumber = "HB01001"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01001"
+lastScraped = "2025-09-21T23:55:44.276693"
+title = "HB01001"
+longTitle = "AN ACT PROHIBITING THE DETENTION OF BODIES IN FUNERAL HOMES AND MORGUES ON GROUNDS OF NON PAYMENT OF EMBALMENT OR ANY OTHER FUNERAL SERVICES"
+scope = "National"
+dateFiled = "2016-07-04"
+status = "Pending with the Committee on HEALTH since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01001.pdf"
+fileSize = 504269
+author = "Campos, Luis Jr. N."
+coAuthors = [ "DEL ROSARIO, MONSOUR", "EUSEBIO, RICKY", "DE VERA, EUGENE MICHAEL B.", "SALON, ORESTES T.", "ARCILLAS, ARLENE B.", "FORTUN, LAWRENCE LEMUEL H.",]
+[[authorsDetail]]
+name = "Campos, Luis Jr. N."
+nameCode = "Campos"
+date = "2016-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, MONSOUR"
+nameCode = "Del Rosario"
+date = "2016-09-06"
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "EUSEBIO, RICKY"
+nameCode = "Eusebio"
+date = "2016-09-29"
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DE VERA, EUGENE MICHAEL B."
+nameCode = "De Vera"
+date = "2016-10-04"
+journalNo = "J032"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SALON, ORESTES T."
+nameCode = "Salon"
+date = "2016-12-12"
+journalNo = "J054"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ARCILLAS, ARLENE B."
+nameCode = "Arcillas"
+date = "2016-12-12"
+journalNo = "J054"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "FORTUN, LAWRENCE LEMUEL H."
+nameCode = "Fortun"
+date = "2019-01-21"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 34469
+congress = 17
+bill_no = "HB01001"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

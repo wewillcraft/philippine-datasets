@@ -1,0 +1,76 @@
+billNumber = "HB05409"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05409"
+lastScraped = "2025-09-22T00:20:58.369078"
+title = "HB05409"
+longTitle = "AN ACT UPGRADING THE 75-BED CAPACITY PUERTO PRINCESA PROVINCIAL HOSPITAL IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN, INTO A 200-BED CAPACITY HOSPITAL TO BE KNOWN AS THE PALAWAN REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-04"
+status = "REPUBLIC ACT (RA08549) enacted on 1998-02-24"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-12-07"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111830
+congress = 10
+bill_no = "HB05409"
+report = "00360"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval without amendment"
+date_read = "1995-12-07"
+date_ob = "1996-04-30"
+date_report = "1996-04-23"
+
+[secondReading]
+id = 18204
+congress = 10
+bill_no = "HB05409"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2809
+congress = 10
+bill_no = "HB05409"
+date_dist = "1996-05-20"
+date_adopt = "1996-05-23"
+no_yeas = 110
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-23"
+date_rec = "1996-05-29"
+date_agram = "1997-12-04"
+amend_ind = "Y"
+act_pres = "A"
+dte_transp = "1998-01-27"
+dte_actedp = "1998-02-24"

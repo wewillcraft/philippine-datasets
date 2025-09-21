@@ -1,0 +1,52 @@
+billNumber = "HB03882"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03882"
+lastScraped = "2025-09-22T00:13:00.499197"
+title = "HB03882"
+longTitle = "AN ACT ESTABLISHING A DRUG REHABILITATION CENTER IN THE SOUTH DISTRICT OF CEBU CITY AND APPROPRIATING THE AMOUNT OF ONE HUNDRED MILLION PESOS FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "2001-11-15"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 87042
+congress = 12
+bill_no = "HB03882"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-11-26"

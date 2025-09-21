@@ -1,0 +1,41 @@
+billNumber = "HB07885"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07885"
+lastScraped = "2025-09-22T00:20:58.859709"
+title = "HB07885"
+longTitle = "AN ACT TO REPEAL THE DOWNSTREAM OIL INDUSTRY DEREGULATION ACT OF 1996, OTHERWISE KNOWN AS REPUBLIC ACT NO. 8180"
+scope = "National"
+dateFiled = "1996-09-04"
+status = "Pending with the Committee on ENERGY since 1996-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-09-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 114306
+congress = 10
+bill_no = "HB07885"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-09-09"

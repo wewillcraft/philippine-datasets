@@ -1,0 +1,42 @@
+billNumber = "HB13828"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13828"
+lastScraped = "2025-09-22T00:25:57.154460"
+title = "HB13828"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF BINALONAN, PROVINCE OF PANGASINAN, TO BE KNOWN AS THE BINALONAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-09-26"
+status = "Pending with the Committee on HEALTH since 1994-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-09-28"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132437
+congress = 9
+bill_no = "HB13828"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-09-28"

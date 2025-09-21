@@ -1,0 +1,41 @@
+billNumber = "HB01820"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01820"
+lastScraped = "2025-09-22T00:20:57.686250"
+title = "HB01820"
+longTitle = "AN ACT RENEWING THE FRANCHISE OF MR. AMADO L. OLA GRANTED UNDER REPUBLIC ACT NO. 6001 FOR A TERM OF TWENTY-FIVE YEARS FROM THE DATE OF THE EFFECTIVITY OF THE  ACT"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Substituted by HB03411"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 108241
+congress = 10
+bill_no = "HB01820"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+date_read = "1995-08-09"

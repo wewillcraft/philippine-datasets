@@ -1,0 +1,46 @@
+billNumber = "HB08731"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08731"
+lastScraped = "2025-09-22T00:20:59.028550"
+title = "HB08731"
+longTitle = "AN ACT AUTHORIZING THE CONCRETING OF CAMPO-UNO TO TUBURAN PROPER PROVINCIAL ROAD, MUNICIPALITY OF TUBURAN, PROVINCE OF BASILAN, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-17"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115152
+congress = 10
+bill_no = "HB08731"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-01-23"

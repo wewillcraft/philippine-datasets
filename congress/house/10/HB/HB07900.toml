@@ -1,0 +1,54 @@
+billNumber = "HB07900"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07900"
+lastScraped = "2025-09-22T00:20:58.862292"
+title = "HB07900"
+longTitle = "AN ACT CREATING THE LOCAL GOVERNMENTS' EXPERTS EXCHANGE PROGRAM ACADEMY, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-09-06"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-09-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-09-11"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114321
+congress = 10
+bill_no = "HB07900"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-09-11"

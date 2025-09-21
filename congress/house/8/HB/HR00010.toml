@@ -1,0 +1,57 @@
+billNumber = "HR00010"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00010"
+lastScraped = "2025-09-22T00:47:02.524725"
+title = "HR00010"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ALLEGED \"DONATIONS, RACKET IN MEDICAL SCHHOLS\" AND TO RECOMMEND SUCH REMEDIAL MEASURES AS MAY BE NECESSARY TO PREVENT SUCH UNLAWFUL OR UNETHICAL PRACTICES WHICH TEND TO AFFECT THE QUALITY OF EDUCATION IN OUR MEDICAL SCHOOLS, SINCE STUDENTS THOUGH UNQUALIFIED ARE REPORTEDLY ADMITTED BECAUSE OF SUCH \"DONATIONS\""
+scope = "National"
+dateFiled = "1987-07-23"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "DRAGON, RENATO P.", "ALFELOR, CIRIACO R.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALFELOR, CIRIACO R."
+nameCode = "Alfelor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-07-29"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 169920
+congress = 8
+bill_no = "HR00010"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-07-29"

@@ -1,0 +1,42 @@
+billNumber = "HR01823"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01823"
+lastScraped = "2025-09-22T00:47:02.889036"
+title = "HR01823"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON MUSLIM AFFAIRS TO CONDUCT AN EXTENSIVE INVESTIGATION, IN AID OF LEGISLATION, ON THE TRAGIC DEATH OF MUSLIM FILIPINOS WHO JOINED AND PARTICIPATED IN THE RECENT PILGRIMAGE TO MECCA, SAUDI ARABIA AND TO ORDERTHE OFFICE OF MUSLIM AFFAIRS TO SHED LIGHT ON THIS MATTER"
+scope = "Local"
+dateFiled = "1990-07-24"
+status = "Pending with the Committee on MUSLIM AFFAIRS since 1990-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "primary"
+referralCode = "523"
+dateRead = "1990-07-30"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 171660
+congress = 8
+bill_no = "HR01823"
+referral = "523"
+ref_name = "MUSLIM AFFAIRS"
+sub_name = ""
+date_read = "1990-07-30"

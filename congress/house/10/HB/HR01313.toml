@@ -1,0 +1,41 @@
+billNumber = "HR01313"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01313"
+lastScraped = "2025-09-22T00:20:59.676586"
+title = "HR01313"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES THROUGH ITS COMMITTEE ON PUBLIC ORDER AND SECURITY TO INVESTIGATE, IN AID OF LEGISLATION THE ALLEGED HAZING AT THE PHILIPPINE NATIONAL POLICE ACADEMY (PNPA) IN CAMP CASTANEDA, CAVITE"
+scope = "Local"
+dateFiled = "1997-08-05"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 118367
+congress = 10
+bill_no = "HR01313"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-08-07"

@@ -1,0 +1,43 @@
+billNumber = "HB01540"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01540"
+lastScraped = "2025-09-22T00:46:56.833746"
+title = "HB01540"
+longTitle = "AN ACT PROVIDING FOR THE DEVELOPMENT OF A 3-HECTARE CITY PARK/PLAYGROUND IN MANDAUE CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-16"
+status = "Pending with the Committee on URBAN DEVELOPMENT since 1987-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "541"
+dateRead = "1987-09-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136235
+congress = 8
+bill_no = "HB01540"
+comm_act = "REFERRAL CHANGED TO PUBLIC WORKS AND HIGHWAYS"
+referral = "541"
+ref_name = "URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "1987-09-21"

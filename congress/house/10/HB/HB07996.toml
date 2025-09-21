@@ -1,0 +1,41 @@
+billNumber = "HB07996"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07996"
+lastScraped = "2025-09-22T00:20:58.879558"
+title = "HB07996"
+longTitle = "AN ACT RENAMING TAFT AVENUE TO BISHOP GREGORIO AGLIPAY AVENUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 114417
+congress = 10
+bill_no = "HB07996"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-09-26"

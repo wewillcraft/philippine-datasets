@@ -1,0 +1,49 @@
+billNumber = "HB06725"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06725"
+lastScraped = "2025-09-22T00:20:58.608253"
+title = "HB06725"
+longTitle = "AN ACT CONSTITUTING THE PROVINCE OF PALAWAN AND THE CITY OF PUERTO PRINCESA INTO REGION FIFTEEN TO BE KNOWN AS THE PALAWAN REGION"
+scope = "Local"
+dateFiled = "1996-03-26"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-03-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "SANDOVAL, VICENTE A.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANDOVAL, VICENTE A."
+nameCode = "Sandoval"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-03-28"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 113146
+congress = 10
+bill_no = "HB06725"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-03-28"

@@ -1,0 +1,75 @@
+billNumber = "HB06503"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06503"
+lastScraped = "2025-09-22T00:20:58.569393"
+title = "HB06503"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN POBLACION, MUNICIPALITY OF DANGCAGAN, PROVINCE OF BUKIDNON, TO BE KNOWN AS THE DANGCAGAN NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1996-03-06"
+status = "REPUBLIC ACT RA08712 (Lapsed into law on 1998-07-16)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-03-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112924
+congress = 10
+bill_no = "HB06503"
+report = "00873"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1996-03-11"
+date_ob = "1997-04-24"
+date_report = "1997-04-22"
+
+[secondReading]
+id = 18372
+congress = 10
+bill_no = "HB06503"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-04-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2970
+congress = 10
+bill_no = "HB06503"
+date_dist = "1997-05-07"
+date_adopt = "1997-08-04"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-05"
+date_rec = "1997-08-07"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-06-10"
+dte_actedp = "1998-07-16"

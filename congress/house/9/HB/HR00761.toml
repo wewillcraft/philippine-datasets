@@ -1,0 +1,43 @@
+billNumber = "HR00761"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00761"
+lastScraped = "2025-09-22T00:25:57.505401"
+title = "HR00761"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE CONTRACT TO SELL BY THE DEPARTMENT OF HEALTH OF A TWO-HECTARE PROPERTY ALREADY DONATED TO IT IN 1973"
+scope = "National"
+dateFiled = "1993-09-10"
+status = "Pending with the Committee on HEALTH since 1993-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-09-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134073
+congress = 9
+bill_no = "HR00761"
+comm_act = "Change of referral from the Committee on Rules (J.27,p.16 7)"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-09-20"

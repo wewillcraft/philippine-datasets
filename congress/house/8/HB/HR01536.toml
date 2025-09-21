@@ -1,0 +1,42 @@
+billNumber = "HR01536"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01536"
+lastScraped = "2025-09-22T00:47:02.822809"
+title = "HR01536"
+longTitle = "RESOLUTION CONSULTING THE PEOPLE ON THE RETENTION OR REMOVAL OF THE U.S. MILITARY BASES THROUGH THE BARANGAY ASSEMBLIES INSTEAD OF HOLDING A REFERENDUM"
+scope = "National"
+dateFiled = "1989-10-19"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1989-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "537"
+dateRead = "1989-11-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171398
+congress = 8
+bill_no = "HR01536"
+referral = "537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "1989-11-20"

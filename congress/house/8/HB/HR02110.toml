@@ -1,0 +1,42 @@
+billNumber = "HR02110"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02110"
+lastScraped = "2025-09-22T00:47:02.963861"
+title = "HR02110"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE(S) OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE GRANTING BY THE MAKATI MUNICIPAL COUNCIL OF A LICENSE/FRANCHI SETO THE JHI REALTY CORPORATION FOR THE CONSTRUCTIONAND OPERATION OF A P25 M COCKPIT IN THE MUNICIPALITY OF MAKATI NOTWITHSTANDING THE NUMEROUS COMPLAINTS AND STRONG OPPOSITION BY SOME RESIDENTS"
+scope = "Local"
+dateFiled = "1991-01-15"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1991-01-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puyat-reyes"
+[[authorsDetail]]
+name = "Puyat-reyes"
+nameCode = "Puyat-reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "514"
+dateRead = "1991-01-21"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171945
+congress = 8
+bill_no = "HR02110"
+referral = "514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1991-01-21"

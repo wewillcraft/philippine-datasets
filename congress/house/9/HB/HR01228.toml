@@ -1,0 +1,42 @@
+billNumber = "HR01228"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01228"
+lastScraped = "2025-09-22T00:25:57.594900"
+title = "HR01228"
+longTitle = "RESOLUTION COMMENDING THE ARMED FORCES OF THE PHILIPPINES RESERVE FORCES FOR THEIR HEROIC ROLE IN TIMES OF CALAMITIES AND THEIR CONTINUING PURSUIT OF THE ADVANCEMENT OF THE RESERVE FORCES"
+scope = "National"
+dateFiled = "1994-09-21"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-09-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134534
+congress = 9
+bill_no = "HR01228"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-09-27"

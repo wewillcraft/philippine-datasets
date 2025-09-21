@@ -1,0 +1,42 @@
+billNumber = "HB06913"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06913"
+lastScraped = "2025-09-22T00:46:57.826919"
+title = "HB06913"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN METEOR, BARANGAY PARANG, MUNICIPALITY OF MARIKINA, METRO MANILA"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on HEALTH since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 141594
+congress = 8
+bill_no = "HB06913"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-24"

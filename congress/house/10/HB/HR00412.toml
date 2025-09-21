@@ -1,0 +1,50 @@
+billNumber = "HR00412"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00412"
+lastScraped = "2025-09-22T00:20:59.499359"
+title = "HR00412"
+longTitle = "RESOLUTION URGING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED RAMPANT PROLIFERATION OF FAKE DRUGS NATIONWIDE"
+scope = "National"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on HEALTH since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 117466
+congress = 10
+bill_no = "HR00412"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Health on Jan. 31, 1996."
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-29"

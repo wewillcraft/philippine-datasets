@@ -1,0 +1,41 @@
+billNumber = "HB08616"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08616"
+lastScraped = "2025-09-22T00:20:58.997144"
+title = "HB08616"
+longTitle = "AN ACT TRANSFERRING LANAO DEL NORTE AND ILIGAN CITY FROM REGION XII TO REGION X AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-12-11"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-12-16"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 115037
+congress = 10
+bill_no = "HB08616"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-12-16"

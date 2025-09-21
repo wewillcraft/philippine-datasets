@@ -1,0 +1,46 @@
+billNumber = "HR01225"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01225"
+lastScraped = "2025-09-22T00:20:59.661405"
+title = "HR01225"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON TRADE AND INDUSTRY, BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON RECENT REPORTS OF THE AWARDING OF PANTRANCO PROPERTIES LOCATED ALONG QUEZON AVENUE IN QUEZON CITY, OWNED BY PHILIPPINE NATIONAL BANK MANAGEMENT AND DEVELOPMENT, TO MEGA PRIME REALTY AND HOLDINGS CORPORATION, TO PROMOTE FAIRNESS AND TRANSPARENCY IN THE BIDDING PROCEDURES AND MANNER OF DISPOSING SEQUESTERED ASSETS FOR MAXIMUM BENEFIT OF THE GOVERNMENT"
+scope = "Local"
+dateFiled = "1997-05-21"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-05-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 118279
+congress = 10
+bill_no = "HR01225"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-05-26"

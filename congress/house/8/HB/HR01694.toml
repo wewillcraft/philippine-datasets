@@ -1,0 +1,42 @@
+billNumber = "HR01694"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01694"
+lastScraped = "2025-09-22T00:47:02.868733"
+title = "HR01694"
+longTitle = "RESOLUTION CREATING A SELECT COMMITTEE ON INTELLIGENCE OVERSIGHT TO OVERSEE AND MAKE CONTINUING STUDIES OF ALL THE INTELLIGENCE ACTIVITIES OF THE PHILIPPINE GOVERNMENT AND TO SUBMIT TO THE HOUSE OF REPRESENTATIVES APPROPRIATE PROPOSALS FOR LEGISLATION"
+scope = "National"
+dateFiled = "1990-03-12"
+status = "Pending with the Committee on RULES since 1990-03-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dans"
+[[authorsDetail]]
+name = "Dans"
+nameCode = "Dans"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-03-12"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 171536
+congress = 8
+bill_no = "HR01694"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-03-12"

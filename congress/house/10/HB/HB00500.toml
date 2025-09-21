@@ -1,0 +1,46 @@
+billNumber = "HB00500"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00500"
+lastScraped = "2025-09-22T00:20:57.464205"
+title = "HB00500"
+longTitle = "AN ACT PROVIDING FOR THE EXPANSION AND REHABILITATION OF BACON AIRPORT IN THE MUNICIPALITY OF BACON, PROVINCE OF SORSOGON, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106921
+congress = 10
+bill_no = "HB00500"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-07-27"

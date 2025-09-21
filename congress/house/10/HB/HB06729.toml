@@ -1,0 +1,46 @@
+billNumber = "HB06729"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06729"
+lastScraped = "2025-09-22T00:20:58.609012"
+title = "HB06729"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE STA. CRUZ WOMEN'S CENTER IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-26"
+status = "Pending with the Committee on WOMEN since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113150
+congress = 10
+bill_no = "HB06729"
+referral = "A504"
+ref_name = "WOMEN"
+date_read = "1996-04-29"

@@ -1,0 +1,49 @@
+billNumber = "HR01110"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01110"
+lastScraped = "2025-09-22T00:20:59.640189"
+title = "HR01110"
+longTitle = "RESOLUTION STRONGLY EXPRESSING THE SENTIMENTS OF THE HOUSE OF REPRESENTATIVES EXTENDING ITS UNEQUIVOCAL SUPPORT TO PRESIDENT FIDEL V. RAMOS' DECLARATION THAT HE WILL NOT SEEK REELECTION IN 1998"
+scope = "Local"
+dateFiled = "1997-02-24"
+status = "Pending with the Committee on RULES since 1997-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118164
+congress = 10
+bill_no = "HR01110"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-26"

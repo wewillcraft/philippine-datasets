@@ -1,0 +1,50 @@
+billNumber = "HR00043"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00043"
+lastScraped = "2025-09-22T00:20:59.432714"
+title = "HR00043"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE TO INVESTIGATE, IN AID OF LEGISLATION, THE RICE SHORTAGE AND IMPORTATION, THE REPORTED PRESENCE OF RICE CARTELS, AND TO ADOPT APPROPRIATE MEASURES TO ADDRESS THIS SITUATION"
+scope = "National"
+dateFiled = "1995-07-24"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 117097
+congress = 10
+bill_no = "HR00043"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agricultur e and Food on Aug. 1, 1995"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-07-31"

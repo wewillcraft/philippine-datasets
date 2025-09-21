@@ -1,0 +1,83 @@
+billNumber = "HB04780"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB04780"
+lastScraped = "2025-09-21T23:56:41.442295"
+title = "HB04780"
+longTitle = "AN ACT CREATING THE NATIONAL INSTITUTE FOR SENIOR CITIZENS AND AGING RESEARCH AND KNOWLEDGE DEVELOPMENT"
+scope = "National"
+dateFiled = "2011-05-31"
+status = "Change of committee referral requested on 2011-12-05"
+statusOrder = 4.32
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB04780.pdf"
+fileSize = 98390
+author = "Kho, David L."
+coAuthors = [ "BAGASINA, CATALINA C.", "AUMENTADO, ERICO BOYLES", "HERRERA-DY, BERNADETTE RAMIREZ", "ANGARA, JUAN EDGARDO MANALANG", "ARQUIZA, GODOFREDO V.",]
+[[authorsDetail]]
+name = "Kho, David L."
+nameCode = "Kho (D.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BAGASINA, CATALINA C."
+nameCode = "Bagasina"
+date = ""
+journalNo = "J073"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO BOYLES"
+nameCode = "Aumentado"
+date = ""
+journalNo = "J073"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "HERRERA-DY, BERNADETTE RAMIREZ"
+nameCode = "Herrera-Dy"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ANGARA, JUAN EDGARDO MANALANG"
+nameCode = "Angara"
+date = ""
+journalNo = "J017"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "ARQUIZA, GODOFREDO V."
+nameCode = "Arquiza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2011-06-06"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 60252
+congress = 15
+bill_no = "HB04780"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2011-12-05"
+date_read = "2011-06-06"

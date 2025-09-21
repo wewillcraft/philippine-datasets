@@ -1,0 +1,69 @@
+billNumber = "HB04900"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04900"
+lastScraped = "2025-09-22T00:13:00.702017"
+title = "HB04900"
+longTitle = "AN ACT CREATING THE OVERSEAS FILIPINO WORKERS' BANK, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2002-06-03"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2002-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+coAuthors = [ "YLAGAN, PERPETUO B.", "UMALI, ALFONSO JR. V.", "MATHAY ISMAEL III G.",]
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = "Syjuco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "YLAGAN, PERPETUO B."
+nameCode = "Ylagan"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "UMALI, ALFONSO JR. V."
+nameCode = "Umali"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MATHAY ISMAEL III G."
+nameCode = "Mathay"
+date = ""
+journalNo = "J028"
+sessionNo = "2RS"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2002-07-23"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88055
+congress = 12
+bill_no = "HB04900"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "2002-07-23"

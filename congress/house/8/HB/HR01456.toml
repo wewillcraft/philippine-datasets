@@ -1,0 +1,42 @@
+billNumber = "HR01456"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01456"
+lastScraped = "2025-09-22T00:47:02.812137"
+title = "HR01456"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO IMMEDIATELY REQUIRE INTO THE FAILURE OF A CONTRACTOR TO RETURN 20,000 PIECES OF M16 RIFLES WORTH MORE THAN A HUNDRED MILLION PESOS LOANED FROM THE DEPARTMENT OF NATIONAL DEFENSE UNDER ITS AFPSELF-RELIANT DEFENSE PROGRAM AND PROPOSED MEASURES TO REMEDY THE SAME"
+scope = "National"
+dateFiled = "1989-09-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-09-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adasa"
+[[authorsDetail]]
+name = "Adasa"
+nameCode = "Adasa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-09-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171320
+congress = 8
+bill_no = "HR01456"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-09-11"

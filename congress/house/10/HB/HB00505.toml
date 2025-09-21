@@ -1,0 +1,82 @@
+billNumber = "HB00505"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00505"
+lastScraped = "2025-09-22T00:20:57.465043"
+title = "HB00505"
+longTitle = "AN ACT PROHIBITING THE APPOINTMENT TO AND PROMOTION IN THE JUDICIARY OF ANY PERSON WHO IS DUE TO RETIRE WITHIN TWO YEARS FROM DATE OF SUCH APPOINTMENT OR PROMOTION"
+scope = "National"
+dateFiled = "1995-07-10"
+status = "Approved by the House on 1996-11-05, transmitted to on 1996-11-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "DRAGON, RENATO P.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 106926
+congress = 10
+bill_no = "HB00505"
+report = "00280"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+recomm = "approval"
+date_read = "1995-07-27"
+date_ob = "1996-03-18"
+date_unass = "1996-04-30"
+date_report = "1996-03-14"
+
+[secondReading]
+id = 17698
+congress = 10
+bill_no = "HB00505"
+date_calendared = "1996-09-12"
+date_approved = "1996-09-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2321
+congress = 10
+bill_no = "HB00505"
+date_dist = "1996-10-08"
+date_adopt = "1996-11-05"
+no_yeas = 139
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-11-06"
+date_rec = "1996-11-12"

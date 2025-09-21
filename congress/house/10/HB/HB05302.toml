@@ -1,0 +1,41 @@
+billNumber = "HB05302"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05302"
+lastScraped = "2025-09-22T00:20:58.348676"
+title = "HB05302"
+longTitle = "AN ACT TO SUPPLEMENT COMMONWEALTH ACT NUMBERED ONE HUNDRED EIGHTY-SIX, AS AMENDED, REPUBLIC ACT NUMBERED THREE HUNDRED AND FORTY, REPUBLIC ACT NUMBERED NINE HUNDRED AND TEN, AS AMENDED, AND PRESIDENTIAL DECREE NUMBERED ONE THOUSAND ONE HUNDRED FORTY-SIX, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-11-27"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1995-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-11-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 111723
+congress = 10
+bill_no = "HB05302"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1995-11-29"

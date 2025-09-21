@@ -1,0 +1,81 @@
+billNumber = "HB02642"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02642"
+lastScraped = "2025-09-22T00:13:48.314878"
+title = "National Student Loan Program for the Poor Act of 2004"
+longTitle = "AN ACT CREATING A NATIONAL STUDENT LOAN BOARD TO IMPLEMENT A NATIONAL STUDENT LOAN PROGRAM FOR THE POOR, DEFINING ITS IMPLEMENTING GUIDELINES, RULES AND REGULATIONS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2004-08-30"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2004-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02642.pdf"
+fileSize = 4066607
+author = "Magsaysay, Ma. Milagros  H."
+coAuthors = [ "REYES, VICTORIA H.", "UMALI, ALFONSO JR. V.", "SILVERIO, LORNA C.", "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Magsaysay, Ma. Milagros  H."
+nameCode = "Magsaysay"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REYES, VICTORIA H."
+nameCode = "Reyes"
+date = ""
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "UMALI, ALFONSO JR. V."
+nameCode = "Umali"
+date = ""
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SILVERIO, LORNA C."
+nameCode = "Silverio"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2004-09-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 77732
+congress = 13
+bill_no = "HB02642"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-09-01"
+date_read = "2004-09-01"

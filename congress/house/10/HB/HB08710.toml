@@ -1,0 +1,41 @@
+billNumber = "HB08710"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08710"
+lastScraped = "2025-09-22T00:20:59.024639"
+title = "HB08710"
+longTitle = "AN ACT RENAMING THE SAN MATEO-BATASAN ROAD TO SEN. LORENZO TANADA AVENUE"
+scope = "Local"
+dateFiled = "1997-01-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-01-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-01-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115131
+congress = 10
+bill_no = "HB08710"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-01-21"

@@ -1,0 +1,71 @@
+billNumber = "HB02444"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02444"
+lastScraped = "2025-09-22T00:13:00.238652"
+title = "HB02444"
+longTitle = "AN ACT EXEMPTING THE FAMILY HOME FROM REAL ESTATE TAX"
+scope = "National"
+dateFiled = "2001-08-15"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+coAuthors = [ "ESPINO, AMADO JR. T.", "DEL MAR, RAUL V.", "NOGRALES, PROSPERO C.", "CARI, CARMEN L.",]
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO C."
+nameCode = "Nograles"
+date = ""
+journalNo = "J016"
+sessionNo = "1SR"
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J093"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-08-21"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 85604
+congress = 12
+bill_no = "HB02444"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-08-21"

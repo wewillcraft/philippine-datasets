@@ -1,0 +1,61 @@
+billNumber = "HB00404"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00404"
+lastScraped = "2025-09-21T23:39:48.376954"
+title = "HB00404"
+longTitle = "AN ACT REGULATING THE USE OF TREATMENT TECHNOLOGY FOR MUNICIPAL AND HAZARDOUS WASTES, REPEALING FOR THE PURPOSE SECTION 20 OF REPUBLIC ACT NO. 8749, ENTITLED \"THE PHILIPPINE CLEAN AIR ACT OF 1999\""
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on ECOLOGY since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00404.pdf"
+fileSize = 7427669
+author = "MARQUEZ, JESUS \"JESS\" R."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "NAZAL, ROBERTO",]
+[[authorsDetail]]
+name = "MARQUEZ, JESUS \"JESS\" R."
+nameCode = "Marquez"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NAZAL, ROBERTO"
+nameCode = "Nazal"
+date = "2025-09-03"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 405
+congress = 103
+bill_no = "HB00404"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

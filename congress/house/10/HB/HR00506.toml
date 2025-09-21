@@ -1,0 +1,47 @@
+billNumber = "HR00506"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00506"
+lastScraped = "2025-09-22T00:20:59.518343"
+title = "HR00506"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON ETHICS AND THE COMMITTEE ON GOOD GOVERNMENT TO EXPEDITE THE INVESTIGATION ON THE ALLEGATION THAT SOME MEMBERS OF THE HOUSE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS WERE BRIBED TO DROP THEIR OBJECTIONS TO THE JOINT VENTURE AGREEMENT BETWEEN THE FIRST PHILIPPINE INFRASTRUCTURE CORPORATION AND THE PHILIPPINE NATIONAL CONSTRUCTION CORPORATION FOR THE P7 BILLION NORTH EXPRESSWAY PROJECT, TO PROTECT THE INTEGRITY OF THE HOUSE AND THE REPUTATION OF THE MEMBERS THEREOF"
+scope = "Local"
+dateFiled = "1996-02-27"
+status = "Pending with the Committee on ETHICS since 1996-02-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "0511"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117560
+congress = 10
+bill_no = "HR00506"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ethics and on Good Government on Feb. 2"
+referral = "0511"
+ref_name = "ETHICS"
+date_read = "1996-02-29"

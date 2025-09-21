@@ -1,0 +1,77 @@
+billNumber = "HJR0024"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HJR0024"
+lastScraped = "2025-09-22T00:25:57.367277"
+title = "HJR0024"
+longTitle = "JOINT RESOLUTION AUTHORIZING THE PRESIDENT OF THE REPUBLIC OF THE PHILIPPINES TO EXTEND FOR THREE MONTHS THE APPLICATION PERIOD FOR THE AMNESTY GRANTED UNDER PRESIDENTIAL PROCLAMATION NO. 347 DATED 25 MARCH 1994"
+scope = "National"
+dateFiled = "1994-11-28"
+status = "Adopted as Resolution No. HCR0047 on 1994-11-29"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+coAuthors = [ "YAP, JOSE V.", "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "YAP, JOSE V."
+nameCode = "Yap"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-11-28"
+
+[[motherBills]]
+bill_no = "HCR0047"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HCR0047"
+flag = "S"
+
+[firstReading]
+id = 133312
+congress = 9
+bill_no = "HJR0024"
+report = "00991"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "NATIONAL DEFENSE"
+recomm = "Adoption"
+date_read = "1994-11-28"
+date_ob = "1994-11-28"
+date_cal = "1994-11-28"
+date_unass = "1994-11-28"
+date_report = "1994-11-28"
+
+[secondReading]
+id = 20080
+congress = 9
+bill_no = "HJR0024"
+adopted_resolution = "HCR0047"
+remarks = "Adopted as amended (as Concurrent Resolution, assumed the original    HCR NO. considered by the Committee.)"
+date_calendared = "1994-11-28"
+date_approved = "1994-11-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

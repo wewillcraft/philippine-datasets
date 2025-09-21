@@ -1,0 +1,94 @@
+billNumber = "HR00409"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00409"
+lastScraped = "2025-09-22T00:01:47.413826"
+title = "HR00409"
+longTitle = "A RESOLUTION RECOMMENDING THE CREATION OF A TRAFFIC CRISIS INTER-AGENCY MANAGEMENT COUNCIL FOR THE PURPOSE OF CONSOLIDATING AND HARMONIZING ALL TRANSPORT AND TRAFFIC POLICIES TO ADDRESS THE TRAFFIC PROBLEM IN METROPOLITAN MANILA"
+scope = "National"
+dateFiled = "2019-10-01"
+status = "Business for the day on 2019-11-11"
+statusOrder = 11.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento, Edgar Mary S."
+coAuthors = [ "DEL MAR, RAUL V.", "ALONTE-NAGUIAT, LEN B.",]
+[[authorsDetail]]
+name = "Sarmiento, Edgar Mary S."
+nameCode = "Sarmiento"
+date = "2019-10-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2020-01-29"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2020-06-12"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = ""
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[motherBills]]
+bill_no = "HR00353"
+sequence = 1
+date = "2019-10-01"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00353"
+sequence = 1
+date = "2019-10-01"
+flag = "S"
+
+[firstReading]
+id = 30737
+congress = 18
+bill_no = "HR00409"
+report = "00058"
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = "TRANSPORTATION"
+recomm = "Recommending its adoption in substitution of HR No.353"
+remarks = ""
+file = "CR00058.pdf"
+date_ob = "2019-10-02"
+date_report = "2019-10-01"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00058.pdf"
+
+[secondReading]
+id = 1828
+congress = 18
+bill_no = "HR00409"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2019-11-11"
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

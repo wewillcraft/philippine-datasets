@@ -1,0 +1,49 @@
+billNumber = "HB09913"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09913"
+lastScraped = "2025-09-22T00:20:59.267959"
+title = "HB09913"
+longTitle = "AN ACT CONVERTING THE PROVINCIAL ROAD CONNECTING THE MUNICIPALITIES OF BALAOAN AND SANTOL IN THE PROVINCE OF LA UNION INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-29"
+status = "Bill reported out 1998-04-02 (#01538)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116334
+congress = 10
+bill_no = "HB09913"
+report = "01538"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-09-03"
+date_report = "1998-04-02"

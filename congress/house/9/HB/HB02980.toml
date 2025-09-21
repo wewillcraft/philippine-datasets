@@ -1,0 +1,47 @@
+billNumber = "HB02980"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02980"
+lastScraped = "2025-09-22T00:25:55.123849"
+title = "HB02980"
+longTitle = "AN ACT TO ESTABLISH A PRAWN AND SHRIMP HATCHERY IN THE MUNICIPALITY OF LAKEWOOD, PROVINCE OF ZAMBOANGA DEL SUR, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-09-25"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-09-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121599
+congress = 9
+bill_no = "HB02980"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-09-30"

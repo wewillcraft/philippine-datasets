@@ -1,0 +1,49 @@
+billNumber = "HB02119"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02119"
+lastScraped = "2025-09-22T00:20:57.748761"
+title = "HB02119"
+longTitle = "AN ACT LEGALIZING JUETENG AND PROVIDING FOR THE CREATION OF THE LOTTERY CORPORATION OF THE PHILIPPINES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "BARBERS, ROBERT Z.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT Z."
+nameCode = "Barbers"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 108540
+congress = 10
+bill_no = "HB02119"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+date_read = "1995-08-15"

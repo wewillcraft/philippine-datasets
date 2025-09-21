@@ -1,0 +1,68 @@
+billNumber = "HB01383"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01383"
+lastScraped = "2025-09-22T00:13:00.053991"
+title = "HB01383"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DRUG REHABILITATION CENTER IN EVERY REGION OF THE COUNTRY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "VILLARAMA, WILFRIDO", "BANAAG, LEOVIGILDO B.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLARAMA, WILFRIDO"
+nameCode = "Villarama"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BANAAG, LEOVIGILDO B."
+nameCode = "Banaag"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 84543
+congress = 12
+bill_no = "HB01383"
+comm_act = "as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-07-30"

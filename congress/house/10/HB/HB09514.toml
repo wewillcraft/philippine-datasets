@@ -1,0 +1,61 @@
+billNumber = "HB09514"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09514"
+lastScraped = "2025-09-22T00:20:59.179180"
+title = "HB09514"
+longTitle = "AN ACT PROVIDING FOR THE APPROPRIATION OF P497 MILLION TO UPGRADE THE FACILITIES AND EQUIPMENT OF THE DR. JOSE RIZAL MEMORIAL HOSPITAL IN THE CITY OF DAPITAN, PROVINCE OF ZAMBOANGA DEL NORTE"
+scope = "Local"
+dateFiled = "1997-06-02"
+status = "Pending with the Committee on HEALTH since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jalosjos, Romeo Jr. M."
+coAuthors = [ "NOGRALES, PROSPERO JR. C.", "LLORENTE, CRESCENTE JR. Y.",]
+[[authorsDetail]]
+name = "Jalosjos, Romeo Jr. M."
+nameCode = "Jalosjos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO JR. C."
+nameCode = "Nograles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LLORENTE, CRESCENTE JR. Y."
+nameCode = "Llorente"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115935
+congress = 10
+bill_no = "HB09514"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-06-04"

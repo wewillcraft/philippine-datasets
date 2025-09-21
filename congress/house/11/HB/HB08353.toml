@@ -1,0 +1,47 @@
+billNumber = "HB08353"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08353"
+lastScraped = "2025-09-22T00:23:17.124211"
+title = "HB08353"
+longTitle = "AN ACT ESTABLISHING A GENERAL HOSPITAL IN THE SIXTH DISTRICT OF THE CITY OF MANILA AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1999-09-14"
+status = "Pending with the Committee on HEALTH since 1999-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ocampo, Rosenda Ann"
+[[authorsDetail]]
+name = "Ocampo, Rosenda Ann"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1999-09-20"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 99788
+congress = 11
+bill_no = "HB08353"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1999-09-20"

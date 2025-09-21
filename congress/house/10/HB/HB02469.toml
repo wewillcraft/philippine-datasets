@@ -1,0 +1,59 @@
+billNumber = "HB02469"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02469"
+lastScraped = "2025-09-22T00:20:57.822976"
+title = "HB02469"
+longTitle = "AN ACT TO INTEGRATE A COMPUTER EDUCATION PROGRAM INTO THE EDUCATIONAL SYSTEM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-16"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "ANGARA-CASTILLO, BELLAFLOR J.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR J."
+nameCode = "Angara-castillo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-22"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 108890
+congress = 10
+bill_no = "HB02469"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-22"

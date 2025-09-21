@@ -1,0 +1,47 @@
+billNumber = "HB02731"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02731"
+lastScraped = "2025-09-22T00:13:00.287833"
+title = "HB02731"
+longTitle = "AN ACT ESTABLISHING AN ANNEX OF THE QUEZON MEMORIAL HOSPITAL IN THE MUNICIPALITY OF SARIAYA, PROVINCE OF QUEZON TO BE KNOWN AS THE QUEZON MEMORIAL HOSPITAL, SARIAYA ANNEX, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-28"
+status = "Pending with the Committee on HEALTH since 2001-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-04"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85891
+congress = 12
+bill_no = "HB02731"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-04"

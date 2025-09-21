@@ -1,0 +1,41 @@
+billNumber = "HB05346"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05346"
+lastScraped = "2025-09-22T00:20:58.357978"
+title = "HB05346"
+longTitle = "AN ACT LOWERING THE RATE OF THE FRANCHISE TAX ON PUBLIC UTILITIES TO A STANDARD LEVEL, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-11-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Osmeña"
+[[authorsDetail]]
+name = "Osmeña"
+nameCode = "Osmeña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 111767
+congress = 10
+bill_no = "HB05346"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-12-05"

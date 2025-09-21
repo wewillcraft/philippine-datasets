@@ -1,0 +1,68 @@
+billNumber = "HB05116"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05116"
+lastScraped = "2025-09-22T00:20:58.315784"
+title = "HB05116"
+longTitle = "AN ACT PROCLAIMING THE TWENTY-SEVENTH (27TH) DAY OF APRIL OF EACH YEAR AS LAPU-LAPU DAY"
+scope = "National"
+dateFiled = "1995-11-15"
+status = "Approved by the House on 1997-03-03, transmitted to on 1997-03-05 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 111537
+congress = 10
+bill_no = "HB05116"
+report = "00689"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1995-11-20"
+date_ob = "1996-12-09"
+date_unass = "1997-02-04"
+date_report = "1996-12-05"
+
+[secondReading]
+id = 18163
+congress = 10
+bill_no = "HB05116"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1997-02-12"
+date_approved = "1997-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2770
+congress = 10
+bill_no = "HB05116"
+date_dist = "1997-02-24"
+date_adopt = "1997-03-03"
+no_yeas = 167
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-03-05"
+date_rec = "1997-03-06"

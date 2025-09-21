@@ -1,0 +1,86 @@
+billNumber = "HB01130"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01130"
+lastScraped = "2025-09-22T00:20:57.568057"
+title = "HB01130"
+longTitle = "AN ACT ESTABLISHING THE PASIG RIVER DEVELOPMENT COUNCIL, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-07-20"
+status = "Approved by the House on 1997-08-05, transmitted to on 1997-08-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "LIBAN, DANTE V.", "AQUINO-ORETA, TERESA A.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AQUINO-ORETA, TERESA A."
+nameCode = "Aquino-oreta"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107551
+congress = 10
+bill_no = "HB01130"
+report = "00923"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+recomm = "approval with amendments"
+date_read = "1995-07-31"
+date_ob = "1997-05-19"
+date_report = "1997-05-15"
+
+[secondReading]
+id = 17748
+congress = 10
+bill_no = "HB01130"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-05-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2370
+congress = 10
+bill_no = "HB01130"
+date_dist = "1997-05-27"
+date_adopt = "1997-08-05"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-06"
+date_rec = "1997-08-12"

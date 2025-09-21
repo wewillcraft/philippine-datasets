@@ -1,0 +1,98 @@
+billNumber = "HR01382"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HR01382"
+lastScraped = "2025-09-22T00:15:39.589826"
+title = "HR01382"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON TRANSPORTATION TO INVESTIGATE THE SINKING OF SUPER FERRY 9 ON SEPTEMBER 6, 2009 IN ZAMBOANGA DEL NORTE"
+scope = "National"
+dateFiled = "2009-09-08"
+status = "Adopted Resolution (Pending with the committee on TRANSPORTATION since 2009-09-30)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "DEFENSOR, ARTHUR D.", "ZAMORA, RONALDO B.", "RULES",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEFENSOR, ARTHUR D."
+nameCode = "Defensor (A.)"
+date = ""
+journalNo = ""
+sessionNo = "   "
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora (R.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2009-09-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01386"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01386"
+sequence = 1
+flag = "C"
+
+[firstReading]
+id = 74635
+congress = 14
+bill_no = "HR01382"
+report = "02397"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption with an amendment in consolidation with Housr Resolution No. 1386"
+remarks = ""
+date_read = "2009-09-09"
+date_report = "2009-09-24"
+
+[secondReading]
+id = 11440
+congress = 14
+bill_no = "HR01382"
+adopted_resolution = ""
+adopted_resolution_title = "RESOLUTION DIRECTING  THE  COMMITTEE ON TRANSPORTATION TO CONDUCT AN  INVESTIGATION, IN AID OF LEGISLATION, ON  THE SINKING OF SUPER FERRY 9 ON SEPTEMBER 6, 2009 IN ZAMBOANGA DEL NORTE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = "Authorizes the Ctte. on Transportation to conduct investigations."
+recommended_reconsidered = " "
+date_calendared = "2009-09-30"
+date_approved = "2009-09-30"
+adopted_resolution_with_amendment = "Y"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+date_refferral = "2009-09-30"
+action_on_adopted_resolution = ""

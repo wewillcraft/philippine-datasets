@@ -1,0 +1,47 @@
+billNumber = "HB02222"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02222"
+lastScraped = "2025-09-22T00:13:00.201005"
+title = "HB02222"
+longTitle = "AN ACT APPROPRIATING THREE MILLION PESOS (P3,000,000.00) TO UPGRADE THE FACILITIES OF THE ROMBLON DISTRICT HOSPITAL IN THE MUNICIPALITY OF ROMBLON, PROVINCE OF ROMBLON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-08"
+status = "Pending with the Committee on HEALTH since 2001-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ylagan"
+[[authorsDetail]]
+name = "Ylagan"
+nameCode = "Ylagan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85382
+congress = 12
+bill_no = "HB02222"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-14"

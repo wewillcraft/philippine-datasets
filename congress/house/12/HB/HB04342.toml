@@ -1,0 +1,64 @@
+billNumber = "HB04342"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04342"
+lastScraped = "2025-09-22T00:13:00.578761"
+title = "HB04342"
+longTitle = "AN ACT CONSTITUTING A REVOLVING FUND FOR THE AGRICULTURAL TRAINING INSTITUTE, DEPARTMENT OF AGRICULTURE"
+scope = "National"
+dateFiled = "2002-02-05"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2002-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "CHATTO, EDGARDO M.", "ALFELOR, FELIX JR. R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J066"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALFELOR, FELIX JR. R."
+nameCode = "Alfelor"
+date = ""
+journalNo = "J057"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2002-02-11"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 87502
+congress = 12
+bill_no = "HB04342"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2002-02-11"

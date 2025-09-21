@@ -1,0 +1,57 @@
+billNumber = "HR00097"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00097"
+lastScraped = "2025-09-22T00:47:02.544180"
+title = "HR00097"
+longTitle = "RESOLUTION AUTHORIZING AN INQUIRY BY THE COMMITTEE ON NATIONAL DEFENSE INTO THE OPERATIONS OF FOREIGN AGENTS IN THE COUNTRY AND PROPOSE MEASURES TO HAVE THEIR ACTIVITIES MONITORED BY THE PHILIPPINE GOVERNMENT"
+scope = "National"
+dateFiled = "1987-08-07"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+coAuthors = [ "GARDUCE, VENANCIO T.", "PUYAT-REYES, MA. CONSUELO",]
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GARDUCE, VENANCIO T."
+nameCode = "Garduce"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUYAT-REYES, MA. CONSUELO"
+nameCode = "Puyat-reyes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 170007
+congress = 8
+bill_no = "HR00097"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-08-12"

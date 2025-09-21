@@ -1,0 +1,46 @@
+billNumber = "HB00105"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00105"
+lastScraped = "2025-09-21T23:39:48.317718"
+title = "HB00105"
+longTitle = "AN ACT ALLOWING THE EXPUNGEMENT OF CRIMINAL RECORDS OF QUALIFIED INDIVIDUALS IN GOVERNMENT DATABASES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on JUSTICE since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00105.pdf"
+fileSize = 12253164
+author = "ABALOS, JC M."
+[[authorsDetail]]
+name = "ABALOS, JC M."
+nameCode = "Abalos"
+date = "2025-06-30"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 106
+congress = 103
+bill_no = "HB00105"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

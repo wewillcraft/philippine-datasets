@@ -1,0 +1,76 @@
+billNumber = "HB03949"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03949"
+lastScraped = "2025-09-22T00:13:00.510055"
+title = "HB03949"
+longTitle = "AN ACT CREATING THE PHILIPPINE CANCER CENTER, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-11-22"
+status = "Pending with the Committee on HEALTH since 2001-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Juan"
+coAuthors = [ "MONFORT, NARCISO D.", "CUENCO, ANTONIO V.", "BANAAG, LEOVIGILDO B.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "San Juan"
+nameCode = "San Juan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J044"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J068"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BANAAG, LEOVIGILDO B."
+nameCode = "Banaag"
+date = ""
+journalNo = "J020"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J063"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-11-28"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87109
+congress = 12
+bill_no = "HB03949"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-11-28"

@@ -1,0 +1,43 @@
+billNumber = "HR00778"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00778"
+lastScraped = "2025-09-22T00:25:57.508197"
+title = "HR00778"
+longTitle = "RESOLUTION REQUESTING THE HOUSE OF REPRESENTATIVES TO CREATE A JOINT COMMITTEE COMPOSED OF THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS AND THE COMMITTEE ON SCIENCE AND TECHNOLOGY TO INQUIRE INTO, IN AID OF LEGISLATION, THE LEGALITY, PROPRIETYOF THE NATIONAL TELECOMMUNICATI ONS OFFICE'S DECISION TO CANCEL THE ASSIGNED FREQUENCY TO PAG-ASA IN FAVOR OF SMART INFORMATION TECHNOLOGIES, INC., A MOBILE TELECOMMUNICATI ON OPERATOR"
+scope = "Local"
+dateFiled = "1993-09-21"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-09-27"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 134090
+congress = 9
+bill_no = "HR00778"
+comm_act = "Change of referral from the Committee on Rules(J.27 ,p.169)"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-09-27"

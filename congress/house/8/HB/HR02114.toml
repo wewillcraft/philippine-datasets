@@ -1,0 +1,74 @@
+billNumber = "HR02114"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02114"
+lastScraped = "2025-09-22T00:47:02.964465"
+title = "HR02114"
+longTitle = "RESOLUTION EXPRESSING THE SENTIMENT OF THE HOUSE OF REPRESENTATIVES IN SUPPORT OF THE UN RESOLUTION, THE MULTINATIONAL FORCES IN THE MIDDLE EAST AND SEEKING THE SOONEST CESSATION OF HOSTILITIES"
+scope = "National"
+dateFiled = "1991-01-21"
+status = "Adopted as Resolution No. HR00099 on 1991-01-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roco"
+coAuthors = [ "WEBB, FREDDIE N.", "LABARIA, VIOLETA T.",]
+[[authorsDetail]]
+name = "Roco"
+nameCode = "Roco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LABARIA, VIOLETA T."
+nameCode = "Labaria"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1991-01-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 171949
+congress = 8
+bill_no = "HR02114"
+report = "01292"
+referral = "532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with Amendments ."
+date_read = "1991-01-23"
+date_ob = "1991-01-24"
+date_cal = "1991-01-24"
+date_unass = "1991-01-24"
+date_report = "1991-01-24"
+
+[secondReading]
+id = 21684
+congress = 8
+bill_no = "HR02114"
+adopted_resolution = "HR00099"
+remarks = "ADOPTED as amended."
+date_calendared = "1991-01-30"
+date_approved = "1991-01-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

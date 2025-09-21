@@ -1,0 +1,42 @@
+billNumber = "HB13987"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13987"
+lastScraped = "2025-09-22T00:25:57.186480"
+title = "HB13987"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MINI-ORGANIC FERTILIZER PRODUCTION STATION IN THE MUNICIPALITY OF SOLANA, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-10-19"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mamba"
+[[authorsDetail]]
+name = "Mamba"
+nameCode = "Mamba"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-10-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132596
+congress = 9
+bill_no = "HB13987"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-10-24"

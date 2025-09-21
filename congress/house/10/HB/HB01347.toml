@@ -1,0 +1,46 @@
+billNumber = "HB01347"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01347"
+lastScraped = "2025-09-22T00:20:57.606221"
+title = "HB01347"
+longTitle = "AN ACT TO APPROPRIATE FUNDS FOR THE MODERNIZATION OF THE DON MANUEL LOPEZ EMERGENCY HOSPITAL, MUNICIPALITY OF BALAYAN, PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on HEALTH since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107768
+congress = 10
+bill_no = "HB01347"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-01"

@@ -1,0 +1,56 @@
+billNumber = "HR01272"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01272"
+lastScraped = "2025-09-22T00:20:59.669129"
+title = "HR01272"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEE ON HEALTH TO REVIEW AND REVISE THE ORGAN DONATION ACT FOR ITS MORE EFFECTIVE IMPLEMENTATION"
+scope = "National"
+dateFiled = "1997-07-02"
+status = "Pending with the Committee on HEALTH since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 118326
+congress = 10
+bill_no = "HR01272"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-07-30"

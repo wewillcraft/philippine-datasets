@@ -1,0 +1,42 @@
+billNumber = "HB12008"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12008"
+lastScraped = "2025-09-22T00:25:56.808284"
+title = "HB12008"
+longTitle = "AN ACT TO ESTABLISH A RAMIE EXPERIMENTAL PLANTATION AND PROPAGATION CENTER IN THE MUNICIPALITY OF QUINAPONDAN, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1994-02-14"
+status = "Pending with the Committee on NATURAL RESOURCES since 1994-02-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1994-02-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130623
+congress = 9
+bill_no = "HB12008"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1994-02-17"

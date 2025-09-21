@@ -1,0 +1,46 @@
+billNumber = "HB10283"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10283"
+lastScraped = "2025-09-22T00:20:59.351914"
+title = "HB10283"
+longTitle = "AN ACT IMPROVING THE MUNICIPAL JAIL OF THE MUNICIPALITY OF BOSTON, PROVINCE OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1997-11-14"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-11-18"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116704
+congress = 10
+bill_no = "HB10283"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-11-18"

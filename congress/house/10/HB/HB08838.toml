@@ -1,0 +1,41 @@
+billNumber = "HB08838"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08838"
+lastScraped = "2025-09-22T00:20:59.048387"
+title = "HB08838"
+longTitle = "AN ACT RESTRUCTURING THE EXCISE TAX SYSTEM FOR AUTOMOBILES, AMENDING FOR THE PURPOSE SECTION 149 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
+scope = "National"
+dateFiled = "1997-01-30"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-02-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115259
+congress = 10
+bill_no = "HB08838"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-02-04"

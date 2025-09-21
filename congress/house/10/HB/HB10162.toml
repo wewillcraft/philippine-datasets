@@ -1,0 +1,51 @@
+billNumber = "HB10162"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10162"
+lastScraped = "2025-09-22T00:20:59.325035"
+title = "HB10162"
+longTitle = "AN ACT CONVERTING THE ZAMBOANGA DEL SUR AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF DUMINGAG, PROVINCE OF ZAMBOANGA DEL SUR, INTO A STATE COLLEGE TO BE KNOWN AS THE ZAMBOANGA DEL SUR STATE COLLEGE OF AGRO-INDUSTRIAL TECHNOLOGY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Urro"
+[[authorsDetail]]
+name = "Urro"
+nameCode = "Urro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-10-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116583
+congress = 10
+bill_no = "HB10162"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-10-27"

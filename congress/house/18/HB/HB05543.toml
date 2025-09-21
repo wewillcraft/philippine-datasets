@@ -1,0 +1,46 @@
+billNumber = "HB05543"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB05543"
+lastScraped = "2025-09-22T00:01:46.024571"
+title = "HB05543"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL COASTAL GREENBELT PROGRAM, PROVIDING FUNDS THEREFOR, AND OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-11-19"
+status = "Pending with the Committee on CLIMATE CHANGE since 2019-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB05543.pdf"
+fileSize = 2954833
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2019-11-19"
+sequence = 1
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "primary"
+referralCode = "H503"
+dateRead = "2019-11-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 24951
+congress = 18
+bill_no = "HB05543"
+report = ""
+comm_act = ""
+referral = "H503"
+ref_name = "CLIMATE CHANGE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-11-25"

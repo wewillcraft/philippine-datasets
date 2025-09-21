@@ -1,0 +1,42 @@
+billNumber = "HR02049"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02049"
+lastScraped = "2025-09-22T00:47:02.932048"
+title = "HR02049"
+longTitle = "RESOLUTION URGING THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT TO DESIST FROM ENTERING INTO COMPROMISE AGREEMENTS WITH MARCOS CRONIES ALLOWING THEM TO RETAIN OWNERSHIP OF PROPERTY THEY UNLAWFULLY ACQUIRED"
+scope = "Local"
+dateFiled = "1990-11-27"
+status = "Pending with the Committee on JUSTICE since 1990-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1990-12-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171885
+congress = 8
+bill_no = "HR02049"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1990-12-03"

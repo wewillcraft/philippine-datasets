@@ -1,0 +1,64 @@
+billNumber = "HB05166"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05166"
+lastScraped = "2025-09-22T00:20:58.324914"
+title = "HB05166"
+longTitle = "AN ACT TO ESTABLISH THE ILOCOS ECONOMIC GROWTH QUADRANGLE AUTHORITY, DEFINING ITS POWERS AND RESPONSIBILITIE S, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-11-20"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1995-11-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1995-11-22"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[[committee]]
+name = "NORTH LUZON GROWTH QUADRANGLE"
+type = "secondary"
+referralCode = "B510"
+
+[firstReading]
+id = 111587
+congress = 10
+bill_no = "HB05166"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1995-11-22"

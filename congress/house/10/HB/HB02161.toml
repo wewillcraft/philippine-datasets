@@ -1,0 +1,49 @@
+billNumber = "HB02161"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02161"
+lastScraped = "2025-09-22T00:20:57.756722"
+title = "HB02161"
+longTitle = "AN ACT PROVIDING FOR THE AUTOMATIC RESTORATION OF PHILIPPINE CITIZENSHIP TO FILIPINO NATIONALS WHO HAVE ACQUIRED FOREIGN CITIZENSHIPS UPON ELECTION TO PUBLIC OFFICE IN THE PHILIPPINES, PROVIDING FOR THE MECHANISMS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on JUSTICE since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 108582
+congress = 10
+bill_no = "HB02161"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-15"

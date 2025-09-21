@@ -1,0 +1,47 @@
+billNumber = "HB00567"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00567"
+lastScraped = "2025-09-22T00:25:54.697579"
+title = "HB00567"
+longTitle = "AN ACT ESTABLISHING A 20-BED EMERGENCY HOSPITAL IN STA. MARIA, LAGUNA, TO BE KNOWN AS STA. MARIA EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on HEALTH since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119186
+congress = 9
+bill_no = "HB00567"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-11"

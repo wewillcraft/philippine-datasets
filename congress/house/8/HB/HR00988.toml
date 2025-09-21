@@ -1,0 +1,42 @@
+billNumber = "HR00988"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00988"
+lastScraped = "2025-09-22T00:47:02.728821"
+title = "HR00988"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON HEALTH TO CONDUCT A STUDY AND INVESTIGATION IN AID OF LEGISLATION ON THE RED TIDE PROBLEM WITH A VIEW OF ARRIVING AT POSSIBLE SOLUTIONS"
+scope = "National"
+dateFiled = "1988-10-12"
+status = "Pending with the Committee on HEALTH since 1988-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-10-13"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 170865
+congress = 8
+bill_no = "HR00988"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-10-13"

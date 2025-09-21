@@ -1,0 +1,56 @@
+billNumber = "HR00321"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00321"
+lastScraped = "2025-09-22T00:13:01.208490"
+title = "HR00321"
+longTitle = "RESOLUTION OF ENDORSEMENT ON THE VERIFIED COMPLAINT FOR IMPEACHMENT OF OMBUDSMAN ANIANO DISIERTO"
+scope = "Local"
+dateFiled = "2001-12-05"
+status = "Adopted as Resolution No.  on 2002-02-13"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rosales, Loretta Ann P."
+[[authorsDetail]]
+name = "Rosales, Loretta Ann P."
+nameCode = "Rosales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-12-11"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 90260
+congress = 12
+bill_no = "HR00321"
+report = "00150"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "Dismiss, complaint is not sufficient in substance."
+date_read = "2001-12-11"
+date_ob = "2002-01-22"
+date_report = "2002-01-18"
+
+[secondReading]
+id = 15043
+congress = 12
+bill_no = "HR00321"
+remarks = "With 122 Affirmative votes, 30 Negative votes and 5 Abstentions, the  Body Approved Ctte. Rpt. No. 150."
+date_calendared = "2002-01-30"
+date_approved = "2002-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

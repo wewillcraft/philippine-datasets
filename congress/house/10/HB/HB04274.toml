@@ -1,0 +1,72 @@
+billNumber = "HB04274"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04274"
+lastScraped = "2025-09-22T00:20:58.174318"
+title = "HB04274"
+longTitle = "AN ACT CONVERTING THE AURORA GENERAL HOSPITAL IN THE MUNICIPALITY OF AURORA, PROVINCE OF ZAMBOANGA DEL SUR, INTO A REGIONAL HOSPITAL TO BE KNOWN AS THE AURORA REGIONAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-05"
+status = "Approved by the House on 1996-05-27, transmitted to on 1996-05-28 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Urro"
+[[authorsDetail]]
+name = "Urro"
+nameCode = "Urro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110695
+congress = 10
+bill_no = "HB04274"
+report = "00378"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-10-23"
+date_ob = "1996-05-13"
+date_report = "1996-05-08"
+
+[secondReading]
+id = 18101
+congress = 10
+bill_no = "HB04274"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-16"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2711
+congress = 10
+bill_no = "HB04274"
+date_dist = "1996-05-21"
+date_adopt = "1996-05-27"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-28"
+date_rec = "1996-05-29"
+amend_ind = "Y"

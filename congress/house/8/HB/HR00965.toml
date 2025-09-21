@@ -1,0 +1,42 @@
+billNumber = "HR00965"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00965"
+lastScraped = "2025-09-22T00:47:02.721350"
+title = "HR00965"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON SCIENCE AND TECHNOLOGY TO CONDUCT AN INQUIRY ON THE REPORTED INEPTITUDE AND INEFFICIENCY OF THE SECRETARYOF THE DEPARTMENT OF SCIENCE AND TECHNOLOGY"
+scope = "Local"
+dateFiled = "1988-09-29"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1988-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero"
+[[authorsDetail]]
+name = "Escudero"
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "534"
+dateRead = "1988-10-05"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170842
+congress = 8
+bill_no = "HR00965"
+referral = "534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = ""
+date_read = "1988-10-05"

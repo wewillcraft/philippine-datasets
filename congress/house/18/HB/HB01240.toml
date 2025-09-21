@@ -1,0 +1,69 @@
+billNumber = "HB01240"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01240"
+lastScraped = "2025-09-22T00:01:45.274736"
+title = "HB01240"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7277, OTHERWISE KNOWN AS THE 'MAGNA CARTA FOR DISABLED PERSONS'"
+scope = "National"
+dateFiled = "2019-07-03"
+status = "Change of referral manifested on 2020-01-21"
+statusOrder = 4.32
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01240.pdf"
+fileSize = 637295
+author = "Violago, Micaela S."
+coAuthors = [ "SAVELLANO, DEOGRACIAS VICTOR B.", "LOYOLA, DAHLIA A.", "FARINAS, RIA CHRISTINA G.",]
+[[authorsDetail]]
+name = "Violago, Micaela S."
+nameCode = "Violago"
+date = "2019-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2019-10-22"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOYOLA, DAHLIA A."
+nameCode = "Loyola"
+date = "2020-11-17"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FARINAS, RIA CHRISTINA G."
+nameCode = "Fariñas (R.C.)"
+date = "2020-12-10"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 20649
+congress = 18
+bill_no = "HB01240"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-01-21"
+date_read = "2019-07-24"

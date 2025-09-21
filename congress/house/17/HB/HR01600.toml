@@ -1,0 +1,47 @@
+billNumber = "HR01600"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01600"
+lastScraped = "2025-09-21T23:55:46.556696"
+title = "HR01600"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE(S) TO CONDUCT A PROBE, IN AID OF LEGISLATION, INTO THE REPORTED INCREASE IN BANK FRAUD INVOLVING BDO UNIBANK"
+scope = "National"
+dateFiled = "2018-01-17"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2018-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01600.pdf"
+fileSize = 493499
+author = "Bertiz, Aniceto  \"John\" III D."
+[[authorsDetail]]
+name = "Bertiz, Aniceto  \"John\" III D."
+nameCode = "Bertiz"
+date = "2018-01-17"
+sequence = 1
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2018-01-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 44342
+congress = 17
+bill_no = "HR01600"
+report = ""
+comm_act = ""
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-02-07"
+date_read = "2018-01-24"

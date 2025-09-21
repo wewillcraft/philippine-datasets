@@ -1,0 +1,69 @@
+billNumber = "HB03089"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03089"
+lastScraped = "2025-09-22T00:25:55.143004"
+title = "HB03089"
+longTitle = "AN ACT PROVIDING MEDICAL HEALTH CARE AND TREATMENT TO PNP MEMBERS BY OTHER GOVERNMENT AND PRIVATE HOSPITALS, AND TO PROVIDE FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-09-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1992-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "DEL MAR, RAUL V.", "PUEY, MANUEL H.", "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUEY, MANUEL H."
+nameCode = "Puey"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1992-10-05"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121708
+congress = 9
+bill_no = "HB03089"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1992-10-05"

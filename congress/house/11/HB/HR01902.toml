@@ -1,0 +1,60 @@
+billNumber = "HR01902"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01902"
+lastScraped = "2025-09-22T00:23:18.308575"
+title = "HR01902"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SPECIAL SESSION TODAY, JANUARY 12, 2001, AS HAVING BEEN READ AND APPROVED"
+scope = "Local"
+dateFiled = "2001-01-10"
+status = "Adopted as Resolution No. HR00168 on 2001-01-10"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "BELMONTE, FELICIANO JR.",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELMONTE, FELICIANO JR."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-01-10"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 106356
+congress = 11
+bill_no = "HR01902"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-01-10"
+
+[secondReading]
+id = 17629
+congress = 11
+bill_no = "HR01902"
+adopted_resolution = "HR00168"
+date_calendared = "2001-01-10"
+date_approved = "2001-01-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

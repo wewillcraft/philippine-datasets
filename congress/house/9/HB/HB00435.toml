@@ -1,0 +1,83 @@
+billNumber = "HB00435"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00435"
+lastScraped = "2025-09-22T00:25:54.673330"
+title = "HB00435"
+longTitle = "AN ACT PROVIDING FREE MEDICINES AND DRUGS TO INDIGENTS IN ALL BARANGAYS THROUGHOUT THE COUNTRY AND APPROPRIATING THE AMOUNT OF ONE HUNDRED FIFTY MILLION PESOS FOR THE PURPOSE"
+scope = "National"
+dateFiled = "1992-07-31"
+status = "Pending with the Committee on HEALTH since 1992-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+coAuthors = [ "MERCADO, ROGER G.", "RAMIREZ, JOSE T.", "LIBAN, DANTE V.", "PUNZALAN, MARCIAL JR. C.", "CARMONA, TRANQUILINO B.",]
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MERCADO, ROGER G."
+nameCode = "Mercado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CARMONA, TRANQUILINO B."
+nameCode = "Carmona"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-05"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119054
+congress = 9
+bill_no = "HB00435"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-05"

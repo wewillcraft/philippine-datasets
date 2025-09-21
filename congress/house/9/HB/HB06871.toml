@@ -1,0 +1,47 @@
+billNumber = "HB06871"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06871"
+lastScraped = "2025-09-22T00:25:55.861449"
+title = "HB06871"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY BUKAL, MUNICIPALITY OF JOMALIG, PROVINCE OF QUEZON TO BE KNOWN AS THE BUKAL HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-29"
+status = "Pending with the Committee on HEALTH since 1993-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125490
+congress = 9
+bill_no = "HB06871"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-03"

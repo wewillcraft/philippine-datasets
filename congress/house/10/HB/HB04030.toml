@@ -1,0 +1,63 @@
+billNumber = "HB04030"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04030"
+lastScraped = "2025-09-22T00:20:58.119387"
+title = "HB04030"
+longTitle = "AN ACT REQUIRING THE IMMEDIATE PREPARATION AND SERVICE OF JUDICIAL PROCESSES"
+scope = "National"
+dateFiled = "1995-09-28"
+status = "Pending with the Committee on JUSTICE since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+coAuthors = [ "RAMIREZ, JOSE T.", "LIBAN, DANTE V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 110451
+congress = 10
+bill_no = "HB04030"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-03"

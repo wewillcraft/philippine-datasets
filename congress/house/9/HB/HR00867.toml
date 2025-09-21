@@ -1,0 +1,43 @@
+billNumber = "HR00867"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00867"
+lastScraped = "2025-09-22T00:25:57.526039"
+title = "HR00867"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH TO LOOK INTO THE REPORTED FINDINGS OF THE METROPOLITAN WATERWORKS AND SEWERAGE SYSTEM (MWSS) CENTRAL LABORATORY THAT A NUMBER OF BOTTLED WATER BRANDS ARE UNPOTABLE, CARRY DISEASE-PRODUCI NG BACTERIAAND DO NOT MEET THE NATIONAL STANDARD FOR DRINKING WATER"
+scope = "National"
+dateFiled = "1993-11-24"
+status = "Pending with the Committee on HEALTH since 1993-12-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-12-01"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 134174
+congress = 9
+bill_no = "HR00867"
+comm_act = "Change of referral from the Committee on Rules(J.37 ,p.119)"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-12-01"

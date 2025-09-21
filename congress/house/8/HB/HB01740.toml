@@ -1,0 +1,80 @@
+billNumber = "HB01740"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01740"
+lastScraped = "2025-09-22T00:46:56.867209"
+title = "HB01740"
+longTitle = "AN ACT APPROPRIATING ADDITIONAL FUNDS FOR THE SANMARCELINO DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1987-09-21"
+status = "REPUBLIC ACT (RA07243) enacted on 1992-03-19"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+coAuthors = [ "TUPAS, NIEL D.",]
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TUPAS, NIEL D."
+nameCode = "Tupas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136431
+congress = 8
+bill_no = "HB01740"
+report = "01109"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVED WITH AMENDMENTS"
+date_read = "1987-09-24"
+date_ob = "1990-11-29"
+date_cal = "1990-11-29"
+date_unass = "1990-11-29"
+date_report = "1990-06-29"
+
+[secondReading]
+id = 20422
+congress = 8
+bill_no = "HB01740"
+date_approved = "1990-12-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 204
+congress = 8
+bill_no = "HB01740"
+date_dist = "1990-12-10"
+date_adopt = "1991-01-17"
+no_yeas = 131
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-01-18"
+date_rec = "1991-01-31"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1992-02-03"
+dte_actedp = "1992-03-19"

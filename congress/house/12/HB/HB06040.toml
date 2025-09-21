@@ -1,0 +1,42 @@
+billNumber = "HB06040"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB06040"
+lastScraped = "2025-09-22T00:13:00.966725"
+title = "HB06040"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO REV. FR. ULRICH H. SCHELCHT, SVD"
+scope = "Local"
+dateFiled = "2003-05-22"
+status = "Pending with the Committee on JUSTICE since 2003-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza, Rodolfo 'Ompong' G."
+[[authorsDetail]]
+name = "Plaza, Rodolfo 'Ompong' G."
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2003-06-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 89194
+congress = 12
+bill_no = "HB06040"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2003-06-02"

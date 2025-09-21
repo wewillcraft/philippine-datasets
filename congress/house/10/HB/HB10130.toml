@@ -1,0 +1,41 @@
+billNumber = "HB10130"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10130"
+lastScraped = "2025-09-22T00:20:59.319679"
+title = "HB10130"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF DON NARCISO RAMOS IN THE PROVINCE OF PANGASINAN"
+scope = "Local"
+dateFiled = "1997-10-16"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-10-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 116551
+congress = 10
+bill_no = "HB10130"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-10-21"

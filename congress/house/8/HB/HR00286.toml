@@ -1,0 +1,42 @@
+billNumber = "HR00286"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00286"
+lastScraped = "2025-09-22T00:47:02.582406"
+title = "HR00286"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND SYMPATHY OF THE HOUSE OF REPRESENTATIVES OVER THE DEMISE OF THE FATHER OF HONORABLE ALVIN G. DANS, REPRESENTATIVE FROM THE LONE DISTRICT OF BASILAN"
+scope = "Local"
+dateFiled = "1987-09-08"
+status = "Pending with the Committee on RULES since 1987-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sumulong"
+[[authorsDetail]]
+name = "Sumulong"
+nameCode = "Sumulong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1987-09-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170186
+congress = 8
+bill_no = "HR00286"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1987-09-08"

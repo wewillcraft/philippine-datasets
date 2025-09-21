@@ -1,0 +1,41 @@
+billNumber = "HB09082"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09082"
+lastScraped = "2025-09-22T00:20:59.096940"
+title = "HB09082"
+longTitle = "AN ACT EXPANDING THE COMPOSITION OF THE SUGAR REGULATORY ADMINISTRATION (SRA) SUGAR BOARD, AMENDING EXECUTIVE ORDER NUMBERED EIGHTEEN"
+scope = "National"
+dateFiled = "1997-03-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-03-13"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 115503
+congress = 10
+bill_no = "HB09082"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-03-13"

@@ -1,0 +1,54 @@
+billNumber = "HR01010"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01010"
+lastScraped = "2025-09-22T00:20:59.616739"
+title = "HR01010"
+longTitle = "RESOLUTION EXPRESSING THE GRATITUDE OF THE MINDANAO BUSINESS COMMUNITY TO HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS FOR HIS CONTINUING SUPPORT TO PEACE AND DEVELOPMENT IN MINDANAO"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on PEACE PROCESS AND INTEGRATION (SPECIAL CTTE.) since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PEACE PROCESS AND INTEGRATION (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B508"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "secondary"
+referralCode = "B511"
+
+[firstReading]
+id = 118064
+congress = 10
+bill_no = "HR01010"
+comm_act = "Jointly Referred to the Spl. Ctte. on East ASEAN Growth Area on Feb. 13, 1997."
+referral = "B508"
+ref_name = "PEACE PROCESS AND INTEGRATION (SPECIAL CTTE.)"
+date_read = "1996-12-12"
+
+[secondReading]
+id = 19014
+congress = 10
+bill_no = "HR01010"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

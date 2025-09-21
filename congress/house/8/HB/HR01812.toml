@@ -1,0 +1,59 @@
+billNumber = "HR01812"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01812"
+lastScraped = "2025-09-22T00:47:02.886795"
+title = "HR01812"
+longTitle = "RESOLUTION CALLING FOR THE SUSPENSION OF PAYMENTS FOR TWO YEARS ON FOREIGN DEBT IN VIEW OF THE EARTHQUAKE THAT DEVASTATED THE PHILIPPINES ON JULY 16, 1990"
+scope = "National"
+dateFiled = "1990-07-23"
+status = "Adopted as Resolution No. HR00088 on 1990-07-24"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+coAuthors = [ "CUENCO, ANTONIO V.",]
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-07-24"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 171649
+congress = 8
+bill_no = "HR01812"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-07-24"
+
+[secondReading]
+id = 21672
+congress = 8
+bill_no = "HR01812"
+adopted_resolution = "HR00088"
+date_approved = "1990-07-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,42 @@
+billNumber = "HR01469"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01469"
+lastScraped = "2025-09-22T00:47:02.813874"
+title = "HR01469"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON APPROPRIATIONS TO UNDERTAKE A STUDY, IN AID OF LEGISLATION, ON THE POSSIBLE SHIFTING IN BUDGET ALLOCATION FROM SECTORAL TO REGIONAL ALLOCATION"
+scope = "National"
+dateFiled = "1989-09-26"
+status = "Pending with the Committee on APPROPRIATIONS since 1989-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1989-09-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171332
+congress = 8
+bill_no = "HR01469"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1989-09-26"

@@ -1,0 +1,46 @@
+billNumber = "HB04819"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04819"
+lastScraped = "2025-09-22T00:20:58.265984"
+title = "HB04819"
+longTitle = "AN ACT REQUIRING THE PARENTS TO PLANT TWO TREES FOR EVERY CHILD BORN TO THEM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-10-31"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-11-08"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111240
+congress = 10
+bill_no = "HB04819"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-11-08"

@@ -1,0 +1,100 @@
+billNumber = "HB01600"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01600"
+lastScraped = "2025-09-22T00:13:48.135246"
+title = "National Revenue Authority Act of 2004"
+longTitle = "AN ACT CREATING THE NATIONAL REVENUE AUTHORITY, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2004-07-23"
+status = "Pending with the Committee on WAYS AND MEANS since 2004-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB01600.pdf"
+fileSize = 36648047
+author = "Lapus"
+coAuthors = [ "CUENCO, ANTONIO V.", "SOON-RUIZ, NERISSA CORAZON", "ROMUALDO, JURDIN JESUS M.", "PUENTEVELLA, MONICO O.", "IMPERIAL, CARLOS R.", "ABAYA, JOSEPH EMILIO A.",]
+[[authorsDetail]]
+name = "Lapus"
+nameCode = "Lapus"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON"
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PUENTEVELLA, MONICO O."
+nameCode = "Puentevella"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "IMPERIAL, CARLOS R."
+nameCode = "Imperial"
+date = ""
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABAYA, JOSEPH EMILIO A."
+nameCode = "Abaya"
+date = ""
+journalNo = "J028"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2004-08-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 76690
+congress = 13
+bill_no = "HB01600"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-11-17"
+date_read = "2004-08-03"

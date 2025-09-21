@@ -1,0 +1,54 @@
+billNumber = "HB00514"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00514"
+lastScraped = "2025-09-21T23:39:48.400769"
+title = "HB00514"
+longTitle = "AN ACT GRANTING ADDITIONAL FREE VACCINATIONS TO SENIOR CITIZENS, AMENDING FOR THIS PURPOSE SECTION 4 OF REPUBLIC ACT NO. 7432, AS AMENDED, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on SENIOR CITIZENS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00514.pdf"
+fileSize = 4670799
+author = "FRESNEDI, JAIME R."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "FRESNEDI, JAIME R."
+nameCode = "Fresnedi"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 515
+congress = 103
+bill_no = "HB00514"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

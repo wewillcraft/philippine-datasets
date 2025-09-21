@@ -1,0 +1,56 @@
+billNumber = "HR01156"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01156"
+lastScraped = "2025-09-22T00:25:57.578546"
+title = "HR01156"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND FOOD AND THE COMMITTEE ON HEALTH TO CONDUCT A JOINT INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED PRESENCE OF FORMALIN ON VEGETABLES AND MILKFISH GROWN IN MINDANAO AND OTHER PARTS OF THE COUNTRY, AND TO RECOMMEND APPROPRIATE IMMEDIATE MEASURES AS MAY BE NECESSARY"
+scope = "Local"
+dateFiled = "1994-08-08"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "TAGLE, VICENTE V.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TAGLE, VICENTE V."
+nameCode = "Tagle"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-08-11"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 134462
+congress = 9
+bill_no = "HR01156"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEES ON AGRICULTUR E AND FOOD AND HEALTH"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-08-11"

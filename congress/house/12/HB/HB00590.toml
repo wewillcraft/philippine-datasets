@@ -1,0 +1,78 @@
+billNumber = "HB00590"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00590"
+lastScraped = "2025-09-22T00:12:59.912133"
+title = "HB00590"
+longTitle = "AN ACT GRANTING INCENTIVES AND BENEFITS TO RURAL HEALTH DOCTORS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-03"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Macias, Emilio II C."
+coAuthors = [ "LACSON, JOSE CARLOS V.", "MONFORT, NARCISO D.", "ESPINOSA, EDGAR T.", "CHATTO, EDGARDO M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Macias, Emilio II C."
+nameCode = "Macias"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J003"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J085"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINOSA, EDGAR T."
+nameCode = "Espinosa"
+date = ""
+journalNo = "J009"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J035"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 83750
+congress = 12
+bill_no = "HB00590"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

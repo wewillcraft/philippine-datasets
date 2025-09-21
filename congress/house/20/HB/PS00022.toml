@@ -1,0 +1,44 @@
+billNumber = "PS00022"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00022"
+lastScraped = "2025-09-21T23:39:49.245746"
+title = "Kaugnay Sa Araw Ng Pandaigdigang Makataong Batas"
+longTitle = "KAUGNAY SA ARAW NG PANDAIGDIGANG MAKATAONG BATAS"
+dateFiled = "2025-08-11"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "TINIO, ANTONIO L."
+[[authorsDetail]]
+name = "TINIO, ANTONIO L."
+nameCode = "Tinio"
+date = "2025-08-11"
+sequence = 1
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2025-08-11"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 4857
+congress = 103
+bill_no = "PS00022"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-11"

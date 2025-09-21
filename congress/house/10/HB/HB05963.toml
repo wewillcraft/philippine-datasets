@@ -1,0 +1,46 @@
+billNumber = "HB05963"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05963"
+lastScraped = "2025-09-22T00:20:58.468757"
+title = "HB05963"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE LAS PINAS DISTRICT HOSPITAL FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-26"
+status = "Pending with the Committee on HEALTH since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112384
+congress = 10
+bill_no = "HB05963"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-30"

@@ -1,0 +1,49 @@
+billNumber = "HR00910"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00910"
+lastScraped = "2025-09-22T00:20:59.596688"
+title = "HR00910"
+longTitle = "RESOLUTION URGING THE SPECIAL COMMITTEE ON THE FISHERIES INDUSTRY AND THE COMMITTEE ON ECOLOGY TO INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED MASSIVE FISH KILL THAT OCCURRED IN MANILA BAY ON OCTOBER 10, 1996"
+scope = "Local"
+dateFiled = "1996-10-14"
+status = "Pending with the Committee on RULES since 1996-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117964
+congress = 10
+bill_no = "HR00910"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-16"

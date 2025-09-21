@@ -1,0 +1,68 @@
+billNumber = "HB00387"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00387"
+lastScraped = "2025-09-22T00:01:45.089095"
+title = "HB00387"
+longTitle = "AN ACT CREATING A DENTAL UNIT IN EVERY RURAL HEALTH UNIT UNDER THE DEPARTMENT OF HEALTH AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on HEALTH since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00387.pdf"
+fileSize = 624895
+author = "Arroyo, Ma. Lourdes T."
+coAuthors = [ "OLIVAREZ, ERIC L.", "SY-ALVARADO, JOSE ANTONIO R.", "FARINAS, RIA CHRISTINA G.",]
+[[authorsDetail]]
+name = "Arroyo, Ma. Lourdes T."
+nameCode = "Arroyo"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2019-08-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-09-10"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FARINAS, RIA CHRISTINA G."
+nameCode = "Fariñas (R.C.)"
+date = "2020-10-05"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 19801
+congress = 18
+bill_no = "HB00387"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

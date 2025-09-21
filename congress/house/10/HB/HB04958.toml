@@ -1,0 +1,46 @@
+billNumber = "HB04958"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04958"
+lastScraped = "2025-09-22T00:20:58.289790"
+title = "HB04958"
+longTitle = "AN ACT ESTABLISHING A BASILAN MULTIPURPOSE CENTER IN THE MUNICIPALITY OF ISABELA, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-09"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-11-14"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111379
+congress = 10
+bill_no = "HB04958"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-11-14"

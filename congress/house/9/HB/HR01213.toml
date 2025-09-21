@@ -1,0 +1,43 @@
+billNumber = "HR01213"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01213"
+lastScraped = "2025-09-22T00:25:57.591908"
+title = "HR01213"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GAMES AND AMUSEMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED NON-PAYMENT OF TAXES BY MOVIE HOUSE OWNERS"
+scope = "National"
+dateFiled = "1994-09-08"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1994-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1994-09-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134519
+congress = 9
+bill_no = "HR01213"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Games and Amusements on Sept. 22, 1994"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1994-09-20"

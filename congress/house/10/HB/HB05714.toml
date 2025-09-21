@@ -1,0 +1,46 @@
+billNumber = "HB05714"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05714"
+lastScraped = "2025-09-22T00:20:58.427189"
+title = "HB05714"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BRIDGE CONNECTING THE TUBOD TO MA-ASIN IN THE MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, AND ALLOCATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-23"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112135
+congress = 10
+bill_no = "HB05714"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-23"

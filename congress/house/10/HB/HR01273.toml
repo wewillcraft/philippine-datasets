@@ -1,0 +1,41 @@
+billNumber = "HR01273"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01273"
+lastScraped = "2025-09-22T00:20:59.669293"
+title = "HR01273"
+longTitle = "RESOLUTION TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED CONDITION OF THE WATERS OF BORACAY ISLAND"
+scope = "Local"
+dateFiled = "1997-07-09"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 118327
+congress = 10
+bill_no = "HR01273"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-07-30"

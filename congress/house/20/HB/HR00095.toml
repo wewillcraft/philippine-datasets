@@ -1,0 +1,45 @@
+billNumber = "HR00095"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00095"
+lastScraped = "2025-09-21T23:39:49.212343"
+title = "HR00095"
+longTitle = "RESOLUTION URGING THE METROPOLITAN MANILA DEVELOPMENT AUTHORITY (MMDA) TO CONDUCT A COMPREHENSIVE STUDY AND ASSESSMENT OF THE DRAINAGE AND FLOOD MANAGEMENT SYSTEM IN THE ENTIRE NATIONAL CAPITAL REGION (NCR), WITH THE END VIEW OF FORMULATING AN UPDATED, COORDINATED, AND SUSTAINABLE DRAINAGE MASTER PLAN"
+dateFiled = "2025-07-30"
+status = "Pending with the Committee on METRO MANILA DEVELOPMENT since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00095.pdf"
+fileSize = 5919883
+author = "ASISTIO, DEAN"
+[[authorsDetail]]
+name = "ASISTIO, DEAN"
+nameCode = "Asistio"
+date = "2025-07-30"
+sequence = 1
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "primary"
+referralCode = "E502"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4651
+congress = 103
+bill_no = "HR00095"
+report = ""
+comm_act = ""
+referral = "E502"
+ref_name = "METRO MANILA DEVELOPMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

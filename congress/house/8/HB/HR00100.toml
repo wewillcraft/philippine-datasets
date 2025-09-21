@@ -1,0 +1,57 @@
+billNumber = "HR00100"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00100"
+lastScraped = "2025-09-22T00:47:02.544715"
+title = "HR00100"
+longTitle = "RESOLUTION REQUIRING THE SECRETARY OF ENERGY, ENVIRONMENT AND NATURAL RESOURCES TO SUBMIT AN INVENTORY, STATUS AND DISPOSITION OF TIME LICENSES AND PERMITS UNDER SUSPENSION"
+scope = "National"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valencia, Rodolfo G."
+coAuthors = [ "MENDIOLA, MARIO GENE J.", "PUNZALAN, JESUS M.",]
+[[authorsDetail]]
+name = "Valencia, Rodolfo G."
+nameCode = "Valencia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MENDIOLA, MARIO GENE J."
+nameCode = "Mendiola"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, JESUS M."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170010
+congress = 8
+bill_no = "HR00100"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-08-12"

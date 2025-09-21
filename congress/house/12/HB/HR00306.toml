@@ -1,0 +1,78 @@
+billNumber = "HR00306"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00306"
+lastScraped = "2025-09-22T00:13:01.205749"
+title = "HR00306"
+longTitle = "RESOLUTION ENDORSING THE VERIFIED COMPLAINT FOR IMPEACHMENT OF OMBUDSMAN ANIANO DESIERTO AND MOVING THAT THIS RESOLUTION BE CONSOLIDATED WITH THAT OF REP. OSCAR MORENO ON THE SAME ISSUE, AND URGING THE MEMBERS OF THE HOUSE OF REPRESENTATIVES TO SUPPORT THE CONSOLIDATED RESOLUTION AND GIVE IT IMMEDIATE DUE COURSE"
+scope = "Local"
+dateFiled = "2001-11-26"
+status = "Adopted as Resolution No.  on 2002-02-13"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ocampo, Satur  C."
+coAuthors = [ "BELTRAN, CRISPIN", "MAZA, LIZA", "DEDURO, SIEGFRED D.",]
+[[authorsDetail]]
+name = "Ocampo, Satur  C."
+nameCode = "Ocampo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELTRAN, CRISPIN"
+nameCode = "Beltran"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MAZA, LIZA"
+nameCode = "Maza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEDURO, SIEGFRED D."
+nameCode = "Deduro"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 90245
+congress = 12
+bill_no = "HR00306"
+report = "00150"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "Dismiss, compalint is not sufficient in substance."
+date_read = "2001-11-26"
+date_ob = "2002-01-22"
+date_report = "2002-01-18"
+
+[secondReading]
+id = 15035
+congress = 12
+bill_no = "HR00306"
+remarks = "With 122 Affirmative votes, 30 Negative votes and 5 Abstentions, the  Body Approved Ctte. Rpt. No. 150."
+date_calendared = "2002-01-30"
+date_approved = "2002-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

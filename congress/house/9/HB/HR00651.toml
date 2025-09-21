@@ -1,0 +1,43 @@
+billNumber = "HR00651"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00651"
+lastScraped = "2025-09-22T00:25:57.485190"
+title = "HR00651"
+longTitle = "RESOLUTION PROPOSING THE CREATION OF AN AD HOC COMMITTEE TO STUDY PROPOSED CHANGES IN THE CURRENT JUDICIAL SYSTEM AND THE INTRODUCTION OF THE FEDERAL COURTS JURY SYSTEM IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1993-06-02"
+status = "Pending with the Committee on JUSTICE since 1993-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-06-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 133963
+congress = 9
+bill_no = "HR00651"
+comm_act = "Change of referral from the Cttee. on Rules (J.4,p.28) ;(J.60,p.5 4)"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-06-04"

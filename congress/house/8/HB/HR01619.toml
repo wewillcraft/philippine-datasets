@@ -1,0 +1,42 @@
+billNumber = "HR01619"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01619"
+lastScraped = "2025-09-22T00:47:02.857918"
+title = "HR01619"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON NATIONAL DEFENSE, FOREIGN AFFAIRS, JUSTICE, PUBLIC SECURITY AND ORDER TO DISCUSS AND INVESTIGATE, IN AID OF LEGISLATION, THE GRIPES, COMPLAINTS AND EVEN SUGGESTIONS OF THE MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES WHO WERE INVOLVED IN THE DECEMBER 1989 COUP ATTEMPT"
+scope = "Local"
+dateFiled = "1989-12-22"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-12-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-12-22"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 171465
+congress = 8
+bill_no = "HR01619"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-12-22"

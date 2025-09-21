@@ -1,0 +1,68 @@
+billNumber = "HB09103"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB09103"
+lastScraped = "2025-09-21T23:55:21.916938"
+title = "HB09103"
+longTitle = "AN ACT CREATING THE NATIONAL DIABETES CENTER AND FOUNDATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2023-09-11"
+status = "Pending with the Committee on HEALTH since 2023-09-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB09103.pdf"
+fileSize = 294418
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "ABANTE, BIENVENIDO M.", "LEE, WILBERT T.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2023-09-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABANTE, BIENVENIDO M."
+nameCode = "Abante"
+date = "2023-09-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2023-09-25"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-06-10"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-09-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 14022
+congress = 19
+bill_no = "HB09103"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-09-13"

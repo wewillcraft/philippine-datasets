@@ -1,0 +1,46 @@
+billNumber = "HB05793"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05793"
+lastScraped = "2025-09-22T00:20:58.440932"
+title = "HB05793"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY BANOT, MUNICIPALITY OF SAMPALOC, PROVINCE OF QUEZON, TO BE KNOWN AS THE BANOT HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-22"
+status = "Pending with the Committee on HEALTH since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112214
+congress = 10
+bill_no = "HB05793"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-25"

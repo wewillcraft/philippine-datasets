@@ -1,0 +1,52 @@
+billNumber = "HR00336"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HR00336"
+lastScraped = "2025-09-22T00:13:49.177766"
+title = "HR00336"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON APPROPRIATIONS TO HELP FUND FURTHER NEEDED RESEARCH ON MONOLAURIN AS ANTIDOTE TO ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS)"
+scope = "National"
+dateFiled = "2004-10-20"
+status = "Pending with the Committee on APPROPRIATIONS since 2004-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alcala, Proceso J."
+[[authorsDetail]]
+name = "Alcala, Proceso J."
+nameCode = "Alcala"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2004-11-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 81600
+congress = 13
+bill_no = "HR00336"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-11-09"
+date_read = "2004-11-09"

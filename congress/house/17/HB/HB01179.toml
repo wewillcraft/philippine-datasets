@@ -1,0 +1,68 @@
+billNumber = "HB01179"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01179"
+lastScraped = "2025-09-21T23:55:44.307358"
+title = "HB01179"
+longTitle = "AN ACT MANDATING THE APPOINTMENT OF ONE MIDWIFE FOR EACH BARANGAY AND FOR OTHER PURPOSES\r\n"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on HEALTH since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01179.pdf"
+fileSize = 408883
+author = "Cayetano, Pia S."
+coAuthors = [ "CATAMCO, NANCY A.", "ALVAREZ, FRANZ E.", "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Cayetano, Pia S."
+nameCode = "Cayetano"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2016-08-16"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALVAREZ, FRANZ E."
+nameCode = "Alvarez (F.)"
+date = "2016-09-19"
+journalNo = "J023"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-21"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 34647
+congress = 17
+bill_no = "HB01179"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

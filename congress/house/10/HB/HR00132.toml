@@ -1,0 +1,57 @@
+billNumber = "HR00132"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00132"
+lastScraped = "2025-09-22T00:20:59.447596"
+title = "HR00132"
+longTitle = "RESOLUTION EXPRESSING AND EXTENDING FULL SUPPORT FOR THE PHILIPPINE DELEGATION TO THE UNITED NATIONS FOURTH WORLD CONFERENCE ON WOMEN IN BEIJING, PEOPLE'S REPUBLIC OF CHINA, SCHEDULED ON SEPTEMBER 4-15, 1995"
+scope = "National"
+dateFiled = "1995-08-23"
+status = "Adopted as Resolution No. HR00014 on 1995-09-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117186
+congress = 10
+bill_no = "HR00132"
+report = "00010"
+referral = "A504"
+ref_name = "WOMEN"
+recomm = "Approval without amendment"
+date_read = "1995-08-29"
+date_ob = "1995-09-05"
+date_report = "1995-09-05"
+
+[secondReading]
+id = 18928
+congress = 10
+bill_no = "HR00132"
+adopted_resolution = "HR00014"
+date_calendared = "1995-09-05"
+date_approved = "1995-09-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00014.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00014.pdf"

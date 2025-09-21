@@ -1,0 +1,88 @@
+billNumber = "HB00046"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00046"
+lastScraped = "2025-09-22T00:46:56.549651"
+title = "HB00046"
+longTitle = "AN ACT CREATING THE PROVINCE OF SARANGANI"
+scope = "Local"
+dateFiled = "1987-07-29"
+status = "REPUBLIC ACT (RA07228) enacted on 1992-03-16"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+coAuthors = [ "PEDRO, HILARIO III L. DE", "CHIONGBIAN, JAMES L.",]
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEDRO, HILARIO III L. DE"
+nameCode = "Pedro"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CHIONGBIAN, JAMES L."
+nameCode = "Chiongbian"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 134744
+congress = 8
+bill_no = "HB00046"
+report = "01714"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1987-07-30"
+date_ob = "1991-12-12"
+date_cal = "1991-12-12"
+date_unass = "1991-12-12"
+date_report = "1991-12-11"
+
+[secondReading]
+id = 20223
+congress = 8
+bill_no = "HB00046"
+date_calendared = "1991-12-12"
+date_approved = "1991-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 7
+congress = 8
+bill_no = "HB00046"
+date_dist = "1991-12-17"
+date_adopt = "1992-01-13"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "1992-01-14"
+date_agram = "1992-02-03"
+amend_ind = "Y"
+act_pres = "A"
+dte_transp = "1992-02-07"
+dte_actedp = "1992-03-16"

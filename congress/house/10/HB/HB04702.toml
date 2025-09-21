@@ -1,0 +1,46 @@
+billNumber = "HB04702"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04702"
+lastScraped = "2025-09-22T00:20:58.244764"
+title = "HB04702"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION, OPERATION AND MAINTENANCE UNDER THE BUILD, OPERATE AND TRANSFER SCHEME OF AN INTER-ISLAND AND TRANS-OCEAN PORT IN THE MUNICIPALITY OF CALUMPIT, PROVINCE OF BULACAN, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-25"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-11-06"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111123
+congress = 10
+bill_no = "HB04702"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-11-06"

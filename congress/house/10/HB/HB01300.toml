@@ -1,0 +1,46 @@
+billNumber = "HB01300"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01300"
+lastScraped = "2025-09-22T00:20:57.598565"
+title = "HB01300"
+longTitle = "AN ACT ESTABLISHING A MANPOWER TRAINING CENTER IN THE CITY OF BUTUAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-26"
+status = "Substituted by HB06817"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107721
+congress = 10
+bill_no = "HB01300"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-08-01"

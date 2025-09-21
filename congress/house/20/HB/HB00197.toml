@@ -1,0 +1,54 @@
+billNumber = "HB00197"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00197"
+lastScraped = "2025-09-21T23:39:48.335210"
+title = "HB00197"
+longTitle = "AN ACT INSTITUTING A NATIONAL LAND USE POLICY, PROVIDING THE IMPLEMENTING MECHANISMS AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on LAND USE since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00197.pdf"
+fileSize = 5224891
+author = "YAP, EDVIC G."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "YAP, EDVIC G."
+nameCode = "Yap (EDVIC)"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LAND USE"
+type = "primary"
+referralCode = "E515"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 198
+congress = 103
+bill_no = "HB00197"
+report = ""
+comm_act = ""
+referral = "E515"
+ref_name = "LAND USE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

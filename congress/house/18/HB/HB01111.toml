@@ -1,0 +1,61 @@
+billNumber = "HB01111"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01111"
+lastScraped = "2025-09-22T00:01:45.251425"
+title = "HB01111"
+longTitle = "AN ACT PROVIDING A FIVE (5)-YEAR TAX HOLIDAY FOR THE FILM INDUSTRY BY AMENDING REPUBLIC ACT NO. 9167, OTHERWISE KNOWN AS 'AN ACT CREATING THE FILM DEVELOPMENT COUNCIL OF THE PHILIPPINES, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES'"
+scope = "National"
+dateFiled = "2019-07-02"
+status = "Pending with the Committee on PUBLIC INFORMATION since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01111.pdf"
+fileSize = 2136307
+author = "Atienza, Jose Jr. L."
+coAuthors = [ "BORDADO, GABRIEL JR.", "SAVELLANO, DEOGRACIAS VICTOR B.",]
+[[authorsDetail]]
+name = "Atienza, Jose Jr. L."
+nameCode = "Atienza"
+date = "2019-07-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BORDADO, GABRIEL JR."
+nameCode = "Bordado"
+date = "2019-08-20"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2019-11-12"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 20522
+congress = 18
+bill_no = "HB01111"
+report = ""
+comm_act = ""
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

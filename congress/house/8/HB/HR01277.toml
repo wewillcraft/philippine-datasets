@@ -1,0 +1,42 @@
+billNumber = "HR01277"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01277"
+lastScraped = "2025-09-22T00:47:02.782753"
+title = "HR01277"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON RULES TO ADOPTMEASURES THAT WILL INSURE THE EXPIDITIONS PASSAGEOF URGENT BILLS AND CERTAIN BILLS OF LOCAL APPLICATION"
+scope = "National"
+dateFiled = "1989-05-08"
+status = "Pending with the Committee on RULES since 1989-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-05-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171146
+congress = 8
+bill_no = "HR01277"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-05-15"

@@ -1,0 +1,44 @@
+billNumber = "HR00332"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00332"
+lastScraped = "2025-09-22T00:25:57.426132"
+title = "HR00332"
+longTitle = "URGENT RESOLUTION DIRECTING THE COMMITTEE ON LABOR TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE CONTINUING REPORTS OF 'INHUMANITY' SUFFERED BY HUNDREDS OF FILIPINO FISHWORKERS ON BOARD TAIWANESE FISHING VESSELS"
+scope = "Local"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 133644
+congress = 9
+bill_no = "HR00332"
+report = "00768"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = "LABOR AND EMPLOYMENT"
+date_read = "1992-11-16"
+date_report = "1994-06-02"

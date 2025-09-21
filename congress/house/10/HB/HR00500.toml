@@ -1,0 +1,41 @@
+billNumber = "HR00500"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00500"
+lastScraped = "2025-09-22T00:20:59.517371"
+title = "HR00500"
+longTitle = "RESOLUTION CONFERRING A CONGRESSIONAL CITATION TO KING FAHAD BIN ABDULAZIZ OF THE KINGDOM OF SAUDI ARABIA FOR THE ROYAL PARDON GRANTED TO SIX (6) OVERSEAS FILIPINO WORKERS (OFWs) IMPRISONED IN SAUDI ARABIA"
+scope = "National"
+dateFiled = "1996-02-26"
+status = "Pending with the Committee on RULES since 1996-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-02-28"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 117554
+congress = 10
+bill_no = "HR00500"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-02-28"

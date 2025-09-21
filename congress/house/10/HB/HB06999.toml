@@ -1,0 +1,82 @@
+billNumber = "HB06999"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06999"
+lastScraped = "2025-09-22T00:20:58.657045"
+title = "HB06999"
+longTitle = "AN ACT DECLARING EVERY FRIDAY OF THE WEEK AS BOY SCOUT AND GIRL SCOUT DAY AND ENJOINING ALL PUBLIC AND PRIVATE SCHOOLS TO OBSERVE THE SAME"
+scope = "National"
+dateFiled = "1996-05-16"
+status = "Approved by the House on 1997-03-03, transmitted to on 1997-03-05 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "PERIQUET, ANNA MARIE K.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PERIQUET, ANNA MARIE K."
+nameCode = "Periquet"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 113420
+congress = 10
+bill_no = "HB06999"
+report = "00688"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1996-05-21"
+date_ob = "1996-12-09"
+date_unass = "1997-02-04"
+date_report = "1996-12-05"
+
+[secondReading]
+id = 18441
+congress = 10
+bill_no = "HB06999"
+date_calendared = "1997-02-12"
+date_approved = "1997-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3037
+congress = 10
+bill_no = "HB06999"
+date_dist = "1997-02-24"
+date_adopt = "1997-03-03"
+no_yeas = 167
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-03-05"
+date_rec = "1997-03-06"

@@ -1,0 +1,41 @@
+billNumber = "HB04548"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04548"
+lastScraped = "2025-09-22T00:20:58.219772"
+title = "HB04548"
+longTitle = "AN ACT LEGALIZING EUTHANASIA IN CERTAIN CASES (mercy killing)"
+scope = "National"
+dateFiled = "1995-10-23"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-10-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-10-26"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 110969
+congress = 10
+bill_no = "HB04548"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-10-26"

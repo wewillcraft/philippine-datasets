@@ -1,0 +1,63 @@
+billNumber = "HB01874"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01874"
+lastScraped = "2025-09-22T00:20:57.698127"
+title = "HB01874"
+longTitle = "AN ACT ALLOWING GOVERNMENT LAWYERS TO RENDER FREE LEGAL SERVICE TO INDIGENTS CHARGED WITH A CRIME/CRIMES"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on JUSTICE since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "GULLAS, EDUARDO R.", "AVILA, EDGAR M.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 108295
+congress = 10
+bill_no = "HB01874"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-09"

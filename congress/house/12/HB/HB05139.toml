@@ -1,0 +1,50 @@
+billNumber = "HB05139"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05139"
+lastScraped = "2025-09-22T00:13:00.752973"
+title = "HB05139"
+longTitle = "\"THE BUDGET IMPOUNDMENT CONTROL ACT OF 2002\""
+scope = "National"
+dateFiled = "2002-08-21"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marcos, Imee R."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = "Marcos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J057"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-09-02"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 88294
+congress = 12
+bill_no = "HB05139"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-09-02"

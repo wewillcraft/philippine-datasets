@@ -1,0 +1,47 @@
+billNumber = "PS00074"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00074"
+lastScraped = "2025-09-22T00:13:49.483639"
+title = "PS00074"
+longTitle = "Alleged Anomalous Influx of Sugar in the Country"
+scope = "National"
+dateFiled = "2004-11-09"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2004-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Martinez, Clavel A."
+[[authorsDetail]]
+name = "Martinez, Clavel A."
+nameCode = "Martinez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2004-11-09"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "secondary"
+referralCode = "E505"
+
+[firstReading]
+id = 82870
+congress = 13
+bill_no = "PS00074"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2004-11-09"

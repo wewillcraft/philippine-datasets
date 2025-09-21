@@ -1,0 +1,57 @@
+billNumber = "HR00223"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00223"
+lastScraped = "2025-09-22T00:13:01.186362"
+title = "HR00223"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ENERGY TO ASK THE NATIONAL ELECTRIFICATION ADMINISTRATION (NEA) ADMINISTRATOR TO CLOSELY COORDINATE WITH CONGRESSMEN IN SELECTING THE NEA ADMINISTRATION' S REPRESENTATIVE TO THE BOARD OF DIRECTORS OF ELECTRIC COOPERATIVES"
+scope = "National"
+dateFiled = "2001-10-01"
+status = "Pending with the Committee on RULES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Uy, Reynaldo S. , M.D."
+coAuthors = [ "SANTIAGO, JOSEPH A.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Uy, Reynaldo S. , M.D."
+nameCode = "Uy"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANTIAGO, JOSEPH A."
+nameCode = "Santiago"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J066"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 90162
+congress = 12
+bill_no = "HR00223"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-10-09"

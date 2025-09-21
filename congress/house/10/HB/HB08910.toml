@@ -1,0 +1,77 @@
+billNumber = "HB08910"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08910"
+lastScraped = "2025-09-22T00:20:59.061556"
+title = "HB08910"
+longTitle = "AN ACT CONVERTING THE BILAR HIGH SCHOOL, MUNICIPALITY OF BILAR, PROVINCE OF BOHOL, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BILAR NATIONAL HIGH SCHOOL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-02-10"
+status = "Approved on Third Reading on 1998-02-20"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-02-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115331
+congress = 10
+bill_no = "HB08910"
+report = "01455"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1997-02-11"
+date_ob = "1998-02-04"
+date_report = "1998-02-03"
+
+[secondReading]
+id = 18643
+congress = 10
+bill_no = "HB08910"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3227
+congress = 10
+bill_no = "HB08910"
+date_dist = "1998-02-06"
+date_adopt = "1998-02-20"
+no_yeas = 106
+no_nays = 0
+no_abstent = 0

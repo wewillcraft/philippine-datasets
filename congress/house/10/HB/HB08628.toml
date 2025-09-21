@@ -1,0 +1,75 @@
+billNumber = "HB08628"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08628"
+lastScraped = "2025-09-22T00:20:59.001067"
+title = "HB08628"
+longTitle = "AN ACT INSTITUTING PRISON REFORMS, IMPOSING A PENALTY FOR VIOLATIONS THEREOF, PROVIDING APPROPRIATIONS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-12-16"
+status = "Pending with the Committee on JUSTICE since 1996-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "CALALAY, REYNALDO A.", "AVILA, EDGAR M.", "SAN BUENAVENTURA, LEOPOLDO E.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SAN BUENAVENTURA, LEOPOLDO E."
+nameCode = "San Buenaventura"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-12-18"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115049
+congress = 10
+bill_no = "HB08628"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-12-18"

@@ -1,0 +1,61 @@
+billNumber = "HB01205"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01205"
+lastScraped = "2025-09-21T23:56:21.696679"
+title = "HB01205"
+longTitle = "AN ACT INCREASING THE PENALTIES OF DRIVERS AND OPERATORS OF COMMON CARRIERS OPERATING UNDER THE INFLUENCE OF ALCOHOL OR DRUGS"
+scope = "National"
+dateFiled = "2013-07-08"
+status = "Pending with the Committee on TRANSPORTATION since 2013-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01205.pdf"
+fileSize = 268024
+author = "TEODORO, MARCELINO \"MARCY\" R."
+coAuthors = [ "ROMUALDO, XAVIER JESUS \"XJ\" D.", "ABUEG, FREDERICK F.",]
+[[authorsDetail]]
+name = "TEODORO, MARCELINO \"MARCY\" R."
+nameCode = "Teodoro"
+date = "2013-07-08"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, XAVIER JESUS \"XJ\" D."
+nameCode = "Romualdo"
+date = "2013-12-03"
+journalNo = "J032"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABUEG, FREDERICK F."
+nameCode = "Abueg"
+date = "2014-09-15"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 47019
+congress = 16
+bill_no = "HB01205"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-29"

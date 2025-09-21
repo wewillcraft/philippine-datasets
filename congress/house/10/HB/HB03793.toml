@@ -1,0 +1,49 @@
+billNumber = "HB03793"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03793"
+lastScraped = "2025-09-22T00:20:58.076767"
+title = "HB03793"
+longTitle = "AN ACT PROVIDING FOR THE REACQUISITION OF PHILIPPINE CITIZENSHIP, AMENDING FOR THIS PURPOSE COMMONWEALTH ACT NO. 63"
+scope = "National"
+dateFiled = "1995-09-25"
+status = "Pending with the Committee on JUSTICE since 1995-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 110214
+congress = 10
+bill_no = "HB03793"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-28"

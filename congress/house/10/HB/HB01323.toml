@@ -1,0 +1,75 @@
+billNumber = "HB01323"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01323"
+lastScraped = "2025-09-22T00:20:57.602144"
+title = "HB01323"
+longTitle = "AN ACT PROVIDING MEDICAL HEALTH CARE AND TREATMENT TO PNP MEMBERS BY OTHER GOVERNMENT AND PRIVATE HOSPITALS, AND TO PROVIDE FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "RUIZ, NERISSA CORAZON S.", "PEREZ, HERNANDO B.", "MONTEMAYOR, LEONARDO Q.", "SILVERIO, RICARDO C.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SILVERIO, RICARDO C."
+nameCode = "Silverio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107744
+congress = 10
+bill_no = "HB01323"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-08-01"

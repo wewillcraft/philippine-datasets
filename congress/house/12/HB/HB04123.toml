@@ -1,0 +1,47 @@
+billNumber = "HB04123"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04123"
+lastScraped = "2025-09-22T00:13:00.540639"
+title = "HB04123"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF AGUINALDO, PROVINCE OF IFUGAO TO BE KNOWN AS THE AGUINALDO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-12-22"
+status = "Pending with the Committee on HEALTH since 2002-01-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "CHUNGALAO, SOLOMON R."
+[[authorsDetail]]
+name = "CHUNGALAO, SOLOMON R."
+nameCode = "Chungalao"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-01-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87283
+congress = 12
+bill_no = "HB04123"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-01-14"

@@ -1,0 +1,74 @@
+billNumber = "HB02451"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02451"
+lastScraped = "2025-09-22T00:25:55.026290"
+title = "HB02451"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF NATONIN, MOUNTAIN PROVINCE, TO BE KNOWN AS THE NATONIN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-09"
+status = "Approved by the House on 1994-10-17, transmitted to on 1994-10-20 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez, Victor S."
+[[authorsDetail]]
+name = "Dominguez, Victor S."
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121070
+congress = 9
+bill_no = "HB02451"
+report = "00891"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1992-09-21"
+date_ob = "1994-09-27"
+date_cal = "1994-09-27"
+date_unass = "1994-09-27"
+date_report = "1994-09-23"
+
+[secondReading]
+id = 19251
+congress = 9
+bill_no = "HB02451"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-09-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1525
+congress = 9
+bill_no = "HB02451"
+date_dist = "1994-10-04"
+date_adopt = "1994-10-17"
+no_yeas = 158
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-10-20"
+date_rec = "1994-10-24"

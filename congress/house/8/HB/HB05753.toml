@@ -1,0 +1,57 @@
+billNumber = "HB05753"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05753"
+lastScraped = "2025-09-22T00:46:57.557393"
+title = "HB05753"
+longTitle = "AN ACT TO PROMOTE ANIMAL WELFARE IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1988-02-24"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero"
+coAuthors = [ "MONFORT, NARCISO D.", "ROA, BENEDICTA B.",]
+[[authorsDetail]]
+name = "Escudero"
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-03-01"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 140434
+congress = 8
+bill_no = "HB05753"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-03-01"

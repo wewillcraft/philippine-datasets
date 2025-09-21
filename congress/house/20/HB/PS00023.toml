@@ -1,0 +1,54 @@
+billNumber = "PS00023"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00023"
+lastScraped = "2025-09-21T23:39:49.245905"
+title = "On The Call To Investigate The Anomalous Flood Control And Other Public Works Projects"
+longTitle = "ON THE CALL TO INVESTIGATE THE ANOMALOUS FLOOD CONTROL AND OTHER PUBLIC WORKS PROJECTS"
+dateFiled = "2025-08-11"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "UNGAB, ISIDRO T."
+[[authorsDetail]]
+name = "UNGAB, ISIDRO T."
+nameCode = "Ungab"
+date = "2025-08-11"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-08-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4858
+congress = 103
+bill_no = "PS00023"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-11"

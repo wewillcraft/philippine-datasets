@@ -1,0 +1,46 @@
+billNumber = "HB09058"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09058"
+lastScraped = "2025-09-22T00:20:59.089884"
+title = "HB09058"
+longTitle = "AN ACT ESTABLISHING ACUPUNCTURE AND ACUPRESSURE (REFLEXOLOGY) CLINIC AND TRAINING CENTER IN CABUGAO NUEVO, MUNICIPALITY OF SAN ENRIQUE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-03-05"
+status = "Pending with the Committee on HEALTH since 1997-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-10"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115479
+congress = 10
+bill_no = "HB09058"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-10"

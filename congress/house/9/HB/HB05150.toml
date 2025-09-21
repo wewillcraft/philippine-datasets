@@ -1,0 +1,47 @@
+billNumber = "HB05150"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05150"
+lastScraped = "2025-09-22T00:25:55.580385"
+title = "HB05150"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BARANGAY HEALTH CENTER IN BARANGAY 5, MUNICIPALITY OF BANTAY, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE BARANGAY 5 HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-25"
+status = "Pending with the Committee on HEALTH since 1992-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123769
+congress = 9
+bill_no = "HB05150"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-26"

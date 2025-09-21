@@ -1,0 +1,68 @@
+billNumber = "HB08657"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08657"
+lastScraped = "2025-09-21T23:55:46.031454"
+title = "HB08657"
+longTitle = "AN ACT MANDATING THE USE OF RECYCLABLE MATERIALS FOR THE PACKAGING OF CONSUMER PRODUCTS"
+scope = "National"
+dateFiled = "2018-11-27"
+status = "Pending with the Committee on ECOLOGY since 2018-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08657.pdf"
+fileSize = 609468
+author = "Nieto, John Marvin \"Yul Servo\" C."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "DEL MAR, RAUL V.", "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Nieto, John Marvin \"Yul Servo\" C."
+nameCode = "Nieto"
+date = "2018-11-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-12-12"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2018-12-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-01-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2018-11-28"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 42124
+congress = 17
+bill_no = "HB08657"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-11-28"

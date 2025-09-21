@@ -1,0 +1,46 @@
+billNumber = "HB07231"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07231"
+lastScraped = "2025-09-22T00:20:58.703614"
+title = "HB07231"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MUNICIPAL PUBLIC LIBRARY IN THE MUNICIPALITY OF AROROY, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "1996-06-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113652
+congress = 10
+bill_no = "HB07231"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-06-05"

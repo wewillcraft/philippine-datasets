@@ -1,0 +1,70 @@
+billNumber = "HB08020"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08020"
+lastScraped = "2025-09-22T00:20:58.883644"
+title = "HB08020"
+longTitle = "AN ACT CONVERTING THE KOLAMBOG-NORALA -BANGA PROVINCIAL ROAD INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-26"
+status = "Approved by the House on 1997-10-27 and transmitted to the Senate on 1997-10-28"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avance-Fuentes, Daisy"
+[[authorsDetail]]
+name = "Avance-Fuentes, Daisy"
+nameCode = "Fuentes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114441
+congress = 10
+bill_no = "HB08020"
+report = "01099"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-10-01"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 18553
+congress = 10
+bill_no = "HB08020"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3145
+congress = 10
+bill_no = "HB08020"
+date_dist = "1997-10-09"
+date_adopt = "1997-10-27"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-28"

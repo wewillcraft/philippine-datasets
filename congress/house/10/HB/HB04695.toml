@@ -1,0 +1,68 @@
+billNumber = "HB04695"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04695"
+lastScraped = "2025-09-22T00:20:58.243472"
+title = "HB04695"
+longTitle = "AN ACT INSTITUTING INCOME SECURITY FOR WORKERS BY PROVIDING THEM UNEMPLOYMENT BENEFITS IN CASE OF INVOLUNTARY UNEMPLOYMENT CONTINGENCIES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-10-25"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1995-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jabar"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "AVILA, EDGAR M.", "LUCIANO, LEONOR INES",]
+[[authorsDetail]]
+name = "Jabar"
+nameCode = "Jabar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-11-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "secondary"
+referralCode = "0515"
+
+[firstReading]
+id = 111116
+congress = 10
+bill_no = "HB04695"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-11-06"

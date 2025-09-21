@@ -1,0 +1,42 @@
+billNumber = "HR02094"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02094"
+lastScraped = "2025-09-22T00:47:02.956909"
+title = "HR02094"
+longTitle = "RESOLUTION RESPECTFULLY REQUESTING THE WAYS AND MEANS COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO SPONSOR A BILL IMPOSING A FINAL TAX ON ALL THE INTERESTS PAID BY THE REPUBLIC OF THE PHILIPPINES TO THE INTERNATIONAL MONETARY FUND"
+scope = "National"
+dateFiled = "1990-12-17"
+status = "Pending with the Committee on WAYS AND MEANS since 1990-12-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tan"
+[[authorsDetail]]
+name = "Tan"
+nameCode = "Tan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1990-12-20"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 171929
+congress = 8
+bill_no = "HR02094"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1990-12-20"

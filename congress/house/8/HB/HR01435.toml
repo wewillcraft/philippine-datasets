@@ -1,0 +1,42 @@
+billNumber = "HR01435"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01435"
+lastScraped = "2025-09-22T00:47:02.808802"
+title = "HR01435"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON CIVIL SERVICE TO UNDERTAKE AN INVESTIGATION, IN AID OF LEGISLATION, ON THE BUREAU OF CUSTOM'S ACT OF APPOINTING FIVE HUNDRED TWENTY-TWO EMPLOYEES AFTER DISMISSING THREE HUNDRED TEN EMPLOYEES"
+scope = "Local"
+dateFiled = "1989-08-31"
+status = "Pending with the Committee on CIVIL SERVICE since 1989-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero"
+[[authorsDetail]]
+name = "Escudero"
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1989-08-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171300
+congress = 8
+bill_no = "HR01435"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1989-08-31"

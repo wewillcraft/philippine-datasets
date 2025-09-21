@@ -1,0 +1,50 @@
+billNumber = "HB05501"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05501"
+lastScraped = "2025-09-22T00:25:55.638387"
+title = "HB05501"
+longTitle = "AN ACT AMENDING ARTICLE 7, PARAGRAPH 17 OF EXECUTIVE ORDER NUMBER 226 OTHERWISE KNOWN AS THE 'OMNIBUS INVESTMENTS CODE OF 1987'"
+scope = "National"
+dateFiled = "1992-12-07"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1992-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1992-12-10"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 124120
+congress = 9
+bill_no = "HB05501"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1992-12-10"

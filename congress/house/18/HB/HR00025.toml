@@ -1,0 +1,55 @@
+billNumber = "HR00025"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00025"
+lastScraped = "2025-09-22T00:01:47.341750"
+title = "HR00025"
+longTitle = "A RESOLUTION URGING THE COMMITTEE ON LOCAL GOVERNMENT TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE ALLEGED DELAYED RELEASED OF THE 10% BARANGAY FUND INTENDED FOR THE SANGGUNIANG KABATAAN"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00025.pdf"
+fileSize = 965819
+author = "Paduano, Joseph Stephen \"Caraps\" S."
+coAuthors = [ "SALCEDA, JOEY S.",]
+[[authorsDetail]]
+name = "Paduano, Joseph Stephen \"Caraps\" S."
+nameCode = "Paduano"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SALCEDA, JOEY S."
+nameCode = "Salceda"
+date = "2019-07-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 30354
+congress = 18
+bill_no = "HR00025"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-23"

@@ -1,0 +1,75 @@
+billNumber = "HR00180"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00180"
+lastScraped = "2025-09-22T00:25:57.399747"
+title = "HR00180"
+longTitle = "RESOLUTION CONGRATULATING FILIPINO BOXER, MORRIS EAST, FOR WINNING THE MOST COVETED TITLE OF JUNIOR WELTERWEIGHT CHAMPION OF THE WORLD BOXING ASSOCIATION (WBA), IN NIPPON BUKODAN HALL, TOKYO, JAPAN"
+scope = "Local"
+dateFiled = "1992-09-11"
+status = "Adopted as Resolution No. HR00017 on 1992-11-16"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HR00182"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00217"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00182"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00217"
+flag = "S"
+
+[firstReading]
+id = 133492
+congress = 9
+bill_no = "HR00180"
+report = "00025"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = "YOUTH AND SPORTS DEVELOPMENT"
+recomm = "Adoption in consolidat ion with House Resolution Nos. 182 and 217"
+date_read = "1992-09-21"
+date_ob = "1992-10-19"
+date_cal = "1992-10-19"
+date_unass = "1992-10-19"
+date_report = "1992-10-15"
+
+[secondReading]
+id = 20095
+congress = 9
+bill_no = "HR00180"
+adopted_resolution = "HR00017"
+date_approved = "1992-11-16"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00180.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00180.pdf"

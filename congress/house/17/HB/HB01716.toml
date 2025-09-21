@@ -1,0 +1,61 @@
+billNumber = "HB01716"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01716"
+lastScraped = "2025-09-21T23:55:44.432018"
+title = "HB01716"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA FOR AGRICULTURAL DEVELOPMENT WORKERS"
+scope = "National"
+dateFiled = "2016-07-19"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01716.pdf"
+fileSize = 2306297
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "SUANSING, GING", "DALIPE, MANUEL JOSE M.",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2016-07-19"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2016-08-22"
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2017-10-03"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 35184
+congress = 17
+bill_no = "HB01716"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

@@ -1,0 +1,54 @@
+billNumber = "HR01818"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01818"
+lastScraped = "2025-09-22T00:23:18.293309"
+title = "HR01818"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF AGRICULTURE (DA) AND THE HOUSE APPROPRIATIONS COMMITTEE TO INCLUDE IN THE DA 2001 BUDGET APPROPRIATIONS THE SALARY SUPPLEMENT OF DEVOLVED AGRICULTURAL WORKERS"
+scope = "National"
+dateFiled = "2000-10-12"
+status = "Pending with the Committee on APPROPRIATIONS since 2000-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2000-10-19"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "AGRICULTURE, FOOD AND FISHERIES"
+type = "secondary"
+referralCode = "C503"
+
+[firstReading]
+id = 106272
+congress = 11
+bill_no = "HR01818"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2000-10-19"

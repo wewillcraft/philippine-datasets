@@ -1,0 +1,49 @@
+billNumber = "HB08293"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08293"
+lastScraped = "2025-09-22T00:20:58.937919"
+title = "HB08293"
+longTitle = "AN ACT PRESCRIBING A SEPARATE SALARY SCHEDULE FOR PUBLIC SCHOOL TEACHERS AND PROFESSORS IN STATE COLLEGES AND UNIVERSITIES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-10-23"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-11-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114714
+congress = 10
+bill_no = "HB08293"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-11-05"

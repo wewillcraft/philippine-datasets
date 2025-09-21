@@ -1,0 +1,46 @@
+billNumber = "HB07028"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07028"
+lastScraped = "2025-09-22T00:20:58.662047"
+title = "HB07028"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MULTIPURPOSE WAITING SHED IN BARANGAY MAQUINA, MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-05-22"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113449
+congress = 10
+bill_no = "HB07028"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-05-22"

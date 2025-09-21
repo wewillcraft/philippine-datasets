@@ -1,0 +1,64 @@
+billNumber = "HB00906"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00906"
+lastScraped = "2025-09-22T00:12:59.970288"
+title = "HB00906"
+longTitle = "AN ACT GRANTING TO THE PUBLIC A PEOPLE'S FRANKING PRIVILEGE ON COMMUNICATIONS MAILED OR SENT BY CABLE/TELEGRAM TO THE PRESIDENT, VICE PRESIDENT, SENATORS, MEMBERS OF THE HOUSE OF REPRESENTATIVES AND TO CABINET SECRETARIES"
+scope = "National"
+dateFiled = "2001-07-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "JARAULA, CONSTANTINO G.", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J005"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 84066
+congress = 12
+bill_no = "HB00906"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2001-07-25"

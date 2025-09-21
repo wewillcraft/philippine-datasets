@@ -1,0 +1,42 @@
+billNumber = "HB14408"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14408"
+lastScraped = "2025-09-22T00:25:57.288868"
+title = "HB14408"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BAGONG SILANG, KALOOKAN CITY, TO BE KNOWN AS KALAYAAN HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-01-19"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Henson"
+[[authorsDetail]]
+name = "Henson"
+nameCode = "Henson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-01-23"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 133017
+congress = 9
+bill_no = "HB14408"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1995-01-23"

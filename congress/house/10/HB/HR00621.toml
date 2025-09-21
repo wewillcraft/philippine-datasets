@@ -1,0 +1,67 @@
+billNumber = "HR00621"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00621"
+lastScraped = "2025-09-22T00:20:59.539526"
+title = "HR00621"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON SCIENCE AND TECHNOLOGY TO INQUIRE, IN AID OF LEGISLATION, INTO THE INABILITY OF THE PHILIPPINE ATMOSPHERIC GEOPHYSICAL AND ASTRONOMICAL SERVICES ADMINISTRATION (PAGASA) TO PERFORM ITS TASK OF REGIONAL WEATHER FORECASTING IN THE COUNTRY"
+scope = "National"
+dateFiled = "1996-05-20"
+status = "Adopted as Resolution No. HR00107 on 1997-05-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1996-05-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117675
+congress = 10
+bill_no = "HR00621"
+report = "00854"
+comm_act = "Change of Referral from the CVtte. on Rules to the Ctte. on Science and Technology on May 22, 1996."
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+recomm = "See page 10 of Ctte. Rpt. No. 854."
+date_read = "1996-05-22"
+date_ob = "1997-04-21"
+date_unass = "1997-04-22"
+date_report = "1997-04-07"
+
+[secondReading]
+id = 18972
+congress = 10
+bill_no = "HR00621"
+adopted_resolution = "HR00107"
+date_calendared = "1997-04-23"
+date_approved = "1997-05-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00107.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00107.pdf"

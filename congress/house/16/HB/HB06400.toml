@@ -1,0 +1,46 @@
+billNumber = "HB06400"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06400"
+lastScraped = "2025-09-21T23:56:22.758994"
+title = "HB06400"
+longTitle = "AN ACT REQUIRING FOOD ESTABLISHMENT TO COMPLY WITH SANITATION STANDARDS"
+scope = "National"
+dateFiled = "2016-01-26"
+status = "Pending with the Committee on HEALTH since 2016-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB06400.pdf"
+fileSize = 949620
+author = "Vargas, Alfred D."
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2016-01-26"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-02-02"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 52214
+congress = 16
+bill_no = "HB06400"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-02-02"

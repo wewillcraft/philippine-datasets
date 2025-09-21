@@ -1,0 +1,46 @@
+billNumber = "HB00366"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00366"
+lastScraped = "2025-09-22T00:20:57.442952"
+title = "HB00366"
+longTitle = "AN ACT ESTABLISHING A TEN (10)-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF STO. NINO, PROVINCE OF SAMAR TO BE KNOWN AS THE STO. NINO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-06"
+status = "Pending with the Committee on HEALTH since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106787
+congress = 10
+bill_no = "HB00366"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-26"

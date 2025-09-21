@@ -1,0 +1,52 @@
+billNumber = "HR00023"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00023"
+lastScraped = "2025-09-22T00:01:47.341457"
+title = "HR00023"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES, THE COMMITTEE ON GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY, COMMITTEE ON HEALTH TO EXERCISE ITS OVERSIGHT POWERS RELATIVE TO THE PHILHEALTH SCAM"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00023.pdf"
+fileSize = 191224
+author = "Teves, Arnolfo \"Arnie\" Jr. A."
+[[authorsDetail]]
+name = "Teves, Arnolfo \"Arnie\" Jr. A."
+nameCode = "Teves (A.)"
+date = "2019-07-01"
+sequence = 1
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "A502"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 30352
+congress = 18
+bill_no = "HR00023"
+report = ""
+comm_act = ""
+referral = "A502"
+ref_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-23"

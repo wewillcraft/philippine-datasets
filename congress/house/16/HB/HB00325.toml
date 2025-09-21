@@ -1,0 +1,75 @@
+billNumber = "HB00325"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00325"
+lastScraped = "2025-09-21T23:56:21.533613"
+title = "HB00325"
+longTitle = "AN ACT AMENDING SECTIONS 284 AND 393 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS \\\"THE LOCAL GOVERNMENT CODE OF 1991\\\""
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00325.pdf"
+fileSize = 725016
+author = "Suarez, Aleta C."
+coAuthors = [ "SUANSING, GING", "REVILLA, LANI MERCADO", "TAN, ANGELINA D.", "AUMENTADO, ERICO ARISTOTLE",]
+[[authorsDetail]]
+name = "Suarez, Aleta C."
+nameCode = "Suarez"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing"
+date = "2013-08-07"
+journalNo = "J009"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = "2013-08-12"
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAN, ANGELINA D."
+nameCode = "Tan (A.)"
+date = "2013-09-10"
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO ARISTOTLE"
+nameCode = "Aumentado"
+date = "2015-02-23"
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 46139
+congress = 16
+bill_no = "HB00325"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

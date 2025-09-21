@@ -1,0 +1,55 @@
+billNumber = "HB02631"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02631"
+lastScraped = "2025-09-22T00:13:00.270439"
+title = "HB02631"
+longTitle = "AN ACT CREATING THE NATIONAL SUGAR DEVELOPMENT COUNCIL, THEREBY INSTITUTIONALIZ ING THE SUGAR DEVELOPMENT PROGRAM OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2001-08-22"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2001-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2001-08-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85791
+congress = 12
+bill_no = "HB02631"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2001-08-28"

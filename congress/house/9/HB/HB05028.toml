@@ -1,0 +1,47 @@
+billNumber = "HB05028"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05028"
+lastScraped = "2025-09-22T00:25:55.558101"
+title = "HB05028"
+longTitle = "AN ACT ESTABLISHING A REGIONAL TRAINING AND CONVENTION CENTER IN THE CITY OF OROQUIETA, PROVINCE OF MISAMIS OCCIDENTAL, TO BE KNOWN AS THE OROQUIETA CITY REGIONAL TRAINING AND CONVENTION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-24"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123647
+congress = 9
+bill_no = "HB05028"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-24"

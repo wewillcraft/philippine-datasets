@@ -1,0 +1,46 @@
+billNumber = "HB06403"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06403"
+lastScraped = "2025-09-21T23:56:22.759580"
+title = "HB06403"
+longTitle = "AN ACT ESTABLISHING A REGISTRY OF DEEDS OF ALBAY IN THE CITY OF LIGAO, PROVINCE OF ALBAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2016-01-26"
+status = "Pending with the Committee on JUSTICE since 2016-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB06403.pdf"
+fileSize = 329125
+author = "Gonzalez, Fernando V."
+[[authorsDetail]]
+name = "Gonzalez, Fernando V."
+nameCode = "Gonzalez"
+date = "2016-01-26"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-02-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 52217
+congress = 16
+bill_no = "HB06403"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-02-02"

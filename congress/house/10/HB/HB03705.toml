@@ -1,0 +1,46 @@
+billNumber = "HB03705"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03705"
+lastScraped = "2025-09-22T00:20:58.060604"
+title = "HB03705"
+longTitle = "AN ACT INCREASING AND UPGRADING THE ALEOSAN MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ALEOSAN, PROVINCE OF COTABATO, FROM TEN (10) TO TWENTY-FIVE (25)-BED CAPACITY HOSPITAL TO BE KNOWN AS THE ALEOSAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on HEALTH since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110126
+congress = 10
+bill_no = "HB03705"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-09-26"

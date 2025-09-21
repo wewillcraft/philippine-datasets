@@ -1,0 +1,42 @@
+billNumber = "HB05870"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05870"
+lastScraped = "2025-09-22T00:46:57.659250"
+title = "HB05870"
+longTitle = "AN ACT ESTABLISHING A TWENTY (20) BED CAPACITY EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BAYABAS, PROVINCE OF SURIGAO DEL SUR, AND APPROPRIATING FUNDSTHEREFOR"
+scope = "Local"
+dateFiled = "1988-03-01"
+status = "Pending with the Committee on HEALTH since 1988-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 140551
+congress = 8
+bill_no = "HB05870"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-07"

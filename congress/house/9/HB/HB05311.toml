@@ -1,0 +1,47 @@
+billNumber = "HB05311"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05311"
+lastScraped = "2025-09-22T00:25:55.608177"
+title = "HB05311"
+longTitle = "AN ACT REQUIRING ALL AGENCIES OF THE GOVERNMENT TO GRANT THEIR EMPLOYEES ONE (1) SACK OF RICE EVERY MONTH AS ADDITIONAL INCENTIVE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-12-01"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123930
+congress = 9
+bill_no = "HB05311"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+date_read = "1992-12-08"

@@ -1,0 +1,42 @@
+billNumber = "HB12003"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12003"
+lastScraped = "2025-09-22T00:25:56.807211"
+title = "HB12003"
+longTitle = "AN ACT ESTABLISHING THE BACOLOD-KALAWI NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF BACOLOD-KALAWI, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-10"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-02-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-02-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130618
+congress = 9
+bill_no = "HB12003"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-02-16"

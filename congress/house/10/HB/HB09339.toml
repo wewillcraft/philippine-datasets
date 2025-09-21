@@ -1,0 +1,41 @@
+billNumber = "HB09339"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09339"
+lastScraped = "2025-09-22T00:20:59.146767"
+title = "HB09339"
+longTitle = "RN ACT PROVIDING FOR THE UTILIZATION OF IRRIGATION CANALS FOR PALAY-DRYING PURPOSES, CONCRETING PORTIONS THEREOF, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1997-05-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-05-08"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 115760
+congress = 10
+bill_no = "HB09339"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-05-08"

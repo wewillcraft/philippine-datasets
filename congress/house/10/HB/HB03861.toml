@@ -1,0 +1,46 @@
+billNumber = "HB03861"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03861"
+lastScraped = "2025-09-22T00:20:58.089374"
+title = "HB03861"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION AND IMPROVEMENT OF WATERWORKS SYSTEM IN BARANGAY TAPI-AN, MUNICIPALITY OF BATAD, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110282
+congress = 10
+bill_no = "HB03861"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-29"

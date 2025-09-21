@@ -1,0 +1,50 @@
+billNumber = "HB04500"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04500"
+lastScraped = "2025-09-22T00:25:55.441823"
+title = "HB04500"
+longTitle = "AN ACT PROVIDING FOR A UNIFORM INTERISLAND PASSENGER TICKETS AND PROVIDING PENALTIES FOR VIOLATION THEREFOR"
+scope = "National"
+dateFiled = "1992-10-30"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 123119
+congress = 9
+bill_no = "HB04500"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-11-09"

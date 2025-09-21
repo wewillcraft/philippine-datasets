@@ -1,0 +1,61 @@
+billNumber = "HB10346"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10346"
+lastScraped = "2025-09-22T00:20:59.363395"
+title = "HB10346"
+longTitle = "AN ACT PROVIDING FOR AN ADDITIONAL SUBJECT IN ALL ELEMENTARY AND SECONDARY LEVELS FOR THE DISCUSSION OF RELEVANT SOCIAL, POLITICAL, ECONOMIC, CULTURAL, AND ENVIRONMENTAL TOPICS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-12-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "PLAZA, CHARITO B.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-12-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116767
+congress = 10
+bill_no = "HB10346"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-12-03"

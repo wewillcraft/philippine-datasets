@@ -1,0 +1,42 @@
+billNumber = "HR00158"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00158"
+lastScraped = "2025-09-22T00:20:59.451548"
+title = "HR00158"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY AND/OR INVESTIGATION, IN AID OF LEGISLATION, ON THE CASE OF MERCURY POISONING WHICH AFFECTED THE RESIDENTS OF THREE (3) BARANGAYS IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN"
+scope = "Local"
+dateFiled = "1995-08-31"
+status = "Pending with the Committee on ECOLOGY since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117212
+congress = 10
+bill_no = "HR00158"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ecology on Sept. 18, 1995."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-09-06"

@@ -1,0 +1,54 @@
+billNumber = "HB01082"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01082"
+lastScraped = "2025-09-21T23:55:44.289857"
+title = "HB01082"
+longTitle = "AN ACT REFORESTING 3,000 HECTARES PUBLIC LAND IN PLACER, CAWAYAN, ESPERANZA, PIO V. CORPUS, CATAINGAN, DIMASALANG, PALANAS AND USON, ALL IN THE PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on REFORESTATION since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01082.pdf"
+fileSize = 482113
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-25"
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 34550
+congress = 17
+bill_no = "HB01082"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

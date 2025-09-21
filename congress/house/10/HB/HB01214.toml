@@ -1,0 +1,54 @@
+billNumber = "HB01214"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01214"
+lastScraped = "2025-09-22T00:20:57.582871"
+title = "HB01214"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TEN-BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF LICUAN-BAAY, PROVINCE OF ABRA, TO BE KNOWN AS NORTHERN ABRA DISTRICT HOSPITAL AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-24"
+status = "Pending with the Committee on HEALTH since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107635
+congress = 10
+bill_no = "HB01214"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-31"

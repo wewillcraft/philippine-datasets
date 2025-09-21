@@ -1,0 +1,42 @@
+billNumber = "HR00159"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00159"
+lastScraped = "2025-09-22T00:47:02.557498"
+title = "HR00159"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY INTO THE OIL OR ENERGY INDUSTRY IN THE LIGHT OF THE PUBLIC OUTCRY AGAINST THE INCREASE OF PRICES OF GASOLINE PRODUCTS"
+scope = "National"
+dateFiled = "1987-08-17"
+status = "Pending with the Committee on ENERGY since 1987-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sison"
+[[authorsDetail]]
+name = "Sison"
+nameCode = "Sison"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-08-18"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170067
+congress = 8
+bill_no = "HR00159"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-08-18"

@@ -1,0 +1,63 @@
+billNumber = "HB04001"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04001"
+lastScraped = "2025-09-22T00:20:58.113220"
+title = "HB04001"
+longTitle = "AN ACT ABOLISHING THE CITIZENS ARMY TRAINING IN HIGH SCHOOL AND THE RESERVE OFFICERS TRAINING COURSE IN COLLEGE"
+scope = "National"
+dateFiled = "1995-09-27"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "COSALAN, RONALD M.", "PADILLA, CARLOS M.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "COSALAN, RONALD M."
+nameCode = "Cosalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 110422
+congress = 10
+bill_no = "HB04001"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-02"

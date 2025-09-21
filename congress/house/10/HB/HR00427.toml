@@ -1,0 +1,41 @@
+billNumber = "HR00427"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00427"
+lastScraped = "2025-09-22T00:20:59.501493"
+title = "HR00427"
+longTitle = "RESOLUTION DIRECTING THE CREATION OF A SPECIAL COMMITTEE COMPOSED OF REPRESENTATIVES FROM THE COMMITTEE ON HEALTH, COMMITTEE ON EDUCATION AND COMMITTEE ON HUMAN RIGHTS, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE DUMPING OF CADAVERS IN TALA, IN THE FIRST DISTRICT OF CALOOCAN CITY, AND ON THE PROPER DISPOSAL OF HUMAN REMAINS, MEDICAL SPECIMENS AND ASSORTED WASTES OF MORGUES, HOSPITALS AND FUNERAL PARLORS"
+scope = "Local"
+dateFiled = "1996-01-29"
+status = "Pending with the Committee on RULES since 1996-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-01-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117481
+congress = 10
+bill_no = "HR00427"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-01-31"

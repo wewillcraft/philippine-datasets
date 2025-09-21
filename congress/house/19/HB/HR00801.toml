@@ -1,0 +1,47 @@
+billNumber = "HR00801"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00801"
+lastScraped = "2025-09-21T23:55:22.695985"
+title = "HR00801"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEE ON TRANSPORTATION TO CONDUCT INQUIRIES, IN AID OF LEGISLATION, ON THE ADVERSE SOCIOECONOMIC IMPACTS OF THE PLANNED JEEPNEY PHASEOUT WITHOUT ADEQUATE GOVERNMENT SUPPORT"
+scope = "National"
+dateFiled = "2023-02-27"
+status = "Pending with the Committee on TRANSPORTATION since 2023-03-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00801.pdf"
+fileSize = 76530
+author = "Salceda, Joey Sarte"
+[[authorsDetail]]
+name = "Salceda, Joey Sarte"
+nameCode = "Salceda"
+date = "2023-02-27"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2023-03-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 17345
+congress = 19
+bill_no = "HR00801"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-03-08"
+date_read = "2023-03-01"

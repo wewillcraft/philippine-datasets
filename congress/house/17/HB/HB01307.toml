@@ -1,0 +1,68 @@
+billNumber = "HB01307"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01307"
+lastScraped = "2025-09-21T23:55:44.329539"
+title = "HB01307"
+longTitle = "AN ACT EXEMPTING FROM TERMINAL FEES ALL SENIOR CITIZENS\r\n"
+scope = "National"
+dateFiled = "2016-07-07"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01307.pdf"
+fileSize = 262437
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "ESPINO, AMADO JR.", "TAMBUNTING, GUSTAVO S.", "PACQUIAO, RUEL",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-07-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR."
+nameCode = "Espino"
+date = "2016-10-17"
+journalNo = "J037"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2016-11-08"
+journalNo = "J041"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PACQUIAO, RUEL"
+nameCode = "Pacquiao"
+date = "2018-11-28"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 34775
+congress = 17
+bill_no = "HB01307"
+report = ""
+comm_act = ""
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

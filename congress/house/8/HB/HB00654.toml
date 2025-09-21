@@ -1,0 +1,44 @@
+billNumber = "HB00654"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00654"
+lastScraped = "2025-09-22T00:46:56.678186"
+title = "HB00654"
+longTitle = "AN ACT INCREASING THE NATIONAL BUDGETARY AID TO THE PROVINCE OF BATANES AND DESIGNATING SUCH AID ASA SPECIFIC AID THERETO"
+scope = "Local"
+dateFiled = "1987-08-24"
+status = "Pending with the Committee on APPROPRIATIONS since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 135351
+congress = 8
+bill_no = "HB00654"
+comm_act = "LAID ON THE TABLE ON APRIL 21, 1988"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1987-08-26"
+date_laid = "1988-04-21"

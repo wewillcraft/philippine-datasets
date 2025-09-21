@@ -1,0 +1,74 @@
+billNumber = "HB07478"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07478"
+lastScraped = "2025-09-22T00:25:55.960031"
+title = "HB07478"
+longTitle = "AN ACT DECLARING FORT SAN FELIPE IN THE CITY OF CAVITE, PROVINCE OF CAVITE, A NATIONAL SHRINE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-02-12"
+status = "Approved by the House on 1994-02-01, transmitted to on 1994-02-02 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-02-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126097
+congress = 9
+bill_no = "HB07478"
+report = "00439"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1993-02-17"
+date_ob = "1993-12-15"
+date_cal = "1993-12-15"
+date_unass = "1993-12-15"
+date_report = "1993-12-14"
+
+[secondReading]
+id = 19433
+congress = 9
+bill_no = "HB07478"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1993-12-16"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1696
+congress = 9
+bill_no = "HB07478"
+date_dist = "1994-01-24"
+date_adopt = "1994-02-01"
+no_yeas = 176
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-02-02"
+date_rec = "1994-02-10"

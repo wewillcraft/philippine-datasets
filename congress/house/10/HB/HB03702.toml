@@ -1,0 +1,46 @@
+billNumber = "HB03702"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03702"
+lastScraped = "2025-09-22T00:20:58.060156"
+title = "HB03702"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CONCRETE BRIDGE THAT WILL LINK THE MUNICIPALITIES OF CARMEN AND BANISILAN BOTH IN THE PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110123
+congress = 10
+bill_no = "HB03702"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-26"

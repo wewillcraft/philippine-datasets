@@ -1,0 +1,46 @@
+billNumber = "HR01275"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01275"
+lastScraped = "2025-09-22T00:20:59.669607"
+title = "HR01275"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON CIVIL, POLITICAL AND HUMAN RIGHTS AND ON AGRARIAN REFORM TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE AGRARIAN DISPUTE IN BARANGAY DALUSAN, MAASIN, ILOILO, WHICH HAS RESULTED IN THE MURDER OF TWO AGRARIAN REFORM BENEFICIARIES AND THE CONTINUING HARASSMENT OF THEIR CO-FARMERS"
+scope = "Local"
+dateFiled = "1997-07-09"
+status = "Pending with the Committee on CIVIL, POLITICAL AND HUMAN RIGHTS since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 118329
+congress = 10
+bill_no = "HR01275"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+date_read = "1997-07-30"

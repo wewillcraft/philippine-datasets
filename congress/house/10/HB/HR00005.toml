@@ -1,0 +1,57 @@
+billNumber = "HR00005"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00005"
+lastScraped = "2025-09-22T00:20:59.425931"
+title = "HR00005"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES DECLARING THE DEFERMENT OF THE IMPLEMENTATION OF THE ONE HUNDRED PERCENT (100%) SALARY INCREASE FOR ALL MEMBERS OF THE SENATE AND THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1995-07-04"
+status = "Pending with the Committee on APPROPRIATIONS since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+coAuthors = [ "LUCERO, WILMAR P.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LUCERO, WILMAR P."
+nameCode = "Lucero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 117059
+congress = 10
+bill_no = "HR00005"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte. on Appropriat ions on July 26, 1995"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1995-07-25"

@@ -1,0 +1,46 @@
+billNumber = "HB06653"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06653"
+lastScraped = "2025-09-22T00:20:58.596419"
+title = "HB06653"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CLASSROOM IN BAGO ELEMENTARY SCHOOL LOCATED AT GEN. TINIO, NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113074
+congress = 10
+bill_no = "HB06653"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-25"

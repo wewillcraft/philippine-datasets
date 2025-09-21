@@ -1,0 +1,62 @@
+billNumber = "HB04222"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04222"
+lastScraped = "2025-09-22T00:13:00.556001"
+title = "HB04222"
+longTitle = "AN ACT CREATING AND ESTABLISHING THE NATIONAL SENIOR CITIZENS COMMISSION, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIE S, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2002-01-16"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2002-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castelo-Daza, Nanette"
+coAuthors = [ "MONFORT, NARCISO D.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Castelo-Daza, Nanette"
+nameCode = "Castelo-daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2002-01-22"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87382
+congress = 12
+bill_no = "HB04222"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2002-01-22"

@@ -1,0 +1,47 @@
+billNumber = "HB01714"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01714"
+lastScraped = "2025-09-22T00:25:54.903183"
+title = "HB01714"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL TRIAL COURT IN THE NEW MUNICIPALITY OF SAN JOSE, PROVINCE OF SURIGAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-28"
+status = "Pending with the Committee on JUSTICE since 1992-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-09-01"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120333
+congress = 9
+bill_no = "HB01714"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-09-01"

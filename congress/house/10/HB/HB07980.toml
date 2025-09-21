@@ -1,0 +1,41 @@
+billNumber = "HB07980"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07980"
+lastScraped = "2025-09-22T00:20:58.877149"
+title = "HB07980"
+longTitle = "AN ACT PROHIBITING PERSONS WHO ACCEPT PAYMENTS FOR GOODS OR SERVICES FROM GIVING CHANGE THAT IS LESS THAN THE AMOUNT THAT IS DUE THE PAYER, AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Durano"
+[[authorsDetail]]
+name = "Durano"
+nameCode = "Durano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 114401
+congress = 10
+bill_no = "HB07980"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-09-26"

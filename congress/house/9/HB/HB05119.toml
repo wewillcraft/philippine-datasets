@@ -1,0 +1,42 @@
+billNumber = "HB05119"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05119"
+lastScraped = "2025-09-22T00:25:55.574727"
+title = "HB05119"
+longTitle = "AN ACT DECLARING JANUARY SIX OF EVERY YEAR AS OROQUIETA CITY DAY AND A SPECIAL NONWORKING HOLIDAY IN THE CITY OF OROQUIETA"
+scope = "Local"
+dateFiled = "1992-11-24"
+status = "Pending with the Committee on REVISION OF LAWS since 1992-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1992-11-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 123738
+congress = 9
+bill_no = "HB05119"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1992-11-26"

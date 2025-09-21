@@ -1,0 +1,62 @@
+billNumber = "HB03682"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03682"
+lastScraped = "2025-09-22T00:13:00.465588"
+title = "HB03682"
+longTitle = "AN ACT AMENDING SECTIONS 2, 3, 4, 5, 6, 7, 12 AND 13 OF REPUBLIC ACT NO. 7662, ENTITLED `AN ACT PROVIDING FOR REFORMS IN LEGAL EDUCATION, CREATING FOR THE PURPOSE A LEGAL EDUCATION BOARD AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-24"
+status = "Pending with the Committee on JUSTICE since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LIBANAN, MARCELINO C."
+coAuthors = [ "MONFORT, NARCISO D.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J059"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J070"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86842
+congress = 12
+bill_no = "HB03682"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-11-19"

@@ -1,0 +1,50 @@
+billNumber = "HB01214"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01214"
+lastScraped = "2025-09-22T00:46:56.776382"
+title = "HB01214"
+longTitle = "AN ACT PROVIDING FOR MANAGED CURRENCY IN THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1987-09-08"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1987-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 135910
+congress = 8
+bill_no = "HB01214"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1987-09-10"

@@ -1,0 +1,46 @@
+billNumber = "HB01898"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01898"
+lastScraped = "2025-09-22T00:20:57.703473"
+title = "HB01898"
+longTitle = "AN ACT ESTABLISHING A TECHNICAL LABOR TRAINING CENTER IN THE MUNICIPALITY OF LAMBUNAO, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Substituted by HB06817"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108319
+congress = 10
+bill_no = "HB01898"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-08-09"

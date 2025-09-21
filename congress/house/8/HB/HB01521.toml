@@ -1,0 +1,70 @@
+billNumber = "HB01521"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01521"
+lastScraped = "2025-09-22T00:46:56.830314"
+title = "HB01521"
+longTitle = "AN ACT REPEALING SECTION FORTY OF PRESIDENTIAL DECREE NUMBERED EIGHT HUNDRED SEVEN, OTHERWISE KNOWNAS THE CIVIL SERVICE DECREE"
+scope = "National"
+dateFiled = "1987-09-16"
+status = "REPUBLIC ACT (RA06654) enacted on 1988-05-20"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1987-09-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 136216
+congress = 8
+bill_no = "HB01521"
+report = "00113"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = "CIVIL SERVICE"
+recomm = "APPROVAL IN CONSOLIDAT ION WITH SB 38"
+date_read = "1987-09-21"
+date_ob = "1988-03-24"
+date_cal = "1988-03-24"
+date_unass = "1988-03-24"
+date_report = "1988-03-22"
+
+[secondReading]
+id = 20402
+congress = 8
+bill_no = "HB01521"
+date_approved = "1988-05-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 184
+congress = 8
+bill_no = "HB01521"
+date_dist = "1988-05-05"
+date_adopt = "1988-05-09"
+no_yeas = 136
+no_nays = 0
+no_abstent = 0
+date_trans = "1988-05-10"
+act_pres = "A"
+dte_transp = "1988-05-19"
+dte_actedp = "1988-05-20"

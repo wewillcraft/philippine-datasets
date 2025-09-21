@@ -1,0 +1,86 @@
+billNumber = "HB05755"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05755"
+lastScraped = "2025-09-22T00:13:00.904323"
+title = "Renaming Lamo National High School in Nueva Vizcaya as Dupax del Norte National High School"
+longTitle = "AN ACT CHANGING THE NAME OF LAMO NATIONAL HIGH SCHOOL IN BARANGAY LAMO, MUNICIPALITY OF DUPAX DEL NORTE, PROVINCE OF NUEVA VIZCAYA, TO DUPAX DEL NORTE NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "2003-02-17"
+status = "Approved by the House on 2003-05-05, transmitted to on 2003-05-08 and received by the Senate on 2003-05-09"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+coAuthors = [ "REYES, EDMUNDO JR. O.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "REYES, EDMUNDO JR. O."
+nameCode = "Reyes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-02-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HB04846"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04846"
+flag = "S"
+
+[firstReading]
+id = 88910
+congress = 12
+bill_no = "HB05755"
+report = "01253"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "BASIC EDUCATION AND CULTURE"
+recomm = "approval"
+date_read = "2003-02-24"
+date_ob = "2003-02-24"
+date_report = "2003-02-17"
+
+[secondReading]
+id = 14780
+congress = 12
+bill_no = "HB05755"
+reasons = "To introduce perfecting amendment s."
+remarks = "Considered the Explanatory Note of the original bill HB04846 as the   sponsorship remarks."
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "2003-03-19"
+date_approved = "2003-03-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5295
+congress = 12
+bill_no = "HB05755"
+date_dist = "2003-04-21"
+date_adopt = "2003-05-05"
+no_yeas = 154
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-05-08"
+date_rec = "2003-05-09"

@@ -1,0 +1,48 @@
+billNumber = "RPT0023"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=RPT0023"
+lastScraped = "2025-09-22T00:20:59.715522"
+title = "RPT0023"
+longTitle = "RULES OF PROCEDURE GOVERNING INQUIRIES IN AID OF LEGISLATION"
+scope = "Local"
+dateFiled = "1995-09-19"
+status = "Adopted as Resolution No.  on 1995-09-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-09-21"
+
+[firstReading]
+id = 118590
+congress = 10
+bill_no = "RPT0023"
+report = "00023"
+referral = "0532"
+ref_name = "RULES"
+recomm = "ADOPTION"
+date_read = "1995-09-21"
+date_ob = "1995-09-21"
+date_report = "1995-09-19"
+
+[secondReading]
+id = 19068
+congress = 10
+bill_no = "RPT0023"
+date_calendared = "1995-09-27"
+date_approved = "1995-09-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,47 @@
+billNumber = "HR00575"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00575"
+lastScraped = "2025-09-21T23:55:46.350261"
+title = "HR00575"
+longTitle = "A RESOLUTION URGING THE COMMITTEE ON HEALTH TO INVESTIGATE, IN AID OF LEGISLATION, THE PROLIFERATION OF FAKE VERSIONS OF FIVE POPULAR DRUGS THAT ARE BEING SOLD LOCALLY THAT PUT MANY PEOPLE'S LIVES IN DANGER"
+scope = "National"
+dateFiled = "2016-11-21"
+status = "Pending with the Committee on HEALTH since 2016-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00575.pdf"
+fileSize = 209524
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-11-21"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-11-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43317
+congress = 17
+bill_no = "HR00575"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-12-07"
+date_read = "2016-11-28"

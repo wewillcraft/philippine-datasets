@@ -1,0 +1,47 @@
+billNumber = "HR00021"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00021"
+lastScraped = "2025-09-22T00:01:47.341161"
+title = "HR00021"
+longTitle = "RESOLUTION CALLING FOR AN IMMEDIATE REVIEW AND AN INVESTIGATION, IN AID OF LEGISLATION, BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES, ON THE EFFECT OF REPUBLIC ACT 11203, OTHERWISE KNOWN AS THE RICE TARIFFICATION LAW ON RICE PRODUCERS, FARMERS AND OTHER FARMWORKERS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00021.pdf"
+fileSize = 435258
+author = "Cabatbat, Argel Joseph T."
+[[authorsDetail]]
+name = "Cabatbat, Argel Joseph T."
+nameCode = "Cabatbat"
+date = "2019-07-01"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30350
+congress = 18
+bill_no = "HR00021"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-23"

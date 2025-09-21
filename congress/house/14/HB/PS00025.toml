@@ -1,0 +1,46 @@
+billNumber = "PS00025"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=PS00025"
+lastScraped = "2025-09-22T00:15:39.636981"
+title = "PS00025"
+longTitle = "IMMIGRATION BUREAU LOCAL OFFICE"
+scope = "Local"
+dateFiled = "2007-08-21"
+status = "Pending with the Committee on JUSTICE since 2007-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cagas, Marc Douglas IV C."
+[[authorsDetail]]
+name = "Cagas, Marc Douglas IV C."
+nameCode = "Cagas (M.)"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2007-08-21"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 74843
+congress = 14
+bill_no = "PS00025"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2007-08-21"

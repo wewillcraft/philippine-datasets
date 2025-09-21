@@ -1,0 +1,41 @@
+billNumber = "HR00584"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00584"
+lastScraped = "2025-09-22T00:20:59.532976"
+title = "HR00584"
+longTitle = "RESOLUTION CALLING FOR THE IMMEDIATE INVESTIGATION REGARDING THE KILLING OF THREE STUDENT ACTIVISTS IN A MISENCOUNTER WITH THE MILITARY"
+scope = "Local"
+dateFiled = "1996-04-24"
+status = "Pending with the Committee on RULES since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 117638
+congress = 10
+bill_no = "HR00584"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-04-30"

@@ -1,0 +1,47 @@
+billNumber = "HB01933"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01933"
+lastScraped = "2025-09-22T00:25:54.939517"
+title = "HB01933"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL INFIRMARY IN THE MUNICIPALITY OF SAN JORGE, PROVINCE OF SAMAR, TO BE KNOWN AS THE SAN JORGE MUNICIPAL INFIRMARY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on HEALTH since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120552
+congress = 9
+bill_no = "HB01933"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-03"

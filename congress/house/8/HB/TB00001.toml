@@ -1,0 +1,61 @@
+billNumber = "TB00001"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=TB00001"
+lastScraped = "2025-09-22T00:47:03.034459"
+title = "TB00001"
+longTitle = "TEMPORARY BILL FOR SB00477"
+scope = "National"
+dateFiled = "1988-09-30"
+status = "REPUBLIC ACT (RA06759) enacted on 1989-09-18"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+coAuthors = [ "HERRERA, ERNESTO F.",]
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "HERRERA, ERNESTO F."
+nameCode = "Herrera"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "531"
+dateRead = ""
+
+[firstReading]
+id = 172332
+congress = 8
+bill_no = "TB00001"
+report = "00464"
+referral = "531"
+ref_name = "REVISION OF LAWS"
+date_report = "1989-02-23"
+
+[secondReading]
+id = 21706
+congress = 8
+bill_no = "TB00001"
+date_approved = "1989-08-03"
+
+[thirdReading]
+id = 1344
+congress = 8
+bill_no = "TB00001"
+date_dist = "1989-08-09"
+date_adopt = "1989-08-17"
+amend_ind = "Y"
+act_pres = "A"
+dte_actedp = "1989-09-18"

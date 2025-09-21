@@ -1,0 +1,81 @@
+billNumber = "HB00296"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00296"
+lastScraped = "2025-09-21T23:55:20.122853"
+title = "HB00296"
+longTitle = "AN ACT PROVIDING THE MAGNA CARTA FOR PUBLIC MENTAL HEALTH PROFESSIONALS"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on HEALTH since 2024-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00296.pdf"
+fileSize = 4364081
+author = "Gasataya, Greg G."
+coAuthors = [ "MATIBAG, ANN AMB", "SOLON, STEVE", "CO-PILAR, MARIVIC", "VILLARICA, LINABELLE RUTH R.",]
+[[authorsDetail]]
+name = "Gasataya, Greg G."
+nameCode = "Gasataya"
+date = "2022-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MATIBAG, ANN AMB"
+nameCode = "Matibag"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SOLON, STEVE"
+nameCode = "Solon"
+date = "2024-02-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CO-PILAR, MARIVIC"
+nameCode = "Co-Pilar"
+date = "2024-02-19"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARICA, LINABELLE RUTH R."
+nameCode = "Villarica"
+date = "2024-08-13"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 5215
+congress = 19
+bill_no = "HB00296"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2024-02-07"
+date_read = "2022-07-26"

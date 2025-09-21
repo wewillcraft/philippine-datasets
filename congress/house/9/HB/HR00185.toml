@@ -1,0 +1,42 @@
+billNumber = "HR00185"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00185"
+lastScraped = "2025-09-22T00:25:57.400539"
+title = "HR00185"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INVESTIGATION INTO THE REPORTED PLAN OF THE RAMOS GOVERNMENT TO DROP THE PHILIPPINE'S CLAIM TO SABAH"
+scope = "National"
+dateFiled = "1992-09-16"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1992-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1992-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133497
+congress = 9
+bill_no = "HR00185"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1992-09-22"

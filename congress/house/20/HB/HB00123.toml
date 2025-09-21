@@ -1,0 +1,52 @@
+billNumber = "HB00123"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00123"
+lastScraped = "2025-09-21T23:39:48.320592"
+title = "HB00123"
+longTitle = "AN ACT ESTABLISHING A FISHPORT WITH ICE PLANT AND COLD STORAGE FACILITIES IN BARANGAY JAPITAN, MUNICIPALITY OF DOLORES, IN THE PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on AQUACULTURE AND FISHERIES RESOURCES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00123.pdf"
+fileSize = 11317708
+author = "GONZALES, CHRISTOPHER SHEEN P."
+[[authorsDetail]]
+name = "GONZALES, CHRISTOPHER SHEEN P."
+nameCode = "Gonzales (C. S.)"
+date = "2025-06-30"
+sequence = 1
+
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = "2025-06-30"
+sequence = 2
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "primary"
+referralCode = "E506"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 124
+congress = 103
+bill_no = "HB00123"
+report = ""
+comm_act = ""
+referral = "E506"
+ref_name = "AQUACULTURE AND FISHERIES RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

@@ -1,0 +1,54 @@
+billNumber = "HB03316"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03316"
+lastScraped = "2025-09-22T00:20:57.988676"
+title = "HB03316"
+longTitle = "AN ACT TO CREATE A CRIMINAL TAX COURT AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-09-07"
+status = "Pending with the Committee on JUSTICE since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109737
+congress = 10
+bill_no = "HB03316"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-18"

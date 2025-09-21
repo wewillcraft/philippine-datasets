@@ -1,0 +1,55 @@
+billNumber = "HR00499"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00499"
+lastScraped = "2025-09-22T00:20:59.517189"
+title = "HR00499"
+longTitle = "RESOLUTION DIRECTING THE HOUSE SPECIAL COMMITTEE ON THE FISHERIES INDUSTRY, THE COMMITTEE ON NATURAL RESOURCES, AND THE COMMITTEE ON LOCAL GOVERNMENT TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED ILLEGAL CONSTRUCTION OFFISHPONDS IN THE BULACAN FISHING RESERVATION WITH THE END IN VIEW OF RECOMMENDING POLICIES AND REMEDIAL MEASURES TO PROTECT THE MUNICIPAL FISHERFOLK WHO DEPEND ON SAID RESERVATION FOR THEIR LIVELIHOOD"
+scope = "Local"
+dateFiled = "1996-02-26"
+status = "Pending with the Committee on FISHERIES INDUSTRY (SPECIAL CTTE.) since 1996-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1996-02-28"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 117553
+congress = 10
+bill_no = "HR00499"
+report = "01437"
+comm_act = "Change of Referral from the Ctte. on Rules to the Special Ctte. on Fisheries Industry, to the Ctte."
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+recomm = "(See pages 4 -5 of Ctte. Rpt. No. 1437)"
+date_read = "1996-02-28"
+date_report = "1998-02-02"

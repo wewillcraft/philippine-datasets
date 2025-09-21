@@ -1,0 +1,46 @@
+billNumber = "HB07829"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07829"
+lastScraped = "2025-09-22T00:20:58.850145"
+title = "HB07829"
+longTitle = "AN ACT ESTABLISHING A HANDICRAFT VILLAGE PROMOTION AND TRAINING CENTER IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-27"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-08-29"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114250
+congress = 10
+bill_no = "HB07829"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-08-29"

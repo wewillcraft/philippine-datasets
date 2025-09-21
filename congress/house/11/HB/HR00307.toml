@@ -1,0 +1,41 @@
+billNumber = "HR00307"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00307"
+lastScraped = "2025-09-22T00:23:18.005068"
+title = "HR00307"
+longTitle = "RESOLUTION CALLING FOR A REVIEW OF GOVERNMENT POLICIES ON THE COUNTRY'S AIRLINE INDUSTRY, IN AID OF LEGISLATION"
+scope = "National"
+dateFiled = "1998-09-16"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1998-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1998-09-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 104765
+congress = 11
+bill_no = "HR00307"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1998-09-29"

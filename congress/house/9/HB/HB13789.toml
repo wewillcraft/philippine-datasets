@@ -1,0 +1,76 @@
+billNumber = "HB13789"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13789"
+lastScraped = "2025-09-22T00:25:57.144144"
+title = "HB13789"
+longTitle = "MAGNA CARTA FOR INDUSTRIAL WORKERS"
+scope = "National"
+dateFiled = "1994-09-19"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1994-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "VERCELES, ERNESTO C.", "CONCEPCION, TOMAS F.", "MENZON, PATERNO D.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERCELES, ERNESTO C."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CONCEPCION, TOMAS F."
+nameCode = "Concepcion"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MENZON, PATERNO D."
+nameCode = "Menzon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1994-09-22"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 132398
+congress = 9
+bill_no = "HB13789"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1994-09-22"

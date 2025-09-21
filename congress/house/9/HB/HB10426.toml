@@ -1,0 +1,47 @@
+billNumber = "HB10426"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10426"
+lastScraped = "2025-09-22T00:25:56.484087"
+title = "HB10426"
+longTitle = "AN ACT INCREASING THE MINIMUM BED CAPACITY OF THE ZAMBOANGA CITY MEDICAL CENTER FROM TWO HUNDRED FIFTY TO FIVE HUNDRED, AMENDING FOR THE PURPOSE SECTION 2 OF RA NO. 7272"
+scope = "Local"
+dateFiled = "1993-08-17"
+status = "Pending with the Committee on HEALTH since 1993-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lobregat"
+[[authorsDetail]]
+name = "Lobregat"
+nameCode = "Lobregat"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-24"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129044
+congress = 9
+bill_no = "HB10426"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-24"

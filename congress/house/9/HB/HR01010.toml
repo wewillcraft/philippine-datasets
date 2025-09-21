@@ -1,0 +1,43 @@
+billNumber = "HR01010"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01010"
+lastScraped = "2025-09-22T00:25:57.553811"
+title = "HR01010"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, TO INQUIRE INTO THE REASON FOR THE DELAY IN THE IMPLEMENTATION OF THE REGIONAL TELECOMMUNICATI ONS DEVELOPMENT PROJECT PHASE II"
+scope = "Local"
+dateFiled = "1994-04-12"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1994-04-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1994-04-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134317
+congress = 9
+bill_no = "HR01010"
+comm_act = "Change of referral from the Committee on Rules (J76, p.45)"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1994-04-14"

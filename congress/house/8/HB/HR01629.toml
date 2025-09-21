@@ -1,0 +1,42 @@
+billNumber = "HR01629"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01629"
+lastScraped = "2025-09-22T00:47:02.859489"
+title = "HR01629"
+longTitle = "RESOLUTION COMMENDING THE BUREAU OF CUSTOMS FOR EXCEEDING ITS PROJECTED REVENUE FOR 1989"
+scope = "Local"
+dateFiled = "1990-01-22"
+status = "Pending with the Committee on WAYS AND MEANS since 1990-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1990-01-22"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 171475
+congress = 8
+bill_no = "HR01629"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1990-01-22"

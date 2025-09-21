@@ -1,0 +1,84 @@
+billNumber = "HB09748"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09748"
+lastScraped = "2025-09-22T00:20:59.238049"
+title = "HB09748"
+longTitle = "AN ACT AUTHORIZING THE PRESIDENT OF THE PHILIPPINES TO CONVEY THE TITLES OF THE LOTS OCCUPIED BY THE VICTIMS OF THE MT. PINATUBO ERUPTION IN THE RESETTLEMENT AREAS LOCATED IN THE PROVINCES OF PAMPANGA, TARLAC AND ZAMBALES, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-08-04"
+status = "House requested for a conference committee on 1998-02-03"
+statusOrder = 22.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "RODRIGUEZ, OSCAR S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "MOUNT PINATUBO (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B514"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 116169
+congress = 10
+bill_no = "HB09748"
+report = "01304"
+referral = "B514"
+ref_name = "MOUNT PINATUBO (SPECIAL CTTE.)"
+recomm = "approval with amendments"
+date_read = "1997-08-07"
+date_ob = "1997-12-04"
+date_report = "1997-12-03"
+
+[secondReading]
+id = 18742
+congress = 10
+bill_no = "HB09748"
+reasons = "To introduce further amendments"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1997-12-09"
+date_approved = "1997-12-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3317
+congress = 10
+bill_no = "HB09748"
+date_dist = "1997-12-16"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_rqcc = "1998-02-03"
+ccreqby = "H"

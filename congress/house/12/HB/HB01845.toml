@@ -1,0 +1,42 @@
+billNumber = "HB01845"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01845"
+lastScraped = "2025-09-22T00:13:00.135831"
+title = "HB01845"
+longTitle = "AN ACT INCLUDING INSULAR WATERS AS CRITERION IN THE COMPUTATION OF INTERNAL REVENUE ALLOTMENT, AMENDING FOR THE PURPOSE THE `LOCAL GOVERNMENT CODE OF 1991', AS AMENDED"
+scope = "Local"
+dateFiled = "2001-08-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ylagan"
+[[authorsDetail]]
+name = "Ylagan"
+nameCode = "Ylagan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-08-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 85005
+congress = 12
+bill_no = "HB01845"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-08-07"

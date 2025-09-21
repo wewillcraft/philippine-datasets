@@ -1,0 +1,42 @@
+billNumber = "HR02307"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02307"
+lastScraped = "2025-09-22T00:47:02.999927"
+title = "HR02307"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON LOCAL GOVERNMENT TO CONDUCT AN INQUIRY ON THE EXTENT OF THE POWERS AND AUTHORITY OF LOCAL GOVERNMENT UNITS TO DISPOSE OF PUBLIC ASSETS, FOR PURPOSES OF AMENDING THE LOCAL GOVERNMENT CODE"
+scope = "National"
+dateFiled = "1991-06-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1991-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1991-07-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172138
+congress = 8
+bill_no = "HR02307"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1991-07-24"

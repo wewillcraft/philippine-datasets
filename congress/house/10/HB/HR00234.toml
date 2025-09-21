@@ -1,0 +1,41 @@
+billNumber = "HR00234"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00234"
+lastScraped = "2025-09-22T00:20:59.466873"
+title = "HR00234"
+longTitle = "RESOLUTION REQUESTING THE PRESIDENT OF THE PHILIPPINES TO IMMEDIATELY FILL UP THE VACANT POSITIONS IN THE SHARIAH COURTS AND CIRCUIT TRIAL COURTS IN THE ISLAND OF MINDANAO, FROM THE RECOMMENDEES OF THE JUDICIAL AND BAR COUNCIL"
+scope = "Local"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on JUSTICE since 1995-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117288
+congress = 10
+bill_no = "HR00234"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-04"

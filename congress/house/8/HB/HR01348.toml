@@ -1,0 +1,42 @@
+billNumber = "HR01348"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01348"
+lastScraped = "2025-09-22T00:47:02.796542"
+title = "HR01348"
+longTitle = "RESOLUTION REQUESTING THE OFFICE OF THE PRESIDENT TO FURNISH THE HOUSE OF REPRESENTATIVES A LIST OF OFFICIALS WHICH HER EXCELLENCY HAS SPECIFICALLY AUTHORIZED TO USE GOVERNMENT SERVICE VEHICLES"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on RULES since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dans"
+[[authorsDetail]]
+name = "Dans"
+nameCode = "Dans"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171216
+congress = 8
+bill_no = "HR01348"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-07-25"

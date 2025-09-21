@@ -1,0 +1,54 @@
+billNumber = "HB08424"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08424"
+lastScraped = "2025-09-22T00:20:58.959181"
+title = "HB08424"
+longTitle = "AN ACT DECLARING THE MEGA DIKE PROJECT IN THE PROVINCE OF PAMPANGA AS A NATIONAL TOURIST SPOT, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-11-12"
+status = "Pending with the Committee on TOURISM since 1996-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-11-18"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114845
+congress = 10
+bill_no = "HB08424"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-11-18"

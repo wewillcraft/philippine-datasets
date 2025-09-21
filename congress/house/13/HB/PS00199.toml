@@ -1,0 +1,42 @@
+billNumber = "PS00199"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00199"
+lastScraped = "2025-09-22T00:13:49.502023"
+title = "PS00199"
+longTitle = "Repeal of RA 8479 (Oil Deregulation Law)"
+scope = "National"
+dateFiled = "2005-04-18"
+status = "Pending with the Committee on ENERGY since 2005-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran, Crispin B."
+[[authorsDetail]]
+name = "Beltran, Crispin B."
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2005-05-10"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 82959
+congress = 13
+bill_no = "PS00199"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2005-05-10"

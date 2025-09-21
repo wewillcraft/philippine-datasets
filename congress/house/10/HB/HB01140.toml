@@ -1,0 +1,79 @@
+billNumber = "HB01140"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01140"
+lastScraped = "2025-09-22T00:20:57.569992"
+title = "HB01140"
+longTitle = "AN ACT CONVERTING THE THIRTY TWO (32) KILOMETERS BACON-SAWANGA-P RIETO DIAZ ROAD IN THE MUNICIPALITIES OF BACON AND PRIETO DIAZ, PROVINCE OF SORSOGON, INTO A NATIONAL ROAD, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-20"
+status = "Approved by the House on 1997-10-20, transmitted to on 1997-10-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107561
+congress = 10
+bill_no = "HB01140"
+report = "01102"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-07-31"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 17751
+congress = 10
+bill_no = "HB01140"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2373
+congress = 10
+bill_no = "HB01140"
+date_dist = "1997-10-08"
+date_adopt = "1997-10-20"
+no_yeas = 149
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-21"
+date_rec = "1997-10-23"

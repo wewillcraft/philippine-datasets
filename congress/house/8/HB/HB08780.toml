@@ -1,0 +1,42 @@
+billNumber = "HB08780"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08780"
+lastScraped = "2025-09-22T00:46:58.148630"
+title = "HB08780"
+longTitle = "AN ACT ESTABLISHING A 150-BED CAPACITY PROVINCIALHOSPI TAL IN THE PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-04"
+status = "Pending with the Committee on HEALTH since 1988-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-10"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 143457
+congress = 8
+bill_no = "HB08780"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-10"

@@ -1,0 +1,62 @@
+billNumber = "HR00734"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00734"
+lastScraped = "2025-09-22T00:20:59.563366"
+title = "HR00734"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALARMING OUTBREAK OF DENGUE FEVER IN METRO MANILA"
+scope = "Local"
+dateFiled = "1996-07-29"
+status = "Pending with the Committee on RULES since 1996-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "COLAMBO, FELIZARDO R.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "COLAMBO, FELIZARDO R."
+nameCode = "Colambo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 117788
+congress = 10
+bill_no = "HR00734"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Health on Aug. 6, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-01"

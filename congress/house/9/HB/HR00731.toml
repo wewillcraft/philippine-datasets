@@ -1,0 +1,42 @@
+billNumber = "HR00731"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00731"
+lastScraped = "2025-09-22T00:25:57.500324"
+title = "HR00731"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO PROD THE DEPARTMENT OF HEALTH TO LAUNCH AN IODIN DEFICIENCY DISEASE CAMPAIGN"
+scope = "National"
+dateFiled = "1993-08-17"
+status = "Pending with the Committee on HEALTH since 1993-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-24"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 134043
+congress = 9
+bill_no = "HR00731"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-24"

@@ -1,0 +1,46 @@
+billNumber = "HB02107"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02107"
+lastScraped = "2025-09-21T23:39:48.721399"
+title = "HB02107"
+longTitle = "AN ACT PROVIDING FOR FREE ANNUAL MEDICAL CHECK-UP FOR FILIPINOS\r\n"
+scope = "National"
+dateFiled = "2025-07-21"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02107.pdf"
+fileSize = 453138
+author = "GUINTU, HOWARD A."
+[[authorsDetail]]
+name = "GUINTU, HOWARD A."
+nameCode = "Guintu"
+date = "2025-07-21"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[firstReading]
+id = 2108
+congress = 103
+bill_no = "HB02107"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

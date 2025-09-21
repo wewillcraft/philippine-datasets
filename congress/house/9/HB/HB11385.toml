@@ -1,0 +1,42 @@
+billNumber = "HB11385"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11385"
+lastScraped = "2025-09-22T00:25:56.673339"
+title = "HB11385"
+longTitle = "AN ACT AMENDING SECTION 146 OF EXECUTIVE ORDER 273, OTHERWISE KNOWN AS THE NATIONAL INTERNAL REVENUE CODE (NIRC) BY INCREASING THE EXCISE TAX ON ALL FIREWORKS FROM THIRTY PESOS (P30.00) PER KILOGRAM TO SIXTY PESOS (P60.00) PER KILOGRAM"
+scope = "National"
+dateFiled = "1993-11-24"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-12-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-12-01"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 130000
+congress = 9
+bill_no = "HB11385"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-12-01"

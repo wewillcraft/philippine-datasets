@@ -1,0 +1,46 @@
+billNumber = "HB05554"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05554"
+lastScraped = "2025-09-22T00:20:58.400262"
+title = "HB05554"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY GUMIAN, MUNICIPALITY OF INFANTA, PROVINCE OF QUEZON, TO BE KNOWN AS THE GUMIAN HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-18"
+status = "Pending with the Committee on HEALTH since 1995-12-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-12-20"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111975
+congress = 10
+bill_no = "HB05554"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-12-20"

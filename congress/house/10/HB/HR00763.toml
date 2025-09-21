@@ -1,0 +1,81 @@
+billNumber = "HR00763"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00763"
+lastScraped = "2025-09-22T00:20:59.568868"
+title = "HR00763"
+longTitle = "RESOLUTION URGING THE PROJECT MANAGEMENT OFFICES OF THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO CLOSELY COORDINATE WITH THE REGIONAL OFFICES IN THE IMPLEMENTATION OF FOREIGN ASSISTED PROJECTS"
+scope = "National"
+dateFiled = "1996-08-05"
+status = "Adopted as Resolution No. HR00099 on 1997-03-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "VERGARA, BERNARDO M.", "PUBLIC WORKS AND HIGHWAYS",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00206"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00206"
+flag = "S"
+
+[firstReading]
+id = 117817
+congress = 10
+bill_no = "HR00763"
+report = "00514"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption in substituti on of HR 206."
+date_read = "1996-08-07"
+date_ob = "1996-08-07"
+date_unass = "1996-12-04"
+date_report = "1996-08-05"
+
+[secondReading]
+id = 18989
+congress = 10
+bill_no = "HR00763"
+adopted_resolution = "HR00099"
+date_calendared = "1997-01-22"
+date_approved = "1997-03-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00099.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00099.pdf"

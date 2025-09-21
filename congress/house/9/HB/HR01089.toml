@@ -1,0 +1,42 @@
+billNumber = "HR01089"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01089"
+lastScraped = "2025-09-22T00:25:57.567332"
+title = "HR01089"
+longTitle = "RESOLUTION COMMENDING NICANOR PERLAS, A FILIPINO AGRICULTURIST, FOR BEING CITED BY THE UNITED NATIONS ENVIRONMENT PROGRAM (UNEP) AND FOR BEING ELECTED TO UNEP'S GLOBAL 500 ROLL OF HONOR FOR HIS INVALUABLE CONTRIBUTION TOWARDS SUSTAINABLE AGRICULTURE"
+scope = "Local"
+dateFiled = "1994-06-16"
+status = "Pending with the Committee on ECOLOGY since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 134396
+congress = 9
+bill_no = "HR01089"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1994-07-26"

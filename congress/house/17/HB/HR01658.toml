@@ -1,0 +1,55 @@
+billNumber = "HR01658"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01658"
+lastScraped = "2025-09-21T23:55:46.569923"
+title = "HR01658"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED SHORTAGES OF RICE QUANTITY AVAILABLE IN THE MARKET AND THE BUFFERSTOCK OF THE NATIONAL FOOD AUTHORITY"
+scope = "National"
+dateFiled = "2018-02-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2018-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01658.pdf"
+fileSize = 435256
+author = "Panganiban, Jose Jr. T. CPA,LLB"
+coAuthors = [ "CUEVA, LEO RAFAEL M.",]
+[[authorsDetail]]
+name = "Panganiban, Jose Jr. T. CPA,LLB"
+nameCode = "Panganiban"
+date = "2018-02-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2018-03-21"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2018-02-13"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 44400
+congress = 17
+bill_no = "HR01658"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-02-21"
+date_read = "2018-02-13"

@@ -1,0 +1,42 @@
+billNumber = "HR01372"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01372"
+lastScraped = "2025-09-22T00:47:02.799820"
+title = "HR01372"
+longTitle = "RESOLUTION CALLING ON THE JUDICIAL AND BAR COUNCIL TO CONDUCT IN PUBLIC ITS DELIBERATIONS ON ALL NOMINATIONS TO THE JUDICIARY"
+scope = "National"
+dateFiled = "1989-07-26"
+status = "Pending with the Committee on JUSTICE since 1989-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1989-07-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171240
+congress = 8
+bill_no = "HR01372"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1989-07-26"

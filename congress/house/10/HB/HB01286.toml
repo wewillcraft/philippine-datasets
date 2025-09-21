@@ -1,0 +1,41 @@
+billNumber = "HB01286"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01286"
+lastScraped = "2025-09-22T00:20:57.596172"
+title = "HB01286"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO JOSELITO H. RUIZ"
+scope = "Local"
+dateFiled = "1995-07-25"
+status = "Pending with the Committee on JUSTICE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 107707
+congress = 10
+bill_no = "HB01286"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-31"

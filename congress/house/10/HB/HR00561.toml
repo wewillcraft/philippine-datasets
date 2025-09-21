@@ -1,0 +1,42 @@
+billNumber = "HR00561"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00561"
+lastScraped = "2025-09-22T00:20:59.528116"
+title = "HR00561"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON REVISION OF LAWS TO CODIFY ALL EXISTING STATUTES IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117615
+congress = 10
+bill_no = "HR00561"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Revision of Laws on March 27, 1996."
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-03-26"

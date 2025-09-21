@@ -1,0 +1,49 @@
+billNumber = "HB07989"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07989"
+lastScraped = "2025-09-22T00:20:58.878548"
+title = "HB07989"
+longTitle = "AN ACT AUTHORIZING THE BUREAU OF CUSTOMS TO CONSIGN CONFISCATED AND ABANDONED ITEMS TO THE DUTY-FREE SHOP PHILIPPINES"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "FAJARDO, MOHAMMAD OMAR A.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FAJARDO, MOHAMMAD OMAR A."
+nameCode = "Fajardo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 114410
+congress = 10
+bill_no = "HB07989"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-09-26"

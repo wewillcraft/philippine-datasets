@@ -1,0 +1,89 @@
+billNumber = "HR00919"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00919"
+lastScraped = "2025-09-21T23:55:22.720541"
+title = "HR00919"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO ESTABLISH A\r\nCONSULAR OFFICE IN THE PROVINCE OF ORIENTAL MINDORO"
+scope = "National"
+dateFiled = "2023-04-17"
+status = "Adopted as Resolution No. HR00078 on 2023-05-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "UMALI, ALFONSO V., JR."
+[[authorsDetail]]
+name = "UMALI, ALFONSO V., JR."
+nameCode = "Umali (A.)"
+date = "2023-04-17"
+sequence = 1
+
+[[authorsDetail]]
+name = "ARENAS, MARIA RACHEL J."
+nameCode = "Arenas"
+date = "2023-04-17"
+sequence = 2
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2023-05-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB03714"
+sequence = 1
+date = "2023-04-17"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03714"
+sequence = 1
+date = "2023-04-17"
+flag = "S"
+
+[firstReading]
+id = 17463
+congress = 19
+bill_no = "HR00919"
+report = "00491"
+comm_act = ""
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "Recommending its adoption in substitution of House Bill No. 3714\r\n"
+remarks = ""
+file = "CR00491.pdf"
+date_read = "2023-05-08"
+date_ob = "2023-05-08"
+date_report = "2023-04-17"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR00491.pdf"
+
+[secondReading]
+id = 563
+congress = 19
+bill_no = "HR00919"
+adopted_resolution = "HR00078"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO ESTABLISH A CONSULAR OFFICE IN THE PROVINCE OF ORIENTAL MINDORO"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2023-05-16"
+date_approved = "2023-05-17"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00919.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_19/HR00919.pdf"

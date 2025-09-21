@@ -1,0 +1,42 @@
+billNumber = "HR00448"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00448"
+lastScraped = "2025-09-22T00:20:59.504991"
+title = "HR00448"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO CONDUCT AN IMMEDUATE INVESTIGATION, IN AID OF LEGISLATION, INTO THE SCANDALOUS VALUATION OF LANDS UNDER THE COMPREHENSIVE AGRARIAN REFORM LAW OF 1988"
+scope = "National"
+dateFiled = "1996-02-05"
+status = "Pending with the Committee on AGRARIAN REFORM since 1996-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1996-02-08"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 117502
+congress = 10
+bill_no = "HR00448"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agrarian Reform on Feb. 12, 1996."
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+date_read = "1996-02-08"

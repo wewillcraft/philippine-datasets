@@ -1,0 +1,41 @@
+billNumber = "HB10533"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10533"
+lastScraped = "2025-09-22T00:20:59.403386"
+title = "HB10533"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED FIFTY-FOUR HUNDRED EIGHTY-SEVEN, AS AMENDED BY PRESIDENTIAL DECREES ELEVEN, ONE HUNDRED AND NINETEEN HUNDRED NINETEEN"
+scope = "National"
+dateFiled = "1998-02-12"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1998-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Durano"
+[[authorsDetail]]
+name = "Durano"
+nameCode = "Durano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1998-02-12"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 116953
+congress = 10
+bill_no = "HB10533"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1998-02-12"

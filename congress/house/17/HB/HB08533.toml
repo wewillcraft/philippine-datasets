@@ -1,0 +1,54 @@
+billNumber = "HB08533"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08533"
+lastScraped = "2025-09-21T23:55:46.001890"
+title = "HB08533"
+longTitle = "AN ACT MANDATING THE ONE WAY FLOW OF VEHICULAR TRAFFIC ALONG BOTH SIDES OF EPIFANIO DE LOS SANTOS AVENUE IN METRO MANILA"
+scope = "Local"
+dateFiled = "2018-10-24"
+status = "Pending with the Committee on TRANSPORTATION since 2018-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08533.pdf"
+fileSize = 426765
+author = "Mercado, Roger G."
+coAuthors = [ "SARMIENTO, EDGAR S.",]
+[[authorsDetail]]
+name = "Mercado, Roger G."
+nameCode = "Mercado"
+date = "2018-10-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, EDGAR S."
+nameCode = "Sarmiento (E.M.)"
+date = "2019-01-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2018-11-13"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 42000
+congress = 17
+bill_no = "HB08533"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-11-13"

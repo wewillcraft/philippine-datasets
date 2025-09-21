@@ -1,0 +1,47 @@
+billNumber = "HB01278"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01278"
+lastScraped = "2025-09-22T00:25:54.823471"
+title = "HB01278"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE DOLORES MEDICARE HOSPITAL IN THE MUNICIPALITY OF DOLORES, PROVINCE OF ABRA, TO TWENTY-FIVE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on HEALTH since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119897
+congress = 9
+bill_no = "HB01278"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-26"

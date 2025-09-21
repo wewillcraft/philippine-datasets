@@ -1,0 +1,54 @@
+billNumber = "HB01569"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01569"
+lastScraped = "2025-09-22T00:20:57.643532"
+title = "HB01569"
+longTitle = "AN ACT PROVIDING FOR THE FORMULATION AND IMPLEMENTATION OF A WATERSHED PROTECTION, MANAGEMENT, AND DEVELOPMENT PROGRAM TO EFFECTIVELY RESTORE THE WATER-PRODUCING QUALITIES AND ENHANCE THE ENVIRONMENTAL INTEGRITY OF THE NATION'S ENDANGERED WATERSHEDS, APPROPRIATING FUNDS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on ECOLOGY since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+coAuthors = [ "QUIMPO, ALLEN S.",]
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107990
+congress = 10
+bill_no = "HB01569"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-08-03"

@@ -1,0 +1,46 @@
+billNumber = "HB04676"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04676"
+lastScraped = "2025-09-22T00:20:58.240052"
+title = "HB04676"
+longTitle = "AN ACT CONVERTING THE SAN JOSE-CATACDEGAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF MANABO, PROVINCE OF ABRA, INTO A SCIENCE AND TECHNOLOGICAL INSTITUTE, TO BE KNOWN AS THE MANABO INSTITUTE OF SCIENCE AND TECHNOLOGY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111097
+congress = 10
+bill_no = "HB04676"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-27"

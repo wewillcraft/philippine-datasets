@@ -1,0 +1,46 @@
+billNumber = "HB07135"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07135"
+lastScraped = "2025-09-22T00:20:58.686943"
+title = "HB07135"
+longTitle = "AN ACT ESTABLISHING ADDITIONAL BRANCHES OF THE REGIONAL AND MUNICIPAL TRIAL COURTS IN THE ELEVENTH JUDICIAL REGION, AMENDING FOR THE PURPOSE THE JUDICIARY REORGANIZATION ACT OF 1980, AS AMENDED, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-27"
+status = "Pending with the Committee on JUSTICE since 1996-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-05-29"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113556
+congress = 10
+bill_no = "HB07135"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-05-29"

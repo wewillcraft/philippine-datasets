@@ -1,0 +1,83 @@
+billNumber = "HB10636"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10636"
+lastScraped = "2025-09-22T00:23:17.534149"
+title = "HB10636"
+longTitle = "AN ACT CREATING A SATELLITE CAMPUS OF THE LEYTE INSTITUTE OF TECHNOLOGY IN THE MUNICIPALITY OF DULAG, PROVINCE OF LEYTE TO BE KNOWN AS THE 'LEYTE INSTITUTE OF TECHNOLOGY - DULAG CAMPUS,' APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2000-04-06"
+status = "Approved by the House on 2000-05-23, transmitted to on 2000-05-24 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-04-10"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[[motherBills]]
+bill_no = "HB02910"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02910"
+flag = "S"
+
+[firstReading]
+id = 102051
+congress = 11
+bill_no = "HB10636"
+report = "00710"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, HIGHER AND TECHNICAL EDUCATION"
+recomm = "APPROVAL"
+date_read = "2000-04-10"
+date_ob = "2000-04-10"
+date_report = "2000-04-06"
+
+[secondReading]
+id = 17160
+congress = 11
+bill_no = "HB10636"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-04-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4400
+congress = 11
+bill_no = "HB10636"
+date_dist = "2000-05-09"
+date_adopt = "2000-05-23"
+no_yeas = 160
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-05-24"
+date_rec = "2000-05-30"

@@ -1,0 +1,64 @@
+billNumber = "HB04005"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04005"
+lastScraped = "2025-09-22T00:13:00.520164"
+title = "HB04005"
+longTitle = "AN ACT PROHIBITING BANKS FROM IMPOSING FEES OR CHARGES ON SAVINGS OR CURRENT ACCOUNTS FALLING BELOW THE REQUIRED MINIMUM MAINTAINING BALANCE AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "2001-12-03"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2001-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Erice"
+coAuthors = [ "CUENCO, ANTONIO V.", "JARAULA, CONSTANTINO G.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Erice"
+nameCode = "Erice"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J068"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2001-12-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 87165
+congress = 12
+bill_no = "HB04005"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "2001-12-10"

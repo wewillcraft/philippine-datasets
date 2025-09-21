@@ -1,0 +1,42 @@
+billNumber = "HR01438"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01438"
+lastScraped = "2025-09-22T00:47:02.809333"
+title = "HR01438"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ECONOMIC AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE POTENTIAL OF SURIGAO DEL SUR'S MARINE AND METAL DEPOSIT RESOURCES"
+scope = "Local"
+dateFiled = "1989-09-04"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1989-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "536"
+dateRead = "1989-09-04"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 171303
+congress = 8
+bill_no = "HR01438"
+referral = "536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1989-09-04"

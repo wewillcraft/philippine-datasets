@@ -1,0 +1,56 @@
+billNumber = "HR00061"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00061"
+lastScraped = "2025-09-22T00:13:01.152399"
+title = "HR00061"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS AND GOOD GOVERNANCE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON POLICIES THAT MAY BE USED TO ELIMINATE CORRUPTION AND IMPROVE THE EFFICIENCY OF THE BUREAU OF INTERNAL REVENUE"
+scope = "National"
+dateFiled = "2001-07-31"
+status = "Pending with the Committee on RULES since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Guzman, Del R."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "De Guzman, Del R."
+nameCode = "De Guzman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 90000
+congress = 12
+bill_no = "HR00061"
+comm_act = "Change of Referral from the Committee on Rules to the Committee on Ways and Means on August 20, 2001"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-08-06"

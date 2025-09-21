@@ -1,0 +1,47 @@
+billNumber = "HB03469"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03469"
+lastScraped = "2025-09-22T00:13:00.428042"
+title = "HB03469"
+longTitle = "AN ACT PROVIDING FOR THE REPAIR OF THE WAWA WHARF IN BARANGAY WAWA, MUNICIPALITY OF PILILLA, PROVINCE OF RIZAL AND APPROPRIATING THE AMOUNT OF TWO HUNDRED TWENTY ONE THOUSAND SIX HUNDRED TWENTY ONE PESOS FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "2001-10-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2001-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Isidro Jr. S."
+[[authorsDetail]]
+name = "Rodriguez, Isidro Jr. S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2001-10-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86629
+congress = 12
+bill_no = "HB03469"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2001-10-16"

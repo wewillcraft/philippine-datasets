@@ -1,0 +1,79 @@
+billNumber = "HB01263"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01263"
+lastScraped = "2025-09-22T00:25:54.821081"
+title = "HB01263"
+longTitle = "AN ACT ESTABLISHING A HOSPITAL WITH SECONDARY LEVEL CAPABILITY IN THE MUNICIPALITY OF SAN ISIDRO, PROVINCE OF LEYTE, TO BE KNOWN AS THE SAN ISIDRO COMMUNITY HOSPITAL, AND AUTHORIZING THE APPROPRIATIONS OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-20"
+status = "Vetoed by the President on 1995-05-19"
+statusOrder = 31.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso"
+[[authorsDetail]]
+name = "Veloso"
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119882
+congress = 9
+bill_no = "HB01263"
+report = "00742"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1992-08-26"
+date_ob = "1994-05-26"
+date_cal = "1994-05-26"
+date_unass = "1994-05-26"
+date_report = "1994-05-25"
+
+[secondReading]
+id = 19182
+congress = 9
+bill_no = "HB01263"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-05-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1459
+congress = 9
+bill_no = "HB01263"
+date_dist = "1994-05-30"
+date_adopt = "1994-07-27"
+no_yeas = 161
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-08-04"
+date_rec = "1994-08-04"
+date_agram = "1995-02-16"
+amend_ind = "Y"
+act_pres = "V"
+dte_transp = "1995-04-18"
+dte_actedp = "1995-05-19"

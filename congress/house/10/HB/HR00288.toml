@@ -1,0 +1,53 @@
+billNumber = "HR00288"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00288"
+lastScraped = "2025-09-22T00:20:59.476082"
+title = "HR00288"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF HONORABLE ARTEMIO MATE, FORMER ASSEMBLYMAN FROM THE FIRST DISTRICT OF LEYTE"
+scope = "Local"
+dateFiled = "1995-11-06"
+status = "Adopted as Resolution No. HR00022 on 1995-11-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-11-06"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117342
+congress = 10
+bill_no = "HR00288"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-11-06"
+
+[secondReading]
+id = 18947
+congress = 10
+bill_no = "HR00288"
+adopted_resolution = "HR00022"
+date_calendared = "1995-11-06"
+date_approved = "1995-11-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00022.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00022.pdf"

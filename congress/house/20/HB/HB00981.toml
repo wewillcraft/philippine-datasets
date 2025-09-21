@@ -1,0 +1,46 @@
+billNumber = "HB00981"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00981"
+lastScraped = "2025-09-21T23:39:48.494068"
+title = "HB00981"
+longTitle = "AN ACT UPGRADING THE LAND TRANSPORTATION OFFICE (LTO) OFFICE IN THE CITY OF BATAC, PROVINCE OF ILOCOS NORTE, FROM “CLASS D” TO “CLASS C,” AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00981.pdf"
+fileSize = 4312977
+author = "BARBA, ANGELO MARCOS"
+[[authorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 982
+congress = 103
+bill_no = "HB00981"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

@@ -1,0 +1,54 @@
+billNumber = "HR01021"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01021"
+lastScraped = "2025-09-22T00:20:59.618600"
+title = "HR01021"
+longTitle = "RESOLUTION URGING THE ILOCOS NORTE ELECTRIC COOPERATIVES, INC.(INEC), TO OFFSET ITS CHARGES FOR ELECTRIC CONSUMPTION OF THE MARCOS MAUSOLEUM IN THE AMOUNT OF FIVE MILLION THREE HUNDRED THOUSAND PESOS (P5.3 MILLION) BY APPLYING IT AGAINST INEC PAYABLES TO THE NATIONAL ELECTRIFICATION ADMINISTRATION (NEA) OR THE NATIONAL POWER CORPORATION (NPC)"
+scope = "Local"
+dateFiled = "1996-12-11"
+status = "Pending with the Committee on ENERGY since 1996-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "VALDEZ, SIMEON M.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VALDEZ, SIMEON M."
+nameCode = "Valdez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-12-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "secondary"
+referralCode = "B512"
+
+[firstReading]
+id = 118075
+congress = 10
+bill_no = "HR01021"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-12-16"

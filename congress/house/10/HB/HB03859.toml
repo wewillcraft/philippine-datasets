@@ -1,0 +1,46 @@
+billNumber = "HB03859"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03859"
+lastScraped = "2025-09-22T00:20:58.089070"
+title = "HB03859"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION AND IMPROVEMENT OF THE WATERWORKS SYSTEM IN BARANGAY HAMOD, MUNICIPALITY OF BATAD, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110280
+congress = 10
+bill_no = "HB03859"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-29"

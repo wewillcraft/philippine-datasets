@@ -1,0 +1,42 @@
+billNumber = "PS00093"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00093"
+lastScraped = "2025-09-22T00:13:49.486271"
+title = "PS00093"
+longTitle = "Proposed Revenue Measures of Congress"
+scope = "National"
+dateFiled = "2004-12-14"
+status = "Pending with the Committee on WAYS AND MEANS since 2005-01-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Herminio G."
+[[authorsDetail]]
+name = "Teves, Herminio G."
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2005-01-11"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 82883
+congress = 13
+bill_no = "PS00093"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2005-01-11"

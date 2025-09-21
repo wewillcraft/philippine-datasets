@@ -1,0 +1,50 @@
+billNumber = "HB03880"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03880"
+lastScraped = "2025-09-22T00:46:57.240177"
+title = "HB03880"
+longTitle = "AN ACT CREATING THE PRESIDENTIAL COMMISSION ON THE UNEMPLOYED, DEFINING ITS POWERS AND FUNCTIONS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1987-11-19"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1987-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mar"
+coAuthors = [ "BANDON, ALAWADIN JR. T.",]
+[[authorsDetail]]
+name = "Mar"
+nameCode = "Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BANDON, ALAWADIN JR. T."
+nameCode = "Bandon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1987-11-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 138566
+congress = 8
+bill_no = "HB03880"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1987-11-24"

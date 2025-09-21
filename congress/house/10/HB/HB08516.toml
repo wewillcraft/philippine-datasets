@@ -1,0 +1,89 @@
+billNumber = "HB08516"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08516"
+lastScraped = "2025-09-22T00:20:58.977432"
+title = "HB08516"
+longTitle = "AN ACT DECLARING THE ALIGUAY AND SINILOG ISLANDS IN THE CITY OF DAPITTAN, AND ALL THE BARANGAYS ALONG THE COAST OF DAPITAN PROPER IN THE MUNICIPALITIES OF SIBUTAN AND RIZAL, PROVINCE OF ZAMBOANGA DEL NORTE, A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1996-12-02"
+status = "Approved by the House on 1996-12-19, transmitted to on 1997-01-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jalosjos, Romeo Jr. M."
+[[authorsDetail]]
+name = "Jalosjos, Romeo Jr. M."
+nameCode = "Jalosjos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HB02782"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB02783"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB04265"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02782"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02783"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04265"
+flag = "S"
+
+[firstReading]
+id = 114937
+congress = 10
+bill_no = "HB08516"
+report = "00673"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1996-12-03"
+date_ob = "1996-12-03"
+date_report = "1996-12-02"
+
+[secondReading]
+id = 18595
+congress = 10
+bill_no = "HB08516"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3185
+congress = 10
+bill_no = "HB08516"
+date_adopt = "1996-12-19"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-06"
+date_rec = "1997-01-10"

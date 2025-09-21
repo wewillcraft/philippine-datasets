@@ -1,0 +1,35 @@
+billNumber = "HR00831"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00831"
+lastScraped = "2025-09-22T00:47:02.689095"
+title = "HR00831"
+longTitle = "RESOLUTION REQUESTING ALL CHIEFS OF PROVINCIAL HOSPITALS TO SUBMIT TO THE DULY ELECTED MEMBER OF THE HOUSE OF REPRESENTATIVES IN A LEGISLATIVE DISTRICT, THROUGH THE SECRETARY OF HEALTH, A QUARTERLY ACCOMPLISHMENT REPORT INCLUDING THEREIN A LIST OF PROBLEMS SOUGHT TO BE REMEDIED AND SUGGESTIONS IF ANY, AND THE NAMES OF OFFICERS AND EMPLOYEES WITH THEIR CORRESPONDING DESIGNATIONS AND SALARIES, AS AN AID TO LEGISLATION"
+scope = "National"
+dateFiled = "1988-08-04"
+status = "Pending with the Committee on HEALTH since 1988-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-08-10"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 170712
+congress = 8
+bill_no = "HR00831"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-08-10"

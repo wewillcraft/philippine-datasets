@@ -1,0 +1,42 @@
+billNumber = "HB02751"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02751"
+lastScraped = "2025-09-22T00:46:57.048195"
+title = "HB02751"
+longTitle = "AN ACT TO CONSTRUCT A WATERWORKS SYSTEM IN CANDIJAY, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-10-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-10-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 137440
+congress = 8
+bill_no = "HB02751"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-10-15"

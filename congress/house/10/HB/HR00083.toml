@@ -1,0 +1,50 @@
+billNumber = "HR00083"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00083"
+lastScraped = "2025-09-22T00:20:59.439076"
+title = "HR00083"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TOURISM AND ECOLOGY TO CONDUCT AN REVIEW, IN AID OF LEGISLATION, OF THE PLANS, OPERATION AND ADMINISTRATION AND PROGRAM IMPLEMENTATIONS OF THE PHILIPPINE TOURISM AUTHORITY AND THE DEPARTMENT OF TOURISM IN THE ISLAND OF BORACAY"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on TOURISM since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 117137
+congress = 10
+bill_no = "HR00083"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Tourism on Aug. 10, 1995."
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-08-09"

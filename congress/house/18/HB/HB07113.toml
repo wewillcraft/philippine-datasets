@@ -1,0 +1,54 @@
+billNumber = "HB07113"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB07113"
+lastScraped = "2025-09-22T00:01:46.433765"
+title = "HB07113"
+longTitle = "AN ACT PROHIBITING FURTHER PRIVATIZATION AND CORPORATIZATION OF\r\nPUBLIC HOSPITALS, PUBLIC HEALTH FACILITIES, AND PUBLIC\r\nHEALTH SERVICES, AND PROVIDING PENALTIES\r\nFOR VIOLATIONS THEREOF\r\n"
+scope = "National"
+dateFiled = "2020-07-18"
+status = "Pending with the Committee on HEALTH since 2020-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB07113.pdf"
+fileSize = 2725036
+author = "Vargas, Alfred D."
+coAuthors = [ "ALONTE-NAGUIAT, LEN B.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2020-07-18"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2021-01-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-07-29"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 26520
+congress = 18
+bill_no = "HB07113"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-07-29"

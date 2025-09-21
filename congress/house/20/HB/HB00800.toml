@@ -1,0 +1,46 @@
+billNumber = "HB00800"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00800"
+lastScraped = "2025-09-21T23:39:48.459100"
+title = "HB00800"
+longTitle = "AN ACT PROMOTING INTEGRATED URBAN AGRICULTURE IN URBAN AREAS NATIONWIDE TO ADDRESS FOOD SECURITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00800.pdf"
+fileSize = 6871476
+author = "RAMA, EDUARDO R."
+[[authorsDetail]]
+name = "RAMA, EDUARDO R."
+nameCode = "Rama"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 801
+congress = 103
+bill_no = "HB00800"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

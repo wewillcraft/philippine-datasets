@@ -1,0 +1,47 @@
+billNumber = "HB01295"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01295"
+lastScraped = "2025-09-22T00:13:00.037294"
+title = "HB01295"
+longTitle = "AN ACT CREATING THE ILOILO RIVER AND MUELLE LONEY DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING APPROPRIATIONS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84455
+congress = 12
+bill_no = "HB01295"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2001-07-30"

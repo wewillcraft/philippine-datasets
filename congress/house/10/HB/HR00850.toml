@@ -1,0 +1,70 @@
+billNumber = "HR00850"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00850"
+lastScraped = "2025-09-22T00:20:59.585518"
+title = "HR00850"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INQUIRY, IN AID OF LEGISLATION, ON THE CIRCUMSTANCES SURROUNDING THE SUSPICIOUS DEATH OF (OCW) ANASTACIA LUCAS, A DOMESTIC HELPER IN JEDDAH, SAUDI ARABIA"
+scope = "Local"
+dateFiled = "1996-09-12"
+status = "Pending with the Committee on RULES since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 117904
+congress = 10
+bill_no = "HR00850"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment , on Foreign Affai"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-23"

@@ -1,0 +1,74 @@
+billNumber = "HB05999"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB05999"
+lastScraped = "2025-09-22T00:01:46.175593"
+title = "HB05999"
+longTitle = "AN ACT GRANTING HAZARD PAY TO ALL COURT SHERIFFS OF THE SUPREME COURT OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2020-01-22"
+status = "Pending with the Committee on JUSTICE since 2020-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB05999.pdf"
+fileSize = 1076289
+author = "BARONDA, JULIENNE \"JAM\" L."
+coAuthors = [ "BARBA, ANGELO MARCOS", "ANGARA, ROMMEL RICO", "LAGMAN, EDCEL C.",]
+[[authorsDetail]]
+name = "BARONDA, JULIENNE \"JAM\" L."
+nameCode = "Baronda"
+date = "2020-01-22"
+sequence = 1
+
+[[authorsDetail]]
+name = "ROMUALDEZ, FERDINAND MARTIN G."
+nameCode = "Romualdez (F.M.)"
+date = "2020-01-22"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2020-02-26"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANGARA, ROMMEL RICO"
+nameCode = "Angara"
+date = "2020-03-03"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAGMAN, EDCEL C."
+nameCode = "Lagman"
+date = "2020-09-22"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2020-01-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 25407
+congress = 18
+bill_no = "HB05999"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-01-27"

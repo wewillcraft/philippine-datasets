@@ -1,0 +1,70 @@
+billNumber = "HB01292"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01292"
+lastScraped = "2025-09-22T00:20:57.597250"
+title = "HB01292"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 3601, AS AMENDED"
+scope = "National"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+coAuthors = [ "SATOR, BALTAZAR A.", "LOPEZ, ELIAS B.", "TAJON, MARIANO M.", "PALMA GIL, MA. ELENA T.",]
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SATOR, BALTAZAR A."
+nameCode = "Sator"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOPEZ, ELIAS B."
+nameCode = "Lopez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAJON, MARIANO M."
+nameCode = "Tajon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 107713
+congress = 10
+bill_no = "HB01292"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-01"

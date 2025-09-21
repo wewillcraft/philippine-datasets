@@ -1,0 +1,90 @@
+billNumber = "HB03631"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03631"
+lastScraped = "2025-09-22T00:13:00.457925"
+title = "HB03631"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BREAST CARE CENTERS IN EVERY REGION NATIONWIDE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-23"
+status = "Pending with the Committee on HEALTH since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Soon-Ruiz, Nerissa Corazon"
+coAuthors = [ "MONFORT, NARCISO D.", "CHIPECO, JOAQUIN JR. M.", "TAGANAS LAYUS, CELIA", "DEL MAR, RAUL V.", "CHATTO, EDGARDO M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Soon-Ruiz, Nerissa Corazon"
+nameCode = "Soon-ruiz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAGANAS LAYUS, CELIA"
+nameCode = "Taganas Layus"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J005"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86791
+congress = 12
+bill_no = "HB03631"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-11-19"

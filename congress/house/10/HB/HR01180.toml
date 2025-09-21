@@ -1,0 +1,46 @@
+billNumber = "HR01180"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01180"
+lastScraped = "2025-09-22T00:20:59.652541"
+title = "HR01180"
+longTitle = "RESOLUTION URGING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE AFFIRMED BANNING OF GAYS IN THE ARMED FORCES OF THE PHILIPPINES, AND THE POSSIBILITY OF THEIR INCLUSION IN THE PHILIPPINE NATIONAL POLICE (homosexual)"
+scope = "National"
+dateFiled = "1997-04-28"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-04-30"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 118234
+congress = 10
+bill_no = "HR01180"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-04-30"

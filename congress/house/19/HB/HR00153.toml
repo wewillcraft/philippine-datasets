@@ -1,0 +1,62 @@
+billNumber = "HR00153"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00153"
+lastScraped = "2025-09-21T23:55:22.572228"
+title = "HR00153"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON ENERGY TO\r\nINVESTIGATE, IN AID OF LEGISLATION, THE RUNAWAY\r\nPRICES OF PETROLEUM PRODUCTS IN ORDER TO\r\nCOUNTERACT POTENTIAL OVERPRICING BY OIL\r\nCOMPANIES SEEKING TO UNREASONABLY INCREASE THEIR\r\nMARGINS AND GENERATE EXCESSIVE PROFITS AT THE\r\nEXPENSE OF CONSUMERS"
+scope = "National"
+dateFiled = "2022-08-02"
+status = "Pending with the Committee on ENERGY since 2022-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00153.pdf"
+fileSize = 942767
+author = "Rillo, Marvin D."
+coAuthors = [ "LOYOLA, ROY M.", "CHAN, CINDI",]
+[[authorsDetail]]
+name = "Rillo, Marvin D."
+nameCode = "Rillo"
+date = "2022-08-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY M."
+nameCode = "Loyola"
+date = "2023-11-09"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHAN, CINDI"
+nameCode = "Chan"
+date = "2023-11-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-08-08"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 16697
+congress = 19
+bill_no = "HR00153"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-08-24"
+date_read = "2022-08-08"

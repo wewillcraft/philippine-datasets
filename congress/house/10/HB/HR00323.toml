@@ -1,0 +1,66 @@
+billNumber = "HR00323"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00323"
+lastScraped = "2025-09-22T00:20:59.482407"
+title = "HR00323"
+longTitle = "RESOLUTION EXPRESSING THE SUPPORT OF THE HOUSE OF REPRESENTATIVES TO THE UNITED NATIONS PROCLAMATION OF 1995 AS THE INTERNATIONAL YEAR OF TOLERANCE"
+scope = "National"
+dateFiled = "1995-11-21"
+status = "Adopted as Resolution No. HR00062 on 1996-08-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 117377
+congress = 10
+bill_no = "HR00323"
+report = "00126"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments"
+date_read = "1995-11-27"
+date_ob = "1996-01-22"
+date_unass = "1996-01-23"
+date_report = "1996-01-03"
+
+[secondReading]
+id = 18950
+congress = 10
+bill_no = "HR00323"
+adopted_resolution = "HR00062"
+date_calendared = "1996-08-15"
+date_approved = "1996-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00062.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00062.pdf"

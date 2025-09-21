@@ -1,0 +1,42 @@
+billNumber = "HB02053"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02053"
+lastScraped = "2025-09-22T00:46:56.921720"
+title = "HB02053"
+longTitle = "AN ACT AUTHORIZING THE REHABILITATION OF THE PUBLIC MARKET IN THE MUNICIPALITY OF CORDOVA, PROVINCEOF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1987-09-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-10-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136743
+congress = 8
+bill_no = "HB02053"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-10-01"

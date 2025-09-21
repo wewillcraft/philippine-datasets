@@ -1,0 +1,67 @@
+billNumber = "HCR0025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HCR0025"
+lastScraped = "2025-09-22T00:25:57.349083"
+title = "HCR0025"
+longTitle = "CONCURRENT RESOLUTION CREATING A JOINT COMMITTEE TO STUDY THE POSSIBILITY OF PLACING BOTH HOUSES OF CONGRESS IN ONE BUILDING OR IN A CLUSTER OF BUILDINGS"
+scope = "Local"
+dateFiled = "1993-05-19"
+status = "Approved by the House on , transmitted to on 1993-06-14 and received by the Senate on 1993-07-26"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-05-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133263
+congress = 9
+bill_no = "HCR0025"
+report = "00207"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendment"
+date_read = "1993-05-19"
+date_ob = "1993-06-05"
+date_cal = "1993-06-05"
+date_unass = "1993-06-05"
+date_report = "1993-06-02"
+
+[secondReading]
+id = 20064
+congress = 9
+bill_no = "HCR0025"
+remarks = "Adopted by the House on June 10, 1993"
+date_approved = "1993-06-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2277
+congress = 9
+bill_no = "HCR0025"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-06-14"
+date_rec = "1993-07-26"

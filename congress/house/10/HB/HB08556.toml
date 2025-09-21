@@ -1,0 +1,46 @@
+billNumber = "HB08556"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08556"
+lastScraped = "2025-09-22T00:20:58.984924"
+title = "HB08556"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A JET-MATIC WATER PUMP IN BARANGAY BUNGCA, MUNICIPALITY OF BAROTAC NUEVO, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-12-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-12-10"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114977
+congress = 10
+bill_no = "HB08556"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-12-10"

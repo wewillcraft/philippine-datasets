@@ -1,0 +1,62 @@
+billNumber = "HB03456"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03456"
+lastScraped = "2025-09-22T00:25:55.208304"
+title = "HB03456"
+longTitle = "AN ACT TO STABILIZE THE SUGAR INDUSTRY AND TO PROVIDE FUNDS FOR THE PURPOSE"
+scope = "National"
+dateFiled = "1992-10-07"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1992-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "PUEY, MANUEL H.", "DEL ROSARIO, RODOLFO P.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PUEY, MANUEL H."
+nameCode = "Puey"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, RODOLFO P."
+nameCode = "Del Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1992-10-13"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122075
+congress = 9
+bill_no = "HB03456"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1992-10-13"

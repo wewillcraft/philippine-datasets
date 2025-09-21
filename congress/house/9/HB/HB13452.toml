@@ -1,0 +1,42 @@
+billNumber = "HB13452"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13452"
+lastScraped = "2025-09-22T00:25:57.080730"
+title = "HB13452"
+longTitle = "AN ACT ESTABLISHING A TECHNICAL LABOR TRAINING CENTER IN THE MUNICIPALITY OF CALINOG, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-11"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1994-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1994-08-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132061
+congress = 9
+bill_no = "HB13452"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1994-08-17"

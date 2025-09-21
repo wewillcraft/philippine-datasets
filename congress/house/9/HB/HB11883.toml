@@ -1,0 +1,42 @@
+billNumber = "HB11883"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11883"
+lastScraped = "2025-09-22T00:25:56.784580"
+title = "HB11883"
+longTitle = "AN ACT PROVIDING FOR THE INSTALLATION OF AT LEAST ONE WEIGHING SCALE IN EVERY PUBLIC MARKET IN ALL CITIES AND MUNICIPALITIES IN THE COUNTRY"
+scope = "National"
+dateFiled = "1994-02-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1994-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1994-02-07"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130498
+congress = 9
+bill_no = "HB11883"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1994-02-07"

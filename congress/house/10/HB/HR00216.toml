@@ -1,0 +1,41 @@
+billNumber = "HR00216"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00216"
+lastScraped = "2025-09-22T00:20:59.463271"
+title = "HR00216"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO REQUEST THE UNITED STATES OF AMERICA, THROUGH THE UNITED STATES EMBASSY, TO CONSIDER TRAINING A FILIPINO SCIENTIST AS AN ASTRONAUT TO JOIN FUTURE SPACE MISSIONS OF THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATOR (NASA)"
+scope = "National"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117270
+congress = 10
+bill_no = "HR00216"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1995-09-29"

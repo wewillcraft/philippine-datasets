@@ -1,0 +1,61 @@
+billNumber = "HR00215"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00215"
+lastScraped = "2025-09-21T23:55:46.261037"
+title = "HR00215"
+longTitle = "A RESOLUTION HONORING AND COMMENDING THE OUTSTANDING PHILIPPINE SOLDIERS (TOPS) OF 2016 AWARDED BY THE METROBANK FOUNDATION, INC. AND THE ROTARY CLUB OF MAKATI METRO"
+scope = "National"
+dateFiled = "2016-08-11"
+status = "Pending with the Committee on RULES since 2016-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00215.pdf"
+fileSize = 631133
+author = "Alejano, Gary C."
+coAuthors = [ "ALVAREZ, FRANZ E.", "GARCIA, GWENDOLYN F.",]
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2016-08-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALVAREZ, FRANZ E."
+nameCode = "Alvarez (F.)"
+date = "2016-09-05"
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GARCIA, GWENDOLYN F."
+nameCode = "Garcia (G.)"
+date = "2016-09-07"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-08-17"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 42958
+congress = 17
+bill_no = "HR00215"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-17"

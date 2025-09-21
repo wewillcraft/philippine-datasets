@@ -1,0 +1,43 @@
+billNumber = "HB01021"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01021"
+lastScraped = "2025-09-22T00:46:56.744642"
+title = "HB01021"
+longTitle = "AN ACT PROPOSING THE ESTABLISHMENT OF A HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF GUTUAN, PROVINCE OF EASTERN SAMAR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "539"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[firstReading]
+id = 135718
+congress = 8
+bill_no = "HB01021"
+comm_act = "SUBSTITUTE D BY HB 04879"
+referral = "539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1987-09-07"

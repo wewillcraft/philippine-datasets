@@ -1,0 +1,57 @@
+billNumber = "HB08007"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08007"
+lastScraped = "2025-09-21T23:55:45.885839"
+title = "HB08007"
+longTitle = "AN ACT ESTABLISHING EMERGENCY RICE RESERVES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-08-02"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2018-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08007.pdf"
+fileSize = 765125
+author = "Sy-Alvarado, \"Kuya\" Jose Antonio R."
+[[authorsDetail]]
+name = "Sy-Alvarado, \"Kuya\" Jose Antonio R."
+nameCode = "Sy-Alvarado"
+date = "2018-08-02"
+sequence = 1
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2018-08-08"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "secondary"
+referralCode = "E505"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 41474
+congress = 17
+bill_no = "HB08007"
+report = ""
+comm_act = ""
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-10-10"
+date_read = "2018-08-08"

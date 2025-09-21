@@ -1,0 +1,42 @@
+billNumber = "HB14527"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14527"
+lastScraped = "2025-09-22T00:25:57.314441"
+title = "HB14527"
+longTitle = "AN ACT PROVIDING FOR A CONTINUING \"MUNICIPAL FRUIT TREE PLANTING PROGRAM\" TO BE IMPLEMENTED BY THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES (DENR)"
+scope = "National"
+dateFiled = "1995-02-06"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-02-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 133136
+congress = 9
+bill_no = "HB14527"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1995-02-08"

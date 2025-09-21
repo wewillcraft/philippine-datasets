@@ -1,0 +1,45 @@
+billNumber = "HR00247"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00247"
+lastScraped = "2025-09-21T23:39:49.236430"
+title = "HR00247"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO INCREASE THE FISCAL YEAR 2026 BUDGET OF THE COMMISSION ON ELECTIONS"
+dateFiled = "2025-09-08"
+status = "Pending with the Committee on APPROPRIATIONS since 2025-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00247.pdf"
+fileSize = 62090
+author = "MATUGAS, FRANCISCO \"LALO\" T."
+[[authorsDetail]]
+name = "MATUGAS, FRANCISCO \"LALO\" T."
+nameCode = "Matugas"
+date = "2025-09-08"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2025-09-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 4803
+congress = 103
+bill_no = "HR00247"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-09-10"

@@ -1,0 +1,107 @@
+billNumber = "HR00049"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HR00049"
+lastScraped = "2025-09-22T00:15:39.289663"
+title = "HR00049"
+longTitle = "RESOLUTION CONGRATULATING THE IGLESIA NI CRISTO ON THE CELEBRATION OF ITS NINETY-THIRD (93RD) ANNIVERSARY"
+scope = "National"
+dateFiled = "2007-07-24"
+status = "Adopted as Resolution No. HR00015 on 2007-11-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MADRONA, ELEANDRO JESUS F."
+coAuthors = [ "LACSON, JOSE CARLOS V.", "DEFENSOR, ARTHUR D.", "ZAMORA, RONALDO B.", "RULES",]
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEFENSOR, ARTHUR D."
+nameCode = "Defensor (A.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora (R.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2007-08-06"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[motherBills]]
+bill_no = "HR00059"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR00059"
+sequence = 1
+flag = "C"
+
+[firstReading]
+id = 73304
+congress = 14
+bill_no = "HR00049"
+report = "00028"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Adoption without amendments in consolidation with House Resolution No. 59."
+remarks = ""
+date_pend = "2007-08-06"
+date_read = "2007-08-06"
+date_ob = "2007-10-09"
+date_report = "2007-10-08"
+
+[secondReading]
+id = 9010
+congress = 14
+bill_no = "HR00049"
+adopted_resolution = "HR00015"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2007-10-09"
+date_approved = "2007-11-06"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00049.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_14/HR00049.pdf"

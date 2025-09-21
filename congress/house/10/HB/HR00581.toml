@@ -1,0 +1,49 @@
+billNumber = "HR00581"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00581"
+lastScraped = "2025-09-22T00:20:59.532515"
+title = "HR00581"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEE ON AGRICULTURE TO EVALUATE, IN AID OF LEGISLATION, THE EFFECTIVENESS OF THE MEDIUM TERM AGRICULTURAL DEVELOPMENT PLAN"
+scope = "National"
+dateFiled = "1996-04-23"
+status = "Pending with the Committee on RULES since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 117635
+congress = 10
+bill_no = "HR00581"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-04-30"

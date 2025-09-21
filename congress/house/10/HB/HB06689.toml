@@ -1,0 +1,49 @@
+billNumber = "HB06689"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06689"
+lastScraped = "2025-09-22T00:20:58.602403"
+title = "HB06689"
+longTitle = "AN ACT IMPOSING THE DEATH PENALTY ON BUSINESS ESTABLISHMENT OWNERS, CORPORATE OFFICERS, MANAGERS AND RESPONSIBLE GOVERNMENT OFFICIALS WHO VIOLATE SAFETY REQUIREMENTS"
+scope = "National"
+dateFiled = "1996-03-22"
+status = "Pending with the Committee on JUSTICE since 1996-03-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "ABLAN, ROQUE JR. R.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-03-27"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 113110
+congress = 10
+bill_no = "HB06689"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-03-27"

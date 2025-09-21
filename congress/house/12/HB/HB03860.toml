@@ -1,0 +1,67 @@
+billNumber = "HB03860"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03860"
+lastScraped = "2025-09-22T00:13:00.495875"
+title = "HB03860"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF INFORMATION TECHNOLOGY AND COMMUNICATIONS, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-11-13"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2001-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Kintanar, Simeon L."
+coAuthors = [ "DEL MAR, RAUL V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Kintanar, Simeon L."
+nameCode = "Kintanar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J070"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 87020
+congress = 12
+bill_no = "HB03860"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2001-11-26"

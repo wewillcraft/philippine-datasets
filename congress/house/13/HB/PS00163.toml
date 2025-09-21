@@ -1,0 +1,47 @@
+billNumber = "PS00163"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00163"
+lastScraped = "2025-09-22T00:13:49.496861"
+title = "PS00163"
+longTitle = "Women in Agriculture"
+scope = "National"
+dateFiled = "2005-03-07"
+status = "Pending with the Committee on WOMEN since 2005-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chavez , Leonila V."
+[[authorsDetail]]
+name = "Chavez , Leonila V."
+nameCode = "Chavez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2005-03-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "secondary"
+referralCode = "E505"
+
+[firstReading]
+id = 82930
+congress = 13
+bill_no = "PS00163"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2005-03-07"

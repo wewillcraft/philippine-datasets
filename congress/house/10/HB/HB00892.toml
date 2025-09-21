@@ -1,0 +1,46 @@
+billNumber = "HB00892"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00892"
+lastScraped = "2025-09-22T00:20:57.526638"
+title = "HB00892"
+longTitle = "AN ACT PROVIDING FOR THE INCREASE OF BED CAPACITY OF ABRA DE ILOG MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF ABRA DE ILOG, PROVINCE OF OCCIDENTAL MINDORO, FROM TEN TO ONE HUNDRED BEDS AND THE IMPROVEMENT OF THE HOSPITAL'S EQUIPMENT, AND AUTHORIZING THE APPROPRIATIONS THEREOF"
+scope = "Local"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on HEALTH since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107313
+congress = 10
+bill_no = "HB00892"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-27"

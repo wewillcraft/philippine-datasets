@@ -1,0 +1,46 @@
+billNumber = "HR00211"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00211"
+lastScraped = "2025-09-21T23:39:49.230986"
+title = "HR00211"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON ISSUES OF SUFFICIENCY, RELIABILITY AND AFFORDABILITY OF ELECTRICITY IN THE PROVINCE OF PALAWAN WITH THE END VIEW OF PROVIDING REASONABLE ENERGY RATES, EFFICIENT POWER DISTRIBUTION, AND SUSTAINABLE SOURCE OF ENERGY SUPPLY FOR PALAWEÑOS"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on ENERGY since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00211.pdf"
+fileSize = 172035
+author = "SALVAME, ROSALIE ANG"
+[[authorsDetail]]
+name = "SALVAME, ROSALIE ANG"
+nameCode = "Salvame"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2025-09-03"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 4767
+congress = 103
+bill_no = "HR00211"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-03"

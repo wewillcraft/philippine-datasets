@@ -1,0 +1,46 @@
+billNumber = "HB07272"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07272"
+lastScraped = "2025-09-22T00:20:58.711183"
+title = "HB07272"
+longTitle = "AN ACT ESTABLISHING THE SOUTHERN ILOILO COLLEGE OF AGRICULTURE AND FORESTRY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-06-06"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113693
+congress = 10
+bill_no = "HB07272"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-06-06"

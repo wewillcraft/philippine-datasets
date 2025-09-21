@@ -1,0 +1,51 @@
+billNumber = "HB05105"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05105"
+lastScraped = "2025-09-22T00:46:57.445152"
+title = "HB05105"
+longTitle = "AN ACT REQUIRING ALL MANUFACTURERS OF DRUGS, MEDICINES AND OTHER SIMILAR SUBSTANCES TO SELL TWENTY-FIVE PER CENT (25%) OF EVERY PRODUCT THEY SELL UNDER GENERIC NAMES INSTEAD OF BRAND NAMES"
+scope = "National"
+dateFiled = "1988-01-27"
+status = "Pending with the Committee on HEALTH since 1988-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+coAuthors = [ "ROA, BENEDICTA B.",]
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-02-03"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 139788
+congress = 8
+bill_no = "HB05105"
+comm_act = "CONSOLIDAT ED WITH HB 109000"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-02-03"

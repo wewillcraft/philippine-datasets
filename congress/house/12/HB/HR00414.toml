@@ -1,0 +1,62 @@
+billNumber = "HR00414"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00414"
+lastScraped = "2025-09-22T00:13:01.229411"
+title = "HR00414"
+longTitle = "RESOLUTION CALLING UPON THE MEMBERS OF CONGRESS TO DECLARE WAR AGAINST TERRORISM"
+scope = "National"
+dateFiled = "2002-02-08"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2002-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+coAuthors = [ "CHATTO, EDGARDO M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J074"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2002-02-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 90352
+congress = 12
+bill_no = "HR00414"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2002-02-18"

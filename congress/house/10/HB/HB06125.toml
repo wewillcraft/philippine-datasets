@@ -1,0 +1,77 @@
+billNumber = "HB06125"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06125"
+lastScraped = "2025-09-22T00:20:58.499515"
+title = "HB06125"
+longTitle = "AN ACT CONSTITUTING THE FIRST ENGINEERING DISTRICT IN THE PROVINCE OF CAMARINES SUR INTO TWO SEPARATE AND DISTINCT ENGINEERING DISTRICTS, ONE TO BE LOCATED IN THE MUNICIPALITY OF LIBMANAN AND THE OTHER IN THE MUNICIPALITY OF CANAMAN, BOTH IN THE PROVINCE OF CAMARINES SUR"
+scope = "Local"
+dateFiled = "1996-02-06"
+status = "Approved on Third Reading on 1998-02-11"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+coAuthors = [ "ANDAYA, ROLANDO R.",]
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANDAYA, ROLANDO R."
+nameCode = "Andaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112546
+congress = 10
+bill_no = "HB06125"
+report = "01445"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-02-12"
+date_ob = "1998-02-03"
+date_report = "1998-02-02"
+
+[secondReading]
+id = 18302
+congress = 10
+bill_no = "HB06125"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2904
+congress = 10
+bill_no = "HB06125"
+date_dist = "1998-02-06"
+date_adopt = "1998-02-11"
+no_yeas = 112
+no_nays = 0
+no_abstent = 0

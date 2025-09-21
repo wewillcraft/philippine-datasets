@@ -1,0 +1,42 @@
+billNumber = "HB08549"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08549"
+lastScraped = "2025-09-22T00:46:58.112490"
+title = "HB08549"
+longTitle = "AN ACT ESTABLISHING A WORLD WAR II NATIONAL SHRINE IN THE CITY OF SILAY, PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson"
+[[authorsDetail]]
+name = "Lacson"
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-05-04"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 143226
+congress = 8
+bill_no = "HB08549"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-05-04"

@@ -1,0 +1,61 @@
+billNumber = "HB00727"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00727"
+lastScraped = "2025-09-21T23:55:20.210990"
+title = "HB00727"
+longTitle = "AN ACT INSTITUTIONALIZING TRANSPORTATION SERVICE CONTRACTING AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-01"
+status = "Pending with the Committee on TRANSPORTATION since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00727.pdf"
+fileSize = 249001
+author = "Salo, Ron P."
+coAuthors = [ "RIVERA, BONG", "PLEYTO, SALVADOR A.",]
+[[authorsDetail]]
+name = "Salo, Ron P."
+nameCode = "Salo"
+date = "2022-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-11-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PLEYTO, SALVADOR A."
+nameCode = "Pleyto"
+date = "2023-01-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 5646
+congress = 19
+bill_no = "HB00727"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

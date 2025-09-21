@@ -1,0 +1,46 @@
+billNumber = "HB05894"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05894"
+lastScraped = "2025-09-22T00:20:58.457418"
+title = "HB05894"
+longTitle = "AN ACT PROVIDING FOR THE CEMENTING OF THE SIX-KILOMETER MALAMAWI-LUKBUT ONG ROAD IN THE MUNICIPALITY OF ISABELA, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112315
+congress = 10
+bill_no = "HB05894"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-01-29"

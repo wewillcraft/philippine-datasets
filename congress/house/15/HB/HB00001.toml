@@ -1,0 +1,108 @@
+billNumber = "HB00001"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB00001"
+lastScraped = "2025-09-21T23:56:40.553997"
+title = "HB00001"
+longTitle = "AN ACT PROVIDING FOR THE NATIONAL DEFENSE AND SECURITY OF THE REPUBLIC OF THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2010-07-01"
+status = "Substituted by HB05460"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB00001.pdf"
+fileSize = 307048
+author = "SINGSON, RONALD V."
+coAuthors = [ "SAKALURAN, RADEN CAMLIAN", "BINAY, MAR-LEN ABIGAIL SOMBILLO", "ALCALA, IRVIN MAAÑO", "ZUBIRI, JOSE MA. III FERNANDEZ",]
+[[authorsDetail]]
+name = "SINGSON, RONALD V."
+nameCode = "Singson (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAKALURAN, RADEN CAMLIAN"
+nameCode = "Sakaluran"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BINAY, MAR-LEN ABIGAIL SOMBILLO"
+nameCode = "Binay"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALCALA, IRVIN MAAÑO"
+nameCode = "Alcala"
+date = ""
+journalNo = "J056"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZUBIRI, JOSE MA. III FERNANDEZ"
+nameCode = "Zubiri"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2010-07-27"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[[motherBills]]
+bill_no = "HB04663"
+sequence = 1
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04663"
+sequence = 1
+flag = "S"
+
+[firstReading]
+id = 55474
+congress = 15
+bill_no = "HB00001"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-07-27"
+
+[secondReading]
+id = 8439
+congress = 15
+bill_no = "HB00001"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = "02203"
+comm_report_action = "recommending its approval in substitution of House Bill No. 04663"
+submitted_on = "2012-05-28"
+remarks = ""
+recommended_reconsidered = " "
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+date_ctte_rules = "2012-05-28"
+action_on_adopted_resolution = ""

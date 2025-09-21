@@ -1,0 +1,54 @@
+billNumber = "HB03169"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03169"
+lastScraped = "2025-09-22T00:20:57.960628"
+title = "HB03169"
+longTitle = "AN ACT AMENDING SECTION 1 AND SUBSECTIONS (a) AND (b) SECTIONS 2 AND 3 OF TITLE I, SUBSECTION (a) OF SECTION 9, SECTIONS 11 AND 13 OF TITLE III OF REPUBLIC ACT NUMBERED THREE HUNDRED FORTY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-04"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-09-07"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109590
+congress = 10
+bill_no = "HB03169"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-09-07"

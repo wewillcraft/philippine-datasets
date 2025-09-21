@@ -1,0 +1,47 @@
+billNumber = "HB02668"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02668"
+lastScraped = "2025-09-22T00:13:00.277068"
+title = "HB02668"
+longTitle = "AN ACT TRANSFERRING THE MAINTENANCE AND OPERATIONS OF THE NORTHWESTERN LEYTE DISTRICT HOSPITAL IN THE MUNICIPALITY OF CALUBIAN, PROVINCE OF LEYTE, TO THE NATIONAL GOVERNMENT, AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "2001-08-24"
+status = "Pending with the Committee on HEALTH since 2001-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso, Eduardo K."
+[[authorsDetail]]
+name = "Veloso, Eduardo K."
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85828
+congress = 12
+bill_no = "HB02668"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-03"

@@ -1,0 +1,41 @@
+billNumber = "HB09300"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09300"
+lastScraped = "2025-09-22T00:20:59.138887"
+title = "HB09300"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF SIPALAY INTO A COMPONENT CITY OF THE PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE CITY OF SIPALAY"
+scope = "Local"
+dateFiled = "1997-04-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alvarez, Genaro Jr. M."
+[[authorsDetail]]
+name = "Alvarez, Genaro Jr. M."
+nameCode = "Alvarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-04-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115721
+congress = 10
+bill_no = "HB09300"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-04-30"

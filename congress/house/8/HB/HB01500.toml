@@ -1,0 +1,42 @@
+billNumber = "HB01500"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01500"
+lastScraped = "2025-09-22T00:46:56.826643"
+title = "HB01500"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF FISHPORT IN BARANGAY SANTISSIMA CRUZ IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-21"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 136195
+congress = 8
+bill_no = "HB01500"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-21"

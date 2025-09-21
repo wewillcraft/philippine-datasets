@@ -1,0 +1,42 @@
+billNumber = "HR01088"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01088"
+lastScraped = "2025-09-22T00:25:57.567190"
+title = "HR01088"
+longTitle = "RESOLUTION COMMENDING DR. PATRICIA B. LICUANAN ON HER BEING ELECTED AS CHAIRPERSON OF THE UNITED NATIONS COMMISSION ON THE STATUS OF WOMEN"
+scope = "Local"
+dateFiled = "1994-06-16"
+status = "Pending with the Committee on WOMEN since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 134395
+congress = 9
+bill_no = "HR01088"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "1994-07-26"

@@ -1,0 +1,65 @@
+billNumber = "HB01170"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01170"
+lastScraped = "2025-09-22T00:46:56.769204"
+title = "HB01170"
+longTitle = "AN ACT TO EXTEND FRANKING PRIVILEGES TO MEMBERS OF CONGRESS"
+scope = "National"
+dateFiled = "1987-09-07"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "ANDOLANA, GREGORIO A.", "IMPERIAL, CARLOS R.", "TEVES, MARGARITO B.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "IMPERIAL, CARLOS R."
+nameCode = "Imperial"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TEVES, MARGARITO B."
+nameCode = "Teves"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 135867
+congress = 8
+bill_no = "HB01170"
+comm_act = "CONSOLIDAT ED WITH HB 02852"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-09-10"

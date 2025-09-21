@@ -1,0 +1,69 @@
+billNumber = "HB00802"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00802"
+lastScraped = "2025-09-22T00:25:54.740660"
+title = "HB00802"
+longTitle = "AN ACT ESTABLISHING A PROVINCIAL HOSPITAL IN THE PROVINCE OF CAMARINES SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-11"
+status = "Pending with the Committee on HEALTH since 1992-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+coAuthors = [ "ANDAYA, ROLANDO R.", "FUENTEBELLA, ARNULFO P.", "BAGUIO, CELSO O.",]
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANDAYA, ROLANDO R."
+nameCode = "Andaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FUENTEBELLA, ARNULFO P."
+nameCode = "Fuentebella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAGUIO, CELSO O."
+nameCode = "Baguio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119421
+congress = 9
+bill_no = "HB00802"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-17"

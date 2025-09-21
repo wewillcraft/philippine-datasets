@@ -1,0 +1,44 @@
+billNumber = "PS00067"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00067"
+lastScraped = "2025-09-21T23:39:49.252687"
+title = "PS00067"
+longTitle = "THE VALUE OF INFORMATION IN EFFECTIVE GOVERNANCE"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on PUBLIC INFORMATION since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "YAMSUAN, BRIAN RAYMUND S."
+[[authorsDetail]]
+name = "YAMSUAN, BRIAN RAYMUND S."
+nameCode = "Yamsuan"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "2025-09-01"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 4902
+congress = 103
+bill_no = "PS00067"
+report = ""
+comm_act = ""
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-01"

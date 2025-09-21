@@ -1,0 +1,47 @@
+billNumber = "HB10915"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10915"
+lastScraped = "2025-09-22T00:25:56.578678"
+title = "HB10915"
+longTitle = "AN ACT PROVIDING FOR THE DEVELOPMENT AND IMPROVEMENT OF THE BADIANG SPRING AT BARANGAY BADIANG IN THE MUNICIPALITY OF VALENCIA, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1993-09-28"
+status = "Pending with the Committee on TOURISM since 1993-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-10-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129532
+congress = 9
+bill_no = "HB10915"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-10-01"

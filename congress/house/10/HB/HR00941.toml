@@ -1,0 +1,72 @@
+billNumber = "HR00941"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00941"
+lastScraped = "2025-09-22T00:20:59.603344"
+title = "HR00941"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON LABOR AND EMPLOYMENT, HEALTH AND GOOD GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF THE MAGNA CARTA FOR PUBLIC HEALTH WORKERS, THE WORSENING PLIGHT OF PRIVATE HEALTH WORKERS NATIONWIDE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-11-06"
+status = "Pending with the Committee on RULES since 1996-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Prado"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Del Prado"
+nameCode = "Del Prado"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-12"
+
+[[committee]]
+name = "INTER-PARLIAMENTARY RELATIONS AND DIPLOMACY"
+type = "principal"
+referralCode = "A505"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117995
+congress = 10
+bill_no = "HR00941"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment , on Health and on"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-12"

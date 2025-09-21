@@ -1,0 +1,41 @@
+billNumber = "HR00399"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00399"
+lastScraped = "2025-09-22T00:20:59.497147"
+title = "HR00399"
+longTitle = "RESOLUTION URGING THE ENERGY REGULATORY BOARD TO WITHDRAW THE THREE (3) CENTAVO OIL PRICE INCREASE PER LITER OF GASOLINE AND TO SUSPEND FURTHER DELIBERATIONS ON ANY PETITION FOR OIL PRICE INCREASE"
+scope = "National"
+dateFiled = "1996-01-10"
+status = "Pending with the Committee on ENERGY since 1996-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-01-23"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117453
+congress = 10
+bill_no = "HR00399"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-01-23"

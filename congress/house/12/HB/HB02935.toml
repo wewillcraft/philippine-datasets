@@ -1,0 +1,47 @@
+billNumber = "HB02935"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02935"
+lastScraped = "2025-09-22T00:13:00.336994"
+title = "HB02935"
+longTitle = "AN ACT ESTABLISHING A HALL OF JUSTICE IN THE JUDICIAL DISTRICT OF THE CITY OF MANILA, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-09-06"
+status = "Pending with the Committee on JUSTICE since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angping"
+[[authorsDetail]]
+name = "Angping"
+nameCode = "Angping"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86095
+congress = 12
+bill_no = "HB02935"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-09-25"

@@ -1,0 +1,42 @@
+billNumber = "HB11852"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11852"
+lastScraped = "2025-09-22T00:25:56.778900"
+title = "HB11852"
+longTitle = "AN ACT APPROPRIATING THE SUM OF P500,000.00 TO THE FAMILY OF NBI AGENT EDMUNDO SSARRET"
+scope = "Local"
+dateFiled = "1994-01-27"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1994-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1994-02-02"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130467
+congress = 9
+bill_no = "HB11852"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1994-02-02"

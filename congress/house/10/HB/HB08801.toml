@@ -1,0 +1,46 @@
+billNumber = "HB08801"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08801"
+lastScraped = "2025-09-22T00:20:59.041063"
+title = "HB08801"
+longTitle = "AN ACT ESTABLISHING THE NEW WASHINGTON NATIONAL COMPREHENSIVE HIGH SCHOOL IN THE MUNICIPALITY OF NEW WASHINGTON, PROVINCE OF AKLAN, TO BE KNOWN AS THE NEW WASHINGTON NATIONAL COMPREHENSIVE HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-27"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-01-29"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115222
+congress = 10
+bill_no = "HB08801"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-01-29"

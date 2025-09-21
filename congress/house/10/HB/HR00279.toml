@@ -1,0 +1,80 @@
+billNumber = "HR00279"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00279"
+lastScraped = "2025-09-22T00:20:59.474672"
+title = "HR00279"
+longTitle = "RESOLUTION REQUESTING THE CLARK DEVELOPMENT CORPORATION TO ALLOCATE TWENTY (20) HECTARES OF THE FORMER CLARK AIR BASE FOR THE RELOCATION OF THE UNIVERSITY OF THE PHILIPPINES EXTENSION PROGRAM CAMPUS IN SAN FERNANDO, PAMPANGA"
+scope = "Local"
+dateFiled = "1995-10-26"
+status = "Adopted as Resolution No. HR00043 on 1996-06-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "LIBAN, DANTE V.", "LUCIANO, LEONOR INES", "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117333
+congress = 10
+bill_no = "HR00279"
+report = "00223"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+recomm = "Adoption"
+date_read = "1995-11-07"
+date_ob = "1996-02-19"
+date_unass = "1996-02-20"
+date_report = "1996-02-14"
+
+[secondReading]
+id = 18945
+congress = 10
+bill_no = "HR00279"
+adopted_resolution = "HR00043"
+date_calendared = "1996-06-05"
+date_approved = "1996-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00043.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00043.pdf"

@@ -1,0 +1,83 @@
+billNumber = "HB00308"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00308"
+lastScraped = "2025-09-22T00:12:59.860939"
+title = "HB00308"
+longTitle = "AN ACT INSTITUTIONALIZ ING THE OPEN HIGH SCHOOL SYSTEM IN THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LAGMAN, CIELO KRISEL"
+coAuthors = [ "JARAULA, CONSTANTINO G.", "VILLAREAL, RAUL L.", "LIBANAN, MARCELINO C.", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "LAGMAN, CIELO KRISEL"
+nameCode = "Lagman-luistro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, RAUL L."
+nameCode = "Villareal"
+date = ""
+journalNo = "J006"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83468
+congress = 12
+bill_no = "HB00308"
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "2001-07-24"

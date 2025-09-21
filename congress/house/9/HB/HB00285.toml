@@ -1,0 +1,47 @@
+billNumber = "HB00285"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00285"
+lastScraped = "2025-09-22T00:25:54.645704"
+title = "HB00285"
+longTitle = "AN ACT CONVERTING THE NEGROS ORIENTAL NATIONAL AGRICULTURAL SCHOOL (NONAS) INTO A STATE COLLEGE, TO BE KNOWN AS NEGROS ORIENTAL STATE COLLEGE OF AGRICULTURE"
+scope = "Local"
+dateFiled = "1992-07-27"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves"
+[[authorsDetail]]
+name = "Teves"
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118904
+congress = 9
+bill_no = "HB00285"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-07-30"

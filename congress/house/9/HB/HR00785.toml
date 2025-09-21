@@ -1,0 +1,53 @@
+billNumber = "HR00785"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00785"
+lastScraped = "2025-09-22T00:25:57.509462"
+title = "HR00785"
+longTitle = "RESOLUTION CONGRATULATING FORMER PRESIDENT DIOSDADO MACAPAGAL ON THE OCCASION OF HIS EIGHTY-THIRD BIRTH ANNIVERSARY ON SEPTEMBER 28, 1993"
+scope = "Local"
+dateFiled = "1993-09-27"
+status = "Adopted as Resolution No. HR00051 on 1993-10-01"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Domingo"
+[[authorsDetail]]
+name = "Domingo"
+nameCode = "Domingo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-10-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 134097
+congress = 9
+bill_no = "HR00785"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-10-01"
+
+[secondReading]
+id = 20142
+congress = 9
+bill_no = "HR00785"
+adopted_resolution = "HR00051"
+date_approved = "1993-10-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00785.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00785.pdf"

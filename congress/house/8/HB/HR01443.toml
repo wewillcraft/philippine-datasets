@@ -1,0 +1,42 @@
+billNumber = "HR01443"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01443"
+lastScraped = "2025-09-22T00:47:02.810185"
+title = "HR01443"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF HON. ALFREDO MONTELIBANO, SR."
+scope = "Local"
+dateFiled = "1989-09-04"
+status = "Pending with the Committee on RULES since 1989-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-09-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171308
+congress = 8
+bill_no = "HR01443"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-09-04"

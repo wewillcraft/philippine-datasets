@@ -1,0 +1,75 @@
+billNumber = "HR00127"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00127"
+lastScraped = "2025-09-22T00:20:59.446779"
+title = "HR00127"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE BENEDICTO G. MIRAN, FORMER MEMBER OF THE EIGHTH AND NINTH CONGRESS OF THE HOUSE OF REPRESENTATIVES REPRESENTING THE LONE DISTRICT OF AURORA PROVINCE"
+scope = "Local"
+dateFiled = "1995-08-21"
+status = "Adopted as Resolution No. HR00010 on 1995-08-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Datumanong ,Simeon A."
+coAuthors = [ "MADRONA, ELEANDRO JESUS F.", "TUPAS, NIEL D.", "TAJON, MARIANO M.",]
+[[authorsDetail]]
+name = "Datumanong ,Simeon A."
+nameCode = "Datumanong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TUPAS, NIEL D."
+nameCode = "Tupas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAJON, MARIANO M."
+nameCode = "Tajon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-08-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117181
+congress = 10
+bill_no = "HR00127"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-08-21"
+
+[secondReading]
+id = 18926
+congress = 10
+bill_no = "HR00127"
+adopted_resolution = "HR00010"
+date_calendared = "1995-08-21"
+date_approved = "1995-08-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00010.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00010.pdf"

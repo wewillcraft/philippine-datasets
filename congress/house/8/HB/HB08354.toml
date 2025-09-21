@@ -1,0 +1,42 @@
+billNumber = "HB08354"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08354"
+lastScraped = "2025-09-22T00:46:58.080770"
+title = "HB08354"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY IMPAO, MUNICIPALITY OF ISULAN, PROVINCE OFSULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1988-04-27"
+status = "Pending with the Committee on HEALTH since 1988-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-03"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 143032
+congress = 8
+bill_no = "HB08354"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-03"

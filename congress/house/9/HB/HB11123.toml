@@ -1,0 +1,57 @@
+billNumber = "HB11123"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11123"
+lastScraped = "2025-09-22T00:25:56.622573"
+title = "HB11123"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 6758, OTHERWISE KNOWN AS THE COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989 AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-10-25"
+status = "Substituted by HR00930"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "AUMENTADO, ERICO B.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1993-11-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 129739
+congress = 9
+bill_no = "HB11123"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1993-11-05"

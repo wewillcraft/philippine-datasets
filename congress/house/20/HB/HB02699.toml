@@ -1,0 +1,46 @@
+billNumber = "HB02699"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02699"
+lastScraped = "2025-09-21T23:39:48.826218"
+title = "HB02699"
+longTitle = "AN ACT CREATING THE PHILIPPINE CENTERS FOR DISEASE PREVENTION AND CONTROL, DEFINING THEIR POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-30"
+status = "Pending with the Committee on HEALTH since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02699.pdf"
+fileSize = 829263
+author = "MARCOS, FERDINAND ALEXANDER A."
+[[authorsDetail]]
+name = "MARCOS, FERDINAND ALEXANDER A."
+nameCode = "Marcos"
+date = "2025-07-30"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 2700
+congress = 103
+bill_no = "HB02699"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

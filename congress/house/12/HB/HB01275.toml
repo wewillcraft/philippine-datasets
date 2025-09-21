@@ -1,0 +1,50 @@
+billNumber = "HB01275"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01275"
+lastScraped = "2025-09-22T00:13:00.034325"
+title = "HB01275"
+longTitle = "AN ACT PROHIBITING THE ESTABLISHMENT OF POLITICAL DYNASTIES"
+scope = "National"
+dateFiled = "2001-07-20"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J012"
+sessionNo = "3RS"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 84435
+congress = 12
+bill_no = "HB01275"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "2001-07-30"

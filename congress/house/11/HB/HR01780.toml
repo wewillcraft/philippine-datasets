@@ -1,0 +1,47 @@
+billNumber = "HR01780"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01780"
+lastScraped = "2025-09-22T00:23:18.285613"
+title = "HR01780"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON BASIC EDUCATION AND CULTURE AND APPROPRIATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, WITH A VIEW TO EXEMPT THE REGIONS IN MINDANAO FROM THE SOCIAL EXPENDITURE MANAGEMENT PROJECT (SEMP), AS IMPLEMENTED BY THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS (DECS)"
+scope = "Local"
+dateFiled = "2000-09-26"
+status = "Pending with the Committee on BASIC EDUCATION since 2000-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Banaag, Leovigildo B."
+[[authorsDetail]]
+name = "Banaag, Leovigildo B."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASIC EDUCATION"
+type = "primary"
+referralCode = "C501"
+dateRead = "2000-10-02"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106234
+congress = 11
+bill_no = "HR01780"
+referral = "C501"
+ref_name = "BASIC EDUCATION"
+sub_name = ""
+date_read = "2000-10-02"

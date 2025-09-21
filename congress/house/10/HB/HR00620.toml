@@ -1,0 +1,52 @@
+billNumber = "HR00620"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00620"
+lastScraped = "2025-09-22T00:20:59.539372"
+title = "HR00620"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON JUSTICE, AGRARIAN REFORM AND HOUSING AND URBAN DEVELOPMENT TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLAITON, ON THE CONTROVERSY INVOLVING THOUSANDS OF OCCUPANTS AND SEVERAL CAIMANTS OF THE CO-CALLED GUIDO ESTATE COMPRISING AT LEAST FOURTEEN (14) BARANGAYS OF BINANGONAN, RIZAL, AND SUBMIT THEIR RECOMMENDATIONS THEREON"
+scope = "Local"
+dateFiled = "1996-05-20"
+status = "Pending with the Committee on JUSTICE since 1996-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[firstReading]
+id = 117674
+congress = 10
+bill_no = "HR00620"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Justice, Agrarian Reform and on Housing"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-05-22"

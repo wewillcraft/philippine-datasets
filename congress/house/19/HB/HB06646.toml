@@ -1,0 +1,68 @@
+billNumber = "HB06646"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06646"
+lastScraped = "2025-09-21T23:55:21.333287"
+title = "HB06646"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA FOR PROBATION AND PAROLE WORKERS; APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-12-13"
+status = "Pending with the Committee on JUSTICE since 2022-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06646.pdf"
+fileSize = 409908
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "YU, DIVINA GRACE", "PRIMICIAS-AGABAS, MARLYN L.", "LOYOLA, ROY M.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2022-12-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "YU, DIVINA GRACE"
+nameCode = "Yu (D.G.)"
+date = "2023-05-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2023-09-11"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY M."
+nameCode = "Loyola"
+date = "2023-09-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2022-12-15"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 11565
+congress = 19
+bill_no = "HB06646"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-12-15"

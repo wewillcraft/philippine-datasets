@@ -1,0 +1,78 @@
+billNumber = "HB01343"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01343"
+lastScraped = "2025-09-22T00:25:54.836074"
+title = "HB01343"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL IN THE MUNICIPALITY OF AGUINALDO, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "REPUBLIC ACT (RA07971) enacted on 1995-03-30"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119962
+congress = 9
+bill_no = "HB01343"
+report = "00808"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1992-08-26"
+date_ob = "1994-08-01"
+date_cal = "1994-08-01"
+date_unass = "1994-08-01"
+date_report = "1994-07-06"
+
+[secondReading]
+id = 19188
+congress = 9
+bill_no = "HB01343"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1994-08-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1465
+congress = 9
+bill_no = "HB01343"
+date_dist = "1994-08-11"
+date_adopt = "1994-08-17"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-08-23"
+date_rec = "1994-08-24"
+date_agram = "1995-02-07"
+amend_ind = "Y"
+act_pres = "A"
+dte_actedp = "1995-03-30"

@@ -1,0 +1,42 @@
+billNumber = "HB00950"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00950"
+lastScraped = "2025-09-22T00:46:56.732641"
+title = "HB00950"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE ROXAS DISTRICT HOSPITAL IN THE MUNICIPALITY OF ROXAS, PROVINCE OF ORIENTAL MINDORO, FROM TWENTY-FIVE TO FIFTY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-01"
+status = "Pending with the Committee on HEALTH since 1987-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-03"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 135647
+congress = 8
+bill_no = "HB00950"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-03"

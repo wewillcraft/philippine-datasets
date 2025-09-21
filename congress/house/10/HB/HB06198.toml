@@ -1,0 +1,54 @@
+billNumber = "HB06198"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06198"
+lastScraped = "2025-09-22T00:20:58.512574"
+title = "HB06198"
+longTitle = "AN ACT CREATING A NATIONAL ALCOHOLISM REHABILITATION CENTER IN LUZON, VISAYAS, AND MINDANAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-08"
+status = "Pending with the Committee on HEALTH since 1996-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romualdo, Pedro P."
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Romualdo, Pedro P."
+nameCode = "Romualdo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-02-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112619
+congress = 10
+bill_no = "HB06198"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-02-13"

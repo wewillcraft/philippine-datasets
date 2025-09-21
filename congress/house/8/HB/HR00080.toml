@@ -1,0 +1,50 @@
+billNumber = "HR00080"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00080"
+lastScraped = "2025-09-22T00:47:02.540527"
+title = "HR00080"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE ANDTHE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE STATE OF THE INVESTIGATIVE ABILITIES AND FACILITIES OF NATIONAL INVESTIGATIVE AGENCIES AND TO RECOMMEND SUCH REMEDIAL MEASURES AS MAY BE NECESSARY UNDER THE CIRCUMSTANCES"
+scope = "National"
+dateFiled = "1987-08-06"
+status = "Pending with the Committee on JUSTICE since 1987-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+coAuthors = [ "ABLAN, ROQUE JR. R.",]
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-08-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 169990
+congress = 8
+bill_no = "HR00080"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-08-06"

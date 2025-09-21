@@ -1,0 +1,47 @@
+billNumber = "HB02281"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02281"
+lastScraped = "2025-09-22T00:13:00.210982"
+title = "HB02281"
+longTitle = "AN ACT ESTABLISHING A SENIOR CITIZENS' ASSISTANCE CENTER IN THE FOURTH LEGISLATIVE DISTRICT, CITY OF MANILA AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-09"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2001-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bacani, Rodolfo C."
+[[authorsDetail]]
+name = "Bacani, Rodolfo C."
+nameCode = "Bacani"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2001-08-15"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85441
+congress = 12
+bill_no = "HB02281"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+date_read = "2001-08-15"

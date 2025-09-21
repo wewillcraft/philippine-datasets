@@ -1,0 +1,47 @@
+billNumber = "HB00601"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00601"
+lastScraped = "2025-09-22T00:12:59.914415"
+title = "HB00601"
+longTitle = "AN ACT MERGING BARANGAY KAUSWAGAN OF THE MUNICIPALITY OF MANJUYOD WITH THE MUNICIPALITY OF MABINAY, ALL IN THE PROVINCE OF NEGROS ORIENTAL, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 2496 AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-04"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Macias, Emilio II C."
+[[authorsDetail]]
+name = "Macias, Emilio II C."
+nameCode = "Macias"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83761
+congress = 12
+bill_no = "HB00601"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-07-24"

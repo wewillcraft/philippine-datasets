@@ -1,0 +1,47 @@
+billNumber = "HB02276"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02276"
+lastScraped = "2025-09-22T00:25:54.997426"
+title = "HB02276"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT/REH ABILITATION OF CALAUAN MUNICIPAL HEALTH CENTER IN THE MUNICIPALITY OF CALAUAN, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on HEALTH since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120895
+congress = 9
+bill_no = "HB02276"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-18"

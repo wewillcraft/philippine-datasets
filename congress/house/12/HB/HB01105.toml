@@ -1,0 +1,64 @@
+billNumber = "HB01105"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01105"
+lastScraped = "2025-09-22T00:13:00.004980"
+title = "HB01105"
+longTitle = "AN ACT TO AMEND REPUBLIC ACT NO. 340, AS AMENDED, WHICH ESTABLISHED A UNIFORM RETIREMENT SYSTEM FOR THE ARMED FORCES OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2001-07-18"
+status = "Pending with the Committee on NATIONAL DEFENSE since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "ESPINA, GERARDO S.", "ESPINO, AMADO JR. T.", "PADILLA, CARLOS M.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J015"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 84265
+congress = 12
+bill_no = "HB01105"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "2001-07-30"

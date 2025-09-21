@@ -1,0 +1,55 @@
+billNumber = "HR01006"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01006"
+lastScraped = "2025-09-22T00:20:59.616138"
+title = "HR01006"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION ON THE ALLEGED FINANCIAL MISMANAGEMENT OF THE V-M-C RURAL ELECTRIC SERVICE COOPERATIVE, INC. (VRESCO) AND ON THE ALLEGED IRREGULARITIES ON LOAN APPROVALOF THE NATIONAL ELECTRIFICATION ADMINISTRATIAO N (NEA)"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on RULES since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marañon"
+coAuthors = [ "LACSON, JOSE CARLOS V.",]
+[[authorsDetail]]
+name = "Marañon"
+nameCode = "Marañon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 118060
+congress = 10
+bill_no = "HR01006"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Dec. 19, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-12"

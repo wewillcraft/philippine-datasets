@@ -1,0 +1,47 @@
+billNumber = "HB05773"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05773"
+lastScraped = "2025-09-22T00:25:55.683140"
+title = "HB05773"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF TABLAS ISLAND EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SAN AGUSTIN, PROVINCE OF ROMBLON FROM TWENTY FIVE TO FIFTY BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-11"
+status = "Pending with the Committee on HEALTH since 1992-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MADRONA, ELEANDRO JESUS F."
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-16"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124392
+congress = 9
+bill_no = "HB05773"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-16"

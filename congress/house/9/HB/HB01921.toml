@@ -1,0 +1,42 @@
+billNumber = "HB01921"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01921"
+lastScraped = "2025-09-22T00:25:54.937455"
+title = "HB01921"
+longTitle = "AN ACT TOTALLY PROHIBITING THE EXPORTATION OF FIBERS (BUNTAL) OR FILAMENTS OF THE PLANT COMMONLY KNOWN AS 'BURI' OR SEEDS OR SEEDLINGS THEREOF, REPEALING FOR THIS PURPOSE PRESIDENTIAL DECREE NUMBERED ONE HUNDRED AND EIGHTY"
+scope = "National"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on ECOLOGY since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 120540
+congress = 9
+bill_no = "HB01921"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1992-09-03"

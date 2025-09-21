@@ -1,0 +1,46 @@
+billNumber = "HB10836"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10836"
+lastScraped = "2025-09-22T00:01:47.316444"
+title = "HB10836"
+longTitle = "AN ACT GRANTING DISCOUNT PRIVILEGES TO MEDICAL FRONTLINERS"
+scope = "National"
+dateFiled = "2022-05-04"
+status = "Pending with the Committee on HEALTH since 2022-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10836.pdf"
+fileSize = 502516
+author = "Cabochan, Manuel III DG."
+[[authorsDetail]]
+name = "Cabochan, Manuel III DG."
+nameCode = "Cabochan"
+date = "2022-05-04"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-05-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30240
+congress = 18
+bill_no = "HB10836"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-05-23"

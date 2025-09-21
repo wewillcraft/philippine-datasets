@@ -1,0 +1,46 @@
+billNumber = "PS00151"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00151"
+lastScraped = "2025-09-21T23:56:42.669807"
+title = "Motor Vehicles Overloading"
+longTitle = ""
+scope = "National"
+dateFiled = "2011-01-24"
+status = "Pending with the Committee on TRANSPORTATION since 2012-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ting, Randolph S."
+[[authorsDetail]]
+name = "Ting, Randolph S."
+nameCode = "Ting"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2012-01-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 65638
+congress = 15
+bill_no = "PS00151"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2012-01-24"

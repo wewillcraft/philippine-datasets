@@ -1,0 +1,47 @@
+billNumber = "HB04060"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB04060"
+lastScraped = "2025-09-22T00:23:16.272517"
+title = "HB04060"
+longTitle = "AN ACT PROVIDING FOR THE REHABILITATION OF DAY-CARE CENTER IN BARANGAY 52 ZONE-4 IN THE FIRST CONGRESSIONAL DISTRICT OF THE CITY OF MANILA AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-09-30"
+status = "Pending with the Committee on SOCIAL SERVICES since 1998-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nieva, Ernesto 'Banzai' A."
+[[authorsDetail]]
+name = "Nieva, Ernesto 'Banzai' A."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1998-10-06"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 95500
+congress = 11
+bill_no = "HB04060"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1998-10-06"

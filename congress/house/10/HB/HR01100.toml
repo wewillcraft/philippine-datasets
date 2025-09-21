@@ -1,0 +1,53 @@
+billNumber = "HR01100"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01100"
+lastScraped = "2025-09-22T00:20:59.637927"
+title = "HR01100"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO INQUIRE, IN AID OF LEGISLATION, INTO THE PERFORMANCE OF THE WINNING BIDDER IN THE CONSTRUCTION OF THE NINOY AQUINO INTERNATIONAL AIRPORT (NAIA) TERMINAL"
+scope = "Local"
+dateFiled = "1997-02-18"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-02-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-02-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118154
+congress = 10
+bill_no = "HR01100"
+report = "00995"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+recomm = "Approval"
+date_read = "1997-02-20"
+date_ob = "1997-07-27"
+date_report = "1997-06-10"

@@ -1,0 +1,42 @@
+billNumber = "HB10981"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10981"
+lastScraped = "2025-09-22T00:46:58.503372"
+title = "HB10981"
+longTitle = "AN ACT ESTABLISHING A TEN-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF TUBUNGAN, PROVINCEOF ILOILO, TO BE KNOWN AS THE TUBUNGAN MUNICIPAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-25"
+status = "Pending with the Committee on HEALTH since 1988-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-30"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 145650
+congress = 8
+bill_no = "HB10981"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-30"

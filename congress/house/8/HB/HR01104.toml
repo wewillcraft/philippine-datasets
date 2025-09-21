@@ -1,0 +1,64 @@
+billNumber = "HR01104"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01104"
+lastScraped = "2025-09-22T00:47:02.752414"
+title = "HR01104"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECONOMIC AFFAIRS AND RURAL DEVELOPMENT OF THE HOUSE OF REPRESENTATIVES TO CONDUCT A JOINT INQUIRY IN AID OF LEGISLATION ON THE PERFORMANCE AND STATUS OF ALL INTEGRATED AREA DEVELOPMENT PROJECTS IN THE COUNTRY"
+scope = "National"
+dateFiled = "1989-01-23"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1989-01-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ong"
+coAuthors = [ "CABOCHAN, JOSE L.", "MONFORT, NARCISO D.", "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Ong"
+nameCode = "Ong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CABOCHAN, JOSE L."
+nameCode = "Cabochan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "536"
+dateRead = "1989-01-26"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 170978
+congress = 8
+bill_no = "HR01104"
+referral = "536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1989-01-26"

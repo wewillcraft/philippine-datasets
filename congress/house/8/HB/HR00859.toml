@@ -1,0 +1,42 @@
+billNumber = "HR00859"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00859"
+lastScraped = "2025-09-22T00:47:02.694123"
+title = "HR00859"
+longTitle = "RESOLUTION REQUESTING AN URGENT INVESTIGATION ON THE STATUS OF ALL WATERWORKS PROJECTS ASSISTED ANDUNDERTAKEN BY THE DEFUNCT RURAL WATERWORKS AND DEVELOPMENT CORPORATION, (RDUC) AND TO SUBMIT FULL REPORT ON THE MATTER"
+scope = "National"
+dateFiled = "1988-08-18"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1988-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1988-08-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170740
+congress = 8
+bill_no = "HR00859"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1988-08-23"

@@ -1,0 +1,64 @@
+billNumber = "HR01072"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01072"
+lastScraped = "2025-09-22T00:25:57.563461"
+title = "HR01072"
+longTitle = "RESOLUTION DECLARING THE JOURNAL OF THE SESSION TODAY, JUNE 2, 1994, AS HAVING BEEN READ AND APPROVED"
+scope = "National"
+dateFiled = "1994-06-01"
+status = "Adopted as Resolution No. HR00075 on 1994-06-02"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Ronaldo B."
+coAuthors = [ "PEREZ, HERNANDO B.",]
+[[authorsDetail]]
+name = "Zamora, Ronaldo B."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-06-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134379
+congress = 9
+bill_no = "HR01072"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-06-02"
+date_ob = "1994-06-02"
+date_cal = "1994-06-02"
+date_unass = "1994-06-02"
+
+[secondReading]
+id = 20171
+congress = 9
+bill_no = "HR01072"
+adopted_resolution = "HR00075"
+date_approved = "1994-06-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01072.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01072.pdf"

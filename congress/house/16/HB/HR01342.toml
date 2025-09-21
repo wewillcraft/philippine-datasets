@@ -1,0 +1,76 @@
+billNumber = "HR01342"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01342"
+lastScraped = "2025-09-21T23:56:23.042292"
+title = "HR01342"
+longTitle = "A RESOLUTION CONGRATULATING RANDY HALASAN, FILIPINO TEACHER, FOR BEING AMONG 2014 RECIPIENTS OF THE RAMON MAGSAYSAY AWARDS"
+scope = "National"
+dateFiled = "2014-08-05"
+status = "Adopted as Resolution No. HR00119 on 2014-08-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2014-08-05"
+sequence = 1
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2014-08-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HR01359"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01359"
+sequence = 1
+flag = "C"
+
+[firstReading]
+id = 53739
+congress = 16
+bill_no = "HR01342"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-08-12"
+
+[secondReading]
+id = 5368
+congress = 16
+bill_no = "HR01342"
+adopted_resolution = "HR00119"
+adopted_resolution_title = "RESOLUTION CONGRATULATING RANDY HALASAN, A FILIPINO TEACHER FOR BEING A RECIPIENT OF THE 2014 RAMON MAGSAYSAY AWARDS"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2014-08-12"
+date_approved = "2014-08-12"
+adopted_resolution_with_amendment = "Y"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01342.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_16/HR01342.pdf"

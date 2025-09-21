@@ -1,0 +1,49 @@
+billNumber = "HB01234"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01234"
+lastScraped = "2025-09-22T00:20:57.586234"
+title = "HB01234"
+longTitle = "AN ACT PROVIDING FOR THE PROMOTION AND ENCOURAGEMENT OF PEOPLE'S AND NON-GOVERNMENTA L ORGANIZATIONS, ESTABLISHING ADEQUATE CONSULTATION MECHANISMS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-25"
+status = "Substituted by HB08021"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "LAUREL-TRINIDAD, MILAGROS",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LAUREL-TRINIDAD, MILAGROS"
+nameCode = "Laurel-trinidad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PEOPLES PARTICIPATION"
+type = "primary"
+referralCode = "0527"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 107655
+congress = 10
+bill_no = "HB01234"
+referral = "0527"
+ref_name = "PEOPLES PARTICIPATION"
+date_read = "1995-07-31"

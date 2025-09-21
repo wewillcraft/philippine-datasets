@@ -1,0 +1,41 @@
+billNumber = "HB08831"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08831"
+lastScraped = "2025-09-22T00:20:59.046450"
+title = "HB08831"
+longTitle = "AN ACT CHANGING THE NAME OF THE PASSI DISTRICT HOSPITAL IN THE MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, TO DON VALERIO PALMARES, SR. MEMORIAL HOSPITAL"
+scope = "Local"
+dateFiled = "1997-01-29"
+status = "Pending with the Committee on HEALTH since 1997-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-02-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 115252
+congress = 10
+bill_no = "HB08831"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-02-03"

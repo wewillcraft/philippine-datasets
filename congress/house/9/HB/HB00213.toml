@@ -1,0 +1,82 @@
+billNumber = "HB00213"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00213"
+lastScraped = "2025-09-22T00:25:54.631659"
+title = "HB00213"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE ORIENTAL MINDORO PROVINCIAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-20"
+status = "Approved by the House on 1994-08-17, transmitted to on 1994-08-23 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+coAuthors = [ "GORDON, KATHERINE H.",]
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GORDON, KATHERINE H."
+nameCode = "Gordon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118832
+congress = 9
+bill_no = "HB00213"
+report = "00793"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1992-07-29"
+date_ob = "1994-08-01"
+date_cal = "1994-08-01"
+date_unass = "1994-08-01"
+date_report = "1994-06-20"
+
+[secondReading]
+id = 19093
+congress = 9
+bill_no = "HB00213"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1994-08-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1375
+congress = 9
+bill_no = "HB00213"
+date_dist = "1994-08-08"
+date_adopt = "1994-08-17"
+no_yeas = 138
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-08-23"
+date_rec = "1994-08-24"

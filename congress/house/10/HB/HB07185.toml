@@ -1,0 +1,41 @@
+billNumber = "HB07185"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07185"
+lastScraped = "2025-09-22T00:20:58.695362"
+title = "HB07185"
+longTitle = "AN ACT NAMING THE LOAY RIVER QUAY AS SENATOR OLEGARIO B. CLARIN RIVER QUAY"
+scope = "Local"
+dateFiled = "1996-05-30"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 113606
+congress = 10
+bill_no = "HB07185"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-06-04"

@@ -1,0 +1,47 @@
+billNumber = "HB04549"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04549"
+lastScraped = "2025-09-22T00:25:55.450843"
+title = "HB04549"
+longTitle = "AN ACT ESTABLISHING THE BANAOANG PUBLIC RESERVE AND MARINE PARK, PROVIDING FUNDS FOR ITS ANNUAL OPERATIONS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-05"
+status = "Pending with the Committee on ECOLOGY since 1992-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1992-11-11"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123168
+congress = 9
+bill_no = "HB04549"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1992-11-11"

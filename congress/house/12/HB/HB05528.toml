@@ -1,0 +1,62 @@
+billNumber = "HB05528"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05528"
+lastScraped = "2025-09-22T00:13:00.840556"
+title = "HB05528"
+longTitle = "AN ACT INCREASING THE SALARY GRADE OF PUBLIC SCHOOL TEACHERS FROM SALARY GRADE (10) TO (20) AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2002-12-02"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+coAuthors = [ "CALALAY, REYNALDO A.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J036"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-12-10"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 88683
+congress = 12
+bill_no = "HB05528"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-12-10"

@@ -1,0 +1,49 @@
+billNumber = "HJR0019"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0019"
+lastScraped = "2025-09-22T00:20:59.422822"
+title = "HJR0019"
+longTitle = "JOINT RESOLUTION RESETTING THE GENERAL REGISTRATION OF VOTERS FROM JUNE TO OCTOBER, 1997"
+scope = "National"
+dateFiled = "1997-05-19"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1997-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1997-05-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117046
+congress = 10
+bill_no = "HJR0019"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+date_read = "1997-05-21"

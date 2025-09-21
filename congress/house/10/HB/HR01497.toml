@@ -1,0 +1,41 @@
+billNumber = "HR01497"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01497"
+lastScraped = "2025-09-22T00:20:59.709042"
+title = "HR01497"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ACCOUNTS TO LOOK INTO THE CONTRACTS ENTERED INTO BY AND BETWEEN THE HOUSE OF REPRESENTATIVES AND FORTUNE CARE (HMO) FOR THE PURPOSE OF CORRECTING LOOPHOLES IN THE EFFECTIVITY DATES OF SUCH CONTRACTS THAT MAY HAVE SHORTCHANGED HOUSE OF REPRESENTATIVES EMPLOYEES"
+scope = "Local"
+dateFiled = "1998-01-21"
+status = "Pending with the Committee on ACCOUNTS since 1998-01-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "0501"
+dateRead = "1998-01-26"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 118551
+congress = 10
+bill_no = "HR01497"
+referral = "0501"
+ref_name = "ACCOUNTS"
+date_read = "1998-01-26"

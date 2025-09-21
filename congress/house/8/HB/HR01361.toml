@@ -1,0 +1,42 @@
+billNumber = "HR01361"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01361"
+lastScraped = "2025-09-22T00:47:02.798273"
+title = "HR01361"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE CONTROVERSIAL RULING OF THE BUREAU OF INTERNAL REVENUE"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 171229
+congress = 8
+bill_no = "HR01361"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-07-25"

@@ -1,0 +1,61 @@
+billNumber = "HB04293"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04293"
+lastScraped = "2025-09-21T23:55:20.832422"
+title = "HB04293"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE EAR, NOSE AND THROAT (ENT) CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-08-31"
+status = "Pending with the Committee on HEALTH since 2022-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04293.pdf"
+fileSize = 555186
+author = "ROMUALDO, JURDIN JESUS M."
+coAuthors = [ "CARI, CARL NICOLAS C.", "ADIONG, ZIAUR-RAHMAN ALONTO ADIONG",]
+[[authorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = "2022-08-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CARI, CARL NICOLAS C."
+nameCode = "Cari"
+date = "2023-02-09"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ADIONG, ZIAUR-RAHMAN ALONTO ADIONG"
+nameCode = "Adiong"
+date = "2023-02-15"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 9212
+congress = 19
+bill_no = "HB04293"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-05"

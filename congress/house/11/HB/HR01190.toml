@@ -1,0 +1,53 @@
+billNumber = "HR01190"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01190"
+lastScraped = "2025-09-22T00:23:18.169324"
+title = "HR01190"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATION TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE SEVERANCE OF SUBMARINE POWER CABLES IN THE VISAYAS BY ELECTRONIC TELEPHONE SYSTEMS, INC. AND THE LATTER'S FAILURE TO PAY THEGOVERNMENT FOR DAMAGES INFLICTED"
+scope = "Local"
+dateFiled = "1999-10-13"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1999-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suplico, Rolex T."
+[[authorsDetail]]
+name = "Suplico, Rolex T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1999-11-08"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[motherBills]]
+bill_no = "HR01217"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01217"
+flag = "S"
+
+[firstReading]
+id = 105646
+congress = 11
+bill_no = "HR01190"
+report = "01298"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = "TRANSPORTATION AND COMMUNICATIONS"
+recomm = "See pages 4 - 5 of Ctte. Rpt. No. 1298."
+date_read = "1999-11-08"
+date_report = "2000-11-14"

@@ -1,0 +1,104 @@
+billNumber = "HR00612"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00612"
+lastScraped = "2025-09-22T00:20:59.537070"
+title = "HR00612"
+longTitle = "RESOLUTION AWARDING A CONGRSSIONAL COMMENDATION TO SPO2 ROGELIO SOLOMON OF THE POLICE AVIATION SECURITY COMMAND (PASCOM)FOR EXEMPLARY DISPLAY OF HONESTY, INTEGRITY AND DEDICATION TO DUTY"
+scope = "Local"
+dateFiled = "1996-05-13"
+status = "Adopted as Resolution No. HR00051 on 1996-06-08"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "ACOSTA, SOCORRO O.", "PUBLIC ORDER AND SECURITY",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ACOSTA, SOCORRO O."
+nameCode = "Acosta"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUBLIC ORDER AND SECURITY"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-05-15"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HR00336"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00353"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00366"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00414"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00336"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00353"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00366"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00414"
+flag = "S"
+
+[firstReading]
+id = 117666
+congress = 10
+bill_no = "HR00612"
+report = "00396"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption, in substituti on of House Resolution Nos. 336, 353 and 414."
+date_read = "1996-05-15"
+date_ob = "1996-05-15"
+date_report = "1996-05-13"
+
+[secondReading]
+id = 18971
+congress = 10
+bill_no = "HR00612"
+adopted_resolution = "HR00051"
+date_calendared = "1996-06-08"
+date_approved = "1996-06-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00051.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00051.pdf"

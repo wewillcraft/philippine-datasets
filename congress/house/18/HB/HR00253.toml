@@ -1,0 +1,47 @@
+billNumber = "HR00253"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00253"
+lastScraped = "2025-09-22T00:01:47.384513"
+title = "HR00253"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY IN AID OF LEGISLATION TO CURB THE PROLIFERATION OF COUNTERFEIT MEDICINES"
+scope = "National"
+dateFiled = "2019-08-20"
+status = "Pending with the Committee on HEALTH since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00253.pdf"
+fileSize = 297528
+author = "Delos Santos, Alfred C."
+[[authorsDetail]]
+name = "Delos Santos, Alfred C."
+nameCode = "Delos Santos (A)"
+date = "2019-08-20"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 30581
+congress = 18
+bill_no = "HR00253"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-28"

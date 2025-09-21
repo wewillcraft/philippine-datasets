@@ -1,0 +1,56 @@
+billNumber = "HB07680"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07680"
+lastScraped = "2025-09-22T00:20:58.781991"
+title = "HB07680"
+longTitle = "AN ACT IMPOSING STIFFER PENALTIES FOR THEFT OF AGRICULTURAL PRODUCTS IN THEIR ORIGINAL STATE"
+scope = "National"
+dateFiled = "1996-08-05"
+status = "Pending with the Committee on JUSTICE since 1996-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+coAuthors = [ "RAMIREZ, JOSE T.", "DE VENECIA, JOSE JR. C.",]
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, JOSE JR. C."
+nameCode = "De Venecia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 114101
+congress = 10
+bill_no = "HB07680"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-08-07"

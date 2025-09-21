@@ -1,0 +1,46 @@
+billNumber = "HB04865"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04865"
+lastScraped = "2025-09-22T00:20:58.273455"
+title = "HB04865"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MINI-HYDRO PLANT IN THE MUNICIPALITY OF CALABANGA, CAMARINES SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-07"
+status = "Pending with the Committee on ENERGY since 1995-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-11-13"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111286
+congress = 10
+bill_no = "HB04865"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-11-13"

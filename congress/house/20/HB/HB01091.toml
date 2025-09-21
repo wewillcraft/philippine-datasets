@@ -1,0 +1,46 @@
+billNumber = "HB01091"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01091"
+lastScraped = "2025-09-21T23:39:48.515147"
+title = "HB01091"
+longTitle = "AN ACT INSTITUTING A DRIVER EDUCATION PROGRAM, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-02"
+status = "Pending with the Committee on TRANSPORTATION since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01091.pdf"
+fileSize = 3589614
+author = "DY, FAUSTINO MICHAEL CARLOS III T."
+[[authorsDetail]]
+name = "DY, FAUSTINO MICHAEL CARLOS III T."
+nameCode = "Dy (F.M.C.)"
+date = "2025-07-02"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 1092
+congress = 103
+bill_no = "HB01091"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

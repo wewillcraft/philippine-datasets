@@ -1,0 +1,47 @@
+billNumber = "HB02524"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02524"
+lastScraped = "2025-09-22T00:25:55.046105"
+title = "HB02524"
+longTitle = "AN ACT ESTABLISHING A COMMUNITY EMPLOYMENT CENTER IN THE MUNICIPALITY OF ANGONO, PROVINCE OF RIZAL, TO BE KOWN AS THE ANGONO EMPLOYMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-14"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sanchez"
+[[authorsDetail]]
+name = "Sanchez"
+nameCode = "Sanchez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121143
+congress = 9
+bill_no = "HB02524"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1992-09-21"

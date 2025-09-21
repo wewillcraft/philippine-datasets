@@ -1,0 +1,46 @@
+billNumber = "HB07827"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07827"
+lastScraped = "2025-09-22T00:20:58.849859"
+title = "HB07827"
+longTitle = "AN ACT ESTABLISHING THE SOUTHERN LEYTE STATE COLLEGE OF FISHERIES AND MARITIME SCIENCE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-27"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-08-29"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114248
+congress = 10
+bill_no = "HB07827"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-08-29"

@@ -1,0 +1,75 @@
+billNumber = "HR00658"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00658"
+lastScraped = "2025-09-22T00:20:59.548744"
+title = "HR00658"
+longTitle = "RESOLUTION CALLING UPON THE EUROPEAN PARLIAMENT FOR FAIR TREATMENT ON THE PHILIPPINE NATURAL GRADE CARRAGEENAN ISSUE"
+scope = "National"
+dateFiled = "1996-06-03"
+status = "Adopted as Resolution No. HR00042 on 1996-06-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "AUMENTADO, ERICO B.", "GERONIMO, ADOLFO R.", "JAAFAR, NUR G.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GERONIMO, ADOLFO R."
+nameCode = "Geronimo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JAAFAR, NUR G."
+nameCode = "Jaafar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117712
+congress = 10
+bill_no = "HR00658"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-06-04"
+
+[secondReading]
+id = 18975
+congress = 10
+bill_no = "HR00658"
+adopted_resolution = "HR00042"
+date_calendared = "1996-06-04"
+date_approved = "1996-06-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00042.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00042.pdf"

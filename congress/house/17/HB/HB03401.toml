@@ -1,0 +1,60 @@
+billNumber = "HB03401"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03401"
+lastScraped = "2025-09-21T23:55:44.756126"
+title = "HB03401"
+longTitle = "AN ACT INCREASING THE PATERNITY LEAVE FROM SEVEN (7) DAYS TO FIFTEEN (15) DAYS, AMENDING FOR THIS PURPOSE SECTIONS 2 AND 3 OF REPUBLIC ACT NO. 8187, OTHERWISE KNOWN AS 'THE PATERNITY LEAVE ACT OF 1996'"
+scope = "National"
+dateFiled = "2016-08-31"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2017-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03401.pdf"
+fileSize = 280647
+author = "Pimentel, Johnny Ty"
+coAuthors = [ "SARMIENTO, EDGAR S.",]
+[[authorsDetail]]
+name = "Pimentel, Johnny Ty"
+nameCode = "Pimentel"
+date = "2016-08-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, EDGAR S."
+nameCode = "Sarmiento (E.M.)"
+date = "2017-03-15"
+journalNo = "J083"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2016-09-06"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 36869
+congress = 17
+bill_no = "HB03401"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-07-26"
+date_read = "2016-09-06"

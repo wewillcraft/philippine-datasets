@@ -1,0 +1,46 @@
+billNumber = "HB00451"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00451"
+lastScraped = "2025-09-22T00:20:57.456713"
+title = "HB00451"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WATERWORKS SYSTEM IN BARANGAY PAWAK, MUNICIPALITY OF SAGUIARAN, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING TWO HUNDRED THOUSAND PESOS (P200,00.00) THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-07"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106872
+congress = 10
+bill_no = "HB00451"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-07-26"

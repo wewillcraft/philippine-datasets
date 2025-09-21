@@ -1,0 +1,67 @@
+billNumber = "HB04427"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04427"
+lastScraped = "2025-09-21T23:55:20.854505"
+title = "HB04427"
+longTitle = "AN ACT REGULATING THE USE OF BICYCLE AS AN ALTERNATIVE MODE OF\r\nTRANSPORTATION, DEFINING THE RIGHTS OF BICYCLE RIDERS,\r\nESTABLISHING REQUISITE INFRASTRUCTURE FACILITIES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-09-05"
+status = "Pending with the Committee on TRANSPORTATION since 2023-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04427.pdf"
+fileSize = 349041
+author = "Zubiri, Jose Maria Jr. R."
+coAuthors = [ "ESPARES, FELIMON M.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = "2022-09-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPARES, FELIMON M."
+nameCode = "Espares"
+date = "2023-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-09-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-09-07"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "SUSTAINABLE DEVELOPMENT GOALS"
+type = "secondary"
+referralCode = "I501"
+
+[firstReading]
+id = 9346
+congress = 19
+bill_no = "HB04427"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-08-01"
+date_read = "2022-09-07"

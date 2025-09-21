@@ -1,0 +1,61 @@
+billNumber = "HR00717"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00717"
+lastScraped = "2025-09-22T00:20:59.560575"
+title = "HR00717"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE PANFILO M. MANGUERA, FORMER REPRESENTATIVE OF THE LONE DISTRICT OF MARINDUQUE"
+scope = "Local"
+dateFiled = "1996-07-22"
+status = "Adopted as Resolution No. HR00056 on 1996-07-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-25"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 117771
+congress = 10
+bill_no = "HR00717"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-25"
+
+[secondReading]
+id = 18986
+congress = 10
+bill_no = "HR00717"
+adopted_resolution = "HR00056"
+date_calendared = "1996-07-25"
+date_approved = "1996-07-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00056.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00056.pdf"

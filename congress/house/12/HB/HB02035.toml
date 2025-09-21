@@ -1,0 +1,62 @@
+billNumber = "HB02035"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02035"
+lastScraped = "2025-09-22T00:13:00.168905"
+title = "HB02035"
+longTitle = "AN ACT ESTABLISHING A LEGAL RESEARCH UNIT IN EACH OF THE FIVE (5) DIVISIONS OF THE NATIONAL LABOR RELATIONS COMMISSION (NLRC), AMENDING FOR THIS PURPOSE ARTICLE 213 OF THE LABOR CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2001-08-06"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chatto, Edgar M."
+coAuthors = [ "NOGRALES, PROSPERO C.", "ESPINOSA, EDGAR T.",]
+[[authorsDetail]]
+name = "Chatto, Edgar M."
+nameCode = "Chatto"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO C."
+nameCode = "Nograles"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINOSA, EDGAR T."
+nameCode = "Espinosa"
+date = ""
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85195
+congress = 12
+bill_no = "HB02035"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-08-13"

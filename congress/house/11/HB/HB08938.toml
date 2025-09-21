@@ -1,0 +1,41 @@
+billNumber = "HB08938"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08938"
+lastScraped = "2025-09-22T00:23:17.231816"
+title = "HB08938"
+longTitle = "AN ACT PROVIDING FOR ADDITIONAL CAUSE FOR ARREST WITHOUT WARRANT"
+scope = "National"
+dateFiled = "1999-12-15"
+status = "Pending with the Committee on JUSTICE since 1999-12-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1999-12-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 100372
+congress = 11
+bill_no = "HB08938"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1999-12-21"

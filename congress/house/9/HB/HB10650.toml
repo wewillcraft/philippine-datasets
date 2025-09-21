@@ -1,0 +1,55 @@
+billNumber = "HB10650"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10650"
+lastScraped = "2025-09-22T00:25:56.527912"
+title = "HB10650"
+longTitle = "AN ACT IMPLEMENTING THE MANDATORY AND PERIODIC DRUG TESTING UNDER THE SUPERVISION OF THE DEPARTMENT OF HEALTH AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-09-01"
+status = "Pending with the Committee on HEALTH since 1993-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "SANCHEZ, MANUEL R.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANCHEZ, MANUEL R."
+nameCode = "Sanchez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-09-07"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129268
+congress = 9
+bill_no = "HB10650"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-09-07"

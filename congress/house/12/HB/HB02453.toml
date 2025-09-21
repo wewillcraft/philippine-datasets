@@ -1,0 +1,42 @@
+billNumber = "HB02453"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02453"
+lastScraped = "2025-09-22T00:13:00.240040"
+title = "HB02453"
+longTitle = "AN ACT PROVIDING THAT BRAIN TUMOR OR BRAIN CANCER BE CONSIDERED AS AN OCCUPATIONAL DISEASE"
+scope = "National"
+dateFiled = "2001-08-16"
+status = "Pending with the Committee on HEALTH since 2001-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-22"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 85613
+congress = 12
+bill_no = "HB02453"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-22"

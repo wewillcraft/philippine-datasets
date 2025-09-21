@@ -1,0 +1,46 @@
+billNumber = "HB06594"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06594"
+lastScraped = "2025-09-22T00:20:58.586182"
+title = "HB06594"
+longTitle = "AN ACT ESTABLISHING A FARMERS' TRAINING CENTER IN THE MUNICIPALITY OF DUERO, PROVINCE OF BOHOL, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-03-15"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-03-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-03-20"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113015
+congress = 10
+bill_no = "HB06594"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-03-20"

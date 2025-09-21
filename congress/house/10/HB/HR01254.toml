@@ -1,0 +1,49 @@
+billNumber = "HR01254"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01254"
+lastScraped = "2025-09-22T00:20:59.666118"
+title = "HR01254"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH THE APPROPRIATE COMMITTEES, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE STATE OF DRUG TRAFFICKING AND ABUSE IN THE PHILIPPINES, WITH THE END IN VIEW OF RECOMMENDING MEASURES TO ENHANCE GOVERNMENT'S EFFORTS TO COMBAT THE CONTINUING TRAFFIC AND ABUSE OF ILLEGAL SUBSTANCES IN THE COUNTRY"
+scope = "National"
+dateFiled = "1997-06-10"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-07-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118308
+congress = 10
+bill_no = "HR01254"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-07-29"

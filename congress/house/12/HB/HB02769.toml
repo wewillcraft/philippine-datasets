@@ -1,0 +1,42 @@
+billNumber = "HB02769"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02769"
+lastScraped = "2025-09-22T00:13:00.294784"
+title = "HB02769"
+longTitle = "AN ACT REVERTING BACK TO THE NATIONAL GOVERNMENT, PARTICULARLY TO THE DEPARTMENT OF HEALTH (DOH), BILIRAN PROVINCIAL HOSPITAL, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE \"LOCAL GOVERNMENT CODE\""
+scope = "Local"
+dateFiled = "2001-08-30"
+status = "Pending with the Committee on HEALTH since 2001-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-05"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 85929
+congress = 12
+bill_no = "HB02769"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-05"

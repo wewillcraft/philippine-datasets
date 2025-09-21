@@ -1,0 +1,42 @@
+billNumber = "HR01263"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01263"
+lastScraped = "2025-09-22T00:47:02.778488"
+title = "HR01263"
+longTitle = "RESOLUTION REQUESTING THE GOVERNMENT SERVICE INSURANCE SYSTEM TO ESTABLISH A BRANCH OFFICE IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE,TO EXPIDITE THE PROCESSING OF PAPERS AND PROVIDE EASY CREDIT FACILITIES THEREIN"
+scope = "Local"
+dateFiled = "1989-04-24"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES since 1989-04-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1989-04-27"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 171132
+congress = 8
+bill_no = "HR01263"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = ""
+date_read = "1989-04-27"

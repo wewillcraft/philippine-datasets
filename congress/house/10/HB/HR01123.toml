@@ -1,0 +1,63 @@
+billNumber = "HR01123"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01123"
+lastScraped = "2025-09-22T00:20:59.642665"
+title = "HR01123"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON APPROPRIATIONS AND AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE POLICIES AND PROCEDURES OF THE DEPARTMENT OF AGRICULTURE AND THE NATIONAL FOOD AUTHORITY CONCERNING THE IMPORTATIONOF AGRICULTURAL PRODUCTS, PARTICULARLY ON THE TARIFF TREATMENT AND THE UTILIZATION OF EARNINGS OF SAID IMPORTATIONS"
+scope = "National"
+dateFiled = "1997-03-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-03-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118177
+congress = 10
+bill_no = "HR01123"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-03-10"

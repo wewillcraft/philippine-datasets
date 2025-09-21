@@ -1,0 +1,54 @@
+billNumber = "HB09599"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB09599"
+lastScraped = "2025-09-22T00:01:47.021456"
+title = "HB09599"
+longTitle = "AN ACT ESTABLISHING A FORENSIC DNA DATABASE IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2021-06-10"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2021-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB09599.pdf"
+fileSize = 5980616
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "BULUT, ELIAS JR. C.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2021-06-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BULUT, ELIAS JR. C."
+nameCode = "Bulut"
+date = "2021-08-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2021-07-28"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 29004
+congress = 18
+bill_no = "HB09599"
+report = ""
+comm_act = ""
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-07-28"

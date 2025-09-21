@@ -1,0 +1,41 @@
+billNumber = "HR00245"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00245"
+lastScraped = "2025-09-22T00:20:59.468847"
+title = "HR00245"
+longTitle = "RESOLUTION CALLING ON GOVERNMENT AGENCIES INVOLVED IN THE SHIPPING INDUSTRY TO TREAT FOREIGN VESSELS COMING FROM EAGA DESTINATIONS AS DOMESTIC VESSELS UNDER THE NEAR-COASTAL VOYAGE CONCEPT"
+scope = "National"
+dateFiled = "1995-10-05"
+status = "Pending with the Committee on EAST ASEAN GROWTH AREA (SPECIAL CTTE.) since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B511"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117299
+congress = 10
+bill_no = "HR00245"
+referral = "B511"
+ref_name = "EAST ASEAN GROWTH AREA (SPECIAL CTTE.)"
+date_read = "1995-10-23"

@@ -1,0 +1,50 @@
+billNumber = "HR02214"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02214"
+lastScraped = "2025-09-22T00:47:02.983384"
+title = "HR02214"
+longTitle = "RESOLUTION EXPRESSING SUPPORT FOR S. 181, H.R. 962 AND 104 ALL PENDING CONSIDERATIONS IN THE UNITED STATES CONGRESS"
+scope = "National"
+dateFiled = "1991-04-22"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1991-04-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pilapil"
+coAuthors = [ "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Pilapil"
+nameCode = "Pilapil"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1991-04-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172048
+congress = 8
+bill_no = "HR02214"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1991-04-25"

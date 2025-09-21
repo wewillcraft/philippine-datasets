@@ -1,0 +1,61 @@
+billNumber = "HB01232"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01232"
+lastScraped = "2025-09-21T23:55:44.317266"
+title = "HB01232"
+longTitle = "AN ACT PROVIDING FOR THE WELFARE OF BARANGAY TANODS, AMENDING FOR THE PURPOSE SECTION 393 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01232.pdf"
+fileSize = 340563
+author = "Umali, Reynaldo V."
+coAuthors = [ "ESPINO, AMADO JR.", "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Umali, Reynaldo V."
+nameCode = "Umali"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR."
+nameCode = "Espino"
+date = "2016-10-18"
+journalNo = "J038"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-02-08"
+journalNo = "J068"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 34700
+congress = 17
+bill_no = "HB01232"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

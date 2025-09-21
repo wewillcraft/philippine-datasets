@@ -1,0 +1,54 @@
+billNumber = "HB08104"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB08104"
+lastScraped = "2025-09-22T00:01:46.639079"
+title = "HB08104"
+longTitle = "AN ACT ESTABLISHING A FREE COVID-19 VACCINATION PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2020-11-30"
+status = "Pending with the Committee on HEALTH since 2020-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB08104.pdf"
+fileSize = 1337715
+author = "Salvador-Tambunting, Joy Myra"
+coAuthors = [ "BULUT, ELIAS JR. C.",]
+[[authorsDetail]]
+name = "Salvador-Tambunting, Joy Myra"
+nameCode = "Salvador-Tambunting"
+date = "2020-11-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BULUT, ELIAS JR. C."
+nameCode = "Bulut"
+date = "2021-01-05"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-12-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 27509
+congress = 18
+bill_no = "HB08104"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-12-07"

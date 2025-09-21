@@ -1,0 +1,43 @@
+billNumber = "HR01337"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01337"
+lastScraped = "2025-09-22T00:25:57.614395"
+title = "HR01337"
+longTitle = "RESOLUTION URGING THE COMMITTEES ON ENERGY AND MUSLIM AFFAIRS TO CONDUCT A THOROUGH INVESTIGATION ON THE MULTI-MILLION PESO REFORESTATION PROJECT OF THE NATIONAL POWER CORPORATION IN LANAO DEL SUR, IN AID OF LEGISLATION"
+scope = "Local"
+dateFiled = "1995-01-16"
+status = "Pending with the Committee on ENERGY since 1995-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-01-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134642
+congress = 9
+bill_no = "HR01337"
+comm_act = "CHANGE OF REFERRAL FROM THE CTTE. ON RULES TO THE CTTE. ON ENERGY ON 1-26-95"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1995-01-19"

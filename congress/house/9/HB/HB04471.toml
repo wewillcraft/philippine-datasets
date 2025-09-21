@@ -1,0 +1,62 @@
+billNumber = "HB04471"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04471"
+lastScraped = "2025-09-22T00:25:55.436802"
+title = "HB04471"
+longTitle = "AN ACT INCREASING THE MONTHLY PENSION OF AGED-OLD VETERANS AND SURVIVING SPOUSES FROM P500.00 TO P1,500.00, AMENDING SECTIONS 10 AND 11 OF REPUBLIC ACT NO. 6948, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-10-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "VERGARA, BERNARDO M.", "GOLEZ, ROILO",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123090
+congress = 9
+bill_no = "HB04471"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-11-09"

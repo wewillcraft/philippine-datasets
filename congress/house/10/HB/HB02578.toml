@@ -1,0 +1,41 @@
+billNumber = "HB02578"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02578"
+lastScraped = "2025-09-22T00:20:57.843864"
+title = "HB02578"
+longTitle = "AN ACT TO DECLARE ALL CHARTER AND/OR FOUNDATION DAYS OF PROVINCES, CITIES AND CAPITAL TOWNS/MUNICIPAL ITIES SPECIAL NONWORKING LOCAL PUBLIC HOLIDAYS"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 108999
+congress = 10
+bill_no = "HB02578"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-08-23"

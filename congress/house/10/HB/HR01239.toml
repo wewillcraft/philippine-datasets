@@ -1,0 +1,41 @@
+billNumber = "HR01239"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01239"
+lastScraped = "2025-09-22T00:20:59.663513"
+title = "HR01239"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, OF THE PHILIPPINE PORTS AUTHORITY (PPA) FOR ITS LONG DELAYED IMPLEMENTATION OF THE PORT OF DUMAGUIT'S PROPOSED WHARF AND THEMANNER OF CONDUCTING BIDDINGS AND/OR AWARDING THE CONTRACTS"
+scope = "Local"
+dateFiled = "1997-05-29"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 118293
+congress = 10
+bill_no = "HR01239"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-06-04"

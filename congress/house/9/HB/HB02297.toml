@@ -1,0 +1,47 @@
+billNumber = "HB02297"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02297"
+lastScraped = "2025-09-22T00:25:55.001583"
+title = "HB02297"
+longTitle = "AN ACT ESTABLISHING A RATTAN AND BAMBOO EXPERIMENTAL STATION IN THE MUNICIPALITY OF LOBOC, PROVINCE OF BOHOL, AND APPRORIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120916
+congress = 9
+bill_no = "HB02297"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-09-18"

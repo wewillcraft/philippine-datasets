@@ -1,0 +1,42 @@
+billNumber = "HB00223"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00223"
+lastScraped = "2025-09-22T00:46:56.595516"
+title = "HB00223"
+longTitle = "AN ACT CONVERTING THE 25-BED MEDICARE HOSPITAL OFMALITA, PROVINCE OF DAVAO DEL SUR, INTO AN EMERGENCY HOSPITAL WITH 50-BED CAPACITY AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on HEALTH since 1987-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "principal"
+referralCode = "0502"
+
+[firstReading]
+id = 134920
+congress = 8
+bill_no = "HB00223"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-11"

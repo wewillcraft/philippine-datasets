@@ -1,0 +1,44 @@
+billNumber = "PS00066"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00066"
+lastScraped = "2025-09-21T23:39:49.252548"
+title = "PS00066"
+longTitle = "ISKOLAR NG BAYAN AMID CALAMITY AND CORRUPTION"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "CO, RENEE LOUISE M."
+[[authorsDetail]]
+name = "CO, RENEE LOUISE M."
+nameCode = "Co (R. L. M.)"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-09-01"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 4901
+congress = 103
+bill_no = "PS00066"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-01"

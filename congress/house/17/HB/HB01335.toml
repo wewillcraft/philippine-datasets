@@ -1,0 +1,61 @@
+billNumber = "HB01335"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01335"
+lastScraped = "2025-09-21T23:55:44.334056"
+title = "HB01335"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR SHARING OF ORGANS FROM DECEASED DONORS AND APPROPRIATING FUNDS THEREFOR\r\n"
+scope = "National"
+dateFiled = "2016-07-07"
+status = "Pending with the Committee on HEALTH since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01335.pdf"
+fileSize = 3480482
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "BATOCABE, RODEL M.", "VELASCO, LORD ALLAN JAY Q.",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2016-07-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-25"
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VELASCO, LORD ALLAN JAY Q."
+nameCode = "Velasco, L.A."
+date = "2018-05-17"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 34803
+congress = 17
+bill_no = "HB01335"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

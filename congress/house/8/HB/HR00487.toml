@@ -1,0 +1,79 @@
+billNumber = "HR00487"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00487"
+lastScraped = "2025-09-22T00:47:02.620045"
+title = "HR00487"
+longTitle = "RESOLUTION ISSUING AN URGENT APPEAL FROM THE PHILIPPINE HOUSE OF REPRESENTATIVES TO THE PRESIDENT OF THE UNITED STATES OF AMERICA AND THE UNITED STATES CONGRESS TO REJECT U. S. HOUSE BILL NO. 2148 AND U.S. SENATE BILL NOS. 1109 AND 1699 WHICH SEEK TO AMEND THE U.S. FEDERAL FOOD, DRUGS AND COSMETICSACT REQUIRING CERTAIN LABELING OF FOOD PRODUCTS WHICH CONTAIN TROPICAL FATS"
+scope = "National"
+dateFiled = "1987-11-11"
+status = "Adopted as Resolution No. HR00018 on 1988-02-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanjuatco"
+coAuthors = [ "BELTRAN, NATALIO JR. M.", "ROA, BENEDICTA B.",]
+[[authorsDetail]]
+name = "Tanjuatco"
+nameCode = "Tanjuatco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELTRAN, NATALIO JR. M."
+nameCode = "Beltran"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1987-11-25"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 170377
+congress = 8
+bill_no = "HR00487"
+report = "00039"
+referral = "532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "APPROVAL IN SUBSTITUTI ON OF HR 209, 306 AND 352"
+date_read = "1987-11-25"
+date_report = "1987-10-21"
+
+[secondReading]
+id = 21617
+congress = 8
+bill_no = "HR00487"
+adopted_resolution = "HR00018"
+remarks = "ADOPTED WITHOUT AMENDMENTS"
+date_calendared = "1987-11-25"
+date_approved = "1988-02-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1299
+congress = 8
+bill_no = "HR00487"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0

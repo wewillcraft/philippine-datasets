@@ -1,0 +1,44 @@
+billNumber = "PS00046"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00046"
+lastScraped = "2025-09-21T23:39:49.249563"
+title = "PS00046"
+longTitle = "HEALING AND ACCOUNTABILITY: ADDRESSING THE ISSUES AT EAST AVENUE MEDICAL CENTER"
+dateFiled = "2025-08-18"
+status = "Pending with the Committee on HEALTH since 2025-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "CO-PILAR, MA. VICTORIA"
+[[authorsDetail]]
+name = "CO-PILAR, MA. VICTORIA"
+nameCode = "Co-Pilar"
+date = "2025-08-18"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4881
+congress = 103
+bill_no = "PS00046"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-27"
+date_read = "2025-08-18"

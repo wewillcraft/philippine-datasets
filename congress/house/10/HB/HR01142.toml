@@ -1,0 +1,49 @@
+billNumber = "HR01142"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01142"
+lastScraped = "2025-09-22T00:20:59.645541"
+title = "HR01142"
+longTitle = "RESOLUTION URGING THE COMMITTEES ON HEALTH AND EDUCATION TO CONDUCT AN INQUIRY INTO THE RECENT OUTBREAK OF HEPATITIS A AT THE UNIVERSITY OF STO. TOMAS AND THE LABORATORY EXPLOSION AT THE PHILIPPINE WOMEN'S UNIVERSITY, DETERMINE THE STEPS UNDERTAKENBY THE SCHOOL ADMINISTRATORS, DEPARTMENT OF HEALTH, DEPARTMENT OF EDUCATION AND CULTURE, METROPOLITAN WATERWORKS AND SEWERAGE SYSTEM (MWSS) ON THESE INCIDENTS AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-03-14"
+status = "Pending with the Committee on HEALTH since 1997-03-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-19"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 118196
+congress = 10
+bill_no = "HR01142"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-19"

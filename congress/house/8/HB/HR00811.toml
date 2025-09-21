@@ -1,0 +1,42 @@
+billNumber = "HR00811"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00811"
+lastScraped = "2025-09-22T00:47:02.685983"
+title = "HR00811"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE NATIONAL GOVERNMENT DEBT RELIEF PLAN FOR LOCAL GOVERNMENT UNITS"
+scope = "National"
+dateFiled = "1988-07-27"
+status = "Pending with the Committee on WAYS AND MEANS since 1988-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario"
+[[authorsDetail]]
+name = "Almario"
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1988-08-02"
+
+[[committee]]
+name = "INDIGENOUS CULTURAL COMMUNITIES AND INDIGENOUS PEOPLES"
+type = "principal"
+referralCode = "H502"
+
+[firstReading]
+id = 170692
+congress = 8
+bill_no = "HR00811"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1988-08-02"

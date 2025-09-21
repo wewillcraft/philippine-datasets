@@ -1,0 +1,74 @@
+billNumber = "HB00243"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00243"
+lastScraped = "2025-09-22T00:46:56.599084"
+title = "HB00243"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF REBOKON IN THE PROVINCE OF ZAMBOANGA DEL SUR"
+scope = "Local"
+dateFiled = "1987-08-10"
+status = "Transmitted to the President for Signature on 1992-01-14"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 134940
+congress = 8
+bill_no = "HB00243"
+report = "00393"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-11"
+date_ob = "1988-11-24"
+date_cal = "1988-11-24"
+date_unass = "1988-11-24"
+date_report = "1988-11-09"
+
+[secondReading]
+id = 20259
+congress = 8
+bill_no = "HB00243"
+reasons = "2031789"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1989-03-17"
+date_approved = "1989-03-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 43
+congress = 8
+bill_no = "HB00243"
+date_dist = "1988-12-12"
+date_adopt = "1989-04-27"
+no_yeas = 115
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-04-27"
+date_rec = "1989-05-03"
+date_agram = "1991-12-12"
+amend_ind = "Y"
+dte_transp = "1992-01-14"

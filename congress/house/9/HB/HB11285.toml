@@ -1,0 +1,42 @@
+billNumber = "HB11285"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11285"
+lastScraped = "2025-09-22T00:25:56.654621"
+title = "HB11285"
+longTitle = "AN ACT PROVIDING FOR THE VICE-PRESIDENT TO ACT AS PRESIDENT IN CASE OF TEMPORARY VACANCY IN THE OFFICE OF THE CHIEF EXECUTIVE"
+scope = "National"
+dateFiled = "1993-11-15"
+status = "Pending with the Committee on REVISION OF LAWS since 1993-11-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1993-11-17"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 129900
+congress = 9
+bill_no = "HB11285"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1993-11-17"

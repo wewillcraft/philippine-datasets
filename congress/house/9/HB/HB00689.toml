@@ -1,0 +1,47 @@
+billNumber = "HB00689"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00689"
+lastScraped = "2025-09-22T00:25:54.720303"
+title = "HB00689"
+longTitle = "AN ACT TO ESTABLISH, ORGANIZE AND MAINTAIN A TESTING, TREATMENT AND REHABILITATION CENTER FOR USERS AND DEPENDENTS OF PROHIBITED AND DANGEROUS DRUGS IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-06"
+status = "Pending with the Committee on HEALTH since 1992-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-12"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119308
+congress = 9
+bill_no = "HB00689"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-12"

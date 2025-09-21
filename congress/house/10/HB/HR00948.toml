@@ -1,0 +1,89 @@
+billNumber = "HR00948"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00948"
+lastScraped = "2025-09-22T00:20:59.604711"
+title = "HR00948"
+longTitle = "RESOLUTION ORGANIZING THE PHILIPPINE-PERU PARLIAMENTARIA NS' FRIENDSHIP LEAGUE"
+scope = "National"
+dateFiled = "1996-11-11"
+status = "Adopted as Resolution No. HR00080 on 1996-11-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "DATUMANONG, SIMEON A.", "ALBANO, RODOLFO JR. B.", "ABLAN, ROQUE JR. R.", "AUMENTADO, ERICO B.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DATUMANONG, SIMEON A."
+nameCode = "Datumanong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-12"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 118002
+congress = 10
+bill_no = "HR00948"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-12"
+
+[secondReading]
+id = 19007
+congress = 10
+bill_no = "HR00948"
+adopted_resolution = "HR00080"
+date_calendared = "1996-11-12"
+date_approved = "1996-11-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00080.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00080.pdf"

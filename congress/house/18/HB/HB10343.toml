@@ -1,0 +1,46 @@
+billNumber = "HB10343"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10343"
+lastScraped = "2025-09-22T00:01:47.201154"
+title = "HB10343"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO YUFENG LYU"
+scope = "National"
+dateFiled = "2021-10-05"
+status = "Pending with the Committee on JUSTICE since 2021-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10343.pdf"
+fileSize = 289683
+author = "De Jesus, Presley C."
+[[authorsDetail]]
+name = "De Jesus, Presley C."
+nameCode = "De Jesus"
+date = "2021-10-05"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2021-11-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 29747
+congress = 18
+bill_no = "HB10343"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-11-08"

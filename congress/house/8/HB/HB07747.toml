@@ -1,0 +1,43 @@
+billNumber = "HB07747"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07747"
+lastScraped = "2025-09-22T00:46:57.960616"
+title = "HB07747"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 4860 AS AMENDED BY REPUBLIC ACT NO. 6152, PRESIDENTIAL DECREE NOS.81, 150, 351, 588, 621-A AND 1939"
+scope = "National"
+dateFiled = "1988-04-19"
+status = "Pending with the Committee on WAYS AND MEANS since 1988-04-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier"
+[[authorsDetail]]
+name = "Javier"
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1988-04-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 142425
+congress = 8
+bill_no = "HB07747"
+comm_act = "SUBSTITUTE D BY HB 24549"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1988-04-25"

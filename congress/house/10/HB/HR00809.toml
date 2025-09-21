@@ -1,0 +1,41 @@
+billNumber = "HR00809"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00809"
+lastScraped = "2025-09-22T00:20:59.577903"
+title = "HR00809"
+longTitle = "RESOLUTION REQUESTING THE CLARK DEVELOPMENT CORPORATION TO ALLOCATE FIVE (5) HECTARES OF THE FORMER CLARK AIR BASE TO THE PHILIPPINE AMUSEMENTS AND GAMING CORPORATION (PAGCOR) FOR THE CONSTRUCTION, ESTABLISHMENT, OPERATION AND MAINTENANCE OF A FIRSTCLASS HOTEL-CASINO"
+scope = "Local"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 117863
+congress = 10
+bill_no = "HR00809"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1996-09-02"

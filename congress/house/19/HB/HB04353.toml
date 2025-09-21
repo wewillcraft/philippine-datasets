@@ -1,0 +1,66 @@
+billNumber = "HB04353"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04353"
+lastScraped = "2025-09-21T23:55:20.842645"
+title = "HB04353"
+longTitle = "AN ACT PROMOTING INTEGRATED URBAN AGRICULTURE IN URBAN AREAS\r\nNATIONWIDE TO ADDRESS FOOD SECURITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-09-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04353.pdf"
+fileSize = 493394
+author = "ABALOS, JC M."
+coAuthors = [ "RIVERA, BONG", "LEE, WILBERT T.",]
+[[authorsDetail]]
+name = "ABALOS, JC M."
+nameCode = "Abalos"
+date = "2022-09-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-08-24"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-09-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-09-06"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 9272
+congress = 19
+bill_no = "HB04353"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-06"

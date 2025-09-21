@@ -1,0 +1,42 @@
+billNumber = "HR00639"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00639"
+lastScraped = "2025-09-22T00:20:59.542662"
+title = "HR00639"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO MAKE AN INQUIRY, IN AID OF LEGISLATION, ON THE FAILURE OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES TO ENFORCE ITS ORDERS PARTICULARLY IN THE MATTER OF VIOLATION OF PD NO. 1586 AND ITS IMPLEMENTING RULES BY LABRADOR DEVELOPMENT CORPORATION AND STA. LUCIA REALTY DEVELOPMENT CORPORATION WITH THE PURPOSE OF AMENDING PRESIDENTIAL DECREE NO. 1586 TO GIVE MORE POWERS TO THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES"
+scope = "Local"
+dateFiled = "1996-05-27"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-05-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117693
+congress = 10
+bill_no = "HR00639"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte. on Natural Resources on May 29, 1996."
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-05-29"

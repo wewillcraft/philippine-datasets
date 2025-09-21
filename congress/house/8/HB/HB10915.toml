@@ -1,0 +1,42 @@
+billNumber = "HB10915"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10915"
+lastScraped = "2025-09-22T00:46:58.491597"
+title = "HB10915"
+longTitle = "AN ACT APPROPRIATING TWO MILLION PESOS FOR THE CONSTRUCTION OF A SEAWALL ALONG THE SHORELINES OF THE POBLACION OF THE MUNICIPALITY OF PRIETO-DIAZ, PROVINCE OF SORSOGON"
+scope = "Local"
+dateFiled = "1988-05-25"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 145584
+congress = 8
+bill_no = "HB10915"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1988-05-27"

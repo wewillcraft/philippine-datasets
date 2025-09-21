@@ -1,0 +1,49 @@
+billNumber = "HR01121"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01121"
+lastScraped = "2025-09-22T00:20:59.642355"
+title = "HR01121"
+longTitle = "RESOLUTION REQUESTING THE HOUSE OF REPRESENTATIVES THROUGH ITS SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS TO INVESTIGATE, IN AID OF LEGISLATION THE SUSPICIOUS DEATH OF MARIA IMACULATA BASIT, A DOMESTIC HELPER AT JEDDAH, SAUDI ARABIA"
+scope = "Local"
+dateFiled = "1997-03-04"
+status = "Pending with the Committee on OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.) since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B515"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118175
+congress = 10
+bill_no = "HR01121"
+referral = "B515"
+ref_name = "OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.)"
+date_read = "1997-03-06"

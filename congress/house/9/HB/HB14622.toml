@@ -1,0 +1,42 @@
+billNumber = "HB14622"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14622"
+lastScraped = "2025-09-22T00:25:57.332344"
+title = "HB14622"
+longTitle = "AN ACT ESTABLISHING AN AFP/PNP HOSPITAL IN THE CITY OF SURIGAO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-02-22"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-02-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 133229
+congress = 9
+bill_no = "HB14622"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1995-02-27"

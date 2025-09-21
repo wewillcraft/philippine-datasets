@@ -1,0 +1,61 @@
+billNumber = "HB08783"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08783"
+lastScraped = "2025-09-21T23:55:46.065586"
+title = "HB08783"
+longTitle = "AN ACT PROVIDING FOR A COMPREHENSIVE SAFE DRINKING WATER QUALITY MANAGEMENT, APPROPRIATE FUNDS THEREOF, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-12-11"
+status = "Pending with the Committee on HEALTH since 2018-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08783.pdf"
+fileSize = 5089855
+author = "Gonzales, Aurelio \"Dong\" Jr. D."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Gonzales, Aurelio \"Dong\" Jr. D."
+nameCode = "Gonzales (A.D.)"
+date = "2018-12-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-01-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2019-01-28"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-12-12"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 42250
+congress = 17
+bill_no = "HB08783"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-12-12"

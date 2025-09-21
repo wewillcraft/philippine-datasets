@@ -1,0 +1,46 @@
+billNumber = "HB06280"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06280"
+lastScraped = "2025-09-22T00:20:58.528572"
+title = "HB06280"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A MULTIPURPOSE HALL IN BARANGAY MARAWA, JAEN, NUEVA ECIJA, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-02-19"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-21"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112701
+congress = 10
+bill_no = "HB06280"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-21"

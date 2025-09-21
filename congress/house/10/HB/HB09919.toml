@@ -1,0 +1,46 @@
+billNumber = "HB09919"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09919"
+lastScraped = "2025-09-22T00:20:59.268903"
+title = "HB09919"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF ROMBLON, TO BE KNOWN AS THE SAN FERNANDO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-09-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MADRONA, ELEANDRO JESUS F."
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116340
+congress = 10
+bill_no = "HB09919"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-09-03"

@@ -1,0 +1,83 @@
+billNumber = "HR00537"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00537"
+lastScraped = "2025-09-22T00:47:02.630237"
+title = "HR00537"
+longTitle = "RESOLUTION URGING VARIOUS GOVERNMENT AGENCIES TO ACTIVELY PARTICIPATE AND SUPPORT THE 1987 RIZAL WEEK CELEBRATION DECEMBER 23-30"
+scope = "National"
+dateFiled = "1987-12-15"
+status = "Adopted as Resolution No. HR00017 on 1987-12-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+coAuthors = [ "ZAMORA, RONALDO B.", "SUMULONG, FRANCISCO SR. S.", "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SUMULONG, FRANCISCO SR. S."
+nameCode = "Sumulong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1987-12-15"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 170425
+congress = 8
+bill_no = "HR00537"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1987-12-15"
+
+[secondReading]
+id = 21621
+congress = 8
+bill_no = "HR00537"
+adopted_resolution = "HR00017"
+remarks = "ADOPTED WITHOUT AMENDMENT"
+date_calendared = "1987-12-17"
+date_approved = "1987-12-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1303
+congress = 8
+bill_no = "HR00537"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0

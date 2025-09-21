@@ -1,0 +1,54 @@
+billNumber = "HB05168"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05168"
+lastScraped = "2025-09-22T00:20:58.325255"
+title = "HB05168"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF TWENTY-FIVE MILLION PESOS FOR WORLD TITLE FIGHTS FEATURING FILIPINO BOXERS"
+scope = "National"
+dateFiled = "1995-11-20"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1995-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1995-11-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111589
+congress = 10
+bill_no = "HB05168"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+date_read = "1995-11-23"

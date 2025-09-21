@@ -1,0 +1,47 @@
+billNumber = "HB07094"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07094"
+lastScraped = "2025-09-22T00:25:55.898698"
+title = "HB07094"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY WAKAS, MUNICIPALITY OF TAYABAS, PROVINCE OF QUEZON TO BE KNOWN AS THE WAKAS HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-02-04"
+status = "Pending with the Committee on HEALTH since 1993-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-09"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125713
+congress = 9
+bill_no = "HB07094"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-02-09"

@@ -1,0 +1,42 @@
+billNumber = "HR01972"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01972"
+lastScraped = "2025-09-22T00:47:02.918363"
+title = "HR01972"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE THE P300 MILLION COMPROMISE AGREEMENT BETWEEN THE PHILIPPINE NATIONAL BANK AND B.C. REGALADO & COMPANY INVOLVING THE LATTER'S PROPERTY IN FAIRVIEW, QUEZON CITY"
+scope = "Local"
+dateFiled = "1990-10-15"
+status = "Pending with the Committee on JUSTICE since 1990-10-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1990-10-18"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 171808
+congress = 8
+bill_no = "HR01972"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1990-10-18"

@@ -1,0 +1,42 @@
+billNumber = "HR00019"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00019"
+lastScraped = "2025-09-22T00:47:02.526720"
+title = "HR00019"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE WORSENING INCIDENCE OF THE DREADFUL DISEASE KNOWN AS THE ACQUIRED IMMUNE DEFICIENCY SYNDROME (AIDS) ANDTO RECOMMEND SUCH REMEDIAL MEASURES AS MAY BE NECESSARY UNDER THE CIRCUMSTANCES"
+scope = "National"
+dateFiled = "1987-07-27"
+status = "Pending with the Committee on HEALTH since 1987-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-07-30"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 169929
+congress = 8
+bill_no = "HR00019"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-07-30"

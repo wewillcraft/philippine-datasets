@@ -1,0 +1,47 @@
+billNumber = "HR01029"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01029"
+lastScraped = "2025-09-22T00:23:18.138543"
+title = "HR01029"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON AGRICULTURE, FOOD AND FISHERIES AND APPROPRIATIONS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE STATUS OF DAIRY DEVELOPMENT PROGRAM AND THE REPORTED SHORTFALL IN THE FUNDING FOR SAID PROGRAM"
+scope = "National"
+dateFiled = "1999-07-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1999-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1999-07-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 105485
+congress = 11
+bill_no = "HR01029"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1999-07-28"

@@ -1,0 +1,56 @@
+billNumber = "HB09384"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09384"
+lastScraped = "2025-09-22T00:20:59.157251"
+title = "HB09384"
+longTitle = "AN ACT REGULATING FOOD AND DRINK THAT DEVELOPS OBESITY AND IMPOSING PENALTIES THEREOF"
+scope = "National"
+dateFiled = "1997-05-08"
+status = "Pending with the Committee on HEALTH since 1997-05-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-05-14"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 115805
+congress = 10
+bill_no = "HB09384"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-05-14"

@@ -1,0 +1,47 @@
+billNumber = "HB10351"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10351"
+lastScraped = "2025-09-22T00:25:56.469472"
+title = "HB10351"
+longTitle = "AN ACT APPROPRIATING P 8.5 MILLION (EIGHT MILLION FIVE HUNDRED THOUSAND PESOS) FOR THE ELEVATION OF THE ENTIRE GROUND FLOOR OF THE JOSE R. REYES MEMORIAL MEDICAL CENTER (JRRMMC)"
+scope = "Local"
+dateFiled = "1993-08-10"
+status = "Pending with the Committee on HEALTH since 1993-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-16"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128969
+congress = 9
+bill_no = "HB10351"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-16"

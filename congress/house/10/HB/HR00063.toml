@@ -1,0 +1,50 @@
+billNumber = "HR00063"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00063"
+lastScraped = "2025-09-22T00:20:59.435718"
+title = "HR00063"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENVIRONMENT AND NATURAL RESOURCES TO IMMEDIATELY INVESTIGATE THE RECENT FISH POISONING IN LAGUNA DE BAY AND THE APPARENT FAILURE OF CONCERNED GOVERNMENT AGENCIES TO IMPLEMENT MEASURES TO CONTROL THE DUMPING OF TOXIC WASTE IN LAGUNA DE BAY"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-08-04"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 117117
+congress = 10
+bill_no = "HR00063"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Natural Resources on Aug. 7, 1995"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-08-04"

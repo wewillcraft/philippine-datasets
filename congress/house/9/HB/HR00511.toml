@@ -1,0 +1,42 @@
+billNumber = "HR00511"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00511"
+lastScraped = "2025-09-22T00:25:57.460940"
+title = "HR00511"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON WAYS AND MEANS AND OF BANKS AND CURRENCIES, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, TO DETERMINE THE POSSIBLE INFIRMITIES IN THE CURRENT INTERNAL REVENUE CODE, WHICH ARE BEING EXPLOITED BY CERTAINCREDIT CARDS COMPANIES IN AVOIDING PAYMENT OF BUSINESS AND INCOME TAXES WHILE THEY ENJOY A VERY LUCRATIVE TRADE OF FINANCING THE PURCHASES OF THEIR CLIENTS"
+scope = "National"
+dateFiled = "1993-02-23"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-03-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133823
+congress = 9
+bill_no = "HR00511"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-03-01"

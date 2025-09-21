@@ -1,0 +1,82 @@
+billNumber = "HB00320"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00320"
+lastScraped = "2025-09-22T00:20:57.435589"
+title = "HB00320"
+longTitle = "AN ACT PROVIDING THAT ALL HOSPITALS, CLINICS, HEALTH CENTERS AND OTHER SIMILAR ESTABLISHMENTS RENDERING MATERNITY SERVICES SHALL ESTABLISH LITERACY PROGRAMS FOR ALL EXPECTANT MOTHERS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-06"
+status = "Pending with the Committee on HEALTH since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "LOBREGAT, MA. CLARA L.", "RUIZ, NERISSA CORAZON S.", "AVILA, EDGAR M.", "RODRIGUEZ, OSCAR S.", "PIMENTEL, EMMANUEL B.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, MA. CLARA L."
+nameCode = "Lobregat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PIMENTEL, EMMANUEL B."
+nameCode = "Pimentel"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106741
+congress = 10
+bill_no = "HB00320"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-26"

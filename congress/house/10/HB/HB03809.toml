@@ -1,0 +1,63 @@
+billNumber = "HB03809"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03809"
+lastScraped = "2025-09-22T00:20:58.080255"
+title = "HB03809"
+longTitle = "AN ACT TRANSFERRING THE CULTURAL DEVELOPMENT CONCERNS FROM DECS TO THE PRESIDENTIAL COMMISSION ON CULTURE AND ARTS"
+scope = "National"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "TAJON, MARIANO M.", "LIBAN, DANTE V.", "GOLEZ, ROILO S.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TAJON, MARIANO M."
+nameCode = "Tajon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 110230
+congress = 10
+bill_no = "HB03809"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-09-29"

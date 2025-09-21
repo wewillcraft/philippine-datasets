@@ -1,0 +1,97 @@
+billNumber = "HR01421"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01421"
+lastScraped = "2025-09-21T23:55:46.519675"
+title = "HR01421"
+longTitle = "A RESOLUTION URGING THE DEPARTMENT OF TOURISM (DOT) TO INSTITUTIONALIZE AND PROMOTE THE KALAPATI FESTIVAL OF BARANGAY HOLY SPIRIT IN QUEZON CITY"
+scope = "National"
+dateFiled = "2017-10-23"
+status = "Adopted as Resolution No. HR00077 on 2017-12-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "CRISOLOGO, VINCENT P.", "HERRERA-DY, BERNADETTE C.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2017-10-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CRISOLOGO, VINCENT P."
+nameCode = "Crisologo"
+date = "2017-12-05"
+journalNo = "J044"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "HERRERA-DY, BERNADETTE C."
+nameCode = "Herrera-Dy"
+date = "2017-12-05"
+journalNo = "J044"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2017-11-20"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[motherBills]]
+bill_no = "HR00450"
+sequence = 1
+date = "2017-10-23"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00450"
+sequence = 1
+date = "2017-10-23"
+flag = "S"
+
+[firstReading]
+id = 44163
+congress = 17
+bill_no = "HR01421"
+report = "00473"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "TOURISM"
+recomm = "approval in substitution of House Resolution No. 450"
+remarks = ""
+file = "CR00473.pdf"
+date_read = "2017-11-20"
+date_ob = "2017-11-20"
+date_fri = "2017-12-05"
+date_report = "2017-10-23"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_17/CR00473.pdf"
+
+[secondReading]
+id = 4000
+congress = 17
+bill_no = "HR01421"
+adopted_resolution = "HR00077"
+adopted_resolution_title = "A RESOLUTION URGING THE DEPARTMENT OF TOURISM (DOT) TO INSTITUTIONALIZE AND PROMOTE THE KALAPATI FESTIVAL OF BARANGAY HOLY SPIRIT IN QUEZON CITY"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2017-12-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01421.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_17/HR01421.pdf"

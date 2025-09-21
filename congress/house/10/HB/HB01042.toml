@@ -1,0 +1,74 @@
+billNumber = "HB01042"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01042"
+lastScraped = "2025-09-22T00:20:57.552469"
+title = "HB01042"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF A HIGH SCHOOL TO BE KNOWN AS THE CUYAPO NATIONAL HIGH SCHOOL IN POBLACION IN THE MUNICIPALITY OF CUYAPO, PROVINCE OF NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-18"
+status = "REPUBLIC ACT (RA08308) enacted on 1997-06-13"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz"
+[[authorsDetail]]
+name = "Diaz"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107463
+congress = 10
+bill_no = "HB01042"
+report = "00661"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-07-27"
+date_ob = "1996-11-19"
+date_report = "1996-11-14"
+
+[secondReading]
+id = 17732
+congress = 10
+bill_no = "HB01042"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-11-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2354
+congress = 10
+bill_no = "HB01042"
+date_dist = "1996-12-03"
+date_adopt = "1996-12-11"
+no_yeas = 155
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-12-12"
+date_rec = "1996-12-18"
+amend_ind = "N"
+act_pres = "A"
+dte_actedp = "1997-06-13"

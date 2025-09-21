@@ -1,0 +1,97 @@
+billNumber = "HR00789"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00789"
+lastScraped = "2025-09-22T00:01:47.486186"
+title = "HR00789"
+longTitle = "A RESOLUTION CONGRATULATING AND COMMENDING ALDREAN PAUL ELVIRA ALOGON FOR BEING AWARDED THE PRESTIGIOUS FREEMAN ASIAN SCHOLARSHIP AT THE WESLEYAN UNIVERSITY IN CONNECTICUT, UNITED STATES OF AMERICA"
+scope = "National"
+dateFiled = "2020-03-11"
+status = "Adopted as Resolution No. HR00064 on 2020-06-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LAGON, SONNY \"SL\" L."
+coAuthors = [ "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "LAGON, SONNY \"SL\" L."
+nameCode = "Lagon"
+date = "2020-03-11"
+sequence = 1
+
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2020-03-11"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2020-05-28"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2020-05-04"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[motherBills]]
+bill_no = "HR00297"
+sequence = 1
+date = "2020-03-11"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00297"
+sequence = 1
+date = "2020-03-11"
+flag = "S"
+
+[firstReading]
+id = 31108
+congress = 18
+bill_no = "HR00789"
+report = "00298"
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = "HIGHER AND TECHNICAL EDUCATION"
+recomm = "Recommending its adoption in substitution of House Resolution No. 297"
+remarks = ""
+file = "CR00298.pdf"
+date_read = "2020-05-04"
+date_ob = "2020-05-04"
+date_report = "2020-03-11"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00298.pdf"
+
+[secondReading]
+id = 2078
+congress = 18
+bill_no = "HR00789"
+adopted_resolution = "HR00064"
+adopted_resolution_title = "A RESOLUTION CONGRATULATING AND COMMENDING ALDREAN PAUL ELVIRA ALOGON FOR BEING AWARDED THE PRESTIGIOUS FREEMAN ASIAN SCHOLARSHIP AT THE WESLEYAN UNIVERSITY IN CONNECTICUT, UNITED STATES OF AMERICA"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2020-05-26"
+date_approved = "2020-06-04"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00789.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR00789.pdf"

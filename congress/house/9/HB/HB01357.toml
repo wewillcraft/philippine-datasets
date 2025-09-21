@@ -1,0 +1,47 @@
+billNumber = "HB01357"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01357"
+lastScraped = "2025-09-22T00:25:54.838364"
+title = "HB01357"
+longTitle = "AN ACT CONVERTING THE WESTERN PANGASINAN DISTRICT HOSPITAL IN ALAMINOS, PANGASINAN, INTO A GENERAL HOSPITAL TO BE KNOWN AS THE WESTERN PANGASINAN GENERAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "Pending with the Committee on HEALTH since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Orbos"
+[[authorsDetail]]
+name = "Orbos"
+nameCode = "Orbos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119976
+congress = 9
+bill_no = "HB01357"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-26"

@@ -1,0 +1,42 @@
+billNumber = "HR00554"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00554"
+lastScraped = "2025-09-22T00:47:02.632885"
+title = "HR00554"
+longTitle = "RESOLUTION EXPRESSING THE GRAVE CONCERN OF THE HOUSE ON THE REPORTED ANOMALIES OF THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT (PCGG) AND EXPRESSING THE SENSE OF THE HOUSE NOT TO EXTEND FOR ANY REASON WHATSOEVER THE TERM OF THE FUNCTIONS OF THE SAID PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT"
+scope = "National"
+dateFiled = "1987-12-28"
+status = "Pending with the Committee on JUSTICE since 1987-12-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-12-29"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170441
+congress = 8
+bill_no = "HR00554"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-12-29"

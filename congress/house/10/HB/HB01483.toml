@@ -1,0 +1,66 @@
+billNumber = "HB01483"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01483"
+lastScraped = "2025-09-22T00:20:57.629230"
+title = "HB01483"
+longTitle = "AN ACT DECLARING AS ALIENABLE AND DISPOSABLE NINE HUNDRED EIGHTY-TWO HECTARES AND FIVE  THOUSAND SIX HUNDRED SIXTY HECTARES OF LAND UNDER CADASTRAL SURVEY 800-D, MODULE 2, SITUATED IN BARANGAY SANTA MONICA, PUERTO PRINCESA CITY, PROVINCE OF PALAWAN"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Approved by the House on 1996-01-25, transmitted to on 1996-01-25 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 107904
+congress = 10
+bill_no = "HB01483"
+report = "00081"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "APPROVAL WITHOUT AMENDMENT"
+date_read = "1995-08-03"
+date_ob = "1995-11-29"
+date_report = "1995-11-24"
+
+[secondReading]
+id = 17806
+congress = 10
+bill_no = "HB01483"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-12-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2426
+congress = 10
+bill_no = "HB01483"
+date_dist = "1995-12-14"
+date_adopt = "1996-01-25"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-01-25"
+date_rec = "1996-01-31"

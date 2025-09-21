@@ -1,0 +1,46 @@
+billNumber = "HB03181"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03181"
+lastScraped = "2025-09-22T00:20:57.962332"
+title = "HB03181"
+longTitle = "AN ACT REESTABLISHING THE PETROLEUM PRICE STANDBY FUND (PPSF) TO SUPPORT THE OIL PRICE STABILIZATION FUND (OPSF), AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-09-04"
+status = "Pending with the Committee on ENERGY since 1995-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-09-07"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109602
+congress = 10
+bill_no = "HB03181"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-09-07"

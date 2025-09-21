@@ -1,0 +1,46 @@
+billNumber = "HB08878"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08878"
+lastScraped = "2025-09-22T00:20:59.054796"
+title = "HB08878"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TISSUE CULTURE LABORATORY AT THE AKLAN STATE COLLEGE OF AGRICULTURE IN THE MUNICIPALITY OF BANGA, PROVINCE OF AKLAN, AND APPRORIATING FUNDS THERETO"
+scope = "Local"
+dateFiled = "1997-02-03"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-02-06"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115299
+congress = 10
+bill_no = "HB08878"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-02-06"

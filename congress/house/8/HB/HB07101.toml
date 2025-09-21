@@ -1,0 +1,42 @@
+billNumber = "HB07101"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07101"
+lastScraped = "2025-09-22T00:46:57.855406"
+title = "HB07101"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY N. C. ORDANEZA, MUNICIPALITY OF PADADA, PROVINCE OFDAVAO DEL SUR, AND PROVIDING FUNDS THEREFORAN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY N. C. ORDANEZA, MUNICIPALITY OF PADADA, PROVINCE OFDAVAO DEL SUR, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-23"
+status = "Pending with the Committee on HEALTH since 1988-03-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-25"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 141782
+congress = 8
+bill_no = "HB07101"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-25"

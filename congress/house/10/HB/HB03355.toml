@@ -1,0 +1,41 @@
+billNumber = "HB03355"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03355"
+lastScraped = "2025-09-22T00:20:57.994629"
+title = "HB03355"
+longTitle = "AN ACT IMPOSING A LUXURY TAX ON SECOND AND SUBSEQUENT HOUSES AND LOTS OF INDIVIDUALS OR COUPLES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-08"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 109776
+congress = 10
+bill_no = "HB03355"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-09-18"

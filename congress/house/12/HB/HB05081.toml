@@ -1,0 +1,76 @@
+billNumber = "HB05081"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05081"
+lastScraped = "2025-09-22T00:13:00.740899"
+title = "HB05081"
+longTitle = "AN ACT UPGRADING THE SALARY GRADE LEVEL OF THE SCHOOLS DISTRICT SUPERVISORS FROM SALARY GRADE NINETEEN (19) TO SALARY GRADE TWENTY-FOUR (24)"
+scope = "National"
+dateFiled = "2002-08-06"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chatto, Edgar M."
+coAuthors = [ "DEL MAR, RAUL V.", "NEPOMUCENO, FRANCIS \"BLUEBOY\" L.", "CHIPECO, JOAQUIN JR. M.", "DUMARPA, FAYSAH MANIRI-RACMAN",]
+[[authorsDetail]]
+name = "Chatto, Edgar M."
+nameCode = "Chatto"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "NEPOMUCENO, FRANCIS \"BLUEBOY\" L."
+nameCode = "Nepomuceno"
+date = ""
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J035"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DUMARPA, FAYSAH MANIRI-RACMAN"
+nameCode = "Dumarpa"
+date = ""
+journalNo = "J028"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-08-12"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 88236
+congress = 12
+bill_no = "HB05081"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-08-12"

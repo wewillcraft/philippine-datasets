@@ -1,0 +1,70 @@
+billNumber = "HB04458"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04458"
+lastScraped = "2025-09-22T00:20:58.204759"
+title = "HB04458"
+longTitle = "AN ACT CHANGING THE NAME OF CALANASAN CENTRAL SCHOOL TO PEDRO BUNOT CENTRAL SCHOOL"
+scope = "Local"
+dateFiled = "1995-10-17"
+status = "REPUBLIC ACT RA08230 (Lapsed into law on 1996-11-10)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 110879
+congress = 10
+bill_no = "HB04458"
+report = "00180"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1995-10-25"
+date_ob = "1996-02-12"
+date_report = "1996-02-07"
+
+[secondReading]
+id = 18108
+congress = 10
+bill_no = "HB04458"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-02-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2718
+congress = 10
+bill_no = "HB04458"
+date_dist = "1996-02-22"
+date_adopt = "1996-02-28"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-02-29"
+date_rec = "1996-03-06"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1996-10-08"
+dte_actedp = "1996-11-10"

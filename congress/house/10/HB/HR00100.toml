@@ -1,0 +1,64 @@
+billNumber = "HR00100"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00100"
+lastScraped = "2025-09-22T00:20:59.442380"
+title = "HR00100"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT A FACT-FINDING INQUIRY, IN AID OF LEGISLATION, INTO THE OPERATIONS AND ACTIVITIES OF THE NATIONAL FOOD AUTHORITY AND THE ALLEGED DIVERSION OF NFA IMPORTED RICE TO AN ALLEGED RICE CARTEL, RECOMMEND REMEDIAL MEASURES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+coAuthors = [ "BAGATSING, RAMON JR. S.", "LIBAN, DANTE V.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117154
+congress = 10
+bill_no = "HR00100"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Agricultur e and"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1995-08-15"

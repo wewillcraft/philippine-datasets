@@ -1,0 +1,61 @@
+billNumber = "HB06551"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06551"
+lastScraped = "2025-09-22T00:20:58.579238"
+title = "HB06551"
+longTitle = "AN ACT AUTHORIZING CITY AND MUNICIPAL MAYORS TO ORGANIZE LOCAL POLICE AUXILIARY UNITS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-03-13"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "CALALAY, REYNALDO A.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-03-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112972
+congress = 10
+bill_no = "HB06551"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-03-18"

@@ -1,0 +1,46 @@
+billNumber = "HB09972"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09972"
+lastScraped = "2025-09-22T00:20:59.281724"
+title = "HB09972"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF FARMERS' TRAINING CENTER IN THE MUNICIPALITY OF LUCBAN, PROVINCE OF QUEZON, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-09-18"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-09-30"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116393
+congress = 10
+bill_no = "HB09972"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-09-30"

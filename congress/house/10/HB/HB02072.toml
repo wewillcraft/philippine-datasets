@@ -1,0 +1,41 @@
+billNumber = "HB02072"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02072"
+lastScraped = "2025-09-22T00:20:57.739685"
+title = "HB02072"
+longTitle = "AN ACT AMENDING SECTION TEN, CHAPTER 3, TITLE III, BOOK IV OF EXECUTIVE ORDER NUMBERED 292, OTHERWISE KNOWN AS THE ADMINISTRATIVE CODE OF 1987, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on APPROPRIATIONS since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 108493
+congress = 10
+bill_no = "HB02072"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1995-08-15"

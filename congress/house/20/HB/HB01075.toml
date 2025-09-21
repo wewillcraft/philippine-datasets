@@ -1,0 +1,61 @@
+billNumber = "HB01075"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01075"
+lastScraped = "2025-09-21T23:39:48.512191"
+title = "HB01075"
+longTitle = "AN ACT ESTABLISHING A \"ONE TOWN, ONE TOURIST ATTRACTION PROGRAM\" TO PROMOTE TOURISM AND SUSTAINABLE ECONOMIC DEVELOPMENT AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-02"
+status = "Pending with the Committee on TOURISM since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01075.pdf"
+fileSize = 326247
+author = "LARA, JOSEPH \"JOJO\" L."
+coAuthors = [ "DE VENECIA, MARIA GEORGINA P.", "RIVERA, NOEL \"Bong\" N.",]
+[[authorsDetail]]
+name = "LARA, JOSEPH \"JOJO\" L."
+nameCode = "Lara"
+date = "2025-07-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, MARIA GEORGINA P."
+nameCode = "De Venecia"
+date = "2025-08-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-09-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 1076
+congress = 103
+bill_no = "HB01075"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

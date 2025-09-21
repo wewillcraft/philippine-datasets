@@ -1,0 +1,46 @@
+billNumber = "HB10708"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10708"
+lastScraped = "2025-09-22T00:01:47.291715"
+title = "HB10708"
+longTitle = "AN ACT DETERMINING PAUPER LITIGANTS FOR THE ISSUANCE OF THE CERTIFICATE OF INDIGENCY"
+scope = "National"
+dateFiled = "2022-01-26"
+status = "Pending with the Committee on JUSTICE since 2022-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10708.pdf"
+fileSize = 376338
+author = "Saulog, Irene Gay F."
+[[authorsDetail]]
+name = "Saulog, Irene Gay F."
+nameCode = "Saulog"
+date = "2022-01-26"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2022-01-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 30112
+congress = 18
+bill_no = "HB10708"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-01-31"

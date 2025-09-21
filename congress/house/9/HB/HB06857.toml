@@ -1,0 +1,42 @@
+billNumber = "HB06857"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06857"
+lastScraped = "2025-09-22T00:25:55.859469"
+title = "HB06857"
+longTitle = "AN ACT PROVIDING EXEMPTION FROM THE 20% WITHHOLDING TAX ON INTEREST EARNINGS OF PARTICULAR SAVINGS AND TIME DEPOSITS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-01-29"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serapio"
+[[authorsDetail]]
+name = "Serapio"
+nameCode = "Serapio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-02-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 125476
+congress = 9
+bill_no = "HB06857"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-02-03"

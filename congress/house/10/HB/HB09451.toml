@@ -1,0 +1,69 @@
+billNumber = "HB09451"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09451"
+lastScraped = "2025-09-22T00:20:59.168971"
+title = "HB09451"
+longTitle = "AN ACT CONSTITUTING THE THREE MUNICIPALITIES OF BABAK, SAMAL AND KAPUTIAN, OF SAMAL ISLAND, PROVINCE OF DAVAO, INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF SAMAL ISLAND"
+scope = "Local"
+dateFiled = "1997-05-23"
+status = "REPUBLIC ACT (RA08471) enacted on 1998-01-30"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-05-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 115872
+congress = 10
+bill_no = "HB09451"
+report = "01232"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+recomm = "approval with amendments"
+date_read = "1997-05-27"
+date_ob = "1997-10-27"
+date_report = "1997-10-24"
+
+[secondReading]
+id = 18726
+congress = 10
+bill_no = "HB09451"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3301
+congress = 10
+bill_no = "HB09451"
+date_dist = "1997-11-11"
+date_adopt = "1997-11-17"
+no_yeas = 136
+no_nays = 0
+no_abstent = 0
+date_agram = "1998-01-10"
+amend_ind = "Y"
+act_pres = "A"
+dte_transp = "1998-01-26"
+dte_actedp = "1998-01-30"

@@ -1,0 +1,47 @@
+billNumber = "HB06009"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB06009"
+lastScraped = "2025-09-22T00:13:00.959519"
+title = "HB06009"
+longTitle = "AN ACT CONVERTING THE PROVINCIAL ROAD CONNECTING THE MUNICIPALITIES OF ISULAN AND LEBAK STARTING AT KM. 1847 + 000 TO KM. 1937 + 788 IN THE PROVINCE OF SULTAN KUDARAT INTO A NATIONAL ROAD, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2003-05-13"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2003-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montilla"
+[[authorsDetail]]
+name = "Montilla"
+nameCode = "Montilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2003-05-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 89163
+congress = 12
+bill_no = "HB06009"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2003-05-20"

@@ -1,0 +1,47 @@
+billNumber = "HB09312"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09312"
+lastScraped = "2025-09-22T00:25:56.272709"
+title = "HB09312"
+longTitle = "AN ACT ESTABLISHING AN ANIMAL BREEDING STATION AND LIVESTOCK FARM IN THE PROVINCE OF OCCIDENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-05-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-06-01"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127930
+congress = 9
+bill_no = "HB09312"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-06-01"

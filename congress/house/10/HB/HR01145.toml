@@ -1,0 +1,41 @@
+billNumber = "HR01145"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01145"
+lastScraped = "2025-09-22T00:20:59.646084"
+title = "HR01145"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE MULTI-BILLION PESO SUBIC CONNECTION THAT HAS REPORTEDLY DUPED THE GOVERNMENT OF BILLIONS OF PESOS IN TAXES AND DUTIES DUE TO ALLEGED SMUGGLING OF OIL IMPORTS"
+scope = "Local"
+dateFiled = "1997-03-17"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-03-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-03-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118199
+congress = 10
+bill_no = "HR01145"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-03-19"

@@ -1,0 +1,46 @@
+billNumber = "HB06084"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06084"
+lastScraped = "2025-09-22T00:20:58.492342"
+title = "HB06084"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A FIRE STATION EQUIPPED WITH SUFFICIENT AND MODERN FACILITIES AND EQUIPMENT IN THE MUNICIPALITY OF MALIMONO, PROVINCE OF SURIGAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-02"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-02-07"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112505
+congress = 10
+bill_no = "HB06084"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-02-07"

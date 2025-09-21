@@ -1,0 +1,41 @@
+billNumber = "HR00211"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00211"
+lastScraped = "2025-09-22T00:20:59.462348"
+title = "HR00211"
+longTitle = "RESOLUTION URGING THE SUPREME COURT TO STOP THE DESIGNATION OF JUDGES TO COURTS OTHER THAN THEIR APPOINTED SALAS"
+scope = "National"
+dateFiled = "1995-09-25"
+status = "Pending with the Committee on JUSTICE since 1995-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-28"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 117265
+congress = 10
+bill_no = "HR00211"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-28"

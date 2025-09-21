@@ -1,0 +1,68 @@
+billNumber = "HR00909"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00909"
+lastScraped = "2025-09-22T00:25:57.533399"
+title = "HR00909"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF THE HONORABLE EDMUNDO B. CEA, FORMER MEMBER OF CONGRESS AS REPRESENTATIVE OF THE SECOND DISTRICT OF CAMARINES SUR, SENATOR OF THE REPUBLIC OF THE PHILIPPINES AND MEMBER OF THE REGULAR BATASANG PAMBANSA"
+scope = "Local"
+dateFiled = "1994-01-12"
+status = "Adopted as Resolution No. HR00064 on 1994-01-27"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+coAuthors = [ "ALFELOR, CIRIACO R.", "BICHARA, AL FRANCIS C.",]
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALFELOR, CIRIACO R."
+nameCode = "Alfelor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BICHARA, AL FRANCIS C."
+nameCode = "Bichara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-01-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 134216
+congress = 9
+bill_no = "HR00909"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-01-25"
+
+[secondReading]
+id = 20156
+congress = 9
+bill_no = "HR00909"
+adopted_resolution = "HR00064"
+date_approved = "1994-01-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00909.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00909.pdf"

@@ -1,0 +1,47 @@
+billNumber = "HB01333"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01333"
+lastScraped = "2025-09-22T00:25:54.834282"
+title = "HB01333"
+longTitle = "AN ACT CONVERTING THE CRYSTAL CAVE FOREST RESERVE IN BAGUIO CITY INTO A WATERSHED RESERVATION AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "principal"
+referralCode = "B512"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119952
+congress = 9
+bill_no = "HB01333"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-08-26"

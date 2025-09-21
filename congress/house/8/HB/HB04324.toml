@@ -1,0 +1,42 @@
+billNumber = "HB04324"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04324"
+lastScraped = "2025-09-22T00:46:57.314200"
+title = "HB04324"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE ESTABLISHMENT OF A HEALTH CENTER IN THE MUNICIPALITY OF MALINAO,PROVINC E OF AKLAN, TO BE KNOWN AS THE KINALANGAY HEALTH CENTER"
+scope = "Local"
+dateFiled = "1987-12-04"
+status = "Pending with the Committee on HEALTH since 1987-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Legaspi"
+[[authorsDetail]]
+name = "Legaspi"
+nameCode = "Legaspi"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-10"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 139009
+congress = 8
+bill_no = "HB04324"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-12-10"

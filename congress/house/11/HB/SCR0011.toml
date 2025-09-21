@@ -1,0 +1,40 @@
+billNumber = "SCR0011"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=SCR0011"
+lastScraped = "2025-09-22T00:23:18.321172"
+title = "SCR0011"
+longTitle = "CONCURRENT RESOLUTION CREATING A JOINT COMMMITTEE OF BOTH HOUSES TO NOTIFY THE PRESIDENT OF THE PHILIPPINES THAT CONGRESS HAS CONVENED ITS FIRST SPECIAL SESSION AND THERE BEING A QUORUM, SAID CONGRESS HAS ALREADY ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "National"
+dateFiled = "1999-07-12"
+status = "Adopted as Resolution No. CR00007 on 1999-07-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-07-12"
+
+[firstReading]
+id = 106419
+congress = 11
+bill_no = "SCR0011"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1999-07-12"
+
+[secondReading]
+id = 17655
+congress = 11
+bill_no = "SCR0011"
+adopted_resolution = "CR00007"
+date_calendared = "1999-07-12"
+date_approved = "1999-07-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,41 @@
+billNumber = "HR01166"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01166"
+lastScraped = "2025-09-22T00:20:59.649780"
+title = "HR01166"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INVESTIGATION ON THE REPORTED CONTROL BY A CONGRESSMAN AND POLICE OFFICERS OF ALL FORMS OF ILLEGAL GAMBLING IN QUEZON CITY AND TO DETERMINE WHETHER ERADICATION OF GAMBLING AS ORDAINED BY THE PRESIDENT OF THE PHILIPPINES IS IMPLEMENTED PROPERLY"
+scope = "Local"
+dateFiled = "1997-04-11"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-04-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-04-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 118220
+congress = 10
+bill_no = "HR01166"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-04-23"

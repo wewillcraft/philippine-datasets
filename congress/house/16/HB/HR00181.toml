@@ -1,0 +1,55 @@
+billNumber = "HR00181"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00181"
+lastScraped = "2025-09-21T23:56:22.829368"
+title = "HR00181"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON BASIC EDUCATION AND CULTURE AND LOCAL GOVERNMENT TO CONDUCT A JOINT INQUIRY, IN AID OF LEGISLATION, ON THE UTILIZATION OF THE SPECIAL EDUCATION FUND"
+scope = "National"
+dateFiled = "2013-08-08"
+status = "Change of committee referral requested on 2014-02-06"
+statusOrder = 4.32
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00181.pdf"
+fileSize = 165211
+author = "Padilla, Carlos M."
+coAuthors = [ "ROBES, ARTURO BARDILLION",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = "2013-08-08"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROBES, ARTURO BARDILLION"
+nameCode = "Robes"
+date = "2013-09-09"
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2013-08-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52580
+congress = 16
+bill_no = "HR00181"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-08-12"
+date_read = "2013-08-14"

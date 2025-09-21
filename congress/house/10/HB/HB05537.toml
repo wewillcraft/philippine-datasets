@@ -1,0 +1,68 @@
+billNumber = "HB05537"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05537"
+lastScraped = "2025-09-22T00:20:58.396237"
+title = "HB05537"
+longTitle = "AN ACT ALLOTING TWO AND FIVE TENTH PERCENT (2.5%) OF THE PROCEEDS OF THE SALE OF THE VILLAMOR AIRBASE, AMENDING FOR THE PURPOSE, REPUBLIC ACT NUMBERED 7227, OTHERWISE KNOWN AS THE 'BASES CONVERSION AND DEVELOPMENT ACT OF 1992'"
+scope = "Local"
+dateFiled = "1995-12-13"
+status = "Approved by the House on 1997-10-27 and transmitted to the Senate on 1997-10-28"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1995-12-19"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 111958
+congress = 10
+bill_no = "HB05537"
+report = "00791"
+comm_act = "change of ctte. ref'l from Eco. Affairs & ways & Means as per J. 69 (march 4, 1997)"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+recomm = "approval with amendments"
+date_read = "1995-12-19"
+date_ob = "1997-02-24"
+date_unass = "1997-08-26"
+date_report = "1997-02-20"
+
+[secondReading]
+id = 18229
+congress = 10
+bill_no = "HB05537"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1997-10-02"
+date_approved = "1997-10-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2833
+congress = 10
+bill_no = "HB05537"
+date_dist = "1997-10-21"
+date_adopt = "1997-10-27"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-28"

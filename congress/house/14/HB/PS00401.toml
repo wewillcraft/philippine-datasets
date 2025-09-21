@@ -1,0 +1,46 @@
+billNumber = "PS00401"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=PS00401"
+lastScraped = "2025-09-22T00:15:39.690607"
+title = "Drug Problem"
+longTitle = "DRUG PROBLEM AS A CONTINUING THREAT TO NATIONAL SECURITY"
+scope = "National"
+dateFiled = "2009-09-14"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2009-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lim, Teodoro L."
+[[authorsDetail]]
+name = "Lim, Teodoro L."
+nameCode = "Lim (T.)"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2009-09-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 75058
+congress = 14
+bill_no = "PS00401"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2009-09-23"

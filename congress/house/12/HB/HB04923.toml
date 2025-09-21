@@ -1,0 +1,75 @@
+billNumber = "HB04923"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04923"
+lastScraped = "2025-09-22T00:13:00.706900"
+title = "Providing for the Composition of the City Council of Valenzuela, Amending for the Purpose RA 8526"
+longTitle = "AN ACT PROVIDING FOR THE COMPOSITION OF THE CITY COUNCIL OF VALENZUELA, AMENDING FOR THE PURPOSE SECTION 10 OF REPUBLIC ACT NO. 8526, OTHERWISE KNOWN AS THE CHARTER OF THE CITY OF VALENZUELA"
+scope = "Local"
+dateFiled = "2002-06-14"
+status = "Approved by the House on 2002-08-12, transmitted to on 2002-08-14 and received by the Senate on 2002-08-15"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gunigundo"
+[[authorsDetail]]
+name = "Gunigundo"
+nameCode = "Gunigundo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-07-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB02344"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02344"
+flag = "S"
+
+[firstReading]
+id = 88078
+congress = 12
+bill_no = "HB04923"
+report = "00605"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+date_read = "2002-07-24"
+date_ob = "2002-07-24"
+date_report = "2002-06-14"
+
+[secondReading]
+id = 14575
+congress = 12
+bill_no = "HB04923"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks."
+date_approved = "2002-07-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5104
+congress = 12
+bill_no = "HB04923"
+date_dist = "2002-08-07"
+date_adopt = "2002-08-12"
+no_yeas = 155
+no_nays = 0
+no_abstent = 0
+date_trans = "2002-08-14"
+date_rec = "2002-08-15"

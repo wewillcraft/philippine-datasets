@@ -1,0 +1,42 @@
+billNumber = "HB02105"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02105"
+lastScraped = "2025-09-22T00:46:56.930838"
+title = "HB02105"
+longTitle = "AN ACT TO ESTABLISH AN OSYTER AND MUSSEL FARM IN THE MUNICIPALITY OF TAGANA-AN, SURIGAO DEL NORTE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-29"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Navarro"
+[[authorsDetail]]
+name = "Navarro"
+nameCode = "Navarro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-10-01"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 136794
+congress = 8
+bill_no = "HB02105"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-10-01"

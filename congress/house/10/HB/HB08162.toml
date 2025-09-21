@@ -1,0 +1,41 @@
+billNumber = "HB08162"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08162"
+lastScraped = "2025-09-22T00:20:58.913081"
+title = "HB08162"
+longTitle = "AN ACT AMENDING SECTION 12, PARAGRAPH (C) OF REPUBLIC ACT NO. 7227, OTHERWISE KNOWN AS THE BASES CONVERSION DEVELOPMENT ACT OF 1992"
+scope = "Local"
+dateFiled = "1996-10-10"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1996-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1996-10-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114583
+congress = 10
+bill_no = "HB08162"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1996-10-14"

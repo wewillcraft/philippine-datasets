@@ -1,0 +1,54 @@
+billNumber = "HB01437"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01437"
+lastScraped = "2025-09-21T23:55:20.330393"
+title = "HB01437"
+longTitle = "AN ACT ESTABLISHING AN OXYGEN PRODUCTION FACILITY IN MARAMAG, BUKIDNON, APPROPRIATING FUNDS THEREFOR AND OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2022-07-06"
+status = "Pending with the Committee on HEALTH since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01437.pdf"
+fileSize = 5290736
+author = "Zubiri, Jose Maria Jr. R."
+coAuthors = [ "GONZALEZ, CARLO LISANDRO L.",]
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = "2022-07-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, CARLO LISANDRO L."
+nameCode = "Gonzalez"
+date = "2023-09-18"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 6356
+congress = 19
+bill_no = "HB01437"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

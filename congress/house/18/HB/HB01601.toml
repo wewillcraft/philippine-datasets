@@ -1,0 +1,61 @@
+billNumber = "HB01601"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01601"
+lastScraped = "2025-09-22T00:01:45.334361"
+title = "HB01601"
+longTitle = "AN ACT LEGALIZING AND REGULATING THE PRACTICE OF COMMUNITY-BASED CARPOOLING AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-08"
+status = "Pending with the Committee on TRANSPORTATION since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01601.pdf"
+fileSize = 980080
+author = "Castelo, Precious Hipolito"
+coAuthors = [ "OLIVAREZ, ERIC L.", "FARINAS, RIA CHRISTINA G.",]
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-07-08"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2019-09-16"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FARINAS, RIA CHRISTINA G."
+nameCode = "Fariñas (R.C.)"
+date = "2021-07-28"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 21010
+congress = 18
+bill_no = "HB01601"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

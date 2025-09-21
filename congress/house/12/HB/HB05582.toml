@@ -1,0 +1,62 @@
+billNumber = "HB05582"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05582"
+lastScraped = "2025-09-22T00:13:00.853071"
+title = "HB05582"
+longTitle = "AN ACT TO PROVIDE COMPENSATION, REIMBURSEMENT FOR HOSPITALIZATION EXPENSES, AND OTHER BENEFITS, TO CIVILIANS CAUGHT IN THE CROSSFIRE BETWEEN REBELS AND THE MILITARY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2003-01-10"
+status = "Pending with the Committee on SOCIAL SERVICES since 2003-01-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "TULAGAN, GENEROSO DC.", "CARI, CARMEN L.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J042"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J049"
+sessionNo = "2RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2003-01-15"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88737
+congress = 12
+bill_no = "HB05582"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2003-01-15"

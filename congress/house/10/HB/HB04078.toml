@@ -1,0 +1,93 @@
+billNumber = "HB04078"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04078"
+lastScraped = "2025-09-22T00:20:58.127622"
+title = "HB04078"
+longTitle = "AN ACT DECLARING THE CITY OF SURIGAO A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1995-09-28"
+status = "Approved by the House on 1997-10-01, transmitted to on 1997-10-02 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "LIBAN, DANTE V.", "FIGUEROA, CATALINO V.", "RAMA, EDUARDO SR. L.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO SR. L."
+nameCode = "Rama"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110499
+congress = 10
+bill_no = "HB04078"
+report = "01012"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-10-03"
+date_ob = "1997-08-05"
+date_report = "1997-08-04"
+
+[secondReading]
+id = 18092
+congress = 10
+bill_no = "HB04078"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-08-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2702
+congress = 10
+bill_no = "HB04078"
+date_dist = "1997-08-12"
+date_adopt = "1997-10-01"
+no_yeas = 158
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-02"
+date_rec = "1997-10-07"

@@ -1,0 +1,72 @@
+billNumber = "HB06300"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06300"
+lastScraped = "2025-09-22T00:20:58.533334"
+title = "HB06300"
+longTitle = "AN ACT CONVERTING THE CABARUAN NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF URDANETA, PROVINCE OF PANGASINAN, INTO AN AGRO-INDUSTRIAL HIGH SCHOOL TO BE KNOWN AS THE CABARUAN AGRO-INDUSTRIAL HIGH SHCOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-20"
+status = "Approved by the House on 1997-02-24, transmitted to on 1997-02-25 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-22"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112721
+congress = 10
+bill_no = "HB06300"
+report = "00752"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-02-22"
+date_ob = "1997-01-30"
+date_report = "1997-01-28"
+
+[secondReading]
+id = 18332
+congress = 10
+bill_no = "HB06300"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2932
+congress = 10
+bill_no = "HB06300"
+date_dist = "1997-02-19"
+date_adopt = "1997-02-24"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-02-25"
+date_rec = "1997-02-28"
+amend_ind = "N"

@@ -1,0 +1,46 @@
+billNumber = "HR01008"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01008"
+lastScraped = "2025-09-22T00:01:47.524197"
+title = "HR01008"
+longTitle = "A RESOLUTION URGING THE MANILA ELECTRIC COMPANY (MERALCO) TO ISSUE REFUNDS TO CUSTOMERS WHO PAID BASED ON ESTIMATES HIGHER THAN ACTUAL\r\nCONSUMPTION AND TO DEFER ACCEPTANCE OF PAYMENTS FOR THE MONTHS OF\r\nMARCH ONWARDS UNTIL ACCURATE BILLING STATEMENTS ARE ISSUED"
+scope = "National"
+dateFiled = "2020-06-29"
+status = "Pending with the Committee on ENERGY since 2020-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01008.pdf"
+fileSize = 957118
+author = "Salvador-Tambunting, Joy Myra"
+[[authorsDetail]]
+name = "Salvador-Tambunting, Joy Myra"
+nameCode = "Salvador-Tambunting"
+date = "2020-06-29"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 31327
+congress = 18
+bill_no = "HR01008"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-07-28"

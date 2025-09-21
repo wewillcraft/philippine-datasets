@@ -1,0 +1,52 @@
+billNumber = "HR01919"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01919"
+lastScraped = "2025-09-21T23:56:23.152557"
+title = "HR01919"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON ENERGY AND AGRARIAN REFORM TO INQUIRE, IN AID OF LEGISLATION, ON THE ALLEGED IMPACT OF THE ESTABLISHMENT AND CONSTRUCTION OF SOLAR ENERGY PLANTS IN AREAS COVERED BY THE AGRARIAN REFORM PROGRAM AND TO LOOK INTO CURRENT POLICIES OF THE DEPARTMENTS OF ENERGY AND AGRARIAN REFORM IN ADDRESSING THE SAME"
+scope = "National"
+dateFiled = "2015-02-18"
+status = "Pending with the Committee on ENERGY since 2015-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR01919.pdf"
+fileSize = 199158
+author = "Guanlao, Agapito H."
+[[authorsDetail]]
+name = "Guanlao, Agapito H."
+nameCode = "Guanlao"
+date = "2015-02-18"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2015-02-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 54316
+congress = 16
+bill_no = "HR01919"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2015-03-18"
+date_read = "2015-02-25"

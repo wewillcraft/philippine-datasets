@@ -1,0 +1,43 @@
+billNumber = "HB01645"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01645"
+lastScraped = "2025-09-22T00:46:56.850366"
+title = "HB01645"
+longTitle = "AN ACT ESTABLISHING A MULTIPURPOSE SPORTS COMPLEXIN THE CITY OF LEGAZPI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-18"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1987-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Imperial"
+[[authorsDetail]]
+name = "Imperial"
+nameCode = "Imperial"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "543"
+dateRead = "1987-09-22"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 136337
+congress = 8
+bill_no = "HB01645"
+comm_act = "CONSOLIDAT ED W/ HB 4284"
+referral = "543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = ""
+date_read = "1987-09-22"

@@ -1,0 +1,46 @@
+billNumber = "HB05335"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05335"
+lastScraped = "2025-09-22T00:20:58.355930"
+title = "HB05335"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE MOUNT PINATUBO AFFECTED AREAS AS A 'SPECIAL PROTECTED AREA,' DEFINING ITS PURPOSE, SCOPE AND NATURE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-11-28"
+status = "Pending with the Committee on MOUNT PINATUBO (SPECIAL CTTE.) since 1995-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "MOUNT PINATUBO (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B514"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111756
+congress = 10
+bill_no = "HB05335"
+referral = "B514"
+ref_name = "MOUNT PINATUBO (SPECIAL CTTE.)"
+date_read = "1995-12-05"

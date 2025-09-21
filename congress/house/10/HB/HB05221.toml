@@ -1,0 +1,46 @@
+billNumber = "HB05221"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05221"
+lastScraped = "2025-09-22T00:20:58.334229"
+title = "HB05221"
+longTitle = "AN ACT ESTABLISHING A FARMERS' TRAINING CENTER IN THE MUNICIPALITY OF DANAO, PROVINCE OF BOHOL, TO BE KNOWN AS THE DANAO FARMERS' TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111642
+congress = 10
+bill_no = "HB05221"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-11-27"

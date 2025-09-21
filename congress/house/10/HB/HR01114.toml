@@ -1,0 +1,84 @@
+billNumber = "HR01114"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01114"
+lastScraped = "2025-09-22T00:20:59.640813"
+title = "HR01114"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECOLOGY AND HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED IMPROPER WASTE DISPOSAL METHODS EMPLOYED BY HOSPITALS AND MEDICAL FACILITIES GENERATING INFECTIOUS AND HAZARDOUS WASTE"
+scope = "National"
+dateFiled = "1997-02-26"
+status = "Pending with the Committee on ECOLOGY since 1997-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "JOAQUIN, NEREO R.", "CALALAY, REYNALDO A.", "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-03-03"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 118168
+congress = 10
+bill_no = "HR01114"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-03-03"

@@ -1,0 +1,46 @@
+billNumber = "HB01059"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01059"
+lastScraped = "2025-09-22T00:20:57.556168"
+title = "HB01059"
+longTitle = "AN ACT CONVERTING THE CARCAR DISTRICT HOSPITAL IN THE MUNICIPALITY OF CARCAR, PROVINCE OF CEBU INTO A PROVINCIAL HOSPITAL WITH A 100-BED CAPACITY TO BE KNOWN AS THE CEBU PROVINCIAL HOSPITAL (SOUTH), AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on HEALTH since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107480
+congress = 10
+bill_no = "HB01059"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-27"

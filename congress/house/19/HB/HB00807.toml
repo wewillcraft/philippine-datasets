@@ -1,0 +1,73 @@
+billNumber = "HB00807"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00807"
+lastScraped = "2025-09-21T23:55:20.223941"
+title = "HB00807"
+longTitle = "AN ACT PROVIDING FOR ADDITIONAL FUNDING FOR THE\r\n\"AGRICULTURE AND FISHERIES MODERNIZATION ACT OF\r\n1997\", REALIGNING ITS ALLOTMENT, DEFINING ITS\r\nDISBURSING GUIDELINES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00807.pdf"
+fileSize = 461288
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "MARIÑO, MARIO VITTORIO \"Marvey\" A.", "RIVERA, BONG", "CELESTE, ART",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2022-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MARIÑO, MARIO VITTORIO \"Marvey\" A."
+nameCode = "Mariño"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CELESTE, ART"
+nameCode = "Celeste"
+date = "2023-06-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 5726
+congress = 19
+bill_no = "HB00807"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

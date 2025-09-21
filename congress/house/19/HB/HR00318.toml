@@ -1,0 +1,47 @@
+billNumber = "HR00318"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00318"
+lastScraped = "2025-09-21T23:55:22.602729"
+title = "HR00318"
+longTitle = "A RESOLUTION\r\n\r\nURGING THE HOUSE OF REPRESENTATIVES THROUGH THE COMMITTEE\r\nON GOOD GOVERNMENT AND ACCOUNTABILITY, ENERGY, AND\r\nCOOPERATIVES DEVELOPMENT TO CONDUCT AN INVESTIGATION, IN AID\r\nOF LEGISLATION, ON THE UNRESOLVED LEADERSHIP AT THE BENGUET\r\n\r\nELECTRIC COOPERATIVE (BENECO)"
+scope = "National"
+dateFiled = "2022-08-30"
+status = "Pending with the Committee on ENERGY since 2022-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00318.pdf"
+fileSize = 243841
+author = "Marcoleta, Rodante D."
+[[authorsDetail]]
+name = "Marcoleta, Rodante D."
+nameCode = "Marcoleta"
+date = "2022-08-30"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 16862
+congress = 19
+bill_no = "HR00318"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-09-14"
+date_read = "2022-09-05"

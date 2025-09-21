@@ -1,0 +1,42 @@
+billNumber = "HB04832"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04832"
+lastScraped = "2025-09-22T00:25:55.525226"
+title = "HB04832"
+longTitle = "AN ACT PRESCRIBING THE PENALTY OF RECLUSION PERPETUA FOR CERTAIN OFFENSES SO AS TO MAKE THEM NONBAILABLE OFFENSES"
+scope = "National"
+dateFiled = "1992-11-13"
+status = "Pending with the Committee on JUSTICE since 1992-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-11-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 123451
+congress = 9
+bill_no = "HB04832"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-11-18"

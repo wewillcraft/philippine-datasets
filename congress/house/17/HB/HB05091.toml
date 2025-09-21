@@ -1,0 +1,80 @@
+billNumber = "HB05091"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05091"
+lastScraped = "2025-09-21T23:55:45.090909"
+title = "HB05091"
+longTitle = "AN ACT TO STRENGTHEN AND ENHANCE THE USE OF ENGLISH AS THE MEDIUM OF INSTRUCTION IN THE EDUCATIONAL SYSTEM"
+scope = "National"
+dateFiled = "2017-02-21"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2017-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05091.pdf"
+fileSize = 665474
+author = "MACAPAGAL-ARROYO, GLORIA"
+coAuthors = [ "ANDAYA, ROLANDO JR. G.", "MALAPITAN, DALE GONZALO R.", "SUANSING, GING", "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "MACAPAGAL-ARROYO, GLORIA"
+nameCode = "Macapagal Arroyo"
+date = "2017-02-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ANDAYA, ROLANDO JR. G."
+nameCode = "Andaya"
+date = "2017-11-28"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MALAPITAN, DALE GONZALO R."
+nameCode = "Malapitan"
+date = "2017-11-28"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2018-01-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2018-09-04"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2017-02-28"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[firstReading]
+id = 38559
+congress = 17
+bill_no = "HB05091"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-02-28"

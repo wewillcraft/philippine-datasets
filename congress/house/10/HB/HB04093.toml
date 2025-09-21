@@ -1,0 +1,49 @@
+billNumber = "HB04093"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04093"
+lastScraped = "2025-09-22T00:20:58.131133"
+title = "HB04093"
+longTitle = "AN ACT AUTHORIZING ANY PERSON LICENSED TO POSSESS FIREARMS TO CARRY THE SAME OUTSIDE OF RESIDENCE WITHOUT PERMIT FROM THE PHILIPPINE NATIONAL POLICE UNDER CERTAIN CONDITIONS"
+scope = "National"
+dateFiled = "1995-09-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 110514
+congress = 10
+bill_no = "HB04093"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-10-03"

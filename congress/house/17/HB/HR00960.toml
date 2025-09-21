@@ -1,0 +1,51 @@
+billNumber = "HR00960"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00960"
+lastScraped = "2025-09-21T23:55:46.417178"
+title = "HR00960"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEE ON HUMAN RIGHTS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE SECRET DETENTION CELLS ALLEGEDLY MAINTAINED BY THE PHILIPPINE NATIONAL POLICE"
+scope = "National"
+dateFiled = "2017-05-03"
+status = "Pending With Rules (Included in OB on 2019-02-06)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00960.pdf"
+fileSize = 170415
+author = "Baguilat, Teddy Jr. Brawner"
+[[authorsDetail]]
+name = "Baguilat, Teddy Jr. Brawner"
+nameCode = "Baguilat"
+date = "2017-05-03"
+sequence = 1
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "primary"
+referralCode = "E507"
+dateRead = "2017-05-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43702
+congress = 17
+bill_no = "HR00960"
+report = "01206"
+comm_act = ""
+referral = "E507"
+ref_name = "HUMAN RIGHTS"
+sub_name = "HUMAN RIGHTS"
+recomm = "Informing the House of its findings and recommendations"
+remarks = ""
+file = "CR01206.pdf"
+date_pend = "2017-05-16"
+date_read = "2017-05-08"
+date_ob = "2019-02-06"
+date_report = "2019-02-06"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_17/CR01206.pdf"

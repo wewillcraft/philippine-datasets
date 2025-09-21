@@ -1,0 +1,61 @@
+billNumber = "HB01245"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01245"
+lastScraped = "2025-09-21T23:55:20.299471"
+title = "HB01245"
+longTitle = "AN ACT GRANTING THE RIGHT TO FRANCHISEES TO DEVELOP THE RURAL AIRPORT INFRASTRUCTURE NETWORK IN THE PHILIPPINES FOR COMMERCIAL AND OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-05"
+status = "Pending with the Committee on TRANSPORTATION since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01245.pdf"
+fileSize = 338112
+author = "GUICO, RAMON N., JR."
+coAuthors = [ "VERGARA, ROSANNA \"RIA\"", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "GUICO, RAMON N., JR."
+nameCode = "Guico"
+date = "2022-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VERGARA, ROSANNA \"RIA\""
+nameCode = "Vergara"
+date = "2022-11-21"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-03-02"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 6164
+congress = 19
+bill_no = "HB01245"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

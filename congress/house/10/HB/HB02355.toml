@@ -1,0 +1,103 @@
+billNumber = "HB02355"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02355"
+lastScraped = "2025-09-22T00:20:57.790495"
+title = "HB02355"
+longTitle = "AN ACT STRENGTHENING THE NATIONAL ELECTRIFICATION ADMINISTRATION (NEA) AND THE RURAL ELECTRIC COOPERATIVES (RECs) BY RELIEVING THEM OF CERTAIN LOAN OBLIGATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-14"
+status = "Business for the day on 1997-02-06"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+coAuthors = [ "LEVISTE, RENATO V.", "PALMA GIL, MA. ELENA T.", "OCAMPO, ROSENDA ANN M.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LEVISTE, RENATO V."
+nameCode = "Leviste"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "OCAMPO, ROSENDA ANN M."
+nameCode = "Ocampo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-08-17"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HB00993"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB01324"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00993"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01324"
+flag = "S"
+
+[firstReading]
+id = 108776
+congress = 10
+bill_no = "HB02355"
+report = "00538"
+referral = "0510"
+ref_name = "ENERGY"
+recomm = "approval"
+date_read = "1995-08-17"
+date_ob = "1996-08-22"
+date_report = "1996-08-20"
+
+[secondReading]
+id = 17908
+congress = 10
+bill_no = "HB02355"
+date_calendared = "1997-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

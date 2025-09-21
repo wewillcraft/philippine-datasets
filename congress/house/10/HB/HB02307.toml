@@ -1,0 +1,51 @@
+billNumber = "HB02307"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02307"
+lastScraped = "2025-09-22T00:20:57.782330"
+title = "HB02307"
+longTitle = "AN ACT CONVERTING THE DUENAS NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF DUENAS, PROVINCE OF ILOILO, INTO A COLLEGE TO BE KNOWN AS THE DUENAS POLYTECHNIC COLLEGE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-17"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 108728
+congress = 10
+bill_no = "HB02307"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-17"

@@ -1,0 +1,46 @@
+billNumber = "HB09158"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB09158"
+lastScraped = "2025-09-21T23:55:46.195256"
+title = "HB09158"
+longTitle = "AN ACT CREATING A REGIONAL HOSPITAL IN THE PROVINCE OF SOUTHERN LEYTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2019-03-07"
+status = "Pending with the Committee on HEALTH since 2019-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB09158.pdf"
+fileSize = 537037
+author = "Mercado, Roger G."
+[[authorsDetail]]
+name = "Mercado, Roger G."
+nameCode = "Mercado"
+date = "2019-03-07"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-05-20"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[firstReading]
+id = 42625
+congress = 17
+bill_no = "HB09158"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-05-20"

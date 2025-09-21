@@ -1,0 +1,47 @@
+billNumber = "HR01616"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01616"
+lastScraped = "2025-09-22T00:01:47.648221"
+title = "HR01616"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE\r\nOF REPRESENTATIVES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION\r\nON THE CURRENT PLIGHT OF NURSES IN PUBLIC HEALTH INSTITUTIONS\r\nWITH THE END IN VIEW OF PROVIDING APPROPRIATE MEASURES TO\r\nSUPPORT THEM"
+scope = "National"
+dateFiled = "2021-03-02"
+status = "Pending with the Committee on HEALTH since 2021-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01616.pdf"
+fileSize = 1149201
+author = "Paduano, Joseph Stephen \"Caraps\" S."
+[[authorsDetail]]
+name = "Paduano, Joseph Stephen \"Caraps\" S."
+nameCode = "Paduano"
+date = "2021-03-02"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-03-02"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 31934
+congress = 18
+bill_no = "HR01616"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-03-10"
+date_read = "2021-03-02"

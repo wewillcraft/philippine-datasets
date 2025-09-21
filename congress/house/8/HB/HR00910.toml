@@ -1,0 +1,42 @@
+billNumber = "HR00910"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00910"
+lastScraped = "2025-09-22T00:47:02.703302"
+title = "HR00910"
+longTitle = "RESOLUTION URGING THE INSURANCE COMMISSIONER TO DIRECT ALL INSURANCE COMPANIES TO FACILITATE PAYMENTS OF CLAIMS, MORE PARTICULARLY THOSE RELATING TO VEHICLE INSURANCE"
+scope = "National"
+dateFiled = "1988-09-06"
+status = "Pending with the Committee on CORPORATIONS AND FRANCHISES since 1988-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CORPORATIONS AND FRANCHISES"
+type = "primary"
+referralCode = "508"
+dateRead = "1988-09-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 170790
+congress = 8
+bill_no = "HR00910"
+referral = "508"
+ref_name = "CORPORATIONS AND FRANCHISES"
+sub_name = ""
+date_read = "1988-09-09"

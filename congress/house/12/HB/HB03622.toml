@@ -1,0 +1,55 @@
+billNumber = "HB03622"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03622"
+lastScraped = "2025-09-22T00:13:00.456476"
+title = "HB03622"
+longTitle = "AN ACT RESTRUCTURING, RE-ALLOCATING PROSECUTION POSITIONS AND STRENGTHENING THE NATIONAL PROSECUTION SERVICE AND PROVIDING ADDITIONAL FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-10-22"
+status = "Pending with the Committee on JUSTICE since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86782
+congress = 12
+bill_no = "HB03622"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-11-19"

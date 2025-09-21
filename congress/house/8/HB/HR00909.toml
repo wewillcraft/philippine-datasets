@@ -1,0 +1,42 @@
+billNumber = "HR00909"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00909"
+lastScraped = "2025-09-22T00:47:02.703148"
+title = "HR00909"
+longTitle = "RESOLUTION REQUESTING THE DEPARTMENT OF AGRICULTURE AND FOOD TO SUBMIT TO THE COMMITTEE ON AGRICULTURE AND FOOD, COMPREHENSIVE INVENTORY OF ALL PROJECTS UNDERTAKEN (COMPLETED, ONGOING AND ALMOST COMPLETED) AND THEIR SOURCE OF FUNDING"
+scope = "National"
+dateFiled = "1988-09-06"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-09-09"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 170789
+congress = 8
+bill_no = "HR00909"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-09-09"

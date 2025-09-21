@@ -1,0 +1,48 @@
+billNumber = "HR01137"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01137"
+lastScraped = "2025-09-22T00:25:57.575202"
+title = "HR01137"
+longTitle = "RESOLUTION CALLING FOR AN IMMEDIATE AND THOROUGH INVESTIGATION, IN AID OF LEGISLATION, INTO THE HIGHLY QUESTIONABLE OIL SPILL IN LAGUNA LAKE"
+scope = "Local"
+dateFiled = "1994-08-01"
+status = "Pending with the Committee on ECOLOGY since 1994-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1994-08-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 134443
+congress = 9
+bill_no = "HR01137"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ecology and Energy on 08/08/94"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1994-08-04"

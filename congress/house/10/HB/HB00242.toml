@@ -1,0 +1,54 @@
+billNumber = "HB00242"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00242"
+lastScraped = "2025-09-22T00:20:57.423309"
+title = "HB00242"
+longTitle = "AN ACT STRENGTHENING THE CROP INSURANCE PROGRAM OF GOVERNMENT FURTHER AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1467, AS AMENDED"
+scope = "National"
+dateFiled = "1995-07-05"
+status = "Substituted by HB05201"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106663
+congress = 10
+bill_no = "HB00242"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-07-26"

@@ -1,0 +1,42 @@
+billNumber = "HB04500"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04500"
+lastScraped = "2025-09-22T00:46:57.345029"
+title = "HB04500"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE REPAIR OF BALETE HEALTH CENTER IN THE MUNICIPALITY OF BALETE, PROVINCE OF AKLAN"
+scope = "Local"
+dateFiled = "1987-12-09"
+status = "Pending with the Committee on HEALTH since 1987-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Legaspi"
+[[authorsDetail]]
+name = "Legaspi"
+nameCode = "Legaspi"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-15"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 139184
+congress = 8
+bill_no = "HB04500"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+date_read = "1987-12-15"

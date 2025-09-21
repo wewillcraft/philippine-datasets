@@ -1,0 +1,54 @@
+billNumber = "HB02253"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02253"
+lastScraped = "2025-09-21T23:55:20.469264"
+title = "HB02253"
+longTitle = "AN ACT ABOLISHING TRAVEL TAX"
+scope = "National"
+dateFiled = "2022-07-22"
+status = "Pending with the Committee on TOURISM since 2022-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02253.pdf"
+fileSize = 291026
+author = "PUMAREN, FRANZ S"
+coAuthors = [ "RILLO, MARVIN",]
+[[authorsDetail]]
+name = "PUMAREN, FRANZ S"
+nameCode = "Pumaren"
+date = "2022-07-22"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RILLO, MARVIN"
+nameCode = "Rillo"
+date = "2022-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 7172
+congress = 19
+bill_no = "HB02253"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-02"

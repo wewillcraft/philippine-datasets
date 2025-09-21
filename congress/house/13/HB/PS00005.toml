@@ -1,0 +1,42 @@
+billNumber = "PS00005"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00005"
+lastScraped = "2025-09-22T00:13:49.472865"
+title = "PS00005"
+longTitle = "Audit of Public Debt"
+scope = "National"
+dateFiled = "2004-08-02"
+status = "Pending with the Committee on APPROPRIATIONS since 2004-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zialcita, Eduardo C."
+[[authorsDetail]]
+name = "Zialcita, Eduardo C."
+nameCode = "Zialcita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2004-08-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 82818
+congress = 13
+bill_no = "PS00005"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2004-08-24"

@@ -1,0 +1,41 @@
+billNumber = "HB08545"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08545"
+lastScraped = "2025-09-22T00:20:58.982931"
+title = "HB08545"
+longTitle = "AN ACT PROVIDING FOR ADDITIONAL PERIOD FOR FILING APPLICATIONS FOR VALIDATION OF TITLES TO LANDS WITHIN THE BAGUIO TOWNSITE RESERVATION, PURSUANT TO PRESIDENTIAL DECREE NO. 1271, AS AMENDED, AND FOR PAYMENT OF VALIDATION FEES PRESCRIBED THEREUNDER,AMENDING PRESIDENTIAL DECREE NO. 2034 FOR THIS PURPOSE"
+scope = "Local"
+dateFiled = "1996-12-05"
+status = "Pending with the Committee on JUSTICE since 1996-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-12-09"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 114966
+congress = 10
+bill_no = "HB08545"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-12-09"

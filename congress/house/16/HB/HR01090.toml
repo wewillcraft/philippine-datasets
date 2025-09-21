@@ -1,0 +1,50 @@
+billNumber = "HR01090"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01090"
+lastScraped = "2025-09-21T23:56:22.998017"
+title = "HR01090"
+longTitle = "RESOLUTION CREATING A CONGRESSIONAL OVERSIGHT COMMITTEE ON SCIENCE AND TECHNOLOGY, AND ENGINEERING"
+scope = "National"
+dateFiled = "2014-05-06"
+status = "Pending With Rules (Included in OB on 2014-06-09)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yu, Victor J."
+[[authorsDetail]]
+name = "Yu, Victor J."
+nameCode = "Yu"
+date = "2014-05-06"
+sequence = 1
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "2014-05-13"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 53488
+congress = 16
+bill_no = "HR01090"
+report = "00311"
+comm_act = ""
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = "SCIENCE AND TECHNOLOGY"
+recomm = "Adoption without amendment."
+remarks = ""
+file = "CR00311.pdf"
+date_read = "2014-05-13"
+date_ob = "2014-06-09"
+date_report = "2014-06-05"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00311.pdf"

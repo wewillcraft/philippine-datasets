@@ -1,0 +1,61 @@
+billNumber = "HR01445"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01445"
+lastScraped = "2025-09-22T00:20:59.700977"
+title = "HR01445"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES, ON THE DEMISE OF ZOSIMOVILLAROSA , FATHER OF CONGRESSMAN JOSE T. VILLAROSA, REPRESENTATIVE OF THE LONE DISTRICT OF OCCIDENTAL MINDORO"
+scope = "Local"
+dateFiled = "1997-11-25"
+status = "Adopted as Resolution No. HR00122 on 1997-11-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "PUNZALAN, JESUS M.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, JESUS M."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-11-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118499
+congress = 10
+bill_no = "HR01445"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-11-24"
+
+[secondReading]
+id = 19050
+congress = 10
+bill_no = "HR01445"
+adopted_resolution = "HR00122"
+date_calendared = "1997-11-25"
+date_approved = "1997-11-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00122.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00122.pdf"

@@ -1,0 +1,42 @@
+billNumber = "HR02124"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02124"
+lastScraped = "2025-09-22T00:47:02.966249"
+title = "HR02124"
+longTitle = "RESOLUTION URGING THE REPUBLIC OF THE PHILIPPINES TO SEND A TOKEN MILITARY FORCE OF ONE THOUSAND MEN TO JOIN THE UNITED NATIONS MULTI-NATIONAL FORCE IN THE PERSIAN GULF AREA"
+scope = "National"
+dateFiled = "1991-01-24"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1991-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1991-01-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171959
+congress = 8
+bill_no = "HR02124"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1991-01-30"

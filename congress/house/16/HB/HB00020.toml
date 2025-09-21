@@ -1,0 +1,73 @@
+billNumber = "HB00020"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00020"
+lastScraped = "2025-09-21T23:56:21.468840"
+title = "Philippine Veterans Authority Act"
+longTitle = "AN ACT INTEGRATING ALL AGENCIES AND OFFICES ON VETERANS WELFARE, CREATING FOR THE PURPOSE THE PHILIPPINE VETERANS AUTHORITY (PVA), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00020.pdf"
+fileSize = 2288577
+author = "Acedillo, Francisco Ashley L."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "ALEJANO, GARY C.",]
+[[authorsDetail]]
+name = "Acedillo, Francisco Ashley L."
+nameCode = "Acedillo"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-09-16"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-09-16"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALEJANO, GARY C."
+nameCode = "Alejano"
+date = "2013-07-01"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "VETERANS AFFAIRS AND WELFARE"
+type = "secondary"
+referralCode = "A506"
+
+[firstReading]
+id = 45834
+congress = 16
+bill_no = "HB00020"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

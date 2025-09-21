@@ -1,0 +1,41 @@
+billNumber = "HR01259"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01259"
+lastScraped = "2025-09-22T00:20:59.667010"
+title = "HR01259"
+longTitle = "RESOLUTION REQUESTING AN INVESTIGATION, IN AID OF LEGISLATION, OF THE INACTION AND NONIMPLEMENTATI ON BY THE DEPARTMENT OF AGRARIAN REFORM-CORDILLE RA ADMINISTRATIVE REGION OF AN ORDER ISSUED BY THEN MINISTER CONRADO F. ESTRELLA, INVOLVING SEVERAL PARCELS OF LAND LOCATED AT LA TRINIDAD, PROVINCE OF BENGUET"
+scope = "Local"
+dateFiled = "1997-06-23"
+status = "Pending with the Committee on AGRARIAN REFORM since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118313
+congress = 10
+bill_no = "HR01259"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+date_read = "1997-07-30"

@@ -1,0 +1,50 @@
+billNumber = "HR01810"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01810"
+lastScraped = "2025-09-22T00:47:02.886397"
+title = "HR01810"
+longTitle = "RESOLUTION URGING PRESIDENT CORAZON C. AQUINO TO CERTIFY AS URGENT AN ADMINISTRATION BILL CREATING A PRESIDENTIAL COUNCIL FOR DISASTER RELIEF AND REHABILITATION, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1990-07-20"
+status = "Pending with the Committee on SOCIAL SERVICES since 1990-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1990-07-26"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 171647
+congress = 8
+bill_no = "HR01810"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1990-07-26"

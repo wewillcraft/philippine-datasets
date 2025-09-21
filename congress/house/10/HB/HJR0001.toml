@@ -1,0 +1,41 @@
+billNumber = "HJR0001"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0001"
+lastScraped = "2025-09-22T00:20:59.419268"
+title = "HJR0001"
+longTitle = "JOINT RESOLUTION OF THE HOUSE OF REPRESENTATIVES AND THE SENATE CALLING FOR A CONSTITUENT ASSEMBLY TO AMEND THE CONSTITUTION"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Substituted by HCR0040"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "0507"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 117028
+congress = 10
+bill_no = "HJR0001"
+referral = "0507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+date_read = "1995-07-31"

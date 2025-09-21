@@ -1,0 +1,46 @@
+billNumber = "HJR0013"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HJR0013"
+lastScraped = "2025-09-22T00:01:47.331096"
+title = "HJR0013"
+longTitle = "HOUSE JOINT RESOLUTION DIRECTING THE CONGRESSIONAL OVERSIGHT COMMITTEE ON CIVIL AVIATION AUTHORITY OF THE PHILIPPINES (COCCAAP) TO CONTINUE ITS MANDATE AS PROVIDED FOR IN SECTION 91 OF REPUBLIC ACT NO. 9497 OR THE CIVIL AVIATION AUTHORITY ACT OF 2008"
+scope = "National"
+dateFiled = "2019-09-10"
+status = "Pending with the Committee on TRANSPORTATION since 2019-09-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HJR0013.pdf"
+fileSize = 882102
+author = "Ong, Ronnie L."
+[[authorsDetail]]
+name = "Ong, Ronnie L."
+nameCode = "Ong (R.)"
+date = "2019-09-10"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-09-12"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 30301
+congress = 18
+bill_no = "HJR0013"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-09-12"

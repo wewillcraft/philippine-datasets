@@ -1,0 +1,42 @@
+billNumber = "HR00432"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00432"
+lastScraped = "2025-09-22T00:47:02.608725"
+title = "HR00432"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION IN ORDER TO UNDERTAKE A THOROUGH STUDY OF THE SALARY SCALES OF GOVERNMENT EMPLOYEES, TO PROVIDE FOR A STANDARD PAY SCALE AND EFFECT SALARY ADJUSTMENTAND/OR INCREASES FOR THE PURPOSE"
+scope = "National"
+dateFiled = "1987-10-13"
+status = "Pending with the Committee on APPROPRIATIONS since 1987-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dureza"
+[[authorsDetail]]
+name = "Dureza"
+nameCode = "Dureza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1987-10-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170323
+congress = 8
+bill_no = "HR00432"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1987-10-15"

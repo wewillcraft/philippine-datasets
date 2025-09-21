@@ -1,0 +1,64 @@
+billNumber = "HCR0014"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0014"
+lastScraped = "2025-09-22T00:20:59.408968"
+title = "HCR0014"
+longTitle = "CONCURRENT RESOLUTION APPROVING THE TRANSFER, SALE OR ASSIGNMENT OF THE CONTROLLING INTEREST IN CEBU AIR, INC., TO THE JG SUMMIT GROUP"
+scope = "Local"
+dateFiled = "1995-12-13"
+status = "Approved by the House on  and transmitted to the Senate on 1997-03-14"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier, Exequiel B."
+[[authorsDetail]]
+name = "Javier, Exequiel B."
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1995-12-19"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 116985
+congress = 10
+bill_no = "HCR0014"
+report = "00235"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "ADOPTION"
+date_read = "1995-12-19"
+date_ob = "1996-02-26"
+date_report = "1996-02-26"
+
+[secondReading]
+id = 18875
+congress = 10
+bill_no = "HCR0014"
+remarks = "Body Approved to insert the Sponsorship Speech of the chairman of the sponsoring Committee into the records of the House"
+date_calendared = "1996-03-14"
+date_approved = "1996-03-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3428
+congress = 10
+bill_no = "HCR0014"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-03-14"

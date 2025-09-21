@@ -1,0 +1,42 @@
+billNumber = "HR01405"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01405"
+lastScraped = "2025-09-22T00:47:02.804288"
+title = "HR01405"
+longTitle = "RESOLUTION AMENDING THE RULES OF THE HOUSE OF REPRESENTATIVES BY INSERTING NEW SUBSECTIONS TO RULE V, SECTION 27 THEREOF, THEREBY ALLOWING/AUTHOR IZING DULY DESIGNATED STAFF MEMBERS OF THE HONORABLE MEMBERS OF THE HOUSE OF REPRESENTATIVES TO PARTICIPATE IN COMMITTEE MEETINGS"
+scope = "Local"
+dateFiled = "1989-08-14"
+status = "Pending with the Committee on RULES since 1989-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-08-14"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171271
+congress = 8
+bill_no = "HR01405"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-08-14"

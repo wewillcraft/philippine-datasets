@@ -1,0 +1,42 @@
+billNumber = "HR02136"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02136"
+lastScraped = "2025-09-22T00:47:02.969109"
+title = "HR02136"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEES ON NATIONAL DEFENSE AND SECURITY AND FOREIGN RELATIONS TO JOINTLY INVESTIGATE THE ALLEGED PRESENCE AND ACTIVITIES OF FOREIGN TERRORIST AND COUNTER-TERRORI ST AGENTS IN THE COUNTRY AND RECOMMEND APPROPRIATE MEASURES TO ENSURE NATIONAL SECURITY"
+scope = "National"
+dateFiled = "1991-01-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1991-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1991-02-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171971
+congress = 8
+bill_no = "HR02136"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1991-02-04"

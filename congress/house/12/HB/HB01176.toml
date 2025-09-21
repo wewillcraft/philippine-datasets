@@ -1,0 +1,47 @@
+billNumber = "HB01176"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01176"
+lastScraped = "2025-09-22T00:13:00.017625"
+title = "HB01176"
+longTitle = "AN ACT TO ESTABLISH A MANPOWER TRAINING CENTER IN THE MUNICIPALITY OF NASUGBU, PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita-Buhain, Eileen"
+[[authorsDetail]]
+name = "Ermita-Buhain, Eileen"
+nameCode = "Ermita-buhain"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84336
+congress = 12
+bill_no = "HB01176"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-07-30"

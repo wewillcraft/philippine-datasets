@@ -1,0 +1,46 @@
+billNumber = "HB01520"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01520"
+lastScraped = "2025-09-21T23:39:48.597494"
+title = "HB01520"
+longTitle = "AN ACT ESTABLISHING THE OFFICE OF THE REGISTER OF DEEDS IN THE CITY OF PASSI, PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-07-07"
+status = "Pending with the Committee on JUSTICE since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01520.pdf"
+fileSize = 102981
+author = "BIRON, FERJENEL G., MD"
+[[authorsDetail]]
+name = "BIRON, FERJENEL G., MD"
+nameCode = "Biron"
+date = "2025-07-07"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 1521
+congress = 103
+bill_no = "HB01520"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

@@ -1,0 +1,75 @@
+billNumber = "HB06067"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06067"
+lastScraped = "2025-09-22T00:20:58.488552"
+title = "HB06067"
+longTitle = "THE ABSENTEE VOTING LAW OF 1996"
+scope = "National"
+dateFiled = "1996-02-01"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1996-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "AUMENTADO, ERICO B.", "VERCELES, LEANDRO JR. B.", "DEL MAR, RAUL V.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112488
+congress = 10
+bill_no = "HB06067"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+date_read = "1996-02-06"

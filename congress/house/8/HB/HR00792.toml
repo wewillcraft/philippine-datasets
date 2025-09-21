@@ -1,0 +1,42 @@
+billNumber = "HR00792"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00792"
+lastScraped = "2025-09-22T00:47:02.682711"
+title = "HR00792"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO INVESTIGATE THE MYSTERIOUS DEATH OF FOUR CADETS AND THE HOSPITALIZATION OF SEVERAL OTHERS ALLEGEDLY DUE TO FOOD POISONING"
+scope = "Local"
+dateFiled = "1988-07-26"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-07-28"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 170673
+congress = 8
+bill_no = "HR00792"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-07-28"

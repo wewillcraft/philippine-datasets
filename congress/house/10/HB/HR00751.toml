@@ -1,0 +1,55 @@
+billNumber = "HR00751"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00751"
+lastScraped = "2025-09-22T00:20:59.566735"
+title = "HR00751"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON VETERANS AFFAIRS TO CONDUCT AN INQUIRY ON THE ALLEGED INVOLVEMENT OF THE AMERICAN LEGION IN THE 'FLY NOW AND PAY LATER' PROGRAM WHICH HAD VICTIMIZED MANY FILIPINO VETERANS WHO BECAME NATURALIZED AMERICAN CITIZENS BY VIRTUE OF THE UNITED STATES IMMIGRATION ACT OF 1990"
+scope = "National"
+dateFiled = "1996-08-01"
+status = "Pending with the Committee on RULES since 1996-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-06"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "VETERANS AFFAIRS AND WELFARE"
+type = "secondary"
+referralCode = "A506"
+
+[firstReading]
+id = 117805
+congress = 10
+bill_no = "HR00751"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Veterans Affairs on Aug. 7, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-06"

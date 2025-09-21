@@ -1,0 +1,46 @@
+billNumber = "HB01551"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01551"
+lastScraped = "2025-09-22T00:20:57.640408"
+title = "HB01551"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BARANGAY HALL IN BARANGAY MAPULA, CITY OF DAVAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107972
+congress = 10
+bill_no = "HB01551"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-03"

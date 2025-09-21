@@ -1,0 +1,42 @@
+billNumber = "HB00008"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00008"
+lastScraped = "2025-09-22T00:46:56.533974"
+title = "HB00008"
+longTitle = "AN ACT TO CREATE AN EXPERIMENTAL PLANTATION FOR THE SCIENTIFIC CULTURE, GROWING AND PROPAGATION OF RATTAN IN THE PROVINCE OF QUEZON IN SUCH SUITABLE SITES AS MAY BE SELECTED THEREIN AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-07-23"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-07-28"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 134706
+congress = 8
+bill_no = "HB00008"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-07-28"

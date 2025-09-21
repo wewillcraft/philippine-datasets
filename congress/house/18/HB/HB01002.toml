@@ -1,0 +1,59 @@
+billNumber = "HB01002"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01002"
+lastScraped = "2025-09-22T00:01:45.231157"
+title = "HB01002"
+longTitle = "AN ACT CREATING THE PHILIPPINE FRUIT AUTHORITY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-02"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01002.pdf"
+fileSize = 2632981
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "CHATTO, EDGARDO M.",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2019-07-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = "2021-08-31"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "secondary"
+referralCode = "E505"
+
+[firstReading]
+id = 20413
+congress = 18
+bill_no = "HB01002"
+report = ""
+comm_act = ""
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

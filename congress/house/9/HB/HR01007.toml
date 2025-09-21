@@ -1,0 +1,51 @@
+billNumber = "HR01007"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01007"
+lastScraped = "2025-09-22T00:25:57.553302"
+title = "HR01007"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND THE COMMITTEE ON ECOLOGY TO CONDUCT A JOINT INQUIRY, IN AID OF LEGISLATION, INTO THE REPORT OF THE INTERNATIONAL RICE RESEARCH INSTITUTE (IRRI) THAT IRRIGATED RICEFIELDS ARE INCREASINGLY PRODUCING METHANE GAS WHICH IS HARMFUL TO THE ENVIRONMENT, AND TO RECOMMEND APPROPRIATE MEASURES AS MAY BE NECESSARY"
+scope = "National"
+dateFiled = "1994-04-12"
+status = "Pending with the Committee on ECOLOGY since 1994-04-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1994-04-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 134314
+congress = 9
+bill_no = "HR01007"
+comm_act = "Change of referral from the Committee on Rules (J76, p.45)"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1994-04-14"

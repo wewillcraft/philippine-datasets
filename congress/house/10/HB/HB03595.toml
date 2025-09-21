@@ -1,0 +1,69 @@
+billNumber = "HB03595"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03595"
+lastScraped = "2025-09-22T00:20:58.040726"
+title = "HB03595"
+longTitle = "AN ACT CONVERTING THE MAUBAN-ATIMONAN PROVINCIAL ROAD IN THE MUNICIPALITY OF MAUBAN, PROVINCE OF QUEZON, INTO A NATIONAL ROAD AND APPROPRIATING FUNDS FOR THE IMPROVEMENT AND MAINTENANCE THEREOF"
+scope = "Local"
+dateFiled = "1995-09-19"
+status = "Approved on Third Reading on 1997-11-13"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110016
+congress = 10
+bill_no = "HB03595"
+report = "01158"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-09-25"
+date_ob = "1997-10-20"
+date_report = "1997-10-16"
+
+[secondReading]
+id = 18029
+congress = 10
+bill_no = "HB03595"
+remarks = "Considered the Explaantory Note as the Sponsorship Speech"
+date_approved = "1997-10-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2640
+congress = 10
+bill_no = "HB03595"
+date_dist = "1997-11-10"
+date_adopt = "1997-11-13"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0

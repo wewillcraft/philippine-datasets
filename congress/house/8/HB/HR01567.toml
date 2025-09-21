@@ -1,0 +1,42 @@
+billNumber = "HR01567"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01567"
+lastScraped = "2025-09-22T00:47:02.851175"
+title = "HR01567"
+longTitle = "RESOLUTION URGING JOINTLY THE COMMITTEE ON GOVERNMENT REORGANIZATION AND THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT A STUDY OF POSSIBLE SPLITTING INTO TWO DEPARTMENTS, THE DEPARTMENT IF TRANSPORTATION AND COMMUNICATIONS (DOTC)"
+scope = "Local"
+dateFiled = "1989-11-29"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1989-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1989-11-29"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 171427
+congress = 8
+bill_no = "HR01567"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1989-11-29"

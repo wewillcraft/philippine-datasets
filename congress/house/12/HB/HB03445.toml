@@ -1,0 +1,47 @@
+billNumber = "HB03445"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03445"
+lastScraped = "2025-09-22T00:13:00.424502"
+title = "HB03445"
+longTitle = "AN ACT PROVIDING FOR THE INSTALLATION OF AT LEAST ONE (1) WEIGHING SCALE IN EVERY PUBLIC MARKET WITHIN THE CITY OF ORMOC AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-09"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86605
+congress = 12
+bill_no = "HB03445"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "2001-10-15"

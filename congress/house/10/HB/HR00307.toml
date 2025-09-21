@@ -1,0 +1,64 @@
+billNumber = "HR00307"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00307"
+lastScraped = "2025-09-22T00:20:59.479117"
+title = "HR00307"
+longTitle = "RESOLUTION URGING THE GAMES AND AMUSEMENT BOARD (GAB) TO PROHIBIT THE PUBLICATION OF JAI-ALAI AMATEUR GAMES RESULTS IN ALL NEWSPAPERS OF GENERAL CIRCULATION, RADIO AND TELEVISION BOROADCAST"
+scope = "National"
+dateFiled = "1995-11-14"
+status = "Adopted as Resolution No. HR00077 on 1996-10-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117361
+congress = 10
+bill_no = "HR00307"
+report = "00555"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+date_read = "1995-11-20"
+date_ob = "1996-09-05"
+date_report = "1996-09-03"
+
+[secondReading]
+id = 18949
+congress = 10
+bill_no = "HR00307"
+adopted_resolution = "HR00077"
+date_calendared = "1996-09-25"
+date_approved = "1996-10-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00077.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00077.pdf"

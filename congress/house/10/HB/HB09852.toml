@@ -1,0 +1,46 @@
+billNumber = "HB09852"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09852"
+lastScraped = "2025-09-22T00:20:59.256982"
+title = "HB09852"
+longTitle = "AN ACT CONVERTING THE CULION SANITARIUM IN THE MUNICIPALITY OF CULION, PROVINCE OF PALAWAN, TO CULION SANITARIUM AND GENERAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-20"
+status = "Pending with the Committee on HEALTH since 1997-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-08-26"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116273
+congress = 10
+bill_no = "HB09852"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-08-26"

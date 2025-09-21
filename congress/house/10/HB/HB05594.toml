@@ -1,0 +1,51 @@
+billNumber = "HB05594"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05594"
+lastScraped = "2025-09-22T00:20:58.406658"
+title = "HB05594"
+longTitle = "AN ACT CREATING THE PHILIPPINE RUBBER RESEARCH AND DEVELOPMENT BOARD AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-12-20"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 112015
+congress = 10
+bill_no = "HB05594"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-01-22"

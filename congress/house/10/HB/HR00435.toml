@@ -1,0 +1,50 @@
+billNumber = "HR00435"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00435"
+lastScraped = "2025-09-22T00:20:59.502701"
+title = "HR00435"
+longTitle = "RESOLUTION CALLING FOR AN INQUIRY BY THE COMMITTEE ON ENERGY, IN AID OF LEGISLATION, ON THE ADVANTAGES OF PIPING NATURAL GAS TO AND GENERATING ELECTRIC POWER IN PALAWAN FOR DISTRIBUTION TO VARIOUS PARTS OF THE COUNTRY"
+scope = "Local"
+dateFiled = "1996-01-30"
+status = "Pending with the Committee on ENERGY since 1996-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "ABUEG, ALFREDO AMOR JR. E.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABUEG, ALFREDO AMOR JR. E."
+nameCode = "Abueg"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-02-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117489
+congress = 10
+bill_no = "HR00435"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Feb. 5, 1996."
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-02-01"

@@ -1,0 +1,80 @@
+billNumber = "HB01200"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01200"
+lastScraped = "2025-09-21T23:56:40.771037"
+title = "HB01200"
+longTitle = "AN ACT TO PROMOTE AND HASTEN THE DEVELOPMENT OF MICROFINANCE NGOs IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2010-07-12"
+status = "Pending with the Committee on WAYS AND MEANS since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01200.pdf"
+fileSize = 482996
+author = "TEODORO, MARCELINO \"MARCY\" R."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "GARBIN, ALFREDO JR.", "CASTELO, WINSTON TAQUEBAN",]
+[[authorsDetail]]
+name = "TEODORO, MARCELINO \"MARCY\" R."
+nameCode = "Teodoro"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GARBIN, ALFREDO JR."
+nameCode = "Garbin"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J052"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 56672
+congress = 15
+bill_no = "HB01200"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

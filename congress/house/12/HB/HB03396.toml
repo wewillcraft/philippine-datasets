@@ -1,0 +1,47 @@
+billNumber = "HB03396"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03396"
+lastScraped = "2025-09-22T00:13:00.416664"
+title = "HB03396"
+longTitle = "AN ACT INSTITUTING A NATIONAL IDENTIFICATION SYSTEM, CREATING FOR THE PURPOSE THE NATIONAL IDENTIFICATION SYSTEM COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-05"
+status = "Pending with the Committee on JUSTICE since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suplico, Rolex T."
+[[authorsDetail]]
+name = "Suplico, Rolex T."
+nameCode = "Suplico"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86556
+congress = 12
+bill_no = "HB03396"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-10-15"

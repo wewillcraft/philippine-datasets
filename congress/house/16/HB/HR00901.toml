@@ -1,0 +1,48 @@
+billNumber = "HR00901"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00901"
+lastScraped = "2025-09-21T23:56:22.964550"
+title = "HR00901"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEES ON ENERGY AND GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY TO IMMEDIATELY CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE MASSIVE POWER BLACKOUT THAT LEFT MILLIONS WITHOUT ELECTRICITY FOR HOURS IN THE HEAVILY POPULATED AREAS IN MINDANAO"
+scope = "National"
+dateFiled = "2014-03-03"
+status = "Pending with the Committee on ENERGY since 2014-10-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00901.pdf"
+fileSize = 159779
+author = "Rivera, Michael Angelo C."
+[[authorsDetail]]
+name = "Rivera, Michael Angelo C."
+nameCode = "Rivera"
+date = "2014-03-03"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2014-03-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 53299
+congress = 16
+bill_no = "HR00901"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+file = ""
+date_pend = "2014-10-29"
+date_read = "2014-03-04"

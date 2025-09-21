@@ -1,0 +1,47 @@
+billNumber = "HB10656"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10656"
+lastScraped = "2025-09-22T00:25:56.528803"
+title = "HB10656"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF FIVE HUNDRED THOUSAND PESOS (P500,00.00) FOR THE PURCHASE OF DRUGS AND MEDICINES FOR ALL THE MUNICIPALITIES OF THE SECOND CONGRESSIONAL DISTRICT OF MAGUINDANAO"
+scope = "Local"
+dateFiled = "1993-09-02"
+status = "Pending with the Committee on HEALTH since 1993-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Datumanong ,Simeon A."
+[[authorsDetail]]
+name = "Datumanong ,Simeon A."
+nameCode = "Datumanong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-09-09"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129274
+congress = 9
+bill_no = "HB10656"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-09-09"

@@ -1,0 +1,42 @@
+billNumber = "HB12706"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12706"
+lastScraped = "2025-09-22T00:25:56.947879"
+title = "HB12706"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE RIZAL MEDICAL CENTER IN PASIG, METRO MANILA, FROM THREE HUNDRED (300) TO FIVE HUNDRED (500) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-05-10"
+status = "Pending with the Committee on HEALTH since 1994-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier"
+[[authorsDetail]]
+name = "Javier"
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-05-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131315
+congress = 9
+bill_no = "HB12706"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-05-16"

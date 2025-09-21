@@ -1,0 +1,42 @@
+billNumber = "HR00145"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00145"
+lastScraped = "2025-09-22T00:13:01.169720"
+title = "HR00145"
+longTitle = "RESOLUTION URGING THE SUPREME COURT TO AMEND THE RULES OF COURT IN ORDER TO LIBERALIZE THE ADMISSION TO THE PRACTICE OF LAW BY ALLOWING REMOVAL EXAMINATIONS"
+scope = "National"
+dateFiled = "2001-08-28"
+status = "Pending with the Committee on JUSTICE since 2001-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Herminio G."
+[[authorsDetail]]
+name = "Teves, Herminio G."
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 90084
+congress = 12
+bill_no = "HR00145"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-09-03"

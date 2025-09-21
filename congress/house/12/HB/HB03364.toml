@@ -1,0 +1,47 @@
+billNumber = "HB03364"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03364"
+lastScraped = "2025-09-22T00:13:00.411382"
+title = "HB03364"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL PALM OIL DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-03"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montilla"
+[[authorsDetail]]
+name = "Montilla"
+nameCode = "Montilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86524
+congress = 12
+bill_no = "HB03364"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-10-09"

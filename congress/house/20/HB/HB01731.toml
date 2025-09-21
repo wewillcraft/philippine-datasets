@@ -1,0 +1,61 @@
+billNumber = "HB01731"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01731"
+lastScraped = "2025-09-21T23:39:48.637754"
+title = "HB01731"
+longTitle = "AN ACT CREATING ONE REGIONAL HEART CENTER IN EACH OF THE ADMINISTRATIVE REGIONS IN THE PHILIPPINES, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-10"
+status = "Pending with the Committee on HEALTH since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01731.pdf"
+fileSize = 100506
+author = "RECTO, RYAN S."
+coAuthors = [ "GARDIOLA, EDWIN L.", "VILLAFUERTE, VINCENZO RENATO LUIGI R.",]
+[[authorsDetail]]
+name = "RECTO, RYAN S."
+nameCode = "Santos (R. S.)"
+date = "2025-07-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GARDIOLA, EDWIN L."
+nameCode = "Gardiola"
+date = "2025-09-11"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAFUERTE, VINCENZO RENATO LUIGI R."
+nameCode = "Villafuerte (V. R. L. R.)"
+date = "2025-09-10"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 1732
+congress = 103
+bill_no = "HB01731"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

@@ -1,0 +1,61 @@
+billNumber = "HB05567"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05567"
+lastScraped = "2025-09-21T23:55:45.189959"
+title = "HB05567"
+longTitle = "AN ACT ESTABLISHING A NATIONAL CENTER AND AN INTER-AGENCY COUNCIL FOR HARM REDUCTION, PROVIDING FOR HARM REDUCTION PROGRAM FOR PERSONAL USE AND LOW-LEVEL POSSESSION OF DRUGS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2017-05-04"
+status = "Pending with the Committee on HEALTH since 2017-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05567.pdf"
+fileSize = 4364886
+author = "Belmonte, Jose Christopher Y."
+coAuthors = [ "ALEJANO, GARY C.", "VILLARIN, TOMASITO S.",]
+[[authorsDetail]]
+name = "Belmonte, Jose Christopher Y."
+nameCode = "Belmonte (J.C.)"
+date = "2017-05-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALEJANO, GARY C."
+nameCode = "Alejano"
+date = "2017-05-30"
+journalNo = "J096"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARIN, TOMASITO S."
+nameCode = "Villarin"
+date = "2018-07-24"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2017-05-10"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 39035
+congress = 17
+bill_no = "HB05567"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-05-10"

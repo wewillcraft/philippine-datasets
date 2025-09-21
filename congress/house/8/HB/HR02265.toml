@@ -1,0 +1,42 @@
+billNumber = "HR02265"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02265"
+lastScraped = "2025-09-22T00:47:02.992743"
+title = "HR02265"
+longTitle = "RESOLUTION STRONGLY URGING THE DEPARTMENT OF TOURISM TO SET ASIDE AT LEAST TEN (10) HECTARES OF CAMP JOHN HAY IN BAGUIO CITY FOR THE CONSTRUCTION OF A \"PHILIPPINE SPORTS ACADEMY\""
+scope = "Local"
+dateFiled = "1991-05-23"
+status = "Pending with the Committee on TOURISM since 1991-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1991-05-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172099
+congress = 8
+bill_no = "HR02265"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1991-05-29"

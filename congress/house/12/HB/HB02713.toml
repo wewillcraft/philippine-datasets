@@ -1,0 +1,47 @@
+billNumber = "HB02713"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02713"
+lastScraped = "2025-09-22T00:13:00.284549"
+title = "HB02713"
+longTitle = "AN ACT ESTABLISHING A FIFTY-BED EXTENSION PROVINCIAL HOSPITAL IN PALAYAN CITY, PROVINCE OF NUEVA ECIJA TO BE KNOWN AS THE PAULINO J. GARCIA HOSPITAL, PALAYAN CITY EXTENSION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-28"
+status = "Pending with the Committee on HEALTH since 2001-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Umali, Oyie"
+[[authorsDetail]]
+name = "Umali, Oyie"
+nameCode = "Umali"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85873
+congress = 12
+bill_no = "HB02713"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-03"

@@ -1,0 +1,71 @@
+billNumber = "HB00981"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00981"
+lastScraped = "2025-09-22T00:20:57.540548"
+title = "HB00981"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF GEN. S.K. PENDATUN, PROVINCE OF MAGUINDANAO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-14"
+status = "Approved by the House on 1996-06-10, transmitted to on 1996-06-11 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Datumanong ,Simeon A."
+[[authorsDetail]]
+name = "Datumanong ,Simeon A."
+nameCode = "Datumanong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107402
+congress = 10
+bill_no = "HB00981"
+report = "00463"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-07-27"
+date_ob = "1996-06-03"
+date_report = "1996-06-03"
+
+[secondReading]
+id = 17718
+congress = 10
+bill_no = "HB00981"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-06-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2340
+congress = 10
+bill_no = "HB00981"
+date_dist = "1996-06-07"
+date_adopt = "1996-06-10"
+no_yeas = 134
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-11"
+date_rec = "1996-06-18"

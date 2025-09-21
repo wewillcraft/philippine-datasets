@@ -1,0 +1,47 @@
+billNumber = "HB02273"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02273"
+lastScraped = "2025-09-22T00:25:54.996812"
+title = "HB02273"
+longTitle = "AN ACT ESTABLISHING A VEGETABLE AND FRUIT TREE NURSERY AND DISTRIBUTION CENTER IN THE CITY OF SAN PABLO, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120892
+congress = 9
+bill_no = "HB02273"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-09-18"

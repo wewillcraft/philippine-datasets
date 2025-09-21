@@ -1,0 +1,54 @@
+billNumber = "HB01948"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01948"
+lastScraped = "2025-09-22T00:25:54.941881"
+title = "HB01948"
+longTitle = "AN ACT ESTABLISHING AN ORCHIDS AND ANTHURIUM RESEARCH, TRAINING, AND DISPERSAL CENTER IN THE MUNICIPALITY OF LUISIANA, PROVINCE OF LAGUNA, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120567
+congress = 9
+bill_no = "HB01948"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-09-03"
+
+[secondReading]
+id = 19220
+congress = 9
+bill_no = "HB01948"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

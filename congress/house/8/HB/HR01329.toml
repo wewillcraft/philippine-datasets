@@ -1,0 +1,42 @@
+billNumber = "HR01329"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01329"
+lastScraped = "2025-09-22T00:47:02.791787"
+title = "HR01329"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES AND ITS COMMITTEE ON AGRICULTURE TO STUDY AND ASSESS THOROUGHLY THE 14 ADOPTED RESOLUTIONS OF THE NATIONAL CONFERENCE OF SMALL FARMERS LAST FEB. 14-15, 1989, AT THE UNIVERSITY OF LIFE, PASIG, MM TO SUBMIT RECOMMENDATIONS FOR ITS PROPER ACTION"
+scope = "Local"
+dateFiled = "1989-06-05"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1989-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1989-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171197
+congress = 8
+bill_no = "HR01329"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1989-06-08"

@@ -1,0 +1,46 @@
+billNumber = "PS00020"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=PS00020"
+lastScraped = "2025-09-21T23:55:46.743197"
+title = "Youth Offenders"
+longTitle = "DISAGREEMENT WITH PLAN TO LOWER THE AGE OF CRIMINAL RESPONSIBILITY OF CHILDREN"
+scope = "National"
+dateFiled = "2016-08-02"
+status = "Pending with the Committee on JUSTICE since 2016-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/PS020_Rep. Brosas.pdf"
+fileSize = 135303
+author = "Brosas, Arlene D."
+[[authorsDetail]]
+name = "Brosas, Arlene D."
+nameCode = "Brosas"
+date = "2016-08-02"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-09-06"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 45365
+congress = 17
+bill_no = "PS00020"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-06"

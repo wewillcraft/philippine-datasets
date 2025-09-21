@@ -1,0 +1,102 @@
+billNumber = "HB04775"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04775"
+lastScraped = "2025-09-21T23:56:22.382037"
+title = "Creating A Barangay To Be Known As Barangay H-2 In The City Of Dasmarinas, Province Of Cavite"
+longTitle = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY H-2 IN THE CITY OF DASMARINAS, PROVINCE OF CAVITE"
+scope = "Local"
+dateFiled = "2014-07-31"
+status = "Approved by the House on 2015-02-03, transmitted to the Senate on 2015-02-05 and received by the Senate on 2015-02-05"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barzaga, Elpidio Jr. F."
+[[authorsDetail]]
+name = "Barzaga, Elpidio Jr. F."
+nameCode = "Barzaga"
+date = "2014-07-31"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-08-04"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[motherBills]]
+bill_no = "HB04354"
+sequence = 1
+date = "2014-07-31"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04354"
+sequence = 1
+date = "2014-07-31"
+flag = "S"
+
+[firstReading]
+id = 50589
+congress = 16
+bill_no = "HB04775"
+report = "00362"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "Approval in substitution of House Bill No. 4354"
+remarks = ""
+file = "CR00362.pdf"
+date_read = "2014-08-04"
+date_ob = "2014-08-04"
+date_fri = "2014-08-11"
+date_report = "2014-07-31"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00362.pdf"
+
+[secondReading]
+id = 5557
+congress = 16
+bill_no = "HB04775"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2015-01-21"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+
+[thirdReading]
+id = 10111
+congress = 16
+bill_no = "HB04775"
+date_dist = "2015-01-28"
+date_adopt = "2015-02-03"
+remarks = "    "
+no_yeas = 185
+no_nays = 0
+no_abstent = 0
+date_trans = "2015-02-05"
+date_rec = "2015-02-05"
+amend_ind = " "
+ccreqby = " "
+for_enroll = " "
+act_pres = " "
+cc_yeas = 0
+cc_nays = 0
+cc_absten = 0
+file = "hbt4775.pdf"
+third_reading_copy = "https://docs.congress.hrep.online/legisdocs/third_16/hbt4775.pdf"

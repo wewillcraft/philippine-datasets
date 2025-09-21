@@ -1,0 +1,42 @@
+billNumber = "HR02246"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02246"
+lastScraped = "2025-09-22T00:47:02.989137"
+title = "HR02246"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORT THAT SOME OF THE FRUIT JUICES AVAILABLE TO OUR CONSUMERS MAY BE UNFIT FOR HUMAN CONSUMPTION AND TO FORMULATE REMEDIAL MEASURES AS MAY BE NECESSARY"
+scope = "National"
+dateFiled = "1991-05-17"
+status = "Pending with the Committee on HEALTH since 1991-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1991-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172080
+congress = 8
+bill_no = "HR02246"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1991-05-22"

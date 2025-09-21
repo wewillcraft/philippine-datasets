@@ -1,0 +1,49 @@
+billNumber = "HR01422"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01422"
+lastScraped = "2025-09-22T00:20:59.696978"
+title = "HR01422"
+longTitle = "RESOLUTION URGING THE HOUSE SPECIAL COMMITTEE ON THE FISHERIES INDUSTRY AND THE COMMITTEE ON ECOLOGY TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED \"IRREVERSIBLE DEATH\" OF THE ONCE BOUNTIFUL LAGUNA DE BAY ALLEGEDLY CAUSED BY THE UNABATED DUMPING OF TOXIC WASTES DIRECT INTO THE LAKE, RIVERS AND OTHER TRIBUTARIES LEADING TO IT BY INDUSTRIES, PARTICULARLY LIVESTOCK OPERATORS"
+scope = "Local"
+dateFiled = "1997-11-03"
+status = "Pending with the Committee on ECOLOGY since 1997-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-11-11"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 118476
+congress = 10
+bill_no = "HR01422"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-11-11"

@@ -1,0 +1,61 @@
+billNumber = "HB09000"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09000"
+lastScraped = "2025-09-22T00:20:59.078546"
+title = "HB09000"
+longTitle = "AN ACT ESTABLISHING A BARANGAY LIVELIHOOD AND SKILLS TRAINING CENTER IN EVERY RURAL BARANGAY AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-02-25"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-02-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115421
+congress = 10
+bill_no = "HB09000"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-02-27"

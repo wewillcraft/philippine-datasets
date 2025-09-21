@@ -1,0 +1,42 @@
+billNumber = "HB08075"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08075"
+lastScraped = "2025-09-22T00:46:58.011192"
+title = "HB08075"
+longTitle = "AN ACT CREATING THE BOARD OF MEDICAL RADIATION TECHNOLOGY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1988-04-25"
+status = "Pending with the Committee on CIVIL SERVICE since 1988-04-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1988-04-27"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 142753
+congress = 8
+bill_no = "HB08075"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1988-04-27"

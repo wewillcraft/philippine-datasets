@@ -1,0 +1,41 @@
+billNumber = "HB01080"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01080"
+lastScraped = "2025-09-22T00:20:57.559629"
+title = "HB01080"
+longTitle = "AN ACT AUTHORIZING PRIVATE INDIVIDUALS, ASSOCIATIONS, AGENCIES AND ORGANIZATIONS TO BRING APPROPRIATE ACTIONS BEFORE THE COURTS, QUASI-JUDICIAL AND ADMINISTRATIVE BODIES TO ENFORCE THE LAW, PROVIDING A MECHANISM THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-19"
+status = "Pending with the Committee on JUSTICE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107501
+congress = 10
+bill_no = "HB01080"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-27"

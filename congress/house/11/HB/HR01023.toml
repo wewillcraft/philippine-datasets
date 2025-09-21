@@ -1,0 +1,51 @@
+billNumber = "HR01023"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01023"
+lastScraped = "2025-09-22T00:23:18.137396"
+title = "HR01023"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM BEING PRESENT, THE HOUSE OF REPRESENTATIVES HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1999-07-26"
+status = "Adopted as Resolution No. HR00057 on 1999-07-26"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 105479
+congress = 11
+bill_no = "HR01023"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1999-07-26"
+
+[secondReading]
+id = 17509
+congress = 11
+bill_no = "HR01023"
+adopted_resolution = "HR00057"
+date_calendared = "1999-07-26"
+date_approved = "1999-07-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

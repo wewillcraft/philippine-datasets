@@ -1,0 +1,46 @@
+billNumber = "HB07539"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07539"
+lastScraped = "2025-09-22T00:20:58.758294"
+title = "HB07539"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A PUBLIC LIBRARY IN THE TOWN OF MACABEBE, PAMPANGA, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-23"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bondoc"
+[[authorsDetail]]
+name = "Bondoc"
+nameCode = "Bondoc"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113960
+congress = 10
+bill_no = "HB07539"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-07-29"

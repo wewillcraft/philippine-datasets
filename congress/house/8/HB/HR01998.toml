@@ -1,0 +1,42 @@
+billNumber = "HR01998"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01998"
+lastScraped = "2025-09-22T00:47:02.923489"
+title = "HR01998"
+longTitle = "RESOLUTION REQUESTING SPEAKER RAMON MITRA, SPEAKER OF THE HOUSE OF REPRESENTATIVES TO ENJOIN THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO INVESTIGATE THE CAUSES AND PROBLEMS THAT GAVE RISE TO THE 'POCKET REBELLION' LED BY EX-LT. COL. ALEXANDER"
+scope = "Local"
+dateFiled = "1990-10-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1990-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1990-11-07"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 171834
+congress = 8
+bill_no = "HR01998"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1990-11-07"

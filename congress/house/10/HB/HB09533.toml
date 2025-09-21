@@ -1,0 +1,46 @@
+billNumber = "HB09533"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09533"
+lastScraped = "2025-09-22T00:20:59.182283"
+title = "HB09533"
+longTitle = "AN ACT ESTABLISHING A SPECIAL ECONOMIC ZONE IN THE MUNICIPALITY OF TOMAS OPPUS, PROVINCE OF SOUTHERN LEYTE, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-06-05"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1997-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1997-07-29"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115954
+congress = 10
+bill_no = "HB09533"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1997-07-29"

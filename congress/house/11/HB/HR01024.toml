@@ -1,0 +1,41 @@
+billNumber = "HR01024"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01024"
+lastScraped = "2025-09-22T00:23:18.137549"
+title = "HR01024"
+longTitle = "RESOLUTION CALLING ON THE HOUSE COMMITTEE ON FOREIGN AFFAIRS TO INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED IMPROPER TREATMENT OF PASSPORT APPLICANTS BEFORE THE PASSPORT DIVISION OF THE DEPARTMENT OF FOREIGN AFFAIRS"
+scope = "National"
+dateFiled = "1999-07-22"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1999-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1999-07-28"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 105480
+congress = 11
+bill_no = "HR01024"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1999-07-28"

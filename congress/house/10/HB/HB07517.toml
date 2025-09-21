@@ -1,0 +1,51 @@
+billNumber = "HB07517"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07517"
+lastScraped = "2025-09-22T00:20:58.755036"
+title = "HB07517"
+longTitle = "AN ACT CONVERTING THE BILIRAN NATIONAL AGRICULTURAL COLLEGE INTO A STATE COLLEGE OF AGRICULTURE TO BE KNOWN AS THE EASTERN VISAYAS STATE COLLEGE OF AGRICULTURE (EVSCA) AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-07-25"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 113938
+congress = 10
+bill_no = "HB07517"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-07-25"

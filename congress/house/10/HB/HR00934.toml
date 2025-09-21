@@ -1,0 +1,47 @@
+billNumber = "HR00934"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00934"
+lastScraped = "2025-09-22T00:20:59.602290"
+title = "HR00934"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ENERGY OF THE HOUSE OF REPRESENTATIVES TO INQUIRE, IN AID OF LEGISLATION, INTO THE INABILITY OF THE NATIONAL POWER CORPORATION (NAPOCOR) TO INSTALL UNDERGROUND TRANSMISSION LINES IN RESIDENTIAL AREAS IN ORDER TO AVOID THE POSSIBLE HEALTH HAZARDS THESE HIGH VOLTAGE TRANSMISSION LINES POSE TO RESIDENTS"
+scope = "National"
+dateFiled = "1996-11-05"
+status = "Pending with the Committee on RULES since 1996-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-06"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 117988
+congress = 10
+bill_no = "HR00934"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Nov. 7, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-06"

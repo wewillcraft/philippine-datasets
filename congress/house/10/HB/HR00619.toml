@@ -1,0 +1,55 @@
+billNumber = "HR00619"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00619"
+lastScraped = "2025-09-22T00:20:59.539217"
+title = "HR00619"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ECOLOGY AND NATIONAL CULTURAL COMMUNITIES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE SOCIAL AND ENVIRONMENTAL ISSUES AND IMPLICATIONS ARISING FROM THE FINANCIAL AND TECHNICAL ASSISTANCE AGREEMENT (FTAA) ENTERED INTO BY THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES AND WESTERN MINING CORPORATION (WMC), AUTHORIZING THE AUSTRALIAN FIRM TO CONDUCT MINERAL EXPLORATION AND PROSPECTING IN 99,400 HECTARES OF PUBLIC LAND IN SOUTHERN MINDANAO"
+scope = "Local"
+dateFiled = "1996-05-17"
+status = "Pending with the Committee on ECOLOGY since 1996-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "NATIONAL CULTURAL COMMUNITIES"
+type = "secondary"
+referralCode = "0524"
+
+[firstReading]
+id = 117673
+congress = 10
+bill_no = "HR00619"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ecology and on National Cultural Commun"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-05-21"

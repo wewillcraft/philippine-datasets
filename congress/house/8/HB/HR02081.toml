@@ -1,0 +1,42 @@
+billNumber = "HR02081"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02081"
+lastScraped = "2025-09-22T00:47:02.944866"
+title = "HR02081"
+longTitle = "RESOLUTION REQUESTING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO, TO DECLARE A ONE-YEAR PERIOD OF NATIONAL AUSTERITY"
+scope = "National"
+dateFiled = "1990-12-07"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1990-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "536"
+dateRead = "1990-12-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171916
+congress = 8
+bill_no = "HR02081"
+referral = "536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1990-12-12"

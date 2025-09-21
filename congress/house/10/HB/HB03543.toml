@@ -1,0 +1,56 @@
+billNumber = "HB03543"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03543"
+lastScraped = "2025-09-22T00:20:58.031451"
+title = "HB03543"
+longTitle = "AN ACT PROHIBITING AND PENALIZING USURIOUS INTEREST FOR LOAN OR FORBEARANCE OF ANY MONEY, GOODS OR CREDITS"
+scope = "National"
+dateFiled = "1995-09-18"
+status = "Pending with the Committee on JUSTICE since 1995-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "VERGARA, BERNARDO M.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 109964
+congress = 10
+bill_no = "HB03543"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-21"

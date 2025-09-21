@@ -1,0 +1,54 @@
+billNumber = "HB07050"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07050"
+lastScraped = "2025-09-22T00:20:58.666046"
+title = "HB07050"
+longTitle = "AN ACT TO GRANT FURTHER INCREASES TO LOCAL GOVERNMENT UNITS IN NATIONAL INTERNAL REVENUE ALLOTMENTS, AMENDING SECTION 284 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1996-05-21"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-05-23"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 113471
+congress = 10
+bill_no = "HB07050"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-05-23"

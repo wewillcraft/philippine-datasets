@@ -1,0 +1,42 @@
+billNumber = "HB04871"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04871"
+lastScraped = "2025-09-22T00:25:55.531882"
+title = "HB04871"
+longTitle = "AN ACT GRANTING PRODUCTIVITY BONUS TO OFFICIALS AND EMPLOYEES OF THE BUREAU OF CUSTOMS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-16"
+status = "Pending with the Committee on APPROPRIATIONS since 1992-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1992-11-18"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 123490
+congress = 9
+bill_no = "HB04871"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1992-11-18"

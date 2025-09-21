@@ -1,0 +1,43 @@
+billNumber = "HR00891"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00891"
+lastScraped = "2025-09-22T00:25:57.530338"
+title = "HR00891"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES TO INVESTIGATE, IN AID OF LEGISLATION, THE STARTLING INCREASE OF MANUFACTURED BOTTLED WATER IN THE PHILIPPINE MARKET IN RELATION WITH THE ALARMING WATER SITUATION IN OUR COUNTRY IN ORDER TO PROPOSE MEASURES TO RESOLVE THIS GROWING CONCERN"
+scope = "National"
+dateFiled = "1993-12-07"
+status = "Pending with the Committee on HEALTH since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "principal"
+referralCode = "A502"
+
+[firstReading]
+id = 134198
+congress = 9
+bill_no = "HR00891"
+comm_act = "Change of referral from the Committee on Rules(J.47 ,p.35)"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-12-09"

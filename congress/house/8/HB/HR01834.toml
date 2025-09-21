@@ -1,0 +1,42 @@
+billNumber = "HR01834"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01834"
+lastScraped = "2025-09-22T00:47:02.890717"
+title = "HR01834"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, FOR THE PURPOSE OF REDEFINING PRESIDENTIAL DECREE NO. 1096, THE NATIONAL BUILDING CODE"
+scope = "National"
+dateFiled = "1990-07-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1990-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1990-08-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171670
+congress = 8
+bill_no = "HR01834"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1990-08-01"

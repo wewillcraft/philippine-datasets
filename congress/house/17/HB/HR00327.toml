@@ -1,0 +1,54 @@
+billNumber = "HR00327"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00327"
+lastScraped = "2025-09-21T23:55:46.279916"
+title = "HR00327"
+longTitle = "A RESOLUTION CALLING FOR THE DEVELOPMENT OF CLARK INTERNATIONAL AIRPORT"
+scope = "National"
+dateFiled = "2016-09-07"
+status = "Pending with the Committee on TRANSPORTATION since 2016-09-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00327.pdf"
+fileSize = 194493
+author = "Gonzales, Aurelio \"Dong\" Jr. D."
+coAuthors = [ "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Gonzales, Aurelio \"Dong\" Jr. D."
+nameCode = "Gonzales (A.D.)"
+date = "2016-09-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-01-25"
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-09-13"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 43069
+congress = 17
+bill_no = "HR00327"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-13"

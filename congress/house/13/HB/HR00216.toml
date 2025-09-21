@@ -1,0 +1,47 @@
+billNumber = "HR00216"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HR00216"
+lastScraped = "2025-09-22T00:13:49.148808"
+title = "HR00216"
+longTitle = "RESOLUTION BARRING FROM THE HOUSE OF REPRESENTATIVES ALL SALESMEN, PRIVATE CONTRACTORS, BROKERS AND FIXERS LOBBYING FOR GOVERNMENT PURCHASES AND PROJECTS"
+scope = "National"
+dateFiled = "2004-09-08"
+status = "Pending with the Committee on ACCOUNTS since 2004-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Juan Miguel F."
+[[authorsDetail]]
+name = "Zubiri, Juan Miguel F."
+nameCode = "Zubiri"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "0501"
+dateRead = "2004-09-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 81480
+congress = 13
+bill_no = "HR00216"
+report = ""
+comm_act = ""
+referral = "0501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-09-14"
+date_read = "2004-09-14"

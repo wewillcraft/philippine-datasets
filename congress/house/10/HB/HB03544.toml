@@ -1,0 +1,49 @@
+billNumber = "HB03544"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03544"
+lastScraped = "2025-09-22T00:20:58.031611"
+title = "HB03544"
+longTitle = "AN ACT PUNISHING AND PENALIZING FELONS WHO HAVE BEEN CONVICTED BY FINAL JUDGEMENT FOR MORE THAN THREE TIMES"
+scope = "National"
+dateFiled = "1995-09-18"
+status = "Pending with the Committee on JUSTICE since 1995-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "VERGARA, BERNARDO M.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-21"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 109965
+congress = 10
+bill_no = "HB03544"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-21"

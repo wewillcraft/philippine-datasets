@@ -1,0 +1,43 @@
+billNumber = "HB05895"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05895"
+lastScraped = "2025-09-22T00:46:57.663642"
+title = "HB05895"
+longTitle = "AN ACT REORGANIZING THE NATIONAL LABOR RELATIONS COMMISSION, FURTHER AMENDING ARTICLES 213, 214 AND215 OF PRESIDENTIAL DECREE NO. 442, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1988-03-02"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1988-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 140576
+congress = 8
+bill_no = "HB05895"
+comm_act = "CONSOLIDAT ED WITH HB 11524"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1988-03-07"

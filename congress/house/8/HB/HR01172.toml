@@ -1,0 +1,50 @@
+billNumber = "HR01172"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01172"
+lastScraped = "2025-09-22T00:47:02.764234"
+title = "HR01172"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ONTHE ALLEGED DIVERSION OF TAX PROCEEDS FROM PRIVATE BANKS AUTHORIZED TO COLLECT TAX PAYMENTS TO THE PREJUDICE OF THE GOVERNMENT"
+scope = "National"
+dateFiled = "1989-02-23"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-03-01"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 171046
+congress = 8
+bill_no = "HR01172"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-03-01"

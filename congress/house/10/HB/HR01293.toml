@@ -1,0 +1,57 @@
+billNumber = "HR01293"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01293"
+lastScraped = "2025-09-22T00:20:59.672582"
+title = "HR01293"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE JOSE P. DEL ROSARIO, JR., PHILIPPINE AMBASSADOR, TO ACCEPT THE 'GREAT CROSS' AWARDED TO HIM BY THE HONOROUBLE COUNCIL OF THE ORDEN LIBERTADOR BERNARDO O'HIGGINS, GOVERNMENT OF THE REPUBLIC OF CHILE"
+scope = "Local"
+dateFiled = "1997-07-28"
+status = "Adopted as Resolution No. HR00139 on 1998-02-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[firstReading]
+id = 118347
+congress = 10
+bill_no = "HR01293"
+report = "01260"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments ."
+date_read = "1997-07-31"
+date_ob = "1997-11-11"
+date_report = "1997-11-06"
+
+[secondReading]
+id = 19033
+congress = 10
+bill_no = "HR01293"
+adopted_resolution = "HR00139"
+date_calendared = "1998-02-03"
+date_approved = "1998-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00139.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00139.pdf"

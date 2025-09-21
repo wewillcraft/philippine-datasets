@@ -1,0 +1,42 @@
+billNumber = "HR00443"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00443"
+lastScraped = "2025-09-22T00:25:57.446543"
+title = "HR00443"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ETHICS TO INVESTIGATE THE LEGISLATIVE PROCEDURE EMPLOYED BY THE COMMITTEE ON TRADE AND INDUSTRY AND THE COMMITTEE ON RULES IN THE PASSAGE OF HOUSE BILL NO. 4906, OTHERWISE KNOWN AS THE 'INVESTORS' LEASE ACT"
+scope = "National"
+dateFiled = "1993-01-25"
+status = "Pending with the Committee on ETHICS since 1993-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanjuatco"
+[[authorsDetail]]
+name = "Tanjuatco"
+nameCode = "Tanjuatco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "0511"
+dateRead = "1993-01-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133755
+congress = 9
+bill_no = "HR00443"
+referral = "0511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1993-01-28"

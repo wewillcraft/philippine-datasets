@@ -1,0 +1,69 @@
+billNumber = "HR01115"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01115"
+lastScraped = "2025-09-22T00:25:57.571566"
+title = "HR01115"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1994-07-25"
+status = "Adopted as Resolution No. HR00077 on 1994-07-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Ronaldo B."
+coAuthors = [ "DAZA, RAUL A.", "ALBANO, RODOLFO JR. B.",]
+[[authorsDetail]]
+name = "Zamora, Ronaldo B."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DAZA, RAUL A."
+nameCode = "Daza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134421
+congress = 9
+bill_no = "HR01115"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-07-25"
+
+[secondReading]
+id = 20174
+congress = 9
+bill_no = "HR01115"
+adopted_resolution = "HR00077"
+date_calendared = "1994-07-25"
+date_approved = "1994-07-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01115.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01115.pdf"

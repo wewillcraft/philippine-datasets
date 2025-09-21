@@ -1,0 +1,49 @@
+billNumber = "HB03552"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03552"
+lastScraped = "2025-09-22T00:20:58.032916"
+title = "HB03552"
+longTitle = "AN ACT REQUIRING LABOR REPRESENTATION IN THE BOARD OF INVESTMENTS (BOI) AND AMENDING FOR THE PURPOSE ARTICLE FOUR (4) OF EXECUTIVE ORDER NO. 226 OTHERWISE KNOWN AS THE OMNIBUS INVESTMENTS CODE OF 1987"
+scope = "National"
+dateFiled = "1995-09-18"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-09-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 109973
+congress = 10
+bill_no = "HB03552"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-09-21"

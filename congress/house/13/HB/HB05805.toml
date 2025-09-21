@@ -1,0 +1,47 @@
+billNumber = "HB05805"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05805"
+lastScraped = "2025-09-22T00:13:49.010169"
+title = "HB05805"
+longTitle = "AN ACT PROVIDING FOR THE REFORESTATION OF ONE HUNDRED (100) HECTARES OF PUBLIC LAND IN BARANGAY LEPANTO, MUNICIPALITY OF SAINT BERNARD, PROVINCE OF SOUTHERN LEYTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2006-09-20"
+status = "Pending with the Committee on REFORESTATION since 2006-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05805.pdf"
+fileSize = 942307
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2006-09-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 80895
+congress = 13
+bill_no = "HB05805"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-09-25"
+date_read = "2006-09-25"

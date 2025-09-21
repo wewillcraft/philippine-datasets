@@ -1,0 +1,46 @@
+billNumber = "HB02424"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB02424"
+lastScraped = "2025-09-21T23:56:21.914799"
+title = "HB02424"
+longTitle = "AN ACT TO CREATE A NATIONAL LIVESTOCK HEALTH PROGRAM"
+scope = "National"
+dateFiled = "2013-08-14"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2013-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB02424.pdf"
+fileSize = 443841
+author = "Lee, Delphine Gan"
+[[authorsDetail]]
+name = "Lee, Delphine Gan"
+nameCode = "Lee"
+date = "2013-08-14"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2013-08-28"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 48238
+congress = 16
+bill_no = "HB02424"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-08-28"

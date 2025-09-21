@@ -1,0 +1,64 @@
+billNumber = "HR00141"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00141"
+lastScraped = "2025-09-22T00:13:01.168972"
+title = "Felicitations to His Eminence Jaime Cardinal Sin on His 73rd Birthday on August 31, 2001"
+longTitle = "RESOLUTION EXPRESSING THE BEST WISHES OF THE MEMBERS OF CONGRESS AND EXTENDING THEIR FELICITATIONS IN GREETING HIS EMINENCE JAIME CARDINAL SIN ON THE CELEBRATION OF HIS 73rd BIRTHDAY ON AUGUST 31, 2001"
+scope = "Local"
+dateFiled = "2001-08-27"
+status = "Adopted as Resolution No. HR00027 on 2001-10-09"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Juan Miguel F."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Zubiri, Juan Miguel F."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 90080
+congress = 12
+bill_no = "HR00141"
+report = "00016"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendments ."
+date_read = "2001-09-03"
+date_ob = "2001-10-03"
+date_report = "2001-09-28"
+
+[secondReading]
+id = 14945
+congress = 12
+bill_no = "HR00141"
+adopted_resolution = "HR00027"
+date_calendared = "2001-10-08"
+date_approved = "2001-10-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

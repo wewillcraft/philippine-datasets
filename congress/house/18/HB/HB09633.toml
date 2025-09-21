@@ -1,0 +1,61 @@
+billNumber = "HB09633"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB09633"
+lastScraped = "2025-09-22T00:01:47.028391"
+title = "HB09633"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PATIENT NAVIGATION AND REFERRAL SYSTEM FOR THE PURPOSE OF STRENGTHENING THE PROVISION OF HEALTH CARE DELIVERY SYSTEM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2021-06-21"
+status = "Pending with the Committee on HEALTH since 2021-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB09633.pdf"
+fileSize = 465050
+author = "Tan, Angelina"
+coAuthors = [ "DALIPE, MANUEL JOSE M.", "HOFER, ANN K.",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2021-06-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2021-08-02"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "HOFER, ANN K."
+nameCode = "Hofer"
+date = "2021-08-13"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-07-28"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 29038
+congress = 18
+bill_no = "HB09633"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-07-28"

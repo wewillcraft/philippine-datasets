@@ -1,0 +1,42 @@
+billNumber = "HB07585"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07585"
+lastScraped = "2025-09-22T00:46:57.935680"
+title = "HB07585"
+longTitle = "AN ACT ESTABLISHING A REHABILITATION CENTER FOR DRUG DEPENDENTS IN THE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF LA UNION, TO BE KNOWN AS THE SAN FERNANDO REHABILITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-11"
+status = "Pending with the Committee on HEALTH since 1988-04-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-20"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 142265
+congress = 8
+bill_no = "HB07585"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-20"

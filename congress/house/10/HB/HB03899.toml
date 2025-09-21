@@ -1,0 +1,46 @@
+billNumber = "HB03899"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03899"
+lastScraped = "2025-09-22T00:20:58.095077"
+title = "HB03899"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A DEEP WELL WATER SYSTEM IN BARANGAY KIAS (RELOCATION SITE) IN BAGUIO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110320
+congress = 10
+bill_no = "HB03899"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-29"

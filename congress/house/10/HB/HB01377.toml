@@ -1,0 +1,52 @@
+billNumber = "HB01377"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01377"
+lastScraped = "2025-09-22T00:20:57.610937"
+title = "HB01377"
+longTitle = "AN ACT ESTABLISHING THE ABRA VALLEY DEVELOPMENT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS AND APPROPRIATING FUNDS THEREFOR , MAND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 107798
+congress = 10
+bill_no = "HB01377"
+comm_act = "joint referrals as per J. 32;  p. 38"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+date_read = "1995-08-01"

@@ -1,0 +1,57 @@
+billNumber = "HR00204"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00204"
+lastScraped = "2025-09-22T00:47:02.564942"
+title = "HR00204"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE REPORTS THAT FORMALIN (FORMALDEHYDE), A DISINFECTANT AND EMBALMING AGENT, IS BEING USED BY FISH PROCESSORS AND FISH VENDORS IN PUBLIC MARKETS, PUTTING THE BUYING PUBLIC TO RISK OF POISONING AND TO RECOMMEND SUCH MEASURES AS MAY BE NECESSARY TO PUT TO A STOP SUCH PERNICIOUS PRACTICE"
+scope = "National"
+dateFiled = "1989-08-25"
+status = "Pending with the Committee on HEALTH since 1989-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "ANDOLANA, GREGORIO A.", "ANIAG, FRANCISCO JR. B.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANIAG, FRANCISCO JR. B."
+nameCode = "Aniag"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-08-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170105
+congress = 8
+bill_no = "HR00204"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-08-27"

@@ -1,0 +1,42 @@
+billNumber = "HB05280"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05280"
+lastScraped = "2025-09-22T00:25:55.602231"
+title = "HB05280"
+longTitle = "AN ACT CHANGING THE NAME OF SARANGANI DISTRICT HOSPITAL TO ANGEL OLARTE, SR. MEMORIAL HOSPITAL IN THE MUNICIPALITY OF SARANGANI, PROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1992-11-27"
+status = "Pending with the Committee on HEALTH since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 123899
+congress = 9
+bill_no = "HB05280"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-08"

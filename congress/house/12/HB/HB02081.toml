@@ -1,0 +1,47 @@
+billNumber = "HB02081"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02081"
+lastScraped = "2025-09-22T00:13:00.176833"
+title = "HB02081"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF A WOMEN'S CENTER AT THE CITY OF BACOLOD AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-08-07"
+status = "Pending with the Committee on WOMEN since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puentevella, Monico O."
+[[authorsDetail]]
+name = "Puentevella, Monico O."
+nameCode = "Puentebella"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85241
+congress = 12
+bill_no = "HB02081"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2001-08-13"

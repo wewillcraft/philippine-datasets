@@ -1,0 +1,69 @@
+billNumber = "HB03813"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03813"
+lastScraped = "2025-09-22T00:13:00.488322"
+title = "HB03813"
+longTitle = "AN ACT CREATING THE OVERSEAS FILIPINO WORKERS PENSION FUND AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-11-08"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "ECHIVERRI, ENRICO R.", "CARI, CARMEN L.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J044"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J093"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-11-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86973
+congress = 12
+bill_no = "HB03813"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-11-20"

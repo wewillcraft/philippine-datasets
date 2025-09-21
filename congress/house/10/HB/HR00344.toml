@@ -1,0 +1,68 @@
+billNumber = "HR00344"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00344"
+lastScraped = "2025-09-22T00:20:59.485845"
+title = "HR00344"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEES ON APPROPRIATIONS AND HOUSING AND URBAN DEVELOPMENT TO CONDUCT A JOINT STUDY ON THE FEASIBILITY OF PROVIDING A SOCIALIZED HOUSING PROGRAM FOR ALL EMPLOYEES OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1995-11-29"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1995-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DE VENECIA, JOSE JR. C.", "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DE VENECIA, JOSE JR. C."
+nameCode = "De Venecia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1995-12-06"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 117398
+congress = 10
+bill_no = "HR00344"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1995-12-06"

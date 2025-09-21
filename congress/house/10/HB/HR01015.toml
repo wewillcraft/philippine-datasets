@@ -1,0 +1,47 @@
+billNumber = "HR01015"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01015"
+lastScraped = "2025-09-22T00:20:59.617464"
+title = "HR01015"
+longTitle = "RESOLUTION URGING THE GOVERNMENT TO INSTALL THE NECESSARY TELECOMMUNICATI ON FACILITIES NEED TO SUPPORT THE GOVERNMENT'S DEVELOPMENT GOALS FOR THE ZONE OF PEACE AND DEVELOPMENT"
+scope = "National"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "secondary"
+referralCode = "B511"
+
+[firstReading]
+id = 118069
+congress = 10
+bill_no = "HR01015"
+comm_act = "Jointly Refered to the Spl. Ctte. on East ASEAN Growth Area on Feb. 13, 1997."
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-12-12"

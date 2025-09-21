@@ -1,0 +1,54 @@
+billNumber = "HB09257"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09257"
+lastScraped = "2025-09-22T00:20:59.131755"
+title = "HB09257"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DRUG REHABILITATION CENTER IN BUMBARAN, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-04-22"
+status = "Pending with the Committee on HEALTH since 1997-04-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-04-28"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115678
+congress = 10
+bill_no = "HB09257"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-04-28"

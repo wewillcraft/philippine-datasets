@@ -1,0 +1,44 @@
+billNumber = "HR00034"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00034"
+lastScraped = "2025-09-22T00:20:59.431342"
+title = "HR00034"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON AGRARIAN REFORM AND LOCAL GOVERNMENT TO INVESTIGATE THE STATUS OF THE BUSALI FARM, LOCATED IN BILIRAN, PROVINCE OF BILIRAN, WHICH WAS SEQUESTERED BY THE PCGG AND TURNED OVER TO DAR, IN AID OF LEGISLATION, TOMAKE THE CARP MORE EFFECTIVE NOT ONLY IN BILIRAN PROVINCE BUT NATIONWIDE"
+scope = "Local"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on AGRARIAN REFORM since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117088
+congress = 10
+bill_no = "HR00034"
+report = "00709"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agrarian Reform on Aug. 1, 1995"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+recomm = "Individual complaint s of the farmers must be addressed properly by the DAR"
+date_read = "1995-07-31"

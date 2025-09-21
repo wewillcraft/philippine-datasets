@@ -1,0 +1,42 @@
+billNumber = "HB11900"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11900"
+lastScraped = "2025-09-22T00:25:56.788141"
+title = "HB11900"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WAREHOUSE FOR RICE STORAGE IN THE MUNICIPALITY OF MAYDOLONG, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-02"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-02-08"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130515
+congress = 9
+bill_no = "HB11900"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-02-08"

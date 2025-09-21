@@ -1,0 +1,42 @@
+billNumber = "HR00781"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00781"
+lastScraped = "2025-09-22T00:47:02.679075"
+title = "HR00781"
+longTitle = "RESOLUTION REQUESTING THE LAND BANK OF THE PHILIPPINES TO ESTABLISH A BRANCH OFFICE IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE"
+scope = "Local"
+dateFiled = "1988-07-15"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1988-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1988-07-28"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[firstReading]
+id = 170662
+congress = 8
+bill_no = "HR00781"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1988-07-28"

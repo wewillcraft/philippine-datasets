@@ -1,0 +1,47 @@
+billNumber = "HR00981"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00981"
+lastScraped = "2025-09-22T00:20:59.611200"
+title = "HR00981"
+longTitle = "RESOLUTION STRONGLY URGING THE AD HOC OVERSIGHT COMMITTEE ON BASES CONVERSION TO CONDUCT AN INQUIRY AS TO THE SUPPOSED SECURITIZATION AGREEMENT ENTERED BY CLARK DEVELOPMENT CORPORATION WITH GLOBAL EQUITIES CORPORATION AND TO DETERMINE IF SUCH IS INTHE BEST INTEREST OF THE CLARK SPECIAL ECONOMIC ZONE AREA, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-11-27"
+status = "Pending with the Committee on RULES since 1996-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "BASES CONVERSION"
+type = "secondary"
+referralCode = "A509"
+
+[firstReading]
+id = 118035
+congress = 10
+bill_no = "HR00981"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ad Hoc Oversight Ctte. on Bases Conversion on Dec."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-03"

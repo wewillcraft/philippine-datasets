@@ -1,0 +1,46 @@
+billNumber = "HB05325"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB05325"
+lastScraped = "2025-09-22T00:23:16.578207"
+title = "HB05325"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF A WOMEN'S CENTER AT THE CITY OF SILAY AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-11-12"
+status = "Pending with the Committee on WOMEN since 1998-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1998-11-19"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 96760
+congress = 11
+bill_no = "HB05325"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "1998-11-19"

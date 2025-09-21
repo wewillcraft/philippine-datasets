@@ -1,0 +1,75 @@
+billNumber = "HR00606"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00606"
+lastScraped = "2025-09-22T00:25:57.477731"
+title = "HR00606"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES OVER THE DEATH OF THE HONORABLE GERARDO A. ROXAS JR., REPRESENTATIVE OF THE FIRST DISTRICT OF CAPIZ"
+scope = "Local"
+dateFiled = "1993-05-04"
+status = "Adopted as Resolution No. HR00035 on 1993-05-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "DAZA, RAUL A.", "PUEY, MANUEL H.", "ANDAYA, ROLANDO R.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DAZA, RAUL A."
+nameCode = "Daza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUEY, MANUEL H."
+nameCode = "Puey"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANDAYA, ROLANDO R."
+nameCode = "Andaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-05-05"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 133918
+congress = 9
+bill_no = "HR00606"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-05-05"
+
+[secondReading]
+id = 20125
+congress = 9
+bill_no = "HR00606"
+adopted_resolution = "HR00035"
+date_approved = "1993-05-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00606.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00606.pdf"

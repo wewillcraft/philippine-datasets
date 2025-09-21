@@ -1,0 +1,76 @@
+billNumber = "HB12305"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12305"
+lastScraped = "2025-09-22T00:25:56.868466"
+title = "HB12305"
+longTitle = "AN ACT DECLARING JANUARY 28 OF EVERY YEAR AS A NON-WORKING SPECIAL PUBLIC HOLIDAY IN THE CITY OF CAVITE TO BE KNOWN AS JULIAN FELIPE DAY"
+scope = "Local"
+dateFiled = "1994-03-14"
+status = "REPUBLIC ACT RA07805 (Lapsed into law on 1994-09-01)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-03-16"
+
+[[motherBills]]
+bill_no = "HB10176"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB10176"
+flag = "S"
+
+[firstReading]
+id = 130920
+congress = 9
+bill_no = "HB12305"
+report = "00567"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1994-03-16"
+date_ob = "1994-03-16"
+date_cal = "1994-03-16"
+date_unass = "1994-03-16"
+date_report = "1994-03-14"
+
+[secondReading]
+id = 19772
+congress = 9
+bill_no = "HB12305"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-03-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2012
+congress = 9
+bill_no = "HB12305"
+date_dist = "1994-03-21"
+date_adopt = "1994-03-24"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-03-28"
+date_rec = "1994-04-11"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1994-08-01"
+dte_actedp = "1994-09-01"

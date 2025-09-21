@@ -1,0 +1,74 @@
+billNumber = "HB08944"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08944"
+lastScraped = "2025-09-22T00:23:17.232854"
+title = "HB08944"
+longTitle = "AN ACT CONVERTING THE SUB-ENGINEERING DISTRICT LOCATED IN LUCENA CITY INTO A REGULAR ENGINEERING DISTRICT TO BE KNOWN AS THE SECOND ENGINEERING DISTRICT OF QUEZON AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1999-12-15"
+status = "Approved by the House on 2000-01-24, transmitted to on 2000-01-25 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-11-16"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[motherBills]]
+bill_no = "HB08084"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08084"
+flag = "S"
+
+[firstReading]
+id = 100378
+congress = 11
+bill_no = "HB08944"
+report = "00545"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "1999-11-16"
+date_ob = "1999-12-16"
+date_report = "1999-12-15"
+
+[secondReading]
+id = 17052
+congress = 11
+bill_no = "HB08944"
+remarks = "Considered the Explanatory Note as the sponsorship speech."
+date_approved = "1999-12-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4298
+congress = 11
+bill_no = "HB08944"
+date_dist = "2000-01-17"
+date_adopt = "2000-01-24"
+no_yeas = 174
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-01-25"
+date_rec = "2000-01-27"

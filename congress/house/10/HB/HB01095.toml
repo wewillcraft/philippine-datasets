@@ -1,0 +1,54 @@
+billNumber = "HB01095"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01095"
+lastScraped = "2025-09-22T00:20:57.562257"
+title = "HB01095"
+longTitle = "AN ACT STRENGTHENING THE RESEARCH, CONTROL AND PREVENTION PROGRAMS ON DIABETES MELLITUS, PROVIDING FOR THE CREATION OF A NATIONAL COMMISSION ON DIABETES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-19"
+status = "Substituted by HB07271"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales, Neptali II M."
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107516
+congress = 10
+bill_no = "HB01095"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-27"

@@ -1,0 +1,47 @@
+billNumber = "HB04394"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04394"
+lastScraped = "2025-09-22T00:25:55.422313"
+title = "HB04394"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETING OF ONE (1) KILOMETER ROAD FROM BARANGAY MAHAYAHAY TO BARANGAY CATHEDRAL FALLS OF THE MUNICIPALITY OF KAPATAGAN, PROVINCE OF LANAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123013
+congress = 9
+bill_no = "HB04394"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-09"

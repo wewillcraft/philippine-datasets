@@ -1,0 +1,63 @@
+billNumber = "HB07471"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07471"
+lastScraped = "2025-09-22T00:20:58.747339"
+title = "HB07471"
+longTitle = "AN ACT TO AMEND CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED EIGTH HUNDRED SEVENTY SEVEN, OTHERWISE KNOWN AS THE 'PHILIPPINE NURSING LAW', AS AMENDED"
+scope = "National"
+dateFiled = "1996-07-09"
+status = "Pending with the Committee on HEALTH since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "ESPINA, GERARDO S.", "LIBAN, DANTE V.", "PALMA GIL, MA. ELENA T.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 113892
+congress = 10
+bill_no = "HB07471"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-07-24"

@@ -1,0 +1,61 @@
+billNumber = "HB04303"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04303"
+lastScraped = "2025-09-21T23:55:20.834021"
+title = "HB04303"
+longTitle = "AN ACT MANDATING THE ESTABLISHMENT OF AGRICULTURAL TRADING CENTERS\r\nIN EVERY PROVINCE, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-08-31"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04303.pdf"
+fileSize = 365832
+author = "Benitez, Francisco \"Kiko\" B."
+coAuthors = [ "RIVERA, BONG", "GALEOS, EDSEL",]
+[[authorsDetail]]
+name = "Benitez, Francisco \"Kiko\" B."
+nameCode = "Benitez"
+date = "2022-08-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-09-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GALEOS, EDSEL"
+nameCode = "Galeos"
+date = "2024-02-19"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 9222
+congress = 19
+bill_no = "HB04303"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-05"

@@ -1,0 +1,69 @@
+billNumber = "HR00804"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00804"
+lastScraped = "2025-09-22T00:25:57.513650"
+title = "HR00804"
+longTitle = "RESOLUTION ORGANIZING THE PHILIPPINE-EURO PEAN PARLIAMENTARIAN S' FRIENDSHIP SOCIETY"
+scope = "National"
+dateFiled = "1993-10-05"
+status = "Adopted as Resolution No. HR00053 on 1993-10-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.", "LAGMAN, EDCEL C.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAGMAN, EDCEL C."
+nameCode = "Lagman"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-10-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134116
+congress = 9
+bill_no = "HR00804"
+comm_act = "Adopted directly on the floor without appearance in the O.B.(J.28, p.229)"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-10-06"
+
+[secondReading]
+id = 20146
+congress = 9
+bill_no = "HR00804"
+adopted_resolution = "HR00053"
+date_approved = "1993-10-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00804.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00804.pdf"

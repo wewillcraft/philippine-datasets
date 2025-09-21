@@ -1,0 +1,41 @@
+billNumber = "HB10419"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10419"
+lastScraped = "2025-09-22T00:20:59.380679"
+title = "HB10419"
+longTitle = "AN ACT AMENDING SECTION 15 OF REPUBLIC ACT NO. 8282, OTHERWISE KNOWN AS THE 'SOCIAL SECURITY ACT OF 1997'(RE: PR OVISIONS ON DEATH BENEFITS)"
+scope = "National"
+dateFiled = "1997-12-18"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1998-01-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1998-01-09"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 116840
+congress = 10
+bill_no = "HB10419"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+date_read = "1998-01-09"

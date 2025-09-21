@@ -1,0 +1,66 @@
+billNumber = "HB02795"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02795"
+lastScraped = "2025-09-21T23:55:20.564899"
+title = "HB02795"
+longTitle = "AN ACT\r\n\r\nSTRENGTHENING THE HEALTHCARE SYSTEM IN CULTURAL AND\r\nINDIGENOUS COMMUNITIES BY INSTITUTIONALIZING THE TRAINING\r\nAND EMPLOYMENT OF TRIBAL HEALTH WORKERS AND FOR OTHER\r\n\r\nPURPOSES"
+scope = "National"
+dateFiled = "2022-08-01"
+status = "Pending with the Committee on HEALTH since 2022-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02795.pdf"
+fileSize = 357857
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "RIVERA, BONG", "LEE, WILBERT T.",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2022-08-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-07-04"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-11-06"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "INDIGENOUS CULTURAL COMMUNITIES AND INDIGENOUS PEOPLES"
+type = "secondary"
+referralCode = "H502"
+
+[firstReading]
+id = 7714
+congress = 19
+bill_no = "HB02795"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-08"

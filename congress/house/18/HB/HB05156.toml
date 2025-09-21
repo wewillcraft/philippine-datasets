@@ -1,0 +1,68 @@
+billNumber = "HB05156"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB05156"
+lastScraped = "2025-09-22T00:01:45.959474"
+title = "HB05156"
+longTitle = "AN ACT ESTABLISHING THE RIGHTS OF PASSENGER OF TAXIS, TOURIST CAR TRANSPORT SERVICES (TCTS) AND OTHER SIMILAR VEHICLES FOR HIRE (VFH)"
+scope = "National"
+dateFiled = "2019-10-16"
+status = "Pending with the Committee on TRANSPORTATION since 2019-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB05156.pdf"
+fileSize = 3672737
+author = "YAP, ERIC GO"
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "BARBA, ANGELO MARCOS", "BAUTISTA, CLAUDINE DIANA D.",]
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (E.)"
+date = "2019-10-16"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-12-17"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BARBA, ANGELO MARCOS"
+nameCode = "Barba"
+date = "2019-12-17"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAUTISTA, CLAUDINE DIANA D."
+nameCode = "Bautista-Lim"
+date = "2020-08-13"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-11-05"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 24565
+congress = 18
+bill_no = "HB05156"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-11-05"

@@ -1,0 +1,47 @@
+billNumber = "HR00885"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00885"
+lastScraped = "2025-09-22T00:20:59.592069"
+title = "HR00885"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO INVESTIGATE THE INABILITY OF THE NATIONAL POWER CORPORATION TO STOP THE CONSTANT POWER OUTAGES IN THE EASTERN VISAYAS REGION"
+scope = "National"
+dateFiled = "1996-10-03"
+status = "Pending with the Committee on RULES since 1996-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 117939
+congress = 10
+bill_no = "HR00885"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Oct. 8, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-08"

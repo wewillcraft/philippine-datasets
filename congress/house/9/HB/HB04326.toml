@@ -1,0 +1,47 @@
+billNumber = "HB04326"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04326"
+lastScraped = "2025-09-22T00:25:55.410963"
+title = "HB04326"
+longTitle = "AN ACT ESTABLISHING A MANGO RESEARCH CENTER TO BE LOCATED IN THE CITY OF SAN CARLOS, PROVINCE OF PANGASINAN, TO BE KNOWN AS THE SAN CARLOS CITY MANGO RESEARCH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-27"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acuña"
+[[authorsDetail]]
+name = "Acuña"
+nameCode = "Acuña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122945
+congress = 9
+bill_no = "HB04326"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-09"

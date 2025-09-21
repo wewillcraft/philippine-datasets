@@ -1,0 +1,47 @@
+billNumber = "HB03592"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03592"
+lastScraped = "2025-09-22T00:13:00.450392"
+title = "HB03592"
+longTitle = "AN ACT PROVIDING HIGHER COMPENSATION TO VICTIMS OF UNJUST IMPRISONMENT OR DETENTION AND VICTIMS OF VIOLENT CRIMES, AMENDING FOR THE PURPOSE SECTION 4 OF REPUBLIC ACT NO. 7309, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-10-18"
+status = "Pending with the Committee on JUSTICE since 2001-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-10-24"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE MILITARY AND UNIFORMED PERSONNEL(MUP) PENSION SYSTEM"
+type = "principal"
+referralCode = "J506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86752
+congress = 12
+bill_no = "HB03592"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-10-24"

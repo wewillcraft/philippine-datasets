@@ -1,0 +1,47 @@
+billNumber = "HB02178"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02178"
+lastScraped = "2025-09-22T00:25:54.979644"
+title = "HB02178"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF TEN MILLION PESOS (P10,000,000.00 ) FOR THE ACQUISITION OF EQUIPMENT AND THE OPERATION OF THE PANDI EMERGENCY HOSPITAL IN THE MUNICIPALITY OF PANDI, PROVINCE OF BULACAN"
+scope = "Local"
+dateFiled = "1992-09-03"
+status = "Pending with the Committee on HEALTH since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120797
+congress = 9
+bill_no = "HB02178"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-18"

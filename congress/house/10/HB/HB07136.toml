@@ -1,0 +1,61 @@
+billNumber = "HB07136"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07136"
+lastScraped = "2025-09-22T00:20:58.687104"
+title = "HB07136"
+longTitle = "AN ACT GRANTING A MONTHLY ALLOWANCE OF FIVE HUNDRED PESOS TO MEMBERS OF THE SANGGUNIANG KABATAAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-05-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "DEL MAR, RAUL V.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-05-29"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113557
+congress = 10
+bill_no = "HB07136"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-05-29"

@@ -1,0 +1,42 @@
+billNumber = "HB03540"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03540"
+lastScraped = "2025-09-22T00:46:57.186670"
+title = "HB03540"
+longTitle = "AN ACT IMPLEMENTING THE CONSTITUTIONAL PROVISION GUARANTEEING EQUAL ACCESS TO OPPORTUNITIES FOR PUBLIC SERVICE"
+scope = "National"
+dateFiled = "1987-11-11"
+status = "Pending with the Committee on CIVIL SERVICE since 1987-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo"
+[[authorsDetail]]
+name = "Ecleo"
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1987-11-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 138227
+congress = 8
+bill_no = "HB03540"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1987-11-13"

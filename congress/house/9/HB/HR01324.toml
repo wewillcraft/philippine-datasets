@@ -1,0 +1,68 @@
+billNumber = "HR01324"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01324"
+lastScraped = "2025-09-22T00:25:57.612114"
+title = "HR01324"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF TOURISM, IN COORDINATION WITH THE DEPARTMENT OF FINANCE, TO ESTABLISH A DUTY-FREE SHOP IN ILOILO CITY"
+scope = "Local"
+dateFiled = "1994-12-20"
+status = "Adopted as Resolution No. HR00106 on 1995-01-19"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-01-16"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[motherBills]]
+bill_no = "HR00401"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00401"
+flag = "S"
+
+[firstReading]
+id = 134629
+congress = 9
+bill_no = "HR01324"
+report = "01080"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "TOURISM"
+recomm = "Approval in substituti on of House Resolution No. 401"
+date_read = "1995-01-16"
+date_ob = "1995-01-16"
+date_cal = "1995-01-16"
+date_unass = "1995-01-16"
+date_report = "1994-12-20"
+
+[secondReading]
+id = 20199
+congress = 9
+bill_no = "HR01324"
+adopted_resolution = "HR00106"
+date_calendared = "1995-01-19"
+date_approved = "1995-01-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01324.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01324.pdf"

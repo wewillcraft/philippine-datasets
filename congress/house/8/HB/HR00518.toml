@@ -1,0 +1,50 @@
+billNumber = "HR00518"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00518"
+lastScraped = "2025-09-22T00:47:02.626687"
+title = "HR00518"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ENERGY ANDNATURAL RESOURCES IN AID OF LEGISLATION TO INVESTIGATE THROUGHLY THE VERACITY OF THE CESAR ESCOSA UPDATED REPORT ON DEUTERIUM DEPOSITS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1987-12-04"
+status = "Pending with the Committee on ENERGY since 1987-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-12-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170406
+congress = 8
+bill_no = "HR00518"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-12-09"

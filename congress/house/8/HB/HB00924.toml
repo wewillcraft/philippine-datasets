@@ -1,0 +1,43 @@
+billNumber = "HB00924"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00924"
+lastScraped = "2025-09-22T00:46:56.727367"
+title = "HB00924"
+longTitle = "AN ACT TO PROVIDE INCENTIVES FOR HEALTH PERSONNELIN THE GOVERNMENT SERVICE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1987-09-01"
+status = "Pending with the Committee on HEALTH since 1987-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pilapil"
+[[authorsDetail]]
+name = "Pilapil"
+nameCode = "Pilapil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-02"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 135621
+congress = 8
+bill_no = "HB00924"
+comm_act = "CONSOLIDAT ED WITH HB 11224"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-02"

@@ -1,0 +1,42 @@
+billNumber = "HR00548"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00548"
+lastScraped = "2025-09-22T00:20:59.525416"
+title = "HR00548"
+longTitle = "RESOLUTION CALLING FOR THE INVESTIGATION OF THE PARKING LOT AT THE BACK OF THE BURGUNDY CONDOMINIUM, LOYOLA HEIGHTS, QUEZON CITY"
+scope = "Local"
+dateFiled = "1996-03-19"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 117602
+congress = 10
+bill_no = "HR00548"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Housing and Urban Developmen t on May 20,"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1996-03-21"

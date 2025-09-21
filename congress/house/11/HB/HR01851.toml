@@ -1,0 +1,42 @@
+billNumber = "HR01851"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01851"
+lastScraped = "2025-09-22T00:23:18.300183"
+title = "HR01851"
+longTitle = "RESOLUTION URGENTLY DIRECTING THE COMMITTEE ON ETHICS TO CONDUCT AN INVESTIGATION, INTO THE UNRULY AND ROWDY BEHAVIOR OF THE CROWD IN THE GALLERIES DURING THE NOVEMBER 13, 2000 SESSION OF THE HOUSE OF REPRESENTATIVES IN VIOLATION OF THE RULES OF THEHOUSE OF REPRESENTATIVES , TO PROTECT THE INTEGRITY AND RESPECTABILITY OF THE HOUSE OF REPRESENTATIVES , AND TO SEEK APPROPRIATE REMEDIAL AND LEGISLATIVE SOLUTIONS THEREFORE"
+scope = "Local"
+dateFiled = "2000-11-20"
+status = "Pending with the Committee on ETHICS since 2000-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Ruy Elias C."
+[[authorsDetail]]
+name = "Lopez, Ruy Elias C."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "0511"
+dateRead = "2000-11-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 106305
+congress = 11
+bill_no = "HR01851"
+referral = "0511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "2000-11-27"

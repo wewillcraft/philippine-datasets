@@ -1,0 +1,61 @@
+billNumber = "HB00045"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00045"
+lastScraped = "2025-09-21T23:39:48.305313"
+title = "HB00045"
+longTitle = "AN ACT PROVIDING EMPLOYMENT OPPORTUNITIES FOR SENIORS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 9994, OTHERWISE KNOWN AS THE EXPANDED SENIOR CITIZENS ACT OF 2010, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on SENIOR CITIZENS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00045.pdf"
+fileSize = 110455
+author = "DIONISIO, ERNESTO M., JR."
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "MERCADO-REVILLA, LANI",]
+[[authorsDetail]]
+name = "DIONISIO, ERNESTO M., JR."
+nameCode = "Dionisio"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MERCADO-REVILLA, LANI"
+nameCode = "Mercado-Revilla"
+date = "2025-08-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 46
+congress = 103
+bill_no = "HB00045"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

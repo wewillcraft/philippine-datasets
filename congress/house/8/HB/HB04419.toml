@@ -1,0 +1,42 @@
+billNumber = "HB04419"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04419"
+lastScraped = "2025-09-22T00:46:57.331159"
+title = "HB04419"
+longTitle = "AN ACT AMENDING SECTION 13 OF PRESIDENTIAL DECREENO. 231 ON ENACTING A LOCAL TAX CODE FOR PROVINCES, CITIES AND MUNICIPALITIES"
+scope = "National"
+dateFiled = "1987-12-08"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-12-14"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 139103
+congress = 8
+bill_no = "HB04419"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-12-14"

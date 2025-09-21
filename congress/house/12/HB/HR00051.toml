@@ -1,0 +1,42 @@
+billNumber = "HR00051"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00051"
+lastScraped = "2025-09-22T00:13:01.150388"
+title = "HR00051"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CONTINUED DELAY IN THE IMPLEMENTATION OF THE LAGUINDINGAN (MISAMIS ORIENTAL) AIRPORT DEVELOPMENT PROJECT AND THE CONSEQUENT BUDGETARY SHORTFALL INCURRED THEREBY AND THE CONSEQUENCES THEREOF TO THE TRAVELLING PUBLIC"
+scope = "Local"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baculio, Augusto H."
+[[authorsDetail]]
+name = "Baculio, Augusto H."
+nameCode = "Baculio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 89990
+congress = 12
+bill_no = "HR00051"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2001-07-30"

@@ -1,0 +1,69 @@
+billNumber = "HB09313"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09313"
+lastScraped = "2025-09-22T00:20:59.141140"
+title = "HB09313"
+longTitle = "AN ACT CONVERTING THE LOCALLY-FUNDED HACIENDA NATIONAL HIGH SCHOOL LOCATED AT BARANGAY SAN FRANCISCO, MUNICIPALITY OF MAINIT, PROVINCE OF SURIGAO DEL NORTE, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE HACIENDA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-04-30"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115734
+congress = 10
+bill_no = "HB09313"
+report = "01343"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1997-05-05"
+date_ob = "1997-12-17"
+date_report = "1997-12-15"
+
+[secondReading]
+id = 18705
+congress = 10
+bill_no = "HB09313"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3284
+congress = 10
+bill_no = "HB09313"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

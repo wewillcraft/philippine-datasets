@@ -1,0 +1,75 @@
+billNumber = "HB08820"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB08820"
+lastScraped = "2025-09-21T23:55:21.856552"
+title = "HB08820"
+longTitle = "AN ACT PROMOTING THE ADEQUATE SUPPLY OF BLOOD PLASMA, AUTHORIZING THE COLLECTION, STORAGE, AND COMMERCIAL DISTRIBUTION OF BLOOD PLASMA, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2023-08-08"
+status = "Pending with the Committee on HEALTH since 2023-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB08820.pdf"
+fileSize = 1560021
+author = "MACAPAGAL-ARROYO, GLORIA"
+coAuthors = [ "REGENCIA, CELSO G.", "SUAN, LORDAN", "RIVERA, BONG", "DELOS SANTOS, ALFRED C.",]
+[[authorsDetail]]
+name = "MACAPAGAL-ARROYO, GLORIA"
+nameCode = "Macapagal-Arroyo"
+date = "2023-08-08"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REGENCIA, CELSO G."
+nameCode = "Regencia"
+date = "2023-08-16"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SUAN, LORDAN"
+nameCode = "Suan"
+date = "2023-09-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-09-19"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DELOS SANTOS, ALFRED C."
+nameCode = "Delos Santos"
+date = "2024-09-17"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-08-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 13739
+congress = 19
+bill_no = "HB08820"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-08-14"

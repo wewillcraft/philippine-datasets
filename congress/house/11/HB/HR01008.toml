@@ -1,0 +1,42 @@
+billNumber = "HR01008"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01008"
+lastScraped = "2025-09-22T00:23:18.134056"
+title = "HR01008"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED IRREGULARITIES COMMITTED BY THE PHILIPPINE AMUSEMENTS AND GAMING CORPORATION (PAGCOR) ANENT THE RECORD-BREAKING WINNING STREAK OF PRESIDENTIAL ADVISER ON LATIN-AMERICAN AFFAIRS MR. MARK JIMENEZ"
+scope = "Local"
+dateFiled = "1999-07-12"
+status = "Pending with the Committee on WAYS AND MEANS since 1999-07-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Ruy Elias C."
+[[authorsDetail]]
+name = "Lopez, Ruy Elias C."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1999-07-15"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 105464
+congress = 11
+bill_no = "HR01008"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1999-07-15"

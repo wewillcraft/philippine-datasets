@@ -1,0 +1,73 @@
+billNumber = "HB10449"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10449"
+lastScraped = "2025-09-22T00:20:59.385757"
+title = "HB10449"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF FOSTER AND KINSHIP PARENTING AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-01-12"
+status = "Pending with the Committee on SOCIAL SERVICES since 1998-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Belmonte, Feliciano Jr. R."
+coAuthors = [ "RAMIREZ, JOSE T.", "CALALAY, REYNALDO A.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Belmonte, Feliciano Jr. R."
+nameCode = "Belmonte"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "secondary"
+referralCode = "0512"
+
+[firstReading]
+id = 116869
+congress = 10
+bill_no = "HB10449"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1998-01-19"

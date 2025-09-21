@@ -1,0 +1,56 @@
+billNumber = "HB03234"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03234"
+lastScraped = "2025-09-22T00:20:57.971595"
+title = "HB03234"
+longTitle = "AN ACT REQUIRING BUSINESS ESTABLISHMENTS TO SEGREGATE THEIR GARBAGE AND WASTES"
+scope = "National"
+dateFiled = "1995-09-05"
+status = "Pending with the Committee on ECOLOGY since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "VILLAR, MANUEL JR. B.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAR, MANUEL JR. B."
+nameCode = "Villar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 109655
+congress = 10
+bill_no = "HB03234"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-09-18"

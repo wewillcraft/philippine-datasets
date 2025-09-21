@@ -1,0 +1,49 @@
+billNumber = "HB06003"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06003"
+lastScraped = "2025-09-22T00:20:58.475760"
+title = "HB06003"
+longTitle = "AN ACT BANNING THE LOCATION OR ESTABLISHMENT OF INDUSTRIES OR FACTORIES WITHIN METRO MANILA EXCEPT IN DULY DESIGNATED INDUSTRIAL ZONE"
+scope = "Local"
+dateFiled = "1996-01-31"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1996-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1996-02-05"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 112424
+congress = 10
+bill_no = "HB06003"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1996-02-05"

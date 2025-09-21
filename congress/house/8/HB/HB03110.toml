@@ -1,0 +1,42 @@
+billNumber = "HB03110"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03110"
+lastScraped = "2025-09-22T00:46:57.109092"
+title = "HB03110"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FIRE STATION IN THE MUNICIPALITY OF CAMALANIUGAN, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-21"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1987-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuzon"
+[[authorsDetail]]
+name = "Tuzon"
+nameCode = "Tuzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "528"
+dateRead = "1987-11-09"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 137799
+congress = 8
+bill_no = "HB03110"
+referral = "528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+date_read = "1987-11-09"

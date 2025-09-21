@@ -1,0 +1,61 @@
+billNumber = "HB10046"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10046"
+lastScraped = "2025-09-22T00:20:59.294580"
+title = "HB10046"
+longTitle = "AN ACT CREATING THE OVERSEAS ENTERTAINMENT INDUSTRY BOARD (OEIB)"
+scope = "National"
+dateFiled = "1997-10-02"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1997-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1997-10-07"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116467
+congress = 10
+bill_no = "HB10046"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1997-10-07"

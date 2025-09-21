@@ -1,0 +1,46 @@
+billNumber = "HB07098"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07098"
+lastScraped = "2025-09-22T00:20:58.674507"
+title = "HB07098"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MUNGOBEAN VARIETY SB-MG 11 NURSERY STATION IN BARANGAY ALEGRIA, MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-23"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-05-28"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113519
+congress = 10
+bill_no = "HB07098"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-05-28"

@@ -1,0 +1,47 @@
+billNumber = "HB04881"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04881"
+lastScraped = "2025-09-22T00:25:55.533380"
+title = "HB04881"
+longTitle = "AN ACT AUTHORIZING THE CEMENTING OF THE SOUTH CENTRAL AURORA HILL BARANGAY ROAD IN BAGUIO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-11-16"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-19"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123500
+congress = 9
+bill_no = "HB04881"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-19"

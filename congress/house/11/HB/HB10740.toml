@@ -1,0 +1,89 @@
+billNumber = "HB10740"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10740"
+lastScraped = "2025-09-22T00:23:17.556179"
+title = "HB10740"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7621 OTHERWISE KNOWN AS 'AN ACT CREATING THE CEBU PORT AUTHORITY DEFINING ITS POWERS AND FUNCTIONS, PROVIDING APPROPRIATION THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2000-04-12"
+status = "Approved by the House on 2000-08-09 and transmitted to the Senate on 2000-08-10"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "SILVERIO, RICARDO C.", "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SILVERIO, RICARDO C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-05-08"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[motherBills]]
+bill_no = "HB00040"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00040"
+flag = "S"
+
+[firstReading]
+id = 102155
+congress = 11
+bill_no = "HB10740"
+report = "00815"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, GOVERNMENT ENTERPRISES AND PRIVATIZATION, WAYS AND MEANS"
+recomm = "approval"
+date_read = "2000-05-08"
+date_ob = "2000-05-08"
+date_report = "2000-04-12"
+
+[secondReading]
+id = 17202
+congress = 11
+bill_no = "HB10740"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_calendared = "2000-05-23"
+date_approved = "2000-06-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4435
+congress = 11
+bill_no = "HB10740"
+date_dist = "2000-07-18"
+date_adopt = "2000-08-09"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-08-10"

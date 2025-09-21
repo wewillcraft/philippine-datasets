@@ -1,0 +1,42 @@
+billNumber = "HB09537"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09537"
+lastScraped = "2025-09-22T00:46:58.271269"
+title = "HB09537"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY SALANSANG, MUNICIPALITY OF LEBAK, PROVINCEOF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1988-05-12"
+status = "Pending with the Committee on HEALTH since 1988-05-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-18"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 144212
+congress = 8
+bill_no = "HB09537"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-18"

@@ -1,0 +1,69 @@
+billNumber = "HB08512"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08512"
+lastScraped = "2025-09-22T00:20:58.976777"
+title = "HB08512"
+longTitle = "AN ACT CONVERTING THE HINOLASO MUNICIPAL HIGH SCHOOL IN THE MUNICIPALITY OF DOLORES, PROVINCE OF EASTERN SAMAR, INTO A NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-11-28"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114933
+congress = 10
+bill_no = "HB08512"
+report = "01356"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-12-03"
+date_ob = "1997-12-17"
+date_report = "1997-12-16"
+
+[secondReading]
+id = 18594
+congress = 10
+bill_no = "HB08512"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3184
+congress = 10
+bill_no = "HB08512"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

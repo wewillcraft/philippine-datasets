@@ -1,0 +1,42 @@
+billNumber = "HB01010"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01010"
+lastScraped = "2025-09-22T00:46:56.742852"
+title = "HB01010"
+longTitle = "AN ACT REQUIRING THE USE OF CONDOMS BY ALL CLIENTS OF PHILIPPINE HOSPITALITY GIRLS AT THE BASE AREAS AND OTHER REST AND RECREATION OF US SERVICEMEN"
+scope = "National"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on HEALTH since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 135707
+congress = 8
+bill_no = "HB01010"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-07"

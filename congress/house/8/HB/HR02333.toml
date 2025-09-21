@@ -1,0 +1,42 @@
+billNumber = "HR02333"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02333"
+lastScraped = "2025-09-22T00:47:03.004350"
+title = "HR02333"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON FINANCE AND WAYS AND MEANS TO STUDY, IN AID OF LEGISLATION, EXECUTIVE ORDER NO. 470 *EO 470 (July 20, 1991) reduced duties on imported items; is a revised edition of EO 413 which was shelved last year"
+scope = "National"
+dateFiled = "1991-07-31"
+status = "Pending with the Committee on WAYS AND MEANS since 1991-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1991-08-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172162
+congress = 8
+bill_no = "HR02333"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1991-08-06"

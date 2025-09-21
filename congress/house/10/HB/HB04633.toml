@@ -1,0 +1,71 @@
+billNumber = "HB04633"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04633"
+lastScraped = "2025-09-22T00:20:58.232986"
+title = "HB04633"
+longTitle = "AN ACT ESTABLISHING AN ENGINEERING DISTRICT IN THE FIRST DISTRICT OF THE PROVINCE OF LANAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-24"
+status = "Approved by the House on 1996-05-23, transmitted to on 1996-05-23 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-27"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111054
+congress = 10
+bill_no = "HB04633"
+report = "00366"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "1995-10-27"
+date_ob = "1996-05-07"
+date_report = "1996-04-29"
+
+[secondReading]
+id = 18117
+congress = 10
+bill_no = "HB04633"
+remarks = "Considered the Explanatory Note as the Sponsorship speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2727
+congress = 10
+bill_no = "HB04633"
+date_dist = "1996-05-20"
+date_adopt = "1996-05-23"
+no_yeas = 110
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-23"
+date_rec = "1996-05-29"

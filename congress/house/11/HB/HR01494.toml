@@ -1,0 +1,60 @@
+billNumber = "HR01494"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01494"
+lastScraped = "2025-09-22T00:23:18.229472"
+title = "HR01494"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND SYMPATHY AND SINCERE CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF THE HONORABLE LEOPOLDO D. DIAZ, FORMER CONGRESSMAN OF THE 1ST DISTRICT OF NUEVA ECIJA"
+scope = "Local"
+dateFiled = "2000-04-04"
+status = "Adopted as Resolution No. HR00113 on 2000-04-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-04-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01492"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01492"
+flag = "S"
+
+[firstReading]
+id = 105950
+congress = 11
+bill_no = "HR01494"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2000-04-04"
+
+[secondReading]
+id = 17568
+congress = 11
+bill_no = "HR01494"
+adopted_resolution = "HR00113"
+remarks = "In  consolidation with House Resolution No. 1492."
+date_calendared = "2000-04-04"
+date_approved = "2000-04-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

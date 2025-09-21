@@ -1,0 +1,42 @@
+billNumber = "HR01145"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01145"
+lastScraped = "2025-09-22T00:25:57.576971"
+title = "HR01145"
+longTitle = "RESOLUTION URGING HIS EXCELLENCY FIDEL V. RAMOS TO ESTABLISH SUB-REGIONAL OFFICES OF ALL GOVERNMENT AGENCIES IN THE CITY OF NAGA"
+scope = "Local"
+dateFiled = "1994-08-02"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1994-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1994-08-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134451
+congress = 9
+bill_no = "HR01145"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1994-08-08"

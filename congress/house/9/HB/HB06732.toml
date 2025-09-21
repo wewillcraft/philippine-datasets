@@ -1,0 +1,47 @@
+billNumber = "HB06732"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06732"
+lastScraped = "2025-09-22T00:25:55.836542"
+title = "HB06732"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MULTIPURPOSE CENTER IN BARANGAY MAYA, MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, AND APPROPRIATING FFUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-02-01"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125351
+congress = 9
+bill_no = "HB06732"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-02-01"

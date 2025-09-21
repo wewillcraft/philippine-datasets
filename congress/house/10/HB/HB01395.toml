@@ -1,0 +1,63 @@
+billNumber = "HB01395"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01395"
+lastScraped = "2025-09-22T00:20:57.613900"
+title = "HB01395"
+longTitle = "AN ACT INSTITUTING THE AVIATION CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1995-07-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bengson"
+coAuthors = [ "PARAS, JEROME V.", "RAMIREZ, JOSE T.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Bengson"
+nameCode = "Bengson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PARAS, JEROME V."
+nameCode = "Paras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 107816
+congress = 10
+bill_no = "HB01395"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-08-02"

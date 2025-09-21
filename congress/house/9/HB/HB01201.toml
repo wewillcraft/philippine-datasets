@@ -1,0 +1,47 @@
+billNumber = "HB01201"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01201"
+lastScraped = "2025-09-22T00:25:54.809606"
+title = "HB01201"
+longTitle = "AN ACT ESTABLISHING A COMMUNITY COLLEGE IN THE MUNICIPALITY OF CLAVER, PROVINCE OF SURIGAO DEL NORTE, TO BE KNOWN AS CLAVER COMMUNITY COLLEGE"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119820
+congress = 9
+bill_no = "HB01201"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-08-25"

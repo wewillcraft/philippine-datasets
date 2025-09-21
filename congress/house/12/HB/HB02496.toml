@@ -1,0 +1,71 @@
+billNumber = "HB02496"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02496"
+lastScraped = "2025-09-22T00:13:00.247276"
+title = "HB02496"
+longTitle = "THE EQUAL EMPLOYMENT OPPORTUNITY ACT OF 2001"
+scope = "National"
+dateFiled = "2001-08-16"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roco"
+coAuthors = [ "RODRIGUEZ, OSCAR S.", "ESPINO, AMADO JR. T.", "VILLARAMA, WILFRIDO", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Roco"
+nameCode = "Roco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARAMA, WILFRIDO"
+nameCode = "Villarama"
+date = ""
+journalNo = "J042"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J057"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-08-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 85656
+congress = 12
+bill_no = "HB02496"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-08-22"

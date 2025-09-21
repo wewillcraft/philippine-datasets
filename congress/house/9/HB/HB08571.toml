@@ -1,0 +1,47 @@
+billNumber = "HB08571"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08571"
+lastScraped = "2025-09-22T00:25:56.143911"
+title = "HB08571"
+longTitle = "AN ACT ESTABLISHING A BARANGAY MULTIPURPOSE HALL IN BARANGAY STO. NINO (AJOS), MUNICIPALITY OF MULANAY, PROVINCE OF QUEZON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-05-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127190
+congress = 9
+bill_no = "HB08571"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-05-03"

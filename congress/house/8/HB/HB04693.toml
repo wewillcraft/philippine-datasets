@@ -1,0 +1,42 @@
+billNumber = "HB04693"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04693"
+lastScraped = "2025-09-22T00:46:57.376897"
+title = "HB04693"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY SANGANDAAN, 2ND DISTRICT, QUEZON CITY, ANDAPPROPRIATIN G FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-14"
+status = "Pending with the Committee on HEALTH since 1987-12-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-17"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 139377
+congress = 8
+bill_no = "HB04693"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-12-17"

@@ -1,0 +1,42 @@
+billNumber = "HR01200"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01200"
+lastScraped = "2025-09-22T00:47:02.768394"
+title = "HR01200"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURETO CONDUCT AN INQUIRY IN AID OF LEGISLATION TO REVIEW THE FISH IMPORT LIBERALIZATION PROGRAM"
+scope = "National"
+dateFiled = "1989-03-09"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1989-03-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aniag"
+[[authorsDetail]]
+name = "Aniag"
+nameCode = "Aniag"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1989-03-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171073
+congress = 8
+bill_no = "HR01200"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1989-03-15"

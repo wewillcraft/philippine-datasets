@@ -1,0 +1,42 @@
+billNumber = "HB03599"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03599"
+lastScraped = "2025-09-22T00:46:57.196412"
+title = "HB03599"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MUNICIPAL PORT IN THE MUNICIPALITY OF SAN JOSE, PROVINCE OF ROMBLON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran"
+[[authorsDetail]]
+name = "Beltran"
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-11-16"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 138285
+congress = 8
+bill_no = "HB03599"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-11-16"

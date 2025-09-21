@@ -1,0 +1,54 @@
+billNumber = "HB01232"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01232"
+lastScraped = "2025-09-21T23:55:20.297338"
+title = "HB01232"
+longTitle = "AN ACT ESTABLISHING A PRIVATE-HOSPITAL DEVELOPMENT PLAN AND PROVIDING ASSISTANCE TO PRIVATE HOSPITALS BY GRANTING OF INCENTIVES"
+scope = "National"
+dateFiled = "2022-07-05"
+status = "Pending with the Committee on HEALTH since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01232.pdf"
+fileSize = 295617
+author = "Herrera, Bernadette \"BH\""
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera"
+date = "2022-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-02-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 6151
+congress = 19
+bill_no = "HB01232"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

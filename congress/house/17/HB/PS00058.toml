@@ -1,0 +1,46 @@
+billNumber = "PS00058"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=PS00058"
+lastScraped = "2025-09-21T23:55:46.748742"
+title = "Provincial Rehabilitation Center In Cebu"
+longTitle = "MISMANAGEMENT OF THE CEBU PROVINCIAL DETENTION AND REHABILITATION CENTER"
+scope = "Local"
+dateFiled = "2016-08-31"
+status = "Pending with the Committee on JUSTICE since 2016-09-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/PS058_Rep. Garcia (G.).pdf"
+fileSize = 140306
+author = "Garcia, Gwendolyn F."
+[[authorsDetail]]
+name = "Garcia, Gwendolyn F."
+nameCode = "Garcia (G.)"
+date = "2016-08-31"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-09-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 45403
+congress = 17
+bill_no = "PS00058"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-14"

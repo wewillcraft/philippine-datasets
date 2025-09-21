@@ -1,0 +1,41 @@
+billNumber = "HR00269"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00269"
+lastScraped = "2025-09-22T00:23:17.998465"
+title = "HR00269"
+longTitle = "RESOLUTION URGING THE ACTIVE PARTICIPATION OF THE HOUSE COMMITTEES ON ECOLOGY, ON NATURAL RESOURCES, ON HEALTH, ON EDUCATION AND CULTURE, ON NATIONAL AND CULTURAL COMMUNITIES, ON SCIENCE AND TECHNOLOGY, AND ON YOUTH AND SPORTS DEVELOPMENT IN ACTIVITIES MARKING THE OBSERVANCE OF THE MONTH OF SEPTEMBER AS WORLD CLEAN-UP MONTH"
+scope = "National"
+dateFiled = "1998-09-03"
+status = "Pending with the Committee on ECOLOGY since 1998-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1998-09-29"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 104727
+congress = 11
+bill_no = "HR00269"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1998-09-29"

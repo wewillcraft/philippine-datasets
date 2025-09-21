@@ -1,0 +1,50 @@
+billNumber = "HB01113"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01113"
+lastScraped = "2025-09-22T00:46:56.760223"
+title = "HB01113"
+longTitle = "AN ACT TO LEVY TAX TO OWNERS OF MORE THAN ONE SERVICE CARS OR VEHICLES"
+scope = "National"
+dateFiled = "1987-09-04"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+coAuthors = [ "ANDOLANA, GREGORIO A.",]
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-09-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 135810
+congress = 8
+bill_no = "HB01113"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-09-08"

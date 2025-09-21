@@ -1,0 +1,42 @@
+billNumber = "HR00237"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00237"
+lastScraped = "2025-09-22T00:25:57.409846"
+title = "HR00237"
+longTitle = "RESOLUTION REQUESTING THE HONORABLE PRESIDING JUSTICE OF THE SANDIGANBAYAN TO ASSIGN ONE (1) OF ITS THREE (3) DIVISIONS TO CAGAYAN DE ORO CITY IN THE ISLAND OF MINDANAO AND TO DIRECT THE SAID DIVISION TO HEAR AND DECIDE CASES ARISING WITHIN THE MINDANAO AREA"
+scope = "Local"
+dateFiled = "1992-10-07"
+status = "Pending with the Committee on JUSTICE since 1992-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-10-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 133549
+congress = 9
+bill_no = "HR00237"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-10-12"

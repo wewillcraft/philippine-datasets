@@ -1,0 +1,47 @@
+billNumber = "HB05672"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05672"
+lastScraped = "2025-09-22T00:20:58.420062"
+title = "HB05672"
+longTitle = "AN ACT REORGANIZING THE MOVIE AND TELEVISION REVIEW AND CLASSIFICATION BOARD AND REPEALING PRESIDENTIAL DECREE NO. 1986"
+scope = "National"
+dateFiled = "1996-01-05"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 112093
+congress = 10
+bill_no = "HB05672"
+comm_act = "joint ref'ls as Per. J. 43; p.7 (dtd. Dec. 4 & 5, 1996)"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1996-01-22"

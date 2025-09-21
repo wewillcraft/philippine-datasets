@@ -1,0 +1,56 @@
+billNumber = "HB05821"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05821"
+lastScraped = "2025-09-22T00:13:00.918462"
+title = "HB05821"
+longTitle = "AN ACT RATIONALIZING THE COMPENSATION OF JUSTIICE, JUDGE, LAWYER POSITIONS, AND ALL OTHER EMPLOYEES OF THE JUDICIARY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2003-03-05"
+status = "Pending with the Committee on APPROPRIATIONS since 2003-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salapuddin, Gerry A."
+coAuthors = [ "AMIN, HUSSIN U.",]
+[[authorsDetail]]
+name = "Salapuddin, Gerry A."
+nameCode = "Salapuddin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J060"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2003-03-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 88976
+congress = 12
+bill_no = "HB05821"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_pend = "2003-09-10"
+date_read = "2003-03-11"

@@ -1,0 +1,47 @@
+billNumber = "HR00247"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00247"
+lastScraped = "2025-09-21T23:56:22.842608"
+title = "HR00247"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE STATE OF TRAFFIC IN METRO CEBU FOR THE PURPOSE OF EASING CONGESTION AND PROMOTING THE EFFICIENT SAFE AND FAST TRANSPORT OF PEOPLE AND PRODUCTS FROM ONE DESTINATION TO ANOTHER IN THE ENTIRE PROVINCE OF CEBU"
+scope = "National"
+dateFiled = "2013-09-02"
+status = "Pending with the Committee on TRANSPORTATION since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00247.pdf"
+fileSize = 146170
+author = "Quisumbing, Gabriel R."
+[[authorsDetail]]
+name = "Quisumbing, Gabriel R."
+nameCode = "Quisumbing"
+date = "2013-09-02"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-09-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52646
+congress = 16
+bill_no = "HR00247"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-09-04"

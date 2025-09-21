@@ -1,0 +1,50 @@
+billNumber = "HR01261"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01261"
+lastScraped = "2025-09-22T00:47:02.778180"
+title = "HR01261"
+longTitle = "RESOLUTION REQUESTING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO TO HOLD IN ABEYANCE THE FILLING-UP OF VACANT POSITIONS OF UNDERSECRETARY AND ASSISTANT SECRETARY"
+scope = "National"
+dateFiled = "1989-04-20"
+status = "Pending with the Committee on CIVIL SERVICE since 1989-04-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Fua"
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1989-04-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171130
+congress = 8
+bill_no = "HR01261"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1989-04-25"

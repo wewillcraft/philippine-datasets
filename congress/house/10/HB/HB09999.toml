@@ -1,0 +1,49 @@
+billNumber = "HB09999"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09999"
+lastScraped = "2025-09-22T00:20:59.286430"
+title = "HB09999"
+longTitle = "AN ACT EXEMPTING FROM INTERNAL REVENUE TAXATION THE SEPARATION PAY, RETIREMENT PAY AND ALL MONETARY BENEFITS HOWEVER DESIGNATED OF EMPLOYEES WHO ARE SEPARATED FROM WORK FOR ANY CAUSE"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[firstReading]
+id = 116420
+congress = 10
+bill_no = "HB09999"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-10-02"

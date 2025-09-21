@@ -1,0 +1,49 @@
+billNumber = "HB00630"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00630"
+lastScraped = "2025-09-22T00:20:57.483825"
+title = "HB00630"
+longTitle = "AN ACT AMENDING SECTION 401(A) OF PRESIDENTIAL DECREE NO. 1464, OTHERWISE KNOWN AS THE TARIFF AND CUSTOMS CODE OF 1978 OF THE PHILIPPINES, AS AMENDED"
+scope = "National"
+dateFiled = "1995-07-11"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "BELMONTE, FELICIANO JR. R.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELMONTE, FELICIANO JR. R."
+nameCode = "Belmonte"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 107051
+congress = 10
+bill_no = "HB00630"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-07-27"

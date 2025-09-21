@@ -1,0 +1,41 @@
+billNumber = "HB06519"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06519"
+lastScraped = "2025-09-22T00:20:58.572225"
+title = "HB06519"
+longTitle = "AN ACT NAMING THE LOAY RIVER QUAY IN LOAY, BOHOL, AS SENATOR B. CLARIN RIVER QUAY"
+scope = "Local"
+dateFiled = "1996-03-07"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-12"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 112940
+congress = 10
+bill_no = "HB06519"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-12"

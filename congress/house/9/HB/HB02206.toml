@@ -1,0 +1,50 @@
+billNumber = "HB02206"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02206"
+lastScraped = "2025-09-22T00:25:54.984244"
+title = "HB02206"
+longTitle = "AN ACT DECLARING CERTAIN CRIMES AS HEINOUS CRIMES AND IMPOSING THE DEATH PENALTY THEREFOR"
+scope = "National"
+dateFiled = "1992-09-03"
+status = "Pending with the Committee on JUSTICE since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+coAuthors = [ "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 120825
+congress = 9
+bill_no = "HB02206"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-09-18"

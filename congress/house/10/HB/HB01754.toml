@@ -1,0 +1,75 @@
+billNumber = "HB01754"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01754"
+lastScraped = "2025-09-22T00:20:57.674812"
+title = "HB01754"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN BARANGAY MACABACLAY, MUNICIPALITY OF BONGABON, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS MACABACLAY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "REPUBLIC ACT RA08235 (Lapsed into law on 1996-11-10)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108175
+congress = 10
+bill_no = "HB01754"
+report = "00301"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-08-08"
+date_ob = "1996-03-19"
+date_report = "1996-03-15"
+
+[secondReading]
+id = 17835
+congress = 10
+bill_no = "HB01754"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2454
+congress = 10
+bill_no = "HB01754"
+date_dist = "1996-03-25"
+date_adopt = "1996-03-28"
+no_yeas = 109
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-03-29"
+date_rec = "1996-04-10"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1996-10-08"
+dte_actedp = "1996-11-10"

@@ -1,0 +1,80 @@
+billNumber = "HB08151"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08151"
+lastScraped = "2025-09-22T00:25:56.070587"
+title = "HB08151"
+longTitle = "AN ACT DECLARING JUNE FIFTEEN OF EVERY YEAR AS A SPECIAL NON-WORKING PUBLIC HOLIDAY IN CAGAYAN DE ORO CITY TO BE KNOWN AS CAGAYAN DE ORO CITY CHARTER DAY"
+scope = "Local"
+dateFiled = "1993-03-11"
+status = "REPUBLIC ACT RA07670 (Lapsed into law on 1994-01-10)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-03-16"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[motherBills]]
+bill_no = "HB02623"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02623"
+flag = "S"
+
+[firstReading]
+id = 126770
+congress = 9
+bill_no = "HB08151"
+report = "00102"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1993-03-16"
+date_ob = "1993-03-16"
+date_cal = "1993-03-16"
+date_unass = "1993-03-16"
+date_report = "1993-03-11"
+
+[secondReading]
+id = 19470
+congress = 9
+bill_no = "HB08151"
+date_approved = "1993-03-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1733
+congress = 9
+bill_no = "HB08151"
+date_dist = "1993-03-22"
+date_adopt = "1993-03-26"
+no_yeas = 121
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-03-30"
+date_rec = "1993-04-06"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1993-11-16"
+dte_actedp = "1994-01-10"

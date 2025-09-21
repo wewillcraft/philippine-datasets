@@ -1,0 +1,50 @@
+billNumber = "HR00025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00025"
+lastScraped = "2025-09-22T00:25:57.371600"
+title = "HR00025"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECONOMIC AFFAIRS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE DETAILS OF THE $4.8 BILLION DEBT DEAL WITH THE COUNTRY'S FOREIGN COMMERCIAL BANK CREDITORS"
+scope = "National"
+dateFiled = "1992-07-24"
+status = "Pending with the Committee on APPROPRIATIONS since 1992-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 133337
+congress = 9
+bill_no = "HR00025"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1992-07-30"

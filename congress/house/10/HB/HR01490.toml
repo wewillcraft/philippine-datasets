@@ -1,0 +1,46 @@
+billNumber = "HR01490"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01490"
+lastScraped = "2025-09-22T00:20:59.708039"
+title = "HR01490"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON APPROPRIATIONS AND CIVIL SERVICE AND PROFESSIONAL REGULATION TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF REPUBLIC ACT NO. 6758 (COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989) WITH EMPHASIS ON THE RECLASSIFICATIO N OF THE POSITION OF MUNICIPAL AGRICULTURAL OFFICER FROM SALARY GRADE 24 TO 20, WHICH IS A POSSIBLE VIOLATION OF EXISTING POLICIES"
+scope = "National"
+dateFiled = "1998-01-12"
+status = "Pending with the Committee on APPROPRIATIONS since 1998-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 118544
+congress = 10
+bill_no = "HR01490"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1998-01-19"

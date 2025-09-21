@@ -1,0 +1,86 @@
+billNumber = "HB10618"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10618"
+lastScraped = "2025-09-22T00:01:47.263043"
+title = "Black Sand Processing Act"
+longTitle = "AN ACT PROHIBITING THE EXPORTATION OF BLACK SAND AND ITS DERIVATIVES IN THEIR RAW FORM\r\n"
+scope = "National"
+dateFiled = "2021-12-13"
+status = "Business for the day on 2022-01-24"
+statusOrder = 11.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Jose Jr. \"Bonito\" C."
+[[authorsDetail]]
+name = "Singson, Jose Jr. \"Bonito\" C."
+nameCode = "Singson"
+date = "2021-12-13"
+sequence = 1
+
+[[authorsDetail]]
+name = "Barzaga, Elpidio Jr. F."
+nameCode = "Barzaga"
+date = "2021-12-13"
+sequence = 2
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2021-12-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB06321"
+sequence = 1
+date = "2021-12-13"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB06321"
+sequence = 1
+date = "2021-12-13"
+flag = "S"
+
+[firstReading]
+id = 30022
+congress = 18
+bill_no = "HB10618"
+report = "01381"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "NATURAL RESOURCES"
+recomm = "Recommending its approval in substitution of House Bill Number 6321"
+remarks = ""
+file = "CR01381.pdf"
+date_read = "2021-12-14"
+date_ob = "2021-12-14"
+date_report = "2021-12-13"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR01381.pdf"
+
+[secondReading]
+id = 3293
+congress = 18
+bill_no = "HB10618"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2022-01-24"
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

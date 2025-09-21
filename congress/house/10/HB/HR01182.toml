@@ -1,0 +1,49 @@
+billNumber = "HR01182"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01182"
+lastScraped = "2025-09-22T00:20:59.652907"
+title = "HR01182"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT A THOROUGH INVESTIGATION ON THE ALLEGED ABDUCTION OF SEVEN FILIPINOS BY A MALAYSIAN NAVY VESSEL IN PALAWAN EARLIER THIS MONTH"
+scope = "Local"
+dateFiled = "1997-04-28"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 118236
+congress = 10
+bill_no = "HR01182"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-05-05"

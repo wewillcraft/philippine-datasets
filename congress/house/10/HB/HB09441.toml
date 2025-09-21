@@ -1,0 +1,51 @@
+billNumber = "HB09441"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09441"
+lastScraped = "2025-09-22T00:20:59.167441"
+title = "HB09441"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TECHNOLOGY TRAINING CENTER AT THE IFUGAO COLLEGE OF ARTS AND TRADE, MUNICIPALITY OF LAGAWE, PROVINCE OF IFUGAO, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-26"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 115862
+congress = 10
+bill_no = "HB09441"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-05-26"

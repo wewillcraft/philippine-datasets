@@ -1,0 +1,42 @@
+billNumber = "HR01339"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01339"
+lastScraped = "2025-09-22T00:47:02.793395"
+title = "HR01339"
+longTitle = "RESOLUTION URGING THE APPROPRIATE HOUSE COMMITTEETO STUDY, RE-EVALUATE OR CHANGE OUR ONE-CHINA POLICY IN THE LIGHT OF WHAT IS HAPPENING TODAY IN MAINLAND CHINA"
+scope = "National"
+dateFiled = "1989-06-07"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1989-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1989-06-08"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 171207
+congress = 8
+bill_no = "HR01339"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1989-06-08"

@@ -1,0 +1,47 @@
+billNumber = "HB04690"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04690"
+lastScraped = "2025-09-22T00:25:55.475060"
+title = "HB04690"
+longTitle = "AN ACT DEFINING THE TERRITORIAL BOUNDARIES BETWEEN THE CITY OF OZAMIZ AND THE MUNICIPALITY OF CLARIN, PROVINCE OF MISAMIS OCCIDENTAL AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro"
+[[authorsDetail]]
+name = "Ramiro"
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123309
+congress = 9
+bill_no = "HB04690"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-11-16"

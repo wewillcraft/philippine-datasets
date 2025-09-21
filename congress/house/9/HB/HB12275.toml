@@ -1,0 +1,47 @@
+billNumber = "HB12275"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12275"
+lastScraped = "2025-09-22T00:25:56.862350"
+title = "HB12275"
+longTitle = "AN ACT CREATING THE MINDANAO RAILWAYS CORPORATION PRESCRIBING ITS POWERS, FUNCTIONS AND DUTIES, AND PROVIDING FOR THE NECESSARY FUNDS FOR ITS OPERATION"
+scope = "Local"
+dateFiled = "1994-03-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1994-03-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro"
+[[authorsDetail]]
+name = "Ramiro"
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1994-03-14"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 130890
+congress = 9
+bill_no = "HB12275"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1994-03-14"

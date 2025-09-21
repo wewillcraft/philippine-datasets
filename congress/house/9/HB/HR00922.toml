@@ -1,0 +1,43 @@
+billNumber = "HR00922"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00922"
+lastScraped = "2025-09-22T00:25:57.535473"
+title = "HR00922"
+longTitle = "A RESOLUTION TO DIRECT THE COMMITTEE ON ENERGY TO CONDUCT, IN AID OF LEGISLATION, AN INQUIRY INTO THE EFFECTIVENESS AND RESPONSIVENESS OF THE ENERGY REGULATORY BOARD WITH RESPECT TO REGULATING OIL PRICE INCREASES AND TO RECOMMEND MEASURES TO ABOLISHTHE AGENCY, AS WELL AS ALTERNATIVE MEASURES TO CONTROL PROFITEERING BY OIL COMPANIES"
+scope = "National"
+dateFiled = "1994-02-01"
+status = "Pending with the Committee on ENERGY since 1994-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-02-03"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 134229
+congress = 9
+bill_no = "HR00922"
+comm_act = "Change of referral from the Committee on Rules(J.52 ,p.14)"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-02-03"

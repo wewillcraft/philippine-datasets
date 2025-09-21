@@ -1,0 +1,42 @@
+billNumber = "HB01324"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01324"
+lastScraped = "2025-09-22T00:46:56.796755"
+title = "HB01324"
+longTitle = "AN ACT ESTABLISHING A BRANCH OF THE PHILIPPINE PORTS AUTHORITY IN THE MUNICIPALITY OF BONGAO, PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136020
+congress = 8
+bill_no = "HB01324"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-09-15"

@@ -1,0 +1,46 @@
+billNumber = "HB09105"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09105"
+lastScraped = "2025-09-22T00:20:59.102081"
+title = "HB09105"
+longTitle = "AN ACT DECLARING MANGAL BEACH IN THE MUNICIPALITY OF SUMISIP, PROVINCE OF BASILAN, AS A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1997-03-13"
+status = "Pending with the Committee on TOURISM since 1997-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1997-03-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115526
+congress = 10
+bill_no = "HB09105"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1997-03-18"

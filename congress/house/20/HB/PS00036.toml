@@ -1,0 +1,44 @@
+billNumber = "PS00036"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00036"
+lastScraped = "2025-09-21T23:39:49.247967"
+title = "Tertiary Education Subsidy"
+longTitle = "TERTIARY EDUCATION SUBSIDY"
+dateFiled = "2025-08-12"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "HERNANDEZ, FERDINAND L."
+[[authorsDetail]]
+name = "HERNANDEZ, FERDINAND L."
+nameCode = "Hernandez (F. L.)"
+date = "2025-08-12"
+sequence = 1
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-08-12"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 4871
+congress = 103
+bill_no = "PS00036"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-12"

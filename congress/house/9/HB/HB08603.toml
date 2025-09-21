@@ -1,0 +1,47 @@
+billNumber = "HB08603"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08603"
+lastScraped = "2025-09-22T00:25:56.148514"
+title = "HB08603"
+longTitle = "AN ACT PROVIDING FOR THE ORGANIZATION OF THE OFFICE OF THE OMBUDSMAN"
+scope = "National"
+dateFiled = "1993-04-01"
+status = "Pending with the Committee on JUSTICE since 1993-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-05-03"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127222
+congress = 9
+bill_no = "HB08603"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-05-03"

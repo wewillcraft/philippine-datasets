@@ -1,0 +1,46 @@
+billNumber = "HB01768"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01768"
+lastScraped = "2025-09-22T00:20:57.677531"
+title = "HB01768"
+longTitle = "AN ACT ESTABLISHING A CATTLE BREEDING STATION AND STOCK FARM IN THE MUNICIPALITY OF TAPAZ, PROVINCE OF CAPIZ, TO BE KNOWN AS THE TAPAZ CATTLE BREEDING STATION AND STOCK FARM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108189
+congress = 10
+bill_no = "HB01768"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-08"

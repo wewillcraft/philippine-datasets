@@ -1,0 +1,47 @@
+billNumber = "HB01112"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01112"
+lastScraped = "2025-09-22T00:25:54.794802"
+title = "HB01112"
+longTitle = "AN ACT ESTABLISHING HEALTH CENTER IN BARANGAY BACUNGAN, MUNICIPALITY OF POLA, PROVINCE OF ORIENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-17"
+status = "Pending with the Committee on HEALTH since 1992-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-24"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119731
+congress = 9
+bill_no = "HB01112"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-24"

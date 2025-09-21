@@ -1,0 +1,73 @@
+billNumber = "HR01511"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01511"
+lastScraped = "2025-09-22T00:20:59.711306"
+title = "HR01511"
+longTitle = "RESOLUTION ENTREATINGLY REQUESTING AND URGING THE U.S. CONGRESS TO AMEND U.S. PUBLIC LAW 97-359, KNOWN AS THE AMERASIAN IMMIGRATION ACT OF 1982, TO INCLUDE FILIPINO AMERASIANS TO AVAIL OF THE BENEFITS THEREAT, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-02-03"
+status = "Adopted as Resolution No. HR00132 on 1998-02-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "DAMASING, ERASMO B.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DAMASING, ERASMO B."
+nameCode = "Damasing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-02-03"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[motherBills]]
+bill_no = "HR01465"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01465"
+flag = "S"
+
+[firstReading]
+id = 118565
+congress = 10
+bill_no = "HR01511"
+report = "01468"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption in substituti on of H.R. No. 1465"
+date_read = "1998-02-03"
+date_ob = "1998-02-03"
+date_report = "1998-02-03"
+
+[secondReading]
+id = 19061
+congress = 10
+bill_no = "HR01511"
+adopted_resolution = "HR00132"
+date_calendared = "1998-02-03"
+date_approved = "1998-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00132.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00132.pdf"

@@ -1,0 +1,43 @@
+billNumber = "HR00719"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00719"
+lastScraped = "2025-09-22T00:25:57.497888"
+title = "HR00719"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND OTHER PERTINENT COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT A FULL AND COMPREHENSIVE INVESTIGATION, IN AID OF LEGISLATION, OF ALL THE PROJECTS AND, SIMILAR UNDERTAKINGS AND ACTIVITIES WHEREIN HUGE AMOUNT OF GOVERNMENT FUNDS WERE SPENT AND SUNK BUT LATER ON DISCONTINUED UNFINISHED AND TOTALLY ABANDONED"
+scope = "National"
+dateFiled = "1993-08-09"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1993-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1993-08-12"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 134031
+congress = 9
+bill_no = "HR00719"
+comm_act = "Change of referral from the Committee on Rules (J.12,p.30 )"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1993-08-12"

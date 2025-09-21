@@ -1,0 +1,46 @@
+billNumber = "HB01023"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01023"
+lastScraped = "2025-09-21T23:39:48.502184"
+title = "HB01023"
+longTitle = "AN ACT TO PROMOTE THE DEVELOPMENT OF AGRICULTURE COOPERATIVES IN THE\r\nPHILIPPINES, PROVIDING SUPPORT TO FARMERS AND THEIR ASSOCIATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on COOPERATIVES DEVELOPMENT since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01023.pdf"
+fileSize = 634068
+author = "NAZAL, ROBERT"
+[[authorsDetail]]
+name = "NAZAL, ROBERT"
+nameCode = "Nazal"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 1024
+congress = 103
+bill_no = "HB01023"
+report = ""
+comm_act = ""
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

@@ -1,0 +1,47 @@
+billNumber = "HB03790"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03790"
+lastScraped = "2025-09-22T00:13:00.484244"
+title = "HB03790"
+longTitle = "AN ACT CREATING THE DAVAO RIVER AUTHORITY AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-10-29"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2001-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia, Vincent J."
+[[authorsDetail]]
+name = "Garcia, Vincent J."
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "2001-11-19"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86950
+congress = 12
+bill_no = "HB03790"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "2001-11-19"

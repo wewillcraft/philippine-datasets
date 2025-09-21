@@ -1,0 +1,52 @@
+billNumber = "HB03028"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB03028"
+lastScraped = "2025-09-22T00:23:16.032608"
+title = "HB03028"
+longTitle = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEALTH MAINTENANCE ORGANIZATIONS, REGULATING THEIR OPERATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-08-28"
+status = "Pending with the Committee on HEALTH since 1998-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 94469
+congress = 11
+bill_no = "HB03028"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1998-09-03"

@@ -1,0 +1,51 @@
+billNumber = "HR01477"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01477"
+lastScraped = "2025-09-22T00:20:59.705964"
+title = "HR01477"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON JUSTICE, HOUSING AND URBAN DEVELOPMENT, AND CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INQUIRY, IN AID OF LEGISLAITON, INTO THE UTILIZATION AND DISPOSITION OF THE PARCEL OF LAND IN FORT BONIFACIO, TAGUIG,METRO MANILA KNOWN AS THE 'PALACOL AREA' AND THE TREATMENT OF THE ACTUAL RESIDENTS OF THE SAID AREA BY THE BCDA"
+scope = "Local"
+dateFiled = "1998-01-05"
+status = "Substituted by HR01506"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-01-10"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 118531
+congress = 10
+bill_no = "HR01477"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1998-01-10"

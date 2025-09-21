@@ -1,0 +1,42 @@
+billNumber = "HR02158"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02158"
+lastScraped = "2025-09-22T00:47:02.972868"
+title = "HR02158"
+longTitle = "RESOLUTION URGING THE PRESIDENT TO SUSPEND THE INCREASE OF POWER RATES AS SOUGHT BY THE NATIONAL POWER CORPORATION (NAPOCOR)"
+scope = "National"
+dateFiled = "1991-02-11"
+status = "Pending with the Committee on ENERGY since 1991-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Jose Maria Jr. R."
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1991-02-14"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 171993
+congress = 8
+bill_no = "HR02158"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1991-02-14"

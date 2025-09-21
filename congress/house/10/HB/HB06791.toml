@@ -1,0 +1,46 @@
+billNumber = "HB06791"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06791"
+lastScraped = "2025-09-22T00:20:58.619713"
+title = "HB06791"
+longTitle = "AN ACT AUTHORIZING THE EXPROPRIATION OF FOUR THOUSAND SQUARE METERS OF PRIVATE LAND IN CALUMPANG, MUNICIPALITY OF MOLO, PROVINCE OF ILOILO, AAND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-04-10"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113212
+congress = 10
+bill_no = "HB06791"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1996-04-29"

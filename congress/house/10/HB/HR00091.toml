@@ -1,0 +1,42 @@
+billNumber = "HR00091"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00091"
+lastScraped = "2025-09-22T00:20:59.440905"
+title = "HR00091"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON LOCAL GOVERNMENT TO CONDUCT A STUDY, IN AID OF LEGISLATION, ON THE FEASIBILITY OF MERGING THE PROVINCES OF NEGROS OCCIDENTAL AND NEGROS ORIENTAL INTO ONE ISLAND REGION, TO BE KNOWN AS THE REGION VI-A"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117145
+congress = 10
+bill_no = "HR00091"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. Local Government on Aug. 15, 1995."
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-08-14"

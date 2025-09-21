@@ -1,0 +1,42 @@
+billNumber = "HCR0010"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HCR0010"
+lastScraped = "2025-09-22T00:25:57.337968"
+title = "HCR0010"
+longTitle = "CONCURRENT RESOLUTION CREATING A JOINT COMMITTEE TO LOOK INTO THE GRIEVANCES OF THE STRIKING TEACHERS WITH THE END IN VIEW OF ENACTING REMEDIAL MEASURES TO PROVIDE A LASTING SOLUTION THERETO"
+scope = "National"
+dateFiled = "1992-10-12"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133249
+congress = 9
+bill_no = "HCR0010"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-13"

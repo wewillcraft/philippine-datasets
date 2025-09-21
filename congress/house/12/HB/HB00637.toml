@@ -1,0 +1,57 @@
+billNumber = "HB00637"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00637"
+lastScraped = "2025-09-22T00:12:59.921012"
+title = "HB00637"
+longTitle = "AN ACT ESTABLISHING A NATIONAL STRATEGIC MISSING CHILDREN RECOVERY PROGRAM, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-03"
+status = "Pending with the Committee on SOCIAL SERVICES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Francis G."
+coAuthors = [ "ZIALCITA, EDUARDO C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Escudero, Francis G."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 83797
+congress = 12
+bill_no = "HB00637"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2001-07-24"

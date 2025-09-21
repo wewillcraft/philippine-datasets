@@ -1,0 +1,47 @@
+billNumber = "HR00171"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00171"
+lastScraped = "2025-09-22T00:01:47.371089"
+title = "HR00171"
+longTitle = "RESOLUTION URGING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE LEGALITY OF, AND THE CIRCUMSTANCES IN, THE ACTIONS OF FORTUNE MEDICARE, INC. (FORTUNE CARE) IN NO LONGER RENEWING THE NON-LIFE INSURANCE CONTRACTS OF EXISTING MEMBERS"
+scope = "National"
+dateFiled = "2019-08-01"
+status = "Pending with the Committee on HEALTH since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00171.pdf"
+fileSize = 260400
+author = "Herrera, Bernadette \"BH\""
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera-Dy"
+date = "2019-08-01"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 30499
+congress = 18
+bill_no = "HR00171"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

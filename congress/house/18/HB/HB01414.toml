@@ -1,0 +1,46 @@
+billNumber = "HB01414"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01414"
+lastScraped = "2025-09-22T00:01:45.304463"
+title = "HB01414"
+longTitle = "AN ACT PUNISHING THE WILLFUL FAILURE TO PAY CHILD SUPPORT"
+scope = "National"
+dateFiled = "2019-07-04"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01414.pdf"
+fileSize = 246053
+author = "Vargas, Alfred D."
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2019-07-04"
+sequence = 1
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 20823
+congress = 18
+bill_no = "HB01414"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

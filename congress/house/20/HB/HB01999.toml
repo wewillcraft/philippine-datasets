@@ -1,0 +1,46 @@
+billNumber = "HB01999"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01999"
+lastScraped = "2025-09-21T23:39:48.701703"
+title = "HB01999"
+longTitle = "AN ACT GRANTING UNIVERSAL SOCIAL PENSION AND INTRODUCING A TIERED SYSTEM OF SOCIAL PENSION FOR INDIGENT SENIOR CITIZENS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7432, AS AMENDED, OTHERWISE KNOWN AS THE \"EXPANDED SENIOR CITIZENS ACT OF 2010\""
+scope = "National"
+dateFiled = "2025-07-16"
+status = "Pending with the Committee on SENIOR CITIZENS since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01999.pdf"
+fileSize = 6701437
+author = "CUA, MIDY N."
+[[authorsDetail]]
+name = "CUA, MIDY N."
+nameCode = "Cua"
+date = "2025-07-16"
+sequence = 1
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 2000
+congress = 103
+bill_no = "HB01999"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

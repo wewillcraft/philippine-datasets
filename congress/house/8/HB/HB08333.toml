@@ -1,0 +1,42 @@
+billNumber = "HB08333"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08333"
+lastScraped = "2025-09-22T00:46:58.077229"
+title = "HB08333"
+longTitle = "AN ACT TO PROVIDE FOR THE ESTABLISHMENT AND OPERATION OF AN EMERGENCY HOSPITAL IN BUNAWAN DISTRICT IN DAVAO CITY, TO BE KNOWN AS BUNAWAN EMERGENCY HOSPITAL, TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1988-04-27"
+status = "Pending with the Committee on HEALTH since 1988-05-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-02"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 143011
+congress = 8
+bill_no = "HB08333"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-02"

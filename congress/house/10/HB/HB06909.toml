@@ -1,0 +1,49 @@
+billNumber = "HB06909"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06909"
+lastScraped = "2025-09-22T00:20:58.641447"
+title = "HB06909"
+longTitle = "AN ACT UPGRADING THE ANNUAL LIFE PENSION OF FORMER PRESIDENTS OF THE REPUBLIC OF THE PHILIPPINES OR THEIR SURVIVING SPOUSES"
+scope = "National"
+dateFiled = "1996-05-07"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-05-09"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 113330
+congress = 10
+bill_no = "HB06909"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-05-09"

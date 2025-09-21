@@ -1,0 +1,46 @@
+billNumber = "HB01106"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01106"
+lastScraped = "2025-09-22T00:20:57.564168"
+title = "HB01106"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 1125, OTHERWISE KNOWN AS AN ACT CREATING THE COURT OF TAX APPEALS, AS AMENDED, GRANTING IT CRIMINAL JURISDICTION OVER TAX CASES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-20"
+status = "Pending with the Committee on JUSTICE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier, Exequiel B."
+[[authorsDetail]]
+name = "Javier, Exequiel B."
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 107527
+congress = 10
+bill_no = "HB01106"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-31"

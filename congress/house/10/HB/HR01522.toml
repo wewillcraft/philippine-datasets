@@ -1,0 +1,41 @@
+billNumber = "HR01522"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01522"
+lastScraped = "2025-09-22T00:20:59.712764"
+title = "HR01522"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO INVESTIGATE, IN AID OF LEGISLATION, THE PRACTICE OF ALLOWING VIP CASINO PLAYERS TO BUY CASINO CHIPS USING PERSONAL CHECKS BASED ON A 1995 RESOLUTION OF THE BOARD OF THE PHILIPPINE AMUSEMENT ANDGAMING CORPORATION (PAGCOR), AS WELL AS OTHER REPORTED ANOMALIES IN THE PAGCOR WHICH PREJUDICE PUBLIC INTEREST"
+scope = "National"
+dateFiled = "1998-02-11"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1998-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "0514"
+dateRead = "1998-02-13"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 118571
+congress = 10
+bill_no = "HR01522"
+referral = "0514"
+ref_name = "GAMES AND AMUSEMENTS"
+date_read = "1998-02-13"

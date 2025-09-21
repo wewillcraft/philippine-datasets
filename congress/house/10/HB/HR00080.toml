@@ -1,0 +1,42 @@
+billNumber = "HR00080"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00080"
+lastScraped = "2025-09-22T00:20:59.438632"
+title = "HR00080"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE APPROPRIATENESS AND LEGALITY OF THE PROPOSED G. E. C. MARCONI PROJECT OF THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS (DOTC)"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117134
+congress = 10
+bill_no = "HR00080"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Transporta tion and Communicat ions on Au"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-08-08"

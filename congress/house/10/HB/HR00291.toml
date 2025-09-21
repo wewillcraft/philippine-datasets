@@ -1,0 +1,41 @@
+billNumber = "HR00291"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00291"
+lastScraped = "2025-09-22T00:20:59.476530"
+title = "HR00291"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCES OF THE HOUSE OF REPRESENTATIVES ON THE TRAGIC DEATH OF ISRAELI PRIME MINISTER YITZHAK RABIN"
+scope = "National"
+dateFiled = "1995-11-06"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1995-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-11-06"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 117345
+congress = 10
+bill_no = "HR00291"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1995-11-06"

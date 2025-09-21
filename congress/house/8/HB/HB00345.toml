@@ -1,0 +1,42 @@
+billNumber = "HB00345"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00345"
+lastScraped = "2025-09-22T00:46:56.621160"
+title = "HB00345"
+longTitle = "AN ACT PROVIDING THE ESTABLISHMENT, MAINTENANCE AND OPERATION OF A PUBLIC HOSPITAL IN THE MUNICIPALITY OF TANJAY, PROVINCE OF NEGROS ORIENTAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-13"
+status = "Pending with the Committee on HEALTH since 1987-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-17"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[firstReading]
+id = 135042
+congress = 8
+bill_no = "HB00345"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-17"

@@ -1,0 +1,68 @@
+billNumber = "HB02038"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02038"
+lastScraped = "2025-09-21T23:55:44.494502"
+title = "HB02038"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN ABACA BIOTECHNOLOGY LABORATORY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-07-27"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2016-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02038.pdf"
+fileSize = 320240
+author = "Sarmiento, Cesar V."
+coAuthors = [ "NIETO, YUL SERVO", "BRAVO, MARIA VIDA E.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Sarmiento, Cesar V."
+nameCode = "Sarmiento (C.)"
+date = "2016-07-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2016-08-23"
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2016-09-19"
+journalNo = "J023"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-31"
+journalNo = "J064"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2016-08-08"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 35506
+congress = 17
+bill_no = "HB02038"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-08"

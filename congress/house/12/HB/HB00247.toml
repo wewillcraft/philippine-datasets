@@ -1,0 +1,77 @@
+billNumber = "HB00247"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00247"
+lastScraped = "2025-09-22T00:12:59.847520"
+title = "HB00247"
+longTitle = "AN ACT PROVIDING FOR THE REGULATION OF THE ORGANIZATION AND OPERATIONS OF INVESTMENT COMPANIES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lapus"
+coAuthors = [ "ESPINA, GERARDO S.", "ZIALCITA, EDUARDO C.", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lapus"
+nameCode = "Lapus"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J015"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 83407
+congress = 12
+bill_no = "HB00247"
+comm_act = "jt. ref'ls as per J.17;p.15( Aug. 28,2001)"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "2001-07-24"

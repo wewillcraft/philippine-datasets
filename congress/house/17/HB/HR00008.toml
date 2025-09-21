@@ -1,0 +1,47 @@
+billNumber = "HR00008"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00008"
+lastScraped = "2025-09-21T23:55:46.225991"
+title = "HR00008"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S OF THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, INQUIRE, AND LOOK INTO, THE DELAY IN THE ISSUANCE OF THE IMPLEMENTING RULES AND REGULATIONS OF REPUBLIC ACT NO. 9049, AND FOR THE APPROPRIATE COMMITTEE TO REVISIT THE PROVISIONS OF THE LAW IN ORDER TO IDENTIFY THE NECESSARY AMENDMENTS TO AFFORD THE AWARDEES OF THE MEDAL OF VALOR THE PROPER RECOGNITION AND SUPPORT DUE THEM"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00008.pdf"
+fileSize = 497526
+author = "Alejano, Gary C."
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2016-06-30"
+sequence = 1
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 42751
+congress = 17
+bill_no = "HR00008"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-07-26"

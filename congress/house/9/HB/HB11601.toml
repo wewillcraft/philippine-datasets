@@ -1,0 +1,42 @@
+billNumber = "HB11601"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11601"
+lastScraped = "2025-09-22T00:25:56.715246"
+title = "HB11601"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MULTIPURPOSE CENTER IN BARANGAY POBLACION, SAN ANTONIO, QUEZON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-12-14"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-12-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-12-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130216
+congress = 9
+bill_no = "HB11601"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-12-17"

@@ -1,0 +1,46 @@
+billNumber = "HB02415"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02415"
+lastScraped = "2025-09-21T23:39:48.776837"
+title = "HB02415"
+longTitle = "AN ACT INSTITUTIONALIZING THE PUBLIC TRANSPORT MODERNIZATION PROGRAM (PTMP), APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-28"
+status = "Pending with the Committee on TRANSPORTATION since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02415.pdf"
+fileSize = 9748585
+author = "ESPARES, FELIMON M."
+[[authorsDetail]]
+name = "ESPARES, FELIMON M."
+nameCode = "Espares"
+date = "2025-07-28"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 2416
+congress = 103
+bill_no = "HB02415"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

@@ -1,0 +1,42 @@
+billNumber = "HR02226"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02226"
+lastScraped = "2025-09-22T00:47:02.985418"
+title = "HR02226"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO STUDY, IN AID OF LEGISLATION, THE PROPRIETY OF INSTITUTING AT ONCE THE DAILY SAVING TIME (DST)"
+scope = "National"
+dateFiled = "1991-04-30"
+status = "Pending with the Committee on ENERGY since 1991-05-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1991-05-07"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 172060
+congress = 8
+bill_no = "HR02226"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1991-05-07"

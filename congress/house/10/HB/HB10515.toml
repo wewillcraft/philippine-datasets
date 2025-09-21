@@ -1,0 +1,80 @@
+billNumber = "HB10515"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10515"
+lastScraped = "2025-09-22T00:20:59.399099"
+title = "HB10515"
+longTitle = "AN ACT DECLARING NOVEMBER 4 AS NON-WORKING SPECIAL PUBLIC HOLIDAY FOR THE MUNICIPALITY OF LUCBAN AND THE PROVINCE OF QUEZON TO BE KNOWN AS \"HERMANO PULI DAY,\" AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-02-04"
+status = "Approved on Third Reading on 1998-02-20"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+coAuthors = [ "SATOR, BALTAZAR A.",]
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SATOR, BALTAZAR A."
+nameCode = "Sator"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-02-04"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[motherBills]]
+bill_no = "HB10136"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB10136"
+flag = "S"
+
+[firstReading]
+id = 116935
+congress = 10
+bill_no = "HB10515"
+report = "01470"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1998-02-04"
+date_ob = "1998-02-04"
+date_report = "1998-02-04"
+
+[secondReading]
+id = 18867
+congress = 10
+bill_no = "HB10515"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3426
+congress = 10
+bill_no = "HB10515"
+date_dist = "1998-02-06"
+date_adopt = "1998-02-20"
+no_yeas = 106
+no_nays = 0
+no_abstent = 0

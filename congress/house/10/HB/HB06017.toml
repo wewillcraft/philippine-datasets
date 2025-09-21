@@ -1,0 +1,46 @@
+billNumber = "HB06017"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06017"
+lastScraped = "2025-09-22T00:20:58.479256"
+title = "HB06017"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A WASTE MANAGEMENT PROGRAM FOR THE FOURTH CONGRESSIONAL DISTRICT OF NUEVA ECIJA, ALLOCATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-01-31"
+status = "Substituted by HB08622"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-02-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112438
+congress = 10
+bill_no = "HB06017"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-02-05"

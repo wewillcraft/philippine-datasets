@@ -1,0 +1,54 @@
+billNumber = "HB03236"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03236"
+lastScraped = "2025-09-21T23:55:44.726114"
+title = "HB03236"
+longTitle = "AN ACT CREATING 'THE GERIATRICS CARE MEDICAL ACT OF 2016' AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2016-08-23"
+status = "Pending with the Committee on HEALTH since 2016-08-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03236.pdf"
+fileSize = 226218
+author = "Montoro, Teodoro \"Ted\" G."
+coAuthors = [ "PRIMICIAS-AGABAS, MARLYN L.",]
+[[authorsDetail]]
+name = "Montoro, Teodoro \"Ted\" G."
+nameCode = "Montoro"
+date = "2016-08-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-30"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 36704
+congress = 17
+bill_no = "HB03236"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-30"

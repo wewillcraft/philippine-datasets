@@ -1,0 +1,42 @@
+billNumber = "HB04749"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04749"
+lastScraped = "2025-09-22T00:46:57.384943"
+title = "HB04749"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A BRIDGE LINKING THE PROVINCE OF ILOILO, AND THE SUB-PROVINCE OF GUIMARAS, AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-12-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-12-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-12-17"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 139432
+congress = 8
+bill_no = "HB04749"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-12-17"

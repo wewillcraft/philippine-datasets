@@ -1,0 +1,73 @@
+billNumber = "HR00111"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00111"
+lastScraped = "2025-09-22T00:20:59.444171"
+title = "HR00111"
+longTitle = "RESOLUTION URGING THE PRESIDENT TO DIRECT THE CONCERNED AGENCIES OF GOVERNMENT TO GIVE FULL SUPPORT TO THE DEVELOPMENT AND PROMOTION OF THE TOURISM INDUSTRY IN THE COUNTRY"
+scope = "National"
+dateFiled = "1995-08-15"
+status = "Adopted as Resolution No. HR00048 on 1996-06-07"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "BORJA-AGANA, VENICE", "GORDON, JAMES JR.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BORJA-AGANA, VENICE"
+nameCode = "Borja-agana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GORDON, JAMES JR."
+nameCode = "Gordon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117165
+congress = 10
+bill_no = "HR00111"
+report = "00136"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "Approval with amendments"
+date_read = "1995-08-21"
+date_ob = "1996-01-22"
+date_unass = "1996-01-30"
+date_report = "1996-01-15"
+
+[secondReading]
+id = 18922
+congress = 10
+bill_no = "HR00111"
+adopted_resolution = "HR00048"
+date_calendared = "1996-06-07"
+date_approved = "1996-06-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00048.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00048.pdf"

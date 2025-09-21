@@ -1,0 +1,56 @@
+billNumber = "HR00224"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00224"
+lastScraped = "2025-09-22T00:13:01.186524"
+title = "HR00224"
+longTitle = "RESOLUTION MOST RESPECTFULLY REQUESTING THAT ALL COMMITTEE HEARINGS, DELIBERATIONS AND MEETINGS BE CONFINED WITHIN THE HOUSE OF REPRESENTATIVES COMPLEX"
+scope = "Local"
+dateFiled = "2001-10-01"
+status = "Pending with the Committee on RULES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mitra, Abraham Kahlil B."
+coAuthors = [ "FUENTEBELLA, FELIX WILLIAM B.",]
+[[authorsDetail]]
+name = "Mitra, Abraham Kahlil B."
+nameCode = "Mitra"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FUENTEBELLA, FELIX WILLIAM B."
+nameCode = "Fuentebella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[[committee]]
+name = "ACCOUNTS"
+type = "secondary"
+referralCode = "0501"
+
+[firstReading]
+id = 90163
+congress = 12
+bill_no = "HR00224"
+comm_act = "Referred to the Ctte. on Accounts on Oct. 24, 2001"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-10-09"

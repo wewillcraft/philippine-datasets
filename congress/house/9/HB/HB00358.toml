@@ -1,0 +1,42 @@
+billNumber = "HB00358"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00358"
+lastScraped = "2025-09-22T00:25:54.660017"
+title = "HB00358"
+longTitle = "AN ACT APPROPRIATING TWO MILLION PESOS (P2,000,000.00) INTENDED FOR THE LOW INCOME MUNICIPALITIES AND ONE MILLION PESOS (P1,000,000) FOR EVERY OTHER MUNICIPALITIES IN THE WHOLE COUNTRY"
+scope = "National"
+dateFiled = "1992-07-29"
+status = "Pending with the Committee on APPROPRIATIONS since 1992-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1992-08-04"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 118977
+congress = 9
+bill_no = "HB00358"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1992-08-04"

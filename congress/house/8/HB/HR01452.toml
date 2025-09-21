@@ -1,0 +1,42 @@
+billNumber = "HR01452"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01452"
+lastScraped = "2025-09-22T00:47:02.811571"
+title = "HR01452"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECONOMIC AFFAIRS AND BANKS TO LOOK INTO THE NEDA HEAD REPORT IN AID OF LEGISLATION"
+scope = "Local"
+dateFiled = "1989-09-06"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1989-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "536"
+dateRead = "1989-09-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171316
+congress = 8
+bill_no = "HR01452"
+referral = "536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1989-09-06"

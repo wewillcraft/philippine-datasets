@@ -1,0 +1,54 @@
+billNumber = "HB05122"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05122"
+lastScraped = "2025-09-22T00:20:58.316728"
+title = "HB05122"
+longTitle = "AN ACT REQUIRING THE ESTABLISHMENT OF CHILD DAY CARE SUPPORT CENTERS IN THE INDUSTRIAL ESTABLISHMENTS, AND PROVIDING INCENTIVES THEREFOR"
+scope = "National"
+dateFiled = "1995-11-15"
+status = "Pending with the Committee on SOCIAL SERVICES since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111543
+congress = 10
+bill_no = "HB05122"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1995-11-20"

@@ -1,0 +1,71 @@
+billNumber = "HR00225"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00225"
+lastScraped = "2025-09-22T00:47:02.568861"
+title = "HR00225"
+longTitle = "RESOLUTION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO FIND OUT HOW AND WHY THE 1,500 REBEL SOLDIERS WERE ABLE TO ENTER METRO MANILA ON AUGUST 28, 1987, WITHOUT BEING DETECTED"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+coAuthors = [ "LINGAD, EMIGDIO L.", "ANDOLANA, GREGORIO A.", "PUYAT-REYES, MA. CONSUELO", "GONZALEZ, PACITA T.",]
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LINGAD, EMIGDIO L."
+nameCode = "Lingad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANDOLANA, GREGORIO A."
+nameCode = "Andolana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUYAT-REYES, MA. CONSUELO"
+nameCode = "Puyat-reyes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, PACITA T."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-09-01"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 170126
+congress = 8
+bill_no = "HR00225"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-09-01"

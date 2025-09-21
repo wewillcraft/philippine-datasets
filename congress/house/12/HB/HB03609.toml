@@ -1,0 +1,47 @@
+billNumber = "HB03609"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03609"
+lastScraped = "2025-09-22T00:13:00.454445"
+title = "HB03609"
+longTitle = "AN ACT ESTABLISHING A REGISTER OF DEEDS DISTRICT OFFICE IN THE MUNICIPALITY OF BONGABONG, PROVINCE OF ORIENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-19"
+status = "Pending with the Committee on JUSTICE since 2001-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "UMALI, ALFONSO V., JR."
+[[authorsDetail]]
+name = "UMALI, ALFONSO V., JR."
+nameCode = "Umali"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-10-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86769
+congress = 12
+bill_no = "HB03609"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-10-25"

@@ -1,0 +1,47 @@
+billNumber = "HB02638"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02638"
+lastScraped = "2025-09-22T00:13:00.271798"
+title = "HB02638"
+longTitle = "AN ACT PROVIDING FOR THE TOTAL ELECTRIFICATION OF ALL BARANGAYS WITHOUT ELECTRICITY IN THE MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-22"
+status = "Pending with the Committee on ENERGY since 2001-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2001-08-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85798
+congress = 12
+bill_no = "HB02638"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2001-08-28"

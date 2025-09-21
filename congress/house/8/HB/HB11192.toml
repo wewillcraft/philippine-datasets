@@ -1,0 +1,50 @@
+billNumber = "HB11192"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11192"
+lastScraped = "2025-09-22T00:46:58.535973"
+title = "HB11192"
+longTitle = "AN ACT MANDATING THAT ALL APPLICATIONS FOR FRANCHISE SHALL BE RECOMMENDED BY LOCAL EXECUTIVES"
+scope = "National"
+dateFiled = "1988-05-26"
+status = "Pending with the Committee on CORPORATIONS AND FRANCHISES since 1988-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CORPORATIONS AND FRANCHISES"
+type = "primary"
+referralCode = "508"
+dateRead = "1988-05-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 145861
+congress = 8
+bill_no = "HB11192"
+referral = "508"
+ref_name = "CORPORATIONS AND FRANCHISES"
+sub_name = ""
+date_read = "1988-05-31"

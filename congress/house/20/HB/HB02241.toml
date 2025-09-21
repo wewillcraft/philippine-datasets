@@ -1,0 +1,51 @@
+billNumber = "HB02241"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02241"
+lastScraped = "2025-09-21T23:39:48.746061"
+title = "HB02241"
+longTitle = "AN ACT INSTITUTIONALIZING A NATIONAL EMPLOYMENT FACILITATION SERVICE\r\nNETWORK FOR PERSONS WITH DISABILITY (PWDs) AND SENIOR CITIZENS THROUGH THE ESTABLISHMENT OF A LOCAL CENTER FOR INCLUSIVE EMPLOYMENT IN EVERY PROVINCE, KEY CITY AND OTHER STRATEGIC AREAS THROUGHOUT THE COUNTRY\r\n"
+scope = "National"
+dateFiled = "2025-07-23"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02241.pdf"
+fileSize = 290076
+author = "YAMSUAN, BRIAN RAYMUND S."
+[[authorsDetail]]
+name = "YAMSUAN, BRIAN RAYMUND S."
+nameCode = "Yamsuan"
+date = "2025-07-23"
+sequence = 1
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "secondary"
+referralCode = "I505"
+
+[firstReading]
+id = 2242
+congress = 103
+bill_no = "HB02241"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

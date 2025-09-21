@@ -1,0 +1,54 @@
+billNumber = "TB00003"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=TB00003"
+lastScraped = "2025-09-22T00:47:03.034764"
+title = "TB00003"
+longTitle = "TEMPORARY BILL FOR SB01500"
+scope = "National"
+dateFiled = "1990-07-10"
+status = "REPUBLIC ACT (RA06968) enacted on 1990-10-24"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "531"
+dateRead = "1990-07-25"
+
+[firstReading]
+id = 172334
+congress = 8
+bill_no = "TB00003"
+report = "01175"
+comm_act = "recommending approval with amendments in consolidation with HB Nos. 27878,30233,23054 and 31033 on August 21, 1990"
+referral = "531"
+ref_name = "REVISION OF LAWS"
+date_read = "1990-07-25"
+date_report = "1990-08-21"
+
+[secondReading]
+id = 21708
+congress = 8
+bill_no = "TB00003"
+date_approved = "1990-08-21"
+
+[thirdReading]
+id = 1346
+congress = 8
+bill_no = "TB00003"
+date_dist = "1990-08-28"
+date_adopt = "1990-08-28"
+remarks = "Bill returned to the Senate on August 29, 1990"
+no_yeas = 121
+no_nays = 17
+date_trans = "1990-08-29"
+ccreqby = "S"
+act_pres = "A"
+dte_hsagcc = "1990-10-09"
+dte_snagcc = "1990-10-09"
+dte_actedp = "1990-10-24"

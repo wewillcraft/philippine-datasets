@@ -1,0 +1,52 @@
+billNumber = "HR01064"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01064"
+lastScraped = "2025-09-22T00:20:59.631916"
+title = "HR01064"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TRADE AND INDUSTRY AND BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROPRIETY AND CONSEQUENCE OF LIFTING ALL KINDS OF RESTRICTIONS ON LOCAL BORROWINGS IN PESO, DOLLAR AND OTHER CURRENCIES, AS STIPULATED  IN BANGKO SENTRAL'S MEMORANDUM CIRCULAR NO. 1389, SERIES OF 1993"
+scope = "National"
+dateFiled = "1997-01-28"
+status = "Pending with the Committee on RULES since 1997-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 118118
+congress = 10
+bill_no = "HR01064"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Trade and Industry and on Banks and Fin"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-03"

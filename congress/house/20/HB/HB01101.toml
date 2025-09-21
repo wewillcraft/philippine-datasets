@@ -1,0 +1,46 @@
+billNumber = "HB01101"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01101"
+lastScraped = "2025-09-21T23:39:48.516918"
+title = "HB01101"
+longTitle = "AN ACT RE-NATIONALIZING SAN JOSE DISTRICT HOSPITAL LOCATED IN THE MUNICIPALITY OF SAN JOSE, PROVINCE OF OCCIDENTAL MINDORO, PLACING IT UNDER THE DIRECT CONTROL, MANAGEMENT, AND SUPERVISION OF THE DEPARTMENT OF HEALTH, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2025-07-02"
+status = "Pending with the Committee on HEALTH since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01101.pdf"
+fileSize = 330227
+author = "TARRIELA, LEODY \"ODIE\" F."
+[[authorsDetail]]
+name = "TARRIELA, LEODY \"ODIE\" F."
+nameCode = "Tarriela"
+date = "2025-07-02"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 1102
+congress = 103
+bill_no = "HB01101"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

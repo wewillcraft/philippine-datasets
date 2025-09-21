@@ -1,0 +1,42 @@
+billNumber = "PS00035"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00035"
+lastScraped = "2025-09-22T00:13:49.477399"
+title = "PS00035"
+longTitle = "Declaration of Financial Crisis"
+scope = "National"
+dateFiled = "2004-08-30"
+status = "Pending with the Committee on WAYS AND MEANS since 2004-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Herminio G."
+[[authorsDetail]]
+name = "Teves, Herminio G."
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2004-09-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 82837
+congress = 13
+bill_no = "PS00035"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2004-09-07"

@@ -1,0 +1,41 @@
+billNumber = "HB06800"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06800"
+lastScraped = "2025-09-22T00:20:58.621198"
+title = "HB06800"
+longTitle = "AN ACT IMPOSING STIFFER PENALTIES FOR CERTAIN INSTANCES OF QUALIFIED THEFT THEREBY AMENDING ARTICLE 310, CHAPTER THREE OF REPUBLIC ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
+scope = "National"
+dateFiled = "1996-04-15"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 113221
+congress = 10
+bill_no = "HB06800"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-04-30"

@@ -1,0 +1,41 @@
+billNumber = "HB10548"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10548"
+lastScraped = "2025-09-22T00:20:59.406159"
+title = "HB10548"
+longTitle = "AN ACT AUTHORIZING THE CONDONATION OF PENALTIES ON DELINQUENT LOANS AND INTEREST WITH THE NATIONAL HOUSING AUTHORITY BY THE BENEFICIARIES IN THE NHA RESETTLEMENT AREAS"
+scope = "National"
+dateFiled = "1998-03-12"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 116968
+congress = 10
+bill_no = "HB10548"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1998-05-25"

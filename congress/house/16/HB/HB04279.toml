@@ -1,0 +1,54 @@
+billNumber = "HB04279"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04279"
+lastScraped = "2025-09-21T23:56:22.267260"
+title = "HB04279"
+longTitle = "AN ACT PROVIDING TAX CREDIT TO PHYSICIANS RENDERING PRO BONO SERVICES TO INDIGENT PATIENTS"
+scope = "National"
+dateFiled = "2014-04-02"
+status = "Pending with the Committee on WAYS AND MEANS since 2014-05-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04279.pdf"
+fileSize = 242043
+author = "Tan, Angelina"
+coAuthors = [ "ABUEG, FREDERICK F.",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2014-04-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABUEG, FREDERICK F."
+nameCode = "Abueg"
+date = "2014-08-05"
+journalNo = "J004"
+sessionNo = "2RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2014-05-06"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 50093
+congress = 16
+bill_no = "HB04279"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-06"

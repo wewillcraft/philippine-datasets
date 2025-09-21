@@ -1,0 +1,71 @@
+billNumber = "HR00003"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00003"
+lastScraped = "2025-09-22T00:47:02.523342"
+title = "HR00003"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ALLEGED REPORTS THAT A NUMBER OF DRUGS HAVE BEEN IDENTIFIED TO HAVE HARMFUL EFFECTS AND SHOULD THEREFOR BE BANNED AND TO RECOMMEND SUCH REMEDIAL MEASURES AS MAY BE NECESSARY TO PREVENT THE IMPORTATION,SAL E OR DISTRIBUTION OF SUCH DRUGS IN THE COUNTRY"
+scope = "National"
+dateFiled = "1987-07-23"
+status = "Pending with the Committee on HEALTH since 1987-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+coAuthors = [ "GONZALEZ, PACITA T.", "DANS, ALVIN G.", "ALFELOR, CIRIACO R.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, PACITA T."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DANS, ALVIN G."
+nameCode = "Dans"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALFELOR, CIRIACO R."
+nameCode = "Alfelor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-07-29"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 169913
+congress = 8
+bill_no = "HR00003"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-07-29"

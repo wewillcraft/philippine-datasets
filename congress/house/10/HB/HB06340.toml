@@ -1,0 +1,54 @@
+billNumber = "HB06340"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06340"
+lastScraped = "2025-09-22T00:20:58.540801"
+title = "HB06340"
+longTitle = "AN ACT AUTHORIZING THE CONCRETING OF THE ROAD COVERING BARANGAYS MANSAYAO, MAGSAYSAY, TAGBUYAWAN AND TAPI-AN, ALL IN THE MUNICIPALITY OF MAINIT, PROVINCE OF SURIGAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "FIGUEROA, CATALINO V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-27"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112761
+congress = 10
+bill_no = "HB06340"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-27"

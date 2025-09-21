@@ -1,0 +1,68 @@
+billNumber = "HB05367"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05367"
+lastScraped = "2025-09-21T23:56:22.524897"
+title = "HB05367"
+longTitle = "AN ACT ESTABLISHING THE FISCAL REGIME AND REVENUE SHARING ARRANGEMENT FOR LARGE-SCALE METALLIC MINING, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2015-01-27"
+status = "Pending with the Committee on WAYS AND MEANS since 2015-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05367.pdf"
+fileSize = 1562209
+author = "QUIMBO, ATTY. MIRO S."
+coAuthors = [ "MATUGAS, FRANCISCO TINIO", "OLIVAREZ, ERIC D.", "PICHAY, PHILIP ARREZA",]
+[[authorsDetail]]
+name = "QUIMBO, ATTY. MIRO S."
+nameCode = "Quimbo"
+date = "2015-01-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MATUGAS, FRANCISCO TINIO"
+nameCode = "Matugas"
+date = "2015-02-24"
+journalNo = "J053"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC D."
+nameCode = "Olivarez"
+date = "2015-08-05"
+journalNo = "J006"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "PICHAY, PHILIP ARREZA"
+nameCode = "Pichay"
+date = "2015-09-21"
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2015-02-03"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 51181
+congress = 16
+bill_no = "HB05367"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-02-03"

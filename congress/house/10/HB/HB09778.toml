@@ -1,0 +1,41 @@
+billNumber = "HB09778"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09778"
+lastScraped = "2025-09-22T00:20:59.243345"
+title = "HB09778"
+longTitle = "AN ACT PROVIDING THAT ANOTHER PRELIMINARY INVESTIGATION AND REVIEW SHALL BE AVAILABLE FROM RESOLUTIONS OF DISMISSAL PROMULGATED BY THE CITY, PROVINCIAL OR STATE PROSECUTORS"
+scope = "National"
+dateFiled = "1997-08-06"
+status = "Pending with the Committee on JUSTICE since 1997-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-08-12"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 116199
+congress = 10
+bill_no = "HB09778"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-08-12"

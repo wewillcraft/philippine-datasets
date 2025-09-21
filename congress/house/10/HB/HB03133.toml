@@ -1,0 +1,46 @@
+billNumber = "HB03133"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03133"
+lastScraped = "2025-09-22T00:20:57.954637"
+title = "HB03133"
+longTitle = "AN ACT ESTABLISHING A COMPREHENSIVE NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PALAPAG, SECOND DISTRICT OF NORTHERN SAMAR, TO BE KNOWN AS THE PALAPAG COMPREHENSIVE NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-01"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109554
+congress = 10
+bill_no = "HB03133"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-09-06"

@@ -1,0 +1,71 @@
+billNumber = "HB02861"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02861"
+lastScraped = "2025-09-22T00:20:57.894952"
+title = "HB02861"
+longTitle = "AN ACT DECLARING THE PROVINCE OF AGUSAN DEL NORTE A SPECIAL TOURISM ZONE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-24"
+status = "Approved by the House on 1997-10-01, transmitted to on 1997-10-02 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109282
+congress = 10
+bill_no = "HB02861"
+report = "01013"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-08-31"
+date_ob = "1997-08-05"
+date_report = "1997-08-04"
+
+[secondReading]
+id = 17967
+congress = 10
+bill_no = "HB02861"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-08-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2580
+congress = 10
+bill_no = "HB02861"
+date_dist = "1997-08-12"
+date_adopt = "1997-10-01"
+no_yeas = 158
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-02"
+date_rec = "1997-10-07"

@@ -1,0 +1,46 @@
+billNumber = "HB06373"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06373"
+lastScraped = "2025-09-22T00:20:58.546149"
+title = "HB06373"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE PANTALAN ELEMENTARY SCHOOL, BARANGAY PANTALAN, MUNICIPALITY OF CARLES, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-02-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-28"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112794
+congress = 10
+bill_no = "HB06373"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-28"

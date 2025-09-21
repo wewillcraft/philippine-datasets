@@ -1,0 +1,42 @@
+billNumber = "HB06701"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06701"
+lastScraped = "2025-09-22T00:46:57.793391"
+title = "HB06701"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED EIGHTEEN HUNDRED EIGHTY-FOUR ESTABLISHING THE GOVERNMENT ARSENAL"
+scope = "National"
+dateFiled = "1988-03-18"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-03-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unico"
+[[authorsDetail]]
+name = "Unico"
+nameCode = "Unico"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-03-22"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 141382
+congress = 8
+bill_no = "HB06701"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-03-22"

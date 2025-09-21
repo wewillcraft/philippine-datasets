@@ -1,0 +1,46 @@
+billNumber = "HB10291"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10291"
+lastScraped = "2025-09-22T00:20:59.353703"
+title = "HB10291"
+longTitle = "AN ACT TO REGULATE REAL ESTATE VALUES AND PRACTICES, CREATING FOR THE PURPOSE THE REAL ESTATE COMMISSION, PRESCRIBING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1997-11-18"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1997-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1997-11-20"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116712
+congress = 10
+bill_no = "HB10291"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1997-11-20"

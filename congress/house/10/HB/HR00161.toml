@@ -1,0 +1,50 @@
+billNumber = "HR00161"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00161"
+lastScraped = "2025-09-22T00:20:59.451987"
+title = "HR00161"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON JUSTICE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, IN THE ALLEGATION THAT PRISON OFFICIALS ARE INVOLVED IN THE ESCAPE OF PRISONERS FOR A FEE"
+scope = "National"
+dateFiled = "1995-09-04"
+status = "Pending with the Committee on JUSTICE since 1995-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-07"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117215
+congress = 10
+bill_no = "HR00161"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Justice on Feb. 12, 1996."
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-07"

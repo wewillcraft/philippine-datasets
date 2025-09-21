@@ -1,0 +1,47 @@
+billNumber = "HB03728"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03728"
+lastScraped = "2025-09-22T00:25:55.254845"
+title = "HB03728"
+longTitle = "AN ACT AMENDING SECTION 5 OF REPUBLIC ACT NUMBERED FOURTEEN HUNDRED SEVENTY-EIGHT, AS AMENDED"
+scope = "National"
+dateFiled = "1992-10-15"
+status = "Pending with the Committee on TOURISM since 1992-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1992-10-20"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE MILITARY AND UNIFORMED PERSONNEL(MUP) PENSION SYSTEM"
+type = "principal"
+referralCode = "J506"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 122347
+congress = 9
+bill_no = "HB03728"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1992-10-20"

@@ -1,0 +1,42 @@
+billNumber = "HB00006"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00006"
+lastScraped = "2025-09-22T00:46:56.533073"
+title = "HB00006"
+longTitle = "AN ACT PROHIBITING THE HOLDING OF LAVISH AND EXPENSIVE RECEPTIONS, PARTIES AND OTHER SOCIAL GATHERINGS OR FUNCTIONS"
+scope = "National"
+dateFiled = "1987-07-23"
+status = "Pending with the Committee on SOCIAL SERVICES since 1987-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1987-07-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 134704
+congress = 8
+bill_no = "HB00006"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1987-07-28"

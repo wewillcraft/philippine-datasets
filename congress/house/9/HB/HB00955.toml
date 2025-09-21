@@ -1,0 +1,50 @@
+billNumber = "HB00955"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00955"
+lastScraped = "2025-09-22T00:25:54.766315"
+title = "HB00955"
+longTitle = "AN ACT IMPOSING THE DEATH PENALTY FOR THE VIOLATION OF CERTAIN PROVISIONS OF REPUBLIC ACT NUMBERED THREE THOUSAND AND NINETEEN, AS AMENDED, OTHERWISE KNOWN AS THE ANTI-GRAFT AND CORRUPT PRACTICES ACT"
+scope = "National"
+dateFiled = "1992-08-13"
+status = "Pending with the Committee on JUSTICE since 1992-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+coAuthors = [ "GOLEZ, ROILO",]
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 119574
+congress = 9
+bill_no = "HB00955"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-20"

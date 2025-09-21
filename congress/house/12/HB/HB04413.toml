@@ -1,0 +1,64 @@
+billNumber = "HB04413"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04413"
+lastScraped = "2025-09-22T00:13:00.592835"
+title = "HB04413"
+longTitle = "AN ACT UPGRADING THE SALARY GRADE OF NURSES AMENDING FOR THE PURPOSE THE COMPENSATION AND POSITION CLASSIFICATION ACT OF 1989 AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2002-02-18"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DEL MAR, RAUL V.", "ECHIVERRI, ENRICO R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J070"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J083"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-02-26"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 87573
+congress = 12
+bill_no = "HB04413"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-02-26"

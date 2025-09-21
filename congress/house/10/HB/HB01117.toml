@@ -1,0 +1,49 @@
+billNumber = "HB01117"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01117"
+lastScraped = "2025-09-22T00:20:57.565924"
+title = "HB01117"
+longTitle = "AN ACT FURTHER AMENDING THE PROVISIONS OF PRESIDENTIAL DECREE NO. 442 ON ILLEGAL RECRUITMENT AND PROVIDING FOR THE FILING OF ILLEGAL RECRUITMENT CASES IN THE PLACE OF RESIDENCE OR WORK OF THE COMPLAINANT VICTIM"
+scope = "National"
+dateFiled = "1995-07-20"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107538
+congress = 10
+bill_no = "HB01117"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1995-07-31"

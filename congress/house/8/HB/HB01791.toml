@@ -1,0 +1,42 @@
+billNumber = "HB01791"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01791"
+lastScraped = "2025-09-22T00:46:56.875403"
+title = "HB01791"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY EMAN, MUNICIPALITY OF BANSALAN, PROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1987-09-22"
+status = "Pending with the Committee on HEALTH since 1987-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 136482
+congress = 8
+bill_no = "HB01791"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-24"

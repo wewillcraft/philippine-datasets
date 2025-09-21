@@ -1,0 +1,42 @@
+billNumber = "HB11218"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11218"
+lastScraped = "2025-09-22T00:46:58.539972"
+title = "HB11218"
+longTitle = "AN ACT REGULATING 'JUETENG' AND OTHER FORMS OF LOTTERY, AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1988-05-26"
+status = "Pending with the Committee on GAMES AND AMUSEMENTS since 1988-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "primary"
+referralCode = "514"
+dateRead = "1988-05-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 145887
+congress = 8
+bill_no = "HB11218"
+referral = "514"
+ref_name = "GAMES AND AMUSEMENTS"
+sub_name = ""
+date_read = "1988-05-31"

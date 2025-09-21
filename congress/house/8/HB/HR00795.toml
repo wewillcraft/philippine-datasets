@@ -1,0 +1,50 @@
+billNumber = "HR00795"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00795"
+lastScraped = "2025-09-22T00:47:02.683209"
+title = "HR00795"
+longTitle = "RESOLUTION CREATING A SPECIAL COMMITTEE IN THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION, INTO THE CAUSES OF THE PROLIFERATION OF SQUATTERS ON GOVERNMENT LOTS"
+scope = "National"
+dateFiled = "1988-07-27"
+status = "Pending with the Committee on RULES since 1988-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-08-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170676
+congress = 8
+bill_no = "HR00795"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-08-02"

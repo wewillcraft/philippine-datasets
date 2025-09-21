@@ -1,0 +1,47 @@
+billNumber = "HB03945"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03945"
+lastScraped = "2025-09-22T00:13:00.509405"
+title = "HB03945"
+longTitle = "AN ACT AUTHORIZING THE CREATION OF TWO (2) ADDITIONAL BRANCHES (BRANCH 3 & 4) OF THE MUNICIPAL TRIAL COURT IN THE CITY (MTCC) IN DIPOLOG CITY, PROVINCE OF ZAMBOANGA DEL NORTE"
+scope = "Local"
+dateFiled = "2001-11-22"
+status = "Pending with the Committee on JUSTICE since 2001-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barinaga, Roseller L."
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-11-28"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87105
+congress = 12
+bill_no = "HB03945"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-11-28"

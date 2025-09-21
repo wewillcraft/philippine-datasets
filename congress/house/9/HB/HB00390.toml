@@ -1,0 +1,47 @@
+billNumber = "HB00390"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00390"
+lastScraped = "2025-09-22T00:25:54.665327"
+title = "HB00390"
+longTitle = "AN ACT TO ESTABLISH A FOREST PARK IN THE FORESTS BOUNDED BY THE TOWNS OF BILAR, DIMIAO, CARMEN, SIERRA-BULLONES AND VALENCIA, BOHOL PROVINCE, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-07-29"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-08-04"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119009
+congress = 9
+bill_no = "HB00390"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-08-04"

@@ -1,0 +1,47 @@
+billNumber = "HB01083"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01083"
+lastScraped = "2025-09-22T00:25:54.789908"
+title = "HB01083"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL TRIAL COURT IN THE NEW MUNICIPALITY OF SENATOR NINOY AQUINO, PROVINCE OF SULTAN KUDARAT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-17"
+status = "Pending with the Committee on JUSTICE since 1992-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-24"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119702
+congress = 9
+bill_no = "HB01083"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-24"

@@ -1,0 +1,50 @@
+billNumber = "HR00415"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00415"
+lastScraped = "2025-09-22T00:25:57.441632"
+title = "HR00415"
+longTitle = "RESOLUTION DIRECTING THE CHAIRMAN OF THE COMMITTEE ON GOOD GOVERNMENT TO INVESTIGATE, IN AID OF LEGISLATION, ALLEGED IRREGULARITIES AND ILLEGAL ACTIVITIES IN THE CAVITE EXPORT PROCESSING ZONE"
+scope = "Local"
+dateFiled = "1992-12-17"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1993-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+coAuthors = [ "NAZARENO, DOMINADOR JR. G.",]
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NAZARENO, DOMINADOR JR. G."
+nameCode = "Nazareno"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 133727
+congress = 9
+bill_no = "HR00415"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1993-01-19"

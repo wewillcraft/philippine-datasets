@@ -1,0 +1,47 @@
+billNumber = "HB00273"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00273"
+lastScraped = "2025-09-22T00:12:59.853849"
+title = "HB00273"
+longTitle = "AN ACT DECLARING THE MEGA DIKE PROJECT IN THE PROVINCE OF PAMPANGA AS A NATIONAL TOURIST SPOT, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on TOURISM since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83433
+congress = 12
+bill_no = "HB00273"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-07-24"

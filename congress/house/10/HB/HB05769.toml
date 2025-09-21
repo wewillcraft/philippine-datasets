@@ -1,0 +1,46 @@
+billNumber = "HB05769"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05769"
+lastScraped = "2025-09-22T00:20:58.437229"
+title = "HB05769"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A  HOME ECONOMICS BUILDING FOR THE KALIGAYAHAN ELEMENTARY SCHOOL, BARANGAY KALIGAYAHAN, SECOND DISTRICT, QUEZON CITY"
+scope = "Local"
+dateFiled = "1996-01-19"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-24"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112190
+congress = 10
+bill_no = "HB05769"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-24"

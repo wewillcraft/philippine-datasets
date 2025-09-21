@@ -1,0 +1,109 @@
+billNumber = "HB00975"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00975"
+lastScraped = "2025-09-22T00:20:57.539530"
+title = "HB00975"
+longTitle = "AN ACT PROHIBITING THE EXACTION OF FEES AND UNNECESSARY SERVICES FROM JOB APPLICANTS"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "DRAGON, RENATO P.", "VELOSO, ALBERTO S.", "GULLAS, EDUARDO R.", "DEJON, TEMISTOCLES SR. S.", "JABAR, RAMON J.", "DEL PRADO, GREGORIO C.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VELOSO, ALBERTO S."
+nameCode = "Veloso"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JABAR, RAMON J."
+nameCode = "Jabar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL PRADO, GREGORIO C."
+nameCode = "Del Prado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 107396
+congress = 10
+bill_no = "HB00975"
+report = "00455"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+recomm = "approval with amendments"
+date_read = "1995-07-27"
+date_ob = "1996-05-29"
+date_report = "1996-05-28"
+
+[secondReading]
+id = 17716
+congress = 10
+bill_no = "HB00975"
+date_calendared = "1996-05-30"
+date_approved = "1996-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2338
+congress = 10
+bill_no = "HB00975"
+date_dist = "1996-06-03"
+date_adopt = "1996-06-06"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-14"

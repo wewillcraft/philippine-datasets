@@ -1,0 +1,46 @@
+billNumber = "HR00823"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00823"
+lastScraped = "2025-09-22T00:20:59.580285"
+title = "HR00823"
+longTitle = "RESOLUTION URGING THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION (POEA) TO ISSUE THE OVERSEAS EMPLOYMENT CERTIFICATE (OEC) TO PHILIPPINE EMBASSIES/CONSU LATES WITH VAST CONCENTRATION OF OVERSEAS FILIPINO WORKERS"
+scope = "National"
+dateFiled = "1996-08-29"
+status = "Pending with the Committee on OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.) since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B515"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "WEST PHILIPPINE SEA"
+type = "principal"
+referralCode = "I503"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 117877
+congress = 10
+bill_no = "HR00823"
+referral = "B515"
+ref_name = "OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.)"
+date_read = "1996-09-02"

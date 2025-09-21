@@ -1,0 +1,42 @@
+billNumber = "HB13959"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13959"
+lastScraped = "2025-09-22T00:25:57.179917"
+title = "HB13959"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE JOSE B. LINGAD MEMORIAL GENERAL HOSPITAL IN THE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF PAMPANGA, FROM TWO HUNDRED EIGHTY TO THREE HUNDRED TWENTY-FIVE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-10-17"
+status = "Pending with the Committee on HEALTH since 1994-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lingad"
+[[authorsDetail]]
+name = "Lingad"
+nameCode = "Lingad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-10-20"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132568
+congress = 9
+bill_no = "HB13959"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-10-20"

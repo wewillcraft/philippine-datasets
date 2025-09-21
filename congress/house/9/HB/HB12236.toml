@@ -1,0 +1,42 @@
+billNumber = "HB12236"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12236"
+lastScraped = "2025-09-22T00:25:56.855569"
+title = "HB12236"
+longTitle = "AN ACT ESTABLISHING A FIFTY (50) BED CAPACITY DISTRICT HOSPITAL IN THE MUNICIPALITY OF TANAY, PROVINCE OF RIZAL, TO BE KNOWN AS THE TANAY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-03-07"
+status = "Pending with the Committee on HEALTH since 1994-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanjuatco"
+[[authorsDetail]]
+name = "Tanjuatco"
+nameCode = "Tanjuatco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-03-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130851
+congress = 9
+bill_no = "HB12236"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-03-10"

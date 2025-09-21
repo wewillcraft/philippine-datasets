@@ -1,0 +1,41 @@
+billNumber = "HR01325"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01325"
+lastScraped = "2025-09-22T00:23:18.193345"
+title = "HR01325"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO INQUIRE INTO, IN AID OF LEGISLATION, ON THE PROPOSAL OF THE ARMED FORCES OF THE PHILIPPINES TO ESTABLISH A NAVAL BASE AT ULOGAN BAY IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN"
+scope = "Local"
+dateFiled = "2000-01-12"
+status = "Pending with the Committee on NATIONAL DEFENSE since 2000-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "2000-01-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 105781
+congress = 11
+bill_no = "HR01325"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "2000-01-18"

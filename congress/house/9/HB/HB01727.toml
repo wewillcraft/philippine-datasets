@@ -1,0 +1,47 @@
+billNumber = "HB01727"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01727"
+lastScraped = "2025-09-22T00:25:54.905140"
+title = "HB01727"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN EIGHT-ROOM TWO-STOREY SCHOOLBUILDING IN THE MUNICIPALITY OF LAMUT, PROVINCE OF IFUGAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-01"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120346
+congress = 9
+bill_no = "HB01727"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-01"

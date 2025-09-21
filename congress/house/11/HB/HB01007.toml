@@ -1,0 +1,46 @@
+billNumber = "HB01007"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01007"
+lastScraped = "2025-09-22T00:23:15.686916"
+title = "HB01007"
+longTitle = "AN ACT AMENDING SECTION 1 OF REPUBLIC ACT 8536, OTHERWISE KNOWN AS 'AN ACT ESTABLISHING THE FAR NORTH LUZON GENERAL HOSPITAL AT QUIRINO, MUNICIPALITY OF LUNA, PROVINCE OF APAYAO, AND APPROPRIATING FUNDS THEREFOR'"
+scope = "Local"
+dateFiled = "1998-07-15"
+status = "Pending with the Committee on HEALTH since 1998-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92448
+congress = 11
+bill_no = "HB01007"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1998-07-30"

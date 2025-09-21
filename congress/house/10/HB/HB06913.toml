@@ -1,0 +1,46 @@
+billNumber = "HB06913"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06913"
+lastScraped = "2025-09-22T00:20:58.642038"
+title = "HB06913"
+longTitle = "AN ACT APPROPRIATING THE SUM OF TEN MILLION PESOS (P10,000,000.00 ) AS FINANCIAL ASSISTANCE TO THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES AND THE PASIG RIVER REHABILITATION PROGRAM FOR THE RESTORATION OF MARINE LIFE IN THE TWENTY-FIVE (25)KILOMETER PASIG WATERWAY"
+scope = "Local"
+dateFiled = "1996-05-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-05-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113334
+congress = 10
+bill_no = "HB06913"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-05-09"

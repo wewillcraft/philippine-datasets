@@ -1,0 +1,47 @@
+billNumber = "HB00315"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00315"
+lastScraped = "2025-09-22T00:25:54.651173"
+title = "HB00315"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN ELEMENTARY SCHOOL IN MARICABAN DISTRICT, PASAY CITY, METRO MANILA, TO BE KNOWN AS THE MARICABAN DISTRICT ELEMENTARY SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118934
+congress = 9
+bill_no = "HB00315"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-08-03"

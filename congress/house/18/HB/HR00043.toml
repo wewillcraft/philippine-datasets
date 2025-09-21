@@ -1,0 +1,59 @@
+billNumber = "HR00043"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00043"
+lastScraped = "2025-09-22T00:01:47.345620"
+title = "HR00043"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON TRANSPORTATION TO PROBE INTO THE REPORTED IRREGULARITIES IN PROCEDURES OF APPLICATION AND REGISTRATION OF TRANSPORT NETWORK VEHICLE SERVICES (TNVS), AND EXPRESS THE SENSE OF THE HOUSE OF REPRESENTATIVES IN ADDRESSING ALL OTHER CONCERNS AND DEMANDS OF THE TNVS COMMUNITY"
+scope = "National"
+dateFiled = "2019-07-09"
+status = "Pending with the Committee on TRANSPORTATION since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00043.pdf"
+fileSize = 691601
+author = "ELAGO, SARAH JANE I."
+[[authorsDetail]]
+name = "ELAGO, SARAH JANE I."
+nameCode = "Elago"
+date = "2019-07-09"
+sequence = 1
+
+[[authorsDetail]]
+name = "Castro, France L."
+nameCode = "Castro (F.L.)"
+date = "2019-07-09"
+sequence = 2
+
+[[authorsDetail]]
+name = "Brosas, Arlene D."
+nameCode = "Brosas"
+date = "2019-07-09"
+sequence = 3
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 30372
+congress = 18
+bill_no = "HR00043"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-24"

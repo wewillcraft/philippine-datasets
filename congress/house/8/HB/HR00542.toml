@@ -1,0 +1,50 @@
+billNumber = "HR00542"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00542"
+lastScraped = "2025-09-22T00:47:02.631053"
+title = "HR00542"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THECIRCUMSTANCE S THAT REQUIRE THE USE OF IMPORTED COAL IN THE BATANGAS COAL-FIRED THERMAL POWER PLANT (BCFTPP) CALACA I"
+scope = "Local"
+dateFiled = "1987-12-17"
+status = "Pending with the Committee on ENERGY since 1987-12-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "ESTRELLA, ERNESTO T.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESTRELLA, ERNESTO T."
+nameCode = "Estrella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-12-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170430
+congress = 8
+bill_no = "HR00542"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-12-28"

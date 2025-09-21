@@ -1,0 +1,41 @@
+billNumber = "HR00853"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00853"
+lastScraped = "2025-09-22T00:20:59.585991"
+title = "HR00853"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO MAKE THE LENGTH OF TIME THAT PUBLIC WORKS CAN BE MAINTAINED BY PRIVATE FIRMS AS A PRIMARY BASIS IN AWARDING PROJECTS"
+scope = "National"
+dateFiled = "1996-09-13"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 117907
+congress = 10
+bill_no = "HR00853"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-09-23"

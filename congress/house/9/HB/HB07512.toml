@@ -1,0 +1,47 @@
+billNumber = "HB07512"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07512"
+lastScraped = "2025-09-22T00:25:55.966757"
+title = "HB07512"
+longTitle = "AN ACT ESTABLISHING A DAY CARE CENTER IN BARANGAY SAN MIGUEL IN THE MUNICIPALITY OF PILA, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-02-16"
+status = "Pending with the Committee on SOCIAL SERVICES since 1993-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1993-02-22"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126131
+congress = 9
+bill_no = "HB07512"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1993-02-22"

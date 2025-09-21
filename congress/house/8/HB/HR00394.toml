@@ -1,0 +1,42 @@
+billNumber = "HR00394"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00394"
+lastScraped = "2025-09-22T00:47:02.601748"
+title = "HR00394"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENVIRONMENT AND NATURAL RESOURCES TO UNDERTAKE, IN AID OF LEGISLATION, AN INQUIRY INTO STEPS FOR THE PROTECTION AND CONSERVATION OF THE RARE PHILIPPINE EAGL"
+scope = "National"
+dateFiled = "1987-10-01"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dureza"
+[[authorsDetail]]
+name = "Dureza"
+nameCode = "Dureza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170287
+congress = 8
+bill_no = "HR00394"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-10-05"

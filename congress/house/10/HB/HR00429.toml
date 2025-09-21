@@ -1,0 +1,42 @@
+billNumber = "HR00429"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00429"
+lastScraped = "2025-09-22T00:20:59.501753"
+title = "HR00429"
+longTitle = "RESOLUTION REQUESTING THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO MAKE AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED NINETY (90) MINUTE FIREFIGHT INVOLVING A RP-NAVY SHIP AND TWO (2) UNIDENTIFIED VESSELS OFF CAPONES ISLAND IN ZAMBALES LAST JANUARY 22, 1996"
+scope = "Local"
+dateFiled = "1996-01-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117483
+congress = 10
+bill_no = "HR00429"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. National Defense on Feb. 5, 1996."
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1996-01-30"

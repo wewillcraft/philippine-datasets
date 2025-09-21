@@ -1,0 +1,68 @@
+billNumber = "HB03379"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03379"
+lastScraped = "2025-09-21T23:39:48.943465"
+title = "HB03379"
+longTitle = "AN ACT INSTITUTING A COMPREHENSIVE NATIONAL AUTISM SPECTRUM DISORDER (ASD) PROGRAM\r\n"
+scope = "National"
+dateFiled = "2025-08-07"
+status = "Pending with the Committee on HEALTH since 2025-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB03379.pdf"
+fileSize = 366652
+author = "BENITEZ, ALFREDO \"ALBEE\" B."
+coAuthors = [ "ALVAREZ, MERCEDES K.", "BENITEZ, JAVIER MIGUEL LOPEZ", "AQUINO-MAGSAYSAY, MILAGROS",]
+[[authorsDetail]]
+name = "BENITEZ, ALFREDO \"ALBEE\" B."
+nameCode = "Benitez (A.)"
+date = "2025-08-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALVAREZ, MERCEDES K."
+nameCode = "Alvarez (M.)"
+date = "2025-08-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AQUINO-MAGSAYSAY, MILAGROS"
+nameCode = "Aquino-Magsaysay"
+date = "2025-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-12"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 3380
+congress = 103
+bill_no = "HB03379"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-12"

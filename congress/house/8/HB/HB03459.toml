@@ -1,0 +1,42 @@
+billNumber = "HB03459"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03459"
+lastScraped = "2025-09-22T00:46:57.173338"
+title = "HB03459"
+longTitle = "AN ACT ESTABLISHING A FIFTY-BED CAPACITY HOSPITALIN BACOLOD CITY, PROVINCE OF NEGROS OCCIDENTAL, TO BE KNOWN AS THE BACOLOD CITY DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-10"
+status = "Pending with the Committee on HEALTH since 1987-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-11-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 138146
+congress = 8
+bill_no = "HB03459"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-11-12"

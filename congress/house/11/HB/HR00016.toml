@@ -1,0 +1,42 @@
+billNumber = "HR00016"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00016"
+lastScraped = "2025-09-22T00:23:17.953438"
+title = "HR00016"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECOLOGY, HEALTH, AGRARIAN REFORM, AND AGRICULTURE AND FOOD TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPACT OF THE WIDESPREAD CONSTRUCTION AND MAINTENANCE OF GOLF COURSES ON THE ENVIRONMENT, THE HEALTH, WATER AND FOOD SECURITY OF THE FILIPINO PEOPLE, AND TENURIAL SECURITY AND LIVELIHOOD OF FARMERS"
+scope = "National"
+dateFiled = "1998-07-01"
+status = "Pending with the Committee on ECOLOGY since 1998-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 104474
+congress = 11
+bill_no = "HR00016"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1998-07-28"

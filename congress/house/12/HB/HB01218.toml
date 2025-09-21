@@ -1,0 +1,62 @@
+billNumber = "HB01218"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01218"
+lastScraped = "2025-09-22T00:13:00.024443"
+title = "HB01218"
+longTitle = "AN ACT ESTABLISHING A HOSPITAL IN THE MUNICIPALITY OF ISABEL, PROVINCE OF LEYTE, TO BE KNOWN AS THE ISABEL MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on HEALTH since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+coAuthors = [ "NICOLAS, REYLINA \"NENENG\" G.",]
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NICOLAS, REYLINA \"NENENG\" G."
+nameCode = "Nicolas"
+date = ""
+journalNo = "J022"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84378
+congress = 12
+bill_no = "HB01218"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-30"
+
+[secondReading]
+id = 14169
+congress = 12
+bill_no = "HB01218"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,68 @@
+billNumber = "HB02832"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB02832"
+lastScraped = "2025-09-21T23:56:21.989540"
+title = "HB02832"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED 10071, ENTITLED 'THE PROSECUTION SERVICE ACT OF 2010 AND FOR OTHER PURPOSES'"
+scope = "National"
+dateFiled = "2013-09-11"
+status = "Pending with the Committee on JUSTICE since 2013-09-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bello, Silvestre III H."
+coAuthors = [ "BELLO, WALDEN", "CHIPECO, JOAQUIN JR. M.", "TEJADA, JOSE I.",]
+[[authorsDetail]]
+name = "Bello, Silvestre III H."
+nameCode = "Bello (S.)"
+date = "2013-09-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BELLO, WALDEN"
+nameCode = "Bello (W.)"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2014-02-05"
+journalNo = "J045"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TEJADA, JOSE I."
+nameCode = "Tejada"
+date = "2014-03-10"
+journalNo = "J055"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2013-09-17"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 48646
+congress = 16
+bill_no = "HB02832"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-09-17"

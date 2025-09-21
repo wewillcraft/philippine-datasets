@@ -1,0 +1,41 @@
+billNumber = "HB09513"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09513"
+lastScraped = "2025-09-22T00:20:59.179022"
+title = "HB09513"
+longTitle = "AN ACT PROHIBITING ANY RECLAMATION PROJECT IN MANILA BAY AND PROVIDING PENALTIES FOR THE VIOLATION THEREOF"
+scope = "Local"
+dateFiled = "1997-05-30"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 115934
+congress = 10
+bill_no = "HB09513"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-06-04"

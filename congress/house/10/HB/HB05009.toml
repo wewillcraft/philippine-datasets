@@ -1,0 +1,46 @@
+billNumber = "HB05009"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05009"
+lastScraped = "2025-09-22T00:20:58.298372"
+title = "HB05009"
+longTitle = "AN ACT CONVERTING THE RURAL HEALTH UNIT IN THE MUNICIPALITY OF SALLAPADAN, PROVINCE OF ABRA, INTO A TEN-BED HOSPITAL, TO BE KNOWN AS THE SALLAPADAN DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-13"
+status = "Pending with the Committee on HEALTH since 1995-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-11-16"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111430
+congress = 10
+bill_no = "HB05009"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-11-16"

@@ -1,0 +1,59 @@
+billNumber = "HB06101"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06101"
+lastScraped = "2025-09-21T23:55:21.207280"
+title = "HB06101"
+longTitle = "AN ACT GRANTING MENTAL HEALTH WELLNESS LEAVE TO ALL EMPLOYEES"
+scope = "National"
+dateFiled = "2022-11-14"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 2022-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06101.pdf"
+fileSize = 2181997
+author = "Peña, Romulo \"Kid\" Jr."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Peña, Romulo \"Kid\" Jr."
+nameCode = "Peña"
+date = "2022-11-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-05-22"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "2022-11-16"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 11020
+congress = 19
+bill_no = "HB06101"
+report = ""
+comm_act = ""
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-16"

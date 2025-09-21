@@ -1,0 +1,46 @@
+billNumber = "HR01627"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01627"
+lastScraped = "2025-09-22T00:23:18.257661"
+title = "HR01627"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO DIRECT THE COMMITTEES ON BANKS AND FINANCIAL INTERMEDIARIES AND GOOD GOVERNMENT TO INVESTIGATE, IN AID OF LEGISLATION, CERTAIN VIOLATIONS ALLEGEDLY COMMITTED BY THE PROVINCIAL GOVERNMENT OF LANAO DELSUR IN CONNECTION WITH ITS APPLICATION FOR A P275-MILLION LOAN WITH THE LAND BANK OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "2000-07-17"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2000-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2000-07-25"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 106081
+congress = 11
+bill_no = "HR01627"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2000-07-25"

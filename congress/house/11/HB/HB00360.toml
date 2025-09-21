@@ -1,0 +1,66 @@
+billNumber = "HB00360"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB00360"
+lastScraped = "2025-09-22T00:23:15.566203"
+title = "HB00360"
+longTitle = "AN ACT DEFINING AND IMPOSING PENALTIES FOR THE CRIME OF DOMESTIC VIOLENCE"
+scope = "National"
+dateFiled = "1998-07-01"
+status = "Pending with the Committee on JUSTICE since 1998-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "BUNYE, IGNACIO R.", "LOPEZ, EMILY R.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BUNYE, IGNACIO R."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOPEZ, EMILY R."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "secondary"
+referralCode = "0512"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 91801
+congress = 11
+bill_no = "HB00360"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1998-07-28"

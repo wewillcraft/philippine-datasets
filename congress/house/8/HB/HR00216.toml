@@ -1,0 +1,42 @@
+billNumber = "HR00216"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00216"
+lastScraped = "2025-09-22T00:47:02.567140"
+title = "HR00216"
+longTitle = "RESOLUTION TO DIRECT AN INVESTIGATION IN AID OF LEGISLATION INTO THE STATUS, CONDITION, OPERATION AND MANAGEMENT OF ELCO II, COOPERATIVE-OPE RATOR OF THE ELECTRIC COMPANY IN THE MUNICIPALITY OF MABALACAT, PROVINCE OF PAMPANGA, TO DETERMINE ITS CONDITION, THE ADEQUACY OF ITS EQUIPMENT AND FACILITIES,THE EFFICIENCY OF ITS SERVICES AND TO RECOMMEND SUCH REMEDIAL MEASURES TO PROMOTE AND PROTECT THE INTEREST OF RESIDENTS OF MABALACAT"
+scope = "Local"
+dateFiled = "1987-08-25"
+status = "Pending with the Committee on ENERGY since 1987-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin"
+[[authorsDetail]]
+name = "Lazatin"
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-09-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170117
+congress = 8
+bill_no = "HR00216"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-09-02"

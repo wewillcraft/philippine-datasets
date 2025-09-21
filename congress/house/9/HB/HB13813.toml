@@ -1,0 +1,59 @@
+billNumber = "HB13813"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13813"
+lastScraped = "2025-09-22T00:25:57.149662"
+title = "HB13813"
+longTitle = "AN ACT DECLARING APRIL TWENTY-TWO TO TWENTY-EIGHT OF EVERY YEAR AS 'SENIOR CITIZENS' WEEK'"
+scope = "National"
+dateFiled = "1994-09-22"
+status = "Business for the day on 1994-10-26"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-10-19"
+
+[[motherBills]]
+bill_no = "HB13263"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB13263"
+flag = "S"
+
+[firstReading]
+id = 132422
+congress = 9
+bill_no = "HB13813"
+report = "00884"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1994-10-19"
+date_ob = "1994-10-19"
+date_cal = "1994-10-19"
+date_unass = "1994-10-19"
+date_report = "1994-09-22"
+
+[secondReading]
+id = 19929
+congress = 9
+bill_no = "HB13813"
+date_calendared = "1994-10-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

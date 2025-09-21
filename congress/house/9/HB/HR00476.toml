@@ -1,0 +1,42 @@
+billNumber = "HR00476"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00476"
+lastScraped = "2025-09-22T00:25:57.452555"
+title = "HR00476"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO STUDY IN AID OF LEGISLATION, TO ALLOW ALL PROVINCIAL BUSES FROM THE SOUTH TO REACH LAWTON IN MANILA"
+scope = "Local"
+dateFiled = "1993-02-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-02-10"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 133788
+congress = 9
+bill_no = "HR00476"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-02-10"

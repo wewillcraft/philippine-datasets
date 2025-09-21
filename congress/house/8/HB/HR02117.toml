@@ -1,0 +1,42 @@
+billNumber = "HR02117"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02117"
+lastScraped = "2025-09-22T00:47:02.964957"
+title = "HR02117"
+longTitle = "RESOLUTION AMENDING HOUSE RULES FOR SESSIONS TO START AT 9:00 (INSTEAD OF 4:00 p.m.) A.M. UNTIL 1:00IN THE AFTERNOON"
+scope = "Local"
+dateFiled = "1991-01-22"
+status = "Pending with the Committee on RULES since 1991-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1991-01-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171952
+congress = 8
+bill_no = "HR02117"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1991-01-28"

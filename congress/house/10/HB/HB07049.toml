@@ -1,0 +1,54 @@
+billNumber = "HB07049"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07049"
+lastScraped = "2025-09-22T00:20:58.665881"
+title = "HB07049"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7875, OTHERWISE KNOWN AS 'AN ACT INSTITUTING A NATIONAL HEALTH INSURANCE PROGRAM FOR ALL FILIPINOS AND ESTABLISHING THE PHILIPPINE HEALTH INSURANCE CORPORATION FOR THE PURPOSE'"
+scope = "National"
+dateFiled = "1996-05-21"
+status = "Pending with the Committee on HEALTH since 1996-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-05-23"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113470
+congress = 10
+bill_no = "HB07049"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-05-23"

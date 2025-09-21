@@ -1,0 +1,42 @@
+billNumber = "HB08579"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08579"
+lastScraped = "2025-09-22T00:46:58.116931"
+title = "HB08579"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BALIMBING, TAWI-TAWI, BARANGAY BELATAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on HEALTH since 1988-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-05"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 143256
+congress = 8
+bill_no = "HB08579"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-05"

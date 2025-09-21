@@ -1,0 +1,42 @@
+billNumber = "HR01564"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01564"
+lastScraped = "2025-09-22T00:47:02.838575"
+title = "HR01564"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TAXATION TO REVIEW, IN AID OF LEGISLATION, THE PRESENT RATES OF ESTATE TAXES WITH THE END IN VIEW OF REDUCING ESTATE TAXES, EXTENDING THE PERIODS FOR THE FILING FOF ESTATE TAX RETURNS AND THE PAYMENT OF ESTATE TAXES, AND REDUCING THE PENALTIES FOR THEIR VIOLATION"
+scope = "National"
+dateFiled = "1989-11-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Starke"
+[[authorsDetail]]
+name = "Starke"
+nameCode = "Starke"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-11-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171424
+congress = 8
+bill_no = "HR01564"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-11-28"

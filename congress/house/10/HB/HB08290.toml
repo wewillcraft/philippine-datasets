@@ -1,0 +1,41 @@
+billNumber = "HB08290"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08290"
+lastScraped = "2025-09-22T00:20:58.937404"
+title = "HB08290"
+longTitle = "AN ACT OFFICIALLY ACKNOWLEDGING THE HEROISM OF BISHOP GREGORIO AGLIPAY"
+scope = "Local"
+dateFiled = "1996-10-23"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-11-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 114711
+congress = 10
+bill_no = "HB08290"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-11-05"

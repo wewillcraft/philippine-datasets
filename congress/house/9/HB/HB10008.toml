@@ -1,0 +1,47 @@
+billNumber = "HB10008"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10008"
+lastScraped = "2025-09-22T00:25:56.404256"
+title = "HB10008"
+longTitle = "AN ACT APPROPRIATING P 3.OM (THREE MILLION PESOS) FOR THE DRAINAGE IMPROVEMENT AND CONCRETING OF ANTIPOLO ST. FROM LEONOR RIVERA ST, UP TO THE DIMASALANG BRIDGE IN STA. CRUZ, MANILA"
+scope = "Local"
+dateFiled = "1993-07-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-08-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128626
+congress = 9
+bill_no = "HB10008"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-08-02"

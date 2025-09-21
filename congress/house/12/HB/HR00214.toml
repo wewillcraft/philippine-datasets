@@ -1,0 +1,50 @@
+billNumber = "HR00214"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00214"
+lastScraped = "2025-09-22T00:13:01.184886"
+title = "HR00214"
+longTitle = "RESOLUTION FOR THE COMMITTEE ON HEALTH TO DIRECT DEPARTMENT OF HEALTH TO SEEK WAYS AND MEANS TO INSTITUTE IMMEDIATE MEASURES TO COMPLY WITH THE REQUIREMENTS OF THE BUREAU OF FIRE PROTECTION RATHER THAN RISK CLOSURE OF ITS STATE-RUN HOSPITALS"
+scope = "National"
+dateFiled = "2001-09-25"
+status = "Pending with the Committee on HEALTH since 2001-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pichay, Prospero Jr. A."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = "Pichay"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J053"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90153
+congress = 12
+bill_no = "HR00214"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-28"

@@ -1,0 +1,50 @@
+billNumber = "HR00038"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00038"
+lastScraped = "2025-09-22T00:13:01.148389"
+title = "HR00038"
+longTitle = "RESOLUTION URGING THE FULL COMPUTERIZATION OF FUTURE ELECTIONS"
+scope = "National"
+dateFiled = "2001-07-16"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "JARAULA, CONSTANTINO G.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 89977
+congress = 12
+bill_no = "HR00038"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "2001-07-25"

@@ -1,0 +1,43 @@
+billNumber = "HR00062"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00062"
+lastScraped = "2025-09-22T00:47:02.536295"
+title = "HR00062"
+longTitle = "RESOLUTION CALLING FOR THE ORGANIZATION OF THE NATIONAL POLICE FORCE"
+scope = "National"
+dateFiled = "1987-08-04"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1987-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "528"
+dateRead = "1987-08-05"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 169972
+congress = 8
+bill_no = "HR00062"
+comm_act = "SUBSTITUTE D BY HB 23614"
+referral = "528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+date_read = "1987-08-05"

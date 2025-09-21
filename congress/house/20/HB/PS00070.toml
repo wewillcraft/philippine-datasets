@@ -1,0 +1,44 @@
+billNumber = "PS00070"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00070"
+lastScraped = "2025-09-21T23:39:49.253124"
+title = "PS00070"
+longTitle = "CLIMATE ACCOUNTABILITY"
+dateFiled = "2025-09-03"
+status = "Pending with the Committee on CLIMATE CHANGE since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "BENITEZ, JAVIER MIGUEL LOPEZ"
+[[authorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-09-03"
+sequence = 1
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "primary"
+referralCode = "H503"
+dateRead = "2025-09-03"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 4905
+congress = 103
+bill_no = "PS00070"
+report = ""
+comm_act = ""
+referral = "H503"
+ref_name = "CLIMATE CHANGE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-03"

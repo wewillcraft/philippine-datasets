@@ -1,0 +1,51 @@
+billNumber = "HB02208"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02208"
+lastScraped = "2025-09-21T23:39:48.740231"
+title = "HB02208"
+longTitle = "AN ACT EXPANDING THE PURPOSES AND APPLICATION OF THE SPECIAL EDUCATION\r\nFUND, AMENDING FOR THE PURPOSE SECTION 272 OF REPUBLIC ACT NO. 7160,\r\nOTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-23"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02208.pdf"
+fileSize = 168831
+author = "RECTO, RYAN S."
+[[authorsDetail]]
+name = "RECTO, RYAN S."
+nameCode = "Santos (R. S.)"
+date = "2025-07-23"
+sequence = 1
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 2209
+congress = 103
+bill_no = "HB02208"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

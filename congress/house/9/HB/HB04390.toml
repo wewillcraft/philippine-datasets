@@ -1,0 +1,47 @@
+billNumber = "HB04390"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04390"
+lastScraped = "2025-09-22T00:25:55.421433"
+title = "HB04390"
+longTitle = "AN ACT REQUIRING GOVERNMENT AND PRIVATE EMPLOYERS TO CONDUCT REGULAR SEMINARS FOR WOMEN EMPLOYEES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-10-28"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123009
+congress = 9
+bill_no = "HB04390"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1992-11-09"

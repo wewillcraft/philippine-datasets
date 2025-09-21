@@ -1,0 +1,47 @@
+billNumber = "HB10021"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10021"
+lastScraped = "2025-09-22T00:25:56.406556"
+title = "HB10021"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY NONOC, MUNICIPALITY OF CLAVERIA, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-07-29"
+status = "Pending with the Committee on HEALTH since 1993-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa"
+[[authorsDetail]]
+name = "Espinosa"
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-03"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128639
+congress = 9
+bill_no = "HB10021"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-03"

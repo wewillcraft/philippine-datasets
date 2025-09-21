@@ -1,0 +1,42 @@
+billNumber = "HR02172"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02172"
+lastScraped = "2025-09-22T00:47:02.976498"
+title = "HR02172"
+longTitle = "RESOLUTION URGING PRESIDENT CORAZON C. AQUINO TO EXTEND THE RE-REGISTRATION OF FIREARMS TO ANOTHER SIX (6) MONTHS EFFECTIVE UPON APPROVAL BY HER EXCELLENCY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1991-02-26"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1991-03-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1991-03-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172007
+congress = 8
+bill_no = "HR02172"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1991-03-04"

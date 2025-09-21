@@ -1,0 +1,62 @@
+billNumber = "HB00438"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00438"
+lastScraped = "2025-09-22T00:12:59.885489"
+title = "HB00438"
+longTitle = "AN ACT TO PROVIDE MAXIMUM EMPLOYMENT IN PUBLIC ECONOMIC DEVELOPMENT PROJECTS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+coAuthors = [ "ESPINA, GERARDO S.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83598
+congress = 12
+bill_no = "HB00438"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-07-24"

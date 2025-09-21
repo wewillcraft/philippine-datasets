@@ -1,0 +1,41 @@
+billNumber = "HB05235"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05235"
+lastScraped = "2025-09-22T00:20:58.336470"
+title = "HB05235"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NUMBERED EIGHTY-FIFTY, OTHERWISE KNOWN AS 'THE REVISED OPTOMETRY LAW OF 1995'"
+scope = "National"
+dateFiled = "1995-11-22"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 111656
+congress = 10
+bill_no = "HB05235"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1995-11-27"

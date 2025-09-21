@@ -1,0 +1,75 @@
+billNumber = "HR00654"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00654"
+lastScraped = "2025-09-22T00:25:57.485654"
+title = "HR00654"
+longTitle = "AN ACT EXPRESSING THE HIGHEST REGARD AND PRIDE OF THE HOUSE OF REPRESENTATIVES FOR ITS SPEAKER, THE HONORABLE JOSE DE VENECIA JR., FOR SUCCESSFULLY STEERING THE LEGISLATIVE AGENDA OF THE HOUSE INTO REALITY DURING THE FIRST REGULAR SESSION"
+scope = "Local"
+dateFiled = "1993-06-03"
+status = "Adopted as Resolution No. HR00040 on 1993-06-10"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "SANCHEZ, MANUEL R.", "LAGMAN, EDCEL C.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SANCHEZ, MANUEL R."
+nameCode = "Sanchez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAGMAN, EDCEL C."
+nameCode = "Lagman"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-06-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133966
+congress = 9
+bill_no = "HR00654"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-06-10"
+
+[secondReading]
+id = 20132
+congress = 9
+bill_no = "HR00654"
+adopted_resolution = "HR00040"
+date_approved = "1993-06-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00654.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00654.pdf"

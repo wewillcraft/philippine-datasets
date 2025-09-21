@@ -1,0 +1,55 @@
+billNumber = "HR00210"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00210"
+lastScraped = "2025-09-21T23:56:22.835499"
+title = "HR00210"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY AND THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE DIRE CONDITION OF THREE WATERSHEDS IN MINDANAO THAT NEED REHABILITATION"
+scope = "National"
+dateFiled = "2013-08-15"
+status = "Pending with the Committee on ECOLOGY since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00210.pdf"
+fileSize = 187070
+author = "RODRIGUEZ, MAXIMO B., JR."
+coAuthors = [ "RODRIGUEZ, RUFUS B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M.)"
+date = "2013-08-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2013-08-15"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2013-08-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52609
+congress = 16
+bill_no = "HR00210"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-08-28"

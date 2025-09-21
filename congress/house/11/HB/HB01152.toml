@@ -1,0 +1,46 @@
+billNumber = "HB01152"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01152"
+lastScraped = "2025-09-22T00:23:15.711517"
+title = "HB01152"
+longTitle = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE (1) DENTIST IN EVERY MUNICIPALITY OF EVERY PROVINCE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1998-07-17"
+status = "Pending with the Committee on HEALTH since 1998-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92593
+congress = 11
+bill_no = "HB01152"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1998-07-30"

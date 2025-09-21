@@ -1,0 +1,49 @@
+billNumber = "HB10009"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10009"
+lastScraped = "2025-09-22T00:20:59.288110"
+title = "HB10009"
+longTitle = "AN ACT INCREASING THE PENALTY FOR THE CRIME OF GRAVE COERCIONS AMENDING FOR THE PURPOSE ARTICLE 286 OF ACT NO. 3815, AS AMENDED, OTHERWISE KNOWN AS THE REVISED PENAL CODE"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on JUSTICE since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 116430
+congress = 10
+bill_no = "HB10009"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-10-02"

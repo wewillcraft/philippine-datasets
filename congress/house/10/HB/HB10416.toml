@@ -1,0 +1,72 @@
+billNumber = "HB10416"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10416"
+lastScraped = "2025-09-22T00:20:59.378980"
+title = "HB10416"
+longTitle = "AN ACT CONVERTING THE ZAMBOANGA CITY OF POLYTECHNIC COLLEGE INTO A STATE COLLEGE TO BE KNOWN AS THE MINDANAO STATE POLYTECHNIC COLLEGE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-12-17"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lobregat"
+[[authorsDetail]]
+name = "Lobregat"
+nameCode = "Lobregat"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-12-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HB10077"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB10077"
+flag = "S"
+
+[firstReading]
+id = 116837
+congress = 10
+bill_no = "HB10416"
+report = "01373"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-12-18"
+date_ob = "1997-12-18"
+date_report = "1997-12-17"
+
+[secondReading]
+id = 18847
+congress = 10
+bill_no = "HB10416"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3408
+congress = 10
+bill_no = "HB10416"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

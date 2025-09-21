@@ -1,0 +1,75 @@
+billNumber = "HB00431"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00431"
+lastScraped = "2025-09-22T00:20:57.452834"
+title = "HB00431"
+longTitle = "AN ACT INCREASING THE AUTHORIZED BED CAPACITY OF THE VICENTE L. PERALTA MEMORIAL HOSPITAL IN THE MUNICIPALITY OF CASTILLA, PROVINCE OF SORSOGON, FROM TWENTY-FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-07"
+status = "Pending with the Committee on HEALTH since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "APOSTOL, SERGIO A. F.", "ABAD, FLORENCIO B.", "DEJON, TEMISTOCLES SR. S.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "APOSTOL, SERGIO A. F."
+nameCode = "Apostol"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ABAD, FLORENCIO B."
+nameCode = "Abad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106852
+congress = 10
+bill_no = "HB00431"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-26"

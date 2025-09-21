@@ -1,0 +1,42 @@
+billNumber = "HR02231"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02231"
+lastScraped = "2025-09-22T00:47:02.986146"
+title = "HR02231"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON REPORTS DOCUMENTING THAT THE NEW PEOPLE'L ARMY (NPA) HAS REGAINED THE UPPERHAND IN THE INSURGENCY WAR OVER THE ARMED FORCES AND TO RECOMMEND MEASURES THAT WOULD STOP THE DECLINE OF THE ARMED FORCES INSURGENCY CAMPAIGN"
+scope = "National"
+dateFiled = "1991-05-06"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1991-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Borjal"
+[[authorsDetail]]
+name = "Borjal"
+nameCode = "Borjal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1991-05-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172065
+congress = 8
+bill_no = "HR02231"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1991-05-09"

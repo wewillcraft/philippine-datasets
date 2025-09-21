@@ -1,0 +1,54 @@
+billNumber = "HB09779"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09779"
+lastScraped = "2025-09-22T00:20:59.243483"
+title = "HB09779"
+longTitle = "AN ACT CONVERTING THE BAIS CITY SCIENCE HIGH SCHOOL INTO BAIS CITY NATIONAL SCIENCE HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-12"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116200
+congress = 10
+bill_no = "HB09779"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-12"

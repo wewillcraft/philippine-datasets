@@ -1,0 +1,61 @@
+billNumber = "HR01520"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01520"
+lastScraped = "2025-09-22T00:20:59.712447"
+title = "HR01520"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM BEING PRESENT, THE HOUSE OF REPRESENTATIVES HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1998-02-10"
+status = "Adopted as Resolution No. HR00145 on 1998-02-11"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-02-11"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 118569
+congress = 10
+bill_no = "HR01520"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-02-11"
+
+[secondReading]
+id = 19062
+congress = 10
+bill_no = "HR01520"
+adopted_resolution = "HR00145"
+date_calendared = "1998-02-11"
+date_approved = "1998-02-11"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00145.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00145.pdf"

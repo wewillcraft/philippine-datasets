@@ -1,0 +1,42 @@
+billNumber = "HR01351"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01351"
+lastScraped = "2025-09-22T00:47:02.796944"
+title = "HR01351"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE(S) TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED IGNORANCE OF SOME OF OUR MEMBERS OF THE POLICE FORCE ON CORRECT TRAFFIC RULES AND REGUALTIONS, AND TO COME UP WITH A STUDY AND APPROPRIATE RECOMMENDATIONS FOR THE IMPROVEMENT OF POLICE AND TRAFFIC SERVICES TO OUR PEOPLE"
+scope = "National"
+dateFiled = "1989-07-25"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1989-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1989-07-25"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 171219
+congress = 8
+bill_no = "HR01351"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1989-07-25"

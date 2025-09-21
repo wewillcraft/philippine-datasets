@@ -1,0 +1,57 @@
+billNumber = "HR00050"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00050"
+lastScraped = "2025-09-22T00:13:01.150226"
+title = "HR00050"
+longTitle = "RESOLUTION THAT SEEKS TO INVESTIGATE CERTAIN ALLEGED ANOMALIES IN THE COMMISSION ON ELECTIONS (COMELEC)"
+scope = "National"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "REMULLA, GILBERT C.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "REMULLA, GILBERT C."
+nameCode = "Remulla"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 89989
+congress = 12
+bill_no = "HR00050"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2001-07-30"

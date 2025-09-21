@@ -1,0 +1,90 @@
+billNumber = "HB09808"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB09808"
+lastScraped = "2025-09-22T00:23:17.393243"
+title = "HB09808"
+longTitle = "AN ACT GRANTING CITIZENSHIP TO SUNG CHON HONG, JU YON HONG (a.k.a. Cristina Hong), AND JU HEE HONG (a.k.a. Bettina Hong)"
+scope = "Local"
+dateFiled = "2000-03-01"
+status = "Approved by the House on 2000-04-11, transmitted to on 2000-04-12 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "FAJARDO, PACIFICO M.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FAJARDO, PACIFICO M."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-03-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[motherBills]]
+bill_no = "HB06800"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB06800"
+flag = "S"
+
+[firstReading]
+id = 101241
+congress = 11
+bill_no = "HB09808"
+report = "00617"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "JUSTICE"
+recomm = "approval"
+date_read = "2000-03-06"
+date_ob = "2000-03-06"
+date_report = "2000-03-01"
+
+[secondReading]
+id = 17102
+congress = 11
+bill_no = "HB09808"
+remarks = "The Body approved to insert into the Record Rep. Abueg's sponsorshi p speech."
+date_calendared = "2000-03-14"
+date_approved = "2000-03-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4343
+congress = 11
+bill_no = "HB09808"
+date_dist = "2000-04-04"
+date_adopt = "2000-04-11"
+no_yeas = 177
+no_nays = 1
+no_abstent = 0
+date_trans = "2000-04-12"
+date_rec = "2000-04-17"

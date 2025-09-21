@@ -1,0 +1,51 @@
+billNumber = "TB00005"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=TB00005"
+lastScraped = "2025-09-22T00:47:03.035049"
+title = "TB00005"
+longTitle = "TEMPORARY BILL FOR SB1141"
+scope = "National"
+dateFiled = "1992-01-28"
+status = "REPUBLIC ACT (RA07309) enacted on 1992-03-30"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1992-01-28"
+
+[firstReading]
+id = 172336
+congress = 8
+bill_no = "TB00005"
+report = "01778"
+comm_act = "recommending approval with amendments on January 29, 1992"
+referral = "520"
+ref_name = "JUSTICE"
+date_read = "1992-01-28"
+date_report = "1992-01-29"
+
+[secondReading]
+id = 21710
+congress = 8
+bill_no = "TB00005"
+date_approved = "1992-01-30"
+
+[thirdReading]
+id = 1348
+congress = 8
+bill_no = "TB00005"
+date_dist = "1992-01-30"
+date_adopt = "1992-02-03"
+remarks = "Returned to Senate on February 3, 1992"
+no_yeas = 129
+date_trans = "1992-02-03"
+date_spass = "1992-03-30"
+act_pres = "A"
+dte_actedp = "1992-03-30"

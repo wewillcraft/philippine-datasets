@@ -1,0 +1,54 @@
+billNumber = "HB06280"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06280"
+lastScraped = "2025-09-21T23:56:22.732338"
+title = "HB06280"
+longTitle = "AN ACT CREATING THE CONGRESSIONAL OVERSIGHT COMMITTEE ON THE NATIONAL BUDGET"
+scope = "National"
+dateFiled = "2015-11-10"
+status = "Pending with the Committee on APPROPRIATIONS since 2015-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB06280.pdf"
+fileSize = 780364
+author = "Colmenares, Neri J"
+coAuthors = [ "ZARATE, CARLOS ISAGANI T.",]
+[[authorsDetail]]
+name = "Colmenares, Neri J"
+nameCode = "Colmenares"
+date = "2015-11-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZARATE, CARLOS ISAGANI T."
+nameCode = "Zarate"
+date = "2015-11-10"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2015-11-23"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 52094
+congress = 16
+bill_no = "HB06280"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-11-23"

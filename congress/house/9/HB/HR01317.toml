@@ -1,0 +1,42 @@
+billNumber = "HR01317"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01317"
+lastScraped = "2025-09-22T00:25:57.611081"
+title = "HR01317"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON TRANSPORTATION AND COMMUNICATION TO INVESTIGATE THE PHILIPPINE COAST GUARD OFFICE, IN AID OF LEGISLATION, ON THE COLLISION BETWEEN KOTA SURIA AND M/V CEBU CITY OF WILLIAM LINES, INC."
+scope = "National"
+dateFiled = "1994-12-12"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1994-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1994-12-15"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 134622
+congress = 9
+bill_no = "HR01317"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1994-12-15"

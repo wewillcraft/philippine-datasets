@@ -1,0 +1,42 @@
+billNumber = "HR00788"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00788"
+lastScraped = "2025-09-22T00:25:57.509893"
+title = "HR00788"
+longTitle = "RESOLUTION DECLARING MAY 29TH OF EVERY YEAR AS \"FLAG DAY\""
+scope = "National"
+dateFiled = "1993-09-29"
+status = "Pending with the Committee on REVISION OF LAWS since 1993-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1993-10-01"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 134100
+congress = 9
+bill_no = "HR00788"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "1993-10-01"

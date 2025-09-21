@@ -1,0 +1,97 @@
+billNumber = "HR01297"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01297"
+lastScraped = "2025-09-22T00:25:57.607363"
+title = "HR01297"
+longTitle = "RESOLUTION EXPRESSING THE SENTIMENT OF THE HOUSE OF REPRESENTATIVES TO REQUEST HIS EXCELLENCY PRESIDENT FIDEL V. RAMOS TO ENJOIN ALL GOVERNMENT DEPARTMENTS AND OFFICES TO RESTRICT THE USE OF WOOD AND WOOD PRODUCTS FOR GOVERNMENT PROJECTS AS MUCH ASPRACTICABLE IN ORDER TO PRESERVE OUR FOREST RESERVES"
+scope = "National"
+dateFiled = "1994-11-17"
+status = "Adopted as Resolution No. HR00098 on 1994-12-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap"
+coAuthors = [ "CERILLES, ANTONIO H.", "PONCE DE LEON, DAVID A.", "NATURAL RESOURCES", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Yap"
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CERILLES, ANTONIO H."
+nameCode = "Cerilles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PONCE DE LEON, DAVID A."
+nameCode = "Ponce De Leon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "NATURAL RESOURCES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-12-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01246"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01246"
+flag = "S"
+
+[firstReading]
+id = 134603
+congress = 9
+bill_no = "HR01297"
+report = "00962"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "NATURAL RESOURCES"
+recomm = "Adoption in substituti on of HR NO. 1246"
+date_read = "1994-12-05"
+date_ob = "1994-12-05"
+date_cal = "1994-12-05"
+date_unass = "1994-12-05"
+date_report = "1994-11-17"
+
+[secondReading]
+id = 20194
+congress = 9
+bill_no = "HR01297"
+adopted_resolution = "HR00098"
+date_calendared = "1994-12-06"
+date_approved = "1994-12-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01297.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01297.pdf"

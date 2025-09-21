@@ -1,0 +1,47 @@
+billNumber = "HB00620"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00620"
+lastScraped = "2025-09-22T00:25:54.707183"
+title = "HB00620"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE-BED COMMUNITY HOSPITAL IN THE MUNICIPALITY OF RIZAL, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS RIZAL COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on HEALTH since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119239
+congress = 9
+bill_no = "HB00620"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-11"

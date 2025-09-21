@@ -1,0 +1,75 @@
+billNumber = "HB01122"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01122"
+lastScraped = "2025-09-22T00:20:57.566694"
+title = "HB01122"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SIGAY, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE SIGAY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-20"
+status = "REPUBLIC ACT RA08710 (Lapsed into law on 1998-07-16)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson, Eric D."
+[[authorsDetail]]
+name = "Singson, Eric D."
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107543
+congress = 10
+bill_no = "HB01122"
+report = "00653"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-07-31"
+date_ob = "1996-11-14"
+date_report = "1996-11-12"
+
+[secondReading]
+id = 17746
+congress = 10
+bill_no = "HB01122"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-11-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2368
+congress = 10
+bill_no = "HB01122"
+date_dist = "1996-11-18"
+date_adopt = "1996-12-02"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-12-03"
+date_rec = "1996-12-06"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-06-10"
+dte_actedp = "1998-07-16"

@@ -1,0 +1,47 @@
+billNumber = "HB00057"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00057"
+lastScraped = "2025-09-22T00:25:54.601512"
+title = "HB00057"
+longTitle = "AN ACT ESTABLISHING A SCIENCE HIGH SCHOOL IN PASAY CITY, TO BE KNOWN AS THE PASAY CITY SCIENCE HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118676
+congress = 9
+bill_no = "HB00057"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-07-28"

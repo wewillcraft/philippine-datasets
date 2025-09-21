@@ -1,0 +1,47 @@
+billNumber = "HB02337"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02337"
+lastScraped = "2025-09-22T00:25:55.007943"
+title = "HB02337"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF P1,500,000.00 FOR THE IMPROVEMENT OF THE DRAINAGE SYSTEM (ROAD NETWORK) IN SAN ISIDRO 11, BARANGAY CONCEPCION UNO, MARIKINA"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120956
+congress = 9
+bill_no = "HB02337"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-18"

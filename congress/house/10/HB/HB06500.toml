@@ -1,0 +1,46 @@
+billNumber = "HB06500"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06500"
+lastScraped = "2025-09-22T00:20:58.568889"
+title = "HB06500"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TECHNOLOGY TRAINING CENTER AT THE CATANDUANES STATE COLLEGE"
+scope = "Local"
+dateFiled = "1996-03-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-03-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-03-11"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112921
+congress = 10
+bill_no = "HB06500"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-03-11"

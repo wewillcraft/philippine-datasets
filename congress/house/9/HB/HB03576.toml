@@ -1,0 +1,50 @@
+billNumber = "HB03576"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03576"
+lastScraped = "2025-09-22T00:25:55.228092"
+title = "HB03576"
+longTitle = "AN ACT DECLARING CERTAIN CRIMES AS HEINOUS CRIMES AND IMPOSING THE DEATH PENALTY THEREFOR"
+scope = "National"
+dateFiled = "1992-10-12"
+status = "Pending with the Committee on JUSTICE since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 122195
+congress = 9
+bill_no = "HB03576"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-10-15"

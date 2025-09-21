@@ -1,0 +1,54 @@
+billNumber = "HB04300"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB04300"
+lastScraped = "2025-09-21T23:39:49.124734"
+title = "HB04300"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 9513, OTHERWISE KNOWN AS THE RENEWABLE ENERGY ACT OF 2008"
+scope = "National"
+dateFiled = "2025-09-02"
+status = "Pending with the Committee on ENERGY since 2025-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB04300.pdf"
+fileSize = 1019847
+author = "SINGSON-MEEHAN, KRISTINE"
+coAuthors = [ "LEDESMA, JULIO IV A.",]
+[[authorsDetail]]
+name = "SINGSON-MEEHAN, KRISTINE"
+nameCode = "Singson-Meehan"
+date = "2025-09-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LEDESMA, JULIO IV A."
+nameCode = "Ledesma"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2025-09-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 4301
+congress = 103
+bill_no = "HB04300"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-09-08"

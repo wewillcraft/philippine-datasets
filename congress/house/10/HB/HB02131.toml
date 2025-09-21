@@ -1,0 +1,54 @@
+billNumber = "HB02131"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02131"
+lastScraped = "2025-09-22T00:20:57.750668"
+title = "HB02131"
+longTitle = "AN ACT ESTABLISHING THE MARITIME LIVELIHOOD INSTITUTE OF THE PHILIPPINES, AUTHORIZING THE APPROPRIATION THEREFOR IN THE AMOUNT OF P30 MILLION PER YEAR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108552
+congress = 10
+bill_no = "HB02131"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-15"

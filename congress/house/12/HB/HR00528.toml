@@ -1,0 +1,56 @@
+billNumber = "HR00528"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00528"
+lastScraped = "2025-09-22T00:13:01.255920"
+title = "HR00528"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE IN THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED PLAN BY THE SUBIC BAY METROPOLITAN AUTHORITY (SBMA) TO LEASE OUT FOR COMMERCIAL PURPOSES THE ADMIRAL'S COMPLEX AND OTHER AREAS IN THE SUBIC FREEPORT ZONE, WHICH ARE CONSIDERED TO BE HISTORICAL AND HERITAGE SITES"
+scope = "Local"
+dateFiled = "2002-04-24"
+status = "Adopted Resolution (Pending with the committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 2002-05-23)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-05-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90465
+congress = 12
+bill_no = "HR00528"
+report = "00498"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-05-06"
+date_report = "2002-05-23"
+
+[secondReading]
+id = 15176
+congress = 12
+bill_no = "HR00528"
+adopted_resolution = "HR00252"
+date_calendared = "2002-05-23"
+date_approved = "2002-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-05-23"

@@ -1,0 +1,68 @@
+billNumber = "HB07831"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07831"
+lastScraped = "2025-09-21T23:55:45.852180"
+title = "HB07831"
+longTitle = "AN ACT INSTITUTIONALIZING THE TREATMENT OF ACTIVE MILITARY PERSONNEL WITH POST-TRAUMATIC STRESS DISORDER AND PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-05-31"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2018-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07831.pdf"
+fileSize = 1012172
+author = "Alejano, Gary C."
+coAuthors = [ "DEL MAR, RAUL V.", "BATAOIL, LEOPOLDO N.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2018-05-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2018-08-01"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "BATAOIL, LEOPOLDO N."
+nameCode = "Bataoil"
+date = "2018-08-06"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-10-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2018-07-30"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 41298
+congress = 17
+bill_no = "HB07831"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-07-30"

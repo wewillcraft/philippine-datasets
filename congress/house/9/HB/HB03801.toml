@@ -1,0 +1,47 @@
+billNumber = "HB03801"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03801"
+lastScraped = "2025-09-22T00:25:55.266835"
+title = "HB03801"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE GANDARA DISTRICT HOSPITAL IN THE MUNICIPALITY OF GANDARA, PROVINCE OF SAMAR, FROM TWENTY-FIVE (25) BEDS TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-16"
+status = "Pending with the Committee on HEALTH since 1992-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-21"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122420
+congress = 9
+bill_no = "HB03801"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-21"

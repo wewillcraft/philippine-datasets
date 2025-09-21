@@ -1,0 +1,47 @@
+billNumber = "HR00681"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00681"
+lastScraped = "2025-09-22T00:20:59.552980"
+title = "HR00681"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON PUBLIC WORKS AND THE SPECIAL COMMITTEE ON MINDANAO AFFAIRS TO INVESTIGATE, IN AID OF LEGISLATION, THE ANOMALIES ALLEGEDLY COMMITTED IN THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS IN REGION XII"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Balindong, Pangalian M."
+[[authorsDetail]]
+name = "Balindong, Pangalian M."
+nameCode = "Balindong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "MINDANAO AFFAIRS"
+type = "secondary"
+referralCode = "A507"
+
+[firstReading]
+id = 117735
+congress = 10
+bill_no = "HR00681"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Public Works and Highways and on the Sp"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-06-08"

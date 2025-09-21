@@ -1,0 +1,42 @@
+billNumber = "HB03091"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03091"
+lastScraped = "2025-09-22T00:46:57.106309"
+title = "HB03091"
+longTitle = "AN ACT ESTABLISHING A FISH PROCESSING CENTER IN THE MUNICIPALITY OF TURTLE ISLAND, PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-10-21"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-11-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 137780
+congress = 8
+bill_no = "HB03091"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-11-09"

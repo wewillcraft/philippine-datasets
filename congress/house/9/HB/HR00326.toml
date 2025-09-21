@@ -1,0 +1,62 @@
+billNumber = "HR00326"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00326"
+lastScraped = "2025-09-22T00:25:57.425103"
+title = "HR00326"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON GOOD GOVERNMENT AND NATIONAL DEFENSE TO CONDUCT AN INQUIRY IN AID OF LEGISLATION, ON THE ALLEGED FRAUDULENT PURCHASE OF MILITARY EQUIPMENT BY THE ARMED FORCES OF THE PHILIPPINES LOGISTICS COMMAND"
+scope = "National"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "BARBERS, ROBERT Z.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT Z."
+nameCode = "Barbers"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 133638
+congress = 9
+bill_no = "HR00326"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1992-11-16"

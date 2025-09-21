@@ -1,0 +1,47 @@
+billNumber = "HB00509"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00509"
+lastScraped = "2025-09-22T00:25:54.686274"
+title = "HB00509"
+longTitle = "AN ACT ESTABLISHING A SCHOOL OF ARTS AND TRADES IN KALOOKAN CITY, METRO MANILA TO BE KNOWN AS THE KALOOKAN CITY SCHOOL OF ARTS AND TRADES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Asistio, Luis A."
+[[authorsDetail]]
+name = "Asistio, Luis A."
+nameCode = "Asistio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119128
+congress = 9
+bill_no = "HB00509"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-08-10"

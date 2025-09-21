@@ -1,0 +1,88 @@
+billNumber = "HB08729"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08729"
+lastScraped = "2025-09-22T00:20:59.028102"
+title = "HB08729"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 7720, ENTITLED:  'AN ACT CONVERTING THE MUNICIPALITY OF SANTIAGO INTO AN INDEPENDENT COMPONENT CITY TO BE KNOWN AS THE CITY OF SANTIAGO"
+scope = "Local"
+dateFiled = "1997-01-15"
+status = "REPUBLIC ACT (RA08528) enacted on 1998-02-14"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "RESPICIO, SANTIAGO P.", "DY, FAUSTINO JR. S.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-01-22"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 115150
+congress = 10
+bill_no = "HB08729"
+report = "01389"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+recomm = "approval without amendments"
+date_read = "1997-01-22"
+date_ob = "1998-01-12"
+date_report = "1998-01-12"
+
+[secondReading]
+id = 18623
+congress = 10
+bill_no = "HB08729"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-01-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3209
+congress = 10
+bill_no = "HB08729"
+date_adopt = "1998-01-19"
+no_yeas = 150
+no_nays = 0
+no_abstent = 0
+amend_ind = "N"
+act_pres = "A"
+dte_actedp = "1998-02-14"

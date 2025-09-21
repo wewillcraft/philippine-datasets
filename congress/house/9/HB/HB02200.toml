@@ -1,0 +1,47 @@
+billNumber = "HB02200"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02200"
+lastScraped = "2025-09-22T00:25:54.982827"
+title = "HB02200"
+longTitle = "AN ACT ESTABLISHING A FIVE-BED CAPACITY HOSPITAL IN THE ISLAND OF DALUPIRI, MUNICIPALITY OF CALAYAN, PROVINCE OF CAGAYAN, TO BE KNOWN AS THE DALUPIRI ISLAND HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-03"
+status = "Pending with the Committee on HEALTH since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120819
+congress = 9
+bill_no = "HB02200"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-18"

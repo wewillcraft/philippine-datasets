@@ -1,0 +1,41 @@
+billNumber = "HB04233"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04233"
+lastScraped = "2025-09-22T00:20:58.166674"
+title = "HB04233"
+longTitle = "AN ACT PROHIBITING THE NAMING OF DESTRUCTIVE FORCES OF NATURE OR UNDERTAKINGS WITH DESTRUCTIVE POTENTIALS AFTER FEMININE NAMES"
+scope = "National"
+dateFiled = "1995-10-04"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 110654
+congress = 10
+bill_no = "HB04233"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1995-10-05"

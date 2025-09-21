@@ -1,0 +1,46 @@
+billNumber = "HB06402"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06402"
+lastScraped = "2025-09-22T00:20:58.550950"
+title = "HB06402"
+longTitle = "AN ACT ESTABLISHING A SPORTS COMPLEX IN THE MUNICIPALITY OF LAMITAN, PROVINCE OF BASILAN, TO BE KNOWN AS THE LAMITAN SPORTS COMPLEX, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112823
+congress = 10
+bill_no = "HB06402"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-29"

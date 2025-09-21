@@ -1,0 +1,47 @@
+billNumber = "HR00427"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00427"
+lastScraped = "2025-09-21T23:55:46.297579"
+title = "HR00427"
+longTitle = "A RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION, ON THE RECENT RIOT THAT OCCURRED AT THE NEW BILIBID PRISON, BUILDING 14, WHERE ONE HIGH-PROFILE INMATE WAS KILLED"
+scope = "National"
+dateFiled = "2016-10-03"
+status = "Pending with the Committee on JUSTICE since 2016-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00427.pdf"
+fileSize = 260720
+author = "Tambunting, Gus S."
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2016-10-03"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-10-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43169
+congress = 17
+bill_no = "HR00427"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-10-19"
+date_read = "2016-10-10"

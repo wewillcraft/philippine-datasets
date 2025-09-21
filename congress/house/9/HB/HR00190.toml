@@ -1,0 +1,42 @@
+billNumber = "HR00190"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00190"
+lastScraped = "2025-09-22T00:25:57.401418"
+title = "HR00190"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO REJECT THE PROPOSED SETTLEMENT AND OPERATION OF THE BATAAN NUCLEAR POWER PLANT"
+scope = "Local"
+dateFiled = "1992-09-17"
+status = "Pending with the Committee on ENERGY since 1992-09-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-09-22"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 133502
+congress = 9
+bill_no = "HR00190"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-09-22"

@@ -1,0 +1,42 @@
+billNumber = "HB01030"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01030"
+lastScraped = "2025-09-22T00:46:56.746051"
+title = "HB01030"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF SEEDLING BANKS IN THE DISTRICTS OF MARILOG, CALINAN, AND TORIL, ALL OF DAVAO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 135727
+congress = 8
+bill_no = "HB01030"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-07"

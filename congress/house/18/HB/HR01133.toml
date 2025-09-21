@@ -1,0 +1,47 @@
+billNumber = "HR01133"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01133"
+lastScraped = "2025-09-22T00:01:47.547511"
+title = "HR01133"
+longTitle = "RESOLUTION DIRECTING THE METRO MANILA DEVELOPMENT COMMITTEE TO INVESTIGATE, IN AID OF LEGISLATION, THE SAFETY AND SECURITY OF PORTS OF METRO MANILA IN HANDLING HIGHLY EXPLOSIVE SUBSTANCE IN THE LIGHT OF THE RECENT ACCIDENT IN BEIRUT, LEBANON\r\n\r\n"
+scope = "National"
+dateFiled = "2020-08-12"
+status = "Pending with the Committee on TRANSPORTATION since 2020-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01133.pdf"
+fileSize = 1058702
+author = "Martinez, Eric M."
+[[authorsDetail]]
+name = "Martinez, Eric M."
+nameCode = "Martinez"
+date = "2020-08-12"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2020-08-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 31452
+congress = 18
+bill_no = "HR01133"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-09-15"
+date_read = "2020-08-24"

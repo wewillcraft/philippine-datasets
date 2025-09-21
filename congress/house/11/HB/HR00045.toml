@@ -1,0 +1,47 @@
+billNumber = "HR00045"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00045"
+lastScraped = "2025-09-22T00:23:17.957681"
+title = "HR00045"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON AGRARIAN REFORM AND NATURAL RESOURCES TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE NECESSITY OF THE LAIBAN DAM PROJECT IN TANAY, RIZAL, ITS TENURIAL IMPACT, AND OTHER PROBLEMS AND ISSUES RELATED THERETO"
+scope = "Local"
+dateFiled = "1998-07-10"
+status = "Pending with the Committee on RULES since 1998-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-07-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 104503
+congress = 11
+bill_no = "HR00045"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1998-07-29"

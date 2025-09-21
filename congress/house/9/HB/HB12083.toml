@@ -1,0 +1,42 @@
+billNumber = "HB12083"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12083"
+lastScraped = "2025-09-22T00:25:56.823337"
+title = "HB12083"
+longTitle = "AN ACT CREATING THE ILOILO RIVERS AND STRAIT COMMISSION, DEFINING ITS POWERS, FUNCTIONS, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-16"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES AND PRIVATIZATION since 1994-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez-vito"
+[[authorsDetail]]
+name = "Lopez-vito"
+nameCode = "Lopez-vito"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1994-02-22"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130698
+congress = 9
+bill_no = "HB12083"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = ""
+date_read = "1994-02-22"

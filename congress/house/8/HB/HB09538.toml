@@ -1,0 +1,42 @@
+billNumber = "HB09538"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09538"
+lastScraped = "2025-09-22T00:46:58.271412"
+title = "HB09538"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY TRAN, MUNICIPALITY OF LEBAK, PROVINCE OF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1988-05-12"
+status = "Pending with the Committee on HEALTH since 1988-05-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-18"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 144213
+congress = 8
+bill_no = "HB09538"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-18"

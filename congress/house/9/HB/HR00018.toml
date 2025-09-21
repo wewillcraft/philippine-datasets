@@ -1,0 +1,68 @@
+billNumber = "HR00018"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00018"
+lastScraped = "2025-09-22T00:25:57.370378"
+title = "HR00018"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF THE HONORABLE CARLOS C. HILADO, FORMER MEMBER OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1992-07-24"
+status = "Adopted as Resolution No. HR00003 on 1992-07-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "ROMERO, MIGUEL L.", "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 133330
+congress = 9
+bill_no = "HR00018"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-07-30"
+
+[secondReading]
+id = 20083
+congress = 9
+bill_no = "HR00018"
+adopted_resolution = "HR00003"
+date_approved = "1992-07-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00018.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00018.pdf"

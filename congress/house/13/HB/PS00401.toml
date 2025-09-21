@@ -1,0 +1,42 @@
+billNumber = "PS00401"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00401"
+lastScraped = "2025-09-22T00:13:49.530115"
+title = "PS00401"
+longTitle = "Investigation on the Anomalies Perpetrated in the Management of Electric Cooperatives"
+scope = "National"
+dateFiled = "2006-05-15"
+status = "Pending with the Committee on ENERGY since 2006-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cagas, Douglas RA."
+[[authorsDetail]]
+name = "Cagas, Douglas RA."
+nameCode = "Cagas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2006-05-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 83064
+congress = 13
+bill_no = "PS00401"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2006-05-15"

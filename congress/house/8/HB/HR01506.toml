@@ -1,0 +1,42 @@
+billNumber = "HR01506"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01506"
+lastScraped = "2025-09-22T00:47:02.818753"
+title = "HR01506"
+longTitle = "RESOLUTION CERTIFYING TO THE EXISTENSE OF FIVE VACANCIES IN THE HOUSE OF REPRESENTATIVES AND URGING THE COMMISSION ON ELECTIONS TO CALL A SPECIAL ELECTION ON THE SECOND TUESDAY OF NOVEMBER 1989 TO FILL SAID VACANCIES"
+scope = "Local"
+dateFiled = "1989-10-16"
+status = "Pending with the Committee on RULES since 1989-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-10-16"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171368
+congress = 8
+bill_no = "HR01506"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-10-16"

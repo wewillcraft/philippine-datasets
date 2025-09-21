@@ -1,0 +1,42 @@
+billNumber = "HR01983"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01983"
+lastScraped = "2025-09-22T00:47:02.920033"
+title = "HR01983"
+longTitle = "RESOLUTION URGING PRESIDENT AQUINO TO IMPLEMENT OIL AND ENERGY CONSERVATION TRAINING PROGRAMS IN GOVERNMENT AND PRIVATE OFFICES, SCHOOLS AND LOCAL GOVERNMENT UNITS"
+scope = "National"
+dateFiled = "1990-10-22"
+status = "Pending with the Committee on ENERGY since 1990-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-10-25"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 171819
+congress = 8
+bill_no = "HR01983"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-10-25"

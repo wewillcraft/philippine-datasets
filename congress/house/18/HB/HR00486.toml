@@ -1,0 +1,47 @@
+billNumber = "HR00486"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00486"
+lastScraped = "2025-09-22T00:01:47.427717"
+title = "HR00486"
+longTitle = "A RESOLUTION URGING THE HOUSE COMMITTEE ON JUSTICE AND THE HOUSE COMMITTEE ON HUMAN RIGHTS TO JOINTLY INVESTIGATE, IN AID OF LEGISLATION, THE PLIGHT OF PERSONS DEPRIVED OF LIBERTY WITHIN THE NEW BILIBID PRISON"
+scope = "National"
+dateFiled = "2019-11-05"
+status = "Pending with the Committee on JUSTICE since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00486.pdf"
+fileSize = 736763
+author = "Belmonte, Jose Christopher Y."
+[[authorsDetail]]
+name = "Belmonte, Jose Christopher Y."
+nameCode = "Belmonte"
+date = "2019-11-05"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-11-06"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 30814
+congress = 18
+bill_no = "HR00486"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-11-06"

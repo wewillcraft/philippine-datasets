@@ -1,0 +1,51 @@
+billNumber = "HB09135"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09135"
+lastScraped = "2025-09-22T00:20:59.108640"
+title = "HB09135"
+longTitle = "AN ACT ESTABLISHING A COMPUTER TECHNOLOGY TRAINING CENTER IN THE MUNICIPALITY OF SAN ILDEFONSO, PROVINCE OF BULACAN"
+scope = "Local"
+dateFiled = "1997-03-19"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Silverio"
+[[authorsDetail]]
+name = "Silverio"
+nameCode = "Silverio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-03-21"
+
+[[committee]]
+name = "SUSTAINABLE DEVELOPMENT GOALS"
+type = "principal"
+referralCode = "I501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 115556
+congress = 10
+bill_no = "HB09135"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-03-21"

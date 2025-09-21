@@ -1,0 +1,50 @@
+billNumber = "HR00398"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00398"
+lastScraped = "2025-09-22T00:13:01.225183"
+title = "HR00398"
+longTitle = "RESOLUTION OF ENDORSEMENT OF VERIFIED COMPLAINT FOR THE IMPEACHMENT OF OMBUDSMAN ANIANO DISIERTO"
+scope = "Local"
+dateFiled = "2002-01-30"
+status = "Pending with the Committee on RULES since 2002-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran, Crispin B."
+coAuthors = [ "DEDURO, SIEGFRED D.",]
+[[authorsDetail]]
+name = "Beltran, Crispin B."
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEDURO, SIEGFRED D."
+nameCode = "Deduro"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-02-05"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 90336
+congress = 12
+bill_no = "HR00398"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2002-02-05"

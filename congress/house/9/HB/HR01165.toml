@@ -1,0 +1,63 @@
+billNumber = "HR01165"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01165"
+lastScraped = "2025-09-22T00:25:57.580722"
+title = "HR01165"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD, AND THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED CONTAMINATION OF VEGETABLES AND OTHER FARM PRODUCE THRU THE USE OF FORMALIN, AND RECOMMEND REMEDIAL LEGISLATION DESIGNED TO PROTECT CONSUMERS AND FARMERS"
+scope = "National"
+dateFiled = "1994-08-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "TAGLE, VICENTE V.",]
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAGLE, VICENTE V."
+nameCode = "Tagle"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-08-16"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 134471
+congress = 9
+bill_no = "HR01165"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEES ON AGRICULTUR E AND FOOD AND HEALTH"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-08-16"

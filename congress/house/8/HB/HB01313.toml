@@ -1,0 +1,42 @@
+billNumber = "HB01313"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01313"
+lastScraped = "2025-09-22T00:46:56.794964"
+title = "HB01313"
+longTitle = "AN ACT FOR THE CONSTRUCTION OF A CONCRETE TIOLAS-SINOGNUH AN ROAD IN THE MUNICIPALITY OF SAN JOAQUIN, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 136009
+congress = 8
+bill_no = "HB01313"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-15"

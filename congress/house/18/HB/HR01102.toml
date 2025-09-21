@@ -1,0 +1,55 @@
+billNumber = "HR01102"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01102"
+lastScraped = "2025-09-22T00:01:47.540804"
+title = "HR01102"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, CALLING UPON BANKS AND OTHER NECESSARY STAKEHOLDERS RELATIVE TO THE WAIVER OF CHARGES ON INTER-BRANCH AND INTER-REGIONAL MONEY SERVICE TRANSACTION FEES DURING COVID-19 PANDEMIC"
+scope = "National"
+dateFiled = "2020-08-03"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01102.pdf"
+fileSize = 1015496
+author = "Lacson, Virgilio S."
+coAuthors = [ "ZUBIRI, MANUEL ANTONIO F.",]
+[[authorsDetail]]
+name = "Lacson, Virgilio S."
+nameCode = "Lacson"
+date = "2020-08-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZUBIRI, MANUEL ANTONIO F."
+nameCode = "Zubiri"
+date = "2021-11-09"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2020-08-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31421
+congress = 18
+bill_no = "HR01102"
+report = ""
+comm_act = ""
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-08-05"

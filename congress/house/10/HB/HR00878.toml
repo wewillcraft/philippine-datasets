@@ -1,0 +1,52 @@
+billNumber = "HR00878"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00878"
+lastScraped = "2025-09-22T00:20:59.590749"
+title = "HR00878"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON LOCAL GOVERNMENT AND JUSTICE TO CONDUCT AN IMMEDIATE JOINT INQUIRY, IN AID OF LEGISLATION, INTO THE HIGHLY SUSPICIOUS CIRCUMSTANCES AND CAUSES SURROUNDING THE CASH AND CARRY SHOPPERS PX MALL FIRE IN SOUTH SUPERHIGHWAY AND BUENDIA, MAKATI CITY ON 29 SEPTEMBER 1995"
+scope = "Local"
+dateFiled = "1996-09-30"
+status = "Pending with the Committee on RULES since 1996-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 117932
+congress = 10
+bill_no = "HR00878"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Local Government and on Justice on Oct."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-03"

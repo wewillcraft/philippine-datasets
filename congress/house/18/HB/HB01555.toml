@@ -1,0 +1,72 @@
+billNumber = "HB01555"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01555"
+lastScraped = "2025-09-22T00:01:45.327593"
+title = "HB01555"
+longTitle = "AN ACT PROVIDING FOR MAGNA CARTA OF AGRICULTURE AND FISHERY DEVELOPMENT WORKERS"
+scope = "National"
+dateFiled = "2019-07-08"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01555.pdf"
+fileSize = 2695463
+author = "GARBIN, ALFREDO JR. A."
+coAuthors = [ "ESPINA, GERRYBOY JR. J.", "UNABIA, CHRISTIAN S.",]
+[[authorsDetail]]
+name = "GARBIN, ALFREDO JR. A."
+nameCode = "Garbin"
+date = "2019-07-08"
+sequence = 1
+
+[[authorsDetail]]
+name = "CO, ELIZALDY S."
+nameCode = "Co (E.)"
+date = "2019-07-08"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERRYBOY JR. J."
+nameCode = "Espina"
+date = "2019-08-07"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "UNABIA, CHRISTIAN S."
+nameCode = "Unabia"
+date = "2021-02-02"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 20964
+congress = 18
+bill_no = "HB01555"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

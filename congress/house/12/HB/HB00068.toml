@@ -1,0 +1,47 @@
+billNumber = "HB00068"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00068"
+lastScraped = "2025-09-22T00:12:59.805156"
+title = "HB00068"
+longTitle = "AN ACT DECLARING BONGAO PEAK AND ITS IMMEDIATE VICINITY, LOCATED IN THE MUNICIPALITY OF BONGAO, PROVINCE OF TAWI-TAWI AS A SPECIAL TOURIST ZONE, ESTABLISHING A TOURIST CENTER THEREON AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on TOURISM since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jaafar"
+[[authorsDetail]]
+name = "Jaafar"
+nameCode = "Jaafar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83228
+congress = 12
+bill_no = "HB00068"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-07-24"

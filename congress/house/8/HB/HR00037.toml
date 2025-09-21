@@ -1,0 +1,42 @@
+billNumber = "HR00037"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00037"
+lastScraped = "2025-09-22T00:47:02.530162"
+title = "HR00037"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE INCIDENCE OF HOSPITALIZATION S AND DEATHS ARRISING FROM PARTAKING OF \"FAKE RUM\" AND OTHER SPIRITS AND TO RECOMMEND SUCH MEASURES AS MAY BE NECESSARY FORPUBLIC PROTECTION"
+scope = "National"
+dateFiled = "1987-07-28"
+status = "Pending with the Committee on HEALTH since 1987-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 169947
+congress = 8
+bill_no = "HR00037"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-03"

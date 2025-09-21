@@ -1,0 +1,47 @@
+billNumber = "HR00312"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00312"
+lastScraped = "2025-09-21T23:56:22.854231"
+title = "HR00312"
+longTitle = "A RESOLUTION URGING COMMITTEE ON BASIC EDUCATION AND CULTURE TO, IN AID OF LEGISLATION, DIRECT DEPARTMENT OF EDUCATION TO SUBMIT ITS FINAL PROPOSAL ON PUBLIC SCHOOLS' PROBLEM OVER LAND TITLES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-09-20"
+status = "Pending with the Committee on JUSTICE since 2013-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00312.pdf"
+fileSize = 93304
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2013-09-20"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2013-09-25"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 52711
+congress = 16
+bill_no = "HR00312"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-12-09"
+date_read = "2013-09-25"

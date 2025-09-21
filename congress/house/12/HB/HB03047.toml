@@ -1,0 +1,69 @@
+billNumber = "HB03047"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03047"
+lastScraped = "2025-09-22T00:13:00.356844"
+title = "HB03047"
+longTitle = "AN ACT PROVIDING ADDITIONAL RETIREMENT BENEFITS TO THE MEMBERS OF THE JUDICIARY, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 910, AS AMENDED, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-09-17"
+status = "Pending with the Committee on JUSTICE since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+coAuthors = [ "DEL MAR, RAUL V.", "MONFORT, NARCISO D.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J024"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86207
+congress = 12
+bill_no = "HB03047"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-09-27"

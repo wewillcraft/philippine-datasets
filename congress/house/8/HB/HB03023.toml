@@ -1,0 +1,42 @@
+billNumber = "HB03023"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03023"
+lastScraped = "2025-09-22T00:46:57.093844"
+title = "HB03023"
+longTitle = "AN ACT AMENDING SECTION TWENTY-NINE OF BATAS PAMBANSA BLG. ONE HUNDRED TWENTY-NINE, OTHERWISE KNOWNAS JUDICIARY REORGANIZATION ACT OF 1980"
+scope = "National"
+dateFiled = "1987-10-20"
+status = "Pending with the Committee on JUSTICE since 1987-10-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-10-22"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[firstReading]
+id = 137712
+congress = 8
+bill_no = "HB03023"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-10-22"

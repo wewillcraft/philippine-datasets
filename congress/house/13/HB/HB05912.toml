@@ -1,0 +1,47 @@
+billNumber = "HB05912"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05912"
+lastScraped = "2025-09-22T00:13:49.033457"
+title = "HB05912"
+longTitle = "AN ACT DEFINING THE CREATION OF A JOINT CONGRESSIONAL OVERSIGHT COMMITTEE"
+scope = "National"
+dateFiled = "2006-10-23"
+status = "Pending with the Committee on RULES since 2006-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05912.pdf"
+fileSize = 2106332
+author = "Marcos, Imee R."
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = "Marcos"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2006-11-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 81002
+congress = 13
+bill_no = "HB05912"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-11-07"
+date_read = "2006-11-07"

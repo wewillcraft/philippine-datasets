@@ -1,0 +1,47 @@
+billNumber = "HB01218"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01218"
+lastScraped = "2025-09-22T00:25:54.812911"
+title = "HB01218"
+longTitle = "AN ACT ESTABLISHING A REFORESTATION STATION IN THE MUNIICPALITY OF SAN ISIDRO, PROVINCE OF LEYTE, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso"
+[[authorsDetail]]
+name = "Veloso"
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119837
+congress = 9
+bill_no = "HB01218"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-08-25"

@@ -1,0 +1,60 @@
+billNumber = "HR01419"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01419"
+lastScraped = "2025-09-22T00:23:18.214173"
+title = "HR01419"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON JUSTICE, EDUCATION AND REVISION OF LAWS TO INVESTIGATE, IN AID OF LEGISLATION, ON THE RAMPANT VIOLENCE PERPETRATED AND INITIATED BY FRATERNITIES AND REVIEW THE IMPLEMENTATION OF REPUBLIC ACT NO. 8049 FOR THE POSSIBLE EXPANSION OF ITS SCOPE AND COVERAGE INCLUDING THE PENALTIES PROVIDED THEREFOR TO MAKE IT MORE RESPONSIVE IN ADDRESSING THE GROWING NUMBER OF INCIDENTS OF CAMPUS VIOLENCE"
+scope = "National"
+dateFiled = "2000-03-01"
+status = "Pending with the Committee on JUSTICE since 2000-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marcos, Imee R."
+coAuthors = [ "PONCE, NESTOR JR. C.",]
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PONCE, NESTOR JR. C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2000-03-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "secondary"
+referralCode = "0531"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[firstReading]
+id = 105875
+congress = 11
+bill_no = "HR01419"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2000-03-07"

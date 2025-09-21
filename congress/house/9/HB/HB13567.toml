@@ -1,0 +1,72 @@
+billNumber = "HB13567"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13567"
+lastScraped = "2025-09-22T00:25:57.105240"
+title = "HB13567"
+longTitle = "AN ACT DECLARING MAY NINETEEN OF EVERY YEAR A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE PROVINCE OF SARANGANI, TO BE KNOWN AS 'SARANGANI DAY'"
+scope = "Local"
+dateFiled = "1994-08-24"
+status = "Approved by the House on 1994-09-27, transmitted to on 1994-10-04 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chiongbian"
+[[authorsDetail]]
+name = "Chiongbian"
+nameCode = "Chiongbian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-08-31"
+
+[[motherBills]]
+bill_no = "HB11914"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB11914"
+flag = "S"
+
+[firstReading]
+id = 132176
+congress = 9
+bill_no = "HB13567"
+report = "00835"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1994-08-31"
+date_ob = "1994-08-31"
+date_cal = "1994-08-31"
+date_unass = "1994-08-31"
+date_report = "1994-08-24"
+
+[secondReading]
+id = 19901
+congress = 9
+bill_no = "HB13567"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-09-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2129
+congress = 9
+bill_no = "HB13567"
+date_dist = "1994-09-19"
+date_adopt = "1994-09-27"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-10-04"
+date_rec = "1994-10-05"

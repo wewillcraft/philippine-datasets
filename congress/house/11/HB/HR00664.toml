@@ -1,0 +1,51 @@
+billNumber = "HR00664"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00664"
+lastScraped = "2025-09-22T00:23:18.068896"
+title = "HR00664"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES THROUGH THE OVERSIGHT COMMITTEE OF THE COMMITTEE ON APPROPRIATIONS, THE COMMITTEE ON GOOD GOVERNMENT AND THE COMMITTEE ON CIVIL SERVICE & PROFESSIONAL REGULATION TO INVESTIGATE, IN AID OF LEGISLATION, DR. RAMON GUERRA, DIRECTOR OF THE WEST VISAYAS STATE UNIVERSITY HOSPITAL FOR HIS ADAMANT REFUSAL TO IMPLEMENT THE SPECIAL PROVISION AFFECTING THE HOSPITAL AS PROVIDED IN THE GAA OF 1999"
+scope = "Local"
+dateFiled = "1999-01-26"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1999-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1999-02-01"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 105122
+congress = 11
+bill_no = "HR00664"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+date_read = "1999-02-01"

@@ -1,0 +1,61 @@
+billNumber = "HB08249"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08249"
+lastScraped = "2025-09-22T00:20:58.928267"
+title = "HB08249"
+longTitle = "AN ACT CREATING THE COUNCIL OF VETERANS OF WORLD WAR II IN THE PHILIPPINE VETERANS AFFAIRS OFFICE"
+scope = "National"
+dateFiled = "1996-10-16"
+status = "Pending with the Committee on VETERANS AFFAIRS since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+coAuthors = [ "CALALAY, REYNALDO A.", "ESPINA, GERARDO S.",]
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114670
+congress = 10
+bill_no = "HB08249"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1996-11-04"

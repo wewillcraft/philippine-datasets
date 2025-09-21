@@ -1,0 +1,41 @@
+billNumber = "HR01339"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01339"
+lastScraped = "2025-09-22T00:20:59.681619"
+title = "HR01339"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, ON THE SPECIAL AUDIT UNDERTAKEN BY THE COMMISSION ON AUDIT ON THE COUNTRYWIDE DEVELOPMENT FUND (CDF) OF THE MEMBERS OF THE HOUSE OF REPRESENTATIVES , IN AID OF LEGISLATION"
+scope = "National"
+dateFiled = "1997-08-18"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-08-26"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 118393
+congress = 10
+bill_no = "HR01339"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-08-26"

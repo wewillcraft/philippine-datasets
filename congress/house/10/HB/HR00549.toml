@@ -1,0 +1,47 @@
+billNumber = "HR00549"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00549"
+lastScraped = "2025-09-22T00:20:59.525559"
+title = "HR00549"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON NATIONAL DEFENSE, COMMITTEE ON PUBLIC ORDER AND SECURITY AND COMMITTEE ON HUMAN RIGHTS TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED INVOLVEMENT OF SOME PERSONNEL OF THE PHILIPPINE NAVY STATIONED IN ZAMBOANGA CITY IN THE AMBUSH-SLAYING OF CUSTOMS OFFICERS ON FEBRUARY 20, 1996 IN STA. MARIA, ZAMBOANGA CITY"
+scope = "Local"
+dateFiled = "1996-03-19"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 117603
+congress = 10
+bill_no = "HR00549"
+comm_act = "Change of Referral from the Ctte. on RUles to the Ctte's. on National Defense and on Public Order an"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1996-03-21"

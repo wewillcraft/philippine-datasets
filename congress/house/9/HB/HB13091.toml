@@ -1,0 +1,42 @@
+billNumber = "HB13091"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13091"
+lastScraped = "2025-09-22T00:25:57.023560"
+title = "HB13091"
+longTitle = "AN ACT ESTABLISHING A TOURISM MOUNTAIN RESORT COMPLEX IN BARANGAY EVA PUZON, MUNICIPALITY OF CALANASAN, PROVINCE OF KALINGA-APAYAO"
+scope = "Local"
+dateFiled = "1994-07-13"
+status = "Pending with the Committee on TOURISM since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131700
+congress = 9
+bill_no = "HB13091"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-07-27"

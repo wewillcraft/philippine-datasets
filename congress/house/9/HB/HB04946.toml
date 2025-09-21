@@ -1,0 +1,47 @@
+billNumber = "HB04946"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04946"
+lastScraped = "2025-09-22T00:25:55.545161"
+title = "HB04946"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A SEAWALL ALONG THE SHORELINES OF THE POBLACION OF THE MUNICIPALITY OF BULALACAO, PROVINCE OF ORIENTAL MINDORO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-18"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-23"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123565
+congress = 9
+bill_no = "HB04946"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-23"

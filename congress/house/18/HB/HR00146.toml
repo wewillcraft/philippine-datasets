@@ -1,0 +1,55 @@
+billNumber = "HR00146"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00146"
+lastScraped = "2025-09-22T00:01:47.367099"
+title = "HR00146"
+longTitle = "A RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION ON THE PROLIFERATION OF COUNTERFEIT MEDICINES IN THE COUNTRY"
+scope = "National"
+dateFiled = "2019-07-29"
+status = "Pending with the Committee on HEALTH since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00146.pdf"
+fileSize = 397388
+author = "Lim, Aloy"
+coAuthors = [ "SALVADOR-TAMBUNTING, JOY MYRA",]
+[[authorsDetail]]
+name = "Lim, Aloy"
+nameCode = "Lim"
+date = "2019-07-29"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SALVADOR-TAMBUNTING, JOY MYRA"
+nameCode = "Salvador-Tambunting"
+date = "2019-09-30"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 30474
+congress = 18
+bill_no = "HR00146"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

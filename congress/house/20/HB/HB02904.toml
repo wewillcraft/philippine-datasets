@@ -1,0 +1,61 @@
+billNumber = "HB02904"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02904"
+lastScraped = "2025-09-21T23:39:48.862087"
+title = "HB02904"
+longTitle = "AN ACT INSTITUTING THE MAGNA CARTA FOR DAY CARE WORKERS AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-08-04"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2025-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02904.pdf"
+fileSize = 296092
+author = "DE LIMA, LEILA M."
+coAuthors = [ "MONTES, IRIS MARIE DEMESA", "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "DE LIMA, LEILA M."
+nameCode = "De Lima"
+date = "2025-08-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MONTES, IRIS MARIE DEMESA"
+nameCode = "Montes"
+date = "2025-09-15"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2025-08-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 2905
+congress = 103
+bill_no = "HB02904"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-06"

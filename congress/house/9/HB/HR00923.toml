@@ -1,0 +1,47 @@
+billNumber = "HR00923"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00923"
+lastScraped = "2025-09-22T00:25:57.535610"
+title = "HR00923"
+longTitle = "RESOLUTION URGING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, TO CANCEL THE ONE PESO (P1.00) PER LITER OF CRUDE OIL PRICE INCREASE IMPOSED BY THE ENERGY REGULATORY BOARD ON JANUARY 28, 1994; AND, IN EXCHANGE, TO INSTEAD SUPPORT HOUSE BILLS NUMBERED ONE HUNDRED TWELVE AND ONE HUNDRED FOURTEEN, PROPOSING REAL PROPERTY TAX AND INCOME TAX AMNESTIES, RESPECTIVELY, IN ORDER TO RAISE THE TWELVE BILLION PESOS INTENDED BY THE EXECUTIVE DEPARTMENT IN OIL PRICE INCREASE IMPOSITION SO AS TO DECREASE THE 1994BUDGET DEFICIT"
+scope = "National"
+dateFiled = "1994-02-02"
+status = "Pending with the Committee on ENERGY since 1994-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-02-08"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 134230
+congress = 9
+bill_no = "HR00923"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-02-08"

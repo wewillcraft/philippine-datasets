@@ -1,0 +1,46 @@
+billNumber = "HB03700"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03700"
+lastScraped = "2025-09-22T00:20:58.059846"
+title = "HB03700"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A COMMUNITY SPORTS CENTER IN BARANGAY 6, POBLACION, IN THE MUNICIPALITY OF MIDSAYAP, PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110121
+congress = 10
+bill_no = "HB03700"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+date_read = "1995-09-26"

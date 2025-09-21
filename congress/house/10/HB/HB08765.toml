@@ -1,0 +1,46 @@
+billNumber = "HB08765"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08765"
+lastScraped = "2025-09-22T00:20:59.034889"
+title = "HB08765"
+longTitle = "AN ACT ESTABLISHING ACUPUNCTURE AND ACUPRESSURE (REFLEXOLOGY) CLINIC AND TRAINING CENTER IN BARANGAY AGTABO, MUNICIPALITY OF PASSI, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-21"
+status = "Pending with the Committee on HEALTH since 1997-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-01-27"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115186
+congress = 10
+bill_no = "HB08765"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-01-27"

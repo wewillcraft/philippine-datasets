@@ -1,0 +1,61 @@
+billNumber = "HB02684"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB02684"
+lastScraped = "2025-09-21T23:56:41.041449"
+title = "HB02684"
+longTitle = "AN ACT DECLARING SMUGGLING OF AGRICULTURAL GOODS AS ECONOMIC SABOTAGE AND PROVIDING PENALTIES THEREOF"
+scope = "National"
+dateFiled = "2010-08-18"
+status = "Pending with the Committee on JUSTICE since 2010-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB02684.pdf"
+fileSize = 284108
+author = "ACOP, ROMEO M."
+coAuthors = [ "GOLEZ, ANTHONY ROLANDO JR. TORRILLO", "PALMONES, ANGELO B.",]
+[[authorsDetail]]
+name = "ACOP, ROMEO M."
+nameCode = "Acop"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ANTHONY ROLANDO JR. TORRILLO"
+nameCode = "Golez (A.)"
+date = ""
+journalNo = "J070"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PALMONES, ANGELO B."
+nameCode = "Palmones"
+date = ""
+journalNo = "J009"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2010-08-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 58156
+congress = 15
+bill_no = "HB02684"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-25"

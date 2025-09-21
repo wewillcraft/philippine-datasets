@@ -1,0 +1,47 @@
+billNumber = "HB04381"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04381"
+lastScraped = "2025-09-22T00:25:55.418921"
+title = "HB04381"
+longTitle = "AN ACT TO ESTABLISH A 10-BED DISTRICT HOSPITAL IN EACH MUNICIPALITY WITHOUT HOSPITAL FACILITIES, AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-10-28"
+status = "Pending with the Committee on HEALTH since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123000
+congress = 9
+bill_no = "HB04381"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-09"

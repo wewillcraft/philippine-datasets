@@ -1,0 +1,69 @@
+billNumber = "HB02132"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02132"
+lastScraped = "2025-09-22T00:13:48.228757"
+title = "Gifted Children Act of 2004"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR FILIPINO GIFTED CHILDREN, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2004-08-04"
+status = "Pending with the Committee on EDUCATION AND WELFARE OF SPECIAL PERSONS since 2004-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02132.pdf"
+fileSize = 2505424
+author = "BIRON, FERJENEL G., MD"
+coAuthors = [ "FIGUEROA, CATALINO V.", "CHATTO, EDGARDO M.", "MAGSAYSAY, EULOGIO R.",]
+[[authorsDetail]]
+name = "BIRON, FERJENEL G., MD"
+nameCode = "Biron"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MAGSAYSAY, EULOGIO R."
+nameCode = "Magsaysay"
+date = ""
+journalNo = "J066"
+sessionNo = "2RS"
+
+[[committee]]
+name = "EDUCATION AND WELFARE OF SPECIAL PERSONS"
+type = "primary"
+referralCode = "E501"
+dateRead = "2004-08-10"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 77222
+congress = 13
+bill_no = "HB02132"
+report = ""
+comm_act = ""
+referral = "E501"
+ref_name = "EDUCATION AND WELFARE OF SPECIAL PERSONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-11-09"
+date_read = "2004-08-10"

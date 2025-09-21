@@ -1,0 +1,42 @@
+billNumber = "HR00999"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00999"
+lastScraped = "2025-09-22T00:25:57.551789"
+title = "HR00999"
+longTitle = "RESOLUTION URGING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY AND THE DEPARTMENT OF TRANSPORTATION AND COMMUNICATIONS TO INCLUDE THE MARITIME COMMUNICATIONS PROJECT PHASE II IN THE 20TH OVERSEAS ECONOMIC COOPERATION FUND YEN CREDIT PACKAGE"
+scope = "National"
+dateFiled = "1994-04-05"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1994-04-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1994-04-12"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 134306
+congress = 9
+bill_no = "HR00999"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1994-04-12"

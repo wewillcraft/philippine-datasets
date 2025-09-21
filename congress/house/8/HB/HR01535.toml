@@ -1,0 +1,42 @@
+billNumber = "HR01535"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01535"
+lastScraped = "2025-09-22T00:47:02.822682"
+title = "HR01535"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LOCAL GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE MANAGEMENT AND OPERATIONS OF THE CENTRAL VISAYAS REGIONAL PROJECTS (CVRP)"
+scope = "Local"
+dateFiled = "1989-11-20"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1989-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1989-11-20"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171397
+congress = 8
+bill_no = "HR01535"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1989-11-20"

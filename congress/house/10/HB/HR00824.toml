@@ -1,0 +1,41 @@
+billNumber = "HR00824"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00824"
+lastScraped = "2025-09-22T00:20:59.580420"
+title = "HR00824"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF HEALTH TO EXTEND THE DEADLINE FOR BANNING THE USE OF POTASSIUM BROMATE TO JAN. 31, 1997"
+scope = "National"
+dateFiled = "1996-08-29"
+status = "Substituted by HR00843"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117878
+congress = 10
+bill_no = "HR00824"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-09-02"

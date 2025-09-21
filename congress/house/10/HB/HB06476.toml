@@ -1,0 +1,46 @@
+billNumber = "HB06476"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06476"
+lastScraped = "2025-09-22T00:20:58.565116"
+title = "HB06476"
+longTitle = "AN ACT DECLARING LAKE PINAMALOY IN THE MUNICIPALITY OF DON CARLOS IN THE PROVINCE OF BUKIDNON A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1996-03-05"
+status = "Pending with the Committee on TOURISM since 1996-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-03-07"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112897
+congress = 10
+bill_no = "HB06476"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-03-07"

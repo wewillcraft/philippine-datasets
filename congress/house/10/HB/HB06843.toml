@@ -1,0 +1,46 @@
+billNumber = "HB06843"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06843"
+lastScraped = "2025-09-22T00:20:58.630405"
+title = "HB06843"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY PURING, MUNICIPALITY OF BATARAZA, PROVINCE OF PALAWAN, TO BE KNOWN AS PURING NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-04-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113264
+congress = 10
+bill_no = "HB06843"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-04-30"

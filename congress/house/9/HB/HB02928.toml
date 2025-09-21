@@ -1,0 +1,47 @@
+billNumber = "HB02928"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02928"
+lastScraped = "2025-09-22T00:25:55.114699"
+title = "HB02928"
+longTitle = "AN ACT DECLARING LAKE DASAY IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF ZAMBOANGA DEL SUR, AS A TOURIST SPOT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-23"
+status = "Pending with the Committee on TOURISM since 1992-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1992-09-30"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121547
+congress = 9
+bill_no = "HB02928"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1992-09-30"

@@ -1,0 +1,61 @@
+billNumber = "HB08367"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08367"
+lastScraped = "2025-09-22T00:20:58.950248"
+title = "HB08367"
+longTitle = "AN ACT PROVIDING INCENTIVES FOR COMPANIES WITHIN SPECIAL ECONOMIC ZONES TO JOINTLY ESTABLISH COOPERATIVE GENERAL HOSPITALS OR INDUSTRIAL CLINICS FOR THE HEALTH AND SAFETY OF WORKERS AND THEIR FAMILIES WITHIN SUCH ZONES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-11-06"
+status = "Pending with the Committee on HEALTH since 1996-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Prado"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Del Prado"
+nameCode = "Del Prado"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-11-12"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 114788
+congress = 10
+bill_no = "HB08367"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-11-12"

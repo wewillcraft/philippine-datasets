@@ -1,0 +1,60 @@
+billNumber = "HR00953"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00953"
+lastScraped = "2025-09-22T00:20:59.605634"
+title = "HR00953"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON JUSTICE AND CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED OVERSTAYING OF PRISONERS WHO HAVE ALREADY SERVED THEIR SENTENCES ALLEGEDLY CAUSED BY OVERWHELMED BUREAUCRACY OR RED TAPE"
+scope = "National"
+dateFiled = "1996-11-13"
+status = "Pending with the Committee on RULES since 1996-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-18"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 118007
+congress = 10
+bill_no = "HR00953"
+comm_act = "Change of Referral from tthe Ctte. on RUles to the Ctte's. on Justice and on Civil, Political and Hu"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-18"

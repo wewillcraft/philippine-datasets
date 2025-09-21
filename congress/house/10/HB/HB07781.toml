@@ -1,0 +1,75 @@
+billNumber = "HB07781"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07781"
+lastScraped = "2025-09-22T00:20:58.800663"
+title = "HB07781"
+longTitle = "AN ACT CREATING A SEPARATE ENGINEERING DISTRICT IN THE SECOND CONGRESSIONAL DISTRICT IN THE PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "1996-08-14"
+status = "Transmitted to the President for Signature on 1998-03-25"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-08-20"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114202
+congress = 10
+bill_no = "HB07781"
+report = "00857"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-08-20"
+date_ob = "1997-04-21"
+date_report = "1997-04-08"
+
+[secondReading]
+id = 18530
+congress = 10
+bill_no = "HB07781"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-04-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3125
+congress = 10
+bill_no = "HB07781"
+date_dist = "1997-05-05"
+date_adopt = "1997-05-08"
+no_yeas = 158
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-05-08"
+date_rec = "1997-05-15"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1998-03-25"
+dte_actedp = "1998-04-17"

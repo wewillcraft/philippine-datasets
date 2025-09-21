@@ -1,0 +1,65 @@
+billNumber = "HR00821"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00821"
+lastScraped = "2025-09-22T00:20:59.579981"
+title = "HR00821"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INVESTIGATION, IN AID OF LEGISLATION, INTO THE DEATH OF VIVIAN ORDONEZ, A DOMESTIC HELPER IN JAHRA AL-KHZAR, KUWAIT, WHO DIED OF STARVATION AND TORTURE"
+scope = "Local"
+dateFiled = "1996-08-29"
+status = "Pending with the Committee on RULES since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 117875
+congress = 10
+bill_no = "HR00821"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment on Foreign Affairs"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-02"

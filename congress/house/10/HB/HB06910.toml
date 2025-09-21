@@ -1,0 +1,75 @@
+billNumber = "HB06910"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06910"
+lastScraped = "2025-09-22T00:20:58.641583"
+title = "HB06910"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF KIBAWE, PROVINCE OF BUKIDNON, TO BE KNOWN AS THE KIBAWE NATIONAL HIGH SHCOOL"
+scope = "Local"
+dateFiled = "1996-05-07"
+status = "REPUBLIC ACT RA08707 (Lapsed into law on 1998-07-16)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-09"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113331
+congress = 10
+bill_no = "HB06910"
+report = "00823"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1996-05-09"
+date_ob = "1997-03-12"
+date_report = "1997-03-11"
+
+[secondReading]
+id = 18425
+congress = 10
+bill_no = "HB06910"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3021
+congress = 10
+bill_no = "HB06910"
+date_dist = "1997-04-21"
+date_adopt = "1997-04-30"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-30"
+date_rec = "1997-05-07"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-06-10"
+dte_actedp = "1998-07-16"

@@ -1,0 +1,57 @@
+billNumber = "HB00422"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00422"
+lastScraped = "2025-09-22T00:12:59.882302"
+title = "HB00422"
+longTitle = "AN ACT TRANSFERRING THE POWERS AND FUNCTIONS OF THE OFFICE OF THE GOVERNMENT CORPORATE COUNSEL (OGCC) TO THE OFFICE OF THE SOLICITOR GENERAL (OSG)"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on JUSTICE since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Saludo"
+coAuthors = [ "ABLAN, ROQUE JR. R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Saludo"
+nameCode = "Saludo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = "J004"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 83582
+congress = 12
+bill_no = "HB00422"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-24"

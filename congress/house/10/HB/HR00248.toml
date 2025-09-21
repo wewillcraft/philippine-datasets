@@ -1,0 +1,66 @@
+billNumber = "HR00248"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00248"
+lastScraped = "2025-09-22T00:20:59.469520"
+title = "HR00248"
+longTitle = "RESOLUTION CONGRATULATING THE PHILIPPINE DELEGATION TO THE SPECIAL OLYMPICS WORLD GAMES 1995 HELD IN CONNECTICUT, UNITED STATES OF AMERICA"
+scope = "National"
+dateFiled = "1995-10-05"
+status = "Adopted as Resolution No. HR00025 on 1995-12-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117302
+congress = 10
+bill_no = "HR00248"
+report = "00063"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+recomm = "adoption"
+date_read = "1995-10-23"
+date_ob = "1995-11-16"
+date_unass = "1995-11-20"
+date_report = "1995-11-13"
+
+[secondReading]
+id = 18944
+congress = 10
+bill_no = "HR00248"
+adopted_resolution = "HR00025"
+date_calendared = "1995-11-22"
+date_approved = "1995-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00025.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00025.pdf"

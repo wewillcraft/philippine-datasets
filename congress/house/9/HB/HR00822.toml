@@ -1,0 +1,75 @@
+billNumber = "HR00822"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00822"
+lastScraped = "2025-09-22T00:25:57.519065"
+title = "HR00822"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT THE HOUSE OF REPRESENTATIVES HAS CONVENED ON SPECIAL SESSION CALLED BY HIS EXCELLENCY, THE PRESIDENT OF THE PHILIPPINES, UNDER PROCLAMATION NO. 274, THAT A QUORUM IS PRESENT AND THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "National"
+dateFiled = "1993-10-18"
+status = "Adopted as Resolution No. HR00056 on 1993-11-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Ronaldo B."
+coAuthors = [ "PEREZ, HERNANDO B.", "ALBANO, RODOLFO JR. B.", "RULES",]
+[[authorsDetail]]
+name = "Zamora, Ronaldo B."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-11-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 134134
+congress = 9
+bill_no = "HR00822"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-11-03"
+
+[secondReading]
+id = 20148
+congress = 9
+bill_no = "HR00822"
+adopted_resolution = "HR00056"
+date_approved = "1993-11-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00822.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00822.pdf"

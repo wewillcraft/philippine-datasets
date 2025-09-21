@@ -1,0 +1,52 @@
+billNumber = "HR00686"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00686"
+lastScraped = "2025-09-22T00:01:47.465757"
+title = "HR00686"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON PUBLIC ACCOUNTS AND HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE FACILITIES, CAPACITY, CAPABILITIES, AND PERFORMANCE REPORT, OF ALL PROVINCIAL, DISTRICT, REGIONAL AND SPECIALTY HOSPITALS AND COME UP WITH A NATIONWIDE DATABASE IN ORDER TO ENCOURAGE THE EFFICIENT USE OF GOVERNMENT RESOURCES AND DELIVERY OF BASIC MEDICAL SERVICES"
+scope = "National"
+dateFiled = "2020-02-03"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2020-03-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00686.pdf"
+fileSize = 910637
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2020-02-03"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2020-02-05"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 31005
+congress = 18
+bill_no = "HR00686"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-03-03"
+date_read = "2020-02-05"

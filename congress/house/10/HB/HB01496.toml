@@ -1,0 +1,46 @@
+billNumber = "HB01496"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01496"
+lastScraped = "2025-09-22T00:20:57.631203"
+title = "HB01496"
+longTitle = "AN ACT ESTABLISHING A VEGETABLE AND FRUIT TREE NURSERY AND DISTRIBUTION CENTER IN THE MUNICIPALITY OF POONA-BAYABAO, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107917
+congress = 10
+bill_no = "HB01496"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-03"

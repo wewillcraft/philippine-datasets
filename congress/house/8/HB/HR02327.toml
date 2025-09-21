@@ -1,0 +1,42 @@
+billNumber = "HR02327"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02327"
+lastScraped = "2025-09-22T00:47:03.003396"
+title = "HR02327"
+longTitle = "RESOLUTION URGING HER EXCELLENCY, PRESIDENT CORAZON C. AQUINO, FOR THE RE-OPENING OF NEGOTIATION OF THE RECENTLY-CONCLU DED R.P.-U.S. MILITARY BASES AGREEMENT"
+scope = "National"
+dateFiled = "1991-07-29"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1991-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villaviza"
+[[authorsDetail]]
+name = "Villaviza"
+nameCode = "Villaviza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1991-08-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172156
+congress = 8
+bill_no = "HR02327"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1991-08-01"

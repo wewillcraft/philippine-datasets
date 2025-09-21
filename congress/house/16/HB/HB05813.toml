@@ -1,0 +1,68 @@
+billNumber = "HB05813"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05813"
+lastScraped = "2025-09-21T23:56:22.628061"
+title = "HB05813"
+longTitle = "AN ACT CREATING THE PHILIPPINE CENTER FOR AUTISM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2015-05-28"
+status = "Referred to Stakeholders on 2016-02-11"
+statusOrder = 4.01
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05813.pdf"
+fileSize = 599172
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "AGLIPAY, EMMELINE Y.", "PRIMICIAS-AGABAS, MARLYN L.", "VILLAR, MARK AGUILAR",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2015-05-28"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "AGLIPAY, EMMELINE Y."
+nameCode = "Aglipay"
+date = "2015-05-25"
+journalNo = "J071"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2015-05-25"
+journalNo = "J071"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "VILLAR, MARK AGUILAR"
+nameCode = "Villar"
+date = "2015-08-05"
+journalNo = "J006"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2015-06-03"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 51627
+congress = 16
+bill_no = "HB05813"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-06-03"

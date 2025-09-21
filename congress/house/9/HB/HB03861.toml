@@ -1,0 +1,47 @@
+billNumber = "HB03861"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03861"
+lastScraped = "2025-09-22T00:25:55.277005"
+title = "HB03861"
+longTitle = "AN ACT APPROPRIATING FOUR MILLION PESOS (P4.0M) FOR THE CONSTRUCTION OF A 2-STOREY LIBRARY AND READING CENTER AT THE SOUTHEAST CORNER OF ARAGON AND GOV. FORBES STREETS, THIRD DISTRICT OF MANILA"
+scope = "Local"
+dateFiled = "1992-10-19"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-22"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122480
+congress = 9
+bill_no = "HB03861"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-22"

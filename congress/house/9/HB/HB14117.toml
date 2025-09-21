@@ -1,0 +1,42 @@
+billNumber = "HB14117"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14117"
+lastScraped = "2025-09-22T00:25:57.213021"
+title = "HB14117"
+longTitle = "AN ACT ESTABLISHING A MILITARY HOSPITAL IN THE CITY OF DAVAO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-11-09"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-11-14"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132726
+congress = 9
+bill_no = "HB14117"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-11-14"

@@ -1,0 +1,52 @@
+billNumber = "HB08280"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB08280"
+lastScraped = "2025-09-22T00:01:46.680655"
+title = "HB08280"
+longTitle = "AN ACT PROVIDING FOR A VACCINE OR IMMUNIZATION PASSPORT FOR COVID-19 AND OTHER INFECTIOUS DISEASES"
+scope = "National"
+dateFiled = "2020-12-17"
+status = "Pending with the Committee on HEALTH since 2021-03-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB08280.pdf"
+fileSize = 2710640
+author = "Ong, Ronnie L."
+[[authorsDetail]]
+name = "Ong, Ronnie L."
+nameCode = "Ong (R.)"
+date = "2020-12-17"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-01-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "secondary"
+referralCode = "E504"
+
+[firstReading]
+id = 27685
+congress = 18
+bill_no = "HB08280"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-03-02"
+date_read = "2021-01-18"

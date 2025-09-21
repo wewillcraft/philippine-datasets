@@ -1,0 +1,47 @@
+billNumber = "HR01512"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01512"
+lastScraped = "2025-09-21T23:55:46.535494"
+title = "HR01512"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CONTINUOUS DROP  IN THE MILL GATE SUGAR PRICES IN THE COUNTRY"
+scope = "National"
+dateFiled = "2017-12-06"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2018-01-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01512.pdf"
+fileSize = 303014
+author = "BENITEZ, ALFREDO \"ALBEE\" B."
+[[authorsDetail]]
+name = "BENITEZ, ALFREDO \"ALBEE\" B."
+nameCode = "Benitez"
+date = "2017-12-06"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2017-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 44254
+congress = 17
+bill_no = "HR01512"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-01-17"
+date_read = "2017-12-12"

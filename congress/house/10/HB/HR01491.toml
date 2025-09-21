@@ -1,0 +1,41 @@
+billNumber = "HR01491"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01491"
+lastScraped = "2025-09-22T00:20:59.708183"
+title = "HR01491"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY, COMMITTEE ON JUSTICE AND THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY INTO THE OLALIA-ALAY-AY DOUBLE MURDER TO DETERMINE THE EXTENT OF THE ALLEGED USE OF MILITARY FACILTIES AND GOVERNMENT RESOURCES IN THE PERPETRATION OF HEINOUS ACTIVITIES BY THE MILITARY"
+scope = "Local"
+dateFiled = "1998-01-13"
+status = "Pending with the Committee on JUSTICE since 1998-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "GLOBALIZATION AND WTO"
+type = "principal"
+referralCode = "D504"
+
+[firstReading]
+id = 118545
+congress = 10
+bill_no = "HR01491"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1998-01-19"

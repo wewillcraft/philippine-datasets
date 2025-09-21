@@ -1,0 +1,70 @@
+billNumber = "HB07940"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07940"
+lastScraped = "2025-09-22T00:20:58.869980"
+title = "HB07940"
+longTitle = "AN ACT CONVERTING THE ZARAGOSA-SAN ANTONIO-SAN ANTONIO- BULUALTO RAOD IN THE PROVINCE OF NUEVA ECIJA, INTO NATIONAL ROADS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-09-12"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114361
+congress = 10
+bill_no = "HB07940"
+report = "01090"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-09-23"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 18543
+congress = 10
+bill_no = "HB07940"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3137
+congress = 10
+bill_no = "HB07940"
+date_dist = "1997-10-08"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"

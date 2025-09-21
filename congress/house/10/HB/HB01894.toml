@@ -1,0 +1,54 @@
+billNumber = "HB01894"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01894"
+lastScraped = "2025-09-22T00:20:57.702825"
+title = "HB01894"
+longTitle = "AN ACT PROVIDING SAFETY NETS THAT WOULD ENABLE THE AGRICULTURAL SECTOR TO ADJUST TO AND BE MORE COMPETITIVE IN THE FACE OF THE GENERAL AGREEMENT OF TARIFF AND TRADE (GATT), AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "ALMENDRAS, ALEJANDRO JR. C.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALMENDRAS, ALEJANDRO JR. C."
+nameCode = "Almendras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108315
+congress = 10
+bill_no = "HB01894"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-09"

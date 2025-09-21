@@ -1,0 +1,59 @@
+billNumber = "HB10301"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10301"
+lastScraped = "2025-09-22T00:20:59.355304"
+title = "HB10301"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TUMAPON IN THE MUNICIPALITY OF BOAC, PROVINCE OF MARINDUQUE, TO BE KNOWN AS THE DR. EMILIO M. NEPOMUCENO NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-11-18"
+status = "Approved on Second Reading on 1998-02-20"
+statusOrder = 13.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-11-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116722
+congress = 10
+bill_no = "HB10301"
+report = "01501"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1997-11-24"
+date_ob = "1998-02-19"
+date_report = "1998-02-18"
+
+[secondReading]
+id = 18821
+congress = 10
+bill_no = "HB10301"
+remarks = "Considered the Explanatory Note as the Sponsorship speech"
+date_approved = "1998-02-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

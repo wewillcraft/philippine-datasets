@@ -1,0 +1,70 @@
+billNumber = "HB01908"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01908"
+lastScraped = "2025-09-22T00:13:00.147101"
+title = "HB01908"
+longTitle = "AN ACT DEFINING COMPUTER CRIMES, PROVIDING PENALTIES THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-08-02"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 2001-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+coAuthors = [ "BIAZON, ROZZANO RUFINO B.", "ECHIVERRI, ENRICO R.", "ESPINO, AMADO JR. T.",]
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BIAZON, ROZZANO RUFINO B."
+nameCode = "Biazon"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "2001-08-08"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85068
+congress = 12
+bill_no = "HB01908"
+comm_act = "chge of cttee. ref'l from Revision of Laws and Appropriat ions as per J. 76; p.35"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = ""
+date_read = "2001-08-08"

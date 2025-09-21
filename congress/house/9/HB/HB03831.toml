@@ -1,0 +1,47 @@
+billNumber = "HB03831"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03831"
+lastScraped = "2025-09-22T00:25:55.272078"
+title = "HB03831"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A DAY-CARE CENTER IN BARANGAY BULILAN SUR IN THE MUNICIPALITY OF PILA, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-19"
+status = "Pending with the Committee on SOCIAL SERVICES since 1992-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1992-10-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122450
+congress = 9
+bill_no = "HB03831"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1992-10-21"

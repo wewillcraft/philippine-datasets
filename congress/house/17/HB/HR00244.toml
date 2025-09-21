@@ -1,0 +1,55 @@
+billNumber = "HR00244"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00244"
+lastScraped = "2025-09-21T23:55:46.265458"
+title = "HR00244"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED INCREASED CASH OUT AND SUBSTANDARD HEMODIALYSIS SERVICES FOR SERVICE PATIENTS IN THE NATIONAL KIDNEY AND TRANSPLANT INSTITUTE, AND THE POOR PLIGHT OF HEMODIALYSIS PATIENTS IN GENERAL"
+scope = "National"
+dateFiled = "2016-08-17"
+status = "Substituted by HB09156"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00244.pdf"
+fileSize = 769524
+author = "Zarate, Carlos Isagani T."
+coAuthors = [ "ROBES, FLORIDA P.",]
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2016-08-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROBES, FLORIDA P."
+nameCode = "Robes"
+date = "2017-05-30"
+journalNo = "J096"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 42987
+congress = 17
+bill_no = "HR00244"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-19"
+date_read = "2016-08-24"

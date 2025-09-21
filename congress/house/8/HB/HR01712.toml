@@ -1,0 +1,42 @@
+billNumber = "HR01712"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01712"
+lastScraped = "2025-09-22T00:47:02.871150"
+title = "HR01712"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF HEALTH TO EXTEND TECHNICAL AND FINANCIAL ASSISTANCE TO DRUG MANUFACTURERS SO AS TO ENCOURAGE THE PRIVATE SECTOR TO ENTER INTO THE DRUG INDUSTRY"
+scope = "National"
+dateFiled = "1990-03-27"
+status = "Pending with the Committee on HEALTH since 1990-03-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua"
+[[authorsDetail]]
+name = "Fua"
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1990-03-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171554
+congress = 8
+bill_no = "HR01712"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1990-03-27"

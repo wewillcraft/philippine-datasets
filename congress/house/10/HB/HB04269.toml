@@ -1,0 +1,79 @@
+billNumber = "HB04269"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04269"
+lastScraped = "2025-09-22T00:20:58.173354"
+title = "HB04269"
+longTitle = "AN ACT DECLARING THE MUNICIPALITY OF IROSIN, PROVINCE OF SORSOGON, A TOURIST SPOT/ZONE"
+scope = "Local"
+dateFiled = "1995-10-05"
+status = "Approved by the House on 1997-08-26, transmitted to on 1997-08-27 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "LAUDICO, MINERVA G.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LAUDICO, MINERVA G."
+nameCode = "Laudico"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110690
+congress = 10
+bill_no = "HB04269"
+report = "01014"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-10-23"
+date_ob = "1997-08-05"
+date_report = "1997-08-04"
+
+[secondReading]
+id = 18100
+congress = 10
+bill_no = "HB04269"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-08-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2710
+congress = 10
+bill_no = "HB04269"
+date_dist = "1997-08-13"
+date_adopt = "1997-08-26"
+no_yeas = 172
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-27"
+date_rec = "1997-09-01"

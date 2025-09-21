@@ -1,0 +1,83 @@
+billNumber = "HB01236"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01236"
+lastScraped = "2025-09-22T00:13:00.027420"
+title = "HB01236"
+longTitle = "AN ACT CREATING THE SCIENCE AND TECHNOLOGY FUND AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "REAL, ISIDRO JR. E.", "BADELLES, ALIPIO CIRILO V.", "CHIPECO, JOAQUIN JR. M.", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "REAL, ISIDRO JR. E."
+nameCode = "Real"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = "Badelles"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84396
+congress = 12
+bill_no = "HB01236"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = ""
+date_read = "2001-07-30"

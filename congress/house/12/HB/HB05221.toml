@@ -1,0 +1,42 @@
+billNumber = "HB05221"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05221"
+lastScraped = "2025-09-22T00:13:00.770221"
+title = "HB05221"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED(RE: INCOME TAX REFORM ACT)"
+scope = "National"
+dateFiled = "2002-09-04"
+status = "Pending with the Committee on WAYS AND MEANS since 2002-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LEDESMA, JULIO A., IV"
+[[authorsDetail]]
+name = "LEDESMA, JULIO A., IV"
+nameCode = "Ledesma"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2002-09-30"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 88376
+congress = 12
+bill_no = "HB05221"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2002-09-30"

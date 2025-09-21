@@ -1,0 +1,42 @@
+billNumber = "HB13122"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13122"
+lastScraped = "2025-09-22T00:25:57.029055"
+title = "HB13122"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A HORTICULTURE CENTER IN TALON IV, MUNICIPALITY OF LAS PINAS, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-07-15"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131731
+congress = 9
+bill_no = "HB13122"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-07-27"

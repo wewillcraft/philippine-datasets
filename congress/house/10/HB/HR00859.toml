@@ -1,0 +1,52 @@
+billNumber = "HR00859"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00859"
+lastScraped = "2025-09-22T00:20:59.587036"
+title = "HR00859"
+longTitle = "RESOLUTION EXPRESSING THE DEEP APPRECIATION AND PROFOUND GRATITUDE OF THE HOUSE OF REPRESENTATIVES TO HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, FOR HIS GREAT CONCERN AND UNTIRING EFFORTS TO SECURE THE EARLY RELEASE OF MS. SARAH BALABAGAN FROM AL AINPRISON IN ABU DHABI AND TO HIS EXCELLENCY SHEIK ZAYED BIN SULTAN AL NAHYAN, PRESIDENT OF THE UNITED ARAB EMIRATES, FOR HIS MAGNANIMITY IN GRANTING PAROLE TO THE SAID FILIPINA MIGRANT WORKER"
+scope = "Local"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on RULES since 1996-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00757"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR00773"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00757"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00773"
+flag = "S"
+
+[firstReading]
+id = 117913
+congress = 10
+bill_no = "HR00859"
+report = "00600"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption in substituti on of H.R. Nos. 757 and 773"
+date_read = "1996-09-24"

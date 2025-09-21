@@ -1,0 +1,54 @@
+billNumber = "HB01794"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01794"
+lastScraped = "2025-09-21T23:39:48.663651"
+title = "HB01794"
+longTitle = "AN ACT MANDATING THAT PATIENTS WITH CONGENITAL HEART DISEASE BE GIVEN THE SAME PRIVILEGES AS PERSONS WITH DISABILITIES (PWDs), AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-14"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01794.pdf"
+fileSize = 351173
+author = "BENITEZ, JAVIER MIGUEL LOPEZ"
+coAuthors = [ "VILLAFUERTE, VINCENZO RENATO LUIGI R.",]
+[[authorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-07-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VILLAFUERTE, VINCENZO RENATO LUIGI R."
+nameCode = "Villafuerte (V. R. L. R.)"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 1795
+congress = 103
+bill_no = "HB01794"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

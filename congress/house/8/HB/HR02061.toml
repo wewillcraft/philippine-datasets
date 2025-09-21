@@ -1,0 +1,50 @@
+billNumber = "HR02061"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02061"
+lastScraped = "2025-09-22T00:47:02.934058"
+title = "HR02061"
+longTitle = "RESOLUTION URGING THE EXECUTIVE DEPARTMENT TO ADHERE AND STRICTLY ENFORCE THE POLICY OF FREEDOM FROM NUCLEAR WEAPONS AS ENUNCIATED UNDER THE 1987 CONSTITUTION"
+scope = "National"
+dateFiled = "1990-11-29"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1990-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1990-12-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171897
+congress = 8
+bill_no = "HR02061"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1990-12-05"

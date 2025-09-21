@@ -1,0 +1,53 @@
+billNumber = "HB01814"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01814"
+lastScraped = "2025-09-22T00:25:54.919391"
+title = "HB01814"
+longTitle = "AN ACT ESTABLISHING INDUSTRIAL ZONES OR ESTATES IN THE FIVE TOWNS OF THE THIRD DISTRICT OF PAMPANGA"
+scope = "Local"
+dateFiled = "1992-08-31"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1992-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Domingo"
+[[authorsDetail]]
+name = "Domingo"
+nameCode = "Domingo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1992-09-02"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "secondary"
+referralCode = "0533"
+
+[firstReading]
+id = 120433
+congress = 9
+bill_no = "HB01814"
+comm_act = "joint referral as per Ctte. on Rules Memo dtd. Jan. 27, 1994"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1992-09-02"

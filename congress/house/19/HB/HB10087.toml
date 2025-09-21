@@ -1,0 +1,71 @@
+billNumber = "HB10087"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB10087"
+lastScraped = "2025-09-21T23:55:22.146188"
+title = "HB10087"
+longTitle = "AN ACT MANDATING THE ESTABLISHMENT OF COLD STORAGE FACILITIES IN EVERY PROVINCE FOR FOOD SECURITY\r\n"
+scope = "National"
+dateFiled = "2024-03-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2024-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB10087.pdf"
+fileSize = 557396
+author = "REVILLA, BRYAN B."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "REVILLA, BRYAN B."
+nameCode = "Revilla (B.)"
+date = "2024-03-11"
+sequence = 1
+
+[[authorsDetail]]
+name = "MERCADO-REVILLA, LANI"
+nameCode = "Mercado-Revilla"
+date = "2024-03-11"
+sequence = 2
+
+[[authorsDetail]]
+name = "REVILLA, RAMON JOLO III B."
+nameCode = "Revilla (R.J.)"
+date = "2024-03-11"
+sequence = 3
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-05-14"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2024-03-13"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 15006
+congress = 19
+bill_no = "HB10087"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2024-03-13"

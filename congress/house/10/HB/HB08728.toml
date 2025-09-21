@@ -1,0 +1,61 @@
+billNumber = "HB08728"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08728"
+lastScraped = "2025-09-22T00:20:59.027931"
+title = "HB08728"
+longTitle = "AN ACT TO DECLARE AS NATIONAL HEROES THOSE WHO LED THE REVOLUTION AGAINST SPAIN AND THE UNITED STATES IN MINDANAO"
+scope = "National"
+dateFiled = "1997-01-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-01-22"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115149
+congress = 10
+bill_no = "HB08728"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-01-22"

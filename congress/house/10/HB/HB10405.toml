@@ -1,0 +1,46 @@
+billNumber = "HB10405"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10405"
+lastScraped = "2025-09-22T00:20:59.376872"
+title = "HB10405"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE BARANGAY OF CARUGDOG, MUNICIPALITY OF LEZO, PROVINCE OF AKLAN, TO BE KNOWN AS THE CATALINO M. PRADO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-12-16"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-12-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116826
+congress = 10
+bill_no = "HB10405"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-12-18"

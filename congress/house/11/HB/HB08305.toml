@@ -1,0 +1,70 @@
+billNumber = "HB08305"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08305"
+lastScraped = "2025-09-22T00:23:17.116177"
+title = "HB08305"
+longTitle = "AN ACT CONVERTING THE CARMEN AGUSAN DEL NORTE AND MAGSAYSAY MISAMIS ORIENTAL COASTAL ROAD INTO A NATIONAL ROAD"
+scope = "Local"
+dateFiled = "1999-09-08"
+status = "Approved by the House on 2000-08-09 and transmitted to the Senate on 2000-08-10"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1999-09-14"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 99740
+congress = 11
+bill_no = "HB08305"
+report = "00918"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendments"
+date_read = "1999-09-14"
+date_ob = "2000-05-30"
+date_report = "2000-05-30"
+
+[secondReading]
+id = 16954
+congress = 11
+bill_no = "HB08305"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-05-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4204
+congress = 11
+bill_no = "HB08305"
+date_dist = "2000-06-05"
+date_adopt = "2000-08-09"
+no_yeas = 124
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-08-10"

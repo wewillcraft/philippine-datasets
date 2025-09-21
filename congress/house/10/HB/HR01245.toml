@@ -1,0 +1,41 @@
+billNumber = "HR01245"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01245"
+lastScraped = "2025-09-22T00:20:59.664625"
+title = "HR01245"
+longTitle = "RESOLUTION URGING THE COMMISSION ON ELECTIONS TO RECOMMEND HIS EXCELLENCY, PRESIDENT FIDEL VALDEZ RAMOS, TO DECLARE SPECIAL NONWORKING HOLIDAYS ONE (1) DAY BEFORE AND ONE (1) DAY AFTER ITS SCHEDULED GENERAL REGISTRATION DATES ON JUNE 14 AND 15, ANDJUNE 21 AND 22, 1997"
+scope = "National"
+dateFiled = "1997-06-02"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118299
+congress = 10
+bill_no = "HR01245"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+date_read = "1997-06-04"

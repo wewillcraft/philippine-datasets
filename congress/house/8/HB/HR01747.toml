@@ -1,0 +1,42 @@
+billNumber = "HR01747"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01747"
+lastScraped = "2025-09-22T00:47:02.876546"
+title = "HR01747"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION TRACING THE CAUSES OF OUR PRESENT POWER CRISIS AND HOW TO SOLVE THE SAME"
+scope = "National"
+dateFiled = "1990-05-15"
+status = "Pending with the Committee on ENERGY since 1990-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-05-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171586
+congress = 8
+bill_no = "HR01747"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-05-21"

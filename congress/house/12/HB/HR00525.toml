@@ -1,0 +1,65 @@
+billNumber = "HR00525"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00525"
+lastScraped = "2025-09-22T00:13:01.255399"
+title = "HR00525"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, THE RAPE INCIDENT INVOLVING A WITNESS PROTECTION PROGRAM GUARD AND A LADY WITNESS THAT HAS RUINED THE WITNESS PROTECTION PROGRAM (REPUBLIC ACT NO. 6981) OF THE GOVERNMENT"
+scope = "Local"
+dateFiled = "2002-04-23"
+status = "Adopted Resolution (Pending with the committee on JUSTICE since 2002-05-23)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gunigundo"
+[[authorsDetail]]
+name = "Gunigundo"
+nameCode = "Gunigundo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-04-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HR00532"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00532"
+flag = "S"
+
+[firstReading]
+id = 90462
+congress = 12
+bill_no = "HR00525"
+report = "00499"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendments , in consolidat ion with House Resolution No. 532."
+date_read = "2002-04-29"
+date_report = "2002-05-23"
+
+[secondReading]
+id = 15174
+congress = 12
+bill_no = "HR00525"
+adopted_resolution = "HR00253"
+adopted_resolution_title = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE RAPE INCIDENT INVOLVING A WITNESS PROTECTION PROGRAM GUARD AND A LADY WITNESS THAT HAS RUINED THE WITNESS PROTECTION PROGRAM (REPUBLIC ACT NO. 6981) OF THE GOVERNMENT"
+date_calendared = "2002-05-23"
+date_approved = "2002-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-05-23"

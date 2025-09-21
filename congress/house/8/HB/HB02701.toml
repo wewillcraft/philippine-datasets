@@ -1,0 +1,42 @@
+billNumber = "HB02701"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02701"
+lastScraped = "2025-09-22T00:46:57.040087"
+title = "HB02701"
+longTitle = "AN ACT CREATING BARANGAY PROVIDENT VILLAGE IN THEMUNICIPALITY OF MARIKINA, METRO MANILA"
+scope = "Local"
+dateFiled = "1987-10-13"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-10-15"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 137390
+congress = 8
+bill_no = "HB02701"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-10-15"

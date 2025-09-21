@@ -1,0 +1,46 @@
+billNumber = "HB03742"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03742"
+lastScraped = "2025-09-22T00:20:58.067638"
+title = "HB03742"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MUNAI, PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE MUNAI MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-21"
+status = "Pending with the Committee on HEALTH since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110163
+congress = 10
+bill_no = "HB03742"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-09-26"

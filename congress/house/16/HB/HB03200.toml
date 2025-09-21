@@ -1,0 +1,54 @@
+billNumber = "HB03200"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB03200"
+lastScraped = "2025-09-21T23:56:22.054583"
+title = "HB03200"
+longTitle = "AN ACT TO ASSIST INDIGENT CANCER PATIENTS AND THEIR FAMILIES, ESTABLISHING FOR THE PURPOSE A CANCER ASSISTANCE FUND AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-10-21"
+status = "Pending with the Committee on HEALTH since 2013-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB03200.pdf"
+fileSize = 240683
+author = "Villar, Mark A."
+coAuthors = [ "LOBREGAT, CELSO",]
+[[authorsDetail]]
+name = "Villar, Mark A."
+nameCode = "Villar"
+date = "2013-10-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, CELSO"
+nameCode = "Lobregat"
+date = "2014-06-09"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-11-18"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 49014
+congress = 16
+bill_no = "HB03200"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-11-18"

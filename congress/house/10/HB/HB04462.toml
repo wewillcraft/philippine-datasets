@@ -1,0 +1,72 @@
+billNumber = "HB04462"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04462"
+lastScraped = "2025-09-22T00:20:58.205542"
+title = "HB04462"
+longTitle = "AN ACT ESTABLISHING A TRIBAL FOREST MANAGEMENT TRAINING CENTER IN BARANGAY EVA PUZON, MUNICIPALITY OF CALANASAN, PROVINCE OF APAYAO (Title as amended - AN ACT ESTABLISHING TRIBAL FOREST MANAGEMENT TRAINING CENTERS ONE IN EACH REGION OF THE COUNTRY WHERE THERE ARE PREDOMINANT MEMBERS OF THE TRIBAL COMMUNITIES)"
+scope = "Local"
+dateFiled = "1995-10-17"
+status = "Approved by the House on 1996-11-12 and transmitted to the Senate on 1996-11-13"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110883
+congress = 10
+bill_no = "HB04462"
+report = "00394"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "approval with amendments"
+date_read = "1995-10-25"
+date_ob = "1996-05-15"
+date_unass = "1996-07-25"
+date_report = "1996-05-10"
+
+[secondReading]
+id = 18110
+congress = 10
+bill_no = "HB04462"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1996-08-20"
+date_approved = "1996-09-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2720
+congress = 10
+bill_no = "HB04462"
+date_dist = "1996-09-23"
+date_adopt = "1996-11-12"
+no_yeas = 162
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-11-13"

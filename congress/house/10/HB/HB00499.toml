@@ -1,0 +1,54 @@
+billNumber = "HB00499"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00499"
+lastScraped = "2025-09-22T00:20:57.464050"
+title = "HB00499"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF FLYOVER AT THE INTERSECTION OF M.J. CUENCO AND SAN JOSE DE LA MONTANA IN THE CITY OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-07"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+coAuthors = [ "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106920
+congress = 10
+bill_no = "HB00499"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-07-27"

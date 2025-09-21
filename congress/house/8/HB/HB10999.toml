@@ -1,0 +1,42 @@
+billNumber = "HB10999"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10999"
+lastScraped = "2025-09-22T00:46:58.506092"
+title = "HB10999"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN POBLACION ILAWOD, MUNICIPALITY OF SARA, PROVINCE OFILOILO, TO BE KNOWN AS THE ILAWOD BARANGAY HEALTHCENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-25"
+status = "Pending with the Committee on HEALTH since 1988-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-30"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[firstReading]
+id = 145668
+congress = 8
+bill_no = "HB10999"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-30"

@@ -1,0 +1,75 @@
+billNumber = "HB08082"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08082"
+lastScraped = "2025-09-22T00:20:58.894892"
+title = "HB08082"
+longTitle = "AN ACT TO PROMOTE THE DEVELOPMENT OF THE ORCHID INDUSTRY"
+scope = "National"
+dateFiled = "1996-10-03"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "ENVERGA, WILFRIDO L.", "BULUT, ELIAS K.", "DEL MAR, RAUL V.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ENVERGA, WILFRIDO L."
+nameCode = "Enverga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BULUT, ELIAS K."
+nameCode = "Bulut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-10-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114503
+congress = 10
+bill_no = "HB08082"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-10-08"

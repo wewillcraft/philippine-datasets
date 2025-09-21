@@ -1,0 +1,42 @@
+billNumber = "HB01233"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01233"
+lastScraped = "2025-09-22T00:46:56.780125"
+title = "HB01233"
+longTitle = "AN ACT ESTABLISHING A TOMATO PROCESSING PLANT IN THE MUNICIPALITY OF VILLANUEVA, PROVINCE OF MISAMIS ORIENTAL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-08"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-10"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 135929
+congress = 8
+bill_no = "HB01233"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-10"

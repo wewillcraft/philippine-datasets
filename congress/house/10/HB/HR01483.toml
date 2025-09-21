@@ -1,0 +1,41 @@
+billNumber = "HR01483"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01483"
+lastScraped = "2025-09-22T00:20:59.706828"
+title = "HR01483"
+longTitle = "RESOLUTION URGING ALL ECONOMIC AND FINANCIAL LEADERS TO ADOPT EMERGENCY ECONOMY MEASURES TO SOLVE THE ECONOMIC CRISIS CAUSED BY THE DEVALUATION OF THE PHILIPPINE PESO"
+scope = "National"
+dateFiled = "1998-01-09"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1998-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1998-01-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118537
+congress = 10
+bill_no = "HR01483"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1998-01-12"

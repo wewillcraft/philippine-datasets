@@ -1,0 +1,55 @@
+billNumber = "HB10343"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10343"
+lastScraped = "2025-09-22T00:20:59.362823"
+title = "HB10343"
+longTitle = "AN ACT AMENDING SECTION 42 OF REPUBLIC ACT NO. 7920, OTHERWISE KNOWN AS THE NEW ELECTRICAL ENGINEERING LAW OF 1995, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-11-28"
+status = "Approved on Second Reading on 1998-02-18"
+statusOrder = 13.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1997-12-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 116764
+congress = 10
+bill_no = "HB10343"
+report = "01474"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+recomm = "approval with amendments"
+date_read = "1997-12-03"
+date_ob = "1998-02-18"
+date_report = "1998-02-04"
+
+[secondReading]
+id = 18828
+congress = 10
+bill_no = "HB10343"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1998-02-05"
+date_approved = "1998-02-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,52 @@
+billNumber = "HR00942"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00942"
+lastScraped = "2025-09-22T00:20:59.603514"
+title = "HR00942"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEE ON HEALTH TO INQUIRE INTO THE PLIGHT OF HEALTH WORKERS IN THE PRIVATE SECTOR, THE NON-IMPLEMENTAT ION OF CERTAIN PROVISIONS OF THE MAGNA CARTA FOR PUBLIC HEALTH WORKERS, AND TO RECOMMEND REMEDIAL MEASURES"
+scope = "National"
+dateFiled = "1996-11-06"
+status = "Pending with the Committee on RULES since 1996-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Prado"
+[[authorsDetail]]
+name = "Del Prado"
+nameCode = "Del Prado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-12"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 117996
+congress = 10
+bill_no = "HR00942"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment and on Health on N"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-12"

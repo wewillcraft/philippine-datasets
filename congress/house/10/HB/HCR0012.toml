@@ -1,0 +1,41 @@
+billNumber = "HCR0012"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0012"
+lastScraped = "2025-09-22T00:20:59.408658"
+title = "HCR0012"
+longTitle = "CONCURRENT RESOLUTION CALLING FOR A CONSTITUTIONAL AMENDMENT TO ARTICLE VI, SEC. 26 (2) ON THE MANNER OF ENACTING ANY BILL INTO A LAW IN ORDER TO EFFICIENTLY EXPEDITE THE PROCESS OF LEGISLATION"
+scope = "National"
+dateFiled = "1995-10-17"
+status = "Substituted by HCR0040"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "0507"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116983
+congress = 10
+bill_no = "HCR0012"
+referral = "0507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+date_read = "1995-10-25"

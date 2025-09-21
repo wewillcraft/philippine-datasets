@@ -1,0 +1,41 @@
+billNumber = "HR00384"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00384"
+lastScraped = "2025-09-22T00:23:18.017528"
+title = "HR00384"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE INDISCRIMINATE USE OF PESTICIDES WHICH SERIOUSLY THREATEN THE HEALTH OF THE PEOPLE"
+scope = "National"
+dateFiled = "1998-09-30"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1998-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1998-10-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 104842
+congress = 11
+bill_no = "HR00384"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1998-10-06"

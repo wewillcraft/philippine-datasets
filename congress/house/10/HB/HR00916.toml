@@ -1,0 +1,41 @@
+billNumber = "HR00916"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00916"
+lastScraped = "2025-09-22T00:20:59.597780"
+title = "HR00916"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO INQUIRE, IN AID OF LEGISLATION, INTO THE LONG DELAYED INTERCONNECTION BETWEEN THE ANGELES CITY TELEPHONE SYSTEM (ACTS) AND DIGITEL BOTH OPERATING IN ANGELES CITY"
+scope = "Local"
+dateFiled = "1996-10-15"
+status = "Pending with the Committee on RULES since 1996-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-17"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117970
+congress = 10
+bill_no = "HR00916"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-17"

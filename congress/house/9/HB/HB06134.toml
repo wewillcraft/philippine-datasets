@@ -1,0 +1,47 @@
+billNumber = "HB06134"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06134"
+lastScraped = "2025-09-22T00:25:55.742388"
+title = "HB06134"
+longTitle = "AN ACT CREATING BARANGAY GUIAYAN IN DUPAX DEL NORTE, PROVINCE OF NUEVA VIZCAYA"
+scope = "Local"
+dateFiled = "1992-12-17"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-01-18"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124753
+congress = 9
+bill_no = "HB06134"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-01-18"

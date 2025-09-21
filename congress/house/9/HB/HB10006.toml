@@ -1,0 +1,62 @@
+billNumber = "HB10006"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10006"
+lastScraped = "2025-09-22T00:25:56.403911"
+title = "HB10006"
+longTitle = "AN ACT PROVIDING THAT THE LOWER COURTS SHALL BE OPEN TWENTY-FOUR HOURS A DAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1993-07-28"
+status = "Pending with the Committee on JUSTICE since 1993-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap, Jose V."
+coAuthors = [ "LIBAN, DANTE V.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Yap, Jose V."
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-08-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128624
+congress = 9
+bill_no = "HB10006"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-08-02"

@@ -1,0 +1,54 @@
+billNumber = "HB01602"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01602"
+lastScraped = "2025-09-22T00:20:57.649093"
+title = "HB01602"
+longTitle = "AN ACT INCREASING THE SALARIES OF SENIOR AND JUNIOR RESIDENTS IN GOVERNMENT SERVICE HOSPITALS AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on HEALTH since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+coAuthors = [ "ESPINA, GERARDO S.",]
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108023
+congress = 10
+bill_no = "HB01602"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-03"

@@ -1,0 +1,76 @@
+billNumber = "HR00412"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00412"
+lastScraped = "2025-09-22T00:25:57.441126"
+title = "HR00412"
+longTitle = "RESOLUTION COMMENDING THE SENATE AND HOUSE COMMITTEES ON YOUTH AND SPORTS DEVELOPMENT, MS. CRISTY RAMOS-JALASCO, THE SPORTS SUMMIT ORGANIZING COMMITTEE AND THE PARTICIPANTS FOR THE SUCCESSFUL STAGING OF THE FIRST PHILIPPINE SPORTS SUMMIT HELD IN TEACHERS CAMP, BAGUIO CITY LAST OCTOBER 24-26, 1992"
+scope = "Local"
+dateFiled = "1992-12-17"
+status = "Adopted as Resolution No. HR00022 on 1993-01-20"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nazareno"
+coAuthors = [ "YOUTH AND SPORTS DEVELOPMENT",]
+[[authorsDetail]]
+name = "Nazareno"
+nameCode = "Nazareno"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[motherBills]]
+bill_no = "HR00295"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00295"
+flag = "S"
+
+[firstReading]
+id = 133724
+congress = 9
+bill_no = "HR00412"
+report = "00049"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "YOUTH AND SPORTS DEVELOPMENT"
+recomm = "Adoption, in substituti on of H.R. 295"
+date_read = "1993-01-19"
+date_ob = "1993-01-19"
+date_cal = "1993-01-19"
+date_unass = "1993-01-19"
+date_report = "1992-12-17"
+
+[secondReading]
+id = 20111
+congress = 9
+bill_no = "HR00412"
+adopted_resolution = "HR00022"
+date_calendared = "1993-01-19"
+date_approved = "1993-01-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00412.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00412.pdf"

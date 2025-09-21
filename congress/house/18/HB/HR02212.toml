@@ -1,0 +1,46 @@
+billNumber = "HR02212"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02212"
+lastScraped = "2025-09-22T00:01:47.776537"
+title = "HR02212"
+longTitle = "A RESOLUTION URGING THE DEPARTMENT OF TRANSPORTATION AND PHILIPPINE PORTS\r\nAUTHORITY TO TAKE IMMEDIATE ACTION AGAINST THE CONGESTION IN THE PORT OF MANILA, MAKE IMMEDIATE RECOMMENDATIONS TO THE COMMITTEE ON TRANSPORTATION FOR SHORT-TERM AND LONG-TERM PLANS ADDRESSING THESE ISSUES"
+scope = "National"
+dateFiled = "2021-09-13"
+status = "Pending with the Committee on TRANSPORTATION since 2021-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR02212.pdf"
+fileSize = 274938
+author = "Lacson, Virgilio S."
+[[authorsDetail]]
+name = "Lacson, Virgilio S."
+nameCode = "Lacson"
+date = "2021-09-13"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2021-09-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 32529
+congress = 18
+bill_no = "HR02212"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-09-15"

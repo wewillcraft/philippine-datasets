@@ -1,0 +1,79 @@
+billNumber = "HB01139"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01139"
+lastScraped = "2025-09-22T00:20:57.569675"
+title = "HB01139"
+longTitle = "AN ACT CONVERTING THE TWELVE (12) KILOMETERS CUMADCAD-MACALA YA PROVINCIAL ROAD IN THE MUNICIPALITY OF CASTILLA, PROVINCE OF SORSOGON, INTO A NATIONAL ROAD, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-20"
+status = "Approved by the House on 1997-10-20, transmitted to on 1997-10-21 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107560
+congress = 10
+bill_no = "HB01139"
+report = "01103"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-07-31"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 17750
+congress = 10
+bill_no = "HB01139"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2372
+congress = 10
+bill_no = "HB01139"
+date_dist = "1997-10-08"
+date_adopt = "1997-10-20"
+no_yeas = 149
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-21"
+date_rec = "1997-10-23"

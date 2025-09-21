@@ -1,0 +1,46 @@
+billNumber = "HB05035"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05035"
+lastScraped = "2025-09-22T00:20:58.302787"
+title = "HB05035"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A GARBAGE RECYCLING CENTER IN BARANGAY ALABANG, MUNTINLUPA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-14"
+status = "Substituted by HB08622"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111456
+congress = 10
+bill_no = "HB05035"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-11-20"

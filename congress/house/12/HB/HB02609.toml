@@ -1,0 +1,64 @@
+billNumber = "HB02609"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02609"
+lastScraped = "2025-09-22T00:13:00.266290"
+title = "HB02609"
+longTitle = "AN ACT PROVIDING FREE MEDICAL SERVICES TO RETIRED FILIPINO GOVERNMENT PERSONNEL IN GOVERNMENT-OWNE D AND -OPERATED HOSPITALS AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-08-21"
+status = "Pending with the Committee on HEALTH since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "AMIN, HUSSIN U.", "DEL MAR, RAUL V.", "LOZADA, JOSE APOLINARIO JR. L.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOZADA, JOSE APOLINARIO JR. L."
+nameCode = "Lozada"
+date = ""
+journalNo = "J075"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 85769
+congress = 12
+bill_no = "HB02609"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-27"

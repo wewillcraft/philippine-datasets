@@ -1,0 +1,54 @@
+billNumber = "HB05112"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05112"
+lastScraped = "2025-09-21T23:55:20.971066"
+title = "HB05112"
+longTitle = "AN ACT ESTABLISHING A NURSING HOME FOR THE ABANDONED AND NEGLECTED SENIOR CITIZENS IN THE FIFTH DISTRICT OF QUEZON CITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2022-09-23"
+status = "Pending with the Committee on SENIOR CITIZENS since 2022-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05112.pdf"
+fileSize = 295610
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "BORDADO, GABRIEL JR. H.",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2022-09-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BORDADO, GABRIEL JR. H."
+nameCode = "Bordado"
+date = "2023-03-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2022-09-27"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 10031
+congress = 19
+bill_no = "HB05112"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-27"

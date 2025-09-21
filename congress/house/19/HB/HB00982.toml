@@ -1,0 +1,54 @@
+billNumber = "HB00982"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00982"
+lastScraped = "2025-09-21T23:55:20.253382"
+title = "HB00982"
+longTitle = "AN ACT REPEALING PRESIDENTIAL PROCLAMATION NO. 572"
+scope = "National"
+dateFiled = "2022-07-01"
+status = "Pending with the Committee on NATURAL RESOURCES since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00982.pdf"
+fileSize = 354276
+author = "Go, Mark O."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2022-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-02-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 5901
+congress = 19
+bill_no = "HB00982"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

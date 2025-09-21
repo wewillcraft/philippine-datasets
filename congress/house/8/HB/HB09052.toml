@@ -1,0 +1,42 @@
+billNumber = "HB09052"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09052"
+lastScraped = "2025-09-22T00:46:58.190556"
+title = "HB09052"
+longTitle = "AN ACT ESTABLISHING A PUBLIC INFORMATION CENTER IN TAPIAN BOHE, SAPA-SAPA, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-09"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1988-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1988-05-12"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 143727
+congress = 8
+bill_no = "HB09052"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1988-05-12"

@@ -1,0 +1,55 @@
+billNumber = "HR01008"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01008"
+lastScraped = "2025-09-22T00:20:59.616455"
+title = "HR01008"
+longTitle = "RESOLUTION URGING THE GOVERNMENT TO ASSIST THE CORN FARMERS OF MINDANAO IN SUPPORT OF THE PEACE AND DEVELOPMENT INITIATIVES FOR THE REGION"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "secondary"
+referralCode = "B511"
+
+[firstReading]
+id = 118062
+congress = 10
+bill_no = "HR01008"
+comm_act = "Jointly Referred to the Spl. Ctte. on East ASEAN Growth Area on Feb. 13, 1997."
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-12-12"

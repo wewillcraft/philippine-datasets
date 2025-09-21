@@ -1,0 +1,42 @@
+billNumber = "HR00875"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00875"
+lastScraped = "2025-09-22T00:20:59.590116"
+title = "HR00875"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO INQUIRE, IN AID OF LEGISLATION, INTO THE PLANS, PROGRAMS AND OPERATIONS OF THE GEOTHERMAL PLANTS IN TIWI, ALBAY AND IN THE MAKILING-BANAHA W AREA AFTER THE EXPIRATION OF THE CONTRACT ENTERED INTO BETWEEN THE NATIONAL POWER CORPORATION AND THE PHILIPPINE GEOTHERMAL, INC."
+scope = "Local"
+dateFiled = "1996-09-25"
+status = "Pending with the Committee on RULES since 1996-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-01"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[firstReading]
+id = 117929
+congress = 10
+bill_no = "HR00875"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Oct. 2, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-01"

@@ -1,0 +1,55 @@
+billNumber = "HB04529"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04529"
+lastScraped = "2025-09-22T00:13:00.622351"
+title = "HB04529"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A POPULATION OFFICE IN ALL LOCAL GOVERNMENT UNITS AND TRANSFERRING THE CONTROL AND SUPERVISION OVER EXISTING LOCAL POPULATION OFFICES TO THE COMMISSION ON POPULATION"
+scope = "Local"
+dateFiled = "2002-03-06"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2002-03-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "VIOLAGO, ELEUTERIO R.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = "J033"
+sessionNo = "2RS"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2002-03-12"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87684
+congress = 12
+bill_no = "HB04529"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+date_read = "2002-03-12"

@@ -1,0 +1,42 @@
+billNumber = "HR00949"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00949"
+lastScraped = "2025-09-22T00:47:02.710717"
+title = "HR00949"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON NATURAL RESOURCES TO REVIEW ALL LAWS, PRESIDENTIAL DECREESAND ADMINISTRATIVE ORDERS PERTAINING TO FORESTRY FOR THE PURPOSE OF DRAFTING AN OMNIBUS FORESTRY LAW"
+scope = "National"
+dateFiled = "1988-09-27"
+status = "Pending with the Committee on NATURAL RESOURCES since 1988-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua"
+[[authorsDetail]]
+name = "Cua"
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1988-10-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170827
+congress = 8
+bill_no = "HR00949"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1988-10-03"

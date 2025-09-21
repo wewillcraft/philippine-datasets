@@ -1,0 +1,49 @@
+billNumber = "HB07490"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07490"
+lastScraped = "2025-09-22T00:20:58.750175"
+title = "HB07490"
+longTitle = "AN ACT EXTENDING REGULAR BANKING HOURS TO EIGHT HOURS AND REGULAR BANKING DAYS TO SIX DAYS"
+scope = "National"
+dateFiled = "1996-07-10"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 113911
+congress = 10
+bill_no = "HB07490"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1996-07-24"

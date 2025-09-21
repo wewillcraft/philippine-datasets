@@ -1,0 +1,46 @@
+billNumber = "HB04005"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB04005"
+lastScraped = "2025-09-22T00:01:45.759556"
+title = "HB04005"
+longTitle = "AN ACT PROVIDING FOR REGULATION OF TRICYCLES, INSTITUTIONALIZING MECHANISMS FOR ITS IMPLEMENTATION"
+scope = "National"
+dateFiled = "2019-08-15"
+status = "Pending with the Committee on TRANSPORTATION since 2019-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB04005.pdf"
+fileSize = 6002722
+author = "Agabas, Tyrone D."
+[[authorsDetail]]
+name = "Agabas, Tyrone D."
+nameCode = "Agabas"
+date = "2019-08-15"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-08-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 23414
+congress = 18
+bill_no = "HB04005"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-08-27"

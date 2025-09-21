@@ -1,0 +1,41 @@
+billNumber = "HB05089"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05089"
+lastScraped = "2025-09-22T00:20:58.311046"
+title = "HB05089"
+longTitle = "AN ACT GRANTING TAX EXEMPTION FROM IMPORTING PRIME COMMODITIES SUCH AS RICE, MEAT, CEMENT, MEDICINES, FERTILIZERS AND ANIMAL FEEDS BY PRIVATE INDIVIDUAL, PARTNERSHIP OR CORPORATION"
+scope = "National"
+dateFiled = "1995-11-14"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Loreto"
+[[authorsDetail]]
+name = "Loreto"
+nameCode = "Loreto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 111510
+congress = 10
+bill_no = "HB05089"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-11-20"

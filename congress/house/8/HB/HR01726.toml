@@ -1,0 +1,42 @@
+billNumber = "HR01726"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01726"
+lastScraped = "2025-09-22T00:47:02.873357"
+title = "HR01726"
+longTitle = "RESOLUTION URGENTLY REQUESTING THE DEPARTMENT OF SCIENCE AND TECHNOLOGY TO TRANSFER THE PHILIPPINE ATOMIC RESEARCH CENTER FROM ITS PRESENT SITE IN QUEZON CITY TO ANY SUITABLE PLACE OUTSIDE THE CENTER OF POPULATION"
+scope = "National"
+dateFiled = "1990-04-04"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1990-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes"
+[[authorsDetail]]
+name = "Reyes"
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "534"
+dateRead = "1990-05-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171567
+congress = 8
+bill_no = "HR01726"
+referral = "534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+sub_name = ""
+date_read = "1990-05-08"

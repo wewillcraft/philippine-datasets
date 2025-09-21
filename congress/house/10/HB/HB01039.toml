@@ -1,0 +1,56 @@
+billNumber = "HB01039"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01039"
+lastScraped = "2025-09-22T00:20:57.551932"
+title = "HB01039"
+longTitle = "AN ACT ESTABLISHING A NATIONAL POLICY ON COUNTERTRADE"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz"
+coAuthors = [ "DEL MAR, RAUL V.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Diaz"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 107460
+congress = 10
+bill_no = "HB01039"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-07-27"

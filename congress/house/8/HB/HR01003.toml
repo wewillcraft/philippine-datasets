@@ -1,0 +1,50 @@
+billNumber = "HR01003"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01003"
+lastScraped = "2025-09-22T00:47:02.731297"
+title = "HR01003"
+longTitle = "RESOLUTION REQUIRING THE COMMITTEE ON FOREIGN AFFAIRS TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE NEGOTIATIONS AND THE PROCESS WHICH LED TO THE SIGNING OF THE MEMORANDUM OF AGREEMENT OF OCTOBER 17, 1988"
+scope = "National"
+dateFiled = "1988-10-19"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1988-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roco"
+coAuthors = [ "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Roco"
+nameCode = "Roco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1988-10-21"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170880
+congress = 8
+bill_no = "HR01003"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1988-10-21"

@@ -1,0 +1,46 @@
+billNumber = "PS00069"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=PS00069"
+lastScraped = "2025-09-21T23:56:23.306366"
+title = "G M O S"
+longTitle = "WORLD FOOD DAY CELEBRATION"
+scope = "National"
+dateFiled = "2013-10-21"
+status = "Pending with the Committee on FOOD SECURITY since 2013-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/PS069_Rep. Bello.pdf"
+fileSize = 59354
+author = "Bello, Walden F."
+[[authorsDetail]]
+name = "Bello, Walden F."
+nameCode = "Bello (W.)"
+date = "2013-10-21"
+sequence = 1
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "primary"
+referralCode = "B513"
+dateRead = "2013-11-20"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 55177
+congress = 16
+bill_no = "PS00069"
+report = ""
+comm_act = ""
+referral = "B513"
+ref_name = "FOOD SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-11-20"

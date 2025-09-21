@@ -1,0 +1,42 @@
+billNumber = "HR00440"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00440"
+lastScraped = "2025-09-22T00:20:59.503806"
+title = "HR00440"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REASONS FOR BRIGADIER GENERAL RAYMUNDO JARQUE'S DEFECTION TO THE NEW PEOPLE'S ARMY AND THE MEASURES TAKEN BY THE GOVERNMENT REGARDING THE JARQUE CASE"
+scope = "Local"
+dateFiled = "1996-02-01"
+status = "Pending with the Committee on JUSTICE since 1996-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117494
+congress = 10
+bill_no = "HR00440"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Justice on Feb. 6, 1996."
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-02-06"

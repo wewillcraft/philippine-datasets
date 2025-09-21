@@ -1,0 +1,46 @@
+billNumber = "HB06898"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06898"
+lastScraped = "2025-09-22T00:20:58.639725"
+title = "HB06898"
+longTitle = "AN ACT CONVERTING THE QUEZON CITY POLYTECHNIC TO POLYTECHNIC INSTITUTE OF QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-02"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113319
+congress = 10
+bill_no = "HB06898"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-05-08"

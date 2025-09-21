@@ -1,0 +1,68 @@
+billNumber = "HB01070"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01070"
+lastScraped = "2025-09-21T23:56:40.748678"
+title = "HB01070"
+longTitle = "AN ACT REGULATING SHIPPING VESSELS COASTING PHILIPPINE WATERS FOR THE PROTECTION OF SHORES"
+scope = "National"
+dateFiled = "2010-07-08"
+status = "Pending with the Committee on ECOLOGY since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01070.pdf"
+fileSize = 873416
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "EVARDONE, BEN PAGARAN", "REVILLA, LANI MERCADO", "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "EVARDONE, BEN PAGARAN"
+nameCode = "Evardone"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = ""
+journalNo = "J046"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 56542
+congress = 15
+bill_no = "HB01070"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

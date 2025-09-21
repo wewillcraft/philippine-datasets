@@ -1,0 +1,79 @@
+billNumber = "HR00975"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00975"
+lastScraped = "2025-09-22T00:13:01.364224"
+title = "Mining Activities Being Conducted in the Island Municipality of Rapu-rapu, Albay"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENVIRONMENT AND NATURAL RESOURCES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE MINING ACTIVITIES BEING CONDUCTED IN THE ISLAND MUNICIPALITY OF RAPU-RAPU, ALBAY"
+scope = "Local"
+dateFiled = "2003-01-28"
+status = "Adopted Resolution (Pending with the committee on NATURAL RESOURCES since 2003-02-26)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Francis G."
+coAuthors = [ "GONZALES, NEPTALI II M.", "PADILLA, CARLOS M.", "RULES",]
+[[authorsDetail]]
+name = "Escudero, Francis G."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALES, NEPTALI II M."
+nameCode = "Gonzales"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-02-03"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 90911
+congress = 12
+bill_no = "HR00975"
+report = "01281"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2003-02-03"
+date_report = "2003-02-19"
+
+[secondReading]
+id = 15492
+congress = 12
+bill_no = "HR00975"
+adopted_resolution = "HR00564"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE MINING ACTIVITIES BEING CONDUCTED IN THE ISLAND MUNICIPALITY OF RAPU-RAPU, ALBAY"
+date_calendared = "2003-02-26"
+date_approved = "2003-02-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2003-02-26"

@@ -1,0 +1,83 @@
+billNumber = "HB00694"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00694"
+lastScraped = "2025-09-21T23:39:48.438785"
+title = "HB00694"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF CLIMATE RESILIENCE, DEFINING ITS MANDATE, POWERS, AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on CLIMATE CHANGE since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00694.pdf"
+fileSize = 637296
+author = "BENITEZ, JAVIER MIGUEL LOPEZ"
+coAuthors = [ "RIVERA, NOEL \"Bong\" N.", "VILLAFUERTE, VINCENZO RENATO LUIGI R.",]
+[[authorsDetail]]
+name = "BENITEZ, JAVIER MIGUEL LOPEZ"
+nameCode = "Benitez (J.M.)"
+date = "2025-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, NOEL \"Bong\" N."
+nameCode = "Rivera"
+date = "2025-08-26"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAFUERTE, VINCENZO RENATO LUIGI R."
+nameCode = "Villafuerte (V. R. L. R.)"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "primary"
+referralCode = "H503"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 695
+congress = 103
+bill_no = "HB00694"
+report = ""
+comm_act = ""
+referral = "H503"
+ref_name = "CLIMATE CHANGE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"
+
+[secondReading]
+id = 5
+congress = 103
+bill_no = "HB00694"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

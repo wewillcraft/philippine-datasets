@@ -1,0 +1,42 @@
+billNumber = "PS00012"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00012"
+lastScraped = "2025-09-22T00:13:49.473926"
+title = "PS00012"
+longTitle = "Unabated Price Increases of Petroleum Products"
+scope = "National"
+dateFiled = "2004-08-09"
+status = "Pending with the Committee on ENERGY since 2004-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Magtubo, Renato 'Ka Rene' B."
+[[authorsDetail]]
+name = "Magtubo, Renato 'Ka Rene' B."
+nameCode = "Magtubo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2004-08-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 82822
+congress = 13
+bill_no = "PS00012"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2004-08-24"

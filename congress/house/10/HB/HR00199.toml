@@ -1,0 +1,57 @@
+billNumber = "HR00199"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00199"
+lastScraped = "2025-09-22T00:20:59.460366"
+title = "HR00199"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, OF THE CONTINUED USE OF RIGHT HAND DRIVE TRUCKS BY COMPANIES CONNECTED WITH HIGH GOVERNMENT OFFICIALS"
+scope = "National"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 117253
+congress = 10
+bill_no = "HR00199"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Transporta tion and Communicat ions on Oc"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-09-25"

@@ -1,0 +1,42 @@
+billNumber = "HB13131"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13131"
+lastScraped = "2025-09-22T00:25:57.030438"
+title = "HB13131"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A SECONDARY LEVEL OF EDUCATION IN EVERY EXISTING ELEMENTARY SCHOOL WITH COMPLETE LEVEL OF PRIMARY EDUCATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1994-07-19"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131740
+congress = 9
+bill_no = "HB13131"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-07-27"

@@ -1,0 +1,68 @@
+billNumber = "HB05030"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05030"
+lastScraped = "2025-09-22T00:25:55.558402"
+title = "HB05030"
+longTitle = "AN ACT REVISING AND CONSOLIDATING ALL LAWS AND DECREES AFFECTING FISHING AND FISHERIES, INSTITUTING A FISHERIES CODE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-11-20"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+coAuthors = [ "GARCIA, PABLO P.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GARCIA, PABLO P."
+nameCode = "Garcia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "secondary"
+referralCode = "0531"
+
+[firstReading]
+id = 123649
+congress = 9
+bill_no = "HB05030"
+comm_act = "joint ref'l as per Rules Memo dtd. 8-26-93"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-24"

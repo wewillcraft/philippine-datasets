@@ -1,0 +1,50 @@
+billNumber = "HB05290"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05290"
+lastScraped = "2025-09-22T00:13:00.788357"
+title = "HB05290"
+longTitle = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 1069, OTHERWISE KNOWN AS `PHILIPPINE EXTRADITION LAW', GIVING THE ACCUSED THE RIGHT TO BAIL"
+scope = "National"
+dateFiled = "2002-10-07"
+status = "Pending with the Committee on JUSTICE since 2002-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Hizon, Joey D."
+coAuthors = [ "CARI, CARMEN L.",]
+[[authorsDetail]]
+name = "Hizon, Joey D."
+nameCode = "Hizon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J028"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-10-14"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 88445
+congress = 12
+bill_no = "HB05290"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-10-14"

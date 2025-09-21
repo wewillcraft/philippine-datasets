@@ -1,0 +1,59 @@
+billNumber = "HB08909"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08909"
+lastScraped = "2025-09-22T00:20:59.061392"
+title = "HB08909"
+longTitle = "AN ACT ESTABLISHING A COMPUTER TECHNOLOGY TRAINING CENTER AT THE RIZAL POLYTECHNIC COLLEGE"
+scope = "Local"
+dateFiled = "1997-02-10"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanjuatco"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Tanjuatco"
+nameCode = "Tanjuatco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-02-11"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 115330
+congress = 10
+bill_no = "HB08909"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-02-11"

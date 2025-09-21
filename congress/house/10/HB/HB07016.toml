@@ -1,0 +1,46 @@
+billNumber = "HB07016"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07016"
+lastScraped = "2025-09-22T00:20:58.659706"
+title = "HB07016"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MUNGOBEAN VARIETY SB-MG 11 NURSERY STATION IN BARANGAY ZONA SUR, MUNICIPALITY OF BANATE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-17"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113437
+congress = 10
+bill_no = "HB07016"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-05-21"

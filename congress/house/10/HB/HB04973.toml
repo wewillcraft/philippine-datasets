@@ -1,0 +1,46 @@
+billNumber = "HB04973"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04973"
+lastScraped = "2025-09-22T00:20:58.292464"
+title = "HB04973"
+longTitle = "AN ACT CONVERTING THE LUCNAB WATERSHED IN BAGUIO CITY INTO A WATERSHED RESERVATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-10"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-11-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-11-15"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111394
+congress = 10
+bill_no = "HB04973"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-11-15"

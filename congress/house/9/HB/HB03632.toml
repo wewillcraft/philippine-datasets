@@ -1,0 +1,42 @@
+billNumber = "HB03632"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03632"
+lastScraped = "2025-09-22T00:25:55.238920"
+title = "HB03632"
+longTitle = "AN ACT DEFINING CERTAIN CRIMES AS HEINOUS CRIMES AND PROVIDING FOR THE MANDATORY IMPOSITION OF DEATH PENALTY THEREFOR"
+scope = "National"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on JUSTICE since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[firstReading]
+id = 122251
+congress = 9
+bill_no = "HB03632"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-10-15"

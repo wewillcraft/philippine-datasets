@@ -1,0 +1,46 @@
+billNumber = "HB04230"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04230"
+lastScraped = "2025-09-22T00:20:58.166200"
+title = "HB04230"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION AND IMPROVEMENT OF THE WATERWORKS SYSTEM IN BARANGAY SAN JOSE, MUNICIPALITY OF LEMERY, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110651
+congress = 10
+bill_no = "HB04230"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-10-05"

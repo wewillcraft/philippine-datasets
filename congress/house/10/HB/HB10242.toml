@@ -1,0 +1,46 @@
+billNumber = "HB10242"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10242"
+lastScraped = "2025-09-22T00:20:59.340114"
+title = "HB10242"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF WATERWORKS SYSTEM IN BARANGAY BACULIN, IN THE MUNICIPALITY OF BABANGA, PROVINCE OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1997-11-06"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-11-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116663
+congress = 10
+bill_no = "HB10242"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-11-12"

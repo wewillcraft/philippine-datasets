@@ -1,0 +1,42 @@
+billNumber = "HB14280"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14280"
+lastScraped = "2025-09-22T00:25:57.253400"
+title = "HB14280"
+longTitle = "AN ACT CHANGING THE SAN LORENZO RUIZ MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MALABON, METRO MANILA, TO SAN LORENZO RUIZ WOMEN'S HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-12-07"
+status = "Pending with the Committee on HEALTH since 1994-12-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-12-13"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132889
+congress = 9
+bill_no = "HB14280"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-12-13"

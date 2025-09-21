@@ -1,0 +1,58 @@
+billNumber = "HR01615"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01615"
+lastScraped = "2025-09-22T00:23:18.254426"
+title = "HR01615"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS AND THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED IRREGULARITY IN THE AWARD BY THE PHILIPPINE PORTS AUTHORITY (PPA) OF AP2.9 BILLION PORT PROJECT FOR THE PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "2000-06-21"
+status = "Substituted by HR01617"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2000-07-17"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[[motherBills]]
+bill_no = "HR01617"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01617"
+flag = "S"
+
+[firstReading]
+id = 106069
+congress = 11
+bill_no = "HR01615"
+report = "01205"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = "TRANSPORTATION AND COMMUNICATIONS, GOOD GOVERNMENT"
+recomm = "See page 12 of Ctte. Rpt. No. 1205"
+date_read = "2000-07-17"
+date_ob = "2000-09-19"
+date_report = "2000-09-05"

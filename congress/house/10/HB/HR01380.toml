@@ -1,0 +1,41 @@
+billNumber = "HR01380"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01380"
+lastScraped = "2025-09-22T00:20:59.690106"
+title = "HR01380"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON MOUNT PINATUBO TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CONTROVERSIAL USUFRUCT CONTRACT SCHEME BEING IMPLEMENTED BY THE MOUNT PINATUBO COMMISSION IN GOVERNMENT RESETTLEMENT SITES IN PAMPANGA, TARLAC AND ZAMBALES"
+scope = "Local"
+dateFiled = "1997-10-01"
+status = "Pending with the Committee on MOUNT PINATUBO (SPECIAL CTTE.) since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "MOUNT PINATUBO (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B514"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118434
+congress = 10
+bill_no = "HR01380"
+referral = "B514"
+ref_name = "MOUNT PINATUBO (SPECIAL CTTE.)"
+date_read = "1997-10-06"

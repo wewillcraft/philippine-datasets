@@ -1,0 +1,46 @@
+billNumber = "HB02643"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02643"
+lastScraped = "2025-09-22T00:20:57.856433"
+title = "HB02643"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HIGH SCHOOL IN THE MUNICIPALITY OF VALLEHERMOSO, NEGROS ORIENTAL, TO BE KNOWN AS THE DON ESPERIDION VILLEGAS COMMUNITY HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109064
+congress = 10
+bill_no = "HB02643"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-28"

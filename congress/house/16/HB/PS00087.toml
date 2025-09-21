@@ -1,0 +1,46 @@
+billNumber = "PS00087"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=PS00087"
+lastScraped = "2025-09-21T23:56:23.308940"
+title = "P D A F As Unconstitutional"
+longTitle = "SUPREME COURT DECISION ON THE P D A F"
+scope = "National"
+dateFiled = "2013-11-25"
+status = "Pending with the Committee on APPROPRIATIONS since 2013-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/PS087_Rep. Colmenares.pdf"
+fileSize = 219012
+author = "Colmenares, Neri J"
+[[authorsDetail]]
+name = "Colmenares, Neri J"
+nameCode = "Colmenares"
+date = "2013-11-25"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2013-12-03"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 55195
+congress = 16
+bill_no = "PS00087"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-12-03"

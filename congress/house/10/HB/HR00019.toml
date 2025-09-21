@@ -1,0 +1,50 @@
+billNumber = "HR00019"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00019"
+lastScraped = "2025-09-22T00:20:59.428627"
+title = "HR00019"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION ON THE ADMINISTRATION AND MANAGEMENT OF THE OIL PRICE STABILIZATION FUND (OPSF) TO DETERMINE COMPLIANCE WITH LAWS, RULES AND REGULATIONS IN THE ADMINISTRATION AND MANAGEMENT OF THE SAME AND THE EFFECTIVENESS OF ITS USE TO SERVE THE PUBLIC INTEREST, AND OFR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-07-12"
+status = "Pending with the Committee on ENERGY since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 117073
+congress = 10
+bill_no = "HR00019"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte. on Energy on July 27, 1995"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-07-26"

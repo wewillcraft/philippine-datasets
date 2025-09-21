@@ -1,0 +1,62 @@
+billNumber = "HB01248"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01248"
+lastScraped = "2025-09-22T00:13:00.029830"
+title = "HB01248"
+longTitle = "AN ACT ESTABLISHING RESOURCE DEVELOPMENT AND CRISIS ASSISTANCE CENTERS FOR WOMEN AND CHILDREN IN EVERY PROVINCE AND CITY OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-19"
+status = "Pending with the Committee on WOMEN since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L", "GORDON, JAMES JR. J.",]
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GORDON, JAMES JR. J."
+nameCode = "Gordon"
+date = ""
+journalNo = "J046"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84408
+congress = 12
+bill_no = "HB01248"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2001-07-30"

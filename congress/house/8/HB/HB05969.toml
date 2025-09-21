@@ -1,0 +1,50 @@
+billNumber = "HB05969"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05969"
+lastScraped = "2025-09-22T00:46:57.676775"
+title = "HB05969"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE MALIMONO EMERGENCY HOSPITAL IN THE MUNICIPALITY OF MALIMONO, PROVINCE OF SURIGAO DEL NORTE, FROM TEN TO TWENTY-FIVE BEDS"
+scope = "Local"
+dateFiled = "1988-03-04"
+status = "Pending with the Committee on HEALTH since 1988-03-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Navarro"
+coAuthors = [ "PEREZ, HERNANDO B.",]
+[[authorsDetail]]
+name = "Navarro"
+nameCode = "Navarro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 140650
+congress = 8
+bill_no = "HB05969"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-08"

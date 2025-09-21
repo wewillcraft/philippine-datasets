@@ -1,0 +1,41 @@
+billNumber = "HB10549"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10549"
+lastScraped = "2025-09-22T00:20:59.406313"
+title = "HB10549"
+longTitle = "AN ACT TO AMEND SECTION 6 PARAGRAPH 1 OF REPUBLIC ACT NO. 8485 ENTITLED 'AN ACT TO PROMOTE ANIMAL WELFARE IN THE PHILIPPINES, OTHERWISE KNOWN AS 'THE ANIMAL WELFARE ACT OF 1998'"
+scope = "Local"
+dateFiled = "1998-03-13"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 116969
+congress = 10
+bill_no = "HB10549"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1998-05-25"

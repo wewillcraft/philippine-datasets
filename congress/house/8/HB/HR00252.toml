@@ -1,0 +1,42 @@
+billNumber = "HR00252"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00252"
+lastScraped = "2025-09-22T00:47:02.575158"
+title = "HR00252"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATIONIN AID OF LEGISLATION AS TO THE STATUS OF THE LINAMON AIRPORT LOCATED IN THE MUNICIPALITY OF LINAMON, LANAO DEL NORTE, AND THE REPORT THAT THE SITE ISNOT SUITABLE FOR LANDING AND TAKEOFF AND ITS CONSTRUCTION IS ILL-MANAGED AND NOT IN ACCORDANCE WITH PLANS AND SPECIFICATIONS"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 170152
+congress = 8
+bill_no = "HR00252"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-09-07"

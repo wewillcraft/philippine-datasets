@@ -1,0 +1,42 @@
+billNumber = "PS00224"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00224"
+lastScraped = "2025-09-22T00:13:49.505570"
+title = "PS00224"
+longTitle = "On the P125 Wage Increase"
+scope = "National"
+dateFiled = "2005-05-30"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2005-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran, Crispin B."
+[[authorsDetail]]
+name = "Beltran, Crispin B."
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2005-05-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 82977
+congress = 13
+bill_no = "PS00224"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2005-05-31"

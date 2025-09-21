@@ -1,0 +1,42 @@
+billNumber = "HB01749"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01749"
+lastScraped = "2025-09-22T00:46:56.868674"
+title = "HB01749"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE OLONGAPO CITY GENERAL HOSPITAL"
+scope = "Local"
+dateFiled = "1987-09-21"
+status = "Pending with the Committee on HEALTH since 1987-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 136440
+congress = 8
+bill_no = "HB01749"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-24"

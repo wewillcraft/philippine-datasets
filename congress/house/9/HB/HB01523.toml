@@ -1,0 +1,47 @@
+billNumber = "HB01523"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01523"
+lastScraped = "2025-09-22T00:25:54.871026"
+title = "HB01523"
+longTitle = "AN ACT PROVIDING FOR THE CONVERSION OF THE TAGKAWAYAN DISTRICT HOSPITAL, MUNICIPALITY OF TAGKAWAYAN, FOURTH DISTRICT OF QUEZON, FROM A 25-BED CAPACITY TO 50-BED HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on HEALTH since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lavides"
+[[authorsDetail]]
+name = "Lavides"
+nameCode = "Lavides"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120142
+congress = 9
+bill_no = "HB01523"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-31"

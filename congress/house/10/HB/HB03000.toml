@@ -1,0 +1,56 @@
+billNumber = "HB03000"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03000"
+lastScraped = "2025-09-22T00:20:57.918941"
+title = "HB03000"
+longTitle = "AN ACT AMENDING SECTIONS 15 AND 26 OF BATAS PAMBANSA BILANG 129, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-29"
+status = "Pending with the Committee on JUSTICE since 1995-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+coAuthors = [ "RAMIREZ, JOSE T.", "SHAHANI, RANJIT R.",]
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SHAHANI, RANJIT R."
+nameCode = "Shahani"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-05"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 109421
+congress = 10
+bill_no = "HB03000"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-05"

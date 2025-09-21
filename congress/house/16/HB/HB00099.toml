@@ -1,0 +1,82 @@
+billNumber = "HB00099"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00099"
+lastScraped = "2025-09-21T23:56:21.487233"
+title = "Prevention Of Pollution From Ships Act"
+longTitle = "AN ACT TO PREVENT AND CONTROL POLLUTION FROM SHIPS, PROVIDE PENALTIES THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Substituted by HB05377"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00099.pdf"
+fileSize = 5000639
+author = "Hagedorn, Douglas S."
+coAuthors = [ "SARMIENTO, CESAR VERGARA", "ROMUALDO, XAVIER JESUS \"XJ\" D.", "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "NOEL, VICTORIA ISABEL G.",]
+[[authorsDetail]]
+name = "Hagedorn, Douglas S."
+nameCode = "Hagedorn"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, CESAR VERGARA"
+nameCode = "Sarmiento (C.)"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, XAVIER JESUS \"XJ\" D."
+nameCode = "Romualdo"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-10-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-10-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NOEL, VICTORIA ISABEL G."
+nameCode = "Noel"
+date = "2014-02-10"
+journalNo = "J046"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 45913
+congress = 16
+bill_no = "HB00099"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

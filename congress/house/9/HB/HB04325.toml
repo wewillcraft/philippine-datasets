@@ -1,0 +1,47 @@
+billNumber = "HB04325"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04325"
+lastScraped = "2025-09-22T00:25:55.410822"
+title = "HB04325"
+longTitle = "AN ACT PROVIDING FOR THE RENOVATION AND EXPANSION OF THE MUNICIPAL BUILDING,  IN THE MUNICIPALITY OF INDANG, PROVINCE OF CAVITE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unas"
+[[authorsDetail]]
+name = "Unas"
+nameCode = "Unas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122944
+congress = 9
+bill_no = "HB04325"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-09"

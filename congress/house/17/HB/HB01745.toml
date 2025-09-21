@@ -1,0 +1,68 @@
+billNumber = "HB01745"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01745"
+lastScraped = "2025-09-21T23:55:44.436747"
+title = "HB01745"
+longTitle = "AN ACT REQUIRING ALL PROVINCES AND CITIES THROUGHOUT THE COUNTRY TO ACQUIRE PORTABLE WATER FILTERS TO ENSURE POTABLE WATER SUPPLY DURING DISASTERS"
+scope = "National"
+dateFiled = "2016-07-19"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01745.pdf"
+fileSize = 851499
+author = "Tan, Angelina"
+coAuthors = [ "VIOLAGO, MICALEA S.", "TAMBUNTING, GUSTAVO S.", "VILLARICA, LINABELLE RUTH R.",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2016-07-19"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-07"
+journalNo = "J020"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-01-23"
+journalNo = "J060"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARICA, LINABELLE RUTH R."
+nameCode = "Villarica"
+date = "2018-07-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 35213
+congress = 17
+bill_no = "HB01745"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

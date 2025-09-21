@@ -1,0 +1,43 @@
+billNumber = "HR00917"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00917"
+lastScraped = "2025-09-22T00:25:57.534691"
+title = "HR00917"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE IN THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, THE ANOMALIES IN THE CONSTRUCTION OF THE NABUA DAM"
+scope = "Local"
+dateFiled = "1994-01-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1994-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1994-02-02"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 134224
+congress = 9
+bill_no = "HR00917"
+comm_act = "change of ctte. ref'l from Ctte. on Rules as per J. 51; Feb. 2-3-, 1994"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1994-02-02"

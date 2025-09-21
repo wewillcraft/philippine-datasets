@@ -1,0 +1,47 @@
+billNumber = "HR00123"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00123"
+lastScraped = "2025-09-22T00:01:47.363348"
+title = "HR00123"
+longTitle = "A RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION ON THE ALLEGED DISCRIMINATION OF PASSENGERS GOING TO AND FROM THE PROVINCE OF NUEVA VIZCAYA BY PRIVATE BUS OPERATORS PLYING THE CAGAYAN VALLEY ROUTE"
+scope = "National"
+dateFiled = "2019-07-24"
+status = "Pending with the Committee on TRANSPORTATION since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00123.pdf"
+fileSize = 653987
+author = "Cuaresma, Luisa Lloren"
+[[authorsDetail]]
+name = "Cuaresma, Luisa Lloren"
+nameCode = "Cuaresma"
+date = "2019-07-24"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30451
+congress = 18
+bill_no = "HR00123"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-31"

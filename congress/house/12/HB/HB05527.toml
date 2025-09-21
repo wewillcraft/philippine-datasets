@@ -1,0 +1,57 @@
+billNumber = "HB05527"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05527"
+lastScraped = "2025-09-22T00:13:00.840390"
+title = "HB05527"
+longTitle = "AN ACT PROHIBITING THE DETENTION OF PATIENTS OR THE REMAINS OF PATIENTS IN HOSPITALS AND MEDICAL CLINICS ON GROUNDS OF NON-PAYMENT OF HOSPITAL BILLS OR MEDICAL EXPENSES"
+scope = "National"
+dateFiled = "2002-12-02"
+status = "Pending with the Committee on HEALTH since 2002-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario, Mayo Z."
+coAuthors = [ "CALALAY, REYNALDO A.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Almario, Mayo Z."
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J036"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-12-10"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 88682
+congress = 12
+bill_no = "HB05527"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-12-10"

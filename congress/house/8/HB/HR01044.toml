@@ -1,0 +1,42 @@
+billNumber = "HR01044"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01044"
+lastScraped = "2025-09-22T00:47:02.738013"
+title = "HR01044"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO INVESTIGATE THE PHILIPPINE AIRLINES (PAL) IN AID OF LEGISLATION REGARDING ANOMALIES BROUGHT ABOUT IN AUTHOR'S RECENT SPEECH IN THE HOUSE"
+scope = "National"
+dateFiled = "1988-12-07"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1988-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1988-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170920
+congress = 8
+bill_no = "HR01044"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1988-12-12"

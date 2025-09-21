@@ -1,0 +1,82 @@
+billNumber = "HR01252"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01252"
+lastScraped = "2025-09-22T00:20:59.665785"
+title = "HR01252"
+longTitle = "RESOLUTION EXPRESSING THE HIGH REGARD OF THE HOUSE OF REPRESENTATIVES FOR ITS DISTINGUISHED SPEAKER, HONORABLE JOSE DE VENECIA, JR., AND ITS SINCERE APPRECIATION FOR THE WISDOM AND FAIRNESS BY WHICH HE CONDUCTED THE BUSINESS AND DELIBERATIONS OF THECHAMBER AND FOR HIS DYNAMIC LEADERSHIP IN STEERING THE HOUSE OF REPRESENTATIVES TOWARDS A MEANINGFUL AND PRODUCTIVE COURSE DURING THE SECOND REGULAR SESSION"
+scope = "Local"
+dateFiled = "1997-06-04"
+status = "Adopted as Resolution No. HR00112 on 1997-06-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ABAYA, ANTONIO M.", "MUARIP, CANDU I.", "DEJON, TEMISTOCLES SR. S.", "CABILAO, BELMA A.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MUARIP, CANDU I."
+nameCode = "Muarip"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CABILAO, BELMA A."
+nameCode = "Cabilao"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-06-05"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 118306
+congress = 10
+bill_no = "HR01252"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-06-05"
+
+[secondReading]
+id = 19031
+congress = 10
+bill_no = "HR01252"
+adopted_resolution = "HR00112"
+date_calendared = "1997-06-05"
+date_approved = "1997-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00112.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00112.pdf"

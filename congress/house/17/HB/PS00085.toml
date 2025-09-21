@@ -1,0 +1,46 @@
+billNumber = "PS00085"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=PS00085"
+lastScraped = "2025-09-21T23:55:46.752260"
+title = "Never Again Never Forget"
+longTitle = "WARNED AGAINST THE GRANTING OF EMERGENCY POWERS TO THE PRESIDENT TO SOLVE THE TRAFFIC PROBLEM"
+scope = "National"
+dateFiled = "2016-09-21"
+status = "Pending with the Committee on TRANSPORTATION since 2016-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/PS085_Rep. Atienza.pdf"
+fileSize = 138742
+author = "Atienza, Jose Jr. L."
+[[authorsDetail]]
+name = "Atienza, Jose Jr. L."
+nameCode = "Atienza"
+date = "2016-09-21"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-10-12"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 45430
+congress = 17
+bill_no = "PS00085"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-10-12"

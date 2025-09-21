@@ -1,0 +1,57 @@
+billNumber = "HB02586"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB02586"
+lastScraped = "2025-09-22T00:13:48.305358"
+title = "HB02586"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF LAND TRANSPORTATION OFFICE FOR THE CITY OF SAN CARLOS, PROVINCE OF PANGASINAN AND APPROPRIATE OF THE FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2004-08-24"
+status = "Pending with the Committee on TRANSPORTATION since 2005-01-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB02586.pdf"
+fileSize = 1040713
+author = "Tulagan, Generoso DC."
+[[authorsDetail]]
+name = "Tulagan, Generoso DC."
+nameCode = "Tulagan"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2004-08-31"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 77676
+congress = 13
+bill_no = "HB02586"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-01-12"
+date_read = "2004-08-31"

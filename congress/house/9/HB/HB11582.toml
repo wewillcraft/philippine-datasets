@@ -1,0 +1,42 @@
+billNumber = "HB11582"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11582"
+lastScraped = "2025-09-22T00:25:56.712506"
+title = "HB11582"
+longTitle = "AN ACT ESTABLISHING THE PUBLIC ADMINISTRATION AND MANAGEMENT TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1993-12-13"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1993-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1993-12-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130197
+congress = 9
+bill_no = "HB11582"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1993-12-16"

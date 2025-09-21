@@ -1,0 +1,54 @@
+billNumber = "HR00931"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00931"
+lastScraped = "2025-09-22T00:25:57.538613"
+title = "HR00931"
+longTitle = "RESOLUTION EXPRESSING THE DEEP SORROW AND SYMPATHY OF THE HOUSE OF REPRESENTATIVES OVER THE DEATH OF BETTY GO-BELMONTE, WIFE OF HONORABLE FELICIANO R. BELMONTE, JR. REPRESENTATIVE, FOURTH DISTRICT OF QUEZON CITY"
+scope = "Local"
+dateFiled = "1994-02-10"
+status = "Adopted as Resolution No. HR00066 on 1994-02-10"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Ronaldo B."
+[[authorsDetail]]
+name = "Zamora, Ronaldo B."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-02-10"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 134238
+congress = 9
+bill_no = "HR00931"
+comm_act = "Not referred to any committee, adopted directly on the floor"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-02-10"
+
+[secondReading]
+id = 20158
+congress = 9
+bill_no = "HR00931"
+adopted_resolution = "HR00066"
+date_approved = "1994-02-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00931.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00931.pdf"

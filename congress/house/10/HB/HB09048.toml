@@ -1,0 +1,51 @@
+billNumber = "HB09048"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09048"
+lastScraped = "2025-09-22T00:20:59.088253"
+title = "HB09048"
+longTitle = "AN ACT TO ESTABLISH COMPUTER TECHNOLOGY TRAINING CENTERS IN EACH OF THE MUNICIPALITIES IN THE FIRST CONGRESSIONAL DISTRICT OF THE PROVINCE OF PALAWAN, EXCEPT IN THE MUNICIPALITY OF KALAYAAN, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-03-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 115469
+congress = 10
+bill_no = "HB09048"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-03-06"

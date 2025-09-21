@@ -1,0 +1,75 @@
+billNumber = "HB01221"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01221"
+lastScraped = "2025-09-22T00:20:57.584083"
+title = "HB01221"
+longTitle = "AN ACT ESTABLISHING A PUBLIC HIGH SCHOOL IN BARANGAY LAMPANUSAN, MUNICIPALITY OF KALILANGAN, PROVINCE OF BUKIDNON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-25"
+status = "REPUBLIC ACT RA08664 (Lapsed into law on 1998-06-25)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107642
+congress = 10
+bill_no = "HB01221"
+report = "00876"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-07-31"
+date_ob = "1997-04-24"
+date_report = "1997-04-22"
+
+[secondReading]
+id = 17762
+congress = 10
+bill_no = "HB01221"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-04-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2382
+congress = 10
+bill_no = "HB01221"
+date_dist = "1997-05-13"
+date_adopt = "1997-05-22"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-05-22"
+date_rec = "1997-05-28"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-05-22"
+dte_actedp = "1998-06-25"

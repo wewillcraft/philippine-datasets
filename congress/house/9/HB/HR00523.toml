@@ -1,0 +1,42 @@
+billNumber = "HR00523"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00523"
+lastScraped = "2025-09-22T00:25:57.462887"
+title = "HR00523"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S TO REVIEW, IN AID OF LEGISLATION, ALL INVESTMENT AND COMMERCIAL LAWS, PRESIDENTIAL DECREES, AND EXECUTIVE ORDERS"
+scope = "National"
+dateFiled = "1993-03-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1993-03-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1993-03-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133835
+congress = 9
+bill_no = "HR00523"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1993-03-08"

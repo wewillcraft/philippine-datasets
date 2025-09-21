@@ -1,0 +1,46 @@
+billNumber = "HB08118"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08118"
+lastScraped = "2025-09-22T00:20:58.901988"
+title = "HB08118"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE TUBLE ELEMENTARY SCHOOL, BARANGAY TUBLE, MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-10-08"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114539
+congress = 10
+bill_no = "HB08118"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-10"

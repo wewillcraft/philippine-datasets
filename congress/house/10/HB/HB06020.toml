@@ -1,0 +1,69 @@
+billNumber = "HB06020"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06020"
+lastScraped = "2025-09-22T00:20:58.480293"
+title = "HB06020"
+longTitle = "AN ACT CREATING AN ADDITIONAL BRANCH OF THE MUNICIPAL TRIAL COURT IN THE MUNICIPALITY OF URDANETA, PROVINCE OF PANGASINAN, AMENDING FOR THE PURPOSE SECTION 30 OF BATAS PAMBANSA BLG. ISANG DAAN AT DALAWAMPU'T SIYAM, OTHERWISE KNOWN AS 'THE JUDICIARYREORGANIZATION ACT OF 1980', AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-31"
+status = "Approved on Third Reading on 1997-11-20"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-02-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112441
+congress = 10
+bill_no = "HB06020"
+report = "01212"
+referral = "0520"
+ref_name = "JUSTICE"
+recomm = "approval with amendment"
+date_read = "1996-02-05"
+date_ob = "1997-10-16"
+date_report = "1997-10-16"
+
+[secondReading]
+id = 18290
+congress = 10
+bill_no = "HB06020"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-11-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2892
+congress = 10
+bill_no = "HB06020"
+date_dist = "1997-11-17"
+date_adopt = "1997-11-20"
+no_yeas = 119
+no_nays = 0
+no_abstent = 0

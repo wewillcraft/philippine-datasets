@@ -1,0 +1,50 @@
+billNumber = "HB00215"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00215"
+lastScraped = "2025-09-22T00:46:56.594239"
+title = "HB00215"
+longTitle = "AN ACT TO PROHIBIT THE GRANTING OF EX-PARTE RESTRAINING ORDERS AND EX-PARTE WRITS OF PRELIMINARY ATTACHMENT, GARNISHMENT, INJUCTION, OR REPLEVIN"
+scope = "National"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on JUSTICE since 1987-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "DAYANGHIRANG, ENRICO G.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DAYANGHIRANG, ENRICO G."
+nameCode = "Dayanghirang"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 134912
+congress = 8
+bill_no = "HB00215"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-08-11"

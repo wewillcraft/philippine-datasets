@@ -1,0 +1,47 @@
+billNumber = "HB03806"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03806"
+lastScraped = "2025-09-22T00:13:00.487140"
+title = "HB03806"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY DAY CARE CENTER IN BARANGAY LIPONPON, ISLA VERDE, BATANGAS CITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-11-07"
+status = "Pending with the Committee on SOCIAL SERVICES since 2001-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2001-11-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86966
+congress = 12
+bill_no = "HB03806"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2001-11-20"

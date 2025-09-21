@@ -1,0 +1,42 @@
+billNumber = "HB00303"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00303"
+lastScraped = "2025-09-22T00:46:56.611799"
+title = "HB00303"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WATERWORKS SYSTEM IN THE MUNICIPALITY OF MARGOSATUBIG, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[firstReading]
+id = 135000
+congress = 8
+bill_no = "HB00303"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-08-13"

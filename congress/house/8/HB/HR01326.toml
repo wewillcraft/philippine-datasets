@@ -1,0 +1,42 @@
+billNumber = "HR01326"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01326"
+lastScraped = "2025-09-22T00:47:02.791281"
+title = "HR01326"
+longTitle = "RESOLUTION URGING THE NATIONAL POWER CORPORATION TO PROVIDE A REPLACEMENT FOR THE POWER BARGE WHICHWAS PULLED-OUT IN THE ISLAND OF PANAY"
+scope = "Local"
+dateFiled = "1989-06-01"
+status = "Pending with the Committee on ENERGY since 1989-06-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1989-06-06"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 171194
+congress = 8
+bill_no = "HR01326"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1989-06-06"

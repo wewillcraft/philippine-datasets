@@ -1,0 +1,46 @@
+billNumber = "HB07845"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07845"
+lastScraped = "2025-09-22T00:20:58.852648"
+title = "HB07845"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE SARA CENTRAL SCHOOL, BARANGAY POBLACION ILAWOD, MUNICIPALITY OF SARA, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-03"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114266
+congress = 10
+bill_no = "HB07845"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-09-03"

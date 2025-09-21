@@ -1,0 +1,42 @@
+billNumber = "HR01144"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01144"
+lastScraped = "2025-09-22T00:47:02.759828"
+title = "HR01144"
+longTitle = "RESOLUTION URGING THE HONORABLE SPEAKER, RAMON V.MITRA AND THE HONORABLE MEMBERS OF THE COMMITTEE ON RULES AND THE COMMITTEE ON APPROPRIATIONS, TO EXPIDITE ACTION ON HOUSE BILL NO. TWENTY-FIVE HUNDRED AND NINE, ENTITLED, AN ACT ESTABLISHING THE NATIONAL ECONOMIC RESEARCH AND BUSINESS ASSISTANCE CENTER OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1989-02-09"
+status = "Pending with the Committee on RULES since 1989-02-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-02-15"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171018
+congress = 8
+bill_no = "HR01144"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-02-15"

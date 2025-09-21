@@ -1,0 +1,47 @@
+billNumber = "HB00191"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00191"
+lastScraped = "2025-09-22T00:25:54.628263"
+title = "HB00191"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF CLAUDIO SANDOVAL IN THE PROVINCE OF PALAWAN"
+scope = "Local"
+dateFiled = "1992-07-20"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118810
+congress = 9
+bill_no = "HB00191"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-07-29"

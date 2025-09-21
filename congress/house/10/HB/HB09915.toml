@@ -1,0 +1,57 @@
+billNumber = "HB09915"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09915"
+lastScraped = "2025-09-22T00:20:59.268275"
+title = "HB09915"
+longTitle = "AN ACT CONVERTING THE PROVINCIAL ROAD CONNECTING THE MUNICIPALITIES OF BACNOTAN AND SAN GABRIEL IN THE PROVINCE OF LA UNION INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-29"
+status = "Bill reported out 1998-04-02 (#01540)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "SERAPIO, ANTONIO M.",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SERAPIO, ANTONIO M."
+nameCode = "Serapio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116336
+congress = 10
+bill_no = "HB09915"
+report = "01540"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-09-03"
+date_report = "1998-04-02"

@@ -1,0 +1,41 @@
+billNumber = "HB10536"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10536"
+lastScraped = "2025-09-22T00:20:59.403810"
+title = "HB10536"
+longTitle = "AN ACT MANDATING A HOUSING PROGRAM FOR THE SQUATTERS ALONG THE TRANSMISSION LINES OF THE NATIONAL POWER CORPORATION, PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1998-02-19"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1998-02-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1998-02-20"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 116956
+congress = 10
+bill_no = "HB10536"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1998-02-20"

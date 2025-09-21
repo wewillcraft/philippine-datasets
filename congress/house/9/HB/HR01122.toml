@@ -1,0 +1,43 @@
+billNumber = "HR01122"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01122"
+lastScraped = "2025-09-22T00:25:57.572728"
+title = "HR01122"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE OIL SPILL AT THE LAGUNA LAKE CAUSED BY THE MALAYA THERMAL POWER PLANT OF THE NATIONAL POWER CORPORATION (NAPOCOR) LOCATED AT PILILIA, RIZAL, WITH THEEND IN VIEW OF REVIEWING THE MAINTENANCE PROGRAM OF THE NAPOCOR CONCERNING ITS POWER PLANTS AND TO RECOMMEND APPROPRIATE AND NECESSARY REMEDIAL LEGISLATIVE MEASURES"
+scope = "Local"
+dateFiled = "1994-07-26"
+status = "Pending with the Committee on ENERGY since 1994-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-08-01"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 134428
+congress = 9
+bill_no = "HR01122"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEES ON ENERGY AND ECOLOGY ON 08/02/94"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-08-01"

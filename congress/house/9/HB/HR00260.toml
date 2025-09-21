@@ -1,0 +1,75 @@
+billNumber = "HR00260"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00260"
+lastScraped = "2025-09-22T00:25:57.413522"
+title = "HR00260"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE FELIXBERTO M. SERRANO, FORMER MEMBER OF THE HOUSE OF REPRESENTATIVES , REPRESENTING THE FIRST DISTRICT OF BATANGAS AND FORMER SECRETARY OF FOREIGN AFFAIRS"
+scope = "Local"
+dateFiled = "1992-10-14"
+status = "Adopted as Resolution No. HR00016 on 1992-10-14"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "RECTO, RALPH G.", "LAUREL-TRINIDAD, MILAGROS", "ERMITA, EDUARDO R.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RECTO, RALPH G."
+nameCode = "Recto"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAUREL-TRINIDAD, MILAGROS"
+nameCode = "Laurel-trinidad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ERMITA, EDUARDO R."
+nameCode = "Ermita"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-10-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133572
+congress = 9
+bill_no = "HR00260"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-10-14"
+
+[secondReading]
+id = 20101
+congress = 9
+bill_no = "HR00260"
+adopted_resolution = "HR00016"
+date_approved = "1992-10-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00260.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00260.pdf"

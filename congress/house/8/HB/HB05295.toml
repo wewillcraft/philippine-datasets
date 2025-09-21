@@ -1,0 +1,42 @@
+billNumber = "HB05295"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05295"
+lastScraped = "2025-09-22T00:46:57.482242"
+title = "HB05295"
+longTitle = "AN ACT TO SUSPEND THE EFFECTIVITY OF EXECUTIVE ORDER NO. 273"
+scope = "National"
+dateFiled = "1988-02-04"
+status = "Pending with the Committee on WAYS AND MEANS since 1988-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1988-02-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 139978
+congress = 8
+bill_no = "HB05295"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1988-02-09"

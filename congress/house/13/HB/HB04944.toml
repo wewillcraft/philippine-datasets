@@ -1,0 +1,55 @@
+billNumber = "HB04944"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB04944"
+lastScraped = "2025-09-22T00:13:48.815976"
+title = "Pandemic Preparedness Act of 2005"
+longTitle = "AN ACT ESTABLISHING A PANDEMIC PREPAREDNESS PLAN AND FOR OTHER PURPOSES THEREFOR"
+scope = "National"
+dateFiled = "2005-11-23"
+status = "Pending with the Committee on HEALTH since 2005-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB04944.pdf"
+fileSize = 545243
+author = "Marcos, Imee R."
+coAuthors = [ "CODILLA, EUFROCINO SR. M.",]
+[[authorsDetail]]
+name = "Marcos, Imee R."
+nameCode = "Marcos"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR. M."
+nameCode = "Codilla"
+date = ""
+journalNo = "J038"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2005-12-05"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 80034
+congress = 13
+bill_no = "HB04944"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-12-05"
+date_read = "2005-12-05"

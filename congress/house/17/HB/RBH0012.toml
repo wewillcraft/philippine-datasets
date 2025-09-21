@@ -1,0 +1,85 @@
+billNumber = "RBH0012"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=RBH0012"
+lastScraped = "2025-09-21T23:55:46.808899"
+title = "RBH0012"
+longTitle = "RESOLUTION OF BOTH HOUSES OF CONGRESS PROPOSING TO IMMEDIATELY CONVENE THE JOINT OVERSIGHT COMMITTEE ON THE HUMAN SECURITY ACT OF 2007 FOR THE PURPOSE OF REVIEWING AND ASSESSING THE IMPLEMENTATION OF THE ANTI-TERRORISM POLICY OF THE COUNTRY"
+scope = "National"
+dateFiled = "2017-09-14"
+status = "Pending With Rules (Included in OB on 2017-09-18)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "ACOP, ROMEO M."
+[[authorsDetail]]
+name = "ACOP, ROMEO M."
+nameCode = "Acop"
+date = "2017-09-14"
+sequence = 1
+
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2017-09-14"
+sequence = 2
+
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2017-09-14"
+sequence = 3
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2017-09-18"
+
+[[motherBills]]
+bill_no = "RBH0004"
+sequence = 1
+date = "2017-09-14"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "RBH0004"
+sequence = 1
+date = "2017-09-14"
+flag = "S"
+
+[firstReading]
+id = 45800
+congress = 17
+bill_no = "RBH0012"
+report = "00381"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "PUBLIC ORDER AND SAFETY"
+recomm = "Recommending its adoption in substitution of Resolution of Both Houses No. 04 "
+remarks = ""
+file = "CR00381.pdf"
+date_read = "2017-09-18"
+date_ob = "2017-09-18"
+date_report = "2017-09-14"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_17/CR00381.pdf"
+
+[secondReading]
+id = 3891
+congress = 17
+bill_no = "RBH0012"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

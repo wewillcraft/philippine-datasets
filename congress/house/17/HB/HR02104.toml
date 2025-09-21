@@ -1,0 +1,47 @@
+billNumber = "HR02104"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR02104"
+lastScraped = "2025-09-21T23:55:46.652832"
+title = "HR02104"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE LEGAL BASIS AND POSSIBLE EFFECTS OF THE SHIFT FROM AN OBLIGATION-BASED TO A CASH-BASED BUDGETING SYSTEM AS PROPOSED IN THE FISCAL YEAR 2019 NATIONAL BUDGET"
+scope = "National"
+dateFiled = "2018-08-28"
+status = "Pending with the Committee on APPROPRIATIONS since 2019-01-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR02104.pdf"
+fileSize = 465215
+author = "Andaya, Rolando Jr. G."
+[[authorsDetail]]
+name = "Andaya, Rolando Jr. G."
+nameCode = "Andaya"
+date = "2018-08-28"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2018-08-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 44846
+congress = 17
+bill_no = "HR02104"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-01-21"
+date_read = "2018-08-28"

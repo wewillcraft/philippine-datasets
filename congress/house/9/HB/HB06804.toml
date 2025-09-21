@@ -1,0 +1,42 @@
+billNumber = "HB06804"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06804"
+lastScraped = "2025-09-22T00:25:55.849707"
+title = "HB06804"
+longTitle = "AN ACT IMPOSING VARIOUS PENALTIES ON THOSE FOUND GUILTY OF PROMOTING PROSTITUTION"
+scope = "National"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on JUSTICE since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 125423
+congress = 9
+bill_no = "HB06804"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-02-02"

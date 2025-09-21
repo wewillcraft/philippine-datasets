@@ -1,0 +1,42 @@
+billNumber = "HB01735"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01735"
+lastScraped = "2025-09-22T00:46:56.866019"
+title = "HB01735"
+longTitle = "AN ACT FOR THE IMPROVEMENT AND EXPANSION OF A WATERWORKS IN THE MUNICIPALITY OF DUMAGAS, PROVINCE OF ILOILO, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136426
+congress = 8
+bill_no = "HB01735"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-24"

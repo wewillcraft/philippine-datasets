@@ -1,0 +1,93 @@
+billNumber = "HB05721"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05721"
+lastScraped = "2025-09-22T00:13:48.989931"
+title = "\\\"Charter of the Provinces of Cebu Occidental, Cebu del Norte and Cebu del Sur\\\""
+longTitle = "AN ACT CREATING THE PROVINCES OF CEBU OCCIDENTAL, CEBU DEL NORTE AND CEBU DEL SUR"
+scope = "Local"
+dateFiled = "2006-08-24"
+status = "Bill Pending With Rules (Date Included in OB on 2006-08-29)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yapha, Antonio Jr. P."
+coAuthors = [ "MARTINEZ, CLAVEL A.", "KINTANAR, SIMEON L.",]
+[[authorsDetail]]
+name = "Yapha, Antonio Jr. P."
+nameCode = "Yapha"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MARTINEZ, CLAVEL A."
+nameCode = "Martinez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "KINTANAR, SIMEON L."
+nameCode = "Kintanar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2006-08-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[motherBills]]
+bill_no = "HB03632"
+sequence = 1
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB03657"
+sequence = 2
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB03733"
+sequence = 3
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03632"
+sequence = 1
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03657"
+sequence = 2
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03733"
+sequence = 3
+flag = "S"
+
+[firstReading]
+id = 80811
+congress = 13
+bill_no = "HB05721"
+report = "01896"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+remarks = ""
+date_read = "2006-08-29"
+date_ob = "2006-08-29"
+date_report = "2006-08-24"

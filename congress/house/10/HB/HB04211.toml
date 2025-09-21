@@ -1,0 +1,75 @@
+billNumber = "HB04211"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04211"
+lastScraped = "2025-09-22T00:20:58.162795"
+title = "HB04211"
+longTitle = "AN ACT GRANTING ADDITIONAL BENEFITS TO GOVERNMENT HEALTH WORKERS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on HEALTH since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "LIBAN, DANTE V.", "AVILA, EDGAR M.", "RODRIGUEZ, OSCAR S.", "ANGARA-CASTILLO, BELLAFLOR J.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANGARA-CASTILLO, BELLAFLOR J."
+nameCode = "Angara-castillo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110632
+congress = 10
+bill_no = "HB04211"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-10-05"

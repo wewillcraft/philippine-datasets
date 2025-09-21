@@ -1,0 +1,75 @@
+billNumber = "HB01473"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01473"
+lastScraped = "2025-09-22T00:20:57.627631"
+title = "HB01473"
+longTitle = "AN ACT UPGRADING THE SUB-DISTRICT ENGINEERING OFFICE IN THE CITY OF PUERTO PRINCESA, PROVINCE OF PALAWAN, INTO A REGULAR ENGINEERING DISTRICT OFFICE TO BE KNOWN AS THE THIRD ENGINEERING DISTRICT OF PALAWAN"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Transmitted to the President for Signature on 1997-02-25"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107894
+congress = 10
+bill_no = "HB01473"
+report = "00106"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "APPROVAL"
+date_read = "1995-08-03"
+date_ob = "1995-12-18"
+date_report = "1995-12-13"
+
+[secondReading]
+id = 17805
+congress = 10
+bill_no = "HB01473"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-12-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2425
+congress = 10
+bill_no = "HB01473"
+date_dist = "1996-01-22"
+date_adopt = "1996-01-25"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-01-25"
+date_rec = "1996-01-31"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1997-02-25"
+dte_actedp = "1997-03-22"

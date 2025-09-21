@@ -1,0 +1,51 @@
+billNumber = "HB05303"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05303"
+lastScraped = "2025-09-22T00:46:57.483411"
+title = "HB05303"
+longTitle = "AN ACT INSTITUTING A NATIONAL COOPERATIVES DEVELOPMENT PROGRAM"
+scope = "National"
+dateFiled = "1988-02-04"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1988-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pedro"
+coAuthors = [ "ORBOS, OSCAR M.",]
+[[authorsDetail]]
+name = "Pedro"
+nameCode = "Pedro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORBOS, OSCAR M."
+nameCode = "Orbos"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "516"
+dateRead = "1988-02-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 139986
+congress = 8
+bill_no = "HB05303"
+comm_act = "SUBSTITUTE D BY HB'S 10787 AND 13029"
+referral = "516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "1988-02-09"

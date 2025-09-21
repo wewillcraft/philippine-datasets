@@ -1,0 +1,47 @@
+billNumber = "HB03427"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03427"
+lastScraped = "2025-09-22T00:25:55.203403"
+title = "HB03427"
+longTitle = "AN ACT APPROPRIATING THE SUM OF TWO MILLION PESOS (P2,000,000.00) AS FUNDING SUPPORT FOR THE CONTINUED OPERATION OF THE URDANETA COMMUNITY COLLEGE"
+scope = "Local"
+dateFiled = "1992-10-07"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-12"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122046
+congress = 9
+bill_no = "HB03427"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-12"

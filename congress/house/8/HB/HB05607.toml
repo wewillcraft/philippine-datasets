@@ -1,0 +1,42 @@
+billNumber = "HB05607"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05607"
+lastScraped = "2025-09-22T00:46:57.533844"
+title = "HB05607"
+longTitle = "AN ACT ESTABLISHING THE EXPERIMENTAL FARM FOR CARABAO RESEARCH, BREEDING, UPGRADING AND DISPERSAL, TO BE LOCATED IN THE MUNICIPALITY OF DIGOS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-02-19"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-02-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 140289
+congress = 8
+bill_no = "HB05607"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-02-23"

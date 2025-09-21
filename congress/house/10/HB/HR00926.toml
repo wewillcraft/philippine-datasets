@@ -1,0 +1,47 @@
+billNumber = "HR00926"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00926"
+lastScraped = "2025-09-22T00:20:59.599914"
+title = "HR00926"
+longTitle = "RESOLUTION DIRECTNG THE COMMITTEE ON ECOLOGY OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED CASES OF MERCURY POISONING OF SCHOOL CHILDREN CAUSED BY THE GOLD REFINERY PLANTS SITUATED IN BARANGAY APOKON, TAGUM, DAVAO DEL NORTE, AND RECOMMEND APPROPRIATE ACTION AND MEASURES TO PREVENT THE OCCURENCE OF SUCH IN ORDER TO ENSURE THE PROTECTION AND WELFARE OF THE PUBLIC IN GENERAL"
+scope = "Local"
+dateFiled = "1996-10-28"
+status = "Pending with the Committee on RULES since 1996-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-05"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 117980
+congress = 10
+bill_no = "HR00926"
+comm_act = "Change of Referrral from the Ctte. on Rules to the Ctte. on Ecology on Nov. 6, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-05"

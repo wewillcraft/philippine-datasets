@@ -1,0 +1,90 @@
+billNumber = "HB05878"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05878"
+lastScraped = "2025-09-22T00:13:00.928659"
+title = "Converting Sulu State College in Jolo as Sulu State University"
+longTitle = "AN ACT CONVERTING THE SULU STATE COLLEGE IN THE MUNICIPALITY OF JOLO, PROVINCE OF SULU, INTO A STATE UNIVERSITY, TO BE KNOWN AS THE SULU STATE UNIVERSITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2003-03-20"
+status = "Approved by the House on 2003-05-26, transmitted to on 2003-06-02 and received by the Senate on 2003-06-03"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Amin, Hussin U."
+coAuthors = [ "ABAYON, HARLIN CAST", "JALA, ELADIO \"BOY\"",]
+[[authorsDetail]]
+name = "Amin, Hussin U."
+nameCode = "Amin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN CAST"
+nameCode = "Abayon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JALA, ELADIO \"BOY\""
+nameCode = "Jala"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-04-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HB00844"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00844"
+flag = "S"
+
+[firstReading]
+id = 89032
+congress = 12
+bill_no = "HB05878"
+report = "01346"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, WAYS AND MEANS, HIGHER AND TECHNICAL EDUCATION"
+recomm = "approval"
+date_read = "2003-04-21"
+date_ob = "2003-04-21"
+date_report = "2003-03-20"
+
+[secondReading]
+id = 14820
+congress = 12
+bill_no = "HB05878"
+remarks = "The Body approved to consider the Explanatory Note of the original HB No. 844 as the sponsorship remarks."
+date_approved = "2003-04-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5333
+congress = 12
+bill_no = "HB05878"
+date_dist = "2003-05-06"
+date_adopt = "2003-05-26"
+no_yeas = 148
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-06-02"
+date_rec = "2003-06-03"

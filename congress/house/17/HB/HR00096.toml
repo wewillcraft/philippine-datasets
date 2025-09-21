@@ -1,0 +1,47 @@
+billNumber = "HR00096"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00096"
+lastScraped = "2025-09-21T23:55:46.241221"
+title = "HR00096"
+longTitle = "A RESOLUTION CALLING ON THE HOUSE COMMITTEE ON WELFARE OF CHILDREN TO LOOK INTO THE ADVERSE EFFECTS OF CHARACTER-BASED VIDEO GAMES ON CHILDREN AND PRESCRIBE COUNTERMEASURES TO CURB, IF NOT DISCOURAGE YOUNGSTERS FROM ENGAGING IN SUCH CHARACTER-BASED VIDEO GAMES"
+scope = "National"
+dateFiled = "2016-07-20"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00096.pdf"
+fileSize = 207637
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-07-20"
+sequence = 1
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 42839
+congress = 17
+bill_no = "HR00096"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-08-02"

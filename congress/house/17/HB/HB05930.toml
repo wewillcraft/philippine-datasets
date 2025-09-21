@@ -1,0 +1,61 @@
+billNumber = "HB05930"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05930"
+lastScraped = "2025-09-21T23:55:45.280878"
+title = "HB05930"
+longTitle = "AN ACT CREATING IN EVERY CITY OR MUNICIPALITY A YOUTH REHABILITATION CENTER FOR YOUTH OFFENDERS WHILE IN DETENTION"
+scope = "National"
+dateFiled = "2017-07-03"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2017-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05930.pdf"
+fileSize = 200218
+author = "ERICE, EDGAR R."
+coAuthors = [ "NIETO, YUL SERVO", "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "ERICE, EDGAR R."
+nameCode = "Erice"
+date = "2017-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-08-14"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-08-16"
+journalNo = "J012"
+sessionNo = "2RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2017-07-25"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 39398
+congress = 17
+bill_no = "HB05930"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-25"

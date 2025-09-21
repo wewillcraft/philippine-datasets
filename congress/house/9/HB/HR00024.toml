@@ -1,0 +1,57 @@
+billNumber = "HR00024"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00024"
+lastScraped = "2025-09-22T00:25:57.371430"
+title = "HR00024"
+longTitle = "RESOLUTION URGING THE NATIONAL POWER CORPORATION (NAPOCOR) TO ADEQUATELY BRIEF CONGRESS FOR ITS INFORMATION AND GUIDANCE ON THE STATUS OF THE COUNTRY'S ENERGY SITUATION, PARTICULARLY ON THE UNDERGOING PROJECTS TO GENERATE POWER (GAS TURBINE, HYDROELECTRIC, THERMAL), THEIR EXPECTED COMPLETION, THE REPORTED NEW POWER RATE INCREASE AND WHY THAT HAS BECOME NECESSARY"
+scope = "National"
+dateFiled = "1992-07-24"
+status = "Pending with the Committee on ENERGY since 1992-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "DRAGON, RENATO P.", "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-07-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 133336
+congress = 9
+bill_no = "HR00024"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-07-30"

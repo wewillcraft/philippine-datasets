@@ -1,0 +1,40 @@
+billNumber = "HB05709"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05709"
+lastScraped = "2025-09-22T00:13:00.895306"
+title = "HB05709"
+longTitle = "AN ACT CONVERTING THE CULION SANITARIUM IN THE MUNICIAPLITY OF CULION, PROVINCE OF PALAWAN TO CULION SANITARIUM AND GENERAL HOSPITALS AND APPROPRIATING"
+scope = "Local"
+dateFiled = "2003-02-04"
+status = "Pending with the Committee on HEALTH since 2003-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2003-02-11"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88864
+congress = 12
+bill_no = "HB05709"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2003-02-11"

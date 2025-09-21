@@ -1,0 +1,42 @@
+billNumber = "HB08323"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08323"
+lastScraped = "2025-09-22T00:46:58.075739"
+title = "HB08323"
+longTitle = "AN ACT ESTABLISHING A FISHPORT IN THE MUNICIPALITY OF MASINLOC, PROVINCE OF ZAMBALES, TO BE KNOWN AS THE MASINLOC FISHPORT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1988-05-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1988-05-02"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 143001
+congress = 8
+bill_no = "HB08323"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1988-05-02"

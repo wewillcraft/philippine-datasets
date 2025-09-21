@@ -1,0 +1,54 @@
+billNumber = "HB01817"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01817"
+lastScraped = "2025-09-22T00:20:57.685746"
+title = "HB01817"
+longTitle = "AN ACT UPGRADING THE DIVISION OF SPECIAL EDUCATION OF THE BUREAU OF ELEMENTARY EDUCATION OF THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS INTO A BUREAU LEVEL"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "ANTONIO, PATRICIO T.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ANTONIO, PATRICIO T."
+nameCode = "Antonio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108238
+congress = 10
+bill_no = "HB01817"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-09"

@@ -1,0 +1,43 @@
+billNumber = "HB01944"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01944"
+lastScraped = "2025-09-22T00:46:56.903263"
+title = "HB01944"
+longTitle = "AN ACT RE-ENACTING REPUBLIC ACT NUMBERED NINE HUNDRED NINETY-TWO, OTHERWISE KNOWN AS THE REVISED BUDGET ACT"
+scope = "National"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on APPROPRIATIONS since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap"
+[[authorsDetail]]
+name = "Yap"
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 136634
+congress = 8
+bill_no = "HB01944"
+comm_act = "CONSOLIDAT ED W/ 7782"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1987-09-29"

@@ -1,0 +1,47 @@
+billNumber = "HR00794"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00794"
+lastScraped = "2025-09-22T00:20:59.574953"
+title = "HR00794"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON CIVIL SERVICE AND PROFESSIONAL REGULATION AND THE PROFESSIONAL REGULATORY COMMISSION (PRC) TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED LEAKAGES IN THE LICENSURE EXAMINATIONS FOR PHYSICAL THERAPISTS AS WELL AS CORRUPT PRACTICES OF BOARD EXAMINERS OF THE PRC"
+scope = "National"
+dateFiled = "1996-08-20"
+status = "Pending with the Committee on RULES since 1996-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing, Amado S."
+[[authorsDetail]]
+name = "Bagatsing, Amado S."
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 117848
+congress = 10
+bill_no = "HR00794"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Civil Service and Profession al Regulatio"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-21"

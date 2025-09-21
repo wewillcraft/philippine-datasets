@@ -1,0 +1,53 @@
+billNumber = "HR00993"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00993"
+lastScraped = "2025-09-22T00:20:59.613979"
+title = "HR00993"
+longTitle = "RESOLUTION CONGRATULATING THE MOST REVEREND DIOSDADO A. TALAMAYAN, D.D., ARCHBISHOP OF TUGUEGARAO, CAGAYAN, ON THE ARCHBISHOP'S OBSERVANCE OF HIS RUBY SACERDOTAL JUBILEE, FOR HIS DEDICATION IN HIS CALLING AND VOCATION"
+scope = "Local"
+dateFiled = "1996-12-03"
+status = "Adopted as Resolution No. HR00085 on 1996-12-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118047
+congress = 10
+bill_no = "HR00993"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-03"
+
+[secondReading]
+id = 19012
+congress = 10
+bill_no = "HR00993"
+adopted_resolution = "HR00085"
+date_calendared = "1996-12-03"
+date_approved = "1996-12-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00085.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00085.pdf"

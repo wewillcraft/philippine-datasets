@@ -1,0 +1,67 @@
+billNumber = "HB02297"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02297"
+lastScraped = "2025-09-22T00:13:00.213602"
+title = "Creating Another Congressional District in Zamboanga Sibugay, Amending for the Purpose RA 8973"
+longTitle = "AN ACT CREATING ANOTHER CONGRESSIONAL DISTRICT IN THE PROVINCE OF ZAMBOANGA SIBUGAY, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED EIGHTY-NINE HUNDRED AND SEVENTY-THREE, OTHERWISE KNOWN AS THE CHARTER OF THE PROVINCE OF ZAMBOANGA SIBUGAY"
+scope = "Local"
+dateFiled = "2001-08-10"
+status = "Approved by the House on 2003-05-26, transmitted to on 2003-06-02 and received by the Senate on 2003-06-03"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabilao, Belma A."
+[[authorsDetail]]
+name = "Cabilao, Belma A."
+nameCode = "Cabilao"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 85457
+congress = 12
+bill_no = "HB02297"
+report = "01368"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval without amendment"
+date_read = "2001-08-20"
+date_ob = "2003-04-23"
+date_report = "2003-03-26"
+
+[secondReading]
+id = 14279
+congress = 12
+bill_no = "HB02297"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks."
+date_approved = "2003-05-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4835
+congress = 12
+bill_no = "HB02297"
+date_dist = "2003-05-12"
+date_adopt = "2003-05-26"
+no_yeas = 148
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-06-02"
+date_rec = "2003-06-03"

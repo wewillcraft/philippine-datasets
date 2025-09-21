@@ -1,0 +1,42 @@
+billNumber = "HB00345"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00345"
+lastScraped = "2025-09-22T00:25:54.656641"
+title = "HB00345"
+longTitle = "AN ACT AUTHORIZING THE NATIONAL POWER CORPORATION TO PROVIDE THE PROVINCE OF LAGUNA AND ITS INHABITANTS AN EQUITABLE SHARE IN THE PROCEEDS OF UTILIZATION AND DEVELOPMENT OF NATURAL WEALTH WITHIN ITS TERRITORY, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-07-29"
+status = "Pending with the Committee on ENERGY since 1992-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-08-03"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[firstReading]
+id = 118964
+congress = 9
+bill_no = "HB00345"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-08-03"

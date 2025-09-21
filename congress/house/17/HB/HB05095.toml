@@ -1,0 +1,61 @@
+billNumber = "HB05095"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05095"
+lastScraped = "2025-09-21T23:55:45.092060"
+title = "HB05095"
+longTitle = "AN ACT DECLARING JULY 2 OF EVERY YEAR AS \\\"ARAW NG NOVALICHES\\\" IN THE FIFTH DISTRICT OF QUEZON CITY"
+scope = "Local"
+dateFiled = "2017-02-21"
+status = "Pending with the Committee on REVISION OF LAWS since 2017-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05095.pdf"
+fileSize = 206570
+author = "Vargas, Alfred D."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "ABUEG, FREDERICK \"ERICK\" F.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2017-02-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2017-05-09"
+journalNo = "J087"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABUEG, FREDERICK \"ERICK\" F."
+nameCode = "Abueg"
+date = "2017-05-09"
+journalNo = "J087"
+sessionNo = "1RS"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "2017-02-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 38563
+congress = 17
+bill_no = "HB05095"
+report = ""
+comm_act = ""
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-02-28"

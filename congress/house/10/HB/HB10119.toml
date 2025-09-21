@@ -1,0 +1,54 @@
+billNumber = "HB10119"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10119"
+lastScraped = "2025-09-22T00:20:59.317665"
+title = "HB10119"
+longTitle = "AN ACT TO ACCELERATE THE TECHNOLOGICAL DEVELOPMENT IN THE PHILIPPINES AND APPROPRIATING FUNDS FOR THE PURPOSE"
+scope = "National"
+dateFiled = "1997-10-15"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1997-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1997-10-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116540
+congress = 10
+bill_no = "HB10119"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1997-10-20"

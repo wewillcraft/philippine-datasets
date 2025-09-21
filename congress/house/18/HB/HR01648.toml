@@ -1,0 +1,83 @@
+billNumber = "HR01648"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01648"
+lastScraped = "2025-09-22T00:01:47.653935"
+title = "HR01648"
+longTitle = "RESOLUTION COMMENDING THE CEBU PEOPLE'S MULTI-PURPOSE COOPERATIVE FOR ITS OUTSTANDING ROLE AND CONTRIBUTION TO COOPERATIVE DEVELOPMENT, AND ITS EXEMPLARY COMMITMENT AS A PARTNER FOR ECONOMIC GROWTH AND SUSTAINABLE DEVELOPMENT\r\n"
+scope = "National"
+dateFiled = "2021-03-11"
+status = "Adopted as Resolution No. HR00163 on 2021-05-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Canama, Sabiniano S."
+[[authorsDetail]]
+name = "Canama, Sabiniano S."
+nameCode = "Canama"
+date = "2021-03-11"
+sequence = 1
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2021-03-15"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[motherBills]]
+bill_no = "HR01327"
+sequence = 1
+date = "2021-03-11"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01327"
+sequence = 1
+date = "2021-03-11"
+flag = "S"
+
+[firstReading]
+id = 31966
+congress = 18
+bill_no = "HR01648"
+report = "00854"
+comm_act = ""
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = "COOPERATIVES DEVELOPMENT"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1327"
+remarks = ""
+file = "CR00854.pdf"
+date_read = "2021-03-15"
+date_ob = "2021-03-15"
+date_report = "2021-03-11"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00854.pdf"
+
+[secondReading]
+id = 2711
+congress = 18
+bill_no = "HR01648"
+adopted_resolution = "HR00163"
+adopted_resolution_title = "RESOLUTION COMMENDING THE CEBU PEOPLE'S MULTI-PURPOSE COOPERATIVE FOR ITS OUTSTANDING ROLE AND CONTRIBUTION TO COOPERATIVE DEVELOPMENT, AND ITS EXEMPLARY COMMITMENT AS A PARTNER FOR ECONOMIC GROWTH AND SUSTAINABLE DEVELOPMENT"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2021-03-17"
+date_approved = "2021-05-25"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01648.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01648.pdf"

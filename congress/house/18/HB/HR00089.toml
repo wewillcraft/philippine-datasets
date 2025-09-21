@@ -1,0 +1,46 @@
+billNumber = "HR00089"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00089"
+lastScraped = "2025-09-22T00:01:47.354771"
+title = "HR00089"
+longTitle = "A RESOLUTION CALLING ON MULTI-SECTORAL COUNTER MEASURES TO EFFICIENTLY STEM THE RISE OF DENGUE CASES IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2019-07-23"
+status = "Pending with the Committee on HEALTH since 2019-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00089.pdf"
+fileSize = 231247
+author = "Castelo, Precious Hipolito"
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-07-23"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-07-30"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 30417
+congress = 18
+bill_no = "HR00089"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-30"

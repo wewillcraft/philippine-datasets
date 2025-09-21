@@ -1,0 +1,41 @@
+billNumber = "HB12888"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12888"
+lastScraped = "2025-09-22T00:23:17.921185"
+title = "HB12888"
+longTitle = "AN ACT DECLARING BRGY. PUNTA-TAYTAY IN THE CITY OF BACOLOD, PROVINCE OF NEGROS OCCIDENTAL, AS AN AQUA-TOURISM ZONE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-01-29"
+status = "Pending with the Committee on TOURISM since 2001-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-02-05"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 104303
+congress = 11
+bill_no = "HB12888"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-02-05"

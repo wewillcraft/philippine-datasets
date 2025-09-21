@@ -1,0 +1,42 @@
+billNumber = "HB02122"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02122"
+lastScraped = "2025-09-22T00:13:00.183764"
+title = "HB02122"
+longTitle = "AN ACT REQUIRING PRIVATE INDUSTRIAL ENTERPRISES TO ISSUE REGULAR APPOINTMENTS TO PHYSICIANS EMPLOYED THEREIN AND PROVIDING PENALTIES THEREOF"
+scope = "National"
+dateFiled = "2001-08-07"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 85282
+congress = 12
+bill_no = "HB02122"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-08-13"

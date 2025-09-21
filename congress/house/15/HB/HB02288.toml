@@ -1,0 +1,54 @@
+billNumber = "HB02288"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB02288"
+lastScraped = "2025-09-21T23:56:40.972226"
+title = "HB02288"
+longTitle = "AN ACT IDENTIFYING AND PROMOTING RESEARCH ON HEALTH AND IMPLICATIONS OF BREAST IMPLANTS"
+scope = "National"
+dateFiled = "2010-08-09"
+status = "Pending with the Committee on HEALTH since 2010-08-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB02288.pdf"
+fileSize = 418597
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-08-16"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 57760
+congress = 15
+bill_no = "HB02288"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-16"

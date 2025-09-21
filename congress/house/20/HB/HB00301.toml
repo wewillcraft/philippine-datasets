@@ -1,0 +1,46 @@
+billNumber = "HB00301"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00301"
+lastScraped = "2025-09-21T23:39:48.355526"
+title = "HB00301"
+longTitle = "AN ACT MANDATING ALL LOCAL GOVERNMENT UNITS TO ESTABLISH, MAINTAIN, AND MANAGE MALASAKIT CENTERS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on HEALTH since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00301.pdf"
+fileSize = 65458
+author = "PLEYTO, SALVADOR A."
+[[authorsDetail]]
+name = "PLEYTO, SALVADOR A."
+nameCode = "Pleyto"
+date = "2025-06-30"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 302
+congress = 103
+bill_no = "HB00301"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

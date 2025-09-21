@@ -1,0 +1,54 @@
+billNumber = "HB09751"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09751"
+lastScraped = "2025-09-22T00:20:59.238662"
+title = "HB09751"
+longTitle = "AN ACT CREATING A CITY SCHOOLS DIVISION IN THE CITY OF MUNTINLUPA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-05"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116172
+congress = 10
+bill_no = "HB09751"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-07"

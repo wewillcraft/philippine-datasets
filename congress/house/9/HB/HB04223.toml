@@ -1,0 +1,47 @@
+billNumber = "HB04223"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04223"
+lastScraped = "2025-09-22T00:25:55.393989"
+title = "HB04223"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A MULTI-PURPOSE AUDITORIUM IN THE MUNICIPALITY OF KAPATAGAN, PROVINCE OF LANAO DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-29"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122842
+congress = 9
+bill_no = "HB04223"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-29"

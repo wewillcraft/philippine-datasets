@@ -1,0 +1,43 @@
+billNumber = "HR00647"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00647"
+lastScraped = "2025-09-22T00:25:57.484644"
+title = "HR00647"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED OVERBILLING OF CUSTOMERS BY THE MANILA ELECTRIC COMPANY (MERALCO) DESPITE THE MARKED SHORTAGE IN POWER SUPPLY CAUSED BY THE SPATE OF POWER OUTAGES, AND TO RECOMMEND THE APPROPRIATE REMEDIAL, ADMINISTRATIVE, AND LEGISLATIVE MEASURES THEREFOR"
+scope = "National"
+dateFiled = "1993-06-02"
+status = "Pending with the Committee on ENERGY since 1993-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133959
+congress = 9
+bill_no = "HR00647"
+comm_act = "Change of referral from the Committee on Rules(J.10 7, p. 269)"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-06-04"

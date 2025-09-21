@@ -1,0 +1,49 @@
+billNumber = "HR01316"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01316"
+lastScraped = "2025-09-22T00:20:59.677168"
+title = "HR01316"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE IMPORTATION OF CATTLE INTO THE COUNTRY FROM JANUARY 1995 TO JULY 1996, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-08-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118370
+congress = 10
+bill_no = "HR01316"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-08-07"

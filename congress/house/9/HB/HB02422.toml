@@ -1,0 +1,47 @@
+billNumber = "HB02422"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02422"
+lastScraped = "2025-09-22T00:25:55.021768"
+title = "HB02422"
+longTitle = "AN ACT CREATING THE NUEVA ECIJA FARMERS HOSPITAL AND MEDICAL RESEARCH CENTER, PROVIDING FOR ITS FACILITIES AND APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-09-08"
+status = "Pending with the Committee on HEALTH since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121041
+congress = 9
+bill_no = "HB02422"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-18"

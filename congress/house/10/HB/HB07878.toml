@@ -1,0 +1,46 @@
+billNumber = "HB07878"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07878"
+lastScraped = "2025-09-22T00:20:58.858766"
+title = "HB07878"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN ALDEGUER ELEMENTARY SCHOOL, BARANGAY ALDEGUER, MUNICIPALITY OF SARA, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-09-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-09"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114299
+congress = 10
+bill_no = "HB07878"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-09-09"

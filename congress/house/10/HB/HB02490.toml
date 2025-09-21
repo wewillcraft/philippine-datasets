@@ -1,0 +1,77 @@
+billNumber = "HB02490"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02490"
+lastScraped = "2025-09-22T00:20:57.828185"
+title = "HB02490"
+longTitle = "AN ACT ESTABLISHING A VOCATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SANTOL, PROVINCE OF LA UNION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-16"
+status = "Approved on Third Reading on 1998-01-12"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "ASPIRAS, JOSE D.",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ASPIRAS, JOSE D."
+nameCode = "Aspiras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-22"
+
+[[committee]]
+name = "VETERANS AFFAIRS AND WELFARE"
+type = "principal"
+referralCode = "A506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108911
+congress = 10
+bill_no = "HB02490"
+report = "01379"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1995-08-22"
+date_ob = "1997-12-18"
+date_report = "1997-12-18"
+
+[secondReading]
+id = 17928
+congress = 10
+bill_no = "HB02490"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2543
+congress = 10
+bill_no = "HB02490"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0

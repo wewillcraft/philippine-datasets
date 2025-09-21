@@ -1,0 +1,57 @@
+billNumber = "HR01135"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01135"
+lastScraped = "2025-09-22T00:23:18.160655"
+title = "HR01135"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY, THE COMMITTEE ON CIVIL, POLITICAL AND HUMAN RIGHTS, THE COMMITTEE ON MUSLIM AFFAIRS AND THE COMMITTEE ON NATIONAL DEFENSE TO JOINTLY CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED ANOMALY IN THE OPERATION CONDUCTED BY THE MILITARY THAT COMMENCE LAST AUGUST 18, 1999 AND UP TO THE PRESENT ALLEGEDLY TO RESCUE THE KIDNAPPED VICTIM, WILMARIE FURIGAY, WHERE MORE THAN 50 PEOPLE WERE KILLED AND MORE THAN 40HOUSES WERE BURNED AT GUINANTA, TIPO-TIPO, BASILAN PROVINCE"
+scope = "Local"
+dateFiled = "1999-09-15"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1999-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salapuddin, Gerry A."
+[[authorsDetail]]
+name = "Salapuddin, Gerry A."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1999-09-21"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 105591
+congress = 11
+bill_no = "HR01135"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1999-09-21"

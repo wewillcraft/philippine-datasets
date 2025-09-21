@@ -1,0 +1,46 @@
+billNumber = "HB01969"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01969"
+lastScraped = "2025-09-22T00:20:57.716877"
+title = "HB01969"
+longTitle = "AN ACT CREATING THE DAVAO PORT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING APPROPRIATIONS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108390
+congress = 10
+bill_no = "HB01969"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-08-14"

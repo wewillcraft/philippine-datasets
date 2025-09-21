@@ -1,0 +1,46 @@
+billNumber = "HB08002"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB08002"
+lastScraped = "2025-09-22T00:01:46.615413"
+title = "HB08002"
+longTitle = "AN ACT MANDATING ALL CHILD PATIENTS, SEVEN YEARS OLD AND BELOW, TO HAVE A COMPANION WHILE IN HOSPITALS AND MEDICAL CLINICS, AND FOR OTHER\r\nPURPOSES"
+scope = "National"
+dateFiled = "2020-11-11"
+status = "Pending with the Committee on HEALTH since 2020-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB08002.pdf"
+fileSize = 1848606
+author = "Lopez, Manuel Luis T."
+[[authorsDetail]]
+name = "Lopez, Manuel Luis T."
+nameCode = "Lopez (M.L.)"
+date = "2020-11-11"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-11-23"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 27407
+congress = 18
+bill_no = "HB08002"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-11-23"

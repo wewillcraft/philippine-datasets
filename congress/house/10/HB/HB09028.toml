@@ -1,0 +1,82 @@
+billNumber = "HB09028"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09028"
+lastScraped = "2025-09-22T00:20:59.085110"
+title = "HB09028"
+longTitle = "AN ACT DECLARING TAGBIBINTA FALLS AND ITS PREMISES, LOCATED IN BARANGAY CORONOBE, MUNICIPALITY OF MARAGUSAN, DAVAO PROVINCE, A TOURIST SPOT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-03-03"
+status = "Approved by the House on 1997-04-30, transmitted to on 1997-04-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "TOURISM",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TOURISM"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-03-04"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[motherBills]]
+bill_no = "HB07782"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB07782"
+flag = "S"
+
+[firstReading]
+id = 115449
+congress = 10
+bill_no = "HB09028"
+report = "00810"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-03-04"
+date_ob = "1997-03-04"
+date_report = "1997-03-03"
+
+[secondReading]
+id = 18663
+congress = 10
+bill_no = "HB09028"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3243
+congress = 10
+bill_no = "HB09028"
+date_dist = "1997-04-21"
+date_adopt = "1997-04-30"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-30"
+date_rec = "1997-05-07"

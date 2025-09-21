@@ -1,0 +1,47 @@
+billNumber = "HB03365"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03365"
+lastScraped = "2025-09-22T00:25:55.192580"
+title = "HB03365"
+longTitle = "AN ACT ESTABLISHING A GYMNASIUM IN THE MUNICIPALITY OF MAGSAYSAY, PROVINCE OF MISAMIS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-06"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1992-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1992-10-12"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121984
+congress = 9
+bill_no = "HB03365"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = ""
+date_read = "1992-10-12"

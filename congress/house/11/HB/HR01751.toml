@@ -1,0 +1,47 @@
+billNumber = "HR01751"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01751"
+lastScraped = "2025-09-22T00:23:18.280286"
+title = "HR01751"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEES ON NATIONAL DEFENSE, PUBLIC ORDER AND SECURITY AND LOCAL GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE CIRCUMSTANCES THAT LED TO THE P730 MILLION SHABU BUST IN BARANGAY BIGNAY, SARIAYA,QUEZON"
+scope = "Local"
+dateFiled = "2000-09-14"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2000-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2000-09-19"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 106205
+congress = 11
+bill_no = "HR01751"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2000-09-19"

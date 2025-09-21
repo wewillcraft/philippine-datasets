@@ -1,0 +1,55 @@
+billNumber = "HB04007"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB04007"
+lastScraped = "2025-09-22T00:01:45.759826"
+title = "HB04007"
+longTitle = "AN ACT GRANTING ADDITIONAL PRIVILEGES TO PERSONS WITH DISABILITIES, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7277, AS AMENDED, OTHERWISE KNOWN AS THE MAGNA CARTA FOR PERSONS WITH DISABILITIES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2019-08-15"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2020-01-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB04007.pdf"
+fileSize = 3250247
+author = "Agabas, Tyrone D."
+coAuthors = [ "RAMOS, MA. BERNARDITA B.",]
+[[authorsDetail]]
+name = "Agabas, Tyrone D."
+nameCode = "Agabas"
+date = "2019-08-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RAMOS, MA. BERNARDITA B."
+nameCode = "Ramos"
+date = "2019-11-13"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2019-08-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 23416
+congress = 18
+bill_no = "HB04007"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-01-21"
+date_read = "2019-08-27"

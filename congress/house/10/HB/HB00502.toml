@@ -1,0 +1,75 @@
+billNumber = "HB00502"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00502"
+lastScraped = "2025-09-22T00:20:57.464538"
+title = "HB00502"
+longTitle = "AN ACT TO EXPAND LIVESTOCK MARKETS CONSTRUCTION IN ALL CONGRESSIONAL DISTRICTS, PROVIDING FUNDS THEREFOR, AND OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "LOBREGAT, MA. CLARA L.", "GARCIA, ENRIQUE JR. T.", "GULLAS, EDUARDO R.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, MA. CLARA L."
+nameCode = "Lobregat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GARCIA, ENRIQUE JR. T."
+nameCode = "Garcia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 106923
+congress = 10
+bill_no = "HB00502"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-07-27"

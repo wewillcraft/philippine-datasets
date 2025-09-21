@@ -1,0 +1,72 @@
+billNumber = "HB06075"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06075"
+lastScraped = "2025-09-22T00:20:58.490617"
+title = "HB06075"
+longTitle = "AN ACT CREATING THE POLO MUNICIPAL HIGH SCHOOL IN VALENZUELA, METRO MANILA BY SEPARATING THE POLO ANNEX FROM THE VALENZUELA MUNICIPAL HIGH SCHOOL AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-02"
+status = "Approved by the House on 1997-08-05, transmitted to on 1997-08-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serapio"
+[[authorsDetail]]
+name = "Serapio"
+nameCode = "Serapio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-07"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112496
+congress = 10
+bill_no = "HB06075"
+report = "00980"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1996-02-07"
+date_ob = "1997-06-05"
+date_report = "1997-06-04"
+
+[secondReading]
+id = 18296
+congress = 10
+bill_no = "HB06075"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2898
+congress = 10
+bill_no = "HB06075"
+date_dist = "1997-07-29"
+date_adopt = "1997-08-05"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-06"
+date_rec = "1997-08-12"
+amend_ind = "N"

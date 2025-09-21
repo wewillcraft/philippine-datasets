@@ -1,0 +1,52 @@
+billNumber = "HR00379"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00379"
+lastScraped = "2025-09-22T00:01:47.408711"
+title = "HR00379"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED CONTINUOUS SMUGGLING AND PROLIFERATION OF SUBSTANDARD STEEL PRODUCTS IN THE PHILIPPINES RESULTING FROM THE COLLUSION BETWEEN LARGE STEELMAKERS AND OFFICIALS OF THE DEPARTMENT OF TRADE AND INDUSTRY AND THE BUREAU OF CUSTOMS"
+scope = "National"
+dateFiled = "2019-09-24"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00379.pdf"
+fileSize = 637915
+author = "Fortun, Lawrence H."
+[[authorsDetail]]
+name = "Fortun, Lawrence H."
+nameCode = "Fortun"
+date = "2019-09-24"
+sequence = 1
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2019-09-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "MINDANAO AFFAIRS"
+type = "secondary"
+referralCode = "A507"
+
+[firstReading]
+id = 30707
+congress = 18
+bill_no = "HR00379"
+report = ""
+comm_act = ""
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-30"

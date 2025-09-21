@@ -1,0 +1,47 @@
+billNumber = "HB10025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10025"
+lastScraped = "2025-09-22T00:25:56.407250"
+title = "HB10025"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A FIRE STATION WITH SUFFICIENT AND MODERN FIRE-FIGHTING EQUIPMENT IN THE MUNICIPALITY OF VALENCIA, PROVINCE OF BOHOL, AND PROVIDING FUNDS THEREFOR 1"
+scope = "Local"
+dateFiled = "1993-07-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1993-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1993-08-03"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128643
+congress = 9
+bill_no = "HB10025"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1993-08-03"

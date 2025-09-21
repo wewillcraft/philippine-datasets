@@ -1,0 +1,42 @@
+billNumber = "HR00435"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00435"
+lastScraped = "2025-09-22T00:47:02.609507"
+title = "HR00435"
+longTitle = "RESOLUTION ENJOINING THE HOUSE OF REPRESENTATIVES TO INQUIRE INTO REPORTS THAT THE PHILIPPINE GOVERNMENT AND THE UNION OF SOVIET SOCIALIST REPUBLICS ARE QUIETLY CONDUCTING NEGOTIATIONS TOWARDS THE ESTABLISHMENT OF USSR PROJECTS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1987-10-14"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1987-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran"
+[[authorsDetail]]
+name = "Beltran"
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1987-10-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170326
+congress = 8
+bill_no = "HR00435"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1987-10-16"

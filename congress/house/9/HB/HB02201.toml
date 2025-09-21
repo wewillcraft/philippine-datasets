@@ -1,0 +1,47 @@
+billNumber = "HB02201"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02201"
+lastScraped = "2025-09-22T00:25:54.982972"
+title = "HB02201"
+longTitle = "AN ACT CURBING MARIJUANA PLANTATIONS IN THE COUNTRY AND APPROPRIATING FIVE MILLION PESOS THEREFOR"
+scope = "National"
+dateFiled = "1992-09-03"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1992-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120820
+congress = 9
+bill_no = "HB02201"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1992-09-18"

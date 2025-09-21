@@ -1,0 +1,42 @@
+billNumber = "HR00110"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00110"
+lastScraped = "2025-09-22T00:25:57.388035"
+title = "HR00110"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE TO STUDY, IN AID OF LEGISLATION, HOW TO FURTHER SUPPORT THE COCONUT INDUSTRY"
+scope = "National"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 133422
+congress = 9
+bill_no = "HR00110"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-27"

@@ -1,0 +1,42 @@
+billNumber = "HB05739"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05739"
+lastScraped = "2025-09-22T00:13:00.901590"
+title = "HB05739"
+longTitle = "AN ACT DECLARING JANUARY 12 AS A SPECIAL NONWORKING HOLIDAY IN THE CITY OF VALENCIA, PROVINCE OF BUKIDNON"
+scope = "Local"
+dateFiled = "2003-02-11"
+status = "Pending with the Committee on REVISION OF LAWS since 2003-02-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ancheta"
+[[authorsDetail]]
+name = "Ancheta"
+nameCode = "Ancheta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "2003-02-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 88894
+congress = 12
+bill_no = "HB05739"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "2003-02-17"

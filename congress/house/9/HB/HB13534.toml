@@ -1,0 +1,42 @@
+billNumber = "HB13534"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13534"
+lastScraped = "2025-09-22T00:25:57.099339"
+title = "HB13534"
+longTitle = "AN ACT CONVERTING THE CATANDUANES STATE COLLEGES INTO A SCIENCE AND TECHNOLOGY UNIVERSITY"
+scope = "Local"
+dateFiled = "1994-08-23"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-08-29"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132143
+congress = 9
+bill_no = "HB13534"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-08-29"

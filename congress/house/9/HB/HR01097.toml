@@ -1,0 +1,43 @@
+billNumber = "HR01097"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01097"
+lastScraped = "2025-09-22T00:25:57.568449"
+title = "HR01097"
+longTitle = "RESOLUTION REQUESTING AND URGING THE HOUSE OF REPRESENTATIVES THROUGH ITS COMMITTEE ON TOURISM TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ANOMALIES INVOLVING THE IMPROVEMENT OF THE BURNHAM PARK, BAGUIO CITY"
+scope = "Local"
+dateFiled = "1994-06-29"
+status = "Pending with the Committee on TOURISM since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 134404
+congress = 9
+bill_no = "HR01097"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEE ON TOURISM ON JULY 27, 1994"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-07-26"

@@ -1,0 +1,42 @@
+billNumber = "HR00254"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00254"
+lastScraped = "2025-09-22T00:25:57.412649"
+title = "HR00254"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC ORDER AND SECURITY TO INQUIRE, IN AID OF LEGISLATION, ON THE RECENT ARREST OF KIDNAPPERS WHO CONFESSED THAT TEN POLICE AND ARMY GENERALS ARE AGAIN LINKED TO KIDNAPPING SYNDICATES"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133566
+congress = 9
+bill_no = "HR00254"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1992-10-15"

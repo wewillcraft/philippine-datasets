@@ -1,0 +1,47 @@
+billNumber = "HB00427"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00427"
+lastScraped = "2025-09-22T00:25:54.672048"
+title = "HB00427"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF SANGAY IN THE PROVINCE OF AGUSAN DEL NORTE"
+scope = "Local"
+dateFiled = "1992-07-30"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Amante, Edelmiro A."
+[[authorsDetail]]
+name = "Amante, Edelmiro A."
+nameCode = "Amante"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119046
+congress = 9
+bill_no = "HB00427"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-05"

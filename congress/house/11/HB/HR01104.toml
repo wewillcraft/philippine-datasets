@@ -1,0 +1,54 @@
+billNumber = "HR01104"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01104"
+lastScraped = "2025-09-22T00:23:18.154630"
+title = "HR01104"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TRANSPORTATION AND COMMUNICATIONS AND ON TOURISM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE EXORBITANT FARES BEING IMPOSED BY THE AIRPORT'S AUTHORIZED METERED TAXIS THROUGHOUT THE COUNTRY MORE PARTICULARLY THOSE THAT ARE OPERATING AT THE NINOY AQUINO INTERNATIONAL AIRPORT, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1999-09-02"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1999-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1999-09-08"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "TOURISM"
+type = "secondary"
+referralCode = "0538"
+
+[firstReading]
+id = 105560
+congress = 11
+bill_no = "HR01104"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1999-09-08"

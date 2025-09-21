@@ -1,0 +1,51 @@
+billNumber = "HR00014"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00014"
+lastScraped = "2025-09-21T23:39:49.199752"
+title = "HR00014"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO OPEN TO THE PUBLIC AND MEDIA ALL BICAMERAL CONFERENCE COMMITTEE HEARINGS AND DOCUMENTS ON THE NATIONAL BUDGET, STARTING WITH THE GENERAL APPROPRIATIONS BILL FY 2025"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on APPROPRIATIONS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00014.pdf"
+fileSize = 2521301
+author = "TINIO, ANTONIO L."
+[[authorsDetail]]
+name = "TINIO, ANTONIO L."
+nameCode = "Tinio"
+date = "2025-06-30"
+sequence = 1
+
+[[authorsDetail]]
+name = "CO, RENEE LOUISE M."
+nameCode = "Co (R. L. M.)"
+date = "2025-06-30"
+sequence = 2
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 4569
+congress = 103
+bill_no = "HR00014"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

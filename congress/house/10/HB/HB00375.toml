@@ -1,0 +1,41 @@
+billNumber = "HB00375"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00375"
+lastScraped = "2025-09-22T00:20:57.444270"
+title = "HB00375"
+longTitle = "AN ACT CREATING A NEW BARANGAY TO BE CALLED BARANGAY CASICLAN FORMERLY SITIO CASICLAN IN BARANGAY DURIAN, LAS NIEVES, AGUSAN DEL NORTE, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-06"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 106796
+congress = 10
+bill_no = "HB00375"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-07-26"

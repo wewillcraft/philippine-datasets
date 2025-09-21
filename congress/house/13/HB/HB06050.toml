@@ -1,0 +1,52 @@
+billNumber = "HB06050"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB06050"
+lastScraped = "2025-09-22T00:13:49.064246"
+title = "\\\"National Environmental Protection Act\\\""
+longTitle = "AN ACT CREATING THE NATIONAL ENVIRONMENTAL PROTECTION AGENCY, DEFINING ITS POWERS, FUNCTIONS AND RESPONSIBILITIES; APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2007-01-17"
+status = "Pending with the Committee on ECOLOGY since 2007-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB06050.pdf"
+fileSize = 3000135
+author = "Mitra, Abraham Kahlil B."
+[[authorsDetail]]
+name = "Mitra, Abraham Kahlil B."
+nameCode = "Mitra"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2007-01-24"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 81140
+congress = 13
+bill_no = "HB06050"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2007-01-24"
+date_read = "2007-01-24"

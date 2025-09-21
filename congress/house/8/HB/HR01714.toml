@@ -1,0 +1,42 @@
+billNumber = "HR01714"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01714"
+lastScraped = "2025-09-22T00:47:02.871407"
+title = "HR01714"
+longTitle = "RESOLUTION COMMENDING THE PHILIPPINE MEDICAL ASSOCIATION FOR SERVICES RENDERED TO THE PEOPLE IN THE RURAL AS WELL AS DEPRESSED AREAS IN THE COUNTRY AND FOR LOWERING THE PROFESSIONAL FEE CHARGED BY ITS MEMBERS"
+scope = "National"
+dateFiled = "1990-03-29"
+status = "Pending with the Committee on HEALTH since 1990-03-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1990-03-29"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 171556
+congress = 8
+bill_no = "HR01714"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1990-03-29"

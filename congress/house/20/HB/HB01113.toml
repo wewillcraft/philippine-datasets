@@ -1,0 +1,46 @@
+billNumber = "HB01113"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01113"
+lastScraped = "2025-09-21T23:39:48.519008"
+title = "HB01113"
+longTitle = "AN ACT RECLASSIFYING A PARCEL OF LAND OF THE PUBLIC DOMAIN LOCATED IN\r\nTHE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF BUKIDNON, AS AGRICULTURAL LAND AND OPEN TO DISPOSITION"
+scope = "Local"
+dateFiled = "2025-07-02"
+status = "Pending with the Committee on NATURAL RESOURCES since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01113.pdf"
+fileSize = 476455
+author = "FLORES, JONATHAN KEITH T."
+[[authorsDetail]]
+name = "FLORES, JONATHAN KEITH T."
+nameCode = "Flores"
+date = "2025-07-02"
+sequence = 1
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 1114
+congress = 103
+bill_no = "HB01113"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

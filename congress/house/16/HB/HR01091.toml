@@ -1,0 +1,50 @@
+billNumber = "HR01091"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01091"
+lastScraped = "2025-09-21T23:56:22.998177"
+title = "HR01091"
+longTitle = "RESOLUTION CREATING A CONGRESSIONAL OVERSIGHT COMMITTEE ON SOCIALIZED AND LOW-COST HOUSING"
+scope = "National"
+dateFiled = "2014-05-06"
+status = "Pending With Rules (Included in OB on 2014-10-20)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "BENITEZ, ALFREDO \"ALBEE\" B."
+[[authorsDetail]]
+name = "BENITEZ, ALFREDO \"ALBEE\" B."
+nameCode = "Benitez"
+date = "2014-05-06"
+sequence = 1
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "2014-05-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 53489
+congress = 16
+bill_no = "HR01091"
+report = "00451"
+comm_act = ""
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = "HOUSING AND URBAN DEVELOPMENT"
+recomm = "Adoption with amendments."
+remarks = ""
+file = "CR00451.pdf"
+date_read = "2014-05-13"
+date_ob = "2014-10-20"
+date_report = "2014-10-02"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00451.pdf"

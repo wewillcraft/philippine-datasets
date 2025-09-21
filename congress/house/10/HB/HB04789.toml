@@ -1,0 +1,59 @@
+billNumber = "HB04789"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04789"
+lastScraped = "2025-09-22T00:20:58.260355"
+title = "HB04789"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7459, OTHERWISE KNOWN AS THE INVENTORS AND INVENTION INCENTIVES ACT OF THE PHILIPPINES AND EXPANDING THE POWER OF THE FILIPINO INVENTORS SOCIETY, INC., APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-10-27"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1995-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "CANDAZO, ROMEO C.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CANDAZO, ROMEO C."
+nameCode = "Candazo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111210
+congress = 10
+bill_no = "HB04789"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1995-11-07"

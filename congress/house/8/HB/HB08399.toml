@@ -1,0 +1,42 @@
+billNumber = "HB08399"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08399"
+lastScraped = "2025-09-22T00:46:58.087730"
+title = "HB08399"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF KANSI, MUNICIPALITY OF TUBURAN, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-28"
+status = "Pending with the Committee on HEALTH since 1988-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 143077
+congress = 8
+bill_no = "HB08399"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-03"

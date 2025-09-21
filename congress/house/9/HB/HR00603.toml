@@ -1,0 +1,43 @@
+billNumber = "HR00603"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00603"
+lastScraped = "2025-09-22T00:25:57.476958"
+title = "HR00603"
+longTitle = "RESOLUTION TO INVESTIGATE ANOMALIES AT THE BUREAU OF PRISONS"
+scope = "National"
+dateFiled = "1993-05-04"
+status = "Pending with the Committee on JUSTICE since 1993-05-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-05-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133915
+congress = 9
+bill_no = "HR00603"
+comm_act = "Change of referral from the Committee on Rules(J.10 3) (Ctte. Rpt. No 168, submitted by the Ctte. on"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-05-06"

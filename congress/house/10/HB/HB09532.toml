@@ -1,0 +1,46 @@
+billNumber = "HB09532"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09532"
+lastScraped = "2025-09-22T00:20:59.182131"
+title = "HB09532"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A BY-PASS SECONDARY NATIONAL ROAD FROM THE MUNICIPALITY OF ESPIRITU, THRU THE MUNICIPALITY OF BATAC, ENDING IN THE MUNICIPALITY OF CURRIMAO, PROVINCE OF ILOCOS NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-06-05"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-07-29"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115953
+congress = 10
+bill_no = "HB09532"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-07-29"

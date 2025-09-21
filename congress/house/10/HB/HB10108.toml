@@ -1,0 +1,54 @@
+billNumber = "HB10108"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10108"
+lastScraped = "2025-09-22T00:20:59.315886"
+title = "HB10108"
+longTitle = "AN ACT ORDAINING AND INSTITUTING A REVISED INSURANCE CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1997-10-14"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-10-15"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 116529
+congress = 10
+bill_no = "HB10108"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-10-15"

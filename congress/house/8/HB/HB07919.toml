@@ -1,0 +1,42 @@
+billNumber = "HB07919"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07919"
+lastScraped = "2025-09-22T00:46:57.988961"
+title = "HB07919"
+longTitle = "AN ACT ESTABLISHING A 10-BED EMERGENCY HOSPITAL IN BAGO CITY, PROVINCE OF NEGROS OCCIDENTAL TO BE KNOWN AS THE BAGO CITY EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-21"
+status = "Pending with the Committee on HEALTH since 1988-04-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-26"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 142597
+congress = 8
+bill_no = "HB07919"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-26"

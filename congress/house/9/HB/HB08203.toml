@@ -1,0 +1,47 @@
+billNumber = "HB08203"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08203"
+lastScraped = "2025-09-22T00:25:56.080158"
+title = "HB08203"
+longTitle = "AN ACT CREATING FAMILY COURTS IN METROPOLITAN MANILA AND MAJOR CITIES IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1993-03-16"
+status = "Pending with the Committee on JUSTICE since 1993-03-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andolana"
+[[authorsDetail]]
+name = "Andolana"
+nameCode = "Andolana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-03-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126822
+congress = 9
+bill_no = "HB08203"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-03-22"

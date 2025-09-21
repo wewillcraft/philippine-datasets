@@ -1,0 +1,62 @@
+billNumber = "HB02971"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02971"
+lastScraped = "2025-09-22T00:13:00.342907"
+title = "HB02971"
+longTitle = "AN ACT UPGRADING THE EXISTING FACILITIES OF THE VETERANS MEMORIAL MEDICAL CENTER (VMMC) THROUGH A FIVE(5)-YEAR MODERNIZATION PLAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-07"
+status = "Pending with the Committee on HEALTH since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+coAuthors = [ "MONFORT, NARCISO D.", "DUMPIT, TOMAS M.",]
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DUMPIT, TOMAS M."
+nameCode = "Dumpit"
+date = ""
+journalNo = "J036"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86131
+congress = 12
+bill_no = "HB02971"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-25"

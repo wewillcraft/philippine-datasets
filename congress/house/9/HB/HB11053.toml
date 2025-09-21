@@ -1,0 +1,76 @@
+billNumber = "HB11053"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11053"
+lastScraped = "2025-09-22T00:25:56.605258"
+title = "HB11053"
+longTitle = "AN ACT OTHERWISE KNOWN AS THE HEALTH ALERT ACT OF 1993"
+scope = "National"
+dateFiled = "1993-10-08"
+status = "Pending with the Committee on HEALTH since 1993-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "ALMORO, ROY M.", "RAMIREZ, JOSE T.", "ROMERO, MIGUEL L.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALMORO, ROY M."
+nameCode = "Almoro"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-11-04"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129669
+congress = 9
+bill_no = "HB11053"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-11-04"

@@ -1,0 +1,42 @@
+billNumber = "HB01919"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01919"
+lastScraped = "2025-09-22T00:13:00.149594"
+title = "HB01919"
+longTitle = "AN ACT GRANTING FILIPINO CITIZENSHIP TO ENGR. ARMANDO T. DE ROSSI, WITH ALL RIGHTS, PRIVILEGES, AND PREROGATIVES APPURTENANT THERETO"
+scope = "Local"
+dateFiled = "2001-08-02"
+status = "Pending with the Committee on JUSTICE since 2001-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Saludo"
+[[authorsDetail]]
+name = "Saludo"
+nameCode = "Saludo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-08-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 85079
+congress = 12
+bill_no = "HB01919"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-08-08"

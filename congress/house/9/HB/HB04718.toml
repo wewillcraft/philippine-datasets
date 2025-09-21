@@ -1,0 +1,42 @@
+billNumber = "HB04718"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04718"
+lastScraped = "2025-09-22T00:25:55.479941"
+title = "HB04718"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT AND CONSTRUCTION OF A HEALTH CARE CENTER IN BARANGAY PACOL, MUNICIPALITY OF VALLADOLID, PROVINCE OF NEGROS OCCIDENTAL"
+scope = "Local"
+dateFiled = "1992-11-12"
+status = "Pending with the Committee on HEALTH since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 123337
+congress = 9
+bill_no = "HB04718"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-11-16"

@@ -1,0 +1,61 @@
+billNumber = "HR01314"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01314"
+lastScraped = "2025-09-22T00:20:59.676756"
+title = "HR01314"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CIVIL, POLITICAL, AND HUMAN RIGHTS AND JUSTICE TO IMMEDIATELY CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, INTO THE INVOLUNTARY DISAPPEARANCE OF ATTY. NICOLAS R. RUIZ AND HIS DIRVER MR. JEVEE PATALITA"
+scope = "Local"
+dateFiled = "1997-08-05"
+status = "Pending with the Committee on CIVIL, POLITICAL AND HUMAN RIGHTS since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lagman, Edcel C."
+coAuthors = [ "GILLEGO, BONIFACIO H.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Lagman, Edcel C."
+nameCode = "Lagman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 118368
+congress = 10
+bill_no = "HR01314"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+date_read = "1997-08-07"

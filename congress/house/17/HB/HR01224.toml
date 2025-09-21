@@ -1,0 +1,47 @@
+billNumber = "HR01224"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01224"
+lastScraped = "2025-09-21T23:55:46.460097"
+title = "HR01224"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON ENERGY OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE STATUS OF THE UNIVERSAL CHARGE BEING ADMINISTERED BY POWER SECTOR ASSETS AND LIABILITIES MANAGEMENT CORP. (PSALM CORP.)"
+scope = "National"
+dateFiled = "2017-08-23"
+status = "Referred to Stakeholders on 2017-10-12"
+statusOrder = 4.01
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01224.pdf"
+fileSize = 456831
+author = "Uybarreta, Carlos Roman"
+[[authorsDetail]]
+name = "Uybarreta, Carlos Roman"
+nameCode = "Uybarreta"
+date = "2017-08-23"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2017-08-30"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[firstReading]
+id = 43966
+congress = 17
+bill_no = "HR01224"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-09-13"
+date_read = "2017-08-30"

@@ -1,0 +1,43 @@
+billNumber = "HR01262"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01262"
+lastScraped = "2025-09-22T00:25:57.601552"
+title = "HR01262"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON WAYS AND MEANS AND AGRICULTURE AND FOOD, IN AID OF LEGISLATION, TO INVESTIGATE THE LEGALITY AND PROPRIETY OF REVENUE REGULATION NUMBERED 12-94 ISSUED BY THE BUREAU OF INTERNAL REVENUE, PARTICULARLY ITS ADVERSE ECONOMIC IMPACT ON SMALL FARMERS"
+scope = "National"
+dateFiled = "1994-10-17"
+status = "Pending with the Committee on WAYS AND MEANS since 1994-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1994-10-20"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 134568
+congress = 9
+bill_no = "HR01262"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ways and Means on 11/14/94"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1994-10-20"

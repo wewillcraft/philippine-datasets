@@ -1,0 +1,42 @@
+billNumber = "HB00821"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00821"
+lastScraped = "2025-09-22T00:46:56.706844"
+title = "HB00821"
+longTitle = "AN ACT ESTABLISHING A HIGH-SPEED MACHINE TRAININGCENTER IN THE MUNICIPALITY OF PARANAQUE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-27"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1987-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1987-08-31"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 135518
+congress = 8
+bill_no = "HB00821"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1987-08-31"

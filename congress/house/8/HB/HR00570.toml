@@ -1,0 +1,42 @@
+billNumber = "HR00570"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00570"
+lastScraped = "2025-09-22T00:47:02.636076"
+title = "HR00570"
+longTitle = "RESOLUTION COMMENDING TEACHERS ALL OVER THE COUNTRY FOR THEIR SERVICE DURING THE LOCAL GOVERNMENT ELECTION"
+scope = "National"
+dateFiled = "1988-02-05"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1988-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "537"
+dateRead = "1988-02-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 170457
+congress = 8
+bill_no = "HR00570"
+referral = "537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "1988-02-09"

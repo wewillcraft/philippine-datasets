@@ -1,0 +1,50 @@
+billNumber = "HR01582"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01582"
+lastScraped = "2025-09-22T00:23:18.248347"
+title = "HR01582"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION INTO THE ALLEGED ENVIRONMENTAL DANGERS RESULTING FROM THE OPERATIONS OF THE SAN ROQUE POWER CORPORATION"
+scope = "Local"
+dateFiled = "2000-05-30"
+status = "Pending with the Committee on ECOLOGY since 2000-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suplico, Rolex T."
+coAuthors = [ "REYES, EDMUNDO JR. O.",]
+[[authorsDetail]]
+name = "Suplico, Rolex T."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "REYES, EDMUNDO JR. O."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2000-06-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 106037
+congress = 11
+bill_no = "HR01582"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "2000-06-05"

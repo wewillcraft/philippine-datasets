@@ -1,0 +1,42 @@
+billNumber = "HB00068"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00068"
+lastScraped = "2025-09-22T00:46:56.556710"
+title = "HB00068"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF B'LAAN IN THEPROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1987-08-03"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-04"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 134766
+congress = 8
+bill_no = "HB00068"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-08-04"

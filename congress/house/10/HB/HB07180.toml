@@ -1,0 +1,41 @@
+billNumber = "HB07180"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07180"
+lastScraped = "2025-09-22T00:20:58.694614"
+title = "HB07180"
+longTitle = "AN ACT TO AMEND SECTIONS 1, 2, 3,, SUBSECTION A, OF SECTION 4, SECTIONS 5 AND 6 AND REPEAL OF SECTION 7 OF REPUBLIC ACT NUMBERED SIX THOUSAND SIX HUNDRED AND FORTY-EIGHT AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-05-29"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 113601
+congress = 10
+bill_no = "HB07180"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-06-03"

@@ -1,0 +1,70 @@
+billNumber = "HB07741"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07741"
+lastScraped = "2025-09-22T00:20:58.792866"
+title = "HB07741"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TAMBONGON, MUNICIPALITY OF PANTUKAN, PROVINCE OF DAVAO, TO BE KNOWN AS TAMBONGON NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-12"
+status = "Approved by the House on 1997-10-27 and transmitted to the Senate on 1997-10-28"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-08-14"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114162
+congress = 10
+bill_no = "HB07741"
+report = "01121"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-08-14"
+date_ob = "1997-10-07"
+date_report = "1997-10-06"
+
+[secondReading]
+id = 18525
+congress = 10
+bill_no = "HB07741"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3120
+congress = 10
+bill_no = "HB07741"
+date_dist = "1997-10-23"
+date_adopt = "1997-10-27"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-28"

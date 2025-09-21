@@ -1,0 +1,42 @@
+billNumber = "HR00369"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00369"
+lastScraped = "2025-09-22T00:25:57.433776"
+title = "HR00369"
+longTitle = "RESOLUTION DIRECTING THE SECRETARIAT OF THE HOUSE OF REPRESENTATIVES TO MAKE AVAILABLE COPIES OF ALL DOCUMENTS OF THE SENATE TO MEMBERS OF CONGRESS AND STAFF"
+scope = "Local"
+dateFiled = "1992-11-26"
+status = "Pending with the Committee on RULES since 1992-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-12-07"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133681
+congress = 9
+bill_no = "HR00369"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-12-07"

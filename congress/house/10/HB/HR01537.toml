@@ -1,0 +1,61 @@
+billNumber = "HR01537"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01537"
+lastScraped = "2025-09-22T00:20:59.714640"
+title = "HR01537"
+longTitle = "RESOLUTION EXPRESSING THE APPRECIATION OF THE HOUSE OF REPRESENTATIVES FOR THE WHOLEHEARTED SUPPORT AND COOPERATION EXTENDED BY THE HOUSE LEADERSHIP, THE CHAIRPERSONS OF THE STANDING COMMITTEES, THE CONGRESSIONAL PRESS CLUB, THE SECRETARIAT PERSONNEL, THE CONGRESSIONAL STAFF AND ALL THOSE WHO HAVE CONTRIBUTED TO THE EXEMPLARY PERFORMANCE OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1998-05-20"
+status = "Adopted as Resolution No. HR00149 on 1998-05-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 118583
+congress = 10
+bill_no = "HR01537"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-05-25"
+
+[secondReading]
+id = 19064
+congress = 10
+bill_no = "HR01537"
+adopted_resolution = "HR00149"
+date_calendared = "1998-05-25"
+date_approved = "1998-05-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00149.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00149.pdf"

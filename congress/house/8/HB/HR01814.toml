@@ -1,0 +1,42 @@
+billNumber = "HR01814"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01814"
+lastScraped = "2025-09-22T00:47:02.887214"
+title = "HR01814"
+longTitle = "RESOLUTION URGING THE ARMY ENGINEERING BRIGAE AND THE NEW PEOPLE'S ARMY TO WORK TOGETHER AS JOINT CONTINGENTS IN REBUILDING PUBLIC STRUCTURES, INFRASTRUCTURES AND COMMUNITY SHELTERS FOR DISPLACED FAMILIES"
+scope = "Local"
+dateFiled = "1990-07-23"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1990-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1990-07-26"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 171651
+congress = 8
+bill_no = "HR01814"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1990-07-26"

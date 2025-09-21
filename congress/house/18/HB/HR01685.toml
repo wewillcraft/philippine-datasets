@@ -1,0 +1,53 @@
+billNumber = "HR01685"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01685"
+lastScraped = "2025-09-22T00:01:47.660965"
+title = "HR01685"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE COMMITTEE ON HEALTH OF THE HOUSE OF REPRESENTATIVES REGARDING THE POSSIBLE USE OF IVERMECTIN AGAINST COVID-19\r\n"
+scope = "National"
+dateFiled = "2021-03-29"
+status = "Pending with the Committee on HEALTH since 2021-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01685.pdf"
+fileSize = 413405
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2021-03-29"
+sequence = 1
+
+[[authorsDetail]]
+name = "Ong, Ronnie L."
+nameCode = "Ong (R.)"
+date = "2021-03-29"
+sequence = 2
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-05-17"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 32003
+congress = 18
+bill_no = "HR01685"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-05-26"
+date_read = "2021-05-17"

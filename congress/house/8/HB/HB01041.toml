@@ -1,0 +1,42 @@
+billNumber = "HB01041"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01041"
+lastScraped = "2025-09-22T00:46:56.747971"
+title = "HB01041"
+longTitle = "AN ACT ESTABLISHING A FIFTEEN-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SAN ISIDRO, PROVINCE OF DAVAO ORIENTAL, TO BE KNOWN AS THE SAN ISIDRO MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-02"
+status = "Pending with the Committee on HEALTH since 1987-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario"
+[[authorsDetail]]
+name = "Almario"
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 135738
+congress = 8
+bill_no = "HB01041"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-07"

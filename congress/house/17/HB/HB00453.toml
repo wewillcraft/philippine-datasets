@@ -1,0 +1,61 @@
+billNumber = "HB00453"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00453"
+lastScraped = "2025-09-21T23:55:44.169661"
+title = "HB00453"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BIRTHING CENTER IN EVERY BARANGAY NATIONWIDE AND APPROPRIATING FUNDS THEREFOR\r\n"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on HEALTH since 2016-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00453.pdf"
+fileSize = 237465
+author = "Gomez, Lucy T."
+coAuthors = [ "ROBES, FLORIDA P.", "TAN, ANGELINA \"HELEN\" D.L. M.D.",]
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROBES, FLORIDA P."
+nameCode = "Robes"
+date = "2017-03-06"
+journalNo = "J078"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAN, ANGELINA \"HELEN\" D.L. M.D."
+nameCode = "Tan (A.)"
+date = "2018-01-22"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 33921
+congress = 17
+bill_no = "HB00453"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-26"

@@ -1,0 +1,47 @@
+billNumber = "HB09321"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09321"
+lastScraped = "2025-09-22T00:25:56.274247"
+title = "HB09321"
+longTitle = "AN ACT CONVERTING THE ISABEL RURAL HEALTH CENTER IN THE MUNICIPALITY OF ISABEL, PROVINCE OF LEYTE, INTO A TEN-BED EMERGENCY HOSPITAL TO BE KNOWN AS ISABEL COMMUNITY HOSPITAL"
+scope = "Local"
+dateFiled = "1993-05-26"
+status = "Pending with the Committee on HEALTH since 1993-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin"
+[[authorsDetail]]
+name = "Locsin"
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-06-01"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127939
+congress = 9
+bill_no = "HB09321"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-06-01"

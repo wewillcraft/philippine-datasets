@@ -1,0 +1,61 @@
+billNumber = "HB07083"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07083"
+lastScraped = "2025-09-22T00:20:58.671209"
+title = "HB07083"
+longTitle = "AN ACT ESTABLISHING THE AGRICULTURAL CREDIT FUND FOR FARMERS' COOPERATIVES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-05-22"
+status = "Pending with the Committee on COOPERATIVES DEVELOPMENT (SPECIAL CTTE.) since 1996-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "TAGLE, VICENTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TAGLE, VICENTE V."
+nameCode = "Tagle"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B512"
+dateRead = "1996-05-27"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113504
+congress = 10
+bill_no = "HB07083"
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT (SPECIAL CTTE.)"
+date_read = "1996-05-27"

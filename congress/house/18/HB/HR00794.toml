@@ -1,0 +1,47 @@
+billNumber = "HR00794"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00794"
+lastScraped = "2025-09-22T00:01:47.487271"
+title = "HR00794"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CLIMATE CHANGE TO LOOK INTO THE INTEGRATION OF THE CIRCULAR ECONOMY CONCEPT INTO THE COUNTRY'S LOW-EMISSIONS DEVELOPMENT STRATEGY AND THE MINIMIZATION OF WASTE GENERATION THROUGH PREVENTION, REDUCTION, RECYCLING AND REUSE TOWARDS ECOLOGICAL INTEGRITY AND A CLEAN AND HEALTHY ENVIRONMENT"
+scope = "National"
+dateFiled = "2020-03-12"
+status = "Pending with the Committee on ECOLOGY since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00794.pdf"
+fileSize = 2431418
+author = "Legarda, Loren"
+[[authorsDetail]]
+name = "Legarda, Loren"
+nameCode = "Legarda"
+date = "2020-03-12"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2020-05-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31113
+congress = 18
+bill_no = "HR00794"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-05-04"

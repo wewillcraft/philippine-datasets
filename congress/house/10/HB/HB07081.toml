@@ -1,0 +1,71 @@
+billNumber = "HB07081"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07081"
+lastScraped = "2025-09-22T00:20:58.670758"
+title = "HB07081"
+longTitle = "AN ACT ESTABLISHING THE PARANG DISTRICT HOSPITAL IN THE MUNICIPALITY OF PARANG, MAGUINDANAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-22"
+status = "Approved by the House on 1997-02-18, transmitted to on 1997-02-19 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dilangalen, Didagen P."
+[[authorsDetail]]
+name = "Dilangalen, Didagen P."
+nameCode = "Dilangalen"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-05-27"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113502
+congress = 10
+bill_no = "HB07081"
+report = "00745"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1996-05-27"
+date_ob = "1997-01-29"
+date_report = "1997-01-24"
+
+[secondReading]
+id = 18448
+congress = 10
+bill_no = "HB07081"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3044
+congress = 10
+bill_no = "HB07081"
+date_dist = "1997-02-12"
+date_adopt = "1997-02-18"
+no_yeas = 156
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-02-19"
+date_rec = "1997-02-21"

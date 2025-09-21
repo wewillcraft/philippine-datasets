@@ -1,0 +1,75 @@
+billNumber = "HR00233"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00233"
+lastScraped = "2025-09-22T00:20:59.466671"
+title = "HR00233"
+longTitle = "RESOLUTION CONGRATULATING THE UNITED NATIONS ORGANIZATION ON THE OCCASION OF ITS 50TH YEAR ANNIVERSARY AND REAFFIRMING THE ROLE IT ASSUMES IN THE PROMOTION OF HARMONY, UNDERSTANDING, AND COOPERATION AMONG NATIONS AND IN ADDRESSING SOCIOECONOMIC ANDENVIRONMENTAL DEGRADATION IN VARIOUS PARTS OF THE WORLD IN THE PURSUIT OF GLOBAL PEACE AND PROSPERITY"
+scope = "National"
+dateFiled = "1995-10-03"
+status = "Adopted as Resolution No. HR00019 on 1995-10-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "LOPEZ, JAIME C.", "MONTEMAYOR, LEONARDO Q.", "GOLEZ, ROILO S.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LOPEZ, JAIME C."
+nameCode = "Lopez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-10-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117287
+congress = 10
+bill_no = "HR00233"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1995-10-04"
+
+[secondReading]
+id = 18941
+congress = 10
+bill_no = "HR00233"
+adopted_resolution = "HR00019"
+date_calendared = "1995-10-05"
+date_approved = "1995-10-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00019.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00019.pdf"

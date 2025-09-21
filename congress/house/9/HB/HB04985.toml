@@ -1,0 +1,47 @@
+billNumber = "HB04985"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04985"
+lastScraped = "2025-09-22T00:25:55.551319"
+title = "HB04985"
+longTitle = "AN ACT ESTABLISHING A PRODUCTS DISPLAY CENTER AT THE KALIBO AIRPORT AREA IN THE MUNICIPALITY OF KALIBO, PROVINCE OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-19"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1992-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1992-11-24"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123604
+congress = 9
+bill_no = "HB04985"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1992-11-24"

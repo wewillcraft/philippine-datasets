@@ -1,0 +1,42 @@
+billNumber = "HB08710"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08710"
+lastScraped = "2025-09-22T00:46:58.138211"
+title = "HB08710"
+longTitle = "AN ACT ESTABLISHING A TWENTY-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF PANGIL, PROVINCE OF LAGUNA, TO BE KNOWN AS THE PANGIL MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-04"
+status = "Pending with the Committee on HEALTH since 1988-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 143387
+congress = 8
+bill_no = "HB08710"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-09"

@@ -1,0 +1,42 @@
+billNumber = "HR00706"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00706"
+lastScraped = "2025-09-22T00:23:18.075953"
+title = "HR00706"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON WAYS AND MEANS TO REVIEW THE TAX EXEMPTION OF THE SOCIAL SECURITY SYSTEM AND THE GOVERNMENT SOCIAL INSURANCE SYSTEM"
+scope = "National"
+dateFiled = "1999-02-10"
+status = "Pending with the Committee on WAYS AND MEANS since 1999-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Herminio G."
+[[authorsDetail]]
+name = "Teves, Herminio G."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1999-02-11"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 105164
+congress = 11
+bill_no = "HR00706"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1999-02-11"

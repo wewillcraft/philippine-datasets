@@ -1,0 +1,56 @@
+billNumber = "HB01308"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01308"
+lastScraped = "2025-09-22T00:20:57.599768"
+title = "HB01308"
+longTitle = "AN ACT REQUIRING BOTH THE ELECTRIC POWER PRODUCER AND ELECTRICITY RETAILER TO INDEMNIFY THE HEAD OF THE HOUSEHOLD(S) WHOSE PROPERTY(IES) GET BURNED OR DAMAGED ON ACCOUNT OF A BROWN-OUT OR BLACK-OUT OR POWER FLUCTUATION"
+scope = "National"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on ENERGY since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "RAMIREZ, JOSE T.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107729
+congress = 10
+bill_no = "HB01308"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-08-01"

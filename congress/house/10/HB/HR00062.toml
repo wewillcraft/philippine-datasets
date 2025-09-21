@@ -1,0 +1,49 @@
+billNumber = "HR00062"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00062"
+lastScraped = "2025-09-22T00:20:59.435571"
+title = "HR00062"
+longTitle = "RESOLUTION DIRECTING THE LAND TRANSPORTATION OFFICE TO REQUIRE ALL APPLICANTS FOR PUBLIC UTILITY DRIVERS LICENSES TO UNDERGO PSYCHIATRIC EXAMINATIONS AND PRESENT CLEARANCES FROM THEIR RESPECTIVE BARANGAYS AND REPUTABLE CIVIC ORGANIZATIONS TO ENSURETHAT DRIVERS' LICENSES SHALL BE GRANTED TO QUALIFIED APPLICANTS ONLY"
+scope = "National"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Figueroa, Catalino V."
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Figueroa, Catalino V."
+nameCode = "Figueroa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-04"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 117116
+congress = 10
+bill_no = "HR00062"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-08-04"

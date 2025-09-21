@@ -1,0 +1,49 @@
+billNumber = "HB06322"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06322"
+lastScraped = "2025-09-22T00:20:58.537709"
+title = "HB06322"
+longTitle = "AN ACT ESTABLISHING A LABOR-MANAGEMEN T BOARD IN EVERY INDUSTRY, DEFINING ITS POWERS AND FUNCTIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-02-21"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1996-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1996-02-26"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 112743
+congress = 10
+bill_no = "HB06322"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1996-02-26"

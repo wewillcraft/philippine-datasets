@@ -1,0 +1,47 @@
+billNumber = "HB02015"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02015"
+lastScraped = "2025-09-22T00:13:00.165206"
+title = "HB02015"
+longTitle = "AN ACT ESTABLISHING A TEN-BED HOSPITAL FOR THE MUNICIPALITY OF ALAMINOS IN THE PROVINCE OF LAGUNA AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-03"
+status = "Pending with the Committee on HEALTH since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bueser, Danton Q."
+[[authorsDetail]]
+name = "Bueser, Danton Q."
+nameCode = "Bueser"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE MILITARY AND UNIFORMED PERSONNEL(MUP) PENSION SYSTEM"
+type = "principal"
+referralCode = "J506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85175
+congress = 12
+bill_no = "HB02015"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-13"

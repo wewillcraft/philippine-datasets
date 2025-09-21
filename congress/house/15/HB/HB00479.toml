@@ -1,0 +1,54 @@
+billNumber = "HB00479"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB00479"
+lastScraped = "2025-09-21T23:56:40.647299"
+title = "HB00479"
+longTitle = "AN ACT BANNING THE IMPORTATION, MANUFACTURE, PROCESSING, USE, OR DISTRIBUTION IN COMMERCE OF ASBESTOS AND ASBESTOS-CONTAINING PRODUCTS"
+scope = "National"
+dateFiled = "2010-07-01"
+status = "Pending with the Committee on ECOLOGY since 2010-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB00479.pdf"
+fileSize = 1368232
+author = "BAG-AO, KAKA J."
+coAuthors = [ "BELLO, WALDEN",]
+[[authorsDetail]]
+name = "BAG-AO, KAKA J."
+nameCode = "Bag-ao"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BELLO, WALDEN"
+nameCode = "Bello"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2010-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 55952
+congress = 15
+bill_no = "HB00479"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-07-27"

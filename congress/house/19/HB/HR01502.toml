@@ -1,0 +1,89 @@
+billNumber = "HR01502"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01502"
+lastScraped = "2025-09-21T23:55:22.872388"
+title = "HR01502"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF EDUCATION TO INTEGRATE FOREIGN LANGUAGE STUDIES INTO THE K TO 12 BASIC EDUCATION PROGRAM SO AS TO ACQUAINT LEARNERS WITH FOREIGN LANGUAGES OTHER THAN ENGLISH, AND TO ENCOURAGE THEM TO LEARN FOREIGN LANGUAGES THAT WILL VASTLY IMPROVE THEIR EMPLOYABILITY IN THE GLOBAL \r\nLABOR MARKETS OF THE 21ST CENTURY"
+scope = "National"
+dateFiled = "2023-12-06"
+status = "Adopted as Resolution No. HR00191 on 2024-01-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LIBANAN, MARCELINO C."
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = "2023-12-06"
+sequence = 1
+
+[[authorsDetail]]
+name = "ROMULO, ROMAN T."
+nameCode = "Romulo"
+date = "2023-12-06"
+sequence = 2
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2023-12-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00910"
+sequence = 1
+date = "2023-12-06"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00910"
+sequence = 1
+date = "2023-12-06"
+flag = "S"
+
+[firstReading]
+id = 18047
+congress = 19
+bill_no = "HR01502"
+report = "00904"
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = "BASIC EDUCATION AND CULTURE"
+recomm = "Recommending its adoption in substitution of House Resolution No. 910."
+remarks = ""
+file = "CR00904.pdf"
+date_read = "2023-12-06"
+date_ob = "2023-12-06"
+date_report = "2023-12-06"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_19/CR00904.pdf"
+
+[secondReading]
+id = 1025
+congress = 19
+bill_no = "HR01502"
+adopted_resolution = "HR00191"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF EDUCATION TO INTEGRATE FOREIGN LANGUAGE STUDIES INTO THE K TO 12 BASIC EDUCATION PROGRAM SO AS TO ACQUAINT LEARNERS WITH FOREIGN LANGUAGES OTHER THAN ENGLISH, AND TO ENCOURAGE THEM TO LEARN FOREIGN LANGUAGES THAT WILL VASTLY IMPROVE THEIR EMPLOYABILITY IN THE GLOBAL LABOR MARKETS OF THE 21ST CENTURY"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2024-01-24"
+date_approved = "2024-01-30"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01502.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_19/HR01502.pdf"

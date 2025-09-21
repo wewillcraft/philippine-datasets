@@ -1,0 +1,49 @@
+billNumber = "HR00603"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00603"
+lastScraped = "2025-09-22T00:20:59.535848"
+title = "HR00603"
+longTitle = "RESOLUTION URGING THE PHILIPPINE NATIONAL RAILWAYS TO REHABILITATE THE RAILWAY SYSTEM IN THE BICOL REGION TO CONFORM WITH MODERN DESIGNS"
+scope = "National"
+dateFiled = "1996-05-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-05-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-05-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117657
+congress = 10
+bill_no = "HR00603"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-05-14"

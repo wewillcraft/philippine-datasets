@@ -1,0 +1,46 @@
+billNumber = "HB01975"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01975"
+lastScraped = "2025-09-22T00:20:57.718278"
+title = "HB01975"
+longTitle = "AN ACT GRANTING PRODUCTIVITY BONUS TO OFFICIALS AND EMPLOYEES OF THE BUREAU OF CUSTOMS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108396
+congress = 10
+bill_no = "HB01975"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-08-14"

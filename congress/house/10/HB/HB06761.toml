@@ -1,0 +1,71 @@
+billNumber = "HB06761"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06761"
+lastScraped = "2025-09-22T00:20:58.614414"
+title = "HB06761"
+longTitle = "AN ACT DECLARING THE BARANGAY BOCBOC IN THE MUNICIPALITY OF MOGPOG, PROVINCE OF MARINDUQUE, AS TOURISM BARANGAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-28"
+status = "Approved by the House on 1997-04-30, transmitted to on 1997-04-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113182
+congress = 10
+bill_no = "HB06761"
+report = "00820"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1996-04-29"
+date_ob = "1997-03-12"
+date_report = "1997-03-10"
+
+[secondReading]
+id = 18401
+congress = 10
+bill_no = "HB06761"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2999
+congress = 10
+bill_no = "HB06761"
+date_dist = "1997-04-21"
+date_adopt = "1997-04-30"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-30"
+date_rec = "1997-05-07"

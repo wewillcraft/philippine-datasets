@@ -1,0 +1,46 @@
+billNumber = "HR00306"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00306"
+lastScraped = "2025-09-22T00:01:47.394164"
+title = "HR00306"
+longTitle = "RESOLUTION URGING THE EXECUTIVE DEPARTMENT TO STUDY THE IMPLEMENTATION OF AN AMBUCYCLE SYSTEM AS A NATIONWIDE FIRST RESPONDER"
+scope = "National"
+dateFiled = "2019-09-05"
+status = "Pending with the Committee on DISASTER RESILIENCE since 2019-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00306.pdf"
+fileSize = 419147
+author = "Defensor, Michael T."
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor (M.)"
+date = "2019-09-05"
+sequence = 1
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "primary"
+referralCode = "I504"
+dateRead = "2019-09-09"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 30634
+congress = 18
+bill_no = "HR00306"
+report = ""
+comm_act = ""
+referral = "I504"
+ref_name = "DISASTER RESILIENCE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-09-09"

@@ -1,0 +1,112 @@
+billNumber = "HB07815"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07815"
+lastScraped = "2025-09-22T00:20:58.847988"
+title = "HB07815"
+longTitle = "THE REVISED INVESTMENT COMPANY ACT"
+scope = "National"
+dateFiled = "1996-08-22"
+status = "Approved by the House on 1996-12-19, transmitted to on 1997-01-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+coAuthors = [ "LEDESMA, JULIO IV A.", "BANKS AND FINANCIAL INTERMEDIARIES", "DEJON, TEMISTOCLES SR. S.", "PEREZ, HERNANDO B.",]
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LEDESMA, JULIO IV A."
+nameCode = "Ledesma"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-26"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[motherBills]]
+bill_no = "HB00035"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB03228"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00035"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03228"
+flag = "S"
+
+[firstReading]
+id = 114236
+congress = 10
+bill_no = "HB07815"
+report = "00540"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1996-08-26"
+date_ob = "1996-08-26"
+date_unass = "1996-09-03"
+date_report = "1996-08-22"
+
+[secondReading]
+id = 18532
+congress = 10
+bill_no = "HB07815"
+date_calendared = "1996-09-24"
+date_approved = "1996-12-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3127
+congress = 10
+bill_no = "HB07815"
+date_dist = "1996-12-16"
+date_adopt = "1996-12-19"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-06"
+date_rec = "1997-01-10"

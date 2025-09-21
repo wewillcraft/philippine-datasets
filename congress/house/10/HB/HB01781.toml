@@ -1,0 +1,46 @@
+billNumber = "HB01781"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01781"
+lastScraped = "2025-09-22T00:20:57.679390"
+title = "HB01781"
+longTitle = "AN ACT ESTABLISHING A HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF CUARTERO, PROVINCE OF CAPIZ, TO BE KNOWN AS THE CUARTERO HANDICRAFT TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Andaya"
+[[authorsDetail]]
+name = "Andaya"
+nameCode = "Andaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108202
+congress = 10
+bill_no = "HB01781"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-08"

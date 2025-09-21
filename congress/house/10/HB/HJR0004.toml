@@ -1,0 +1,87 @@
+billNumber = "HJR0004"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0004"
+lastScraped = "2025-09-22T00:20:59.419824"
+title = "HJR0004"
+longTitle = "JOINT RESOLUTION CREATING A CONGRESSIONAL COMMISSION TO REVIEW AND ASSESS THE STATE OF COMPUTERIZATION AND INFORMATION TECHNOLOGY APPLICATION IN PHILIPPINE ECONOMY AND SOCIETY"
+scope = "National"
+dateFiled = "1995-09-05"
+status = "Approved on Third Reading on 1996-05-27"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "RODRIGUEZ, OSCAR S.", "VERCELES, LEANDRO JR. B.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117031
+congress = 10
+bill_no = "HJR0004"
+report = "00234"
+referral = "0532"
+ref_name = "RULES"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1995-09-18"
+date_ob = "1996-02-26"
+date_unass = "1996-02-27"
+date_report = "1996-02-23"
+
+[secondReading]
+id = 18899
+congress = 10
+bill_no = "HJR0004"
+date_calendared = "1996-03-28"
+date_approved = "1996-03-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3431
+congress = 10
+bill_no = "HJR0004"
+date_dist = "1996-04-29"
+date_adopt = "1996-05-27"
+no_yeas = 144
+no_nays = 0
+no_abstent = 0

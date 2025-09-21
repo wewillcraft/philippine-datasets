@@ -1,0 +1,61 @@
+billNumber = "HR00943"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00943"
+lastScraped = "2025-09-22T00:25:57.541333"
+title = "HR00943"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEATH OF MRS. SOFIA RODA ANDAYA, MOTHER OF THE HONORABLE ROLANDO R. ANDAYA, REPRESENTATIVE OF THE FIRST DISTRICT OF THE PROVINCE OF CAMARINES SUR"
+scope = "Local"
+dateFiled = "1994-02-16"
+status = "Adopted as Resolution No. HR00069 on 1994-02-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "ZAMORA, RONALDO B.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-02-17"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 134250
+congress = 9
+bill_no = "HR00943"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-02-17"
+
+[secondReading]
+id = 20162
+congress = 9
+bill_no = "HR00943"
+adopted_resolution = "HR00069"
+date_approved = "1994-02-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00943.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00943.pdf"

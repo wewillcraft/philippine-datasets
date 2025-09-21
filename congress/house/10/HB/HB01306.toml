@@ -1,0 +1,56 @@
+billNumber = "HB01306"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01306"
+lastScraped = "2025-09-22T00:20:57.599468"
+title = "HB01306"
+longTitle = "AN ACT REGULATING THE PRODUCTION, PROCESSING, MANUFACTURE, SALE, USE AND DISPOSAL OF BAGS, CONTAINER AND PACKAGES, WHICH ARE ALL MADE OF POLYETHELENE MATERIALS, PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "RAMIREZ, JOSE T.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107727
+congress = 10
+bill_no = "HB01306"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-01"

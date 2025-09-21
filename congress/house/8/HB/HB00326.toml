@@ -1,0 +1,85 @@
+billNumber = "HB00326"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00326"
+lastScraped = "2025-09-22T00:46:56.616083"
+title = "HB00326"
+longTitle = "AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN SAN FRANCISCO, QUEZON, TO BE KNOWN AS SAN FRANCISCO EMERGENCY HOSPITAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-12"
+status = "REPUBLIC ACT (RA06867) enacted on 1990-03-08"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+coAuthors = [ "ENVERGA, WILFRIDO L.", "TAGARAO, MARIO L.",]
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ENVERGA, WILFRIDO L."
+nameCode = "Enverga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TAGARAO, MARIO L."
+nameCode = "Tagarao"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 135023
+congress = 8
+bill_no = "HB00326"
+report = "00606"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-17"
+date_ob = "1989-05-24"
+date_cal = "1989-05-24"
+date_unass = "1989-05-24"
+date_report = "1989-05-23"
+
+[secondReading]
+id = 20273
+congress = 8
+bill_no = "HB00326"
+date_approved = "1989-05-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 56
+congress = 8
+bill_no = "HB00326"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 123
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "A"
+dte_transp = "1990-01-09"
+dte_actedp = "1990-03-08"

@@ -1,0 +1,47 @@
+billNumber = "HB07248"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07248"
+lastScraped = "2025-09-22T00:25:55.923198"
+title = "HB07248"
+longTitle = "AN ACT INCREASING THE ADDITIONAL REAL PROPERTY TAX ON IDLE LANDS, AMENDING FOR THE PURPOSE SECTION 236 OF REPUBLIC ACT NUMBERED 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1993-02-09"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-02-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-02-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 125867
+congress = 9
+bill_no = "HB07248"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-02-15"

@@ -1,0 +1,41 @@
+billNumber = "HB05113"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05113"
+lastScraped = "2025-09-22T00:20:58.315341"
+title = "HB05113"
+longTitle = "AN ACT CONVERTING EXECUTIVE ORDER NO. 273, CREATING THE MUNICIPALITY OF LAPUYAN IN THE PROVINCE OF ZAMBOANGA DEL SUR, INTO A LEGISLATIVE ACT, DEFINING ITS BOUNDARIES AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-11-15"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 111534
+congress = 10
+bill_no = "HB05113"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-11-20"

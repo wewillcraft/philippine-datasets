@@ -1,0 +1,51 @@
+billNumber = "HB03175"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB03175"
+lastScraped = "2025-09-21T23:39:48.908783"
+title = "HB03175"
+longTitle = "AN ACT STRENGTHENING AGRICULTURAL AND FISHERIES MECHANIZATION BY INTEGRATING THE DEPARTMENT OF SCIENCE AND TECHNOLOGY IN THE IMPLEMENTATION OF REPUBLIC ACT NO. 10601, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-08-06"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB03175.pdf"
+fileSize = 355991
+author = "POE, BRIAN"
+[[authorsDetail]]
+name = "POE, BRIAN"
+nameCode = "Poe"
+date = "2025-08-06"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-08-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 3176
+congress = 103
+bill_no = "HB03175"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-12"

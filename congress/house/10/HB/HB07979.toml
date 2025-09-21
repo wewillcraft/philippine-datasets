@@ -1,0 +1,41 @@
+billNumber = "HB07979"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07979"
+lastScraped = "2025-09-22T00:20:58.877010"
+title = "HB07979"
+longTitle = "AN ACT REGULATING THE USE OF PROFESSIONAL, ECCLESIASTIC, MILITARY AND POLICE TITLES AND PROVIDING PENALTIES THEREOF"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Durano"
+[[authorsDetail]]
+name = "Durano"
+nameCode = "Durano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 114400
+congress = 10
+bill_no = "HB07979"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-09-26"

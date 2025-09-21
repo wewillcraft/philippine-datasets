@@ -1,0 +1,83 @@
+billNumber = "HB00091"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00091"
+lastScraped = "2025-09-22T00:20:57.392545"
+title = "HB00091"
+longTitle = "AN ACT REQUIRING THE PLANTING OF TREES IN OPEN SPACES OF SUBDIVISION PROJECTS DEVELOPED FOR RESIDENTIAL, INDUSTRIAL, OR COMMERCIAL PURPOSE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-06-30"
+status = "Pending with the Committee on ECOLOGY since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "GOLEZ, ROILO S.", "FIGUEROA, CATALINO V.", "DRAGON, RENATO P.", "RECTO, RALPH G.", "CRUZ-DUCUT, ZENAIDA",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RECTO, RALPH G."
+nameCode = "Recto"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[firstReading]
+id = 106512
+congress = 10
+bill_no = "HB00091"
+comm_act = "joint ref'l (transcrip tion/dtd. Sept. 27, 1995); J. 27; p.31"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-07-25"

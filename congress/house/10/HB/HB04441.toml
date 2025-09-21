@@ -1,0 +1,49 @@
+billNumber = "HB04441"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04441"
+lastScraped = "2025-09-22T00:20:58.201658"
+title = "HB04441"
+longTitle = "AN ACT AMENDING SECTION 20 OF PRESIDENTIAL DECREE NUMBERED 1638, AS AMENDED BY PRESIDENTIAL DECREE NUMBERED 1650, OTHERWISE KNOWN AS THE 'ARMED FORCES OF THE PHILIPPINES RETIREMENT LAW'"
+scope = "National"
+dateFiled = "1995-10-17"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1995-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 110862
+congress = 10
+bill_no = "HB04441"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1995-10-25"

@@ -1,0 +1,71 @@
+billNumber = "HB01785"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01785"
+lastScraped = "2025-09-22T00:20:57.679958"
+title = "HB01785"
+longTitle = "AN ACT CREATING THE LAWAN-LAWAN PRIMARY SCHOOL IN THE MUNICIPALITY OF LAS NIEVES, PROVINCE OF AGUSAN DEL NORTE, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Approved by the House on 1996-06-06, transmitted to on 1996-06-06 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108206
+congress = 10
+bill_no = "HB01785"
+report = "00435"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1995-08-08"
+date_ob = "1996-05-28"
+date_report = "1996-05-27"
+
+[secondReading]
+id = 17837
+congress = 10
+bill_no = "HB01785"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2456
+congress = 10
+bill_no = "HB01785"
+date_dist = "1996-06-03"
+date_adopt = "1996-06-06"
+no_yeas = 144
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-08"

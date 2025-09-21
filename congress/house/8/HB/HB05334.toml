@@ -1,0 +1,42 @@
+billNumber = "HB05334"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05334"
+lastScraped = "2025-09-22T00:46:57.487977"
+title = "HB05334"
+longTitle = "AN ACT ESTABLISHING AN OYSTER AND MUSSEL FARM IN THE MUNICIPALITY OF SAN FABIAN, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-02-08"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Venecia"
+[[authorsDetail]]
+name = "Venecia"
+nameCode = "Venecia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-02-10"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 140017
+congress = 8
+bill_no = "HB05334"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-02-10"

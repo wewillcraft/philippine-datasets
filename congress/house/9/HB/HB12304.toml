@@ -1,0 +1,72 @@
+billNumber = "HB12304"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12304"
+lastScraped = "2025-09-22T00:25:56.868296"
+title = "HB12304"
+longTitle = "AN ACT DECLARING THE FIRST WORKING DAY OF EVERY MONTH AS PEOPLE'S DAY"
+scope = "National"
+dateFiled = "1994-03-14"
+status = "Approved by the House on 1994-08-24, transmitted to on 1994-08-29 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-04-13"
+
+[[motherBills]]
+bill_no = "HB09281"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB09281"
+flag = "S"
+
+[firstReading]
+id = 130919
+congress = 9
+bill_no = "HB12304"
+report = "00565"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1994-04-13"
+date_ob = "1994-04-13"
+date_cal = "1994-04-13"
+date_unass = "1994-04-13"
+date_report = "1994-03-14"
+
+[secondReading]
+id = 19771
+congress = 9
+bill_no = "HB12304"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1994-08-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2011
+congress = 9
+bill_no = "HB12304"
+date_dist = "1994-08-17"
+date_adopt = "1994-08-24"
+no_yeas = 156
+no_nays = 1
+no_abstent = 0
+date_trans = "1994-08-29"
+date_rec = "1994-08-30"

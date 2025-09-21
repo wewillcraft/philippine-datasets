@@ -1,0 +1,47 @@
+billNumber = "HB10668"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10668"
+lastScraped = "2025-09-22T00:25:56.530512"
+title = "HB10668"
+longTitle = "AN ACT CREATING THE PROVINCE OF NORTHERN PALAWAN"
+scope = "Local"
+dateFiled = "1993-09-02"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-09-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129286
+congress = 9
+bill_no = "HB10668"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-09-09"

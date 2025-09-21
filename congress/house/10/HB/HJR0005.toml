@@ -1,0 +1,49 @@
+billNumber = "HJR0005"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0005"
+lastScraped = "2025-09-22T00:20:59.420018"
+title = "HJR0005"
+longTitle = "JOINT RESOLUTION EXPRESSING THE SENSE OF CONGRESS TO OPPOSE ANY MOVE TO AMEND THE CONSTITUTION, PARTICULARLY, THAT OF CHANGING THE PRESENT FORM OF GOVERNMENT FROM PRESIDENTIAL TO PARLIAMENTARY SYSTEM"
+scope = "National"
+dateFiled = "1995-09-28"
+status = "Pending with the Committee on CONSTITUTIONAL AMENDMENTS since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "GOLEZ, ROILO S.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "0507"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117032
+congress = 10
+bill_no = "HJR0005"
+referral = "0507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+date_read = "1995-10-03"

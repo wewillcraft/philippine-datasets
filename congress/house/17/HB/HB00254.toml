@@ -1,0 +1,61 @@
+billNumber = "HB00254"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00254"
+lastScraped = "2025-09-21T23:55:44.130725"
+title = "HB00254"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR SHARING OF ORGANS FROM DECEASED DONORS"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on HEALTH since 2016-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00254.pdf"
+fileSize = 1993387
+author = "Roque, Harry Jr. L."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Roque, Harry Jr. L."
+nameCode = "Roque (H.)"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2016-08-16"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 33722
+congress = 17
+bill_no = "HB00254"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-26"

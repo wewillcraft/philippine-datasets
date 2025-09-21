@@ -1,0 +1,49 @@
+billNumber = "HB08090"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08090"
+lastScraped = "2025-09-22T00:20:58.897099"
+title = "HB08090"
+longTitle = "AN ACT DECLARING SEPTEMBER 20 OF EVERY YEAR AS JOSEFA LLANES ESCODA DAY AND A NONWORKING PUBLIC HOLIDAY THROUGHOUT THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1996-10-07"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "LAUDICO, MINERVA G.",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LAUDICO, MINERVA G."
+nameCode = "Laudico"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-10-09"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 114511
+congress = 10
+bill_no = "HB08090"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-10-09"

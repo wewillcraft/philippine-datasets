@@ -1,0 +1,61 @@
+billNumber = "HR00080"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00080"
+lastScraped = "2025-09-22T00:01:47.353224"
+title = "HR00080"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF SOCIAL WELFARE AND DEVELOPMENT TO REVIEW AND REVISE THE CURRENT INSTITUTIONAL STRUCTURE AND PAYOUT SCHEDULE OF THE SOCIAL PENSION PROGRAM FOR SENIOR CITIZENS"
+scope = "National"
+dateFiled = "2019-07-23"
+status = "Pending with the Committee on SENIOR CITIZENS since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00080.pdf"
+fileSize = 446228
+author = "SUAREZ, DAVID \"JAY-JAY\" C."
+coAuthors = [ "ALONTE-NAGUIAT, LEN B.",]
+[[authorsDetail]]
+name = "SUAREZ, DAVID \"JAY-JAY\" C."
+nameCode = "Suarez (D.)"
+date = "2019-07-23"
+sequence = 1
+
+[[authorsDetail]]
+name = "Villaraza-Suarez, Anna Marie"
+nameCode = "Villaraza-Suarez"
+date = "2019-07-23"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2020-02-24"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2019-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30409
+congress = 18
+bill_no = "HR00080"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-30"

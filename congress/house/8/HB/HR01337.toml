@@ -1,0 +1,42 @@
+billNumber = "HR01337"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01337"
+lastScraped = "2025-09-22T00:47:02.793097"
+title = "HR01337"
+longTitle = "RESOLUTION SEEKING THE IMMEDIATE CREATION OF A TRI-PARTITE BODY TO EVOLVE MEASURES TO CHECK AND REMEDY THE UNEMPLOYMENT PROBLEM"
+scope = "National"
+dateFiled = "1989-06-07"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1989-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes"
+[[authorsDetail]]
+name = "Reyes"
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "521"
+dateRead = "1989-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171205
+congress = 8
+bill_no = "HR01337"
+referral = "521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "1989-06-08"

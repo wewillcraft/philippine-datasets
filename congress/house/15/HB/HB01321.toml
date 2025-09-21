@@ -1,0 +1,61 @@
+billNumber = "HB01321"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01321"
+lastScraped = "2025-09-21T23:56:40.793564"
+title = "HB01321"
+longTitle = "AN ACT INCREASING THE TOTAL INDEMNITY CLAIM FOR DEATH OR SERIOUS PHYSICAL INJURY TO ANY PASSENGER OR THIRD PARTY WITHOUT THE NECESSITY OF PROVING FAULT OR NEGLIGENCE, AMENDING FOR THE PURPOSE SECTION 378 OF THE INSURANCE CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "2010-07-13"
+status = "Pending with the Committee on TRANSPORTATION since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01321.pdf"
+fileSize = 324046
+author = "Marcoleta, Rodante D."
+coAuthors = [ "SYJUCO, AUGUSTO, JR. LIMCACO", "CASTELO, WINSTON TAQUEBAN",]
+[[authorsDetail]]
+name = "Marcoleta, Rodante D."
+nameCode = "Marcoleta"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO, JR. LIMCACO"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J052"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 56793
+congress = 15
+bill_no = "HB01321"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

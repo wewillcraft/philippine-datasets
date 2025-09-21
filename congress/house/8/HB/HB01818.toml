@@ -1,0 +1,42 @@
+billNumber = "HB01818"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01818"
+lastScraped = "2025-09-22T00:46:56.880499"
+title = "HB01818"
+longTitle = "AN ACT APPROPRIATING FIVE MILLION PESOS (P5,000,000.00) FOR WATERWORKS AND SPRING DEVELOPMENT IN THE PROVINCE OF CAMARINES NORTE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unico"
+[[authorsDetail]]
+name = "Unico"
+nameCode = "Unico"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-28"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 136509
+congress = 8
+bill_no = "HB01818"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-28"

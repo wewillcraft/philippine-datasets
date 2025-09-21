@@ -1,0 +1,41 @@
+billNumber = "HB06098"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06098"
+lastScraped = "2025-09-22T00:20:58.494799"
+title = "HB06098"
+longTitle = "AN ACT DECLARING SEPTEMBER 27 OF EACH YEAR AS A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE PROVINCE OF BATANGAS  AND THE CITIES OF BATANGAS AND LIPA"
+scope = "Local"
+dateFiled = "1996-02-05"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-02-08"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 112519
+congress = 10
+bill_no = "HB06098"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-02-08"

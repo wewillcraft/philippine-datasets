@@ -1,0 +1,97 @@
+billNumber = "HR01818"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01818"
+lastScraped = "2025-09-21T23:55:46.601154"
+title = "HR01818"
+longTitle = "A RESOLUTION URGING THE PHILIPPINE HEALTH INSURANCE CORPORATION TO INCLUDE PSORIASIS IN THE LIST OF DISEASES AND AILMENTS COVERED BY ITS HEALTH CARE PROGRAM, WITH THE END IN VIEW OF MAKING PSORIASIS TREATMENT AVAILABLE, ESPECIALLY TO THE MARGINALIZED SECTOR, AND LESSENING CASES OF PSORIASIS IN THE COUNTRY"
+scope = "National"
+dateFiled = "2018-04-12"
+status = "Adopted as Resolution No. HR00124 on 2018-05-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "PRIMICIAS-AGABAS, MARLYN L.",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2018-04-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-05-28"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "PRIMICIAS-AGABAS, MARLYN L."
+nameCode = "Primicias-Agabas"
+date = "2018-05-28"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2018-05-15"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[motherBills]]
+bill_no = "HR00719"
+sequence = 1
+date = "2018-04-12"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00719"
+sequence = 1
+date = "2018-04-12"
+flag = "S"
+
+[firstReading]
+id = 44560
+congress = 17
+bill_no = "HR01818"
+report = "00716"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "HEALTH"
+recomm = "Recommending its adoption in substitution of House Resolution No. 719"
+remarks = ""
+file = "CR00716.pdf"
+date_read = "2018-05-15"
+date_ob = "2018-05-15"
+date_report = "2018-04-12"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_17/CR00716.pdf"
+
+[secondReading]
+id = 4211
+congress = 17
+bill_no = "HR01818"
+adopted_resolution = "HR00124"
+adopted_resolution_title = "A RESOLUTION URGING THE PHILIPPINE HEALTH INSURANCE CORPORATION TO INCLUDE PSORIASIS IN THE LIST OF DISEASES AND AILMENTS COVERED BY ITS HEALTH CARE PROGRAM, WITH THE END IN VIEW OF MAKING PSORIASIS TREATMENT AVAILABLE, ESPECIALLY TO THE MARGINALIZED SECTOR, AND LESSENING CASES OF PSORIASIS IN THE COUNTRY"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2018-05-22"
+date_approved = "2018-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01818.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_17/HR01818.pdf"

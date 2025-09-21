@@ -1,0 +1,71 @@
+billNumber = "HB01904"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01904"
+lastScraped = "2025-09-22T00:20:57.704507"
+title = "HB01904"
+longTitle = "AN ACT ESTABLISHING A TOURISM MOUNTAIN RESORT COMPLEX IN THE MUNICIPALITY OF LUBUAGAN, PROVINCE OF KALINGA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Approved by the House on 1996-04-30, transmitted to on 1996-05-02 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108325
+congress = 10
+bill_no = "HB01904"
+report = "00292"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-08-09"
+date_ob = "1996-03-19"
+date_report = "1996-03-15"
+
+[secondReading]
+id = 17857
+congress = 10
+bill_no = "HB01904"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2474
+congress = 10
+bill_no = "HB01904"
+date_dist = "1996-03-26"
+date_adopt = "1996-04-30"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-02"
+date_rec = "1996-05-07"

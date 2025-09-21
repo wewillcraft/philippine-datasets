@@ -1,0 +1,47 @@
+billNumber = "HB00458"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00458"
+lastScraped = "2025-09-22T00:25:54.677537"
+title = "HB00458"
+longTitle = "AN ACT CONVERTING THE RURAL HEALTH UNIT IN SAN JUAN, ILOCOS SUR INTO A TEN-BED MUNICIPAL MEDICAL CENTER TO BE KNOWN AS THE SAN JUAN MUNICIPAL MEDICAL CENTER"
+scope = "Local"
+dateFiled = "1992-07-31"
+status = "Pending with the Committee on HEALTH since 1992-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119077
+congress = 9
+bill_no = "HB00458"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-05"

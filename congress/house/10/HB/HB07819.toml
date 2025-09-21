@@ -1,0 +1,46 @@
+billNumber = "HB07819"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07819"
+lastScraped = "2025-09-22T00:20:58.848672"
+title = "HB07819"
+longTitle = "AN ACT CONVERTING THE DR. ALEJANDRO ALBERT ELEMENTARY SCHOOL OF SAMPALOC IN THE FOURTH DISTRICT OF MANILA INTO AN ELEMENTARY SCIENCE SCHOOL TO BE KNOWN AS DR. ALEJANDRO ALBERT ELEMENTARY SCIENCE SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-26"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-08-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114240
+congress = 10
+bill_no = "HB07819"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-08-29"

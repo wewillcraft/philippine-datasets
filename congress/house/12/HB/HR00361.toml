@@ -1,0 +1,58 @@
+billNumber = "HR00361"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00361"
+lastScraped = "2025-09-22T00:13:01.218022"
+title = "HR00361"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON BANKS AND FINANCIAL INTERMEDIARIES AND OTHER APPROPRIATE HOUSE COMMITTEES TO INQUIRE INTO, IN AID OF LEGISLATION, THE CLOSURE OF UNITRUST DEVELOPMENT BANK, WITH THE END IN VIEW OF EVALUATING EXISTING REGULATIONS AND/OR FORMULATING LEGISLATIVE MEASURES THAT ENSURE THE PROTECTION OF DEPOSITORS' WELFARE AND THE INTEGRITY OF THE ENTIRE BANKING SYSTEM"
+scope = "Local"
+dateFiled = "2002-01-11"
+status = "Adopted Resolution (Pending with the committee on BANKS AND FINANCIAL INTERMEDIARIES since 2002-02-05)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Uy, Edwin C."
+[[authorsDetail]]
+name = "Uy, Edwin C."
+nameCode = "Uy"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-01-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90300
+congress = 12
+bill_no = "HR00361"
+report = "00192"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-01-22"
+date_report = "2002-02-04"
+
+[secondReading]
+id = 15069
+congress = 12
+bill_no = "HR00361"
+adopted_resolution = "HR00148"
+date_calendared = "2002-02-05"
+date_approved = "2002-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-02-05"
+file = "HR00148.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00148.pdf"

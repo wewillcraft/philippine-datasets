@@ -1,0 +1,42 @@
+billNumber = "HB01298"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01298"
+lastScraped = "2025-09-22T00:46:56.791928"
+title = "HB01298"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A MUNICIPAL FEEDER PORT IN THE CITY OF BUTUAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-15"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 135994
+congress = 8
+bill_no = "HB01298"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-15"

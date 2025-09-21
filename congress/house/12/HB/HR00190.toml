@@ -1,0 +1,59 @@
+billNumber = "HR00190"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00190"
+lastScraped = "2025-09-22T00:13:01.179406"
+title = "Giving Consent to Hon. Carlos Alberto O. Villa Abrille to Accept the Award Orden del Libertador Gran Cruz"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE CARLOS ALBERTO O. VILLA ABRILLE, PHILIPPINE AMBASSADOR TO ARGENTINA, TO ACCEPT THE AWARD ORDEN DEL LIBERTADOR GRAN CRUZ"
+scope = "Local"
+dateFiled = "2001-09-17"
+status = "Adopted as Resolution No. HR00067 on 2001-11-21"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2001-09-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 90129
+congress = 12
+bill_no = "HR00190"
+report = "00069"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments ."
+date_read = "2001-09-26"
+date_ob = "2001-10-22"
+date_report = "2001-10-18"
+
+[secondReading]
+id = 14974
+congress = 12
+bill_no = "HR00190"
+adopted_resolution = "HR00067"
+remarks = "Adopted as amended"
+date_calendared = "2001-11-21"
+date_approved = "2001-11-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00067.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00067.pdf"

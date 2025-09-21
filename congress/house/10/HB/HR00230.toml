@@ -1,0 +1,80 @@
+billNumber = "HR00230"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00230"
+lastScraped = "2025-09-22T00:20:59.466191"
+title = "HR00230"
+longTitle = "RESOLUTION URGING THE ADOPTION OF THE PLATFORM FOR ACTION RATIFIED DURING THE UNITED NATIONS FOURTH WORLD CONFERENCE ON WOMEN IN BEIJING, PEOPLE'S REPUBLIC OF CHINA HELD ON SEPTEMBER 4-15, 1995"
+scope = "National"
+dateFiled = "1995-10-02"
+status = "Adopted as Resolution No. HR00066 on 1996-08-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+coAuthors = [ "ALMARIO, THELMA Z.", "GOLEZ, ROILO S.", "LUCIANO, LEONOR INES",]
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALMARIO, THELMA Z."
+nameCode = "Almario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1995-10-04"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 117284
+congress = 10
+bill_no = "HR00230"
+report = "00270"
+referral = "A504"
+ref_name = "WOMEN"
+recomm = "Approval without amendment"
+date_read = "1995-10-04"
+date_ob = "1996-03-12"
+date_unass = "1996-03-19"
+date_report = "1996-03-11"
+
+[secondReading]
+id = 18940
+congress = 10
+bill_no = "HR00230"
+adopted_resolution = "HR00066"
+date_calendared = "1996-08-15"
+date_approved = "1996-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00066.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00066.pdf"

@@ -1,0 +1,66 @@
+billNumber = "HB06988"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06988"
+lastScraped = "2025-09-22T00:20:58.655284"
+title = "HB06988"
+longTitle = "AN ACT CHANGING THE NAME OF LAPASAN NATIONAL HIGH SCHOOL TO CONSTANCIO BAJAS MEMORIAL NATIONAL HIGH SCHOOL, LAPASAN, CAGAYAN DE ORO CITY"
+scope = "Local"
+dateFiled = "1996-05-16"
+status = "Approved by the House on 1996-12-19, transmitted to on 1997-01-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 113409
+congress = 10
+bill_no = "HB06988"
+report = "00679"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1996-05-21"
+date_ob = "1996-12-04"
+date_report = "1996-12-02"
+
+[secondReading]
+id = 18438
+congress = 10
+bill_no = "HB06988"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3034
+congress = 10
+bill_no = "HB06988"
+date_dist = "1996-12-16"
+date_adopt = "1996-12-19"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-06"
+date_rec = "1997-01-10"

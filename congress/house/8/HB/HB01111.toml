@@ -1,0 +1,42 @@
+billNumber = "HB01111"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01111"
+lastScraped = "2025-09-22T00:46:56.759958"
+title = "HB01111"
+longTitle = "AN ACT CONVERTING THE CAMIROS BARANGAY HIGH SCHOOL IN THE MUNICIPALITY OF ANILAO, PROVINCE OF ILOILO, INTO A NATIONAL HIGH SCHOOL TO BE KNOWN AS THE CAMIROS NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1987-09-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-09-08"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 135808
+congress = 8
+bill_no = "HB01111"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-09-08"

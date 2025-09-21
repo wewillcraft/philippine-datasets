@@ -1,0 +1,42 @@
+billNumber = "HB04110"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04110"
+lastScraped = "2025-09-22T00:46:57.278204"
+title = "HB04110"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF TWENTY MILLIONPESOS FOR THE CONSTRUCTION OF A ROAD FROM BARANGAYMASOL TO THE POBLACION IN THE MUNICIPALITY OF AMBAGUIO, PROVINCE OF NUEVA VIZCAYA"
+scope = "Local"
+dateFiled = "1987-11-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla"
+[[authorsDetail]]
+name = "Padilla"
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-12-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 138796
+congress = 8
+bill_no = "HB04110"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-12-03"

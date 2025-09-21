@@ -1,0 +1,49 @@
+billNumber = "HR00232"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00232"
+lastScraped = "2025-09-22T00:20:59.466524"
+title = "HR00232"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ENERGY TO RECOMMEND TO THE NATIONAL POWER CORPORATION TO ADOPT THE LOWEST BID PRICE OF US$1.54 BILLION SUBMITTED BY CONSOLIDATED ELECTRIC POWER ASIA AS THE APPROVED AGENCY ESTIMATE IF A RE-BIDDING OF THE 1,200-MEGAWATT NATURAL GAS POWER PLANT IN ILIGAN, BATANGAS, IS CONDUCTED"
+scope = "Local"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on ENERGY since 1995-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-10-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117286
+congress = 10
+bill_no = "HR00232"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-10-04"

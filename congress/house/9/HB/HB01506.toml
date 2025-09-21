@@ -1,0 +1,47 @@
+billNumber = "HB01506"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01506"
+lastScraped = "2025-09-22T00:25:54.868093"
+title = "HB01506"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE REPAIR, REHABILITATION AND/OR IMPROVEMENT OF THE IRRIGATION SYSTEM OF THE MUNICIPALITY OF OPOL, PROVINCE OF MISAMIS ORIENTAL"
+scope = "Local"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120125
+congress = 9
+bill_no = "HB01506"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-31"

@@ -1,0 +1,55 @@
+billNumber = "HB05133"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05133"
+lastScraped = "2025-09-22T00:25:55.576780"
+title = "HB05133"
+longTitle = "AN ACT GRANTING LONGEVITY PAY TO INVESTIGATION AGENTS OF THE NATIONAL BUREAU OF INVESTIGATION, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1992-11-24"
+status = "Pending with the Committee on JUSTICE since 1992-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "NAZARENO, DOMINADOR JR. G.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NAZARENO, DOMINADOR JR. G."
+nameCode = "Nazareno"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-11-26"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123752
+congress = 9
+bill_no = "HB05133"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-11-26"

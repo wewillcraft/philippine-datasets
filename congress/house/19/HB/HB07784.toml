@@ -1,0 +1,82 @@
+billNumber = "HB07784"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB07784"
+lastScraped = "2025-09-21T23:55:21.586695"
+title = "HB07784"
+longTitle = "CANCER SCREENING, EARLY DETECTION, AND PREVENTION PROGRAM FOR FILIPINOS IN ALL GOVERNMENT HEALTH FACILITIES NATIONWIDE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2023-03-27"
+status = "Pending with the Committee on HEALTH since 2023-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB07784.pdf"
+fileSize = 1283518
+author = "CARI, CARL NICOLAS C."
+coAuthors = [ "SOLON, STEVE", "CASTRO, JANE T.", "VIOLAGO, JOSEPH GILBERT F.", "LEE, WILBERT T.", "BONDOC, ANNA YORK P.",]
+[[authorsDetail]]
+name = "CARI, CARL NICOLAS C."
+nameCode = "Cari"
+date = "2023-03-27"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SOLON, STEVE"
+nameCode = "Solon"
+date = "2023-05-23"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CASTRO, JANE T."
+nameCode = "Castro (J.)"
+date = "2023-05-24"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, JOSEPH GILBERT F."
+nameCode = "Violago"
+date = "2023-05-29"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LEE, WILBERT T."
+nameCode = "Lee"
+date = "2024-10-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BONDOC, ANNA YORK P."
+nameCode = "Bondoc"
+date = "2025-01-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-05-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 12703
+congress = 19
+bill_no = "HB07784"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-05-08"

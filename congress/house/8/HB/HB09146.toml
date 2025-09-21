@@ -1,0 +1,42 @@
+billNumber = "HB09146"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09146"
+lastScraped = "2025-09-22T00:46:58.207150"
+title = "HB09146"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK FARM IN BARANGAY POBLACION, MUNICIPALITY OF BIEN UNIDO, PROVINCE OFBOHOL, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1988-05-10"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-05-12"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 143821
+congress = 8
+bill_no = "HB09146"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-05-12"

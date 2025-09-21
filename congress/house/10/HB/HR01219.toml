@@ -1,0 +1,54 @@
+billNumber = "HR01219"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01219"
+lastScraped = "2025-09-22T00:20:59.660471"
+title = "HR01219"
+longTitle = "RESOLUTION DIRECTING THE HOUSE SPECIAL COMMITTEE ON THE FISHERIES INDUSTRY AND THE HOUSE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON RECENT REPORTS OF FISH KILL IN BINMALEY PANGASINAN, TO DETERMINE THE REAL CAUSES AND TO INSTITUTE REMEDIAL AND LONG-TERM POLICIES TO PREVENT SIMILAR BANGUS-FISH KILL IN THE PROVINCE OF PANGASINAN, AND IN OTHER AREAS OF THE COUNTRY AND TO PROMOTE ECOLOGICAL BALANCE FOR THE FOOD SUSTAINABILITY REQUIREMENTS OF THE PRESENT AND FUTURE GENERATIONS OF FILIPINOS"
+scope = "Local"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on FISHERIES INDUSTRY (SPECIAL CTTE.) since 1997-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1997-05-22"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 118273
+congress = 10
+bill_no = "HR01219"
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+date_read = "1997-05-22"

@@ -1,0 +1,56 @@
+billNumber = "HR00893"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00893"
+lastScraped = "2025-09-22T00:20:59.593480"
+title = "HR00893"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF HEALTH AND OTHER RESPONSIBLE AUTHORITIES TO IMPOSE RESTRICTIONS ON THE MOVEMENTS OF PERSONS WITH AIDS AND PERSONS WHO ARE HIV-INFECTED AND TO PROVIDE PSYCHOLOGICAL AND MEDICAL TREATMENT ON THEM"
+scope = "National"
+dateFiled = "1996-10-08"
+status = "Pending with the Committee on HEALTH since 1996-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-10-10"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117947
+congress = 10
+bill_no = "HR00893"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-10-10"

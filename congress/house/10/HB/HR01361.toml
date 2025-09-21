@@ -1,0 +1,49 @@
+billNumber = "HR01361"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01361"
+lastScraped = "2025-09-22T00:20:59.686469"
+title = "HR01361"
+longTitle = "RESOLUTION EXEMPTING THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS (DECS) FROM THE 10% RESERVE BUDGET IMPOSED BY THE DEPARTMENT OF BUDGET AND MANAGEMENT IN ORDER FOR THE DECS TO UTILIZE FULLY THEIR APPROPRIATION"
+scope = "National"
+dateFiled = "1997-09-02"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-09-04"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 118415
+congress = 10
+bill_no = "HR01361"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-09-04"

@@ -1,0 +1,51 @@
+billNumber = "HR00602"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00602"
+lastScraped = "2025-09-22T00:25:57.476812"
+title = "HR00602"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO STUDY, IN AID OF LEGISLATION, THE REPORTED ALARMING MALARIA IN THE COUNTRY PARTICULARLY IN THE UPLAND AREAS OF RIZAL PROVINCE"
+scope = "Local"
+dateFiled = "1993-05-04"
+status = "Pending with the Committee on HEALTH since 1993-05-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+coAuthors = [ "TY, MARIO S.",]
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TY, MARIO S."
+nameCode = "Ty"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-06"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 133914
+congress = 9
+bill_no = "HR00602"
+comm_act = "Change of referral from the Committee on Rules(J.10 3) (Ctte. Rpt. No. 168, submitted by the Ctte. o"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-06"

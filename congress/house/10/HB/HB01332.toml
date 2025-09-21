@@ -1,0 +1,46 @@
+billNumber = "HB01332"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01332"
+lastScraped = "2025-09-22T00:20:57.603849"
+title = "HB01332"
+longTitle = "AN ACT ESTABLISHING AN ANIMAL BREEDING STATION IN THE MUNICIPALITY OF CALACA, PROVINCE OF BATANGAS, TO BE KNOWN AS THE CALACA ANIMAL BREEDING STATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107753
+congress = 10
+bill_no = "HB01332"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-08-01"

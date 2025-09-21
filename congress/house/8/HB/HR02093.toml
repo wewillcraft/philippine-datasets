@@ -1,0 +1,52 @@
+billNumber = "HR02093"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02093"
+lastScraped = "2025-09-22T00:47:02.956386"
+title = "HR02093"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1990-12-17"
+status = "Adopted as Resolution No. HR00096 on 1990-12-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-12-17"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 171928
+congress = 8
+bill_no = "HR02093"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-12-17"
+
+[secondReading]
+id = 21680
+congress = 8
+bill_no = "HR02093"
+adopted_resolution = "HR00096"
+remarks = "ADOPTED"
+date_calendared = "1990-12-17"
+date_approved = "1990-12-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,42 @@
+billNumber = "HR00356"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00356"
+lastScraped = "2025-09-22T00:20:59.489207"
+title = "HR00356"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO DIRECT THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT A COMPREHENSIVE AND INTEGRATED COMMUNITY DEVELOPMENT AND SOCIAL PROGRAM AND FEASIBILITY STUDY, IN AID OF LEGISLATION, FOR THE CREATION OF A COUNTRYSIDE DEVELOPMENT COMMISSION IN EVERY CONGRESSIONAL DISTRICT"
+scope = "National"
+dateFiled = "1995-12-05"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1995-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1995-12-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117410
+congress = 10
+bill_no = "HR00356"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Economic Affairs on Dec. 12, 1995."
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1995-12-11"

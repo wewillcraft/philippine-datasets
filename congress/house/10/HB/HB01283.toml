@@ -1,0 +1,74 @@
+billNumber = "HB01283"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01283"
+lastScraped = "2025-09-22T00:20:57.595176"
+title = "HB01283"
+longTitle = "AN ACT CHANGING THE NAME OF CALOOCAN CITY TO \"KALOOKAN CITY\""
+scope = "Local"
+dateFiled = "1995-07-25"
+status = "Approved by the House on 1995-11-28, transmitted to on 1995-11-28 and received by the Senate on 1995"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Asistio, Luis A."
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Asistio, Luis A."
+nameCode = "Asistio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 107704
+congress = 10
+bill_no = "HB01283"
+report = "00057"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "APPROVAL WITHOUT AMENDMENTS"
+date_read = "1995-07-31"
+date_ob = "1995-11-08"
+date_report = "1995-10-31"
+
+[secondReading]
+id = 17776
+congress = 10
+bill_no = "HB01283"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-11-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2396
+congress = 10
+bill_no = "HB01283"
+date_dist = "1995-11-14"
+date_adopt = "1995-11-28"
+no_yeas = 126
+no_nays = 0
+no_abstent = 0
+date_trans = "1995-11-28"
+date_rec = "1995-12-05"

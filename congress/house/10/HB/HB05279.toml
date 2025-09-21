@@ -1,0 +1,51 @@
+billNumber = "HB05279"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05279"
+lastScraped = "2025-09-22T00:20:58.344140"
+title = "HB05279"
+longTitle = "AN ACT CREATING THE RINCONADA LAKES DEVELOPMENT AUTHORITY, PRESCRIBING ITS POWERS, FUNCTIONS AND DUTIES, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-11-23"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1995-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1995-11-28"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111700
+congress = 10
+bill_no = "HB05279"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1995-11-28"

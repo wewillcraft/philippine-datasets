@@ -1,0 +1,46 @@
+billNumber = "HB03443"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03443"
+lastScraped = "2025-09-22T00:20:58.012027"
+title = "HB03443"
+longTitle = "AN ACT PROVIDING FOR THE CEMENTING, WIDENING, AND CONSTRUCTION OF A DRAINAGE SYSTEM ON CAA ROAD IN LAS PINAS, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-19"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109864
+congress = 10
+bill_no = "HB03443"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-19"

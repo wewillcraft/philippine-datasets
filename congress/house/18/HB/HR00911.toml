@@ -1,0 +1,58 @@
+billNumber = "HR00911"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00911"
+lastScraped = "2025-09-22T00:01:47.507861"
+title = "HR00911"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE(S) TO IMMEDIATELY INVESTIGATE, IN AID OF LEGISLATION, THE SUDDEN INCREASE IN MERALCO ELECTRICITY RATES AND BILLS, WITH THE END IN VIEW THAT CORRECTIVE MEASURES BE IMPLEMENTED TO ENSURE THAT CONSUMERS ARE CHARGED BASED ON THEIR ACTUAL ELECTRICITY CONSUMPTION\r\n"
+scope = "National"
+dateFiled = "2020-05-27"
+status = "Pending with the Committee on GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY since 2020-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00911.pdf"
+fileSize = 930739
+author = "DUTERTE, PAOLO Z."
+[[authorsDetail]]
+name = "DUTERTE, PAOLO Z."
+nameCode = "Duterte"
+date = "2020-05-27"
+sequence = 1
+
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (E.)"
+date = "2020-05-27"
+sequence = 2
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "A502"
+dateRead = "2020-05-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "secondary"
+referralCode = "D501"
+
+[firstReading]
+id = 31230
+congress = 18
+bill_no = "HR00911"
+report = ""
+comm_act = ""
+referral = "A502"
+ref_name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-08-11"
+date_read = "2020-05-28"

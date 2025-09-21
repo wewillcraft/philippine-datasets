@@ -1,0 +1,52 @@
+billNumber = "HR00674"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00674"
+lastScraped = "2025-09-22T00:01:47.463688"
+title = "HR00674"
+longTitle = "A RESOLUTION URGING THE HOUSE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE STANDARD PROCEDURE AND OTHER PROCESSES ON BORDER CONTROL OF THE DEPARTMENT OF TRANSPORTATION AND DEPARTMENT OF HEALTH IN CASES OF PUBLIC HEALTH EMERGENCY OF INTERNATIONAL CONCERN (PHEIC)"
+scope = "National"
+dateFiled = "2020-01-28"
+status = "Pending with the Committee on TRANSPORTATION since 2020-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00674.pdf"
+fileSize = 953692
+author = "Sarmiento, Edgar Mary S."
+[[authorsDetail]]
+name = "Sarmiento, Edgar Mary S."
+nameCode = "Sarmiento"
+date = "2020-01-28"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2020-02-04"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 30993
+congress = 18
+bill_no = "HR00674"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-02-19"
+date_read = "2020-02-04"

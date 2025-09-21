@@ -1,0 +1,50 @@
+billNumber = "HR01176"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01176"
+lastScraped = "2025-09-22T00:47:02.764828"
+title = "HR01176"
+longTitle = "RESOLUTION REQUIRING THE COMMITTEES ON PUBLIC ORDER AND NATIONAL DEFENSE TO INVESTIGATE IN AID OF LEGISLATION CRIMINAL ACTS COMMITTED BY OR IN CONNIVANCE WITH MEMBERS OF THE INTEGRATED NATIONAL POLICE AND THE GOVERNMENT ESTABLISHED POLICY"
+scope = "National"
+dateFiled = "1989-02-27"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1989-03-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calingasan"
+coAuthors = [ "DURANO, RAMON III D.",]
+[[authorsDetail]]
+name = "Calingasan"
+nameCode = "Calingasan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DURANO, RAMON III D."
+nameCode = "Durano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "528"
+dateRead = "1989-03-02"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 171050
+congress = 8
+bill_no = "HR01176"
+referral = "528"
+ref_name = "PUBLIC INFORMATION"
+sub_name = ""
+date_read = "1989-03-02"

@@ -1,0 +1,41 @@
+billNumber = "HR01218"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01218"
+lastScraped = "2025-09-22T00:23:18.173930"
+title = "HR01218"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED OVERPRICING OF PHARMACEUTICAL PRODUCTS WITH THE END IN VIEW OF INSTITUTING MEASURES THAT WILL MAKE THEM MORE AFFORDABLE AND ACCESSIBLE TOTHE PUBLIC"
+scope = "National"
+dateFiled = "1999-11-10"
+status = "Pending with the Committee on HEALTH since 1999-11-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1999-11-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 105674
+congress = 11
+bill_no = "HR01218"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1999-11-15"

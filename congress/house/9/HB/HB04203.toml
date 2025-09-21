@@ -1,0 +1,47 @@
+billNumber = "HB04203"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04203"
+lastScraped = "2025-09-22T00:25:55.390605"
+title = "HB04203"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF AN ICE PLANT IN THE MUNICIPALITY OF TANJAY, PROVINCE OF NEGROS ORIENTAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-28"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122822
+congress = 9
+bill_no = "HB04203"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-28"

@@ -1,0 +1,57 @@
+billNumber = "HB06044"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB06044"
+lastScraped = "2025-09-22T00:13:00.967740"
+title = "HB06044"
+longTitle = "AN ACT AMENDING SECTION 36(a) OF REPUBLIC ACT NO. 9165, OTHERWISE KNOWN AS THE ACT INSTITUTING THE COMPREHENSIVE DANGEROUS DRUGS ACT OF 2002"
+scope = "National"
+dateFiled = "2003-05-26"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2003-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+coAuthors = [ "CODILLA, EUFROCINO SR.", "AMIN, HUSSIN U.",]
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR."
+nameCode = "Codilla"
+date = ""
+journalNo = "J077"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J077"
+sessionNo = "2RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2003-06-03"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 89198
+congress = 12
+bill_no = "HB06044"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2003-06-03"

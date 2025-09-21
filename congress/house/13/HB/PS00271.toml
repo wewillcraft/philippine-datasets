@@ -1,0 +1,42 @@
+billNumber = "PS00271"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00271"
+lastScraped = "2025-09-22T00:13:49.512149"
+title = "PS00271"
+longTitle = "Violations and Excesses Committed by the Manila North Tollways Corporation"
+scope = "National"
+dateFiled = "2005-09-27"
+status = "Pending with the Committee on TRANSPORTATION since 2005-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sy-Alvarado, Wilhelmino M."
+[[authorsDetail]]
+name = "Sy-Alvarado, Wilhelmino M."
+nameCode = "Sy-alvarado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2005-10-04"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 83001
+congress = 13
+bill_no = "PS00271"
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+date_read = "2005-10-04"

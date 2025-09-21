@@ -1,0 +1,47 @@
+billNumber = "HB03816"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03816"
+lastScraped = "2025-09-22T00:25:55.269607"
+title = "HB03816"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE BALANGIGA DISTRICT HOSPITAL IN THE MUNICIPALITY OF BALANGIGA, PROVINCE OF EASTERN SAMAR, FROM TWENTY FIVE (25) TO FIFTY (50) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-19"
+status = "Pending with the Committee on HEALTH since 1992-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-21"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122435
+congress = 9
+bill_no = "HB03816"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-21"

@@ -1,0 +1,42 @@
+billNumber = "HB06531"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06531"
+lastScraped = "2025-09-22T00:46:57.767693"
+title = "HB06531"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BULELAK-MINAHAN , IN BARANGAY MALANDAY, MUNICIPALITY OF MARIKINA, METRO MANILA"
+scope = "Local"
+dateFiled = "1988-03-16"
+status = "Pending with the Committee on HEALTH since 1988-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angeles"
+[[authorsDetail]]
+name = "Angeles"
+nameCode = "Angeles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-18"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 141212
+congress = 8
+bill_no = "HB06531"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-18"

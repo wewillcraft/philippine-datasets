@@ -1,0 +1,55 @@
+billNumber = "HR01094"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01094"
+lastScraped = "2025-09-22T00:20:59.636959"
+title = "HR01094"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON MUSLIM AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CIRCUMSTANCES OF THE SALE OF A PARTICULAR PARCEL OF LAND TO THE IGLESIA NI CRISTO AND CURRENTLY CLAIMED BY THE ISLAMIC DIRECTORATE OF THEPHILIPPINES, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-02-13"
+status = "Pending with the Committee on RULES since 1997-02-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+coAuthors = [ "TULAWIE, BENSAUDI O.",]
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TULAWIE, BENSAUDI O."
+nameCode = "Tulawie"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[firstReading]
+id = 118148
+congress = 10
+bill_no = "HR01094"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Muslim Affairs on Feb. 19, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-18"

@@ -1,0 +1,57 @@
+billNumber = "HR01029"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01029"
+lastScraped = "2025-09-22T00:47:02.735598"
+title = "HR01029"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TOCONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE INDISCRIMINATE CONVERSION OF FERTILE AGRICULTURAL LANDS INTO RESIDENTIAL, COMMERCIAL OR INDUSTRIAL ZONES"
+scope = "National"
+dateFiled = "1988-11-23"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+coAuthors = [ "DRAGON, RENATO P.", "PAYUMO, FELICITO C.",]
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PAYUMO, FELICITO C."
+nameCode = "Payumo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-11-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170905
+congress = 8
+bill_no = "HR01029"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-11-28"

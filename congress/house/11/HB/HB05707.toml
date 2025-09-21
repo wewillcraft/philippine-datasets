@@ -1,0 +1,46 @@
+billNumber = "HB05707"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB05707"
+lastScraped = "2025-09-22T00:23:16.642664"
+title = "HB05707"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF BARANGAY BATO, MUNICIPALITY OF HINIGARAN, PROVINCE OF NEGROS OCCIDENTAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-11-25"
+status = "Pending with the Committee on ENERGY since 1998-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1998-12-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 97142
+congress = 11
+bill_no = "HB05707"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1998-12-02"

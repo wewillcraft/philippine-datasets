@@ -1,0 +1,57 @@
+billNumber = "HB04181"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04181"
+lastScraped = "2025-09-22T00:13:00.549608"
+title = "HB04181"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF TWO MILLION PESOS (P2,000,000.00) FOR THE CONSTRUCTION OF A COOPERATIVE CENTER IN EVERY CONGRESSIONAL DISTRICT OF THE COUNTRY"
+scope = "National"
+dateFiled = "2002-01-08"
+status = "Pending with the Committee on COOPERATIVES DEVELOPMENT since 2002-01-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+coAuthors = [ "ZAMORA, RONALDO B.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = "J067"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2002-01-15"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 87341
+congress = 12
+bill_no = "HB04181"
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = ""
+date_read = "2002-01-15"

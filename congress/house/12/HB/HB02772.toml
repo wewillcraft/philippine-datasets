@@ -1,0 +1,53 @@
+billNumber = "HB02772"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02772"
+lastScraped = "2025-09-22T00:13:00.295279"
+title = "HB02772"
+longTitle = "AN ACT ESTABLISHING A DRUG REHABILITATION CENTER IN TAGBILARAN CITY, PROVINCE OF BOHOL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-08-30"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chatto, Edgar M."
+[[authorsDetail]]
+name = "Chatto, Edgar M."
+nameCode = "Chatto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-09-05"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 85932
+congress = 12
+bill_no = "HB02772"
+comm_act = "as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-09-05"

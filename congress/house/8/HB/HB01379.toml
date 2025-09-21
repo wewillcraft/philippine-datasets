@@ -1,0 +1,50 @@
+billNumber = "HB01379"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01379"
+lastScraped = "2025-09-22T00:46:56.805888"
+title = "HB01379"
+longTitle = "AN ACT ESTABLISHING THE FIRST INTEGRATED COCONUT CENTRAL PLANT IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1987-09-11"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-09-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+coAuthors = [ "GONZALEZ, PACITA T.",]
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, PACITA T."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-09-16"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 136075
+congress = 8
+bill_no = "HB01379"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-09-16"

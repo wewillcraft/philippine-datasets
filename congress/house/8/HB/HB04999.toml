@@ -1,0 +1,42 @@
+billNumber = "HB04999"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04999"
+lastScraped = "2025-09-22T00:46:57.428334"
+title = "HB04999"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BARANGAY HEALTH CENTER IN BARANGAY POBLACION, MUNICIPALITY OF TRINIDAD, PROVINCE OF BOHOL, TO BE KNOWN AS THE POBLACION BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-01-19"
+status = "Pending with the Committee on HEALTH since 1988-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-01-25"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 139682
+congress = 8
+bill_no = "HB04999"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-01-25"

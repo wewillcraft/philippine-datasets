@@ -1,0 +1,46 @@
+billNumber = "HB02005"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02005"
+lastScraped = "2025-09-22T00:20:57.726348"
+title = "HB02005"
+longTitle = "AN ACT ESTABLISHING A TEN-BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF BUSTOS, PROVINCE OF BULACAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on HEALTH since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pancho, Pedro M."
+[[authorsDetail]]
+name = "Pancho, Pedro M."
+nameCode = "Pancho"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108426
+congress = 10
+bill_no = "HB02005"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-14"

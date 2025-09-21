@@ -1,0 +1,66 @@
+billNumber = "HB06421"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06421"
+lastScraped = "2025-09-22T00:20:58.554968"
+title = "HB06421"
+longTitle = "AN ACT DECLARING FEBRUARY 14 OF EACH YEAR AS THE FOUNDATION DAY OF THE PROVINCE OF APAYAO"
+scope = "Local"
+dateFiled = "1996-02-28"
+status = "Approved by the House on 1996-09-26, transmitted to on 1996-09-26 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-03-04"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 112842
+congress = 10
+bill_no = "HB06421"
+report = "00533"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1996-03-04"
+date_ob = "1996-08-20"
+date_report = "1996-08-14"
+
+[secondReading]
+id = 18353
+congress = 10
+bill_no = "HB06421"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-08-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2951
+congress = 10
+bill_no = "HB06421"
+date_dist = "1996-08-26"
+date_adopt = "1996-09-26"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-09-26"
+date_rec = "1996-10-03"

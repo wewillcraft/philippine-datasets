@@ -1,0 +1,47 @@
+billNumber = "HB10384"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10384"
+lastScraped = "2025-09-22T00:25:56.476542"
+title = "HB10384"
+longTitle = "AN ACT ESTABLISHING A REHABILITATION AND LIVELIHOOD CENTER FOR THE DISABLED IN EVERY REGION OF THE COUNTRY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1993-08-16"
+status = "Pending with the Committee on SOCIAL SERVICES since 1993-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1993-08-23"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129002
+congress = 9
+bill_no = "HB10384"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1993-08-23"

@@ -1,0 +1,74 @@
+billNumber = "HB07300"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07300"
+lastScraped = "2025-09-22T00:20:58.715593"
+title = "HB07300"
+longTitle = "AN ACT ESTABLISHING A NATIONALIZED HIGH SCHOOL IN THE MUNICIPALITY OF BALUNGAO, PROVINCE OF PANGASINAN, TO BE KNOWN AS THE BALUNGAO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-04"
+status = "REPUBLIC ACT RA08598 (Lapsed into law on 1998-03-20)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113721
+congress = 10
+bill_no = "HB07300"
+report = "00961"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-06-08"
+date_ob = "1997-06-05"
+date_report = "1997-06-04"
+
+[secondReading]
+id = 18470
+congress = 10
+bill_no = "HB07300"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3066
+congress = 10
+bill_no = "HB07300"
+date_dist = "1997-07-29"
+date_adopt = "1997-08-05"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-06"
+date_rec = "1997-08-12"
+amend_ind = "N"
+act_pres = "L"
+dte_actedp = "1998-03-20"

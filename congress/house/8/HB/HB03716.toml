@@ -1,0 +1,42 @@
+billNumber = "HB03716"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03716"
+lastScraped = "2025-09-22T00:46:57.215063"
+title = "HB03716"
+longTitle = "AN ACT ESTABLISHING A TEN-BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SILAGO, PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-17"
+status = "Pending with the Committee on HEALTH since 1987-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-11-19"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 138402
+congress = 8
+bill_no = "HB03716"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-11-19"

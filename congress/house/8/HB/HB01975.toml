@@ -1,0 +1,42 @@
+billNumber = "HB01975"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01975"
+lastScraped = "2025-09-22T00:46:56.908340"
+title = "HB01975"
+longTitle = "AN ACT CREATING TEN (10) NEW BARANGAYS IN THE MUNICIPALITY OF MUNTINLUPA"
+scope = "Local"
+dateFiled = "1987-09-25"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aguilar"
+[[authorsDetail]]
+name = "Aguilar"
+nameCode = "Aguilar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 136665
+congress = 8
+bill_no = "HB01975"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1987-09-30"

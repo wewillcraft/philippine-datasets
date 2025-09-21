@@ -1,0 +1,71 @@
+billNumber = "HB01211"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01211"
+lastScraped = "2025-09-22T00:20:57.582376"
+title = "HB01211"
+longTitle = "AN ACT CONVERTING THE CLAVERIA SCHOOL OF ARTS AND TRADES, CLAVERIA RURAL AND VOCATIONAL HIGH SCHOOL, AND THE PAMPLONA SCHOOL OF FISHERIES IN THE SECOND DISTRICT OF CAGAYAN PROVINCE INTO A POLYTECHNIC COLLEGE TO BE KNOWN AS THE NORTHWESTERN CAGAYAN POLYTECHNIC COLLEGE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-24"
+status = "Approved by the House on 1996-06-04, transmitted to on 1996-06-04 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107632
+congress = 10
+bill_no = "HB01211"
+report = "00418"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-07-31"
+date_ob = "1996-05-22"
+date_report = "1996-05-21"
+
+[secondReading]
+id = 17759
+congress = 10
+bill_no = "HB01211"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2379
+congress = 10
+bill_no = "HB01211"
+date_dist = "1996-05-28"
+date_adopt = "1996-06-04"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-04"
+date_rec = "1996-06-06"

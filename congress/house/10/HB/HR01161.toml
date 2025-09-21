@@ -1,0 +1,46 @@
+billNumber = "HR01161"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01161"
+lastScraped = "2025-09-22T00:20:59.648705"
+title = "HR01161"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY, THE COMMITTEE ON JUSTICE, AND THE SPECIAL COMITTEE ON EFFECTIVE LAW ENFORCEMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION BY CALLING THE AUTHORITIES INVOLVED TO SHED LIGHT ONTHE CIRCUMSTANCES ATTENDANT TO THE ARREST, TRIAL AND ACQUITTAL OF LAWRENCE WANG AND THE PROCEDURES OBSERVED TO DETERMINE THE SUFFICIENCY OR INSUFFICIENCY OF THE APPLICABLE LAWS"
+scope = "Local"
+dateFiled = "1997-04-04"
+status = "Pending with the Committee on JUSTICE since 1997-04-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-04-22"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 118215
+congress = 10
+bill_no = "HR01161"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-04-22"

@@ -1,0 +1,42 @@
+billNumber = "HR00324"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00324"
+lastScraped = "2025-09-22T00:20:59.482570"
+title = "HR00324"
+longTitle = "RESOLUTION DIRECTNG THE COMMITTEE ON TRADE AND INDUSTRY AND THE SPECIAL COMMITTEE ON EXPORT PROMOTION TO CONDUCT A COMPREHENSIVE STUDY AND SURVEY, IN AID OF LEGISLATION, ON THE ESTABLISHMENTS OF ECONOMIC CORRIDORS IN THE MUNICIPALITIES OF DUMANGAS,BAROTAC NUEVO, ANILAO, BANATE, DINGLE, DUENAS, SAN ENRIQUE AND PASSI, ALL IN THE FOURTH DISTRICT  OF THE PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-11-22"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117378
+congress = 10
+bill_no = "HR00324"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Trade and Industry and the Special Ctte."
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-11-27"

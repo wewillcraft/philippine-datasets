@@ -1,0 +1,42 @@
+billNumber = "HR02194"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02194"
+lastScraped = "2025-09-22T00:47:02.979971"
+title = "HR02194"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED SMUGGLING ACTIVITIES IN BARANGAY PURO, MAGSINGAL, ILOCOS SUR"
+scope = "Local"
+dateFiled = "1991-03-11"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1991-03-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Singson"
+[[authorsDetail]]
+name = "Singson"
+nameCode = "Singson"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1991-03-14"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 172029
+congress = 8
+bill_no = "HR02194"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1991-03-14"

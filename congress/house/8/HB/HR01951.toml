@@ -1,0 +1,50 @@
+billNumber = "HR01951"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01951"
+lastScraped = "2025-09-22T00:47:02.913791"
+title = "HR01951"
+longTitle = "RESOLUTION TO DIRECT THE PROPER COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY TO DETERMINE THE PROPRIETY OF INCLUDING REPRESENTATIVES FROM THE SENATE AND HOUSE OF REPRESENTATIVES AS MEMBERS OF AN ENERGY REGULATION BODY"
+scope = "National"
+dateFiled = "1990-10-08"
+status = "Pending with the Committee on ENERGY since 1990-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aniag"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Aniag"
+nameCode = "Aniag"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-10-11"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 171787
+congress = 8
+bill_no = "HR01951"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-10-11"

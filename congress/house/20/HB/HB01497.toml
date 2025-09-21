@@ -1,0 +1,72 @@
+billNumber = "HB01497"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01497"
+lastScraped = "2025-09-21T23:39:48.593299"
+title = "HB01497"
+longTitle = "AN ACT INSTITUTING A NATIONAL CITIZENS SERVICE TRAINING PROGRAM IN ALL PUBLIC AND PRIVATE TERTIARY EDUCATION INSTITUTIONS, REPEALING FOR THE PURPOSE REPUBLIC ACT NO. 9163, OTHERWISE KNOWN AS THE “NATIONAL SERVICE TRAINING PROGRAM ACT”, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-07"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01497.pdf"
+fileSize = 535121
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "GARCIA, KAREN HOPE F.", "LOYOLA, ROY M.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.B.)"
+date = "2025-07-07"
+sequence = 1
+
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M. B.)"
+date = "2025-07-07"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "GARCIA, KAREN HOPE F."
+nameCode = "Garcia (K. H.)"
+date = "2025-08-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY M."
+nameCode = "Loyola"
+date = "2025-08-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 1498
+congress = 103
+bill_no = "HB01497"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

@@ -1,0 +1,42 @@
+billNumber = "HB13687"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13687"
+lastScraped = "2025-09-22T00:25:57.127778"
+title = "HB13687"
+longTitle = "AN ACT AUTHORIZING THE CREATION OF ADDITIONAL POSITIONS FOR CLERKS AND STENOGRAPHERS IN ALL METROPOLITAN TRIAL COURTS, MUNICIPAL TRIAL COURTS AND MUNICIPAL CIRCUIT TRIAL COURTS AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1994-09-06"
+status = "Pending with the Committee on JUSTICE since 1994-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-09-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132296
+congress = 9
+bill_no = "HB13687"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-09-19"

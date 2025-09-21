@@ -1,0 +1,66 @@
+billNumber = "HB03721"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03721"
+lastScraped = "2025-09-22T00:20:58.063293"
+title = "HB03721"
+longTitle = "AN ACT CREATING THE NATIONAL LIVELIHOOD DEVELOPMENT COUNCIL AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-09-21"
+status = "Pending with the Committee on RURAL DEVELOPMENT since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+coAuthors = [ "AVILA, EDGAR M.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "primary"
+referralCode = "0533"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 110142
+congress = 10
+bill_no = "HB03721"
+referral = "0533"
+ref_name = "RURAL DEVELOPMENT"
+date_read = "1995-09-26"

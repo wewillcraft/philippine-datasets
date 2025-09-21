@@ -1,0 +1,46 @@
+billNumber = "HB05285"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05285"
+lastScraped = "2025-09-22T00:20:58.345306"
+title = "HB05285"
+longTitle = "AN ACT CONSTRUCTING A 150 SQUARE-METER MULTIPURPOSE PAVEMENT IN BARANGAY BUENAVISTA, MUNICIPALITY OF DINGLE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-11-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-28"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111706
+congress = 10
+bill_no = "HB05285"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-11-28"

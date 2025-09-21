@@ -1,0 +1,47 @@
+billNumber = "HB00867"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00867"
+lastScraped = "2025-09-22T00:25:54.750675"
+title = "HB00867"
+longTitle = "AN ACT ESTABLISHING A TEN-BED HOSPITAL IN THE MUNICIPALITY OF BACOLOD, PROVINCE OF LANAO DEL NORTE, TO BE KNOWN AS THE BACOLOD MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-12"
+status = "Pending with the Committee on HEALTH since 1992-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-18"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119486
+congress = 9
+bill_no = "HB00867"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-18"

@@ -1,0 +1,55 @@
+billNumber = "HB00410"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB00410"
+lastScraped = "2025-09-22T00:13:47.918609"
+title = "Public Debt Ceiling Act of 2004"
+longTitle = "AN ACT PROVIDING FOR A CEILING ON ALL PUBLIC DEBTS OF THE REPUBLIC OF THE PHILIPPINES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2004-07-01"
+status = "Pending with the Committee on APPROPRIATIONS since 2004-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB00410.pdf"
+fileSize = 8484975
+author = "Barinaga, Roseller L."
+coAuthors = [ "AMIN, HUSSIN U.",]
+[[authorsDetail]]
+name = "Barinaga, Roseller L."
+nameCode = "Barinaga"
+date = ""
+sequence = 11
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2004-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 75500
+congress = 13
+bill_no = "HB00410"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-07-27"
+date_read = "2004-07-27"

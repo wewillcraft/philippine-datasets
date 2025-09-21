@@ -1,0 +1,60 @@
+billNumber = "HR00073"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00073"
+lastScraped = "2025-09-21T23:55:46.237719"
+title = "HR00073"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEES ON BASIC EDUCATION AND HIGHER AND TECHNICAL EDUCATION TO CONDUCT INVESTIGATION, IN AID OF LEGISLATION, RELATING TO THE CONTINUING EDUCATION GAP IN OUR COUNTRY VIS-Ã€-VIS THE ON-GOING ASEAN INTEGRATION"
+scope = "National"
+dateFiled = "2016-07-12"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00073.pdf"
+fileSize = 263564
+author = "Belaro, Salvador Jr. B."
+coAuthors = [ "NAVA, LUCILLE",]
+[[authorsDetail]]
+name = "Belaro, Salvador Jr. B."
+nameCode = "Belaro"
+date = "2016-07-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NAVA, LUCILLE"
+nameCode = "Nava"
+date = "2017-02-20"
+journalNo = "J072"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2016-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[firstReading]
+id = 42816
+congress = 17
+bill_no = "HR00073"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-07-27"

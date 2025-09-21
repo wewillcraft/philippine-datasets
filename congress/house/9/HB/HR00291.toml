@@ -1,0 +1,42 @@
+billNumber = "HR00291"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00291"
+lastScraped = "2025-09-22T00:25:57.419157"
+title = "HR00291"
+longTitle = "RESOLUTION URGING THE SUPREME COURT TO DESIGNATE SPECIAL REGIONAL TRIAL COURTS TO TRY EXCLUSIVELY CRIMES INVOLVING DANGEROUS DRUGS"
+scope = "National"
+dateFiled = "1992-10-27"
+status = "Pending with the Committee on JUSTICE since 1992-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-11-09"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 133603
+congress = 9
+bill_no = "HR00291"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-11-09"

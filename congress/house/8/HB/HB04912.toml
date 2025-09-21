@@ -1,0 +1,42 @@
+billNumber = "HB04912"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04912"
+lastScraped = "2025-09-22T00:46:57.413790"
+title = "HB04912"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT OF THE PAGADIAN CITY JUVENILE DELINQUENCY CENTER IN BARANGAY LENIENZA, PAGADIAN CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-21"
+status = "Pending with the Committee on JUSTICE since 1987-12-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real"
+[[authorsDetail]]
+name = "Real"
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-12-29"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 139595
+congress = 8
+bill_no = "HB04912"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-12-29"

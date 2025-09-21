@@ -1,0 +1,49 @@
+billNumber = "HB02689"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02689"
+lastScraped = "2025-09-22T00:20:57.865477"
+title = "HB02689"
+longTitle = "AN ACT PROVIDING THAT BAIL SHALL NOT BE REQUIRED IN ALL BAILABLE OFFENSES IMPOSING CONDITIONS FOR ENTITLEMENT TO THE PRIVILEGE"
+scope = "National"
+dateFiled = "1995-08-22"
+status = "Pending with the Committee on JUSTICE since 1995-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 109110
+congress = 10
+bill_no = "HB02689"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-28"

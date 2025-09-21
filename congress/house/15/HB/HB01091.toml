@@ -1,0 +1,54 @@
+billNumber = "HB01091"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01091"
+lastScraped = "2025-09-21T23:56:40.752230"
+title = "HB01091"
+longTitle = "AN ACT ESTABLISHING A FLOATING MEDICAL CENTER TO BE KNOWN AS THE PHILIPPINE FLOATING MEDICAL CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2010-07-08"
+status = "Pending with the Committee on HEALTH since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01091.pdf"
+fileSize = 436206
+author = "Pichay, Philip A."
+coAuthors = [ "CLIMACO, MARIA ISABELLE GARCIA",]
+[[authorsDetail]]
+name = "Pichay, Philip A."
+nameCode = "Pichay"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CLIMACO, MARIA ISABELLE GARCIA"
+nameCode = "Climaco"
+date = ""
+journalNo = "J063"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 56563
+congress = 15
+bill_no = "HB01091"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

@@ -1,0 +1,47 @@
+billNumber = "HB10513"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10513"
+lastScraped = "2025-09-22T00:25:56.501090"
+title = "HB10513"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A COMMUNITY EMERGENCY HOSPITAL IN BARANGAY MABINI IN THE MUNICIPALITY OF SAN PASCUAL, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-08-25"
+status = "Pending with the Committee on HEALTH since 1993-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa"
+[[authorsDetail]]
+name = "Espinosa"
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129131
+congress = 9
+bill_no = "HB10513"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-31"

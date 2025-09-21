@@ -1,0 +1,42 @@
+billNumber = "HR01538"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01538"
+lastScraped = "2025-09-22T00:47:02.823321"
+title = "HR01538"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON HEALTH TO FORTHWITH CONDUCT A LEGISLATIVE INQUIRY INTO THE APPEAL OF THE PHILIPPINE STANDARDS ASSOCIATTION FOR GOVERNMENT SCRUTINY OF PVC PIPE MATERIALS AND GLUES IN THE WAKE OF STUDIES IDENTIFING THEM AS HEALTH HAZARDS, AND THEREAFTER RECOMMEND APPROPRIATE REMEDIAL MEASURES"
+scope = "Local"
+dateFiled = "1989-11-20"
+status = "Pending with the Committee on HEALTH since 1989-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-11-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 171399
+congress = 8
+bill_no = "HR01538"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-11-20"

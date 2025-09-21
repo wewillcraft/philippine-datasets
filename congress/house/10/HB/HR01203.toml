@@ -1,0 +1,56 @@
+billNumber = "HR01203"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01203"
+lastScraped = "2025-09-22T00:20:59.657729"
+title = "HR01203"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE EXISTING BANKING LAWS IN THE LIGHT OF THE MONTE DE PIEDAD CRISIS AND ITS SUBSEQUENT REHABILITATION"
+scope = "Local"
+dateFiled = "1997-05-06"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LEDESMA, JULIO A., IV"
+coAuthors = [ "JOAQUIN, NEREO R.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "LEDESMA, JULIO A., IV"
+nameCode = "Ledesma"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-05-13"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 118257
+congress = 10
+bill_no = "HR01203"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-05-13"

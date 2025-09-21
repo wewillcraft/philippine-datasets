@@ -1,0 +1,42 @@
+billNumber = "HR01136"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01136"
+lastScraped = "2025-09-22T00:25:57.575055"
+title = "HR01136"
+longTitle = "RESOLUTION REQUESTING HIS EXCELLENCY PRESIDENT FIDEL V. RAMOS TO RELEASE THE AMOUNT OF ONE BILLION (P1,000,000,000 .00) PESOS TO BE USED FOR ARRESTING THE CHOLERA EPIDEMIC"
+scope = "National"
+dateFiled = "1994-08-01"
+status = "Pending with the Committee on HEALTH since 1994-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-08-04"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 134442
+congress = 9
+bill_no = "HR01136"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-08-04"

@@ -1,0 +1,49 @@
+billNumber = "HB10035"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10035"
+lastScraped = "2025-09-22T00:20:59.292616"
+title = "HB10035"
+longTitle = "AN ACT TO REPEAL PRESIDENTIAL DECREE NO. 1818 (P.D.1818 - PROHIBITING COURTS FROM ISSUING RESTRAINING ORDERS OR PRELIMINARY INJUNCTIONS IN CASES INVOLVING INFRASTRUCTURE AND NATURAL RESOURCES PROJECTS OF, AND PUBLIC UTILITIES OPERATED BY, THE GOVERNMENT)"
+scope = "National"
+dateFiled = "1997-10-01"
+status = "Pending with the Committee on JUSTICE since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 116456
+congress = 10
+bill_no = "HB10035"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-10-06"

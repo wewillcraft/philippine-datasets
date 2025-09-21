@@ -1,0 +1,68 @@
+billNumber = "HR00531"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00531"
+lastScraped = "2025-09-22T00:20:59.522838"
+title = "HR00531"
+longTitle = "RESOLUTION CREATING THE OVERSIGHT COMMITTEE ON THE CASECNAN MULTIPURPOSE IRRIGATION AND POWER PROJECT TO MONITOR THE IMPLEMENTATION THEREOF"
+scope = "Local"
+dateFiled = "1996-03-11"
+status = "Adopted as Resolution No. HR00037 on 1996-03-28"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+coAuthors = [ "CUA, JUNIE E.", "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CUA, JUNIE E."
+nameCode = "Cua"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-03-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117585
+congress = 10
+bill_no = "HR00531"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-03-14"
+
+[secondReading]
+id = 18966
+congress = 10
+bill_no = "HR00531"
+adopted_resolution = "HR00037"
+date_calendared = "1996-03-28"
+date_approved = "1996-03-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00037.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00037.pdf"

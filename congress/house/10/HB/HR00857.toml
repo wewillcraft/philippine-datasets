@@ -1,0 +1,55 @@
+billNumber = "HR00857"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00857"
+lastScraped = "2025-09-22T00:20:59.586697"
+title = "HR00857"
+longTitle = "RESOLUTION DIRECTING THE HOUSE SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE RISE OF SUSPICIOUS DEATHS OF OVERSEAS CONTRACT WORKERS FOR THE PERIOD FROM JANUARY 1, 1996, AND TO RECOMMEND APPROPRIATE MEASURES TO PREVENT SAID SUSPICIOUS DEATHS OR TO RECOMMEND MEASURES TO ENSURE IMMEDIATE ASSISTANCE ON SAID OVERSEAS CONTRACT WORKERS"
+scope = "National"
+dateFiled = "1996-09-18"
+status = "Pending with the Committee on RULES since 1996-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 117911
+congress = 10
+bill_no = "HR00857"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Overseas Contract Workers and on Labor"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-24"

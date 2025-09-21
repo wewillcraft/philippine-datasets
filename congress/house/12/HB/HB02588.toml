@@ -1,0 +1,62 @@
+billNumber = "HB02588"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02588"
+lastScraped = "2025-09-22T00:13:00.262834"
+title = "HB02588"
+longTitle = "THE SOLAR CONVERSION POWER SYSTEMS ACT OF 2001"
+scope = "National"
+dateFiled = "2001-08-21"
+status = "Pending with the Committee on ENERGY since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abayon, Harlin C."
+coAuthors = [ "AMIN, HUSSIN U.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Abayon, Harlin C."
+nameCode = "Abayon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J063"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85748
+congress = 12
+bill_no = "HB02588"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2001-08-27"

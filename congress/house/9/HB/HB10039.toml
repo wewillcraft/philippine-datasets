@@ -1,0 +1,42 @@
+billNumber = "HB10039"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10039"
+lastScraped = "2025-09-22T00:25:56.409617"
+title = "HB10039"
+longTitle = "AN ACT TO AMEND THE NAME OF THE VETERANS REGIONAL HOSPITAL IN BAYOMBONG, NUEVA VIZCAYA, TO USAFIP  NL REGIONAL HOSPITAL"
+scope = "Local"
+dateFiled = "1993-07-29"
+status = "Pending with the Committee on HEALTH since 1993-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-08-03"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 128657
+congress = 9
+bill_no = "HB10039"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-08-03"

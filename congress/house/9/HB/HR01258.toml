@@ -1,0 +1,43 @@
+billNumber = "HR01258"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01258"
+lastScraped = "2025-09-22T00:25:57.600836"
+title = "HR01258"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED SPREAD OF AIDS IN CATARMAN, NORTHERN SAMAR"
+scope = "Local"
+dateFiled = "1994-10-10"
+status = "Pending with the Committee on HEALTH since 1994-10-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Menzon"
+[[authorsDetail]]
+name = "Menzon"
+nameCode = "Menzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-10-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134564
+congress = 9
+bill_no = "HR01258"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Health on 10/19/94"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-10-18"

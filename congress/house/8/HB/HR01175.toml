@@ -1,0 +1,44 @@
+billNumber = "HR01175"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01175"
+lastScraped = "2025-09-22T00:47:02.764685"
+title = "HR01175"
+longTitle = "RESOLUTION PROHIBITING THE MEMBERS OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES, FROM ENGAGING IN THE PRACTICE OF LAW"
+scope = "National"
+dateFiled = "1989-02-23"
+status = "Pending with the Committee on ETHICS since 1989-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1989-03-01"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171049
+congress = 8
+bill_no = "HR01175"
+comm_act = "LAID ON THE TABLE ON APRIL 16, 1989"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1989-03-01"
+date_laid = "1989-04-16"

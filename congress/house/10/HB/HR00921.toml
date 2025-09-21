@@ -1,0 +1,57 @@
+billNumber = "HR00921"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00921"
+lastScraped = "2025-09-22T00:20:59.598892"
+title = "HR00921"
+longTitle = "RESOLUTION URGING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY (NEDA) TO INCLUDE THE CONCRETING OF CERTAIN ROADS IN SOUTHERN LEYTE IN THE 22ND YEN LOAN CREDIT PACKAGE"
+scope = "Local"
+dateFiled = "1996-10-17"
+status = "Adopted as Resolution No. HR00087 on 1996-12-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117975
+congress = 10
+bill_no = "HR00921"
+report = "00703"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "Adoption"
+date_read = "1996-11-04"
+date_ob = "1996-12-09"
+date_report = "1996-12-09"
+
+[secondReading]
+id = 19004
+congress = 10
+bill_no = "HR00921"
+adopted_resolution = "HR00087"
+date_calendared = "1996-12-12"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00087.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00087.pdf"

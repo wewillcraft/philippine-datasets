@@ -1,0 +1,46 @@
+billNumber = "HB04005"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB04005"
+lastScraped = "2025-09-21T23:39:49.070098"
+title = "HB04005"
+longTitle = "AN ACT ESTABLISHING THE ITARAN MULTIGRAIN CENTER IN THE MUNICIPALITY OF POLANGUI, PROVINCE OF ALBAY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2025-08-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB04005.pdf"
+fileSize = 715263
+author = "SALCEDA, ADRIAN E."
+[[authorsDetail]]
+name = "SALCEDA, ADRIAN E."
+nameCode = "Salceda"
+date = "2025-08-26"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-08-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 4006
+congress = 103
+bill_no = "HB04005"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-27"

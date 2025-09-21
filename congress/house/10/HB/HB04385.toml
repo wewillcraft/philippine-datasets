@@ -1,0 +1,63 @@
+billNumber = "HB04385"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04385"
+lastScraped = "2025-09-22T00:20:58.193324"
+title = "HB04385"
+longTitle = "AN ACT INCREASING THE PENALTIES FOR VIOLATIONS OF THE ANTI-CARNAPPING LAW, AMENDING FOR THE PURPOSE REPUBLIC ACT NUMBERED SIXTY-FIVE HUNDRED AND THIRTY-NINE, OTHERWISE KNOWN AS THE ANTI-CARNAPPING ACT OF 1972"
+scope = "National"
+dateFiled = "1995-10-13"
+status = "Pending with the Committee on JUSTICE since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "AVILA, EDGAR M.", "AUMENTADO, ERICO B.", "SERAPIO, ANTONIO M.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SERAPIO, ANTONIO M."
+nameCode = "Serapio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 110806
+congress = 10
+bill_no = "HB04385"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-24"

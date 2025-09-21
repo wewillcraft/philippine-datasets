@@ -1,0 +1,75 @@
+billNumber = "HB07722"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07722"
+lastScraped = "2025-09-22T00:20:58.789320"
+title = "HB07722"
+longTitle = "AN ACT SEPARATING THE MARILOG NATIONAL HIGH SCHOOL ANNEX LOCATED AT BARANGAY BUDA FROM THE MARILOG NATIONAL HIGH SCHOOL, BOTH IN MARILOG DISTRICT, DAVAO CITY AND CONVERT IT INTO A SEPARATE AND INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS BUDA NATIONAL HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1996-08-08"
+status = "REPUBLIC ACT RA08386 (Lapsed into law on 1997-11-22)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-08-13"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114143
+congress = 10
+bill_no = "HB07722"
+report = "00682"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1996-08-13"
+date_ob = "1996-12-05"
+date_report = "1996-12-04"
+
+[secondReading]
+id = 18516
+congress = 10
+bill_no = "HB07722"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3111
+congress = 10
+bill_no = "HB07722"
+date_dist = "1996-12-16"
+date_adopt = "1996-12-19"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-06"
+date_rec = "1997-01-10"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-10-20"
+dte_actedp = "1997-11-22"

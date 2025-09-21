@@ -1,0 +1,68 @@
+billNumber = "HB00340"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB00340"
+lastScraped = "2025-09-21T23:55:20.129724"
+title = "HB00340"
+longTitle = "AN ACT CREATING THE NATIONAL CANCER CENTER OF THE PHILIPPINES, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on HEALTH since 2022-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB00340.pdf"
+fileSize = 262224
+author = "Romero, Michael L. Ph.D."
+coAuthors = [ "SAKALURAN, PRINCESS RIHAN M.", "MARAÑON, ALFREDO III D.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2022-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAKALURAN, PRINCESS RIHAN M."
+nameCode = "Sakaluran"
+date = "2022-08-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MARAÑON, ALFREDO III D."
+nameCode = "Marañon"
+date = "2022-08-09"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2022-09-15"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 5259
+congress = 19
+bill_no = "HB00340"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-26"

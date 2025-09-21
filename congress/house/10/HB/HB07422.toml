@@ -1,0 +1,69 @@
+billNumber = "HB07422"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07422"
+lastScraped = "2025-09-22T00:20:58.737901"
+title = "HB07422"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF PAMPLONA, PROVINCE OF CAGAYAN, TO BE KNOWN AS THE PAMPLONA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-17"
+status = "Approved on Third Reading on 1998-02-20"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lara"
+[[authorsDetail]]
+name = "Lara"
+nameCode = "Lara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113843
+congress = 10
+bill_no = "HB07422"
+report = "01453"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1996-07-23"
+date_ob = "1998-02-04"
+date_report = "1998-02-03"
+
+[secondReading]
+id = 18481
+congress = 10
+bill_no = "HB07422"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3077
+congress = 10
+bill_no = "HB07422"
+date_dist = "1998-02-06"
+date_adopt = "1998-02-20"
+no_yeas = 106
+no_nays = 0
+no_abstent = 0

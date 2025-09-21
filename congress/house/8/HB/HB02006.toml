@@ -1,0 +1,42 @@
+billNumber = "HB02006"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02006"
+lastScraped = "2025-09-22T00:46:56.913445"
+title = "HB02006"
+longTitle = "AN ACT REQUIRING THE NATIONAL POWER CORPORATION TO SHARE IN THE PROCEEDS OF THE UTILIZATION AND DEVELOPMENT OF THE TIWI AND MANITO GEOTHERMAL POWER WITH THE PROVINCE OF ALBAY, INCLUDING THE AFORESAIDMUNICI PALITIES WHEREIN IT IS LOCATED AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-09-28"
+status = "Pending with the Committee on ENERGY since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Imperial"
+[[authorsDetail]]
+name = "Imperial"
+nameCode = "Imperial"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 136696
+congress = 8
+bill_no = "HB02006"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-09-30"

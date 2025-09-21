@@ -1,0 +1,68 @@
+billNumber = "HB00282"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00282"
+lastScraped = "2025-09-21T23:56:21.526143"
+title = "HB00282"
+longTitle = "AN ACT MANDATING THE REPRESENTATION OF COOPERATIVES IN THE BOARD OF DIRECTORS OF THE LAND BANK OF THE PHILIPPINES, AMENDING THEREFORE REPUBLIC ACT    NUMBER 3844, AS AMENDED"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00282.pdf"
+fileSize = 641959
+author = "Paez, Cresente C."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "HERNANDEZ, FERDINAND L.",]
+[[authorsDetail]]
+name = "Paez, Cresente C."
+nameCode = "Paez"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-08-13"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-08-13"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "HERNANDEZ, FERDINAND L."
+nameCode = "Hernandez"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 46096
+congress = 16
+bill_no = "HB00282"
+report = ""
+comm_act = ""
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

@@ -1,0 +1,41 @@
+billNumber = "HR00547"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00547"
+lastScraped = "2025-09-22T00:20:59.525257"
+title = "HR00547"
+longTitle = "RESOLUTION EXPRESSING UTMOST GRATITUDE TO HIS EXCELLENCY PRESIDENT FIDEL V. RAMOS FOR APPOINTING SURIGAO DEL NORTE CONGRESSMAN ROBERT Z. BARBERS AS SECRETARY OF THE DEPARTMENT OF INTERIOR AND LOCAL GOVERNMENT (DILG)"
+scope = "Local"
+dateFiled = "1996-03-19"
+status = "Pending with the Committee on RULES since 1996-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Rosario"
+[[authorsDetail]]
+name = "Del Rosario"
+nameCode = "Del Rosario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-03-21"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 117601
+congress = 10
+bill_no = "HR00547"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-03-21"

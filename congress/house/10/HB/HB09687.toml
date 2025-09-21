@@ -1,0 +1,41 @@
+billNumber = "HB09687"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09687"
+lastScraped = "2025-09-22T00:20:59.220372"
+title = "HB09687"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 3134, OTHERWISE KNOWN AS 'THE CHARTER OF THE CITY OF LAPULAPU'"
+scope = "Local"
+dateFiled = "1997-07-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Soon-Ruiz, Nerissa Corazon"
+[[authorsDetail]]
+name = "Soon-Ruiz, Nerissa Corazon"
+nameCode = "Ruiz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-08-04"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 116108
+congress = 10
+bill_no = "HB09687"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-08-04"

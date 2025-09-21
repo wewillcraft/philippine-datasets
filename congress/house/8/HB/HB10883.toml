@@ -1,0 +1,42 @@
+billNumber = "HB10883"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10883"
+lastScraped = "2025-09-22T00:46:58.486656"
+title = "HB10883"
+longTitle = "AN ACT ESTABLISHING A PUBLIC INFORMATION CENTER IN TONGBANGKAW, BALIMBING, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-24"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 145552
+congress = 8
+bill_no = "HB10883"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1988-05-27"

@@ -1,0 +1,60 @@
+billNumber = "HB06779"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06779"
+lastScraped = "2025-09-22T00:20:58.617791"
+title = "HB06779"
+longTitle = "AN ACT TRANSFERRING THE CULTURAL AND HISTORICAL AFFAIRS FUNCTION OF THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS TO THE DEPARTMENT OF TOURISM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-03-29"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "QUIMPO, ALLEN S.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "QUIMPO, ALLEN S."
+nameCode = "Quimpo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TOURISM"
+type = "secondary"
+referralCode = "0538"
+
+[firstReading]
+id = 113200
+congress = 10
+bill_no = "HB06779"
+comm_act = "joint ref'ls as per J. 19; p. 40; Sept. 4 & 5, 1996"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1996-04-29"

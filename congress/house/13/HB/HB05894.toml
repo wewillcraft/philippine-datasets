@@ -1,0 +1,45 @@
+billNumber = "HB05894"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB05894"
+lastScraped = "2025-09-22T00:13:49.029405"
+title = "HB05894"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT, REHABILITATION AND MODERNIZATION OF THE FRANCISCO REYES AIRPORT IN THE MUNICIPALITY OF CORON, BUSUANGA ISLAND, PROVINCE OF PALAWAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2006-10-12"
+status = "Pending with the Committee on TRANSPORTATION since 2006-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB05894.pdf"
+fileSize = 629291
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2006-11-06"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 80984
+congress = 13
+bill_no = "HB05894"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2006-11-06"
+date_read = "2006-11-06"

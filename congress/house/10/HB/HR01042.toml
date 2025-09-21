@@ -1,0 +1,42 @@
+billNumber = "HR01042"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01042"
+lastScraped = "2025-09-22T00:20:59.627063"
+title = "HR01042"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON EDUCATION AND CULTURE TO INQUIRE, IN AID OF LEGISLATION, INTO THE IMPLEMENTATION OF THE PRIVATE EDUCATION FINANCIAL ASSISTANCE PROGRAM UNDER REPUBLIC ACT NO. 6728 IN THE LIGHT OF THE WIDESPREAD COMPLAINTS OF UNDUE DELAY IN THE RELEASE OF THE GOVERNMENT FINANCIAL ASSISTANCE THEREUNDER AND RECOMMEND THE APPROPRIATE LEGISLATIVE INITIATIVES"
+scope = "National"
+dateFiled = "1997-01-15"
+status = "Pending with the Committee on RULES since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 118096
+congress = 10
+bill_no = "HR01042"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Education and Culture on Jan. 23, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-23"

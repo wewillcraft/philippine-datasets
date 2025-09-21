@@ -1,0 +1,41 @@
+billNumber = "HB02359"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02359"
+lastScraped = "2025-09-22T00:20:57.791298"
+title = "HB02359"
+longTitle = "AN ACT FURTHER PROMOTING THE DISCOVERY AND PRODUCTION OF INDIGENOUS OIL AND GAS, FURTHER AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED EIGHTY-SEVEN, AS AMENDED BY PRESIDENTIAL DECREE NUMBERED EIGHTEEN HUNDRED AND FIFTY-SEVEN"
+scope = "National"
+dateFiled = "1995-08-14"
+status = "Pending with the Committee on ENERGY since 1995-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-08-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 108780
+congress = 10
+bill_no = "HB02359"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-08-17"

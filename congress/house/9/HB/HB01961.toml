@@ -1,0 +1,47 @@
+billNumber = "HB01961"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01961"
+lastScraped = "2025-09-22T00:25:54.944069"
+title = "HB01961"
+longTitle = "AN ACT ESTABLISHING A DRUG REHABILITATION CENTER IN THE MUNICIPALITY OF MUNTINLUPA, METRO MANILA, TO BE KNOWN AS THE MUNTINLUPA DRUG REHABILITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on HEALTH since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120580
+congress = 9
+bill_no = "HB01961"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-03"

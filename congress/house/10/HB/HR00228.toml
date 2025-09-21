@@ -1,0 +1,64 @@
+billNumber = "HR00228"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00228"
+lastScraped = "2025-09-22T00:20:59.465819"
+title = "HR00228"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INVESTIGATION INTO THE USE OF HAZARDOUS CHEMICALS BY CERTAIN INDUSTRIES IN THE COUNTRY"
+scope = "National"
+dateFiled = "1995-10-02"
+status = "Pending with the Committee on ECOLOGY since 1995-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+coAuthors = [ "AUMENTADO, ERICO B.", "MONTEMAYOR, LEONARDO Q.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-10-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117282
+congress = 10
+bill_no = "HR00228"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ecology on Oct. 23, 1995."
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-10-04"

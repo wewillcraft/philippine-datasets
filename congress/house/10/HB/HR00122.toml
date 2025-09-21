@@ -1,0 +1,62 @@
+billNumber = "HR00122"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00122"
+lastScraped = "2025-09-22T00:20:59.445896"
+title = "HR00122"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECONOMIC AFFAIRS AND WAYS AND MEANS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPERCUSSIONS OF E.O. NO. 264 ON THE PETROCHEMICALS INDUSTRY"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1995-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "PANCHO, PEDRO M.", "TANADA, WIGBERTO E.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PANCHO, PEDRO M."
+nameCode = "Pancho"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TANADA, WIGBERTO E."
+nameCode = "Tanada"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 117176
+congress = 10
+bill_no = "HR00122"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Economic Affairs and on Ways and Means"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1995-08-23"

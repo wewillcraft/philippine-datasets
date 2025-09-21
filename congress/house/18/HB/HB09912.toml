@@ -1,0 +1,46 @@
+billNumber = "HB09912"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB09912"
+lastScraped = "2025-09-22T00:01:47.081020"
+title = "HB09912"
+longTitle = "AN ACT ESTABLISHING A CENTER FOR DISEASE PREVENTION AND CONTROL, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING APPROPRIATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2021-08-02"
+status = "Pending with the Committee on HEALTH since 2021-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB09912.pdf"
+fileSize = 294513
+author = "Romero, Michael L. Ph.D."
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2021-08-02"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-08-04"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 29317
+congress = 18
+bill_no = "HB09912"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-08-04"

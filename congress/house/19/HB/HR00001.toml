@@ -1,0 +1,46 @@
+billNumber = "HR00001"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00001"
+lastScraped = "2025-09-21T23:55:22.545883"
+title = "HR00001"
+longTitle = "A RESOLUTION EXPRESSING STRONG SUPPORT FOR EXECUTIVE ORDER NO. 16, SERIES OF 2022 ISSUED BY CEBU GOVERNOR GWENDOLYN F. GARCIA RATIONALIZING THE WEARING OF FACE MASKS MAKING IT OPTIONAL IN WELL-VENTILATED AND OPEN SPACES WITHIN THE PROVINCE OF CEBU"
+scope = "National"
+dateFiled = "2022-06-30"
+status = "Pending with the Committee on HEALTH since 2022-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00001.pdf"
+fileSize = 397291
+author = "FRASCO, VINCENT FRANCO \"DUKE\" D."
+[[authorsDetail]]
+name = "FRASCO, VINCENT FRANCO \"DUKE\" D."
+nameCode = "Frasco"
+date = "2022-06-30"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-07-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 16545
+congress = 19
+bill_no = "HR00001"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-07-27"

@@ -1,0 +1,71 @@
+billNumber = "HB01740"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01740"
+lastScraped = "2025-09-22T00:20:57.672405"
+title = "HB01740"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7532 CONVERTING BATANGAS REGIONAL HOSPITAL TO BATANGAS MEDICAL CENTER, FURTHER INCREASING ITS BED CAPACITY TO THREE HUNDRED BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Approved by the House on 1996-03-27, transmitted to on 1996-03-27 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108161
+congress = 10
+bill_no = "HB01740"
+report = "00267"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-08-08"
+date_ob = "1996-03-12"
+date_report = "1996-03-08"
+
+[secondReading]
+id = 17833
+congress = 10
+bill_no = "HB01740"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-03-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2452
+congress = 10
+bill_no = "HB01740"
+date_dist = "1996-03-20"
+date_adopt = "1996-03-27"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-03-27"
+date_rec = "1996-04-10"

@@ -1,0 +1,42 @@
+billNumber = "HB00610"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00610"
+lastScraped = "2025-09-22T00:25:54.705637"
+title = "HB00610"
+longTitle = "AN ACT EXEMPTING CERTAIN AREAS OF THE VILLAMOR AIRBASE FROM THE COVERAGE OF R.A. NO. 7227 OTHERWISE KNOWN AS THE 'BASES CONVERSION AND DEVELOPMENT ACT OF 1992' AMENDING FOR THE PURPOSE SECTION 8, PARAGRAPH (b) THEREOF"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 119229
+congress = 9
+bill_no = "HB00610"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-08-11"

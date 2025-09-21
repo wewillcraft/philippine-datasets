@@ -1,0 +1,75 @@
+billNumber = "HB07447"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07447"
+lastScraped = "2025-09-22T00:20:58.742806"
+title = "HB07447"
+longTitle = "AN ACT CREATING A SPECIAL HEALTH CARE PLAN AND APPROPRIATING FUNDS THEREOF ZEROING ON EMERGENCY CASES DULY SUBSIDIZED BY THE GOVERNMENT FOR MEMBERS OF THE PHILIPPINE NATIONAL POLICE WHO ARE WOUNDED IN LINE OF DUTY"
+scope = "National"
+dateFiled = "1996-06-26"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+coAuthors = [ "AUMENTADO, ERICO B.", "ESPINA, GERARDO S.", "DEJON, TEMISTOCLES SR. S.", "RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RUIZ, NERISSA CORAZON S."
+nameCode = "Ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113868
+congress = 10
+bill_no = "HB07447"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1996-07-23"

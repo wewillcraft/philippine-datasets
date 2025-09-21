@@ -1,0 +1,42 @@
+billNumber = "HR01903"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01903"
+lastScraped = "2025-09-22T00:47:02.905696"
+title = "HR01903"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE OF THE HOUSE OF REPRESENTATIVES , TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE UNSUCCESSFUL IMPLEMENTATION OF THE RICE ACTION PROGRAM IN THE PROVINCE OF ILOCOS NORTE, MORE PARTICULARLYONTHE FERTILIZER SUBSIDY THAT IS AFFORDED TO FARMER BENEFICIARIES"
+scope = "National"
+dateFiled = "1990-08-30"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1990-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nalupta"
+[[authorsDetail]]
+name = "Nalupta"
+nameCode = "Nalupta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1990-09-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171739
+congress = 8
+bill_no = "HR01903"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1990-09-05"

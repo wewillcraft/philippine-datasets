@@ -1,0 +1,42 @@
+billNumber = "HR02128"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02128"
+lastScraped = "2025-09-22T00:47:02.967446"
+title = "HR02128"
+longTitle = "RESOLUTION URGING THE COMMITTEES ON JUSTICE, ENVIRONMENT AND NATURAL RESOURCES AND CULTURAL COMMUNITIES TO CONDUCT A JOINT INVESTIGATION, IN AID OF LEGISLATION, INTO THE ANOMALOUS AWARDING OF LANDS BY THE COMMISSION ON THE SETTLEMENT OF LAND PROBLEMS IN FAVOR OF A REPORTED LAND SYNDICATE OPERATING IN THE 3RD DISTRICT, PROVINCE OF BUKIDNON"
+scope = "Local"
+dateFiled = "1991-01-28"
+status = "Pending with the Committee on JUSTICE since 1991-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Jose Maria Jr. R."
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1991-01-31"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171963
+congress = 8
+bill_no = "HR02128"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1991-01-31"

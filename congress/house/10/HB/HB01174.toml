@@ -1,0 +1,41 @@
+billNumber = "HB01174"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01174"
+lastScraped = "2025-09-22T00:20:57.575742"
+title = "HB01174"
+longTitle = "AN ACT ABOLISHING THE BUREAU OF EQUIPMENT OF THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS"
+scope = "National"
+dateFiled = "1995-07-21"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 107595
+congress = 10
+bill_no = "HB01174"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-07-31"

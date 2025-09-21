@@ -1,0 +1,41 @@
+billNumber = "HB04717"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04717"
+lastScraped = "2025-09-22T00:20:58.248285"
+title = "HB04717"
+longTitle = "AN ACT GRANTING TO LESSEES OF REAL PROPERTY THE FIRST OPTION TO PURCHASE REAL PROPERTIES LEASED TO THEM"
+scope = "National"
+dateFiled = "1995-10-25"
+status = "Pending with the Committee on JUSTICE since 1995-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 111138
+congress = 10
+bill_no = "HB04717"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-11-07"

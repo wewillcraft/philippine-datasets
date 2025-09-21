@@ -1,0 +1,42 @@
+billNumber = "HR01988"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01988"
+lastScraped = "2025-09-22T00:47:02.921319"
+title = "HR01988"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON HOUSING AND REVISION OF LAWS TO JOINTLY INVESTIGATE, IN AID OF LEGISLATION, THE DEVELOPMENT OF NHA BAGONGBARRIO PROJECT; THE ISSUANCE OF LAND TITLES TO BENEFICIARIES; THE INCLUSION OF INTEREST, PENALTIES,AND DEVELOPMENT COST TO THE AMOUNT OF AMORTIZATIONS; THE REASONABLE MANNER OF PAYMENT BASED ON THE BENEFICIARIES CAPACITY TO PAY; AND THE FORMULATION OF A JUST, HUMANE AND REASONABLE CONTRACT FOR ALL BENEFICIARIES; AND THAT THERE BE DECLARED A PAYMENT MORATORIUM UNTIL AFTER THIS INVESTIGATION IS COMPLETED AND TERMINATED"
+scope = "Local"
+dateFiled = "1990-10-23"
+status = "Pending with the Committee on HOUSING since 1990-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Robles"
+[[authorsDetail]]
+name = "Robles"
+nameCode = "Robles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1990-11-05"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171824
+congress = 8
+bill_no = "HR01988"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = ""
+date_read = "1990-11-05"

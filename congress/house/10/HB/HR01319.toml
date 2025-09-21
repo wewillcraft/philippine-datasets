@@ -1,0 +1,61 @@
+billNumber = "HR01319"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01319"
+lastScraped = "2025-09-22T00:20:59.677640"
+title = "HR01319"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ENERGY AND JUSTICE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE RECENT OIL PRICE INCREASE DESPITE THE DECLINING PRICES OF CRUDE OIL AND PETROLEUM PRODUCTS IN THE WORLD MARKET"
+scope = "National"
+dateFiled = "1997-08-06"
+status = "Pending with the Committee on ENERGY since 1997-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-08-12"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "principal"
+referralCode = "A502"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 118373
+congress = 10
+bill_no = "HR01319"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-08-12"

@@ -1,0 +1,72 @@
+billNumber = "HB10494"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10494"
+lastScraped = "2025-09-22T00:20:59.394772"
+title = "HB10494"
+longTitle = "AN ACT CONVERTING THE AKLAN STATE COLLEGE OF AGRICULTURE IN THE MUNICIPALITY OF BANGA, PROVINCE OF AKLAN INTO A STATE UNIVERSITY, TO BE KNOWN AS THE STATE UNIVERSITY OF AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-01-27"
+status = "Approved on Third Reading on 1998-02-02"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-01-27"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[motherBills]]
+bill_no = "HB08576"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08576"
+flag = "S"
+
+[firstReading]
+id = 116914
+congress = 10
+bill_no = "HB10494"
+report = "01408"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1998-01-27"
+date_ob = "1998-01-27"
+date_report = "1998-01-27"
+
+[secondReading]
+id = 18858
+congress = 10
+bill_no = "HB10494"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1998-01-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3418
+congress = 10
+bill_no = "HB10494"
+date_dist = "1998-01-30"
+date_adopt = "1998-02-02"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0

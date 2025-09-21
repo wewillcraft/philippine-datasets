@@ -1,0 +1,50 @@
+billNumber = "HB13723"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13723"
+lastScraped = "2025-09-22T00:25:57.133344"
+title = "HB13723"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7364 BY CONVERTING ILOCOS REGIONAL HOSPITAL TO ILOCOS MEDICAL CENTER AND FURTHER INCRESING ITS BED CAPACITY TO THREE HUNDRED BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-09-07"
+status = "Pending with the Committee on HEALTH since 1994-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ortega"
+coAuthors = [ "ASPIRAS, JOSE D.",]
+[[authorsDetail]]
+name = "Ortega"
+nameCode = "Ortega"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ASPIRAS, JOSE D."
+nameCode = "Aspiras"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-09-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132332
+congress = 9
+bill_no = "HB13723"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-09-19"

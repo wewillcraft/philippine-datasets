@@ -1,0 +1,72 @@
+billNumber = "HB05727"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05727"
+lastScraped = "2025-09-22T00:20:58.429536"
+title = "HB05727"
+longTitle = "AN ACT CONVERTING THE HINGYON NATIONAL HIGH SCHOOL ANNEX LOCATED IN BARANGAY BITU, MUNICIPALITY OF HINGYON, PROVINCE OF IFUGAO INTO AN INDEPENDENT NATIONAL HIGH SCHOOL TO BE KNOWN AS THE BITU NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-11"
+status = "Approved by the House on 1997-08-07, transmitted to on 1997-08-07 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-01-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112148
+congress = 10
+bill_no = "HB05727"
+report = "00958"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-01-23"
+date_ob = "1997-06-05"
+date_report = "1997-06-04"
+
+[secondReading]
+id = 18252
+congress = 10
+bill_no = "HB05727"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-06-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2856
+congress = 10
+bill_no = "HB05727"
+date_dist = "1997-07-29"
+date_adopt = "1997-08-07"
+no_yeas = 150
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-07"
+date_rec = "1997-08-12"
+amend_ind = "N"

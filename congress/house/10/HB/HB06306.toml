@@ -1,0 +1,46 @@
+billNumber = "HB06306"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06306"
+lastScraped = "2025-09-22T00:20:58.534516"
+title = "HB06306"
+longTitle = "AN ACT ESTABLISHING A LEGAL RESEARCH UNIT IN EACH OF THE FIVE (5) DIVISIONS OF THE NATIONAL LABOR RELATIONS COMMISSION, AMENDING FOR THIS PURPOSE ARTICLE 213 OF THE LABOR CODE OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1996-02-21"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1996-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1996-02-26"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112727
+congress = 10
+bill_no = "HB06306"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1996-02-26"

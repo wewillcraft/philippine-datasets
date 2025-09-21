@@ -1,0 +1,43 @@
+billNumber = "HR00621"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00621"
+lastScraped = "2025-09-22T00:25:57.480120"
+title = "HR00621"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, TO LOOK INTO CERTAIN PRACTICES IN THE OPERATION OF PUBLIC UTILITY VEHICLES AND EXAMINE THE PRESENT TRAFFIC MANAGEMENT AND ENFORCEMENT SYSTEM AIMING TO PROVIDE IMPROVEMENTS THERETO"
+scope = "National"
+dateFiled = "1993-05-12"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-05-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-05-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 133933
+congress = 9
+bill_no = "HR00621"
+comm_act = "Change of referral from the Committee on Rules"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-05-18"

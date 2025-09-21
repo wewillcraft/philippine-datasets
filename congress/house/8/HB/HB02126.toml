@@ -1,0 +1,42 @@
+billNumber = "HB02126"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02126"
+lastScraped = "2025-09-22T00:46:56.934057"
+title = "HB02126"
+longTitle = "AN ACT DIRECTING THE BUREAU OF LANDS TO SPEED UP THE TITLING OF ANCESTRAL LANDS BELONGING TO CULTURAL MINORITIES AND PROVIDING FUNDS THEREOF"
+scope = "National"
+dateFiled = "1987-09-30"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 136815
+congress = 8
+bill_no = "HB02126"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-10-05"

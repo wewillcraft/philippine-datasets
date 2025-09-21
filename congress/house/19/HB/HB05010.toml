@@ -1,0 +1,67 @@
+billNumber = "HB05010"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05010"
+lastScraped = "2025-09-21T23:55:20.953607"
+title = "HB05010"
+longTitle = "AN ACT PROMOTING SAFE ALTERNATIVE MOBILITY BY ESTABLISHING A NETWORK OF POP-UP BICYCLE LANES AND EMERGENCY PATHWAYS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-09-20"
+status = "Pending with the Committee on TRANSPORTATION since 2022-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05010.pdf"
+fileSize = 379056
+author = "Tambunting, Gus S."
+coAuthors = [ "ACHARON, LORETO B.", "TEODORO, MARJORIE ANN A.",]
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2022-09-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ACHARON, LORETO B."
+nameCode = "Acharon"
+date = "2023-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TEODORO, MARJORIE ANN A."
+nameCode = "Teodoro"
+date = "2024-09-09"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-09-22"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "SUSTAINABLE DEVELOPMENT GOALS"
+type = "secondary"
+referralCode = "I501"
+
+[firstReading]
+id = 9929
+congress = 19
+bill_no = "HB05010"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2022-11-08"
+date_read = "2022-09-22"

@@ -1,0 +1,41 @@
+billNumber = "HR00722"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00722"
+lastScraped = "2025-09-22T00:20:59.561654"
+title = "HR00722"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON RULES TO FACILITATE THE IMMEDIATE CONSIDERATION, AND DIRECTING APPROPRIATE COMMITTEE(S), IN AID OF LEGISLATION, TO PASSAGE, OF THE PHILIPPINES' FISHERIES CODE OF 1996 ALSO KNOWN AS HOUSE BILL NUMBER 7366"
+scope = "National"
+dateFiled = "1996-07-23"
+status = "Pending with the Committee on RULES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 117776
+congress = 10
+bill_no = "HR00722"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-29"

@@ -1,0 +1,75 @@
+billNumber = "HB09897"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09897"
+lastScraped = "2025-09-22T00:20:59.264970"
+title = "HB09897"
+longTitle = "AN ACT UPGRADING THE BATANES PROVINCIAL HOSPITAL IN BASCO, BATANES, TO TERTIARY LEVEL II (REGIONAL HOSPITAL) TO BE KNOWN AS THE BATANES GENERAL HOSPITAL"
+scope = "Local"
+dateFiled = "1997-08-27"
+status = "REPUBLIC ACT RA08454 (Lapsed into law on 1998-01-19)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-09-01"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116318
+congress = 10
+bill_no = "HB09897"
+report = "01226"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendment"
+date_read = "1997-09-01"
+date_ob = "1997-10-24"
+date_report = "1997-10-23"
+
+[secondReading]
+id = 18760
+congress = 10
+bill_no = "HB09897"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3331
+congress = 10
+bill_no = "HB09897"
+date_dist = "1997-10-27"
+date_adopt = "1997-10-30"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-11-03"
+date_agram = "1997-12-16"
+amend_ind = "Y"
+act_pres = "L"
+dte_transp = "1997-12-17"
+dte_actedp = "1998-01-19"

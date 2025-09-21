@@ -1,0 +1,80 @@
+billNumber = "HB03240"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03240"
+lastScraped = "2025-09-22T00:20:57.972587"
+title = "HB03240"
+longTitle = "AN ACT TO INTEGRATE A COMPUTER EDUCATION PROGRAM INTO THE EDUCATIONAL SYSTEM AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-06"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "ESPINA, GERARDO S.", "CHIPECO, JOAQUIN JR. M.", "GOLEZ, ROILO S.", "CRUZ-DUCUT, ZENAIDA",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO S."
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 109661
+congress = 10
+bill_no = "HB03240"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-09-18"

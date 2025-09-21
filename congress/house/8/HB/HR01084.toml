@@ -1,0 +1,42 @@
+billNumber = "HR01084"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01084"
+lastScraped = "2025-09-22T00:47:02.746743"
+title = "HR01084"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES TO STUDY, IN AID OF LEGISLATION, THE FAMILYAPPROACH REFORESTATION PLAN OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES FOR MORE EFFECTIVE FOREST CONSERVATION"
+scope = "National"
+dateFiled = "1989-01-09"
+status = "Pending with the Committee on NATURAL RESOURCES since 1989-01-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1989-01-17"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 170958
+congress = 8
+bill_no = "HR01084"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1989-01-17"

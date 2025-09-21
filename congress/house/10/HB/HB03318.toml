@@ -1,0 +1,46 @@
+billNumber = "HB03318"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03318"
+lastScraped = "2025-09-22T00:20:57.988970"
+title = "HB03318"
+longTitle = "AN ACT STRENGTHENING THE CAPABILITY OF THE BUREAU OF FOOD AND DRUGS BY UPGRADING ITS EQUIPMENT AND ESTABLISHING ADEQUATE TESTING LABORATORIES IN VISAYAS AND MINDANAO AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-09-07"
+status = "Pending with the Committee on HEALTH since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109739
+congress = 10
+bill_no = "HB03318"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-09-18"

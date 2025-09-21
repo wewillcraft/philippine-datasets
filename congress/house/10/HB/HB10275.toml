@@ -1,0 +1,41 @@
+billNumber = "HB10275"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10275"
+lastScraped = "2025-09-22T00:20:59.348417"
+title = "HB10275"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF ALAMINOS INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF ALAMINOS"
+scope = "Local"
+dateFiled = "1997-11-14"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Braganza, Hernani A."
+[[authorsDetail]]
+name = "Braganza, Hernani A."
+nameCode = "Braganza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-11-18"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 116696
+congress = 10
+bill_no = "HB10275"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-11-18"

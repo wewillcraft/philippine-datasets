@@ -1,0 +1,76 @@
+billNumber = "HB04900"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04900"
+lastScraped = "2025-09-22T00:25:55.536616"
+title = "HB04900"
+longTitle = "AN ACT PROVIDING FOR THE ELECTRIFICATION OF ALL RURAL AREAS IN THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-11-17"
+status = "Pending with the Committee on ENERGY since 1992-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "LIBAN, DANTE V.", "GOLEZ, ROILO", "DRAGON, RENATO P.", "PAYUMO, FELICITO C.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PAYUMO, FELICITO C."
+nameCode = "Payumo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-11-19"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123519
+congress = 9
+bill_no = "HB04900"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-11-19"

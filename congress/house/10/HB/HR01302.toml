@@ -1,0 +1,56 @@
+billNumber = "HR01302"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01302"
+lastScraped = "2025-09-22T00:20:59.674193"
+title = "HR01302"
+longTitle = "RESOLUTION STRONGLY URGING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION ON THE REPORTED 'SUMMARY SUSPENSION' IMPOSED BY THE AIR TRANSPORATION OFFICE ON PACIFICAIR"
+scope = "Local"
+dateFiled = "1997-07-29"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "JOAQUIN, NEREO R.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-08-06"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 118356
+congress = 10
+bill_no = "HR01302"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-08-06"

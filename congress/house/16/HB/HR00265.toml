@@ -1,0 +1,47 @@
+billNumber = "HR00265"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00265"
+lastScraped = "2025-09-21T23:56:22.846185"
+title = "HR00265"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE EFFECT OF E-CIGARETTES ON PUBLIC HEALTH"
+scope = "National"
+dateFiled = "2013-09-04"
+status = "Pending with the Committee on HEALTH since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00265.pdf"
+fileSize = 209689
+author = "Tupas, Niel Jr. C."
+[[authorsDetail]]
+name = "Tupas, Niel Jr. C."
+nameCode = "Tupas"
+date = "2013-09-04"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-09-09"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[firstReading]
+id = 52664
+congress = 16
+bill_no = "HR00265"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-09-09"

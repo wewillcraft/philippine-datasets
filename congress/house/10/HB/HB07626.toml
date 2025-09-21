@@ -1,0 +1,54 @@
+billNumber = "HB07626"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07626"
+lastScraped = "2025-09-22T00:20:58.772303"
+title = "HB07626"
+longTitle = "AN ACT ESTABLISHING A RECYCLING CENTER IN THE MUNICIPALITY OF LOS BANOS, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-30"
+status = "Pending with the Committee on ECOLOGY since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+coAuthors = [ "PIMENTEL, EMMANUEL B.",]
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PIMENTEL, EMMANUEL B."
+nameCode = "Pimentel"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114047
+congress = 10
+bill_no = "HB07626"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-08-05"

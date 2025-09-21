@@ -1,0 +1,48 @@
+billNumber = "HB04344"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04344"
+lastScraped = "2025-09-22T00:13:00.579125"
+title = "HB04344"
+longTitle = "AN ACT GRANTING BARANGAY NUTRITION SCHOLAR ASSIGNED TO NUTRITIONALLY DEPRESSED AREAS AN ANNUAL TRAVEL ALLOWANCE OF TWO THOUSAND FOUR HUNDRED PESOS (P2,400.00) AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED FIFTEEN HUNDRED SIXTY- NINE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2002-02-05"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-02-11"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 87504
+congress = 12
+bill_no = "HB04344"
+comm_act = "ch. of cttee. ref'l from Health to approp. as per J. 87; p.4"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-02-11"

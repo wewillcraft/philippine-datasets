@@ -1,0 +1,78 @@
+billNumber = "HR00311"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00311"
+lastScraped = "2025-09-22T00:23:18.005655"
+title = "HR00311"
+longTitle = "RESOLUTION CALLING FOR THE IMMEDIATE PAYMENT OF THE GOVERNMENT'S ARREARS IN THE VETERANS OLD AGE PENSION AND OTHER BENEFITS MANDATED BY SECTION 5(H), REPUBLIC ACT NO. 7696"
+scope = "National"
+dateFiled = "1998-09-16"
+status = "Adopted as Resolution No. HR00012 on 1998-10-13"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "VETERAN'S AFFAIRS", "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VETERAN'S AFFAIRS"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-09-28"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[motherBills]]
+bill_no = "HR00124"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00124"
+flag = "S"
+
+[firstReading]
+id = 104769
+congress = 11
+bill_no = "HR00311"
+report = "00003"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = "Adoption in substituti on of House Resolution No. 124."
+date_read = "1998-09-28"
+date_ob = "1998-09-28"
+date_report = "1998-09-16"
+
+[secondReading]
+id = 17452
+congress = 11
+bill_no = "HR00311"
+adopted_resolution = "HR00012"
+date_calendared = "1998-10-13"
+date_approved = "1998-10-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

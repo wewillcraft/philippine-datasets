@@ -1,0 +1,56 @@
+billNumber = "HR00445"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00445"
+lastScraped = "2025-09-22T00:20:59.504532"
+title = "HR00445"
+longTitle = "RESOLUTION COMMENDING AND HONORING MR. EMILIO ADVINCULA FOR HIS EXEMPLARY AND EXTRAORDINARY ACTS OF HONESTY AND INTEGRITY"
+scope = "Local"
+dateFiled = "1906-02-02"
+status = "Pending with the Committee on RULES since 1996-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+coAuthors = [ "AVILA, EDGAR M.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-02-07"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 117499
+congress = 10
+bill_no = "HR00445"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-02-07"

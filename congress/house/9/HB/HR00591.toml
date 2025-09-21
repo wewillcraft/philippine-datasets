@@ -1,0 +1,43 @@
+billNumber = "HR00591"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00591"
+lastScraped = "2025-09-22T00:25:57.474923"
+title = "HR00591"
+longTitle = "RESOLUTION DIRECTING THE PROPER HOUSE COMMITTEE(S) TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO DETERMINE AND PROPOSE MEASURES ON THE POSSIBILITY OF REGULATING OR BANNING THE USE AND PRODUCTION OF LEADED GASOLINE"
+scope = "National"
+dateFiled = "1993-04-15"
+status = "Pending with the Committee on ECOLOGY since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 133903
+congress = 9
+bill_no = "HR00591"
+comm_act = "Change of referral from the Committee on Rules(J.10 3) (Ctee. Rpt. No. 168, submitted by the Ctte. o"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-05-04"

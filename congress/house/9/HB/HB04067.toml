@@ -1,0 +1,47 @@
+billNumber = "HB04067"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04067"
+lastScraped = "2025-09-22T00:25:55.368900"
+title = "HB04067"
+longTitle = "AN ACT ESTABLISHING A WATER SYSTEM IN THE MUNICIPALITY OF POONA-PIAGAPO, PROVINCE OF LANAO DEL NORTE, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-27"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122686
+congress = 9
+bill_no = "HB04067"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-27"

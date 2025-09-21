@@ -1,0 +1,48 @@
+billNumber = "HR00700"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00700"
+lastScraped = "2025-09-22T00:25:57.494704"
+title = "HR00700"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT AND THE COMMITTEE ON CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ILLEGAL DEMOLITION AND ALLEGED VIOLATION OF RIGHTS BY A CERTAIN ENGINEER ROGER BAYOT, ACTING ALLEGEDLY FOR AND ON BEHALF OF HIS PRINCIPAL, AGAINST RESIDENTS OF FATIMA/STA. CECILIA, SAN ANTONIO VALLEY I, PARANAQUE"
+scope = "Local"
+dateFiled = "1993-07-29"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1993-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1993-08-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 134012
+congress = 9
+bill_no = "HR00700"
+comm_act = "Change of referral from the Committee on Rules"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "1993-08-03"

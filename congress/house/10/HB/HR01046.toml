@@ -1,0 +1,60 @@
+billNumber = "HR01046"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01046"
+lastScraped = "2025-09-22T00:20:59.628755"
+title = "HR01046"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH AND THE COMMITTEE ON TRADE AND INDUSTRY OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED PROLIFERATION AND SALE OF BANNED ARTIFICIAL SUGAR THAT CAUSES CANCER"
+scope = "National"
+dateFiled = "1997-01-20"
+status = "Pending with the Committee on RULES since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 118100
+congress = 10
+bill_no = "HR01046"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Health and on Trade and Industry on Jan"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-23"

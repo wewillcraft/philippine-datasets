@@ -1,0 +1,65 @@
+billNumber = "HR01425"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01425"
+lastScraped = "2025-09-22T00:20:59.697430"
+title = "HR01425"
+longTitle = "RESOLUTION GIVING CONSENT TO THE HONORABLE MARCIANO A. PAYNOR, CHIEF OF PRESIDENTIAL PROTOCOL, TO ACCEPT THE \"GREAT CROSS\" AWARDED TO HIM BY THE HONOURABLE COUNCIL OF THE ORDEN LIBERTADOR BERNARDO O'HIGGINS, GOVERNMENT OF THE REPUBLIC OF CHILE"
+scope = "Local"
+dateFiled = "1997-11-06"
+status = "Adopted as Resolution No. HR00138 on 1998-02-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-11-11"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[motherBills]]
+bill_no = "HR01292"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01292"
+flag = "S"
+
+[firstReading]
+id = 118479
+congress = 10
+bill_no = "HR01425"
+report = "01259"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption in substituti on of H.R. No. 1292."
+date_read = "1997-11-11"
+date_ob = "1997-11-11"
+date_report = "1997-11-06"
+
+[secondReading]
+id = 19046
+congress = 10
+bill_no = "HR01425"
+adopted_resolution = "HR00138"
+date_calendared = "1998-02-03"
+date_approved = "1998-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00138.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00138.pdf"

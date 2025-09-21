@@ -1,0 +1,47 @@
+billNumber = "HR00374"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00374"
+lastScraped = "2025-09-21T23:55:46.287695"
+title = "HR00374"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEES ON APPROPRIATIONS, AGRICULTURE AND FOOD, AGRARIAN REFORM, AND REVISION OF LAWS, TO INQUIRE, IN AID OF LEGISLATION, ON THE REPORTED MISUSE OF GOVERNMENT FUNDS SUCH AS BUT NOT LIMITED TO THE ROAD BOARD'S ROAD USERS' TAX COLLECTIONS AND SPECIAL PURPOSE FUNDS (SPF) LIKE THE MALAMPAYA FUND AND THE AGRICULTURE AND FISHERIES MODERNIZATION ACT (AFMA) FUNDS, AMONG OTHERS"
+scope = "National"
+dateFiled = "2016-09-19"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00374.pdf"
+fileSize = 395310
+author = "Atienza, Jose Jr. L."
+[[authorsDetail]]
+name = "Atienza, Jose Jr. L."
+nameCode = "Atienza"
+date = "2016-09-19"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-09-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 43116
+congress = 17
+bill_no = "HR00374"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-11-14"
+date_read = "2016-09-26"

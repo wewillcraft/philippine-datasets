@@ -1,0 +1,47 @@
+billNumber = "HB05746"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05746"
+lastScraped = "2025-09-22T00:20:58.433461"
+title = "HB05746"
+longTitle = "AN ACT INCREASING THE CAPITALIZATION OF THE LIGHT RAIL TRANSIT AUTHORITY (LRTA) FROM THREE BILLION PESOS TO TWELVE BILLION PESOS, FURTHER AMENDING SECTION 15, ARTICLE 6 OF EXECUTIVE ORDER NO. 603, SERIES OF 1980, AS AMENDED"
+scope = "National"
+dateFiled = "1996-01-16"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-01-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112167
+congress = 10
+bill_no = "HB05746"
+comm_act = "change of ctte. ref'l from Gov't Enterprise s and Privatizat ion as per J. 11; Aug. 13, 1996; p. 34"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-01-24"

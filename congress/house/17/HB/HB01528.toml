@@ -1,0 +1,68 @@
+billNumber = "HB01528"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01528"
+lastScraped = "2025-09-21T23:55:44.369220"
+title = "HB01528"
+longTitle = "AN ACT PROVIDING FOR A COMPREHENSIVE HAZARDOUS AND RADIOACTIVE WASTES MANAGEMENT AND PROVIDING PENALTIES FOR VIOLATIONS THEREOF"
+scope = "National"
+dateFiled = "2016-07-13"
+status = "Transmmitted to the Committee on Ways and Means on 2018-06-25"
+statusOrder = 4.36
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01528.pdf"
+fileSize = 3376141
+author = "GONZALES, ALEXANDRIA \"QUEENIE\""
+coAuthors = [ "VIOLAGO, MICALEA S.", "BRAVO, MARIA VIDA E.", "SALCEDA, JOEY S.",]
+[[authorsDetail]]
+name = "GONZALES, ALEXANDRIA \"QUEENIE\""
+nameCode = "Gonzales (A.P.)"
+date = "2016-07-13"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-21"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2017-02-15"
+journalNo = "J071"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SALCEDA, JOEY S."
+nameCode = "Salceda"
+date = "2019-01-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 34996
+congress = 17
+bill_no = "HB01528"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

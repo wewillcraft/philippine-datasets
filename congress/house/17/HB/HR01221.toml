@@ -1,0 +1,103 @@
+billNumber = "HR01221"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01221"
+lastScraped = "2025-09-21T23:55:46.459576"
+title = "HR01221"
+longTitle = "RESOLUTION HONORING AND COMMENDING THE METROBANK FOUNDATION OUTSTANDING FILIPINOS OF 2017"
+scope = "National"
+dateFiled = "2017-08-22"
+status = "Adopted as Resolution No. HR00065 on 2017-09-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01221.pdf"
+fileSize = 596389
+author = "Belmonte, Feliciano Jr. R."
+coAuthors = [ "HERRERA-DY, BERNADETTE C.",]
+[[authorsDetail]]
+name = "Belmonte, Feliciano Jr. R."
+nameCode = "Belmonte (F.)"
+date = "2017-08-22"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "HERRERA-DY, BERNADETTE C."
+nameCode = "Herrera-Dy"
+date = "2017-09-06"
+journalNo = "J018"
+sessionNo = "2RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2017-08-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01235"
+sequence = 1
+flag = "C"
+
+[[motherBills]]
+bill_no = "HR01258"
+sequence = 2
+flag = "C"
+
+[[motherBills]]
+bill_no = "HR01283"
+sequence = 3
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01235"
+sequence = 1
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01258"
+sequence = 2
+flag = "C"
+
+[[consolidatedBills]]
+bill_no = "HR01283"
+sequence = 3
+flag = "C"
+
+[firstReading]
+id = 43963
+congress = 17
+bill_no = "HR01221"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-08-29"
+
+[secondReading]
+id = 3879
+congress = 17
+bill_no = "HR01221"
+adopted_resolution = "HR00065"
+adopted_resolution_title = "RESOLUTION HONORING AND COMMENDING THE METROBANK FOUNDATION OUTSTANDING FILIPINOS OF 2017"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2017-09-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01221.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_17/HR01221.pdf"

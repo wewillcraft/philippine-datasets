@@ -1,0 +1,60 @@
+billNumber = "HR00829"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00829"
+lastScraped = "2025-09-22T00:20:59.581510"
+title = "HR00829"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH AND THE COMMITTEE ON LABOR AND EMPLOYMENT TO CONDUCT AN INQUIRY INTO THE GOVERNMENT POLICY AND REGULATIONS REGARDING EMPLOYER-EMPLOY EE RIGHTS AND OBLIGATIONS WHEN EMPLOYEES TEST POSITIVE FOR CERTAIN DISEASES IN THE WORKPLACE"
+scope = "National"
+dateFiled = "1996-09-03"
+status = "Pending with the Committee on RULES since 1996-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "DEL PRADO, GREGORIO C.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL PRADO, GREGORIO C."
+nameCode = "Del Prado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-09"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 117883
+congress = 10
+bill_no = "HR00829"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Health and on Labor and Employment on S"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-09"

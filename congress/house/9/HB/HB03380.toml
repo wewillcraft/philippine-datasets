@@ -1,0 +1,47 @@
+billNumber = "HB03380"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03380"
+lastScraped = "2025-09-22T00:25:55.195792"
+title = "HB03380"
+longTitle = "AN ACT ESTABLISHING A GYMNASIUM IN THE MUNICIPALITY OF BALINGASAG, PROVINCE OF MISAMIS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-06"
+status = "Pending with the Committee on YOUTH AND SPORTS DEVELOPMENT since 1992-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "0543"
+dateRead = "1992-10-12"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121999
+congress = 9
+bill_no = "HB03380"
+referral = "0543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = ""
+date_read = "1992-10-12"

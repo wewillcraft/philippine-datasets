@@ -1,0 +1,47 @@
+billNumber = "HB02565"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02565"
+lastScraped = "2025-09-22T00:20:57.841273"
+title = "HB02565"
+longTitle = "AN ACT PROVIDING FOR THE CONFIRMATION OF WORLD WAR II MILITARY SERVICES"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Substituted by HB06041"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108986
+congress = 10
+bill_no = "HB02565"
+comm_act = "change of ctte. ref'l from Nat. Defense as per J. 23 (Sept. 19, 1995); p. 43"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1995-08-23"

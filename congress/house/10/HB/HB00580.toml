@@ -1,0 +1,46 @@
+billNumber = "HB00580"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00580"
+lastScraped = "2025-09-22T00:20:57.476526"
+title = "HB00580"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WATERWORKS SYSTEM IN BARANGAY KATUTUNGAN, MUNICIPALITY OF WAO, PROVINCE OF LANAO DEL SUR, AND APPROPRIATING TWO HUNDRED THOUSAND PESOS (P200,000.00) THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adiong"
+[[authorsDetail]]
+name = "Adiong"
+nameCode = "Adiong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107001
+congress = 10
+bill_no = "HB00580"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-07-27"

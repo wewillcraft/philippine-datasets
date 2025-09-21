@@ -1,0 +1,42 @@
+billNumber = "PS00023"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00023"
+lastScraped = "2025-09-22T00:13:49.475665"
+title = "PS00023"
+longTitle = "Proliferation of Illegal Drugs"
+scope = "National"
+dateFiled = "2004-08-16"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2004-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2004-08-31"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 82828
+congress = 13
+bill_no = "PS00023"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2004-08-31"

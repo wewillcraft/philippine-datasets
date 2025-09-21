@@ -1,0 +1,42 @@
+billNumber = "HB10799"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10799"
+lastScraped = "2025-09-22T00:46:58.473776"
+title = "HB10799"
+longTitle = "AN ACT AUTHORIZING THE ESTABLISHMENT OF A HERBAL MEDICINE CENTER IN EVERY LEGISLATIVE DISTRICT OF THE PHILIPPINES AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1988-05-24"
+status = "Pending with the Committee on HEALTH since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 145470
+congress = 8
+bill_no = "HB10799"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-27"

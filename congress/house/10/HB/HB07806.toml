@@ -1,0 +1,49 @@
+billNumber = "HB07806"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07806"
+lastScraped = "2025-09-22T00:20:58.846375"
+title = "HB07806"
+longTitle = "AN ACT DECLARING A NATIONAL ENVIRONMENT DAY"
+scope = "National"
+dateFiled = "1996-08-21"
+status = "Pending with the Committee on ECOLOGY since 1996-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-08-27"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 114227
+congress = 10
+bill_no = "HB07806"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-08-27"

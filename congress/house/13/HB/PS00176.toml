@@ -1,0 +1,42 @@
+billNumber = "PS00176"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00176"
+lastScraped = "2025-09-22T00:13:49.498827"
+title = "PS00176"
+longTitle = "Food Poisoning in Bohol"
+scope = "National"
+dateFiled = "2005-03-15"
+status = "Pending with the Committee on HEALTH since 2005-04-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jala, Eladio M."
+[[authorsDetail]]
+name = "Jala, Eladio M."
+nameCode = "Jala"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2005-04-19"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 82942
+congress = 13
+bill_no = "PS00176"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2005-04-19"

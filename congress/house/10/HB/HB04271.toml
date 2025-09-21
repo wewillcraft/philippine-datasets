@@ -1,0 +1,62 @@
+billNumber = "HB04271"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04271"
+lastScraped = "2025-09-22T00:20:58.173724"
+title = "HB04271"
+longTitle = "AN ACT APPROPRIATING THE SUM OF FIVE HUNDRED MILLION PESOS (P500,000,000.0 0) FOR THE MODERNIZATION OF THE NATIONAL BUREAU OF INVESTIGATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-10-05"
+status = "Pending with the Committee on JUSTICE since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+coAuthors = [ "LIBAN, DANTE V.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110692
+congress = 10
+bill_no = "HB04271"
+comm_act = "change of ctte. ref'l from Effective Law Enforcemen t as per J. 33; p. 43"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-10-23"

@@ -1,0 +1,46 @@
+billNumber = "HB07316"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07316"
+lastScraped = "2025-09-22T00:20:58.718209"
+title = "HB07316"
+longTitle = "AN ACT DECLARING THE SOUTHERN PART OF ILOILO AS THE RESORT CENTER OF THE PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-06-05"
+status = "Pending with the Committee on TOURISM since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113737
+congress = 10
+bill_no = "HB07316"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-06-08"

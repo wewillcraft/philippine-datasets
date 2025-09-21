@@ -1,0 +1,42 @@
+billNumber = "HB10453"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10453"
+lastScraped = "2025-09-22T00:25:56.489280"
+title = "HB10453"
+longTitle = "AN ACT IMPOSING VARIOUS PENALTIES ON ENVIRONMENTAL VIOLATIONS"
+scope = "National"
+dateFiled = "1993-08-23"
+status = "Substituted by HB14459"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-08-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 129071
+congress = 9
+bill_no = "HB10453"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-08-26"

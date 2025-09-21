@@ -1,0 +1,42 @@
+billNumber = "HB08720"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08720"
+lastScraped = "2025-09-22T00:46:58.139588"
+title = "HB08720"
+longTitle = "AN ACT ESTABLISHING A PUBLIC INFORMATION CENTER IN BARANGAY MANDOLAN, BONGAO, TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-04"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1988-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1988-05-09"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 143397
+congress = 8
+bill_no = "HB08720"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1988-05-09"

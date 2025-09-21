@@ -1,0 +1,49 @@
+billNumber = "HB04999"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04999"
+lastScraped = "2025-09-22T00:20:58.296402"
+title = "HB04999"
+longTitle = "AN ACT EXPRESSLY RECOGNIZING THE CANON LAWS OF THE ROMAN CATHOLIC CHURCH, AS WELL AS THE LAWS OF OTHER CHRISTIAN RELIGIOUS ORGANIZATIONS OR DENOMINATIONS"
+scope = "National"
+dateFiled = "1995-11-13"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-11-16"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 111420
+congress = 10
+bill_no = "HB04999"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-11-16"

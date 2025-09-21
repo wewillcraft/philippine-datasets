@@ -1,0 +1,42 @@
+billNumber = "HR00179"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00179"
+lastScraped = "2025-09-22T00:25:57.399604"
+title = "HR00179"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND CURRENCY TO CONDUCT AN INQUIRY IN AID OF LEGISLATION, INTO REPORTS THAT MUTILATED PESO BILLS SCHEDULED FOR BURNING BY THE CENTRAL BANK HAD BEEN PILFERED AND BROUGHT BACK IN CIRCULATION"
+scope = "National"
+dateFiled = "1992-09-11"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 133491
+congress = 9
+bill_no = "HR00179"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "1992-09-21"

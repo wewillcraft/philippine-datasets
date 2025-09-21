@@ -1,0 +1,56 @@
+billNumber = "HB01173"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01173"
+lastScraped = "2025-09-22T00:20:57.575572"
+title = "HB01173"
+longTitle = "AN ACT PROVIDING FOR THE ORGANIZATION OF THE OFFICE OF THE OMBUDSMAN"
+scope = "National"
+dateFiled = "1995-07-21"
+status = "Pending with the Committee on JUSTICE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "GONZALEZ, RAUL M.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, RAUL M."
+nameCode = "Gonzalez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 107594
+congress = 10
+bill_no = "HB01173"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-31"

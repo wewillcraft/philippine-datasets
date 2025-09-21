@@ -1,0 +1,74 @@
+billNumber = "HB00697"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00697"
+lastScraped = "2025-09-22T00:25:54.721926"
+title = "HB00697"
+longTitle = "AN ACT CONVERTING THE CAVITE MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF MARAGONDON, PROVINCE OF CAVITE INTO A FIFTY (50) BED DISTRICT HOSPITAL TO BE KNOWN AS THE CAVITE THIRD DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-07"
+status = "Approved by the House on 1994-08-17, transmitted to on 1994-08-23 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unas"
+[[authorsDetail]]
+name = "Unas"
+nameCode = "Unas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119316
+congress = 9
+bill_no = "HB00697"
+report = "00796"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1992-08-12"
+date_ob = "1994-08-01"
+date_cal = "1994-08-01"
+date_unass = "1994-08-01"
+date_report = "1994-06-20"
+
+[secondReading]
+id = 19139
+congress = 9
+bill_no = "HB00697"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1994-08-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1419
+congress = 9
+bill_no = "HB00697"
+date_dist = "1994-08-08"
+date_adopt = "1994-08-17"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-08-23"
+date_rec = "1994-08-24"

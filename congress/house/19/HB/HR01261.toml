@@ -1,0 +1,47 @@
+billNumber = "HR01261"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01261"
+lastScraped = "2025-09-21T23:55:22.822038"
+title = "HR01261"
+longTitle = "A RESOLUTION URGING THE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE TRIPLING OF PHILHEALTH EXECUTIVES' TOTAL PAY IN 2022"
+scope = "National"
+dateFiled = "2023-09-06"
+status = "Pending with the Committee on HEALTH since 2023-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01261.pdf"
+fileSize = 108630
+author = "Reyes, Ray T."
+[[authorsDetail]]
+name = "Reyes, Ray T."
+nameCode = "Reyes"
+date = "2023-09-06"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2023-09-11"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 17805
+congress = 19
+bill_no = "HR01261"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-11-08"
+date_read = "2023-09-11"

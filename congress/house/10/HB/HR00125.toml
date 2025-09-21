@@ -1,0 +1,72 @@
+billNumber = "HR00125"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00125"
+lastScraped = "2025-09-22T00:20:59.446355"
+title = "HR00125"
+longTitle = "RESOLUTION EXPRESSING THE FULL SUPPORT OF THE HOUSES OF REPRESENTATIVES FOR THE OBSERVANCE OF FAMILY WEEK ON THE LAST WEEK OF SEPTEMBER OF EVERY YEAR"
+scope = "National"
+dateFiled = "1995-08-21"
+status = "Adopted as Resolution No. HR00016 on 1995-09-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Carloto"
+coAuthors = [ "BAKUNAWA, LUZ CLETA R.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Carloto"
+nameCode = "Carloto"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAKUNAWA, LUZ CLETA R."
+nameCode = "Bakunawa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 117179
+congress = 10
+bill_no = "HR00125"
+report = "00026"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+recomm = "ADOPTION WITH AMENDMENTS"
+date_read = "1995-08-28"
+date_ob = "1995-09-25"
+date_report = "1995-09-21"
+
+[secondReading]
+id = 18924
+congress = 10
+bill_no = "HR00125"
+adopted_resolution = "HR00016"
+date_calendared = "1995-09-25"
+date_approved = "1995-09-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00016.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00016.pdf"

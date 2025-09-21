@@ -1,0 +1,85 @@
+billNumber = "HB01528"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01528"
+lastScraped = "2025-09-22T00:20:57.636077"
+title = "HB01528"
+longTitle = "AN ACT CREATING THE DAVAO INTERNATIONAL AIRPORT AUTHORITY, TRANSFERRING THE EXISTING ASSETS OF THE DAVAO AIRPORT TO THE AUTHORITY, AND VESTING THE AUTHORITY WITH POWER TO ADMINISTER AND OPERATE THE DAVAO INTERNATIONAL AIRPORT, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Approved by the House on 1997-10-27 and transmitted to the Senate on 1997-10-27"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 107949
+congress = 10
+bill_no = "HB01528"
+report = "01027"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+recomm = "approval with amendments"
+date_read = "1995-08-03"
+date_ob = "1997-08-25"
+date_unass = "1997-08-25"
+date_report = "1997-08-20"
+
+[secondReading]
+id = 17809
+congress = 10
+bill_no = "HB01528"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1997-10-15"
+date_approved = "1997-10-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2429
+congress = 10
+bill_no = "HB01528"
+date_dist = "1997-10-22"
+date_adopt = "1997-10-27"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-27"

@@ -1,0 +1,46 @@
+billNumber = "HB02987"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02987"
+lastScraped = "2025-09-22T00:20:57.916652"
+title = "HB02987"
+longTitle = "AN ACT PROVIDING FOR THE COMPLETION OF BISLIG SEA PORT IN THE MUNICIPALITY OF BISLIG, PROVINCE OF SURIGAO DEL SUR, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-29"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Falcon"
+[[authorsDetail]]
+name = "Falcon"
+nameCode = "Falcon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-09-05"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109408
+congress = 10
+bill_no = "HB02987"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-09-05"

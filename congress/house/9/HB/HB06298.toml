@@ -1,0 +1,47 @@
+billNumber = "HB06298"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06298"
+lastScraped = "2025-09-22T00:25:55.767120"
+title = "HB06298"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF BARANGAY HEALTH CENTER IN BARANGAY PARADA, MUNICIPALITY OF STO. DOMINGO, PROVINCE OF ILOCOS SUR, TO BE KNOWN AS THE PARADA BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-01-12"
+status = "Pending with the Committee on HEALTH since 1993-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-01-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124917
+congress = 9
+bill_no = "HB06298"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-01-19"

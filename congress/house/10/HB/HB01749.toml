@@ -1,0 +1,54 @@
+billNumber = "HB01749"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01749"
+lastScraped = "2025-09-22T00:20:57.673955"
+title = "HB01749"
+longTitle = "AN ACT PROVIDING THE SALARY GRADE AND RANK STRUCTURE OF THE UNIFORMED PERSONNEL OF THE DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-02"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108170
+congress = 10
+bill_no = "HB01749"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-08-08"

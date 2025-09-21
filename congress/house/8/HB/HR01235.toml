@@ -1,0 +1,42 @@
+billNumber = "HR01235"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01235"
+lastScraped = "2025-09-22T00:47:02.773878"
+title = "HR01235"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OFTHE HOUSE OF REPRESENTATIVES TO DIRECT AN INQUIRYIN AID OF LEGISLATION INTO THE SERIOUS PROBLEMS OF THE NATIONAL POWER CORPORATION (NAPOCOR), AND TORECOMMEND LEGISLATION TO SOLVE THESE PROBLEMS ANDFOROTHER PURPOSES"
+scope = "National"
+dateFiled = "1989-04-06"
+status = "Pending with the Committee on ENERGY since 1989-04-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano"
+[[authorsDetail]]
+name = "Albano"
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1989-04-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171106
+congress = 8
+bill_no = "HR01235"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1989-04-13"

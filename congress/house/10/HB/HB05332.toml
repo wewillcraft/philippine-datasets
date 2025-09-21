@@ -1,0 +1,71 @@
+billNumber = "HB05332"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05332"
+lastScraped = "2025-09-22T00:20:58.355357"
+title = "HB05332"
+longTitle = "AN ACT CONVERTING THE MISAMIS OCCIDENTAL PROVINCIAL HOSPITAL IN THE CITY OF OROQUIETA, PROVINCE OF MISAMIS OCCIDENTAL, INTO A MEDICAL CENTER, TO BE KNOWN AS THE MISAMIS OCCIDENTAL MEDICAL CENTER, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-11-28"
+status = "Approved by the House on 1996-08-27, transmitted to on 1996-08-28 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111753
+congress = 10
+bill_no = "HB05332"
+report = "00487"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval without amendment"
+date_read = "1995-12-05"
+date_ob = "1996-06-10"
+date_report = "1996-06-08"
+
+[secondReading]
+id = 18199
+congress = 10
+bill_no = "HB05332"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-08-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2805
+congress = 10
+bill_no = "HB05332"
+date_dist = "1996-08-14"
+date_adopt = "1996-08-27"
+no_yeas = 120
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-08-28"
+date_rec = "1996-08-30"

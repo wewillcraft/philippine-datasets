@@ -1,0 +1,83 @@
+billNumber = "HB10716"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB10716"
+lastScraped = "2025-09-22T00:23:17.551194"
+title = "HB10716"
+longTitle = "AN ACT DECLARING AND CONVERTING THE ROSARIO-CADUMAN IAN-PARASAPAS-T UBAO ROAD IN THE SECOND DISTRICT, PROVINCE OF LA UNION INTO A NATIONAL ROAD AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-04-11"
+status = "Approved by the House on 2000-05-23, transmitted to on 2000-05-31 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dumpit, Tomas M."
+coAuthors = [ "ORTEGA, MANUEL C.",]
+[[authorsDetail]]
+name = "Dumpit, Tomas M."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, MANUEL C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-05-08"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[motherBills]]
+bill_no = "HB01415"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01415"
+flag = "S"
+
+[firstReading]
+id = 102131
+congress = 11
+bill_no = "HB10716"
+report = "00781"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "2000-05-08"
+date_ob = "2000-05-08"
+date_report = "2000-04-11"
+
+[secondReading]
+id = 17186
+congress = 11
+bill_no = "HB10716"
+remarks = "Considered the Explanatory Note of the original HB No. 1415 as the    sponsorship remarks."
+date_approved = "2000-05-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4424
+congress = 11
+bill_no = "HB10716"
+date_dist = "2000-05-15"
+date_adopt = "2000-05-23"
+no_yeas = 162
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-05-31"
+date_rec = "2000-06-01"

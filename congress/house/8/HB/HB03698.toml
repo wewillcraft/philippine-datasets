@@ -1,0 +1,42 @@
+billNumber = "HB03698"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03698"
+lastScraped = "2025-09-22T00:46:57.211862"
+title = "HB03698"
+longTitle = "AN ACT TO ESTABLISH A COALFIRED BOILER GENERATINGPLANT FOR THE ELECTRIC COOPERATIVE IN THE PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-16"
+status = "Pending with the Committee on ENERGY since 1987-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-11-18"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 138384
+congress = 8
+bill_no = "HB03698"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1987-11-18"

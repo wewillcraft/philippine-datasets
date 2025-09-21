@@ -1,0 +1,74 @@
+billNumber = "HR00287"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00287"
+lastScraped = "2025-09-22T00:25:57.418352"
+title = "HR00287"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF BUDGET AND MANAGEMENT AND THE DEPARTMENT OF HEALTH TO IMPLEMENT ALL LAWS RELATIVE TO THE UPGRADING, IMPROVEMENT AND EXPANSION OF HOSPITALS THROUGHOUT THE COUNTRY"
+scope = "National"
+dateFiled = "1992-10-26"
+status = "Adopted as Resolution No. HR00032 on 1993-04-01"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+coAuthors = [ "DRAGON, RENATO P.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-29"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 133599
+congress = 9
+bill_no = "HR00287"
+report = "00087"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "Adoption with amendments"
+date_read = "1992-10-29"
+date_ob = "1993-03-16"
+date_cal = "1993-03-16"
+date_unass = "1993-03-16"
+date_report = "1993-03-04"
+
+[secondReading]
+id = 20103
+congress = 9
+bill_no = "HR00287"
+adopted_resolution = "HR00032"
+date_approved = "1993-04-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00287.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00287.pdf"

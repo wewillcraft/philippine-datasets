@@ -1,0 +1,54 @@
+billNumber = "HB04206"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04206"
+lastScraped = "2025-09-22T00:20:58.161962"
+title = "HB04206"
+longTitle = "AN ACT AUTHORIZING THE OCAMPO HIGH SCHOOL IN THE MUNICIPALITY OF OCAMPO, PROVINCE OF CAMARINES SUR, TO OFFER COURSES IN COLLEGE, CHANGING ITS NAME TO OCAMPO COLLEGES, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110627
+congress = 10
+bill_no = "HB04206"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-05"

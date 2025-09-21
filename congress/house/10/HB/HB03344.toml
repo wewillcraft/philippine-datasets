@@ -1,0 +1,54 @@
+billNumber = "HB03344"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03344"
+lastScraped = "2025-09-22T00:20:57.992603"
+title = "HB03344"
+longTitle = "AN ACT ESTABLISHING A STRATEGIC FOOD SECURITY RESERVE, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-07"
+status = "Pending with the Committee on FOOD SECURITY (SPECIAL CTTE.) since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = true
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "VILLAR, MANUEL JR. B.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAR, MANUEL JR. B."
+nameCode = "Villar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOOD SECURITY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B513"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109765
+congress = 10
+bill_no = "HB03344"
+referral = "B513"
+ref_name = "FOOD SECURITY (SPECIAL CTTE.)"
+date_read = "1995-09-18"

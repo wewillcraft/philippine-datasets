@@ -1,0 +1,47 @@
+billNumber = "HB01937"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01937"
+lastScraped = "2025-09-22T00:25:54.940113"
+title = "HB01937"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PHARMACEUTICAL PROCESSING CENTER FOR QUININE AND OTHER HERBAL MEDICINES IN THE MUNICIPALITY OF OPOL, PROVINCE OF MISAMIS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on HEALTH since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120556
+congress = 9
+bill_no = "HB01937"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-09-03"

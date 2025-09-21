@@ -1,0 +1,42 @@
+billNumber = "HB03891"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03891"
+lastScraped = "2025-09-22T00:13:00.500578"
+title = "HB03891"
+longTitle = "AN ACT PROHIBITING LOCAL CHIEF EXECUTIVES FROM MAKING TEMPORARY APPOINTMENT AND/OR DESIGNATIONS AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-11-20"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 87051
+congress = 12
+bill_no = "HB03891"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-11-26"

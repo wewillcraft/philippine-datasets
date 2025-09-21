@@ -1,0 +1,42 @@
+billNumber = "HB06456"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06456"
+lastScraped = "2025-09-22T00:46:57.756205"
+title = "HB06456"
+longTitle = "AN ACT ESTABLISHING DIVORCE"
+scope = "National"
+dateFiled = "1988-03-15"
+status = "Pending with the Committee on FAMILY RELATIONS AND POPULATION since 1988-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nuñez"
+[[authorsDetail]]
+name = "Nuñez"
+nameCode = "Nuñez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FAMILY RELATIONS AND POPULATION"
+type = "primary"
+referralCode = "512"
+dateRead = "1988-03-17"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 141137
+congress = 8
+bill_no = "HB06456"
+referral = "512"
+ref_name = "FAMILY RELATIONS AND POPULATION"
+sub_name = ""
+date_read = "1988-03-17"

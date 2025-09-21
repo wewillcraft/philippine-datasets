@@ -1,0 +1,61 @@
+billNumber = "HB00090"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00090"
+lastScraped = "2025-09-22T00:01:45.018217"
+title = "HB00090"
+longTitle = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE PHILIPPINE TRANSPORTATION INFRASTRUCTURE, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on TRANSPORTATION since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00090.pdf"
+fileSize = 2350667
+author = "Sarmiento, Edgar Mary S."
+coAuthors = [ "ERIGUEL, SANDRA YOUNG", "YAP, ERIC G.",]
+[[authorsDetail]]
+name = "Sarmiento, Edgar Mary S."
+nameCode = "Sarmiento"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ERIGUEL, SANDRA YOUNG"
+nameCode = "Eriguel"
+date = "2019-11-18"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "YAP, ERIC G."
+nameCode = "Yap (E.)"
+date = "2021-11-22"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 19504
+congress = 18
+bill_no = "HB00090"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

@@ -1,0 +1,50 @@
+billNumber = "HB02504"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02504"
+lastScraped = "2025-09-22T00:46:57.005445"
+title = "HB02504"
+longTitle = "AN ACT AMENDING BATAS PAMBANSA BLG. 129 (AN ACT REORGANIZING THE JUDICIARY) OTHERWISE KNOWN AS THE JUDICIARY ACT OF 1980"
+scope = "Local"
+dateFiled = "1987-10-08"
+status = "Pending with the Committee on JUSTICE since 1987-10-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero"
+coAuthors = [ "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Escudero"
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-10-12"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 137193
+congress = 8
+bill_no = "HB02504"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-10-12"

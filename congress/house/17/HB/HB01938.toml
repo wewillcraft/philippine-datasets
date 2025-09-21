@@ -1,0 +1,51 @@
+billNumber = "HB01938"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01938"
+lastScraped = "2025-09-21T23:55:44.477822"
+title = "HB01938"
+longTitle = "AN ACT CREATING A NATIONAL MOTOR VEHICLE SAFETY ADMINISTRATION"
+scope = "National"
+dateFiled = "2016-07-26"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2016-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01938.pdf"
+fileSize = 1765716
+author = "Villar, Mark A."
+[[authorsDetail]]
+name = "Villar, Mark A."
+nameCode = "Villar"
+date = "2016-07-26"
+sequence = 1
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2016-08-03"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "secondary"
+referralCode = "E509"
+
+[firstReading]
+id = 35406
+congress = 17
+bill_no = "HB01938"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-03"

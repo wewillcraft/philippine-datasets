@@ -1,0 +1,46 @@
+billNumber = "HB01995"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01995"
+lastScraped = "2025-09-22T00:20:57.723840"
+title = "HB01995"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DRUG REHABILITATION CENTER IN MUNTINLUPA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Substituted by HB10084"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108416
+congress = 10
+bill_no = "HB01995"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-14"

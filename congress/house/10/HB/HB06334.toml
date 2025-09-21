@@ -1,0 +1,49 @@
+billNumber = "HB06334"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06334"
+lastScraped = "2025-09-22T00:20:58.539534"
+title = "HB06334"
+longTitle = "AN ACT PROHIBITING THE SALE OR DISPOSITION, EXCEPT UPON THE APPROVAL OF THE GOVERNMENT, OF FILIPINO ANTIQUE ARTICLES AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1996-02-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+coAuthors = [ "FUGOSO, LEONARDO B.",]
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FUGOSO, LEONARDO B."
+nameCode = "Fugoso"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 112755
+congress = 10
+bill_no = "HB06334"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-02-27"

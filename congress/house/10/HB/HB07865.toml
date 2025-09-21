@@ -1,0 +1,41 @@
+billNumber = "HB07865"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07865"
+lastScraped = "2025-09-22T00:20:58.856177"
+title = "HB07865"
+longTitle = "AN ACT AMENDING R.A. 6657 EXEMPTING COCONUT LANDS FROM ITS COVERAGE"
+scope = "National"
+dateFiled = "1996-08-30"
+status = "Pending with the Committee on AGRARIAN REFORM since 1996-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romualdo, Pedro P."
+[[authorsDetail]]
+name = "Romualdo, Pedro P."
+nameCode = "Romualdo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1996-09-04"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 114286
+congress = 10
+bill_no = "HB07865"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+date_read = "1996-09-04"

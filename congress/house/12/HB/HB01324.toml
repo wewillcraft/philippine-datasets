@@ -1,0 +1,47 @@
+billNumber = "HB01324"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01324"
+lastScraped = "2025-09-22T00:13:00.043582"
+title = "HB01324"
+longTitle = "AN ACT ESTABLISHING A TWENTY (20) BED CAPACITY MUNICIPAL HOSPITAL IN BARANGAY CONCEPCION, MUNICIPALITY OF ARTECHE, PROVINCE OF EASTERN SAMAR, TO BE KNOWN AS THE CONCEPCION, ARTECHE MUNICIPAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on HEALTH since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LIBANAN, MARCELINO C."
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84484
+congress = 12
+bill_no = "HB01324"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-30"

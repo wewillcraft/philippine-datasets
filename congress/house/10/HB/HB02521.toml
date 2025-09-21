@@ -1,0 +1,49 @@
+billNumber = "HB02521"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02521"
+lastScraped = "2025-09-22T00:20:57.833192"
+title = "HB02521"
+longTitle = "AN ACT INCORPORATING IN THE CURRICULA OF ALL PUBLIC AND PRIVATE HIGH SCHOOLS A COURSE ON THE LIVES, WORKS AND WRITINGS OF CLARO M. RECTO, LORENZO M. TANADA, AND JOSE W. DIOKNO"
+scope = "National"
+dateFiled = "1995-08-16"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-22"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 108942
+congress = 10
+bill_no = "HB02521"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-22"

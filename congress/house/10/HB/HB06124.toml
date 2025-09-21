@@ -1,0 +1,66 @@
+billNumber = "HB06124"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06124"
+lastScraped = "2025-09-22T00:20:58.499333"
+title = "HB06124"
+longTitle = "AN ACT CHANGING THE NAME OF THE CANDELARIA DISTRICT HOSPITAL IN BARANGAY YAMOT, MUNICIPALITY OF CANDELARIA, PROVINCE OF ZAMBALES, TO ROQUE E. EBALO MEMORIAL DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1996-02-06"
+status = "Approved by the House on 1997-01-29, transmitted to on 1997-01-30 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 112545
+congress = 10
+bill_no = "HB06124"
+report = "00732"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval"
+date_read = "1996-02-12"
+date_ob = "1996-12-19"
+date_report = "1996-12-18"
+
+[secondReading]
+id = 18301
+congress = 10
+bill_no = "HB06124"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2903
+congress = 10
+bill_no = "HB06124"
+date_dist = "1997-01-21"
+date_adopt = "1997-01-29"
+no_yeas = 149
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-30"
+date_rec = "1997-02-03"

@@ -1,0 +1,71 @@
+billNumber = "HB04871"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04871"
+lastScraped = "2025-09-22T00:20:58.275074"
+title = "HB04871"
+longTitle = "AN ACT CONVERTING MT. NATIB IN THE MUNICIPALITY OF ORANI, PROVINCE OF BATAAN, INTO AN ECOLOGY-TOURISM ZONE"
+scope = "Local"
+dateFiled = "1995-11-07"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-11-13"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111292
+congress = 10
+bill_no = "HB04871"
+report = "00804"
+referral = "0538"
+ref_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1995-11-13"
+date_ob = "1997-03-04"
+date_report = "1997-03-03"
+
+[secondReading]
+id = 18139
+congress = 10
+bill_no = "HB04871"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-03-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2747
+congress = 10
+bill_no = "HB04871"
+date_dist = "1997-03-12"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"

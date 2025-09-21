@@ -1,0 +1,42 @@
+billNumber = "HB10821"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10821"
+lastScraped = "2025-09-22T00:46:58.477055"
+title = "HB10821"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN PABABAG, BONGAO, TAWI-TAWI, AND APPROPRIATING FUNDSTHEREFOR"
+scope = "Local"
+dateFiled = "1988-05-24"
+status = "Pending with the Committee on HEALTH since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 145492
+congress = 8
+bill_no = "HB10821"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-27"

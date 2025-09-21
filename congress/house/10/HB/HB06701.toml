@@ -1,0 +1,46 @@
+billNumber = "HB06701"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06701"
+lastScraped = "2025-09-22T00:20:58.604702"
+title = "HB06701"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MULTIPURPOSE WAITING SHED IN BARANGAY BACAY, MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113122
+congress = 10
+bill_no = "HB06701"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-28"

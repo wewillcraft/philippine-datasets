@@ -1,0 +1,46 @@
+billNumber = "HR01456"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01456"
+lastScraped = "2025-09-22T00:01:47.616958"
+title = "HR01456"
+longTitle = "RESOLUTION TO DEFER THE IMPLEMENTATION OF THE PREMIUM RATE\r\nINCREASE BY THE BY THE PHILIPPINE HEALTH INSURANCE CORPORATION\r\n(PHILHEALTH) FOR 2021"
+scope = "National"
+dateFiled = "2021-01-06"
+status = "Pending with the Committee on HEALTH since 2021-01-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01456.pdf"
+fileSize = 181666
+author = "Noel, Florencio Gabriel \"Bem\" G."
+[[authorsDetail]]
+name = "Noel, Florencio Gabriel \"Bem\" G."
+nameCode = "Noel"
+date = "2021-01-06"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-01-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31774
+congress = 18
+bill_no = "HR01456"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-01-18"

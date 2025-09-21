@@ -1,0 +1,68 @@
+billNumber = "HB01320"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01320"
+lastScraped = "2025-09-21T23:55:44.331505"
+title = "HB01320"
+longTitle = "AN ACT REQUIRING MANDATORY SEMINAR ON TRAFFIC RULES AND REGULATIONS FOR ALL PUBLIC UTILITY VEHICLE DRIVERS\r\n"
+scope = "National"
+dateFiled = "2016-07-07"
+status = "Pending with the Committee on TRANSPORTATION since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01320.pdf"
+fileSize = 585098
+author = "Velarde, Mariano Michael Jr. M."
+coAuthors = [ "CATAMCO, NANCY A.", "VIOLAGO, MICALEA S.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Velarde, Mariano Michael Jr. M."
+nameCode = "Velarde"
+date = "2016-07-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2016-08-17"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-02-06"
+journalNo = "J066"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 34788
+congress = 17
+bill_no = "HB01320"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

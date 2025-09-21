@@ -1,0 +1,53 @@
+billNumber = "HR00078"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00078"
+lastScraped = "2025-09-22T00:20:59.438327"
+title = "HR00078"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE NARCISO H. UMALI, FORMER REPRESENTATIVE OF THE FIRST DISTRICT OF QUEZON PROVINCE"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Adopted as Resolution No. HR00008 on 1995-08-08"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 117132
+congress = 10
+bill_no = "HR00078"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-08-08"
+
+[secondReading]
+id = 18920
+congress = 10
+bill_no = "HR00078"
+adopted_resolution = "HR00008"
+date_calendared = "1995-08-08"
+date_approved = "1995-08-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00008.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00008.pdf"

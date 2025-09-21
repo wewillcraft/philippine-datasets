@@ -1,0 +1,42 @@
+billNumber = "HB02542"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02542"
+lastScraped = "2025-09-22T00:25:55.048906"
+title = "HB02542"
+longTitle = "AN ACT REPEAL EXECUTIVE ORDER NUMBERED TWO HUNDRED AND SIXTY-FOUR (Citizen Armed Forces Geographical Units - CAFGU)"
+scope = "National"
+dateFiled = "1992-09-14"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 121161
+congress = 9
+bill_no = "HB02542"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-09-21"

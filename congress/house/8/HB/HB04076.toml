@@ -1,0 +1,42 @@
+billNumber = "HB04076"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04076"
+lastScraped = "2025-09-22T00:46:57.273359"
+title = "HB04076"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF ONE MILLION FIVE HUNDRED THOUSAND PESOS FOR THE CONSTRUCTION OF PUBLIC MARKET IN THE MUNICIPALITY OF SABANGAN, MOUNTAIN PROVINCE"
+scope = "Local"
+dateFiled = "1987-11-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez"
+[[authorsDetail]]
+name = "Dominguez"
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-12-03"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 138762
+congress = 8
+bill_no = "HB04076"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-12-03"

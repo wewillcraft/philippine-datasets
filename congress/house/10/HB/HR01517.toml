@@ -1,0 +1,41 @@
+billNumber = "HR01517"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01517"
+lastScraped = "2025-09-22T00:20:59.712138"
+title = "HR01517"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS, TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, INTO THE FEBRUARY 2, 1998 CRASH OF THE CAGAYAN DE ORO CITY-BOUND CEBU PACIFIC AIR FLIGHT NO. 387, WITH THE END IN VIEW OF RECOMMENDING MEASURES THAT WILL IMPROVE AIR TRANSPORTATION SAFETY STANDARDS, AND THUS, PROTECT AND PROMOTE PUBLIC SAFETY"
+scope = "Local"
+dateFiled = "1998-02-04"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1998-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1998-02-05"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 118567
+congress = 10
+bill_no = "HR01517"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1998-02-05"

@@ -1,0 +1,42 @@
+billNumber = "HR02193"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02193"
+lastScraped = "2025-09-22T00:47:02.979833"
+title = "HR02193"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HEALTH TO CONDUCT A PUBLIC INQUIRY INTO THE OPERATIONS, MAINTENANCE AND CONDITIONS OF PATIENTS IN THE 'NATIONAL CENTER FOR MENTAL HEALTH' AND TO DETERMINE WHETHER FUNDS APPROPRIATED BY CONGRESSARE BEING SPENT JUDICIOUSLY"
+scope = "National"
+dateFiled = "1991-03-11"
+status = "Pending with the Committee on HEALTH since 1991-03-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1991-03-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172028
+congress = 8
+bill_no = "HR02193"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1991-03-14"

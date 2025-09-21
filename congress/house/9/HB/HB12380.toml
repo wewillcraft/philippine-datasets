@@ -1,0 +1,74 @@
+billNumber = "HB12380"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12380"
+lastScraped = "2025-09-22T00:25:56.883076"
+title = "HB12380"
+longTitle = "AN ACT CONVERTING THE NARRA MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF NARRA, PROVINCE OF PALAWAN, INTO A DISTRICT HOSPITAL TO BE KNOWN AS THE GOVERNOR ALFREDO M. ABUEG, SR. MEMORIAL HOSPITAL, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6917, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-03-22"
+status = "Vetoed by the President on 1995-06-07"
+statusOrder = 31.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-03-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130995
+congress = 9
+bill_no = "HB12380"
+report = "00822"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1994-03-24"
+date_ob = "1994-08-22"
+date_cal = "1994-08-22"
+date_unass = "1994-08-22"
+date_report = "1994-08-17"
+
+[secondReading]
+id = 19785
+congress = 9
+bill_no = "HB12380"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-08-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2022
+congress = 9
+bill_no = "HB12380"
+date_dist = "1994-08-31"
+date_adopt = "1994-09-08"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-09-13"
+date_rec = "1994-09-14"
+date_agram = "1995-02-16"
+amend_ind = "Y"
+act_pres = "V"
+dte_transp = "1995-05-11"
+dte_actedp = "1995-06-07"

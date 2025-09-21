@@ -1,0 +1,55 @@
+billNumber = "HB09224"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09224"
+lastScraped = "2025-09-22T00:25:56.252123"
+title = "HB09224"
+longTitle = "AN ACT INSTITUTING A MEDICAL CARE PROGRAM FOR ALL FILIPINO CITIZENS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1993-05-19"
+status = "Substituted by HB14225"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acuña"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Acuña"
+nameCode = "Acuña"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127842
+congress = 9
+bill_no = "HB09224"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-24"

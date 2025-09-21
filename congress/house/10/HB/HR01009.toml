@@ -1,0 +1,47 @@
+billNumber = "HR01009"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01009"
+lastScraped = "2025-09-22T00:20:59.616600"
+title = "HR01009"
+longTitle = "RESOLUTION URGING THE GOVERNMENT AND THE PRIVATE SECTOR TO ASSIST FARMERS IN MINDANAO BY INCREASING FINANCING ACCESS TO LONG GESTATING CROPS"
+scope = "Local"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "secondary"
+referralCode = "B511"
+
+[firstReading]
+id = 118063
+congress = 10
+bill_no = "HR01009"
+comm_act = "Jointly Referred to the Spl. Ctte. on East ASEAN Growth Area on Feb. 13, 1997."
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-12-12"

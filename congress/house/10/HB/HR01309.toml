@@ -1,0 +1,56 @@
+billNumber = "HR01309"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01309"
+lastScraped = "2025-09-22T00:20:59.675714"
+title = "HR01309"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO REVIEW THE RULES AND REGULATIONS AND THE IMPLEMENTATION OF THE BUILDING CODE, PARTICULARLY THE IMPLEMENTATION OF THE PROVISIONS ON SAFETY REGULATIONS"
+scope = "National"
+dateFiled = "1997-08-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 118363
+congress = 10
+bill_no = "HR01309"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-08-07"

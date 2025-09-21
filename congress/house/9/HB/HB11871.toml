@@ -1,0 +1,52 @@
+billNumber = "HB11871"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11871"
+lastScraped = "2025-09-22T00:25:56.782413"
+title = "HB11871"
+longTitle = "AN ACT PROVIDING FOR A NATIONAL HEALTH CODE OF 1994"
+scope = "National"
+dateFiled = "1994-01-31"
+status = "Pending with the Committee on HEALTH since 1994-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro"
+coAuthors = [ "DEL MAR, RAUL V.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Ramiro"
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-02-02"
+
+[firstReading]
+id = 130486
+congress = 9
+bill_no = "HB11871"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-02-02"

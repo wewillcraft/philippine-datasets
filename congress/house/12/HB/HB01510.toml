@@ -1,0 +1,53 @@
+billNumber = "HB01510"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01510"
+lastScraped = "2025-09-22T00:13:00.076324"
+title = "HB01510"
+longTitle = "AN ACT ESTABLISHING A PASIG CITY DRUG REHABILITATION CENTER IN THE CITY OF PASIG AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-26"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 84670
+congress = 12
+bill_no = "HB01510"
+comm_act = "as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-08-01"

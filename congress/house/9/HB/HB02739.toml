@@ -1,0 +1,47 @@
+billNumber = "HB02739"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02739"
+lastScraped = "2025-09-22T00:25:55.082043"
+title = "HB02739"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A DAY CARE CENTER IN BARANGAY TALON II, LAS PINAS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-17"
+status = "Pending with the Committee on SOCIAL SERVICES since 1992-09-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1992-09-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121358
+congress = 9
+bill_no = "HB02739"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1992-09-28"

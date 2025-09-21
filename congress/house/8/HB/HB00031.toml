@@ -1,0 +1,42 @@
+billNumber = "HB00031"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00031"
+lastScraped = "2025-09-22T00:46:56.545142"
+title = "HB00031"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PORT IN THE MUNICIPALITY OF CAJIDIOCAN, PROVINCE OF ROMBLON, TO BE KNOWN AS THE STA. BARBARA PORT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-07-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Beltran"
+[[authorsDetail]]
+name = "Beltran"
+nameCode = "Beltran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-07-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 134729
+congress = 8
+bill_no = "HB00031"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-07-30"

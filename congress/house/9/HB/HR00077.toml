@@ -1,0 +1,42 @@
+billNumber = "HR00077"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00077"
+lastScraped = "2025-09-22T00:25:57.381476"
+title = "HR00077"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO STUDY, IN AID OF LEGISLATION, AND INDORSE TO THE DEPARTMENT OF JUSTICE THE CREATION OF A NEW OFFICE OF REGISTER OF DEEDS FOR LAGUNA'S FIRST DISTRICT, PREFERABLY BASED IN SAN PEDRO, LAGUNA"
+scope = "Local"
+dateFiled = "1992-08-12"
+status = "Pending with the Committee on JUSTICE since 1992-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 133389
+congress = 9
+bill_no = "HR00077"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-18"

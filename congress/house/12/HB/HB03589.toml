@@ -1,0 +1,47 @@
+billNumber = "HB03589"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03589"
+lastScraped = "2025-09-22T00:13:00.449699"
+title = "HB03589"
+longTitle = "AN ACT ESTABLISHING TEN (10)-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF HINDANG, PROVINCE OF LEYTE TO BE KNOWN AS THE HINDANG MUNICIPAL HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-10-18"
+status = "Pending with the Committee on HEALTH since 2001-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cari, Carmen L."
+[[authorsDetail]]
+name = "Cari, Carmen L."
+nameCode = "Cari"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-10-24"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86749
+congress = 12
+bill_no = "HB03589"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-10-24"

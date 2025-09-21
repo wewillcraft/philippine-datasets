@@ -1,0 +1,42 @@
+billNumber = "HB04444"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04444"
+lastScraped = "2025-09-22T00:13:00.602252"
+title = "HB04444"
+longTitle = "AN ACT ALLOWING THE CONDONATION OF CERTAIN LOANS INCURRED UNDER THE LIVELIHOOD ASSISTANCE PROGRAM FOR VICTIMS OF THE MT. PINATUBO ERUPTION AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2002-02-21"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2002-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2002-02-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 87604
+congress = 12
+bill_no = "HB04444"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+date_read = "2002-02-27"

@@ -1,0 +1,55 @@
+billNumber = "HR02233"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02233"
+lastScraped = "2025-09-22T00:01:47.780469"
+title = "HR02233"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN\r\nINQUIRY, IN AID OF LEGISLATION, ON THE STATUS OF THE IMPLEMENTATION OF REPUBLIC ACT NO. 11229, OTHERWISE KNOWN AS THE “CHILD SAFETY IN MOTOR VEHICLES ACT”"
+scope = "National"
+dateFiled = "2021-09-20"
+status = "Pending with the Committee on TRANSPORTATION since 2021-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR02233.pdf"
+fileSize = 591156
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "GATCHALIAN, WES",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2021-09-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GATCHALIAN, WES"
+nameCode = "Gatchalian"
+date = "2021-09-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2021-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 32550
+congress = 18
+bill_no = "HR02233"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-11-10"
+date_read = "2021-09-22"

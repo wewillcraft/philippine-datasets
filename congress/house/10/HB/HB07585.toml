@@ -1,0 +1,41 @@
+billNumber = "HB07585"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07585"
+lastScraped = "2025-09-22T00:20:58.765842"
+title = "HB07585"
+longTitle = "AN ACT INCREASING THE MEMBERSHIP OF THE BOARD OF REGENTS OF THE MARIANO MARCOS STATE UNIVERSITY, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED TWELVE HUNDRED SEVENTY NINE CREATING THE MARIANO MARCOS STATE UNIVERSITY, AS AMENDED"
+scope = "Local"
+dateFiled = "1996-07-25"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-07-30"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 114006
+congress = 10
+bill_no = "HB07585"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-07-30"

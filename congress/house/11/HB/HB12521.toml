@@ -1,0 +1,90 @@
+billNumber = "HB12521"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12521"
+lastScraped = "2025-09-22T00:23:17.858872"
+title = "HB12521"
+longTitle = "mN ACT ESTABLISHING A STATE COLLEGE IN THE CITY OF GINGOOG TO BE KNOWN AS EASTERN MISAMIS ORIENTAL STATE COLLEGE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-10-16"
+status = "Approved by the House on 2000-10-27, transmitted to on 2000-11-29 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "MORENO, OSCAR S.", "DUAVIT, GILBERTO M.", "SUAREZ, DANILO E.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MORENO, OSCAR S."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DUAVIT, GILBERTO M."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SUAREZ, DANILO E."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-10-16"
+
+[[motherBills]]
+bill_no = "HB06459"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB06459"
+flag = "S"
+
+[firstReading]
+id = 103936
+congress = 11
+bill_no = "HB12521"
+report = "01264"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, WAYS AND MEANS, HIGHER AND TECHNICAL EDUCATION"
+recomm = "approval"
+date_read = "2000-10-16"
+date_ob = "2000-10-16"
+date_report = "2000-10-16"
+
+[secondReading]
+id = 17330
+congress = 11
+bill_no = "HB12521"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-10-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4549
+congress = 11
+bill_no = "HB12521"
+date_adopt = "2000-10-27"
+no_yeas = 180
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-11-29"
+date_rec = "2000-12-05"

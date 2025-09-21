@@ -1,0 +1,42 @@
+billNumber = "PS00036"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00036"
+lastScraped = "2025-09-22T00:13:49.477532"
+title = "PS00036"
+longTitle = "Deal of the Metro Rail Transit with the Department of Transportation and Communication"
+scope = "National"
+dateFiled = "2004-08-30"
+status = "Pending with the Committee on OVERSIGHT since 2004-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abalos, Benjamin Jr. D."
+[[authorsDetail]]
+name = "Abalos, Benjamin Jr. D."
+nameCode = "Abalos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "OVERSIGHT"
+type = "primary"
+referralCode = "D501"
+dateRead = "2004-09-07"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 82838
+congress = 13
+bill_no = "PS00036"
+referral = "D501"
+ref_name = "OVERSIGHT"
+sub_name = ""
+date_read = "2004-09-07"

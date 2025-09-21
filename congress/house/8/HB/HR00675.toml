@@ -1,0 +1,50 @@
+billNumber = "HR00675"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00675"
+lastScraped = "2025-09-22T00:47:02.657636"
+title = "HR00675"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION OF THE ON-GOING REORGANIZATION AT THE NINOY AQUINO INTERNATIONAL AIRPORT"
+scope = "Local"
+dateFiled = "1988-04-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1988-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "DANS, ALVIN G.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DANS, ALVIN G."
+nameCode = "Dans"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1988-05-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170558
+congress = 8
+bill_no = "HR00675"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1988-05-03"

@@ -1,0 +1,61 @@
+billNumber = "HB04143"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB04143"
+lastScraped = "2025-09-21T23:55:44.899596"
+title = "HB04143"
+longTitle = "AN ACT PROVIDING FOR THE MODERNIZATION OF THE HEALTH CARE DELIVERY SYSTEM, APPROPRIATING FUNDS THEREFORE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-10-18"
+status = "Pending with the Committee on HEALTH since 2016-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB04143.pdf"
+fileSize = 1378253
+author = "MACAPAGAL-ARROYO, GLORIA"
+coAuthors = [ "VARGAS, ALFRED III D.", "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "MACAPAGAL-ARROYO, GLORIA"
+nameCode = "Macapagal Arroyo"
+date = "2016-10-18"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VARGAS, ALFRED III D."
+nameCode = "Vargas"
+date = "2017-09-04"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2018-09-04"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-11-07"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 37611
+congress = 17
+bill_no = "HB04143"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-11-07"

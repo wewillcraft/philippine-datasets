@@ -1,0 +1,67 @@
+billNumber = "HR00706"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00706"
+lastScraped = "2025-09-22T00:20:59.558464"
+title = "HR00706"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON APPROPRIATIONS AND THE COMMITTEE ON BANKS AND FINANCIAL INTERMEDIARIES TO CONDUCT AN INQUIRY, IN AID  OF LEGISLATION, ON THE ALLEGED PRACTICE OF VARIOUS GOVERNMENT ENTITIES, INCLUDING THE NATIONAL TREASURER, OFDEPOSITING THEIR FUNDS IN PRIVATE BANKS IN VIOLATION OF THE GENERAL PROVISIONS OF REPUBLIC ACT NO. 8174 OR THE GENERAL APPROPRIATIONS ACT OF 1996 AND TO FORMULATE THE PROPER POLICY ON THE HANDLING OF GOVERNMENT FUNDS"
+scope = "National"
+dateFiled = "1996-06-26"
+status = "Pending with the Committee on RULES since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "LIBAN, DANTE V.", "BAGATSING, RAMON JR. S.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 117760
+congress = 10
+bill_no = "HR00706"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Appropriat ions and on Banks and Financ"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-23"

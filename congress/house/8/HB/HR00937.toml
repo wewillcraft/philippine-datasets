@@ -1,0 +1,50 @@
+billNumber = "HR00937"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00937"
+lastScraped = "2025-09-22T00:47:02.708770"
+title = "HR00937"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION INTO THE WHEREABOUTS OF FIREARMS SURRENDERED DURING THE PERIOD OF MARTIAL LAW, AND TO SUBMIT TO THE HOUSE A REPORT OF ITS FINDINGS NOT LATER THAN DECEMBER 31, 1988"
+scope = "National"
+dateFiled = "1988-09-21"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serna"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Serna"
+nameCode = "Serna"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-09-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 170815
+congress = 8
+bill_no = "HR00937"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-09-27"

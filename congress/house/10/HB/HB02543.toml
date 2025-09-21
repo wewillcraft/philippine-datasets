@@ -1,0 +1,41 @@
+billNumber = "HB02543"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02543"
+lastScraped = "2025-09-22T00:20:57.837450"
+title = "HB02543"
+longTitle = "AN ACT AMENDING SECTION 190 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing, Amado S."
+[[authorsDetail]]
+name = "Bagatsing, Amado S."
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 108964
+congress = 10
+bill_no = "HB02543"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-08-23"

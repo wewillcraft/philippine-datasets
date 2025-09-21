@@ -1,0 +1,54 @@
+billNumber = "HB05560"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05560"
+lastScraped = "2025-09-21T23:55:21.098971"
+title = "HB05560"
+longTitle = "AN ACT CREATING THE NATIONAL EYE CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-10-14"
+status = "Pending with the Committee on HEALTH since 2022-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05560.pdf"
+fileSize = 329813
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2022-10-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-11-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 10479
+congress = 19
+bill_no = "HB05560"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-11-07"

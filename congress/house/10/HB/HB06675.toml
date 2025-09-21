@@ -1,0 +1,46 @@
+billNumber = "HB06675"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06675"
+lastScraped = "2025-09-22T00:20:58.600206"
+title = "HB06675"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF FIVE MILLION FIVE HUNDRED THOUSAND PESOS (P5,500,000.00) FOR THE CONSTRUCTION OF THE BAGANGA IRRIGATION SYSTEM IN THE MUNICIPALITY OF BAGANGA, PROVINCE OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113096
+congress = 10
+bill_no = "HB06675"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-03-26"

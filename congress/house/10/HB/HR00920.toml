@@ -1,0 +1,52 @@
+billNumber = "HR00920"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00920"
+lastScraped = "2025-09-22T00:20:59.598615"
+title = "HR00920"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON GOOD GOVERNMENT AND HOUSE COMMITTEE ON PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROCEDURE ADOPTED FOR THE BIDDING OF THE BAGONG SILANGAN HIGH SCHOOL, QUEZON CITY, METRO MANILA, AND TO RECOMMEND MEASURES TO ENSURE THAT A UNIFORM SYSTEM OF BIDDING IS BEING CONDUCTED BY THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS"
+scope = "Local"
+dateFiled = "1996-10-17"
+status = "Pending with the Committee on RULES since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117974
+congress = 10
+bill_no = "HR00920"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Public Works and"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-04"

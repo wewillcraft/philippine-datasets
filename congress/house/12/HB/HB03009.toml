@@ -1,0 +1,88 @@
+billNumber = "HB03009"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03009"
+lastScraped = "2025-09-22T00:13:00.350021"
+title = "HB03009"
+longTitle = "AN ACT ESTABLISHING THE DRUG ENFORCEMENT ADMINISTRATION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 6425, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-09-12"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gunigundo"
+coAuthors = [ "BIAZON, ROZZANO RUFINO B.", "DEL MAR, RAUL V.", "ESPINO, AMADO JR. T.", "MONFORT, NARCISO D.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Gunigundo"
+nameCode = "Gunigundo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BIAZON, ROZZANO RUFINO B."
+nameCode = "Biazon"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J056"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 86169
+congress = 12
+bill_no = "HB03009"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-09-27"

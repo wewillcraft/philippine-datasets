@@ -1,0 +1,42 @@
+billNumber = "HB00344"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00344"
+lastScraped = "2025-09-22T00:25:54.656436"
+title = "HB00344"
+longTitle = "AN ACT LEVYING REAL ESTATE TAX ON THE REAL PROPERTY OF THE NATIONAL POWER CORPORATION SITUATED IN THE PROVINCE OF LAGUNA"
+scope = "Local"
+dateFiled = "1992-07-29"
+status = "Pending with the Committee on WAYS AND MEANS since 1992-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1992-08-03"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 118963
+congress = 9
+bill_no = "HB00344"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1992-08-03"

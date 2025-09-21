@@ -1,0 +1,43 @@
+billNumber = "HR00580"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00580"
+lastScraped = "2025-09-22T00:25:57.472944"
+title = "HR00580"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO INVESTIGATE, IN AID OF LEGISLATION, THE STATUS OF PROGRAM II OF THE PHILIPPINE MEDICAL CARE PLAN AND ENJOINING THE PHILIPPINE MEDICARE COMMISSION TO ACCELERATE AND INTENSIFY THE IMPLEMENTATION THEREOF"
+scope = "National"
+dateFiled = "1993-03-30"
+status = "Pending with the Committee on HEALTH since 1993-04-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-04-02"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 133892
+congress = 9
+bill_no = "HR00580"
+comm_act = "Change of referral from the Committee on Rules(J. 103) (Ctte. Rpt. No. 162, submitted by the Ctte. o"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-04-02"

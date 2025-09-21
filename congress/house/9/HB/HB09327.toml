@@ -1,0 +1,79 @@
+billNumber = "HB09327"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09327"
+lastScraped = "2025-09-22T00:25:56.275208"
+title = "HB09327"
+longTitle = "AN ACT NAMING THE GRANADA-MURCIA ROAD AND EXTENSION (CIRCUMFERENTIA L ROAD) WHICH IS A NATIONAL ROAD IN BACOLOD CITY, NEGROS OCCIDENTAL, AS THE CARLOS HILADO HIGHWAY"
+scope = "Local"
+dateFiled = "1993-05-27"
+status = "REPUBLIC ACT (RA07817) enacted on 1994-11-10"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-06-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HB00630"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00630"
+flag = "S"
+
+[firstReading]
+id = 127945
+congress = 9
+bill_no = "HB09327"
+report = "00182"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "APPROVAL"
+date_read = "1993-06-02"
+date_ob = "1993-06-02"
+date_cal = "1993-06-02"
+date_unass = "1993-06-02"
+date_report = "1993-05-27"
+
+[secondReading]
+id = 19541
+congress = 9
+bill_no = "HB09327"
+date_approved = "1993-06-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1802
+congress = 9
+bill_no = "HB09327"
+date_dist = "1993-07-27"
+date_adopt = "1993-08-03"
+no_yeas = 182
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-08-04"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1994-09-26"
+dte_actedp = "1994-11-10"

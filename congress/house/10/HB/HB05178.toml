@@ -1,0 +1,46 @@
+billNumber = "HB05178"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05178"
+lastScraped = "2025-09-22T00:20:58.326779"
+title = "HB05178"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN PANTALAN NAVARRO ELEMENTARY SCHOOL, BARANGAY PANTALAN NAVARRO, MUNICIPALITY OF AJUY, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1995-11-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-23"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111599
+congress = 10
+bill_no = "HB05178"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-11-23"

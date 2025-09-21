@@ -1,0 +1,67 @@
+billNumber = "HB11407"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11407"
+lastScraped = "2025-09-22T00:25:56.678858"
+title = "HB11407"
+longTitle = "AN ACT CREATING THE NATIONAL SOLAR ENERGY CORPORATION AND PROVIDING FOR A COMPREHENSIVE SOLAR ENERGY PROGRAM FOR REMOTE RURAL AREAS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-11-29"
+status = "Pending with the Committee on ENERGY since 1993-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+coAuthors = [ "BAUTISTA, BENJAMIN SR. V.", "LINGAD, EMIGDIO L.",]
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAUTISTA, BENJAMIN SR. V."
+nameCode = "Bautista"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LINGAD, EMIGDIO L."
+nameCode = "Lingad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-12-06"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 130022
+congress = 9
+bill_no = "HB11407"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-12-06"

@@ -1,0 +1,47 @@
+billNumber = "HR00149"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00149"
+lastScraped = "2025-09-22T00:01:47.367516"
+title = "HR00149"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE TO MAKE AN INVESTIGATION ON THE INFLUX OF E-BIKES AND SCOOTERS PLYING THE STREETS"
+scope = "National"
+dateFiled = "2019-07-30"
+status = "Pending with the Committee on TRANSPORTATION since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00149.pdf"
+fileSize = 684477
+author = "Marquez, Carlito S."
+[[authorsDetail]]
+name = "Marquez, Carlito S."
+nameCode = "Marquez"
+date = "2019-07-30"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-08-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 30477
+congress = 18
+bill_no = "HR00149"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-08-06"

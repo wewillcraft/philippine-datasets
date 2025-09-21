@@ -1,0 +1,46 @@
+billNumber = "HB02485"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02485"
+lastScraped = "2025-09-22T00:20:57.827253"
+title = "HB02485"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A WATER SYSTEM IN THE MUNICIPALITY OF MALABANG, 2ND DISTRICT, PROVINCE OF LANAO DEL SUR"
+scope = "Local"
+dateFiled = "1995-08-16"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Balindong, Pangalian M."
+[[authorsDetail]]
+name = "Balindong, Pangalian M."
+nameCode = "Balindong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-22"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108906
+congress = 10
+bill_no = "HB02485"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-22"

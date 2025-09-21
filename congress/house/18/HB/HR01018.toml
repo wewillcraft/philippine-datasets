@@ -1,0 +1,65 @@
+billNumber = "HR01018"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01018"
+lastScraped = "2025-09-22T00:01:47.525890"
+title = "HR01018"
+longTitle = "A RESOLUTION URGING THE HOUSE OF REPRESENTATIVES COMMITTEE ON ENERGY\r\nTO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE\r\nPOSSIBLE OVERLAPPING FUNCTIONS AND POWERS OF TASK FORCE E-POWER MO (TFEM) CREATED UNDER DOE DEPARTMENT ORDER NO.\r\n2018-05-0010 AND THE MANDATE OF NATIONAL ELECTRIFICATION\r\nADMINISTRATION (NEA) ON TOTAL ELECTRIFICATION OF THE\r\nCOUNTRY\r\n"
+scope = "National"
+dateFiled = "2020-07-02"
+status = "Pending with the Committee on ENERGY since 2020-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01018.pdf"
+fileSize = 1562343
+author = "De Jesus, Presley C."
+[[authorsDetail]]
+name = "De Jesus, Presley C."
+nameCode = "De Jesus"
+date = "2020-07-02"
+sequence = 1
+
+[[authorsDetail]]
+name = "DAGOOC, SERGIO C."
+nameCode = "Dagooc"
+date = "2020-07-02"
+sequence = 2
+
+[[authorsDetail]]
+name = "Guya, Godofredo N."
+nameCode = "Guya"
+date = "2020-07-02"
+sequence = 3
+
+[[authorsDetail]]
+name = "Ebcas, Adriano A."
+nameCode = "Ebcas"
+date = "2020-07-02"
+sequence = 4
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2020-07-28"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 31337
+congress = 18
+bill_no = "HR01018"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-08-11"
+date_read = "2020-07-28"

@@ -1,0 +1,41 @@
+billNumber = "HB08818"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08818"
+lastScraped = "2025-09-22T00:20:59.043716"
+title = "HB08818"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF NARCISO RAMOS IN THE PROVINCE OF PANGASINAN"
+scope = "Local"
+dateFiled = "1997-01-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-01-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 115239
+congress = 10
+bill_no = "HB08818"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-01-30"

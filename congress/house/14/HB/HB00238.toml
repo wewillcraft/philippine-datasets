@@ -1,0 +1,73 @@
+billNumber = "HB00238"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB00238"
+lastScraped = "2025-09-22T00:15:37.784359"
+title = "\\\"Free Basic Medicines Act of 2007\\\""
+longTitle = "AN ACT ESTABLISHING FREE BASIC MEDICINES PROGRAM IN ALL BARANGAY HEALTH CENTERS NATIONWIDE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2007-07-02"
+status = "Pending with the Committee on HEALTH since 2007-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "ALMARIO, THELMA Z.", "CODILLA, EUFROCINO SR. M.", "UY, ROLANDO A.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALMARIO, THELMA Z."
+nameCode = "Almario"
+date = ""
+journalNo = "J002"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR. M."
+nameCode = "Codilla"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "UY, ROLANDO A."
+nameCode = "Uy (R.A.)"
+date = ""
+journalNo = "J027"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2007-07-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 66209
+congress = 14
+bill_no = "HB00238"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2007-07-24"

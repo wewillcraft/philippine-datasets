@@ -1,0 +1,55 @@
+billNumber = "HB00663"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00663"
+lastScraped = "2025-09-22T00:25:54.715829"
+title = "HB00663"
+longTitle = "AN ACT APPROPRIATING ADDITIONAL FUNDS FOR THE COMPLETION OF THE LINAMON AIRPORT, MUNICIPALITY OF LINAMON, PROVINCE OF LANAO DEL NORTE"
+scope = "Local"
+dateFiled = "1992-08-06"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles"
+coAuthors = [ "LANTO, MACABANGKIT B.",]
+[[authorsDetail]]
+name = "Badelles"
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LANTO, MACABANGKIT B."
+nameCode = "Lanto"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-08-12"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119282
+congress = 9
+bill_no = "HB00663"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-08-12"

@@ -1,0 +1,42 @@
+billNumber = "HR01428"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01428"
+lastScraped = "2025-09-22T00:47:02.807696"
+title = "HR01428"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON NATIONAL DEFENSE AS WELL AS PUBLIC ORDER AND SECURITY TO MAKE AN IMMEDIATE INQUIRY, IN AID OF LEGISLATION, REGARDING THE IMPROPRIETY OF ASSIGNING PROVINCIAL COMMANDER IN PROVINCES WHERE THEIR CLOSEST KIN ARE ALREADY HOLDING POSITIONS OF POWER"
+scope = "National"
+dateFiled = "1989-08-28"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-08-28"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 171293
+congress = 8
+bill_no = "HR01428"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-08-28"

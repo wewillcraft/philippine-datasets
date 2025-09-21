@@ -1,0 +1,60 @@
+billNumber = "HR01410"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01410"
+lastScraped = "2025-09-22T00:20:59.695135"
+title = "HR01410"
+longTitle = "RESOLUTION URGING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, TO CALL A NATIONAL SUMMIT ON THE EL NINO PHENOMENON"
+scope = "National"
+dateFiled = "1997-10-21"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1997-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "CALALAY, REYNALDO A.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1997-10-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118464
+congress = 10
+bill_no = "HR01410"
+report = "01427"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+recomm = "Adoption"
+date_read = "1997-10-23"
+date_ob = "1998-01-30"
+date_report = "1998-01-29"

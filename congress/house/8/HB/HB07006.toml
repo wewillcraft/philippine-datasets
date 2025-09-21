@@ -1,0 +1,42 @@
+billNumber = "HB07006"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07006"
+lastScraped = "2025-09-22T00:46:57.841089"
+title = "HB07006"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF PILAS IN THE PROVINCE OF BASILANAN ACT CREATING THE MUNICIPALITY OF PILAS IN THE PROVINCE OF BASILAN"
+scope = "Local"
+dateFiled = "1988-03-22"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1988-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dans"
+[[authorsDetail]]
+name = "Dans"
+nameCode = "Dans"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-03-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 141687
+congress = 8
+bill_no = "HB07006"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1988-03-24"

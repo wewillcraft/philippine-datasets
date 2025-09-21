@@ -1,0 +1,42 @@
+billNumber = "HR00503"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00503"
+lastScraped = "2025-09-22T00:25:57.458006"
+title = "HR00503"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CLAIMS FOR COMPENSATION MADE BY OWNERS OF PRIVATE AGRICULTURAL LANDS SITUATED IN MALABANAN, BALETE, BATANGAS, WHICH HAVE NOT BEEN ACTEDUPON BY THE PROVINCIAL AGRARIAN REFORM OFFICER OF BATANGAS DESPITE THE FACT THAT PORTIONS OF SAID LAND HAVE ALREADY BEEN TRANSFERRED TO THE TENANT-FARMERS UNDER PRESIDENTIAL DECREE NO. 27"
+scope = "Local"
+dateFiled = "1993-02-17"
+status = "Pending with the Committee on AGRARIAN REFORM since 1993-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "1993-02-23"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 133815
+congress = 9
+bill_no = "HR00503"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1993-02-23"

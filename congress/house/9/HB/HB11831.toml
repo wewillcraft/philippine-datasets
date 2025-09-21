@@ -1,0 +1,42 @@
+billNumber = "HB11831"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11831"
+lastScraped = "2025-09-22T00:25:56.775411"
+title = "HB11831"
+longTitle = "AN ACT CREATING A FOREIGN INVESTMENTS SERVICES OFFICE, DEFINING ITS POWERS AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1994-01-26"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1994-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tingzon"
+[[authorsDetail]]
+name = "Tingzon"
+nameCode = "Tingzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1994-02-01"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130446
+congress = 9
+bill_no = "HB11831"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1994-02-01"

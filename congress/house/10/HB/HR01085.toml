@@ -1,0 +1,67 @@
+billNumber = "HR01085"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01085"
+lastScraped = "2025-09-22T00:20:59.635290"
+title = "HR01085"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ECOLOGY, NATURAL RESOURCES, AND AGRICULTURE AND FOOD TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE FISH KILL INCIDENT WHICH OCCURRED ON JANUARY 28, 1997 ALONG THE DAVAO RIVER AND DAVAO GULF, ANDTO RECOMMEND REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "Local"
+dateFiled = "1997-02-10"
+status = "Pending with the Committee on RULES since 1997-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "FAJARDO, PACIFICO M.",]
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FAJARDO, PACIFICO M."
+nameCode = "Fajardo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-12"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 118139
+congress = 10
+bill_no = "HR01085"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ecology, on Natural Resources, on Agric"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-12"

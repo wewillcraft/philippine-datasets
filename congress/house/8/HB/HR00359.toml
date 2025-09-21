@@ -1,0 +1,42 @@
+billNumber = "HR00359"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00359"
+lastScraped = "2025-09-22T00:47:02.596003"
+title = "HR00359"
+longTitle = "RESOLUTION FOR AN INQUIRY IN AID OF LEGISLATION BY THE PROPER HOUSE COMMITTEE ON THE EFFECTS OF PROCLAMATION NUMBERED 1754 RESERVING A STRIP OF LAND FIVE KILOMETERS FROM EITHER SIDE OF MARCOS HIGHWAYFROM AGOO, LA UNION TO BAGUIO CITY, AND THEREAFTERTO FORMULATE POLICY AND/OR DRAFT APPROPRIATE LEGISLATION"
+scope = "Local"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on NATURAL RESOURCES since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "526"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170257
+congress = 8
+bill_no = "HR00359"
+referral = "526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1987-09-29"

@@ -1,0 +1,64 @@
+billNumber = "HR01900"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01900"
+lastScraped = "2025-09-22T00:47:02.905232"
+title = "HR01900"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY INTO THE ALLEGED REPORTS THAT DAILY INTAKE OF SUPPLEMENTAL VITAMINS ARE NOT NECESSARY IN MAINTAINING NORMAL HEALTH BALANCE WITH THE END IN VIEW OF REDIRECTING THE DEPARTMENT OF HEALTH TO INITIATE THE PROPER REGULATIONS APPROPRIATE FOR DRUG CONSUMPTION"
+scope = "National"
+dateFiled = "1990-08-28"
+status = "Pending with the Committee on HEALTH since 1990-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+coAuthors = [ "WEBB, FREDDIE N.", "DRAGON, RENATO P.", "MARQUEZ, BIENVENIDO JR. O.",]
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MARQUEZ, BIENVENIDO JR. O."
+nameCode = "Marquez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1990-09-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171736
+congress = 8
+bill_no = "HR01900"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1990-09-03"

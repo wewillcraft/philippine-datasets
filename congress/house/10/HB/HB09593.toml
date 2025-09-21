@@ -1,0 +1,92 @@
+billNumber = "HB09593"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09593"
+lastScraped = "2025-09-22T00:20:59.193012"
+title = "HB09593"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF REGIONAL MENTAL HOSPITALS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1997-07-14"
+status = "Approved on Third Reading on 1998-02-06"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "CALALAY, REYNALDO A.", "DEL MAR, RAUL V.", "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116014
+congress = 10
+bill_no = "HB09593"
+report = "01382"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1997-07-30"
+date_ob = "1998-01-09"
+date_report = "1998-01-07"
+
+[secondReading]
+id = 18738
+congress = 10
+bill_no = "HB09593"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1998-01-30"
+date_approved = "1998-01-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3313
+congress = 10
+bill_no = "HB09593"
+date_dist = "1998-02-02"
+date_adopt = "1998-02-06"
+no_yeas = 118
+no_nays = 0
+no_abstent = 0

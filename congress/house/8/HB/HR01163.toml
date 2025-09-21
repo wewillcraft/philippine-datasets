@@ -1,0 +1,42 @@
+billNumber = "HR01163"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01163"
+lastScraped = "2025-09-22T00:47:02.762917"
+title = "HR01163"
+longTitle = "RESOLUTION REQUESTING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY TO INCLUDE REGION X AS ONE OFTHE PILOT REGIONS IN ITS LOCAL RESOURCE MANAGEMENT PROJECT"
+scope = "Local"
+dateFiled = "1989-02-16"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1989-02-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "536"
+dateRead = "1989-02-22"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 171037
+congress = 8
+bill_no = "HR01163"
+referral = "536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1989-02-22"

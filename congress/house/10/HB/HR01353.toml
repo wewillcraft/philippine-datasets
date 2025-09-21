@@ -1,0 +1,82 @@
+billNumber = "HR01353"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01353"
+lastScraped = "2025-09-22T00:20:59.684831"
+title = "HR01353"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF THE HONORABLE DOMINADOR M. PERNES, FORMER MEMBER OF THE BATASANG PAMBANSA, REPRESENTING REGION VII FROM 1978-1984"
+scope = "Local"
+dateFiled = "1997-08-26"
+status = "Adopted as Resolution No. HR00119 on 1997-09-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.", "FUA, ORLANDO B.", "MONTEMAYOR, LEONARDO Q.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FUA, ORLANDO B."
+nameCode = "Fua"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-09-01"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 118407
+congress = 10
+bill_no = "HR01353"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-09-01"
+
+[secondReading]
+id = 19042
+congress = 10
+bill_no = "HR01353"
+adopted_resolution = "HR00119"
+date_calendared = "1997-09-04"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00119.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00119.pdf"

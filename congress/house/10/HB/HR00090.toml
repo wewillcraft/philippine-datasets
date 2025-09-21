@@ -1,0 +1,50 @@
+billNumber = "HR00090"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00090"
+lastScraped = "2025-09-22T00:20:59.440757"
+title = "HR00090"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LOCAL GOVERNMENT TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE REPORTED REFUSAL OF STATE COLLEGES AND UNIVERSITIES TO EXEMPT LEGITIMATE DEPENDENTS OF INCUMBENT BARANGAY OFFICIALS FROM PAYMENT OF TUITION AND OTHER MATRICULATION FEES"
+scope = "National"
+dateFiled = "1995-08-07"
+status = "Pending with the Committee on VETERANS AFFAIRS since 1995-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1995-08-10"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 117144
+congress = 10
+bill_no = "HR00090"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Local Government on Aug. 14, 1995.; Chang"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1995-08-10"

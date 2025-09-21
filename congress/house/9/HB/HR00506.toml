@@ -1,0 +1,50 @@
+billNumber = "HR00506"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00506"
+lastScraped = "2025-09-22T00:25:57.458452"
+title = "HR00506"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF AGRICULTURE TO SUSPEND THE FERTILIZER PROCUREMENT PROGRAM FOR RICE AND CORN FARMERS UNTIL THE HOUSE COMMITTEE ON AGRICULTURE HAS FINISHED ITS EVALUATION OF THE EFFECTIVENESS OF SAID PROGRAM"
+scope = "National"
+dateFiled = "1993-02-22"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-03-01"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 133818
+congress = 9
+bill_no = "HR00506"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-03-01"

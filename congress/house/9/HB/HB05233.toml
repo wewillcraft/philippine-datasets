@@ -1,0 +1,47 @@
+billNumber = "HB05233"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05233"
+lastScraped = "2025-09-22T00:25:55.594001"
+title = "HB05233"
+longTitle = "AN ACT CREATING A DRUG REHABILITATION CENTER IN THE PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-26"
+status = "Pending with the Committee on HEALTH since 1992-12-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tugung"
+[[authorsDetail]]
+name = "Tugung"
+nameCode = "Tugung"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-07"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123852
+congress = 9
+bill_no = "HB05233"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-07"

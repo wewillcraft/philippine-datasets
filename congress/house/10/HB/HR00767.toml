@@ -1,0 +1,60 @@
+billNumber = "HR00767"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00767"
+lastScraped = "2025-09-22T00:20:59.569659"
+title = "HR00767"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENVIRONMENT AND NATURAL RESOURCES AND THE COMMITTEE ON SCIENCE AND TECHNOLOGY TO JOINTLY CONDUCT AN INQUIRY INTO THE EFFECTS OF THE SUPER UNLEADED GASOLINE AND THE LEADED PREMIUM GASOLINE ON THE ENVIRONMENT ANDPUBLIC HEALTH AND SAFETY"
+scope = "National"
+dateFiled = "1996-08-06"
+status = "Pending with the Committee on RULES since 1996-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-08"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 117821
+congress = 10
+bill_no = "HR00767"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Natural Resources and on Science and Te"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-08"

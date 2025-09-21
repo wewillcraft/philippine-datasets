@@ -1,0 +1,57 @@
+billNumber = "HR00449"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00449"
+lastScraped = "2025-09-22T00:20:59.505126"
+title = "HR00449"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE CIRCUMSTANCES SURROUNDING THE SUSPICIOUS DEATHS OF OVERSEAS CONTRACT WORKERS"
+scope = "National"
+dateFiled = "1996-02-05"
+status = "Pending with the Committee on OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.) since 1996-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B515"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[firstReading]
+id = 117503
+congress = 10
+bill_no = "HR00449"
+comm_act = "Change of Referral from the Ctte. on Rules to the Special Ctte. on Overseas Contract Workers on Feb."
+referral = "B515"
+ref_name = "OVERSEAS CONTRACT WORKERS (SPECIAL CTTE.)"
+date_read = "1996-02-12"

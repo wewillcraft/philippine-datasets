@@ -1,0 +1,63 @@
+billNumber = "HR00999"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00999"
+lastScraped = "2025-09-21T23:55:46.423702"
+title = "HR00999"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED IRREGULARITIES IN THE CHARGING OF RATES BY THE PANAY ELECTRIC COMPANY (PECO) BEING IMPOSED TO ITS CUSTOMERS"
+scope = "National"
+dateFiled = "2017-05-16"
+status = "Referred to Stakeholders on 2017-06-21"
+statusOrder = 4.01
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00999.pdf"
+fileSize = 428780
+author = "Zarate, Carlos Isagani T."
+[[authorsDetail]]
+name = "Zarate, Carlos Isagani T."
+nameCode = "Zarate"
+date = "2017-05-16"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2017-05-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 43741
+congress = 17
+bill_no = "HR00999"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-05-24"
+date_read = "2017-05-17"
+
+[secondReading]
+id = 3732
+congress = 17
+bill_no = "HR00999"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

@@ -1,0 +1,50 @@
+billNumber = "HR00732"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00732"
+lastScraped = "2025-09-22T00:47:02.670467"
+title = "HR00732"
+longTitle = "RESOLUTION CREATING A SPECIAL COMMITTEE IN THE HOUSE OF REPRESENTATIVES TO STUDY, IN COORDINATION WITH RENOWNED FILIPINO HISTORIANS, THE SIGNIFICANCEOF LEGAL AND PUBLIC HOLIDAYS"
+scope = "National"
+dateFiled = "1988-05-31"
+status = "Pending with the Committee on RULES since 1988-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+coAuthors = [ "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-06-02"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 170613
+congress = 8
+bill_no = "HR00732"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-06-02"

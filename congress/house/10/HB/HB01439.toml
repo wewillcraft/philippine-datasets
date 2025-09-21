@@ -1,0 +1,78 @@
+billNumber = "HB01439"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01439"
+lastScraped = "2025-09-22T00:20:57.621825"
+title = "HB01439"
+longTitle = "AN ACT DECLARING APRIL SECOND OF EVERY YEAR AS A NON-WORKING NATIONAL PUBLIC HOLIDAY IN HONOR OF FRANSISCO \"BALAGTAS\" BALTAZAR TO BE KNOWN AS BALAGTAS DAY"
+scope = "National"
+dateFiled = "1995-07-28"
+status = "Transmitted to the President for Signature on 1996-12-23"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[firstReading]
+id = 107860
+congress = 10
+bill_no = "HB01439"
+report = "00113"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "APPROVAL WITHOUT AMENDMENTS"
+date_read = "1995-08-02"
+date_ob = "1995-12-20"
+date_report = "1995-12-18"
+
+[secondReading]
+id = 17798
+congress = 10
+bill_no = "HB01439"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1995-12-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2418
+congress = 10
+bill_no = "HB01439"
+date_dist = "1996-01-22"
+date_adopt = "1996-01-25"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-01-25"
+date_rec = "1996-01-31"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1996-12-23"
+dte_actedp = "1997-02-14"

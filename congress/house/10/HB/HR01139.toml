@@ -1,0 +1,63 @@
+billNumber = "HR01139"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01139"
+lastScraped = "2025-09-22T00:20:59.645083"
+title = "HR01139"
+longTitle = "RESOLUTION TO INQUIRE INTO THE MEMORANDUM OF ECONOMIC AND FINANCIAL POLICIES TO BE SUBMITTED BY THE GOVERNMENT TO THE INTERNATIONAL MONETARY FUND PERTAINING TO THE COUNTRY'S EXIT PROGRAM FROM SAID INSTITUTION"
+scope = "National"
+dateFiled = "1997-03-12"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1997-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanada"
+coAuthors = [ "CALALAY, REYNALDO A.", "RODRIGUEZ, OSCAR S.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Tanada"
+nameCode = "Tanada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1997-03-17"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 118193
+congress = 10
+bill_no = "HR01139"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1997-03-17"

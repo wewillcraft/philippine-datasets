@@ -1,0 +1,51 @@
+billNumber = "HB05933"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05933"
+lastScraped = "2025-09-21T23:56:22.655372"
+title = "HB05933"
+longTitle = "AN ACT PROVIDING FOR MANDATORY FULL MEDICAL ASSISTANCE TO UNIFORMED MEN WOUNDED WHILE ON DUTY"
+scope = "National"
+dateFiled = "2015-07-15"
+status = "Pending with the Committee on NATIONAL DEFENSE AND SECURITY since 2015-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05933.pdf"
+fileSize = 252361
+author = "Lanete, Scott Davies S., M.D."
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2015-07-15"
+sequence = 1
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "primary"
+referralCode = "0525"
+dateRead = "2015-08-05"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 51747
+congress = 16
+bill_no = "HB05933"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE AND SECURITY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-08-05"

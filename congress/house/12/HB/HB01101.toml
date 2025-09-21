@@ -1,0 +1,55 @@
+billNumber = "HB01101"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01101"
+lastScraped = "2025-09-22T00:13:00.004254"
+title = "HB01101"
+longTitle = "AN ACT ESTABLISHING THE REGISTER OF DEEDS OF THE PROVINCE OF COMPOSTELA VALLEY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-07-18"
+status = "Pending with the Committee on JUSTICE since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zamora, Manuel 'Way Kurat' E."
+coAuthors = [ "AMATONG, PROSPERO S.",]
+[[authorsDetail]]
+name = "Zamora, Manuel 'Way Kurat' E."
+nameCode = "Zamora"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AMATONG, PROSPERO S."
+nameCode = "Amatong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84261
+congress = 12
+bill_no = "HB01101"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-30"

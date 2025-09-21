@@ -1,0 +1,69 @@
+billNumber = "HB05111"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05111"
+lastScraped = "2025-09-22T00:13:00.746933"
+title = "HB05111"
+longTitle = "AN ACT UPGRADING THE SALARY GRADE LEVEL OF THE SCHOOLS DISTRICT SUPERVISORS FROM SALARY GRADE NINETEEN (19) TO SALARY GRADE TWENTY-FOUR (24)"
+scope = "National"
+dateFiled = "2002-08-13"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vicencio, Romualdo T."
+coAuthors = [ "CALALAY, REYNALDO A.", "DEL MAR, RAUL V.", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Vicencio, Romualdo T."
+nameCode = "Vicencio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J022"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-08-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "secondary"
+referralCode = "C501"
+
+[firstReading]
+id = 88266
+congress = 12
+bill_no = "HB05111"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-08-21"

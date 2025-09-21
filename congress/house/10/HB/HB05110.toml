@@ -1,0 +1,83 @@
+billNumber = "HB05110"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05110"
+lastScraped = "2025-09-22T00:20:58.314713"
+title = "HB05110"
+longTitle = "AN ACT TO REQUIRE GOVERNMENT AGENCIES TO FILE WITH THE SUPREME COURT LIBRARY THREE CERTIFIED COPIES OF EVERY RULE ADOPTED BY THEM, AMENDING FOR THE PURPOSE EXECUTIVE ORDER NO. 292, KNOWN AS THE ADMINISTRATIVE CODE OF 1987"
+scope = "National"
+dateFiled = "1995-11-15"
+status = "Approved by the House on 1997-04-21, transmitted to on 1997-04-22 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "AVILA, EDGAR M.", "SERAPIO, ANTONIO M.",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SERAPIO, ANTONIO M."
+nameCode = "Serapio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 111531
+congress = 10
+bill_no = "HB05110"
+report = "00755"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1995-11-20"
+date_ob = "1997-02-03"
+date_unass = "1997-02-11"
+date_report = "1997-01-29"
+
+[secondReading]
+id = 18161
+congress = 10
+bill_no = "HB05110"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1997-02-19"
+date_approved = "1997-02-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2768
+congress = 10
+bill_no = "HB05110"
+date_dist = "1997-03-03"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"

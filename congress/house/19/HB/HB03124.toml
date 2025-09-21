@@ -1,0 +1,68 @@
+billNumber = "HB03124"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB03124"
+lastScraped = "2025-09-21T23:55:20.617584"
+title = "HB03124"
+longTitle = "AN ACT MANDATING THE PHILIPPINE HEALTH INSURANCE CORPORATION TO INCREASE THE HEMODIALYSIS TREATMENT COVERAGE OF MEMBERS OF THE NATIONAL HEALTH INSURANCE PROGRAM TO ONE HUNDRED AND FIFTY-SIX (156) SESSIONS PER YEAR"
+scope = "National"
+dateFiled = "2022-08-03"
+status = "Pending with the Committee on HEALTH since 2022-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB03124.pdf"
+fileSize = 237398
+author = "ALVAREZ, MERCEDES K."
+coAuthors = [ "GOMEZ, RICHARD", "TUTOR, KRISTINE ALEXIE B.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "ALVAREZ, MERCEDES K."
+nameCode = "Alvarez (M.)"
+date = "2022-08-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GOMEZ, RICHARD"
+nameCode = "Gomez"
+date = "2022-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TUTOR, KRISTINE ALEXIE B."
+nameCode = "Tutor"
+date = "2022-09-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-07-12"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 8043
+congress = 19
+bill_no = "HB03124"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-09"

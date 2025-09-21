@@ -1,0 +1,46 @@
+billNumber = "HB01104"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB01104"
+lastScraped = "2025-09-21T23:56:21.677361"
+title = "HB01104"
+longTitle = "AN ACT REPEALING REPUBLIC ACT NO. 5180, AS AMENDED, 'AN ACT PRESCRIBING A UNIFORM SYSTEM OF PRELIMINARY INVESTIGATION BY PROVINCIAL AND CITY FISCALS AND THEIR ASSISTANTS, AND BY STATE ATTORNEYS OR THEIR ASSISTANTS'"
+scope = "National"
+dateFiled = "2013-07-04"
+status = "Pending with the Committee on JUSTICE since 2013-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB01104.pdf"
+fileSize = 172715
+author = "Escudero, Evelina G."
+[[authorsDetail]]
+name = "Escudero, Evelina G."
+nameCode = "Escudero"
+date = "2013-07-04"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2013-07-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 46918
+congress = 16
+bill_no = "HB01104"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-29"

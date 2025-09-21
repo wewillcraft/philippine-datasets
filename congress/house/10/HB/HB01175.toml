@@ -1,0 +1,41 @@
+billNumber = "HB01175"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01175"
+lastScraped = "2025-09-22T00:20:57.575899"
+title = "HB01175"
+longTitle = "AN ACT PROHIBITING THE UNAUTHORIZED CONVERSION OF COCONUT FARMS INTO OTHER AGRICULTURAL USES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 107596
+congress = 10
+bill_no = "HB01175"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-07-31"

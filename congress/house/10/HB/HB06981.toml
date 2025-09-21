@@ -1,0 +1,49 @@
+billNumber = "HB06981"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06981"
+lastScraped = "2025-09-22T00:20:58.654284"
+title = "HB06981"
+longTitle = "AN ACT DECLARING ILLEGAL LOGGING, AS DEFINED IN EXISTING LAWS, AS A HEINOUS CRIME IMPOSING THE DEATH PENALTY THEREFOR"
+scope = "National"
+dateFiled = "1996-05-15"
+status = "Pending with the Committee on JUSTICE since 1996-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+coAuthors = [ "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-05-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 113402
+congress = 10
+bill_no = "HB06981"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-05-20"

@@ -1,0 +1,71 @@
+billNumber = "HB01988"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01988"
+lastScraped = "2025-09-22T00:23:15.855882"
+title = "HB01988"
+longTitle = "AN ACT DECLARING THE MURCIELAGOS ISLANDS, IN THE MUNICIPALITY OF LABASON, PROVINCE OF ZAMBOANGA DEL NORTE, A TOURIST ZONE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-08-10"
+status = "Approved by the House on 1999-03-22, transmitted to on 1999-03-23 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1998-08-17"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 93429
+congress = 11
+bill_no = "HB01988"
+report = "00212"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = "APPROPRIATIONS, TOURISM"
+recomm = "approval with amendment"
+date_read = "1998-08-17"
+date_ob = "1999-03-02"
+date_report = "1999-03-01"
+
+[secondReading]
+id = 16372
+congress = 11
+bill_no = "HB01988"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1999-03-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3644
+congress = 11
+bill_no = "HB01988"
+date_dist = "1999-03-09"
+date_adopt = "1999-03-22"
+no_yeas = 169
+no_nays = 0
+no_abstent = 0
+date_trans = "1999-03-23"
+date_rec = "1999-03-25"

@@ -1,0 +1,66 @@
+billNumber = "HB01114"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01114"
+lastScraped = "2025-09-22T00:20:57.565437"
+title = "HB01114"
+longTitle = "AN ACT GRANTING LAOAG INTERNATIONAL AIRLINES, INC., A FRANCHISE TO ESTABLISH, OPERATE AND MAINTAIN DOMESTIC AND INTERNATIONAL AIR TRANSPORTATION SERVICES AND OTHER ALLIED SERVICES FOR THE CARRIAGE AND TRANSFER OF PASSENGERS, MAILS, GOODS AND OTHER PROPERTY BY AIR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-20"
+status = "Approved by the House on 1996-04-30, transmitted to on 1996-05-02 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yulo"
+[[authorsDetail]]
+name = "Yulo"
+nameCode = "Yulo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 107535
+congress = 10
+bill_no = "HB01114"
+report = "00159"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1995-07-31"
+date_report = "1996-02-01"
+
+[secondReading]
+id = 17742
+congress = 10
+bill_no = "HB01114"
+reasons = "m"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-02-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2364
+congress = 10
+bill_no = "HB01114"
+date_dist = "1996-02-08"
+date_adopt = "1996-04-30"
+no_yeas = 139
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-02"
+date_rec = "1996-05-07"

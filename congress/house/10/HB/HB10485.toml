@@ -1,0 +1,46 @@
+billNumber = "HB10485"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10485"
+lastScraped = "2025-09-22T00:20:59.393287"
+title = "HB10485"
+longTitle = "AN ACT CONVERTING THE ITBAYAT DISTRICT HOSPITAL IN THE PROVINCE OF BATANES, INTO AN EXTENSION OF THE BATANES GENERAL HOSPITAL, UNDER THE DIRECT CONTROL, SUPERVISION AND MANAGEMENT OF THE DEPARTMENT OF HEALTH, TO BE KNOWN AS THE ITBAYAT GENERAL HOSPITAL (EXTENSION OF THE BATANES GENERAL HOSPITAL), AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-01-23"
+status = "Pending with the Committee on HEALTH since 1998-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-01-27"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116905
+congress = 10
+bill_no = "HB10485"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1998-01-27"

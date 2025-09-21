@@ -1,0 +1,42 @@
+billNumber = "HB12222"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12222"
+lastScraped = "2025-09-22T00:25:56.852262"
+title = "HB12222"
+longTitle = "AN ACT ESTABLISHING A FIFTY (50) BED CAPACITY DISTRICT HOSPITAL IN THE MUNICIPALITY OF SAN MATEO, PROVINCE OF RIZAL, TO BE KNOWN AS THE SAN MATEO DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-03-03"
+status = "Pending with the Committee on HEALTH since 1994-03-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tanjuatco"
+[[authorsDetail]]
+name = "Tanjuatco"
+nameCode = "Tanjuatco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-03-09"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130837
+congress = 9
+bill_no = "HB12222"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-03-09"

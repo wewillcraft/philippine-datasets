@@ -1,0 +1,54 @@
+billNumber = "HB07675"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07675"
+lastScraped = "2025-09-22T00:20:58.781226"
+title = "HB07675"
+longTitle = "AN ACT ESTABLISHING A COLD STORAGE FACILITY IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1996-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+coAuthors = [ "ORTEGA, VICTOR F.",]
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, VICTOR F."
+nameCode = "Ortega"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-08-07"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114096
+congress = 10
+bill_no = "HB07675"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1996-08-07"

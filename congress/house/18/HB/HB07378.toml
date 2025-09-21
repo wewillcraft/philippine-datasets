@@ -1,0 +1,47 @@
+billNumber = "HB07378"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB07378"
+lastScraped = "2025-09-22T00:01:46.481144"
+title = "HB07378"
+longTitle = "AN ACT REGULATING CREMATORIES \r\n"
+scope = "National"
+dateFiled = "2020-08-13"
+status = "Pending with the Committee on HEALTH since 2020-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB07378.pdf"
+fileSize = 2803349
+author = "Villa, Jake Vincent"
+[[authorsDetail]]
+name = "Villa, Jake Vincent"
+nameCode = "Villa"
+date = "2020-08-13"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2020-08-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 26785
+congress = 18
+bill_no = "HB07378"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-09-15"
+date_read = "2020-08-24"

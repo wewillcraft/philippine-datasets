@@ -1,0 +1,54 @@
+billNumber = "HB02150"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02150"
+lastScraped = "2025-09-22T00:20:57.754519"
+title = "HB02150"
+longTitle = "AN ACT ESTABLISHING REGIONAL BRANCHES OF THE 'SANDIGANBAYAN' IN THE VISAYAS AND MINDANAO, AND PROVIDING FOR TERRITORIAL JURISDICTION OF EACH DIVISION, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED SIXTEEN HUNDRED AND SIX"
+scope = "Local"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on JUSTICE since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108571
+congress = 10
+bill_no = "HB02150"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-15"

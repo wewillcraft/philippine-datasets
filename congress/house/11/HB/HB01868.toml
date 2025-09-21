@@ -1,0 +1,71 @@
+billNumber = "HB01868"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01868"
+lastScraped = "2025-09-22T00:23:15.835709"
+title = "HB01868"
+longTitle = "AN ACT INCREASING THE AUTHORIZED BED CAPACITY OF THE AMANG RODRIGUEZ MEDICAL CENTER TO THREE HUNDRED BEDS"
+scope = "Local"
+dateFiled = "1998-08-06"
+status = "Approved by the House on 1999-09-22, transmitted to on 1999-09-23 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-08-12"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 93309
+congress = 11
+bill_no = "HB01868"
+report = "00445"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "approval with amendments"
+date_read = "1998-08-12"
+date_ob = "1999-09-07"
+date_report = "1999-09-06"
+
+[secondReading]
+id = 16362
+congress = 11
+bill_no = "HB01868"
+remarks = "Considered the Explanatory Note as the sponsorship speech."
+date_approved = "1999-09-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3634
+congress = 11
+bill_no = "HB01868"
+date_dist = "1999-09-13"
+date_adopt = "1999-09-22"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1999-09-23"
+date_rec = "1999-09-27"

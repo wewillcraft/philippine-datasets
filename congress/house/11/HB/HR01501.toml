@@ -1,0 +1,46 @@
+billNumber = "HR01501"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01501"
+lastScraped = "2025-09-22T00:23:18.230766"
+title = "HR01501"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT TO INVESTIGATE, IN AID OF LEGISLATION, ANOMALOUS CASES INVOLVING THE DISPOSITION OF FORECLOSED PROPERTIES BY THE NATIONAL HOME MORTGAGE AND FINANCE CORPORATION (NHMFC)"
+scope = "National"
+dateFiled = "2000-04-06"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 2000-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "2000-05-08"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 105957
+congress = 11
+bill_no = "HR01501"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "2000-05-08"

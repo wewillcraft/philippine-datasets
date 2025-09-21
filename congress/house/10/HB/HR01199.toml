@@ -1,0 +1,51 @@
+billNumber = "HR01199"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01199"
+lastScraped = "2025-09-22T00:20:59.657119"
+title = "HR01199"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEES ON FOREIGN AFFAIRS, LABOR AND EMPLOYMENT, JUSTICE AND THE SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE MYSTERIOUS DEATHAND APPARENT MUTILATION OF FILIPINA DOMESTIC WORKER JAHALIA SAHID IN KUWAIT WITH THE END IN VIEW OF RECOMMENDING APPROPRIATE COURSES OF ACTION BY THE PHILIPPINE GOVERNMENT AND PROPOSING NECESSARY LEGISLATION TO PROTECT OVERSEAS FILIPINO WORKERS"
+scope = "Local"
+dateFiled = "1997-05-04"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-05-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 118253
+congress = 10
+bill_no = "HR01199"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-05-08"

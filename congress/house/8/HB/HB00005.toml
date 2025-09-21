@@ -1,0 +1,43 @@
+billNumber = "HB00005"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00005"
+lastScraped = "2025-09-22T00:46:56.532782"
+title = "HB00005"
+longTitle = "AN ACT FIXING THE MINIMUM MONTHLY SALARY OF PUBLIC ELEMENTARY AND SECONDARY SCHOOL TEACHERS AT NOT LESS THAN THREE THOUSAND PESOS AND PROVIDING FOR THE PAYMENT OF A 13-MONTH PAY"
+scope = "National"
+dateFiled = "1987-07-23"
+status = "Pending with the Committee on APPROPRIATIONS since 1987-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1987-07-28"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 134703
+congress = 8
+bill_no = "HB00005"
+comm_act = "CONSOLIDAT ED WITH HB 12362 (CR 201)"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1987-07-28"

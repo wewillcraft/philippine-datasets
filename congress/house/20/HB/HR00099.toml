@@ -1,0 +1,53 @@
+billNumber = "HR00099"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00099"
+lastScraped = "2025-09-21T23:39:49.212958"
+title = "HR00099"
+longTitle = "RESOLUTION URGING THE JOINT CONGRESSIONAL OVERSIGHT COMMITTEE ON SOLO PARENTS TO IMMEDIATELY CONVENE WITH AN END IN VIEW OF DETERMINING INHERENT VULNERABILITIES IN THE IMPLEMENTATION OF REPUBLIC ACT NO. 11861, OTHERWISE KNOWN AS THE \"EXPANDED SOLO PARENTS WELFARE ACT\", AND RECOMMENDING THE NECESSARY LEGISLATIVE OR EXECUTIVE MEASURES TO IMPROVE ITS IMPLEMENTATION"
+dateFiled = "2025-07-31"
+status = "Pending with the Committee on SOCIAL SERVICES since 2025-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00099.pdf"
+fileSize = 107023
+author = "MONTES, IRIS MARIE DEMESA"
+coAuthors = [ "TAN, KEITH MICAH \"Atty. Mike\" D.L.",]
+[[authorsDetail]]
+name = "MONTES, IRIS MARIE DEMESA"
+nameCode = "Montes"
+date = "2025-07-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAN, KEITH MICAH \"Atty. Mike\" D.L."
+nameCode = "Tan (K. M. D.L.)"
+date = "2025-08-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2025-08-04"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 4655
+congress = 103
+bill_no = "HR00099"
+report = ""
+comm_act = ""
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-04"

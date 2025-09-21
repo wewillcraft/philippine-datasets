@@ -1,0 +1,59 @@
+billNumber = "HB09890"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB09890"
+lastScraped = "2025-09-22T00:01:47.077456"
+title = "HB09890"
+longTitle = "AN ACT TO PROVIDE FOR AN INTEGRATED VACCINE STATUS RECORDING AND CERTIFICATION SYSTEM WHICH SHALL FUNCTION AS A VACCINE PASSPORT"
+scope = "National"
+dateFiled = "2021-07-28"
+status = "Pending with the Committee on HEALTH since 2021-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB09890.pdf"
+fileSize = 354062
+author = "Savellano, Deogracias Victor \"DV\" B."
+coAuthors = [ "GO, ED CHRISTOPHER S.",]
+[[authorsDetail]]
+name = "Savellano, Deogracias Victor \"DV\" B."
+nameCode = "Savellano"
+date = "2021-07-28"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GO, ED CHRISTOPHER S."
+nameCode = "Go (E.C.)"
+date = "2021-08-23"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2021-08-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "secondary"
+referralCode = "E504"
+
+[firstReading]
+id = 29295
+congress = 18
+bill_no = "HB09890"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-08-04"

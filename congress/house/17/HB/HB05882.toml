@@ -1,0 +1,61 @@
+billNumber = "HB05882"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05882"
+lastScraped = "2025-09-21T23:55:45.268599"
+title = "HB05882"
+longTitle = "AN ACT AMENDING REPUBLIC ACT 9593, KNOWN AS THE \\\"TOURISM ACT OF 2009\\\", REDIRECTING TIEZA'S FISCAL CONTRIBUTION TO CHED TO CREATE THE NATIONAL TOURISM TRAINING AND MANPOWER PROGRAM"
+scope = "National"
+dateFiled = "2017-06-15"
+status = "Pending with the Committee on TOURISM since 2017-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05882.pdf"
+fileSize = 634522
+author = "Gomez, Lucy T."
+coAuthors = [ "NIETO, YUL SERVO", "ALVAREZ, PANTALEON D.",]
+[[authorsDetail]]
+name = "Gomez, Lucy T."
+nameCode = "Gomez"
+date = "2017-06-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-08-23"
+journalNo = "J014"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ALVAREZ, PANTALEON D."
+nameCode = "Alvarez (P.)"
+date = "2017-12-04"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2017-07-25"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 39350
+congress = 17
+bill_no = "HB05882"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-25"

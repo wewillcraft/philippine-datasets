@@ -1,0 +1,42 @@
+billNumber = "HB08405"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08405"
+lastScraped = "2025-09-22T00:46:58.088773"
+title = "HB08405"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF PONDOL, MUNICIPALITY OF BALAMBAN, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-04-28"
+status = "Pending with the Committee on HEALTH since 1988-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 143083
+congress = 8
+bill_no = "HB08405"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-03"

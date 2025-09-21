@@ -1,0 +1,67 @@
+billNumber = "HB05250"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB05250"
+lastScraped = "2025-09-21T23:55:20.997440"
+title = "HB05250"
+longTitle = "AN ACT INSTITUTIONALIZING ACTIVE TRANSPORT BY ESTABLISHING A SAFE\r\nPATHWAYS NETWORK OF BICYCLE LANES, WALKWAYS AND SLOW\r\nSTREETS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-09-28"
+status = "Pending with the Committee on TRANSPORTATION since 2023-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB05250.pdf"
+fileSize = 530340
+author = "BARONDA, JULIENNE \"JAM\" L."
+coAuthors = [ "ESPARES, FELIMON M.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "BARONDA, JULIENNE \"JAM\" L."
+nameCode = "Baronda"
+date = "2022-09-28"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPARES, FELIMON M."
+nameCode = "Espares"
+date = "2023-08-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-03-06"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2022-11-07"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "SUSTAINABLE DEVELOPMENT GOALS"
+type = "secondary"
+referralCode = "I501"
+
+[firstReading]
+id = 10169
+congress = 19
+bill_no = "HB05250"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-03-01"
+date_read = "2022-11-07"

@@ -1,0 +1,64 @@
+billNumber = "HR00221"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00221"
+lastScraped = "2025-09-22T00:25:57.407165"
+title = "HR00221"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON LABOR AND EMPLOYMENT AND FOREIGN AFFAIRS TO HOLD A JOINT INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED EXORBITANT FEES BEING CHARGED AGAINST FILIPINO JOB APPLICANTS FOR TAIWAN BY THE MANILA ECONOMIC ANDCULTURAL OFFICE AND SEVERAL LICENSED RECRUITMENT AGENCIES"
+scope = "National"
+dateFiled = "1992-10-01"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1992-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "DY, FAUSTINO JR. S.", "RESPICIO, SANTIAGO P.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1992-10-06"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 133533
+congress = 9
+bill_no = "HR00221"
+report = "00768"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = "LABOR AND EMPLOYMENT"
+date_read = "1992-10-06"
+date_report = "1994-06-02"

@@ -1,0 +1,69 @@
+billNumber = "HB03888"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03888"
+lastScraped = "2025-09-22T00:13:00.500114"
+title = "HB03888"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A PUBLIC RESTROOMS IN DESIGNATED AREAS IN THE CITIES AND TOWNS OF THE COUNTRY AS WELL AS ALONG THE NATIONAL HIGHWAYS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-11-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "NIEVA, ERNESTO A.", "CUENCO, ANTONIO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NIEVA, ERNESTO A."
+nameCode = "Nieva"
+date = ""
+journalNo = "J038"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J044"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J055"
+sessionNo = "2RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87048
+congress = 12
+bill_no = "HB03888"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-11-26"

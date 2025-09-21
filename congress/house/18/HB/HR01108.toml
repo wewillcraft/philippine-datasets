@@ -1,0 +1,60 @@
+billNumber = "HR01108"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01108"
+lastScraped = "2025-09-22T00:01:47.541695"
+title = "HR01108"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BASIC EDUCATION AND CULTURE AND THE COMMITTEE ON HIGHER AND TECHNICAL EDUCATION, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE QUESTIONABLE TUITION RATES AND OTHER FEES BEING IMPOSED BY SOME PRIVATE SCHOOLS IN THE PRIMARY, SECONDARY AND TERTIARY EDUCATION LEVELS DESPITE THE TRANSITION TO ONLINE LEARNING PLATFORMS DUE TO THE COVID19 PANDEMIC"
+scope = "National"
+dateFiled = "2020-08-04"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2020-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01108.pdf"
+fileSize = 1126401
+author = "Pineda, Enrico A."
+coAuthors = [ "ZUBIRI, MANUEL ANTONIO F.",]
+[[authorsDetail]]
+name = "Pineda, Enrico A."
+nameCode = "Pineda"
+date = "2020-08-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ZUBIRI, MANUEL ANTONIO F."
+nameCode = "Zubiri"
+date = "2021-05-19"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2020-08-10"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "secondary"
+referralCode = "C502"
+
+[firstReading]
+id = 31427
+congress = 18
+bill_no = "HR01108"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-09-15"
+date_read = "2020-08-10"

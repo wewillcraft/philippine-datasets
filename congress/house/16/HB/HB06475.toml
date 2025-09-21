@@ -1,0 +1,82 @@
+billNumber = "HB06475"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06475"
+lastScraped = "2025-09-21T23:56:22.777339"
+title = "Mandating The Construction Of The Quezon - Bicol Expressway ( Qu Bex)"
+longTitle = "AN ACT MANDATING THE CONSTRUCTION OF THE QUEZON - BICOL EXPRESSWAY (QuBEx)"
+scope = "Local"
+dateFiled = "2016-03-03"
+status = "Pending With Rules (Included in OB on 2016-05-23)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "SUAREZ, ALETA C.",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2016-03-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUAREZ, ALETA C."
+nameCode = "Suarez"
+date = "2016-03-03"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-05-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB05623"
+sequence = 1
+date = "2016-03-03"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB03741"
+sequence = 2
+date = "2016-03-03"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05623"
+sequence = 1
+date = "2016-03-03"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03741"
+sequence = 2
+date = "2016-03-03"
+flag = "S"
+
+[firstReading]
+id = 52289
+congress = 16
+bill_no = "HB06475"
+report = "01044"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "SOUTHERN TAGALOG DEVELOPMENT, APPROPRIATIONS"
+recomm = "approval"
+remarks = ""
+file = "CR01044.pdf"
+date_read = "2016-05-23"
+date_ob = "2016-05-23"
+date_report = "2016-03-03"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR01044.pdf"

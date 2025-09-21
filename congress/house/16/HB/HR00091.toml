@@ -1,0 +1,47 @@
+billNumber = "HR00091"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00091"
+lastScraped = "2025-09-21T23:56:22.813998"
+title = "HR00091"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE RUNWAY MISHAP AT THE DAVAO INTERNATIONAL AIRPORT INVOLVING CEBU PACIFIC FLIGHT 5J971 LAST JUNE 2, 2013"
+scope = "National"
+dateFiled = "2013-07-23"
+status = "Pending with the Committee on TRANSPORTATION since 2013-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00091.pdf"
+fileSize = 144546
+author = "Nograles, Karlo Alexei B."
+[[authorsDetail]]
+name = "Nograles, Karlo Alexei B."
+nameCode = "Nograles"
+date = "2013-07-23"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52490
+congress = 16
+bill_no = "HR00091"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-19"
+date_read = "2013-07-31"

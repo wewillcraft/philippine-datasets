@@ -1,0 +1,54 @@
+billNumber = "HB09988"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09988"
+lastScraped = "2025-09-22T00:20:59.284282"
+title = "HB09988"
+longTitle = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 97, OTHERWISE KNOWN AS THE PHILIPPINE MERCHANT MARINE OFFICERS LAW, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-09-25"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1997-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1997-10-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 116409
+congress = 10
+bill_no = "HB09988"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1997-10-01"

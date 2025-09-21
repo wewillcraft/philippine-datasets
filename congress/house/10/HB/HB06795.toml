@@ -1,0 +1,78 @@
+billNumber = "HB06795"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06795"
+lastScraped = "2025-09-22T00:20:58.620401"
+title = "HB06795"
+longTitle = "AN ACT TO ESTABLISH THE CORDILLERA REGIONAL SCIENCE HIGH SCHOOL AT LA TRINIDAD, BENGUET, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-04-11"
+status = "REPUBLIC ACT RA08376 (Lapsed into law on 1997-11-13)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cosalan, Ronald M."
+[[authorsDetail]]
+name = "Cosalan, Ronald M."
+nameCode = "Cosalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[motherBills]]
+bill_no = "HB01512"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01512"
+flag = "S"
+
+[firstReading]
+id = 113216
+congress = 10
+bill_no = "HB06795"
+report = "00350"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1996-04-30"
+date_ob = "1996-04-30"
+date_report = "1996-04-11"
+
+[secondReading]
+id = 18406
+congress = 10
+bill_no = "HB06795"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3004
+congress = 10
+bill_no = "HB06795"
+date_dist = "1996-05-15"
+date_adopt = "1996-05-20"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-05-20"
+date_rec = "1996-05-28"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-10-09"
+dte_actedp = "1997-11-13"

@@ -1,0 +1,41 @@
+billNumber = "HR00372"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00372"
+lastScraped = "2025-09-22T00:20:59.492012"
+title = "HR00372"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON REVISION OF LAWS TO UNDERTAKE A REVIEW OF THE LAWS WHICH HAVE BECOME OBSOLETE AND UNREALISTIC, AND THOSE WHOSE IMPLEMENTATION IS PERCEIVED TO BE ARBITRARY, BURDENSOME AND HARSH AND TO RECOMMEND THE REPEAL OR AMENDMENT OF THESE LAWS"
+scope = "National"
+dateFiled = "1995-12-12"
+status = "Pending with the Committee on REVISION OF LAWS since 1995-12-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-12-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117426
+congress = 10
+bill_no = "HR00372"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1995-12-18"

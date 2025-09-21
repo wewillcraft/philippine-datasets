@@ -1,0 +1,54 @@
+billNumber = "HR01231"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01231"
+lastScraped = "2025-09-22T00:20:59.662327"
+title = "HR01231"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON EDUCATION AND CULTURE AND THE COMMITTEE ON GOOD GOVERNMENT TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PROPOSAL TO LEASE ABOUT 98.5 HECTARES OF THE UP CAMPUS TO LAND DEVELOPERS"
+scope = "Local"
+dateFiled = "1997-05-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-06-02"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 118285
+congress = 10
+bill_no = "HR01231"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-06-02"

@@ -1,0 +1,50 @@
+billNumber = "HB04549"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04549"
+lastScraped = "2025-09-22T00:46:57.353832"
+title = "HB04549"
+longTitle = "AN ACT GRANTING CERTAIN PRIVILEGES AND BENEFITS TO SENIOR CITIZENS"
+scope = "National"
+dateFiled = "1987-12-10"
+status = "Pending with the Committee on FAMILY RELATIONS AND POPULATION since 1987-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "ROA, BENEDICTA B.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FAMILY RELATIONS AND POPULATION"
+type = "primary"
+referralCode = "512"
+dateRead = "1987-12-16"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 139233
+congress = 8
+bill_no = "HB04549"
+referral = "512"
+ref_name = "FAMILY RELATIONS AND POPULATION"
+sub_name = ""
+date_read = "1987-12-16"

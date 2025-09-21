@@ -1,0 +1,42 @@
+billNumber = "HB00913"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00913"
+lastScraped = "2025-09-22T00:46:56.725281"
+title = "HB00913"
+longTitle = "AN ACT ESTABLISHING AND INSTALLING A TELEPHONE SYSTEM IN THE MUNICIPALITY OF BONGAO, PROVINCE OF TAWI-TAWI, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1987-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bandon"
+[[authorsDetail]]
+name = "Bandon"
+nameCode = "Bandon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1987-09-02"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 135610
+congress = 8
+bill_no = "HB00913"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1987-09-02"

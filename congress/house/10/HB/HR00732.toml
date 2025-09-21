@@ -1,0 +1,47 @@
+billNumber = "HR00732"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00732"
+lastScraped = "2025-09-22T00:20:59.563089"
+title = "HR00732"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON FOREIGN AFFAIRS TO CONDUCT, IN AID OF LEGISLATION AND AS A MATTER OF STATE POLICY, A FOREIGN POLICY REVIEW OF CURRENT PHILIPPINES-BUR MA RELATIONS, SPECIFICALLY WITHIN THE CONTEXT OF A 'DEMOCRATIC CONSTRUCTIVE ENGAGEMENT POLICY'"
+scope = "National"
+dateFiled = "1996-07-26"
+status = "Pending with the Committee on RULES since 1996-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-30"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 117786
+congress = 10
+bill_no = "HR00732"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Foreign Affairs on Oct. 17, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-30"

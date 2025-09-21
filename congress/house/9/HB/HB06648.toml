@@ -1,0 +1,42 @@
+billNumber = "HB06648"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06648"
+lastScraped = "2025-09-22T00:25:55.824119"
+title = "HB06648"
+longTitle = "AN ACT CREATING THE POSTHARVEST DEVELOPMENT FUND, OTHERWISE KNOWN AS THE INGAT-ANI FUND, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-01-26"
+status = "Pending with the Committee on APPROPRIATIONS since 1993-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1993-02-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 125267
+congress = 9
+bill_no = "HB06648"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1993-02-01"

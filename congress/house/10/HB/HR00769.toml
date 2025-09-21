@@ -1,0 +1,57 @@
+billNumber = "HR00769"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00769"
+lastScraped = "2025-09-22T00:20:59.569985"
+title = "HR00769"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INQUIRY, IN AID OF LEGISLATION, INTO THE DEATH/MURDER OF ELIZA SALEM, A DOMESTIC HELPER IN AMMAN, JORDAN, WHO OBVIOUSLY DIED BECAUSE OF SEVERE TORTURE AND BEATINGS"
+scope = "Local"
+dateFiled = "1996-08-06"
+status = "Pending with the Committee on RULES since 1996-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 117823
+congress = 10
+bill_no = "HR00769"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Labor and Employment , on Foreign Affai"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-08"

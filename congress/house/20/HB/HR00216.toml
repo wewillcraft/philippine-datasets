@@ -1,0 +1,56 @@
+billNumber = "HR00216"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00216"
+lastScraped = "2025-09-21T23:39:49.231729"
+title = "HR00216"
+longTitle = "A RESOLUTION DIRECTING THE CONGRESSIONAL INFRASTRUCTURE COMMITTEE (INFRACOM) TO INCLUDE IN THE ONGOING INVESTIGATION  IN AID OF LEGISLATION, ALL DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS (DPWH) FLOOD CONTROL PROJECTS IN LAS PIÑAS FROM 2022 TO 2025"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00216.pdf"
+fileSize = 71259
+author = "SANTOS, MARK ANTHONY"
+[[authorsDetail]]
+name = "SANTOS, MARK ANTHONY"
+nameCode = "Santos (M.A.)"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-09-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4772
+congress = 103
+bill_no = "HR00216"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-03"

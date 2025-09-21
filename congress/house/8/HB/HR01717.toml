@@ -1,0 +1,42 @@
+billNumber = "HR01717"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01717"
+lastScraped = "2025-09-22T00:47:02.871816"
+title = "HR01717"
+longTitle = "RESOLUTION MODIFYING THE RULES ON SECOND READING OF A BILL, AMENDING FOR THIS PURPOSE SECTIONS 71 AND 72, RULE XIV OF THE RULES OF THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1990-03-29"
+status = "Pending with the Committee on RULES since 1990-03-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Maskarino"
+[[authorsDetail]]
+name = "Maskarino"
+nameCode = "Maskarino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1990-03-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171559
+congress = 8
+bill_no = "HR01717"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1990-03-29"

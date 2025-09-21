@@ -1,0 +1,104 @@
+billNumber = "HR00991"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00991"
+lastScraped = "2025-09-22T00:20:59.613426"
+title = "HR00991"
+longTitle = "RESOLUTION CONGRATULATING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, FOR THE UNPRECEDENTED SUCCESS OF THE ASIA PACIFIC ECONOMIC COOPERATION (APEC) SUMMIT HELD IN THE PHILIPPINES FROM NOVEMBER 22-26, 1996"
+scope = "Local"
+dateFiled = "1996-12-02"
+status = "Adopted as Resolution No. HR00084 on 1996-12-02"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "DAZA, RAUL A.", "ALBANO, RODOLFO JR. B.", "PEREZ, HERNANDO B.", "DATUMANONG, SIMEON A.", "DEL MAR, RAUL V.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DAZA, RAUL A."
+nameCode = "Daza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DATUMANONG, SIMEON A."
+nameCode = "Datumanong"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00984"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00984"
+flag = "S"
+
+[firstReading]
+id = 118045
+congress = 10
+bill_no = "HR00991"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-02"
+
+[secondReading]
+id = 19010
+congress = 10
+bill_no = "HR00991"
+adopted_resolution = "HR00084"
+date_calendared = "1996-12-02"
+date_approved = "1996-12-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00084.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00084.pdf"

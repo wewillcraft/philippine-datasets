@@ -1,0 +1,66 @@
+billNumber = "HR00021"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00021"
+lastScraped = "2025-09-22T00:13:01.145358"
+title = "Congratulating Manny Pacquiao for Winning the Super Bantamweight Title in Las Vegas, Nevada on June 24, 2001"
+longTitle = "RESOLUTION COMMENDING AND CONGRATULATING MANNY PACQUIAO FOR WINNING THE SUPER BANTAMWEIGHT TITLE DURING THE INTERNATIONAL BOXING FEDERATION CHAMPIONSHIP BOUT HELD IN LAS VEGAS, NEVADA ON JUNE 24, 2001"
+scope = "Local"
+dateFiled = "2001-07-04"
+status = "Adopted as Resolution No. HR00005 on 2001-07-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino-Custodio, Darlene R."
+[[authorsDetail]]
+name = "Antonino-Custodio, Darlene R."
+nameCode = "Antonino-custodio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00029"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00029"
+flag = "S"
+
+[firstReading]
+id = 89960
+congress = 12
+bill_no = "HR00021"
+report = "00001"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendments ."
+date_read = "2001-07-24"
+date_ob = "2001-07-24"
+date_report = "2001-07-24"
+
+[secondReading]
+id = 14918
+congress = 12
+bill_no = "HR00021"
+adopted_resolution = "HR00005"
+date_calendared = "2001-07-24"
+date_approved = "2001-07-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR0005.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR0005.pdf"

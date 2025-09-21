@@ -1,0 +1,57 @@
+billNumber = "HR01070"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01070"
+lastScraped = "2025-09-22T00:20:59.632936"
+title = "HR01070"
+longTitle = "RESOLUTION URGING THE PRESIDENT OF THE REPUBLIC OF THE PHILIPPINES, HIS EXCELLENCY FIDEL V. RAMOS, TO EXTEND THE SIXTY (60)-DAY SUSPENSION OF MILITARY OPERATIONS AGAINST THE CPP/NPA/NDF FOR ANOTHER NINETY (90) DAYS"
+scope = "National"
+dateFiled = "1997-01-31"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap, Jose V."
+coAuthors = [ "ERMITA, EDUARDO R.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Yap, Jose V."
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ERMITA, EDUARDO R."
+nameCode = "Ermita"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-02-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118124
+congress = 10
+bill_no = "HR01070"
+comm_act = "Change of Referal from the Ctte. on Public Order and Security to the Ctte. on Peace Process and Inte"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-02-05"

@@ -1,0 +1,47 @@
+billNumber = "HB03616"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03616"
+lastScraped = "2025-09-22T00:25:55.235299"
+title = "HB03616"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE QUIRINO MEMORIAL MEDICAL CENTER IN QUEZON CITY, FROM TWO HUNDRED FIFTY (250) TO THREE HUNDRED (300) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on HEALTH since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roldan"
+[[authorsDetail]]
+name = "Roldan"
+nameCode = "Roldan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122235
+congress = 9
+bill_no = "HB03616"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-10-15"

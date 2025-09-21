@@ -1,0 +1,42 @@
+billNumber = "HR00309"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00309"
+lastScraped = "2025-09-22T00:47:02.587158"
+title = "HR00309"
+longTitle = "RESOLUTION URGING THE COMMITTEES ON NATIONAL DEFENSE AND HOUSING OF THE HOUSE OF REPRESENTATIVES TOSTUDY THE IMMEDIACY OF RELOCATING MILITARY CAMPS,RESERVATI ONS AND OTHER INSTALLATIONS FROM METROPOLITAN MANILA TO OTHER SUITABLE PLACES AND CONVERTING THESE AREAS INTO HOUSING PROJECTS FOR THE MILITARY AND POLICE OFFICERS AND OTHER LOW-SALARIED GOVERNMENT PERSONNEL"
+scope = "Local"
+dateFiled = "1987-09-14"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-09-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-09-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170209
+congress = 8
+bill_no = "HR00309"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-09-16"

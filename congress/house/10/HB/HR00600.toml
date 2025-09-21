@@ -1,0 +1,49 @@
+billNumber = "HR00600"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00600"
+lastScraped = "2025-09-22T00:20:59.535410"
+title = "HR00600"
+longTitle = "RESOLUTION DIRECTING THE SPECIAL COMMITTEE ON REFORESTATION TO MONITOR THE STATUS OF THE INTEGRATED FORESTRY MANAGEMENT AGREEMENT (IFMA) CONTRACTS INCLUDING THE EVALUATION OF EXISTING POLICIES AND GUIDELINES RELATIVE TO IFMA, IDENTIFY PROBLEM AREASAND RECOMMEND TO CONGRESS POSSIBLE LEGISLATIVE PROPOSALS TO ENHANCE, STRENGTHEN AND COMPLEMENT EXISTING FORESTRY LAWS AND PROGRAMS"
+scope = "National"
+dateFiled = "1996-05-08"
+status = "Pending with the Committee on REFORESTATION (SPECIAL CTTE.) since 1996-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REFORESTATION (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B505"
+dateRead = "1996-05-13"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 117654
+congress = 10
+bill_no = "HR00600"
+referral = "B505"
+ref_name = "REFORESTATION (SPECIAL CTTE.)"
+date_read = "1996-05-13"

@@ -1,0 +1,41 @@
+billNumber = "HR01453"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01453"
+lastScraped = "2025-09-22T00:20:59.702172"
+title = "HR01453"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE RATE-SETTING POWERS OF THE ENERGY REGULATORY BOARD (ERB) IN GENERAL, AND OF THE CAGAYAN ELECTRIC POWER AND LIGHT COMPANY (CEPALCO) IN PARTICULAR"
+scope = "Local"
+dateFiled = "1997-12-03"
+status = "Pending with the Committee on ENERGY since 1997-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sandoval"
+[[authorsDetail]]
+name = "Sandoval"
+nameCode = "Sandoval"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-12-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118507
+congress = 10
+bill_no = "HR01453"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-12-08"

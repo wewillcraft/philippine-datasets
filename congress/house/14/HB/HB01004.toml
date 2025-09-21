@@ -1,0 +1,51 @@
+billNumber = "HB01004"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB01004"
+lastScraped = "2025-09-22T00:15:37.924877"
+title = "HB01004"
+longTitle = "AN ACT ESTABLISHING A FRONTLINE OFFICE OF THE NATIONAL BUREAU OF INVESTIGATION IN MAASIN CITY, SOUTHERN LEYTE AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "2007-07-10"
+status = "Pending with the Committee on JUSTICE since 2007-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2007-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 66975
+congress = 14
+bill_no = "HB01004"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2007-08-01"

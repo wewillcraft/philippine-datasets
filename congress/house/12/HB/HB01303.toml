@@ -1,0 +1,84 @@
+billNumber = "HB01303"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01303"
+lastScraped = "2025-09-22T00:13:00.038904"
+title = "HB01303"
+longTitle = "AN ACT AMENDING SECTIONS 61, 62, 63 AND 65 OF REPUBLIC ACT NO. 6975 PLACING FOR THE PURPOSE THE PROVINCIAL JAILS UNDER THE JURISDICTION OF THE BUREAU OF JAIL MANAGEMENT AND PENOLOGY (BJMP) APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pingoy, Arthur Jr. Y."
+coAuthors = [ "MARAÑON, ALFREDO JR. G.", "ZAMORA, MANUEL \"WAY KURAT\" E.", "PUENTEBELLA, MONICO O.", "SYJUCO, AUGUSTO JR. L", "REYES, EDMUNDO JR. O.",]
+[[authorsDetail]]
+name = "Pingoy, Arthur Jr. Y."
+nameCode = "Pingoy"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MARAÑON, ALFREDO JR. G."
+nameCode = "Marañon"
+date = ""
+journalNo = "J024"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZAMORA, MANUEL \"WAY KURAT\" E."
+nameCode = "Zamora"
+date = ""
+journalNo = "J071"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PUENTEBELLA, MONICO O."
+nameCode = "Puentebella"
+date = ""
+journalNo = "J072"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J012"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "REYES, EDMUNDO JR. O."
+nameCode = "Reyes"
+date = ""
+journalNo = "J019"
+sessionNo = "3RS"
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84463
+congress = 12
+bill_no = "HB01303"
+comm_act = "change of cttee. ref'l from J.5; p.30 (July 31,2001)"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2001-07-30"

@@ -1,0 +1,56 @@
+billNumber = "HB02901"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02901"
+lastScraped = "2025-09-22T00:13:00.331361"
+title = "HB02901"
+longTitle = "AN ACT DECRIMINALIZING CERTAIN OFFENSES IN THE REVISED PENAL CODE"
+scope = "National"
+dateFiled = "2001-09-05"
+status = "Pending with the Committee on JUSTICE since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 86061
+congress = 12
+bill_no = "HB02901"
+comm_act = "chnge of cttee. ref'l fr. Rev. of Laws  as per J.69;p.69( May 5-7,2003)"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-09-25"

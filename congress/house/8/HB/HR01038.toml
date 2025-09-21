@@ -1,0 +1,42 @@
+billNumber = "HR01038"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01038"
+lastScraped = "2025-09-22T00:47:02.737112"
+title = "HR01038"
+longTitle = "RESOLUTION DIRECTING COMMITTEE ON BANKING AND FINANCE TO MAKE AN INQUIRY IN AID OF LEGISLATION ON THE INFLUX OF FUNNY MONEY IN OUR MONETARY SYSTEM WHICH DECREASES THE BUYING POWER OF THE PESO"
+scope = "National"
+dateFiled = "1988-11-29"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1988-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1988-12-05"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 170914
+congress = 8
+bill_no = "HR01038"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1988-12-05"

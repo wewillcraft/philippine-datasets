@@ -1,0 +1,71 @@
+billNumber = "HB05293"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05293"
+lastScraped = "2025-09-22T00:20:58.346796"
+title = "HB05293"
+longTitle = "AN ACT CREATING THE MAYSAN MUNICIPAL HIGH SCHOOL IN VALENZUELA, METRO MANILA, BY SEPARATING THE MAYSAN ANNEX FROM THE VALENZUELA MUNICIPAL HIGH SCHOOL, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-23"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Serapio"
+[[authorsDetail]]
+name = "Serapio"
+nameCode = "Serapio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111714
+congress = 10
+bill_no = "HB05293"
+report = "01047"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-11-29"
+date_ob = "1997-09-02"
+date_report = "1997-09-01"
+
+[secondReading]
+id = 18191
+congress = 10
+bill_no = "HB05293"
+remarks = "Considered thee Explantory Note as the Sponsorship Speech"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2798
+congress = 10
+bill_no = "HB05293"
+date_dist = "1997-09-29"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"
+amend_ind = "N"

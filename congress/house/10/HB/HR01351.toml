@@ -1,0 +1,56 @@
+billNumber = "HR01351"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01351"
+lastScraped = "2025-09-22T00:20:59.684490"
+title = "HR01351"
+longTitle = "RESOLUTION EXPRESSING THE FULL SUPPORT AND ENDORSEMENT OF THE HOUSE OF REPRESENTATIVES ON THE ESTABLISHMENT OF AN INTERNATIONAL CRIMINAL COURT"
+scope = "National"
+dateFiled = "1997-08-26"
+status = "Pending with the Committee on RULES since 1997-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lacson, Jose Carlos V."
+coAuthors = [ "DEL MAR, RAUL V.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Lacson, Jose Carlos V."
+nameCode = "Lacson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-08-28"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 118405
+congress = 10
+bill_no = "HR01351"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-08-28"

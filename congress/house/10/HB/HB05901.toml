@@ -1,0 +1,75 @@
+billNumber = "HB05901"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05901"
+lastScraped = "2025-09-22T00:20:58.458524"
+title = "HB05901"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY TALINGTING, MUNICIPALITY OF CARLES, PROVINCE OF ILOILO, TO BE KNOWN AS THE TALINGTING NATIONAL HIGH SCHOOL, AND APPROPRIATING FUDNS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "REPUBLIC ACT RA08360 (Lapsed into law on 1997-10-09)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112322
+congress = 10
+bill_no = "HB05901"
+report = "00566"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-01-29"
+date_ob = "1996-09-12"
+date_report = "1996-09-11"
+
+[secondReading]
+id = 18270
+congress = 10
+bill_no = "HB05901"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-09-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2872
+congress = 10
+bill_no = "HB05901"
+date_dist = "1996-09-23"
+date_adopt = "1996-09-26"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-09-26"
+date_rec = "1996-10-03"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-09-04"
+dte_actedp = "1997-10-09"

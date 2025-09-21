@@ -1,0 +1,61 @@
+billNumber = "HB05094"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05094"
+lastScraped = "2025-09-22T00:20:58.312127"
+title = "HB05094"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL MUSEUM ON WOMEN AND PROVIDING FOR ITS PERMANENT HOME"
+scope = "National"
+dateFiled = "1995-11-15"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "LIBAN, DANTE V.", "LUCIANO, LEONOR INES",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUCIANO, LEONOR INES"
+nameCode = "Luciano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 111515
+congress = 10
+bill_no = "HB05094"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-11-20"

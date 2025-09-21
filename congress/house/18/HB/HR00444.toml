@@ -1,0 +1,55 @@
+billNumber = "HR00444"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00444"
+lastScraped = "2025-09-22T00:01:47.421148"
+title = "HR00444"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE STATUS OF ACCEPTANCE OF NEW APPLICATIONS FOR TRANSPORT NETWORK COMPANY ACCREDITATION FOR TRANSPORTATION NETWORK VEHICLE SERVICES"
+scope = "National"
+dateFiled = "2019-10-17"
+status = "Pending with the Committee on TRANSPORTATION since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00444.pdf"
+fileSize = 272873
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "ALONTE-NAGUIAT, LEN B.",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2019-10-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2020-01-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-11-04"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[firstReading]
+id = 30772
+congress = 18
+bill_no = "HR00444"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-11-04"

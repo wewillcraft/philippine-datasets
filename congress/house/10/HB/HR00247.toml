@@ -1,0 +1,62 @@
+billNumber = "HR00247"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00247"
+lastScraped = "2025-09-22T00:20:59.469296"
+title = "HR00247"
+longTitle = "RESOLUTION ENDORSING PHILIPPINE PARTICIPATION IN THE FIRST BIMP-EAGA TRADE EXPOSITION IN BRUNEI DARUSSALAM"
+scope = "National"
+dateFiled = "1995-10-05"
+status = "Adopted as Resolution No. HR00073 on 1996-09-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B511"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117301
+congress = 10
+bill_no = "HR00247"
+report = "00140"
+referral = "B511"
+ref_name = "EAST ASEAN GROWTH AREA (SPECIAL CTTE.)"
+recomm = "Adoption"
+date_read = "1995-10-23"
+date_ob = "1996-01-22"
+date_unass = "1996-01-30"
+date_report = "1996-01-16"
+
+[secondReading]
+id = 18943
+congress = 10
+bill_no = "HR00247"
+adopted_resolution = "HR00073"
+reasons = "Trade Exposition had already taken place in 1995."
+remarks = "Reconsidered and Consigned to the Archives on Sept. 11, 1996."
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1996-09-11"
+date_calendared = "1996-09-05"
+date_approved = "1996-09-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00073.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00073.pdf"

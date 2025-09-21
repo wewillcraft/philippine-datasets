@@ -1,0 +1,75 @@
+billNumber = "HB01424"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01424"
+lastScraped = "2025-09-22T00:13:00.061210"
+title = "HB01424"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF MARITIME AFFAIRS PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-25"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2001-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+coAuthors = [ "LACSON, JOSE CARLOS V.", "BADELLES, ALIPIO CIRILO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J006"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = "Badelles"
+date = ""
+journalNo = "J023"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 84584
+congress = 12
+bill_no = "HB01424"
+comm_act = "jt. ref'ls as per J.17; p.15(Aug. 28,2001)"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2001-07-31"

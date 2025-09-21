@@ -1,0 +1,42 @@
+billNumber = "HB04097"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04097"
+lastScraped = "2025-09-22T00:46:57.276431"
+title = "HB04097"
+longTitle = "AN ACT AMENDING SECTION 19, (A-6) SITUS OF TAX RULE OF THE LOCAL TAX CODE"
+scope = "National"
+dateFiled = "1987-11-27"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-12-03"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 138783
+congress = 8
+bill_no = "HB04097"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-12-03"

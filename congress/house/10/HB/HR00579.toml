@@ -1,0 +1,41 @@
+billNumber = "HR00579"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00579"
+lastScraped = "2025-09-22T00:20:59.532184"
+title = "HR00579"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON AGRARIAN REFORM AND NATIONAL CULTURAL COMMUNITIES TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED ENCROACHMENT ON ANCESTRAL LAND DECLARED AS THE B'LAAN RESERVATION IN POLOMOLOK, SOUTH COTABATO, BY EXECUTIVE PROCLAMATION NO. 762 AND ITS SUBSEQUENT ERRONEOUS COVERAGE UNDER THE COMPREHENSIVE AGRARIAN REFORM PROGRAM"
+scope = "Local"
+dateFiled = "1996-04-10"
+status = "Pending with the Committee on RULES since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 117633
+congress = 10
+bill_no = "HR00579"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-04-30"

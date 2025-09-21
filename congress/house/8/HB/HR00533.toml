@@ -1,0 +1,74 @@
+billNumber = "HR00533"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00533"
+lastScraped = "2025-09-22T00:47:02.629647"
+title = "HR00533"
+longTitle = "RESOLUTION REQUESTING THE PHILIPPINE NATIONAL BANK, AS A BODY CORPORATE, TO ESTABLISH A BRANCH AT THE CAPITAL TOWN OF TUBOD, PROVINCE OF LANAO DEL NORTE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-12-14"
+status = "Adopted as Resolution No. HR00030 on 1988-06-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dimaporo"
+coAuthors = [ "BADELLES, MARIANO L.",]
+[[authorsDetail]]
+name = "Dimaporo"
+nameCode = "Dimaporo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BADELLES, MARIANO L."
+nameCode = "Badelles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1987-12-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170421
+congress = 8
+bill_no = "HR00533"
+report = "00125"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = "BANKS AND CURRENCIES"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-12-16"
+date_ob = "1988-04-20"
+date_cal = "1988-04-20"
+date_unass = "1988-04-20"
+
+[secondReading]
+id = 21620
+congress = 8
+bill_no = "HR00533"
+adopted_resolution = "HR00030"
+remarks = "ADOPTED WITH AMENDMENTS"
+date_calendared = "1987-12-16"
+date_approved = "1988-06-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1302
+congress = 8
+bill_no = "HR00533"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0

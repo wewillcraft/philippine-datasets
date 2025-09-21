@@ -1,0 +1,42 @@
+billNumber = "PS00082"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00082"
+lastScraped = "2025-09-22T00:13:49.484709"
+title = "PS00082"
+longTitle = "Apprehension on the Passage of HB3174 -  Sin Taxes"
+scope = "National"
+dateFiled = "2004-11-16"
+status = "Pending with the Committee on WAYS AND MEANS since 2005-01-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Herminio G."
+[[authorsDetail]]
+name = "Teves, Herminio G."
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2005-01-11"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 82877
+congress = 13
+bill_no = "PS00082"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2005-01-11"

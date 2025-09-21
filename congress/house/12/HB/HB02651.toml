@@ -1,0 +1,55 @@
+billNumber = "HB02651"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02651"
+lastScraped = "2025-09-22T00:13:00.274024"
+title = "HB02651"
+longTitle = "AN ACT AUTHORIZING THE USE OF DOMESTIC LETTER OF CREDIT BY NATIONAL GOVERNMENT AGENCIES TO PAY FOR PURCHASES FROM LOCAL SUPPLIERS"
+scope = "National"
+dateFiled = "2001-08-22"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Ruy Elias C."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lopez, Ruy Elias C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-08-28"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 85811
+congress = 12
+bill_no = "HB02651"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-08-28"

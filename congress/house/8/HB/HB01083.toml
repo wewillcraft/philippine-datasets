@@ -1,0 +1,42 @@
+billNumber = "HB01083"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01083"
+lastScraped = "2025-09-22T00:46:56.754850"
+title = "HB01083"
+longTitle = "AN ACT REPEALING EXECUTIVE ORDER NO. 107 ENTITLED\"PROVID ING FOR THE SURRENDER OF LOOSE FIREARMS, AMMUNITION AND EXPLOSIVES, GRANTING BENEFITS THEREFOR, AND FOR OTHER PURPOSES,\" AS AMENDED BY EXECUTIVE ORDER NO. 222"
+scope = "National"
+dateFiled = "1987-09-03"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1987-09-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1987-09-08"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 135780
+congress = 8
+bill_no = "HB01083"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1987-09-08"

@@ -1,0 +1,66 @@
+billNumber = "HB01600"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01600"
+lastScraped = "2025-09-22T00:20:57.648751"
+title = "HB01600"
+longTitle = "AN ACT STRENGTHENING THE PHILIPPINE TOURISM INDUSTRY, CREATING A NATIONAL TOURIST PROMOTIONS COMMISSION, GRANTING INCENTIVES TO TOURISM SECTOR, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on TOURISM since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+coAuthors = [ "LIBAN, DANTE V.", "ANTONIO, PATRICIO T.",]
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ANTONIO, PATRICIO T."
+nameCode = "Antonio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 108021
+congress = 10
+bill_no = "HB01600"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-08-03"

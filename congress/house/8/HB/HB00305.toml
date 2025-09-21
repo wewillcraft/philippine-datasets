@@ -1,0 +1,42 @@
+billNumber = "HB00305"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00305"
+lastScraped = "2025-09-22T00:46:56.612189"
+title = "HB00305"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WATERWORKS SYSTEM IN THE MUNICIPALITY OF PITOGO, PROVINCE OF ZAMBOANGA DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 135002
+congress = 8
+bill_no = "HB00305"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-08-13"

@@ -1,0 +1,41 @@
+billNumber = "HR01530"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01530"
+lastScraped = "2025-09-22T00:20:59.713628"
+title = "HR01530"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ENERGY AND GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED OVERCHARGING OF RATES BY THE MERALCO UPON ITS CONSUMERS, AND TO DETERMINE THE ACTUAL OWNERSHIP OF SAID UTILITY COMPANY"
+scope = "Local"
+dateFiled = "1998-02-18"
+status = "Pending with the Committee on ENERGY since 1998-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1998-02-19"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 118576
+congress = 10
+bill_no = "HR01530"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1998-02-19"

@@ -1,0 +1,42 @@
+billNumber = "HB09302"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09302"
+lastScraped = "2025-09-22T00:25:56.270526"
+title = "HB09302"
+longTitle = "AN ACT CREATING SITIO PUNOL OF BARANGAY SIGAYAN, MUNICIPALITY OF LAMBAYONG, PROVINCE OF SULTAN KUDARAT, INTO BARANGAY PUNOL, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1993-05-25"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-05-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-05-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 127920
+congress = 9
+bill_no = "HB09302"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-05-31"

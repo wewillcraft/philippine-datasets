@@ -1,0 +1,42 @@
+billNumber = "HB00004"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00004"
+lastScraped = "2025-09-22T00:25:54.587083"
+title = "HB00004"
+longTitle = "AN ACT VALIDATING THE CREATION OF THE MUNICIPALITY OF PILAR IN THE PROVINCE OF BOHOL"
+scope = "Local"
+dateFiled = "1992-07-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-07-28"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 118623
+congress = 9
+bill_no = "HB00004"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-07-28"

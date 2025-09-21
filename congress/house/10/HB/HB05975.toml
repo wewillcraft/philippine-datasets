@@ -1,0 +1,46 @@
+billNumber = "HB05975"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05975"
+lastScraped = "2025-09-22T00:20:58.470820"
+title = "HB05975"
+longTitle = "AN ACT CONVERTING THE LANAO DEL NORTE AGRICULTURAL COLLEGE IN THE MUNICIPALITY OF SULTAN NAGA DIMAPORO, PROVINCE OF LANAO DEL NORTE, INTO A POLYTECHNIC COLLEGE TO BE KNOWN AS THE LANAO DEL NORTE POLYTECHNIC COLLEGE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-29"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-01-31"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112396
+congress = 10
+bill_no = "HB05975"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-01-31"

@@ -1,0 +1,41 @@
+billNumber = "HR00046"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00046"
+lastScraped = "2025-09-22T00:20:59.433156"
+title = "HR00046"
+longTitle = "RESOLUTION CONVEYING THE STRONG SENSE OF SUPPORT TO PRESIDENT FIDEL V. RAMOS FOR THE GOVERNMENT'S FAMILY PLANNING PROGRAM AND ENJOINING THE EXECUTIVE BRANCH TO INCLUDE SAID PROGRAM AMONG THE SET OF HIGHLY CRITICAL SOCIAL EXPENDITURES TO BE HENCEFORTH INCLUDED IN THE ANNUAL NATIONAL BUDGET AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-25"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117100
+congress = 10
+bill_no = "HR00046"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+date_read = "1995-07-31"

@@ -1,0 +1,77 @@
+billNumber = "HR01193"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01193"
+lastScraped = "2025-09-22T00:20:59.654968"
+title = "HR01193"
+longTitle = "RESOLUTION DIRECTING THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO PRIORITIZE AND EXPEDITE THE DELIBERATION AND PASSAGE OF ALL LEGISLATIVE MEASURES UPGRADING THE SALARY AND BENEFITS OF PHILIPPINE NATIONAL POLICE PERSONNEL"
+scope = "National"
+dateFiled = "1997-04-30"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-05-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "JOAQUIN, NEREO R.", "DEJON, TEMISTOCLES SR. S.", "LIBAN, DANTE V.", "GORDON, JAMES JR.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GORDON, JAMES JR."
+nameCode = "Gordon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-05-06"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 118247
+congress = 10
+bill_no = "HR01193"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-05-06"

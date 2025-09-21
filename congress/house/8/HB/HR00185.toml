@@ -1,0 +1,42 @@
+billNumber = "HR00185"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00185"
+lastScraped = "2025-09-22T00:47:02.561525"
+title = "HR00185"
+longTitle = "RESOLUTION FOR THE STUDY IN AID OF A PROPOSED LEGISLATION FOR THE CREATION OF A NATIONAL FRUIT AUTHORITY"
+scope = "National"
+dateFiled = "1987-08-21"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170087
+congress = 8
+bill_no = "HR00185"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-08-26"

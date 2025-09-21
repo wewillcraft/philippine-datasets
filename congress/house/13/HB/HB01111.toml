@@ -1,0 +1,81 @@
+billNumber = "HB01111"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01111"
+lastScraped = "2025-09-22T00:13:48.050596"
+title = "Books for the Barrios Act of 2004"
+longTitle = "AN ACT ESTABLISHING THE BOOKS FOR THE BARRIOS PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2004-07-06"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2004-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB01111.pdf"
+fileSize = 24615120
+author = "Villar, Cynthia A."
+coAuthors = [ "CHATTO, EDGARDO M.", "AMIN, HUSSIN U.", "UY, REYNALDO S.", "NOEL, FLORENCIO GABRIEL G.",]
+[[authorsDetail]]
+name = "Villar, Cynthia A."
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHATTO, EDGARDO M."
+nameCode = "Chatto"
+date = ""
+journalNo = "J006"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "UY, REYNALDO S."
+nameCode = "Uy"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NOEL, FLORENCIO GABRIEL G."
+nameCode = "Noel"
+date = ""
+journalNo = "J043"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2004-08-02"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 76201
+congress = 13
+bill_no = "HB01111"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-08-02"
+date_read = "2004-08-02"

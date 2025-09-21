@@ -1,0 +1,42 @@
+billNumber = "HR01827"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01827"
+lastScraped = "2025-09-22T00:47:02.889679"
+title = "HR01827"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO LOOK INTO THE REDUCED CUSTOMS REVENUE INCLUDING DELAYED TARIFF PLAN, IN AID OF LEGISLATION"
+scope = "National"
+dateFiled = "1990-07-25"
+status = "Pending with the Committee on WAYS AND MEANS since 1990-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1990-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171664
+congress = 8
+bill_no = "HR01827"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1990-07-31"

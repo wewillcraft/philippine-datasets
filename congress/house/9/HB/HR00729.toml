@@ -1,0 +1,70 @@
+billNumber = "HR00729"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00729"
+lastScraped = "2025-09-22T00:25:57.499964"
+title = "HR00729"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON PUBLIC ORDER AND SECURITY AND THE COMMITTEE ON CIVIL SERVICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO ALLEGED ABUSE OF DISCRETION AND VIOLATION OF CIVIL SERVICE LAW AND RULES IN THE ONGOING PURGING OF PNPMEN"
+scope = "National"
+dateFiled = "1993-08-16"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1993-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "DY, FAUSTINO JR. S.", "RESPICIO, SANTIAGO P.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1993-08-23"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 134041
+congress = 9
+bill_no = "HR00729"
+comm_act = "Change of referral from the Committee on Rules (J.16,p.8)"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1993-08-23"

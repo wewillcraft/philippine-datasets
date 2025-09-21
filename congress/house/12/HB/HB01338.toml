@@ -1,0 +1,42 @@
+billNumber = "HB01338"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01338"
+lastScraped = "2025-09-22T00:13:00.045939"
+title = "HB01338"
+longTitle = "THE `GREEN' LICENSE ACT OF 2001"
+scope = "National"
+dateFiled = "2001-07-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2001-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LIBANAN, MARCELINO C."
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2001-07-30"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 84498
+congress = 12
+bill_no = "HB01338"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2001-07-30"

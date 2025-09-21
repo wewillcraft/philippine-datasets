@@ -1,0 +1,47 @@
+billNumber = "HB02609"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02609"
+lastScraped = "2025-09-22T00:25:55.061445"
+title = "HB02609"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A FOUR-ROOM (4) PUBLIC ELEMENTARY SCHOOLBUILDING AT SAN JULIAN ELEMENTARY SCHOOL, SAN JULIAN, EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-16"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121228
+congress = 9
+bill_no = "HB02609"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-21"

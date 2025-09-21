@@ -1,0 +1,49 @@
+billNumber = "HB06785"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06785"
+lastScraped = "2025-09-22T00:20:58.618707"
+title = "HB06785"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF SAN JOSE INTO A COMPONENT CITY TO BE KNOWN AS THE CITY OF SAN JOSE, PROVINCE OF OCCIDENTAL MINDORO"
+scope = "Local"
+dateFiled = "1996-04-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 113206
+congress = 10
+bill_no = "HB06785"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-04-29"

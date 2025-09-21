@@ -1,0 +1,48 @@
+billNumber = "HR01090"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01090"
+lastScraped = "2025-09-22T00:25:57.567470"
+title = "HR01090"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON NATIONAL DEFENSE, GOOD GOVERNMENT, LOCAL GOVERNMENT, JUSTICE, AND CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE APPARENT INABILITY OF LOCAL GOVERNMENT EXECUTIVESOF, AND MILITARY OFFICERS DEPLOYED IN BASILAN PROVINCE TO DETER AND/OR STOP THE SPATE OF KIDNAP-FOR-RANS OM AND MASSACRE CASES IN THE PROVINCE, AND FURTHER, LOOK INTO ALLEGATIONS OF A PROVINCIAL GOVERNMENT-CUM- MILITARY CONSPIRACY IN REGARD TO THESECASES"
+scope = "Local"
+dateFiled = "1994-06-16"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tugung"
+[[authorsDetail]]
+name = "Tugung"
+nameCode = "Tugung"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 134397
+congress = 9
+bill_no = "HR01090"
+comm_act = "CHANGE OF REFERRAL FROM THE COMMITTEE ON RULES TO THE COMMITTEES ON NATIONAL DEFENSE AND PUBLIC ORDE"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-07-26"

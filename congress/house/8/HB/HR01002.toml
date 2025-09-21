@@ -1,0 +1,42 @@
+billNumber = "HR01002"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01002"
+lastScraped = "2025-09-22T00:47:02.731147"
+title = "HR01002"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURETO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE DIVERSION BY THE NATIONAL FOOD ADMINISTRATION OF SIX HUNDRED FIFTY MILLION (P650 M) PESOS ORIGINALLY ALLOCATED TO PRICE STABILIZATION OF RICE AND CORN, FOR THE IMPORTATION OF RICE FROM THE UNITED STATES OF AMERICA"
+scope = "National"
+dateFiled = "1988-10-19"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Respicio"
+[[authorsDetail]]
+name = "Respicio"
+nameCode = "Respicio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-10-21"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170879
+congress = 8
+bill_no = "HR01002"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-10-21"

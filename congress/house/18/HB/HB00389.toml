@@ -1,0 +1,68 @@
+billNumber = "HB00389"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB00389"
+lastScraped = "2025-09-22T00:01:45.089457"
+title = "HB00389"
+longTitle = "AN ACT PROVIDING TRAVEL TAX DISCOUNT TO SENIOR CITIZENS AND PERSONS WITH DISABILITIES, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NO. 1183, AS AMENDED"
+scope = "National"
+dateFiled = "2019-07-01"
+status = "Pending with the Committee on TOURISM since 2019-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB00389.pdf"
+fileSize = 874656
+author = "Arroyo, Ma. Lourdes T."
+coAuthors = [ "SUANSING, GING", "SY-ALVARADO, JOSE ANTONIO R.", "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "Arroyo, Ma. Lourdes T."
+nameCode = "Arroyo"
+date = "2019-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2019-08-05"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-09-10"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2021-03-11"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2019-07-23"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 19803
+congress = 18
+bill_no = "HB00389"
+report = ""
+comm_act = ""
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-23"

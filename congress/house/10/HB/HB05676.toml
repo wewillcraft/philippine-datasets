@@ -1,0 +1,46 @@
+billNumber = "HB05676"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05676"
+lastScraped = "2025-09-22T00:20:58.420690"
+title = "HB05676"
+longTitle = "AN ACT PROVIDING FOR THE CEMENTING OF THE ROAD LINKING BARANGAY POBLACION TO LANAS ROAD, BOTH IN THE MUNICIPALITY OF BAROTAC NUEVO, PROVINCE OF ILOILO, AND ALLOCATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-05"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112097
+congress = 10
+bill_no = "HB05676"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-22"

@@ -1,0 +1,47 @@
+billNumber = "HR00880"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00880"
+lastScraped = "2025-09-22T00:20:59.591119"
+title = "HR00880"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGATION OF TELEPHONE SUBSCRIBERS THAT THE PHILIPPINE LONG DISTANCE TELEPHONE COMPANY REFUSES TO INVESTIGATE COMPLAINTS ON UNAUTHORIZED CALLS AND INSTEAD CHARGES THEM FOR SUCH CALLS, AND TO RECOMMEND REMEDIAL LEGISLATION"
+scope = "National"
+dateFiled = "1996-10-01"
+status = "Pending with the Committee on RULES since 1996-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-07"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 117934
+congress = 10
+bill_no = "HR00880"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Transporta tion and Communicat ions on Oc"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-07"

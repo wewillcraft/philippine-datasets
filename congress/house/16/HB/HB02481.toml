@@ -1,0 +1,68 @@
+billNumber = "HB02481"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB02481"
+lastScraped = "2025-09-21T23:56:21.924870"
+title = "HB02481"
+longTitle = "AN ACT TO ENSURE EVERY PREGNANT WOMAN'S ACCESS TO A SKILLED BIRTH ATTENDANT AT THE TIME OF CHILDBIRTH AND IMMEDIATELY THEREAFTER"
+scope = "National"
+dateFiled = "2013-08-15"
+status = "Pending with the Committee on HEALTH since 2013-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB02481.pdf"
+fileSize = 382083
+author = "TEODORO, MARCELINO \"MARCY\" R."
+coAuthors = [ "ALIPING, NICASIO JR. M.", "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "TEODORO, MARCELINO \"MARCY\" R."
+nameCode = "Teodoro"
+date = "2013-08-15"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALIPING, NICASIO JR. M."
+nameCode = "Aliping"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-11-18"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-08-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 48295
+congress = 16
+bill_no = "HB02481"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-08-28"

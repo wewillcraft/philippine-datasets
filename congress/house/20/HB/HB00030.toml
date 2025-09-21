@@ -1,0 +1,68 @@
+billNumber = "HB00030"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00030"
+lastScraped = "2025-09-21T23:39:48.302662"
+title = "HB00030"
+longTitle = "AN ACT REFORMING THE TERTIARY EDUCATION SUBSIDY PROGRAM, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 10931, OTHERWISE KNOWN AS THE “UNIVERSAL ACCESS TO QUALITY TERTIARY EDUCATION ACT”, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-06-30"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00030.pdf"
+fileSize = 205364
+author = "FRESNEDI, JAIME R."
+coAuthors = [ "PLEYTO, SALVADOR A.", "VILLARICA, LINABELLE RUTH R.", "BAUTISTA-LIM, CLAUDINE DIANA D.",]
+[[authorsDetail]]
+name = "FRESNEDI, JAIME R."
+nameCode = "Fresnedi"
+date = "2025-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "PLEYTO, SALVADOR A."
+nameCode = "Pleyto"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLARICA, LINABELLE RUTH R."
+nameCode = "Villarica"
+date = "2025-08-27"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BAUTISTA-LIM, CLAUDINE DIANA D."
+nameCode = "Bautista-Lim"
+date = "2025-09-03"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 31
+congress = 103
+bill_no = "HB00030"
+report = ""
+comm_act = ""
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

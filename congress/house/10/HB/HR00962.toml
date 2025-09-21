@@ -1,0 +1,47 @@
+billNumber = "HR00962"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00962"
+lastScraped = "2025-09-22T00:20:59.607002"
+title = "HR00962"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE INQUIRY ON THE LONG STANDING ISSUE OF THE FILM CENTER TRAGEDY IN 1981 AND TO RECOMMEND MEASURES THERETO"
+scope = "Local"
+dateFiled = "1996-11-18"
+status = "Pending with the Committee on RULES since 1996-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 118016
+congress = 10
+bill_no = "HR00962"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Labor and Employment on Nov. 20, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-19"

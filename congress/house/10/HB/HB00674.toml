@@ -1,0 +1,46 @@
+billNumber = "HB00674"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00674"
+lastScraped = "2025-09-22T00:20:57.492242"
+title = "HB00674"
+longTitle = "AN ACT TO AMEND SECTION THREE (3) PART A, SECTION FIVE (5) PART B AND SECTION ELEVEN (11) PART D, ALL OF TITLE II OF REPUBLIC ACT NUMBERED SIXTY-NINE FORTY-EIGHT (6948)"
+scope = "National"
+dateFiled = "1995-07-11"
+status = "Pending with the Committee on VETERANS AFFAIRS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "VETERANS AFFAIRS"
+type = "primary"
+referralCode = "A506"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107095
+congress = 10
+bill_no = "HB00674"
+referral = "A506"
+ref_name = "VETERANS AFFAIRS"
+date_read = "1995-07-27"

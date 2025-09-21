@@ -1,0 +1,46 @@
+billNumber = "HB01021"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01021"
+lastScraped = "2025-09-21T23:39:48.501872"
+title = "HB01021"
+longTitle = "AN ACT AUTHORIZING THE ACCRUAL OF EARMARKED REVENUES TO THE GENERAL FUND AND PRESCRIBING THE CONDITIONS UNDER WHICH SUCH FUNDS MAY BE USED FOR OTHER EXPENDITURES IN THE GENERAL APPROPRIATIONS ACT, AND FOR OTHER PURPOSES \r\n"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on APPROPRIATIONS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01021.pdf"
+fileSize = 649730
+author = "NAZAL, ROBERT"
+[[authorsDetail]]
+name = "NAZAL, ROBERT"
+nameCode = "Nazal"
+date = "2025-07-01"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[firstReading]
+id = 1022
+congress = 103
+bill_no = "HB01021"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

@@ -1,0 +1,61 @@
+billNumber = "HB04334"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04334"
+lastScraped = "2025-09-21T23:56:22.278094"
+title = "HB04334"
+longTitle = "AN ACT PROVIDING NON-FISCAL INCENTIVES FOR THE PURCHASE OF ELECTRIC, HYBRID AND OTHER ALTERNATIVE FUEL VEHICLES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2014-05-05"
+status = "Pending with the Committee on TRANSPORTATION since 2014-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04334.pdf"
+fileSize = 448108
+author = "Villar, Mark A."
+coAuthors = [ "TIENG, WILLIAM IRWIN C.", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "Villar, Mark A."
+nameCode = "Villar"
+date = "2014-05-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TIENG, WILLIAM IRWIN C."
+nameCode = "Tieng"
+date = "2014-08-26"
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2014-11-18"
+journalNo = "J025"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-05-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 50148
+congress = 16
+bill_no = "HB04334"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-12"

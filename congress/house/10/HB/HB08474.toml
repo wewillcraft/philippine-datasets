@@ -1,0 +1,49 @@
+billNumber = "HB08474"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08474"
+lastScraped = "2025-09-22T00:20:58.967798"
+title = "HB08474"
+longTitle = "AN ACT MANDATING THE COLLECTION OF ALL RECORDS AND DOCUMENTS IN ALL GOVERNMENT OFFICES AND PRIVATE COLLECTIONS WHICH MAY HAVE A BEARING ON THE ASSASSINATION OF FORMER SENATOR BENIGNO AQUINO, JR. AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-11-19"
+status = "Pending with the Committee on JUSTICE since 1996-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-11-21"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 114895
+congress = 10
+bill_no = "HB08474"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-11-21"

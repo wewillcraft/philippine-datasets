@@ -1,0 +1,47 @@
+billNumber = "HB01296"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01296"
+lastScraped = "2025-09-22T00:25:54.827704"
+title = "HB01296"
+longTitle = "AN ACT CONSTRUCTING A PUBLIC MARKET IN THE MUNICIPALITY OF TADIAN, MOUNTAIN PROVINCE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez, Victor S."
+[[authorsDetail]]
+name = "Dominguez, Victor S."
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119915
+congress = 9
+bill_no = "HB01296"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-26"

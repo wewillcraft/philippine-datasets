@@ -1,0 +1,41 @@
+billNumber = "HB06404"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06404"
+lastScraped = "2025-09-22T00:20:58.551228"
+title = "HB06404"
+longTitle = "AN ACT PROHIBITING THE USE OF WOOD AS A MAJOR COMPONENT IN THE CONSTRUCTION OF PUBLIC AND PRIVATE BUILDINGS AND INFRASTRUCTURE WITHIN A PERIOD OF TWENTY (20) YEARS"
+scope = "National"
+dateFiled = "1996-02-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dinglasan"
+[[authorsDetail]]
+name = "Dinglasan"
+nameCode = "Dinglasan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 112825
+congress = 10
+bill_no = "HB06404"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-29"

@@ -1,0 +1,42 @@
+billNumber = "HR00003"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00003"
+lastScraped = "2025-09-22T00:13:01.142303"
+title = "HR00003"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, INTO THE CONSTRUCTION OF AN ADDITIONAL INDEPENDENT POWER PRODUCER (IPP) THE 200 MEGAWATT MINDANAO COAL-FIRED THERMAL POWER PLANT IN THE MUNICPALITY OF TAGOLOAN, PROVINCE OF MISAMIS ORIENTAL"
+scope = "Local"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on ENERGY since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Badelles, Alipio 'Tikbong' V."
+[[authorsDetail]]
+name = "Badelles, Alipio 'Tikbong' V."
+nameCode = "Badelles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 89942
+congress = 12
+bill_no = "HR00003"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2001-07-24"

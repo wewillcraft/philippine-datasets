@@ -1,0 +1,46 @@
+billNumber = "HB05787"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05787"
+lastScraped = "2025-09-22T00:20:58.440016"
+title = "HB05787"
+longTitle = "AN ACT FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY NAGSINAMO, MUNICIPALITY OF LUCBAN, PROVINCE OF QUEZON, TO BE KNOWN AS THE NAGSINAMO HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-22"
+status = "Pending with the Committee on HEALTH since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112208
+congress = 10
+bill_no = "HB05787"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-25"

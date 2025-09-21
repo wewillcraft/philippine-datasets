@@ -1,0 +1,49 @@
+billNumber = "HB05680"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05680"
+lastScraped = "2025-09-22T00:20:58.421259"
+title = "HB05680"
+longTitle = "AN ACT DECLARING THE FIRST MONDAY OF DECEMBER EVERY YEAR AS 'MOTHER'S DAY', AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-01-05"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Escudero, Salvador III H."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Escudero, Salvador III H."
+nameCode = "Escudero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112101
+congress = 10
+bill_no = "HB05680"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-01-22"

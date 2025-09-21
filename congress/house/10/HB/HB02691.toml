@@ -1,0 +1,51 @@
+billNumber = "HB02691"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02691"
+lastScraped = "2025-09-22T00:20:57.865782"
+title = "HB02691"
+longTitle = "AN ACT CONVERTING THE SAN PABLO CITY NATIONAL SCHOOL OF ARTS AND TRADES IN THE CITY OF SAN PABLO, INTO A STATE COLLEGE OF SCIENCE AND TECHNOLOGY, TO BE KNOWN AS THE SAN PABLO CITY STATE COLLEGE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-22"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 109112
+congress = 10
+bill_no = "HB02691"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-08-28"

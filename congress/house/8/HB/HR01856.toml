@@ -1,0 +1,42 @@
+billNumber = "HR01856"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01856"
+lastScraped = "2025-09-22T00:47:02.894976"
+title = "HR01856"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF NATIONAL DEFENSE, THROUGH THE ENGINEERING BRIGADE TO ASSIST THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS IN THE REHABILITATION AND MAINTENANCE OF THE MAHARLIKA HIGHWAY"
+scope = "Local"
+dateFiled = "1990-08-07"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1990-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1990-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171692
+congress = 8
+bill_no = "HR01856"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1990-08-13"

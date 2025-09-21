@@ -1,0 +1,49 @@
+billNumber = "HR00036"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00036"
+lastScraped = "2025-09-22T00:20:59.431671"
+title = "HR00036"
+longTitle = "RESOLUTION URGING THE SUPREME COURT TO INCLUDE WITHIN THE COVERAGE OF CIVIL CASES FALLING UNDER THE RULE ON SUMMARY PROCEDURES ALL CASES SOLELY FOR SUPPORT"
+scope = "National"
+dateFiled = "1995-07-18"
+status = "Pending with the Committee on JUSTICE since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 117090
+congress = 10
+bill_no = "HR00036"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-31"

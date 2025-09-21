@@ -1,0 +1,46 @@
+billNumber = "HB08789"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08789"
+lastScraped = "2025-09-22T00:20:59.039053"
+title = "HB08789"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A COCONUT OIL MILL IN THE MUNICIPALITY OF LIBACAO, PROVINCE OF AKLAN, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-23"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1997-01-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1997-01-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115210
+congress = 10
+bill_no = "HB08789"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1997-01-28"

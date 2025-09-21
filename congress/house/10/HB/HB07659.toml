@@ -1,0 +1,110 @@
+billNumber = "HB07659"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07659"
+lastScraped = "2025-09-22T00:20:58.778283"
+title = "HB07659"
+longTitle = "AN ACT FURTHER AMENDING REPUBLIC ACT NO. 5980, AS AMENDED (Financing Company Act)"
+scope = "National"
+dateFiled = "1996-07-31"
+status = "REPUBLIC ACT (RA08556) enacted on 1998-02-26"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+coAuthors = [ "LEDESMA, JULIO IV A.", "VILLAREAL, JULITA L.", "BANKS AND FINANCIAL INTERMEDIARIES",]
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LEDESMA, JULIO IV A."
+nameCode = "Ledesma"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[motherBills]]
+bill_no = "HB03873"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB04244"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03873"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04244"
+flag = "S"
+
+[firstReading]
+id = 114080
+congress = 10
+bill_no = "HB07659"
+report = "00512"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1996-08-05"
+date_ob = "1996-08-05"
+date_unass = "1996-11-05"
+date_report = "1996-07-31"
+
+[secondReading]
+id = 18513
+congress = 10
+bill_no = "HB07659"
+date_calendared = "1997-07-29"
+date_approved = "1997-11-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3108
+congress = 10
+bill_no = "HB07659"
+date_dist = "1997-12-02"
+date_adopt = "1997-12-09"
+no_yeas = 144
+no_nays = 0
+no_abstent = 0
+date_rqcc = "1998-02-04"
+date_agrcc = "1998-02-06"
+ccreqby = "H"
+act_pres = "A"
+dte_hsagcc = "1998-02-13"
+dte_snagcc = "1998-02-12"
+dte_actedp = "1998-02-26"

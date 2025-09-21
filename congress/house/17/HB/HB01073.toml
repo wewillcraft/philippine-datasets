@@ -1,0 +1,75 @@
+billNumber = "HB01073"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01073"
+lastScraped = "2025-09-21T23:55:44.288535"
+title = "HB01073"
+longTitle = "AN ACT MANDATING BANKS TO NOTIFY ATM OWNERS BY SMS OR E-MAIL OF WITHDRAWALS FROM THEIR ACCOUNTS, ESTABLISHING A MECHANISM THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01073.pdf"
+fileSize = 634583
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "CATAMCO, NANCY A.", "LAZATIN, CARMELO II B.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-08-08"
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CATAMCO, NANCY A."
+nameCode = "Catamco"
+date = "2016-08-15"
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO II B."
+nameCode = "Lazatin"
+date = "2016-11-22"
+journalNo = "J047"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2017-01-25"
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 34541
+congress = 17
+bill_no = "HB01073"
+report = ""
+comm_act = ""
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

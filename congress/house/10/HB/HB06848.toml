@@ -1,0 +1,46 @@
+billNumber = "HB06848"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06848"
+lastScraped = "2025-09-22T00:20:58.631169"
+title = "HB06848"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BOLOSAN DISTRICT, DAGUPAN CITY, PROVINCE OF PANGASINAN, TO BE KNOWN AS THE JUDGE JOSE DE VENECIA, SR. MEMORIAL NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-04-25"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-05-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113269
+congress = 10
+bill_no = "HB06848"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-05-07"

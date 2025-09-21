@@ -1,0 +1,47 @@
+billNumber = "HB03124"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03124"
+lastScraped = "2025-09-22T00:25:55.148494"
+title = "HB03124"
+longTitle = "AN ACT CONVERTING THE KLING NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF KIAMBA, PROVINCE OF SARANGANI INTO A COLLEGE TO BE KNOWN AS THE KLING COLLEGE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-29"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chiongbian"
+[[authorsDetail]]
+name = "Chiongbian"
+nameCode = "Chiongbian"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121743
+congress = 9
+bill_no = "HB03124"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-05"

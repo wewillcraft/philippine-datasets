@@ -1,0 +1,47 @@
+billNumber = "HB03500"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03500"
+lastScraped = "2025-09-22T00:13:00.432908"
+title = "HB03500"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF ONE MILLION THIRTY THOUSAND AND ONE HUNDRED FIFTY THREE PESOS FOR THE CEMENTING OF A PORTION OF THE DAISY STREET, BARANGAY STO. NINO, MUNICIPALITY OF SAN MATEO, PROVINCE OF RIZAL"
+scope = "Local"
+dateFiled = "2001-10-11"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2001-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Isidro Jr. S."
+[[authorsDetail]]
+name = "Rodriguez, Isidro Jr. S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2001-10-17"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86660
+congress = 12
+bill_no = "HB03500"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "2001-10-17"

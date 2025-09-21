@@ -1,0 +1,68 @@
+billNumber = "HB01105"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01105"
+lastScraped = "2025-09-22T00:01:45.250432"
+title = "HB01105"
+longTitle = "AN ACT ESTABLISHING A ONE HUNDRED (100)-BED HOSPITAL IN THE MUNICIPALITY OF TAGKAWAYAN, PROVINCE OF QUEZON TO BE KNOWN AS THE TAGKAWAYAN PUBLIC HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2019-07-02"
+status = "Pending with the Committee on HEALTH since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01105.pdf"
+fileSize = 921951
+author = "Tan, Angelina"
+coAuthors = [ "ALONTE-NAGUIAT, LEN B.", "GONZALEZ, CARLO LISANDRO L.", "LUSOTAN, MACNELL",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2019-07-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALONTE-NAGUIAT, LEN B."
+nameCode = "Alonte"
+date = "2021-02-15"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, CARLO LISANDRO L."
+nameCode = "Gonzalez"
+date = "2021-04-28"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUSOTAN, MACNELL"
+nameCode = "Lusotan"
+date = "2021-04-28"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 20516
+congress = 18
+bill_no = "HB01105"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

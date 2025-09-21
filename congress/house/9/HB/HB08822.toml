@@ -1,0 +1,42 @@
+billNumber = "HB08822"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08822"
+lastScraped = "2025-09-22T00:25:56.185779"
+title = "HB08822"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 165, AS AMENDED, OTHERWISE KNOWN AS THE PATENT LAW"
+scope = "National"
+dateFiled = "1993-04-30"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1993-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1993-05-05"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 127440
+congress = 9
+bill_no = "HB08822"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+date_read = "1993-05-05"

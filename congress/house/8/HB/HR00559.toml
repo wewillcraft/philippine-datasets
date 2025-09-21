@@ -1,0 +1,50 @@
+billNumber = "HR00559"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00559"
+lastScraped = "2025-09-22T00:47:02.633599"
+title = "HR00559"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TOCONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CAUSES OF FINANCIAL FAILURES AND POOR SERVICE OF MOST ELECTRIC COOPERATIVES AND TO RECOMMEND THE NECESSARY CORRECTIVE MEASURES"
+scope = "National"
+dateFiled = "1988-01-25"
+status = "Pending with the Committee on ENERGY since 1988-01-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+coAuthors = [ "ROA, BENEDICTA B.",]
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROA, BENEDICTA B."
+nameCode = "Roa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1988-01-27"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 170446
+congress = 8
+bill_no = "HR00559"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1988-01-27"

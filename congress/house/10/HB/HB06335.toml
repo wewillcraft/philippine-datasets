@@ -1,0 +1,46 @@
+billNumber = "HB06335"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06335"
+lastScraped = "2025-09-22T00:20:58.539689"
+title = "HB06335"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NATIONAL IDENTIFICATION SYSTEM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-02-22"
+status = "Pending with the Committee on JUSTICE since 1996-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-02-27"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112756
+congress = 10
+bill_no = "HB06335"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-02-27"

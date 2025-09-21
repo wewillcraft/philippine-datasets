@@ -1,0 +1,41 @@
+billNumber = "HR01383"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01383"
+lastScraped = "2025-09-22T00:20:59.690555"
+title = "HR01383"
+longTitle = "RESOLUTION TO REOPEN INVESTIGATTION ON \"OPERATION BIG BIRD\" AND ALL MATTERS IN CONNECTION WITH THE ACTIONS TAKEN BY THE PHILIPPINE GOVERNMENT, THROUGH THE PCGG AND ANY OTHER AGENCIES, FOR THE RECOVERY OF THE MARCOS SECRET ACCOUNTS ABROAD, AND TO AUTHORIZED THE GOVERNMENT TO NEGOTIATE WITH ALL PARTIES TO EFFECT SUCCESSFUL RECOVERY OF THE MARCOS DEPOSITS"
+scope = "Local"
+dateFiled = "1997-10-02"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1997-10-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1997-10-07"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 118437
+congress = 10
+bill_no = "HR01383"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+date_read = "1997-10-07"

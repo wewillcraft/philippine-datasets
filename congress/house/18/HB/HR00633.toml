@@ -1,0 +1,89 @@
+billNumber = "HR00633"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00633"
+lastScraped = "2025-09-22T00:01:47.451514"
+title = "HR00633"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO ESTABLISH A CONSULAR OFFICE IN THE CITY OF KIDAPAWAN, PROVINCE OF COTABATO"
+scope = "National"
+dateFiled = "2019-12-18"
+status = "Adopted as Resolution No. HR00039 on 2020-01-29"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "CAOAGDAN, RUDY S., DPA"
+[[authorsDetail]]
+name = "CAOAGDAN, RUDY S., DPA"
+nameCode = "Caoagdan"
+date = "2019-12-18"
+sequence = 1
+
+[[authorsDetail]]
+name = "Hofer, Ann K."
+nameCode = "Hofer"
+date = "2019-12-18"
+sequence = 2
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2019-12-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB04444"
+sequence = 1
+date = "2019-12-18"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04444"
+sequence = 1
+date = "2019-12-18"
+flag = "S"
+
+[firstReading]
+id = 30952
+congress = 18
+bill_no = "HR00633"
+report = "00171"
+comm_act = ""
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = "FOREIGN AFFAIRS"
+recomm = "Recommending its adoption in substitution of House Bill No. 4444"
+remarks = ""
+file = "CR00171.pdf"
+date_read = "2019-12-18"
+date_ob = "2019-12-18"
+date_fri = "2020-01-28"
+date_report = "2019-12-18"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00171.pdf"
+
+[secondReading]
+id = 1949
+congress = 18
+bill_no = "HR00633"
+adopted_resolution = "HR00039"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF FOREIGN AFFAIRS TO ESTABLISH A CONSULAR OFFICE IN THE CITY OF KIDAPAWAN, PROVINCE OF COTABATO"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2020-01-29"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00633.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR00633.pdf"

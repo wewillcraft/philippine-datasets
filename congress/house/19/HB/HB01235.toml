@@ -1,0 +1,54 @@
+billNumber = "HB01235"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01235"
+lastScraped = "2025-09-21T23:55:20.297790"
+title = "HB01235"
+longTitle = "AN ACT CREATING THE TELECOMMUNICATIONS RELAY SYSTEM FOR PERSONS WITH HEARING DISABILITIES AND PERSONS WITH SPEECH DISABILITIES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-05"
+status = "Pending with the Committee on PERSONS WITH DISABILITIES since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01235.pdf"
+fileSize = 307908
+author = "Herrera, Bernadette \"BH\""
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera"
+date = "2022-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-02-20"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "primary"
+referralCode = "J501"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 6154
+congress = 19
+bill_no = "HB01235"
+report = ""
+comm_act = ""
+referral = "J501"
+ref_name = "PERSONS WITH DISABILITIES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

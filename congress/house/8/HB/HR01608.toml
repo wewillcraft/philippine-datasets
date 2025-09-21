@@ -1,0 +1,42 @@
+billNumber = "HR01608"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01608"
+lastScraped = "2025-09-22T00:47:02.856364"
+title = "HR01608"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TRADE AND INDUSTRY AND AGRICULTURE AND FOOD TO MAKE A STUDY IN AID OF LEGISLATION ON HOW TO SAVE OUR DWINDLING PRAWN INDUSTRY"
+scope = "National"
+dateFiled = "1989-12-12"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1989-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1989-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171454
+congress = 8
+bill_no = "HR01608"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1989-12-12"

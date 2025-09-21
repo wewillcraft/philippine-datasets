@@ -1,0 +1,68 @@
+billNumber = "HB00629"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00629"
+lastScraped = "2025-09-22T00:20:57.483668"
+title = "HB00629"
+longTitle = "AN ACT  TO PROMOTE THE DEVELOPMENT OF THE INTERISLAND SHIPPING INDUSTRY"
+scope = "National"
+dateFiled = "1995-07-11"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roxas"
+coAuthors = [ "TINGA, DANTE O.", "LIBAN, DANTE V.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Roxas"
+nameCode = "Roxas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TINGA, DANTE O."
+nameCode = "Tinga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 107050
+congress = 10
+bill_no = "HB00629"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-07-27"

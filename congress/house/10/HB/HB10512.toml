@@ -1,0 +1,73 @@
+billNumber = "HB10512"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10512"
+lastScraped = "2025-09-22T00:20:59.398428"
+title = "HB10512"
+longTitle = "AN ACT CONVERTING THE LAGUNA COLLEGE OF ARTS AND TRADES IN THE PROVINCE OF LAGUNA INTO A STATE UNIVERSITY TO BE KNOWN AS THE LAGUNA STATE UNIVERSITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-02-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1998-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+coAuthors = [ "CHIPECO, JOAQUIN JR. M.", "AQUINO, FLORANTE L.", "AQUINO-ORETA, TERESA A.",]
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AQUINO, FLORANTE L."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AQUINO-ORETA, TERESA A."
+nameCode = "Aquino-oreta"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-02-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116932
+congress = 10
+bill_no = "HB10512"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1998-02-04"

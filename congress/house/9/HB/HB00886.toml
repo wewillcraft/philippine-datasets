@@ -1,0 +1,47 @@
+billNumber = "HB00886"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00886"
+lastScraped = "2025-09-22T00:25:54.753571"
+title = "HB00886"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A FISHPORT IN BARANGAY BATUHAN, MUNICIPALITY OF MASBATE, PROVINCE OF MASBATE, AND APPROPRIATING THE AMOUNT OF TEN MILLION PESOS FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "1992-08-12"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-18"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119505
+congress = 9
+bill_no = "HB00886"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-18"

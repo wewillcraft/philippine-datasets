@@ -1,0 +1,74 @@
+billNumber = "HB07633"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07633"
+lastScraped = "2025-09-22T00:25:55.985275"
+title = "HB07633"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE PASAY CITY GENERAL HOSPITAL IN THE CITY OF PASAY, ROM ONE HUNDRED (100) TO TWO HUNDRED (200), CONSTRUCTING AN ANNEX BUILDING TO HOUSE THE ADDITIONAL BED CAPACITY AND PROVIDE ISOLATION WARDS FOR PATIENTS AFFLICTED WITH HIGHLY CONTAGIOUS, COMMUNICABLE AND TRANSFERRABLE DISEASES, AND APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1993-02-18"
+status = "Approved by the House on 1994-07-27, transmitted to on 1994-08-04 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-02-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126252
+congress = 9
+bill_no = "HB07633"
+report = "00724"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1993-02-23"
+date_ob = "1994-05-23"
+date_cal = "1994-05-23"
+date_unass = "1994-05-23"
+date_report = "1994-05-17"
+
+[secondReading]
+id = 19445
+congress = 9
+bill_no = "HB07633"
+remarks = "Considered the Explanatory Note as the Sponsorship speech"
+date_approved = "1994-05-24"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1708
+congress = 9
+bill_no = "HB07633"
+date_dist = "1994-05-30"
+date_adopt = "1994-07-27"
+no_yeas = 164
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-08-04"
+date_rec = "1994-08-04"

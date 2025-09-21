@@ -1,0 +1,61 @@
+billNumber = "HB01120"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01120"
+lastScraped = "2025-09-21T23:56:40.757341"
+title = "HB01120"
+longTitle = "AN ACT MANDATING FOOD MANUFACTURERS/RE-PACKERS/MARKETERS TO USE BIODEGRADABLE MATERIALS FOR WRAPPERS/PACKAGES OF THEIR PRODUCTS"
+scope = "National"
+dateFiled = "2010-07-08"
+status = "Pending with the Committee on ECOLOGY since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01120.pdf"
+fileSize = 154020
+author = "Mercado, Roger G."
+coAuthors = [ "CASTELO, WINSTON TAQUEBAN", "BONOAN-DAVID, MA. THERESA BRONDIAL",]
+[[authorsDetail]]
+name = "Mercado, Roger G."
+nameCode = "Mercado (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = ""
+journalNo = "J049"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BONOAN-DAVID, MA. THERESA BRONDIAL"
+nameCode = "Bonoan-David"
+date = ""
+journalNo = "J063"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 56592
+congress = 15
+bill_no = "HB01120"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

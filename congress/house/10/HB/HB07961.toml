@@ -1,0 +1,46 @@
+billNumber = "HB07961"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07961"
+lastScraped = "2025-09-22T00:20:58.873627"
+title = "HB07961"
+longTitle = "AN ACT ESTABLISHING AN UPLAND FRESHWATER FISH RESEARCH AND DISPERSAL CENTER IN THE MUNICIPALITY OF KIANGAN, PROVINCE OF IFUGAO"
+scope = "Local"
+dateFiled = "1996-09-19"
+status = "Pending with the Committee on FISHERIES INDUSTRY (SPECIAL CTTE.) since 1996-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1996-09-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114382
+congress = 10
+bill_no = "HB07961"
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+date_read = "1996-09-24"

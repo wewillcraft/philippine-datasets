@@ -1,0 +1,54 @@
+billNumber = "HB00809"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB00809"
+lastScraped = "2025-09-21T23:39:48.460679"
+title = "HB00809"
+longTitle = "AN ACT DEFINING THE CRIME OF CHILD PORNOGRAPHY AND ONLINE SEXUAL EXPLOITATION, AMENDING REPUBLIC ACT NO. 9775, OTHERWISE KNOWN AS THE ANTI-CHILD PORNOGRAPHY ACT OF 2009, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-01"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB00809.pdf"
+fileSize = 1208270
+author = "SUAN, LORDAN G."
+coAuthors = [ "SOLON, STEVE CHIONGBIAN",]
+[[authorsDetail]]
+name = "SUAN, LORDAN G."
+nameCode = "Suan"
+date = "2025-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SOLON, STEVE CHIONGBIAN"
+nameCode = "Solon"
+date = "2025-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 810
+congress = 103
+bill_no = "HB00809"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

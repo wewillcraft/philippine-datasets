@@ -1,0 +1,54 @@
+billNumber = "HB09893"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09893"
+lastScraped = "2025-09-22T00:20:59.264310"
+title = "HB09893"
+longTitle = "AN ACT CREATING AN ADDITIONAL MUNICIPAL TRIAL COURT IN THE MUNICIPALITY OF KORONADAL, PROVINCE OF SOUTH COTABATO, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-08-26"
+status = "Pending with the Committee on JUSTICE since 1997-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avance-Fuentes, Daisy"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Avance-Fuentes, Daisy"
+nameCode = "Fuentes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-08-28"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116314
+congress = 10
+bill_no = "HB09893"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-08-28"

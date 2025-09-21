@@ -1,0 +1,54 @@
+billNumber = "HB02685"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02685"
+lastScraped = "2025-09-22T00:20:57.864896"
+title = "HB02685"
+longTitle = "AN ACT STRENGTHENING THE PHILIPPINE NATIONAL POLICE ACADEMY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-22"
+status = "Substituted by HB10089"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109106
+congress = 10
+bill_no = "HB02685"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-08-28"

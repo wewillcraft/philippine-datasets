@@ -1,0 +1,46 @@
+billNumber = "HB04187"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04187"
+lastScraped = "2025-09-22T00:20:58.147638"
+title = "HB04187"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL LIBRARY IN THE MUNICIPALITY OF TUBURAN, PROVINCE OF BASILAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Muarip"
+[[authorsDetail]]
+name = "Muarip"
+nameCode = "Muarip"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110608
+congress = 10
+bill_no = "HB04187"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-05"

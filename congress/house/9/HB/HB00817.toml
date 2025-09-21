@@ -1,0 +1,47 @@
+billNumber = "HB00817"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00817"
+lastScraped = "2025-09-22T00:25:54.742986"
+title = "HB00817"
+longTitle = "AN ACT APPROPRIATING THE SUM OF THREE MILLION PESOS FOR THE IMPROVEMENT AND REHABILITATION OF ZAMBOANGA DEL NORTE BREEDING STATION AT VILLARAMOS, MANUKAN, ZAMBOANGA DEL NORTE"
+scope = "Local"
+dateFiled = "1992-08-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Amatong"
+[[authorsDetail]]
+name = "Amatong"
+nameCode = "Amatong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-08-17"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119436
+congress = 9
+bill_no = "HB00817"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-08-17"

@@ -1,0 +1,42 @@
+billNumber = "HR01012"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01012"
+lastScraped = "2025-09-22T00:25:57.554086"
+title = "HR01012"
+longTitle = "RESOLUTION EXPRESSING THE HOUSE OF REPRESENTATIVES SUPPORT FOR THE PHILIPPINE HOSTING OF THE 1994 MISS UNIVERSE BEAUTY PAGEANT IN OUR COUNTRY"
+scope = "National"
+dateFiled = "1994-04-12"
+status = "Pending with the Committee on TOURISM since 1994-04-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-04-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134319
+congress = 9
+bill_no = "HR01012"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-04-14"

@@ -1,0 +1,43 @@
+billNumber = "HR01022"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01022"
+lastScraped = "2025-09-22T00:25:57.555730"
+title = "HR01022"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE(S) TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE COMPLAINTS OF INMATES OF THE NATIONAL BILIBID PRISON IN MUNTINLUPA, THAT THEIR RIGHTS PROVIDED BY LAW AND PRISON REGULATIONS ARE NOT RESPECTED"
+scope = "National"
+dateFiled = "1994-04-25"
+status = "Pending with the Committee on JUSTICE since 1994-04-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-04-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134329
+congress = 9
+bill_no = "HR01022"
+comm_act = "Change of referral from the Ctte. on Rules on May 3, 1994 (J80, p.157)"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-04-28"

@@ -1,0 +1,42 @@
+billNumber = "HB00385"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00385"
+lastScraped = "2025-09-22T00:46:56.628774"
+title = "HB00385"
+longTitle = "AN ACT REORGANIZING THE MASBATE ENGINEERING DISTRICT, CONSTITUTING THE SAME INTO THREE (3) SEPARATEAND INDEPENDENT ENGINEERING DISTRICTS"
+scope = "Local"
+dateFiled = "1987-08-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espinosa"
+[[authorsDetail]]
+name = "Espinosa"
+nameCode = "Espinosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-08-18"
+
+[[committee]]
+name = "PEOPLE'S PARTICIPATION"
+type = "principal"
+referralCode = "0527"
+
+[firstReading]
+id = 135082
+congress = 8
+bill_no = "HB00385"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-08-18"

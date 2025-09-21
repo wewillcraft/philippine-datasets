@@ -1,0 +1,42 @@
+billNumber = "HB06539"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06539"
+lastScraped = "2025-09-22T00:46:57.768874"
+title = "HB06539"
+longTitle = "AN ACT APPROPRIATING THE SUM OF TWO HUNDRED FIFTYTHOUSAND PESOS FOR THE CONSTRUCTION OF BARANGAY HEALTH STATION IN BARANGAY MARUING, MUNICIPALITY OFLAPUYAN, PROVINCE OF ZAMBOANGA DEL SUR"
+scope = "Local"
+dateFiled = "1988-03-16"
+status = "Pending with the Committee on HEALTH since 1988-03-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-18"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 141220
+congress = 8
+bill_no = "HB06539"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-18"

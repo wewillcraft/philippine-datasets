@@ -1,0 +1,50 @@
+billNumber = "HR00999"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00999"
+lastScraped = "2025-09-22T00:47:02.730562"
+title = "HR00999"
+longTitle = "RESOLUTION REQUIRING THE SECRETARY OF FOREIGN AFFAIRS RAUL MANGLAPUS TO MAKE A DETAILED REPORT ON THE 1988 BASES PACT AGREEMENT"
+scope = "National"
+dateFiled = "1988-10-18"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1988-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+coAuthors = [ "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1988-10-21"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 170876
+congress = 8
+bill_no = "HR00999"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1988-10-21"

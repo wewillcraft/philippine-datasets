@@ -1,0 +1,46 @@
+billNumber = "PS00118"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=PS00118"
+lastScraped = "2025-09-21T23:55:23.053506"
+title = "Food Crisis"
+longTitle = "FOOD CRISIS"
+scope = "National"
+dateFiled = "2023-02-20"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2023-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Castro, France L."
+[[authorsDetail]]
+name = "Castro, France L."
+nameCode = "Castro (F.)"
+date = "2023-02-20"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2023-03-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 19014
+congress = 19
+bill_no = "PS00118"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-03-01"

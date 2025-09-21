@@ -1,0 +1,75 @@
+billNumber = "HR00164"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00164"
+lastScraped = "2025-09-22T00:20:59.452418"
+title = "HR00164"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES, OVER THE DEATH OF HONORABLE DEMOCRITO O. PLAZA, FORMER MEMBER OF THE HOUSE OF REPRESENTATIVES , REPRESENTING THE LONE DISTRICT OF AGUSAN DELSUR"
+scope = "Local"
+dateFiled = "1995-09-04"
+status = "Adopted as Resolution No. HR00013 on 1995-09-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "PAREDES, CEFERINO JR. S.", "CUENCO, ANTONIO V.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PAREDES, CEFERINO JR. S."
+nameCode = "Paredes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117218
+congress = 10
+bill_no = "HR00164"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-09-04"
+
+[secondReading]
+id = 18930
+congress = 10
+bill_no = "HR00164"
+adopted_resolution = "HR00013"
+date_calendared = "1995-09-04"
+date_approved = "1995-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00013.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00013.pdf"

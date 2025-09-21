@@ -1,0 +1,46 @@
+billNumber = "HB05875"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05875"
+lastScraped = "2025-09-22T00:20:58.454273"
+title = "HB05875"
+longTitle = "AN ACT ESTABLISHING DAY CARE CENTERS IN ALL BARANGAYS IN THE MUNICIPALITY OF GAMAY, SECOND DISTRICT OF NORTHERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on SOCIAL SERVICES since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112296
+congress = 10
+bill_no = "HB05875"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1996-01-29"

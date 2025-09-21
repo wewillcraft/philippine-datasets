@@ -1,0 +1,56 @@
+billNumber = "HB03724"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03724"
+lastScraped = "2025-09-22T00:20:58.063919"
+title = "HB03724"
+longTitle = "AN ACT FURTHER AMENDING PRESIDENTIAL DECREE NUMBERED NINE HUNDRED SIXTY-EIGHT, AS AMENDED, AND EXECUTIVE ORDER NUMBERED TWO HUNDRED NINETY-TWO AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-21"
+status = "Pending with the Committee on JUSTICE since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "DY, FAUSTINO JR. S.", "ALBANO, RODOLFO JR. B.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 110145
+congress = 10
+bill_no = "HB03724"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-09-26"

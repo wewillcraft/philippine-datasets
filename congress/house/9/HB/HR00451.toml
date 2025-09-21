@@ -1,0 +1,42 @@
+billNumber = "HR00451"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00451"
+lastScraped = "2025-09-22T00:25:57.447890"
+title = "HR00451"
+longTitle = "RESOLUTION DIRECTING THE SENATE AND HOUSE WAYS AND MEANS COMMITTEE TO STUDY IN AID OF LEGISLATION AS TO WHAT PRIORITIES WILL BE GIVEN TO ACHIEVE OUR ECONOMIC TARGETS"
+scope = "National"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on WAYS AND MEANS since 1993-02-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1993-02-02"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 133763
+congress = 9
+bill_no = "HR00451"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1993-02-02"

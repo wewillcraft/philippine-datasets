@@ -1,0 +1,66 @@
+billNumber = "HR00359"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00359"
+lastScraped = "2025-09-22T00:13:01.217635"
+title = "Toll Fee Increase at the Metro Manila Skyway, South Luzon Expressway, North Luzon Expressway and Cavite-Manila Coastal Road"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE CIRCUMSTANCES LEADING TO THE `PROVISIONAL' INCREASE IN TOLL FEES IMPLEMENTED BY THE TOLL REGULATORY BOARD ALONG THE METRO MANILA SKYWAY, SOUTH LUZON EXPRESSWAY, NORTH LUZON EXPRESSWAY AND THE CAVITE-MANILA COASTAL ROAD"
+scope = "Local"
+dateFiled = "2002-01-10"
+status = "Adopted Resolution (Pending with the committee on GOOD GOVERNMENT since 2002-01-30)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zialcita, Eduardo C."
+coAuthors = [ "PEREZ, FRANK S.",]
+[[authorsDetail]]
+name = "Zialcita, Eduardo C."
+nameCode = "Zialcita"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, FRANK S."
+nameCode = "Perez"
+date = ""
+journalNo = "J060"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-01-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 90298
+congress = 12
+bill_no = "HR00359"
+report = "00184"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-01-16"
+date_report = "2002-01-28"
+
+[secondReading]
+id = 15068
+congress = 12
+bill_no = "HR00359"
+adopted_resolution = "HR00145"
+date_calendared = "2002-01-30"
+date_approved = "2002-01-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-01-30"
+file = "HR00145.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00145.pdf"

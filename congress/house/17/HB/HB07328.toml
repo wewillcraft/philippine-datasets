@@ -1,0 +1,75 @@
+billNumber = "HB07328"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07328"
+lastScraped = "2025-09-21T23:55:45.699624"
+title = "HB07328"
+longTitle = "AN ACT ESTABLISHING A NATIONAL PROGRAM FOR THE COFFEE INDUSTRY PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-03-06"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2018-03-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07328.pdf"
+fileSize = 732838
+author = "Sy-Alvarado, \"Kuya\" Jose Antonio R."
+coAuthors = [ "NIETO, YUL SERVO", "TAMBUNTING, GUSTAVO S.", "BELARO, SALVADOR \"BONG\" JR. B.", "SAVELLANO, DEOGRACIAS VICTOR B.",]
+[[authorsDetail]]
+name = "Sy-Alvarado, \"Kuya\" Jose Antonio R."
+nameCode = "Sy-Alvarado"
+date = "2018-03-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2018-03-20"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-05-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "BELARO, SALVADOR \"BONG\" JR. B."
+nameCode = "Belaro"
+date = "2018-08-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2018-09-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2018-03-12"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 40795
+congress = 17
+bill_no = "HB07328"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-03-12"

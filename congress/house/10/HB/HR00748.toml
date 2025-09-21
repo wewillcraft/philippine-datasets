@@ -1,0 +1,55 @@
+billNumber = "HR00748"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00748"
+lastScraped = "2025-09-22T00:20:59.566200"
+title = "HR00748"
+longTitle = "RESOLUTION DIRECTING THE SUB-COMMITTEE ON OVERSIGHT OF THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CIRCUMSTANCES SURROUNDING THE RELEASE OF A FOREIGN VESSEL NAMED M/V SUN KUNG NO. 7 AND ITS CARGOES WHICH HAS CAUSED REVENUE LOSSES TO THE GOVERNMENT"
+scope = "Local"
+dateFiled = "1996-07-31"
+status = "Pending with the Committee on RULES since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 117802
+congress = 10
+bill_no = "HR00748"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ways and Means on Aug. 7, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-05"

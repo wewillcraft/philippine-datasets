@@ -1,0 +1,46 @@
+billNumber = "HB05865"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05865"
+lastScraped = "2025-09-22T00:20:58.452758"
+title = "HB05865"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A MULTIPURPOSE SPORTS COMPLEX IN THE MUNICIPALITY OF PAMBUJAN, SECOND DISTRICT OF NORTHERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112286
+congress = 10
+bill_no = "HB05865"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-29"

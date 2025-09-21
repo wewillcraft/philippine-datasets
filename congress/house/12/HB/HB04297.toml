@@ -1,0 +1,55 @@
+billNumber = "HB04297"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04297"
+lastScraped = "2025-09-22T00:13:00.569872"
+title = "HB04297"
+longTitle = "AN ACT CREATING A SECOND CONGRESSIONAL DISTRICT IN THE PROVINCE OF CAMARINES NORTE BY SPLITTING THE PRESENT LONE DISTRICT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-01-29"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2002-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unico, Renato Jr. J."
+coAuthors = [ "REYES, VICTORIA H.",]
+[[authorsDetail]]
+name = "Unico, Renato Jr. J."
+nameCode = "Unico"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "REYES, VICTORIA H."
+nameCode = "Reyes"
+date = ""
+journalNo = "J004"
+sessionNo = "2RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2002-02-04"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87457
+congress = 12
+bill_no = "HB04297"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2002-02-04"

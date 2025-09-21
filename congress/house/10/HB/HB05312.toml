@@ -1,0 +1,46 @@
+billNumber = "HB05312"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05312"
+lastScraped = "2025-09-22T00:20:58.350560"
+title = "HB05312"
+longTitle = "AN ACT ESTABLISHING A HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF PASUQUIN, PROVINCE OF ILOCOS NORTE, TO BE KNOWN AS THE PASUQUIN HANDICRAFT TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-27"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-12-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-12-04"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111733
+congress = 10
+bill_no = "HB05312"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-12-04"

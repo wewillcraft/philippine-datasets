@@ -1,0 +1,46 @@
+billNumber = "HB01954"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01954"
+lastScraped = "2025-09-22T00:20:57.714333"
+title = "HB01954"
+longTitle = "AN ACT APPROPRIATING THE AMOUNT OF ONE MILLION PESOS (P1,000,000.00) FOR THE REPAIR, MAINTENANCE AND UPGRADING OF EQUIPMENT TO BE USED IN THE IMPLEMENTATION OF THE DEATH PENALTY"
+scope = "National"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on JUSTICE since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108375
+congress = 10
+bill_no = "HB01954"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-14"

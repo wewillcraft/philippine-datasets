@@ -1,0 +1,78 @@
+billNumber = "HB00297"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00297"
+lastScraped = "2025-09-22T00:12:59.858209"
+title = "HB00297"
+longTitle = "AN ACT TO ALLOCATE TWENTY PERCENT (20%) OF THE REGISTRATION FEES OF MOTOR VEHICLES TO LOCAL GOVERNMENT UNITS"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves, Herminio G."
+coAuthors = [ "ECHIVERRI, ENRICO R.", "DEL MAR, RAUL V.", "JARAULA, CONSTANTINO G.", "ALMARIO, J. MAYO Z.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Teves, Herminio G."
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J009"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ALMARIO, J. MAYO Z."
+nameCode = "Almario"
+date = ""
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 83457
+congress = 12
+bill_no = "HB00297"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-07-24"

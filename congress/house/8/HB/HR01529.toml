@@ -1,0 +1,42 @@
+billNumber = "HR01529"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01529"
+lastScraped = "2025-09-22T00:47:02.821866"
+title = "HR01529"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON WAYS AND MEANS AND BANKS AND CURRENCY TO STUDY, IN AID OF LEGISLATION, HOW TO REDUCE INFLATION"
+scope = "National"
+dateFiled = "1989-11-20"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-11-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171391
+congress = 8
+bill_no = "HR01529"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-11-20"

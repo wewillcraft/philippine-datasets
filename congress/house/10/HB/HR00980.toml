@@ -1,0 +1,47 @@
+billNumber = "HR00980"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00980"
+lastScraped = "2025-09-22T00:20:59.611065"
+title = "HR00980"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED IRREGULARITIES IN THE RIGGED AND FRAUDULENT BIDDING BY THE DEPARTMENT OF HEALTH OF THE VARIOUS INFRASTRUCTURE PROJECTS AND MEDICALEQUIPMENT IN THE SECOND DISTRICT OF ILOCOS NORTE"
+scope = "Local"
+dateFiled = "1996-11-18"
+status = "Pending with the Committee on RULES since 1996-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 118034
+congress = 10
+bill_no = "HR00980"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Health on Dec. 3, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-03"

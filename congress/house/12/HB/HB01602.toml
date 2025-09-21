@@ -1,0 +1,62 @@
+billNumber = "HB01602"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01602"
+lastScraped = "2025-09-22T00:13:00.091714"
+title = "HB01602"
+longTitle = "AN ACT TO PROVIDE FOR A COMMUNITY SERVICE PROGRAM FOR CONVICTED PRISONERS, CREATING FOR THE PURPOSE COMMUNITY SERVICE CAMPS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-30"
+status = "Pending with the Committee on JUSTICE since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jala, Eladio M."
+coAuthors = [ "LACSON, JOSE CARLOS V.", "ZIALCITA, EDUARDO C.",]
+[[authorsDetail]]
+name = "Jala, Eladio M."
+nameCode = "Jala"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84762
+congress = 12
+bill_no = "HB01602"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-08-06"

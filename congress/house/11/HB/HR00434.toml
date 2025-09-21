@@ -1,0 +1,53 @@
+billNumber = "HR00434"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00434"
+lastScraped = "2025-09-22T00:23:18.026718"
+title = "HR00434"
+longTitle = "RESOLUTION STRONGLY URGING THE COMMITTEE ON HEALTH TO CONDUCT AN IMMEDIATE INVESTIGATION ON THE REPORTED CONTAMINATION/D ISCOLORATION OF TAP WATER SUPPLIED BY THE MAYNILAD WATER SERVICES TO RESIDENTS OF WESTERN METRO MANILA THAT AGGRAVATED THE ALREADY ANOMALOUS OVER-DEPENDENCE OF FILIPINOS ON BOTTLED WATER WHOSE SAFETY HEALTH AUTHORITIES ALSO QUESTION AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-10-13"
+status = "Consigned to the Archives on 1999-09-14"
+statusOrder = 2.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Calimbas-Villarosa, Ma. Amelita A."
+[[authorsDetail]]
+name = "Calimbas-Villarosa, Ma. Amelita A."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1998-10-19"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[motherBills]]
+bill_no = "HR00473"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00473"
+flag = "S"
+
+[firstReading]
+id = 104892
+congress = 11
+bill_no = "HR00434"
+report = "00400"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "See page 4 of Ctte. Rpt. No. 400"
+date_read = "1998-10-19"
+date_report = "1999-07-27"

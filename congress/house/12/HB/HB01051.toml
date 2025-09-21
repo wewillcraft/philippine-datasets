@@ -1,0 +1,42 @@
+billNumber = "HB01051"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01051"
+lastScraped = "2025-09-22T00:12:59.995445"
+title = "HB01051"
+longTitle = "AN ACT EXEMPTING FROM INCOME TAXATION THE FIRST THREE (3) YEARS SALARY OF SCHOOL TEACHERS, BOTH IN PUBLIC AND PRIVATE ELEMENTARY AND SECONDARY SCHOOLS"
+scope = "National"
+dateFiled = "2001-07-16"
+status = "Pending with the Committee on WAYS AND MEANS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 84211
+congress = 12
+bill_no = "HB01051"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "2001-07-25"

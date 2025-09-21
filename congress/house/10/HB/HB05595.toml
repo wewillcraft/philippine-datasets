@@ -1,0 +1,46 @@
+billNumber = "HB05595"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05595"
+lastScraped = "2025-09-22T00:20:58.406827"
+title = "HB05595"
+longTitle = "AN ACT ESTABLISHING A LEATHER PRODUCT TRAINING CENTER IN THE MUNICIPALITY OF MIDSAYAP, PROVINCE OF COTABATO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-12-20"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112016
+congress = 10
+bill_no = "HB05595"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1996-01-22"

@@ -1,0 +1,71 @@
+billNumber = "HB06408"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06408"
+lastScraped = "2025-09-22T00:20:58.551913"
+title = "HB06408"
+longTitle = "AN ACT CONSTITUTING THE SECOND CONGRESSIONAL DISTRICT IN THE PROVINCE OF DAVAO DEL SUR, INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-27"
+status = "Approved by the House on 1997-08-04, transmitted to on 1997-08-05 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112829
+congress = 10
+bill_no = "HB06408"
+report = "00933"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval without amendment"
+date_read = "1996-02-29"
+date_ob = "1997-05-19"
+date_report = "1997-05-15"
+
+[secondReading]
+id = 18351
+congress = 10
+bill_no = "HB06408"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-05-22"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2949
+congress = 10
+bill_no = "HB06408"
+date_dist = "1997-05-27"
+date_adopt = "1997-08-04"
+no_yeas = 165
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-05"
+date_rec = "1997-08-07"

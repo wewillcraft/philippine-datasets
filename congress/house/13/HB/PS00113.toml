@@ -1,0 +1,42 @@
+billNumber = "PS00113"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00113"
+lastScraped = "2025-09-22T00:13:49.489164"
+title = "PS00113"
+longTitle = "22 January Mendiola Massacre"
+scope = "National"
+dateFiled = "2005-01-18"
+status = "Pending with the Committee on AGRARIAN REFORM since 2005-02-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mariano, Rafael V."
+[[authorsDetail]]
+name = "Mariano, Rafael V."
+nameCode = "Mariano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "2005-02-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 82896
+congress = 13
+bill_no = "PS00113"
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "2005-02-08"

@@ -1,0 +1,42 @@
+billNumber = "HR01107"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01107"
+lastScraped = "2025-09-22T00:47:02.752934"
+title = "HR01107"
+longTitle = "RESOLUTION DIRECTING THE OFFICE OF THE PRESIDENT,THE ASSET PRIVATIZATION TRUST AND THE PHILIPPINE EMBASSY TO JAPAN, TO JUSTIFY, IN AID OF LEGISLATION, BEFORE THE SUB-COMMITTEE ON DISPOSITION OF GOVERNMENT-OWNE D, ACQUIRED AND SEQUESTERED ASSETS, THESALE OF PHILIPPINE REAL ESTATE PROPERTIES IN TOKYO, JAPAN"
+scope = "National"
+dateFiled = "1989-01-24"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-01-30"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 170981
+congress = 8
+bill_no = "HR01107"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-01-30"

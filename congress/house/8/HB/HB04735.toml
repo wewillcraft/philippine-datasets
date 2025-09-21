@@ -1,0 +1,72 @@
+billNumber = "HB04735"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04735"
+lastScraped = "2025-09-22T00:46:57.382777"
+title = "HB04735"
+longTitle = "AN ACT CONVERTING THE BUGASONG MEDICARE HOSPITAL IN THE MUNICIPALITY OF BUGASONG, PROVINCE OF ANTIQUE, INTO A DISTRICT HOSPITAL WITH TWENTY-FIVE BED CAPACITY AND RENAMING IT AS DR. JULITO MOSCOSO DRISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1987-12-15"
+status = "Vetoed by the President on 1992-06-01"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier"
+[[authorsDetail]]
+name = "Javier"
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 139418
+congress = 8
+bill_no = "HB04735"
+report = "01365"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-12-17"
+date_ob = "1991-04-25"
+date_cal = "1991-04-25"
+date_unass = "1991-04-25"
+date_report = "1991-04-05"
+
+[secondReading]
+id = 20594
+congress = 8
+bill_no = "HB04735"
+date_calendared = "1991-04-30"
+date_approved = "1991-05-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 370
+congress = 8
+bill_no = "HB04735"
+date_dist = "1991-05-09"
+date_adopt = "1991-05-14"
+no_yeas = 124
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-05-15"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1992-03-18"
+dte_actedp = "1992-06-01"

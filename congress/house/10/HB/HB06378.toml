@@ -1,0 +1,46 @@
+billNumber = "HB06378"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06378"
+lastScraped = "2025-09-22T00:20:58.546902"
+title = "HB06378"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE TUPAS ELEMENTARY SCHOOL, BARANGAY TUPAS, MUNICIPALITY OF  CARLES, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-02-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-28"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112799
+congress = 10
+bill_no = "HB06378"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-28"

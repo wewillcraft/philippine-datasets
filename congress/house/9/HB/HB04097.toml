@@ -1,0 +1,47 @@
+billNumber = "HB04097"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04097"
+lastScraped = "2025-09-22T00:25:55.373283"
+title = "HB04097"
+longTitle = "AN ACT AUTHORIZING THE ESTABLISHMENT OF  A NATIONAL FOREST PARK IN THE MUNICIPALITY OF TANJAY, PROVINCE OF NEGROS ORIENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-10-27"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122716
+congress = 9
+bill_no = "HB04097"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-10-27"

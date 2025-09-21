@@ -1,0 +1,66 @@
+billNumber = "HB03230"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03230"
+lastScraped = "2025-09-22T00:20:57.970741"
+title = "HB03230"
+longTitle = "AN ACT TO PROTECT THE AGRICULTURAL CROPS OF THE PHILIPPINES FROM THE INTRODUCTION AND SPREAD OF INJURIOUS PLANT PESTS AND FOR OTHER RELATED PURPOSES"
+scope = "National"
+dateFiled = "1995-09-05"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "CRUZ-DUCUT, ZENAIDA", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA"
+nameCode = "Cruz-ducut"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 109651
+congress = 10
+bill_no = "HB03230"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-09-18"

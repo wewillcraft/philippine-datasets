@@ -1,0 +1,47 @@
+billNumber = "HB00624"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00624"
+lastScraped = "2025-09-22T00:25:54.707896"
+title = "HB00624"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE DINALUPIHAN DISTRICT HOSPITAL IN THE MUNICIPALITY OF DINALUPIHAN, PROVINCE OF BATAAN FROM FIFTY (50) TO ONE HUNDRED (100) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on HEALTH since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119243
+congress = 9
+bill_no = "HB00624"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-11"

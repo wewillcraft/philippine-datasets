@@ -1,0 +1,47 @@
+billNumber = "HR01038"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01038"
+lastScraped = "2025-09-22T00:20:59.621403"
+title = "HR01038"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE RECENT TRAGIC AERIAL SHOW INVOLVING AN AIR FORCE FIGHTER KILLING ITS PILOT AND AN INNOCENT CIVILIAN"
+scope = "Local"
+dateFiled = "1997-01-08"
+status = "Pending with the Committee on RULES since 1997-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 118092
+congress = 10
+bill_no = "HR01038"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on National Defense on Jan. 22, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-20"

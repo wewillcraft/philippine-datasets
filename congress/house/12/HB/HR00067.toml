@@ -1,0 +1,62 @@
+billNumber = "HR00067"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00067"
+lastScraped = "2025-09-22T00:13:01.153517"
+title = "HR00067"
+longTitle = "RESOLUTION EXPRESSING THE STRONG SENSE OF THE HOUSE OF REPRESENTATIVES FOR THE CONTINUED IMPLEMENTATION OF SCHOLARSHIPS AND SPECIAL STUDY GRANT PROGRAMS FOR THE CONGRESSIONAL DISTRICTS AND THE INCLUSION OF A BUDGETARY ALLOTMENT IN THE GENERAL APPROPRIATIONS ACT (GAA) FOR THIS PURPOSE STARTING FY 2002 AND EVERY YEAR THEREAFTER"
+scope = "National"
+dateFiled = "2001-07-31"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nachura"
+coAuthors = [ "LACSON, JOSE CARLOS V.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Nachura"
+nameCode = "Nachura"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J041"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 90006
+congress = 12
+bill_no = "HR00067"
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+date_read = "2001-08-06"

@@ -1,0 +1,46 @@
+billNumber = "HR00101"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00101"
+lastScraped = "2025-09-21T23:56:22.815870"
+title = "HR00101"
+longTitle = "A RESOLUTION EXPRESSING SUPPORT FOR THE CREATION OF A PERSONS WITH DISABILITY SECTION IN THE HOUSE OF REPRESENTATIVES CONGRESSIONAL LIBRARY"
+scope = "National"
+dateFiled = "2013-07-24"
+status = "Pending with the Committee on SOCIAL SERVICES since 2013-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00101.pdf"
+fileSize = 168174
+author = "Sy-Alvarado, Ma. Victoria R."
+[[authorsDetail]]
+name = "Sy-Alvarado, Ma. Victoria R."
+nameCode = "Sy-Alvarado"
+date = "2013-07-24"
+sequence = 1
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON MARAWI REHABILITATION AND VICTIMS COMPENSATION"
+type = "principal"
+referralCode = "K502"
+
+[firstReading]
+id = 52500
+congress = 16
+bill_no = "HR00101"
+report = ""
+comm_act = ""
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-31"

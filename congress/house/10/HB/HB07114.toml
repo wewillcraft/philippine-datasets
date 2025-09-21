@@ -1,0 +1,46 @@
+billNumber = "HB07114"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07114"
+lastScraped = "2025-09-22T00:20:58.679700"
+title = "HB07114"
+longTitle = "AN ACT ESTABLISHING A TISSUE BANK FOR COLLECTION AND STORAGE OF HUMAN TISSUES AND BONES FOR TRANSPLANTATION PURPOSE AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-05-23"
+status = "Pending with the Committee on HEALTH since 1996-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-05-28"
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "principal"
+referralCode = "0533"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113535
+congress = 10
+bill_no = "HB07114"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-05-28"

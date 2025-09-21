@@ -1,0 +1,49 @@
+billNumber = "HR00249"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00249"
+lastScraped = "2025-09-22T00:25:57.411833"
+title = "HR00249"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON RURAL DEVELOPMENT AND SOCIAL SERVICES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED INEFFECTIVENESS OF GOVERNMENT CORPORATIONS DIRECTLY ENGAGED IN LIVELIHOOD GENERATION"
+scope = "National"
+dateFiled = "1992-10-09"
+status = "Pending with the Committee on RURAL DEVELOPMENT since 1992-10-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tugung"
+[[authorsDetail]]
+name = "Tugung"
+nameCode = "Tugung"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RURAL DEVELOPMENT"
+type = "primary"
+referralCode = "0533"
+dateRead = "1992-10-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "secondary"
+referralCode = "0535"
+
+[firstReading]
+id = 133561
+congress = 9
+bill_no = "HR00249"
+report = "00731"
+referral = "0533"
+ref_name = "RURAL DEVELOPMENT"
+sub_name = "RURAL DEVELOPMENT, SOCIAL SERVICES"
+date_read = "1992-10-14"
+date_report = "1994-05-19"

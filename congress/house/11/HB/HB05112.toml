@@ -1,0 +1,72 @@
+billNumber = "HB05112"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB05112"
+lastScraped = "2025-09-22T00:23:16.542107"
+title = "HB05112"
+longTitle = "AN ACT CONVERTING THE TAYTAY - HAGUIMIT - TAMBANGAN PROVINCIAL ROAD IN THE MUNICIPALITY OF STA. CRUZ, PROVINCE OF MARINDUQUE INTO NATIONAL ROADS"
+scope = "Local"
+dateFiled = "1998-11-03"
+status = "Approved by the House on 1999-04-27, transmitted to on 1999-05-28 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Edmundo Jr. O."
+[[authorsDetail]]
+name = "Reyes, Edmundo Jr. O."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1998-11-11"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 96547
+congress = 11
+bill_no = "HB05112"
+report = "00235"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1998-11-11"
+date_ob = "1999-03-16"
+date_report = "1999-03-16"
+
+[secondReading]
+id = 16584
+congress = 11
+bill_no = "HB05112"
+remarks = "Considered the Explanatory Note as the sponsorship speech."
+date_approved = "1999-03-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3853
+congress = 11
+bill_no = "HB05112"
+date_dist = "1999-03-23"
+date_adopt = "1999-04-27"
+no_yeas = 161
+no_nays = 0
+no_abstent = 0
+date_trans = "1999-05-28"
+date_rec = "1999-05-29"

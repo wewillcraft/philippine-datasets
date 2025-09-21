@@ -1,0 +1,85 @@
+billNumber = "HB11060"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11060"
+lastScraped = "2025-09-22T00:25:56.607015"
+title = "HB11060"
+longTitle = "AN ACT PROVIDING AND CONSTITUTING BAGUIO CITY AS A LONE CONGRESSIONAL DISTRICT SEPARATE FROM THE PROVINCE OF BENGUET"
+scope = "Local"
+dateFiled = "1993-10-11"
+status = "Approved by the House on 1993-12-01, transmitted to on 1993-12-02 and received by the Senate on 1993"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-11-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HB05720"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB05720"
+flag = "S"
+
+[firstReading]
+id = 129676
+congress = 9
+bill_no = "HB11060"
+report = "00347"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "APPROVAL"
+date_read = "1993-11-17"
+date_ob = "1993-11-17"
+date_cal = "1993-11-17"
+date_unass = "1993-11-17"
+date_report = "1993-10-11"
+
+[secondReading]
+id = 19647
+congress = 9
+bill_no = "HB11060"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1993-11-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1896
+congress = 9
+bill_no = "HB11060"
+date_dist = "1993-11-22"
+date_adopt = "1993-12-01"
+no_yeas = 155
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-12-02"
+date_rec = "1993-12-13"

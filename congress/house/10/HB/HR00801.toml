@@ -1,0 +1,41 @@
+billNumber = "HR00801"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00801"
+lastScraped = "2025-09-22T00:20:59.576449"
+title = "HR00801"
+longTitle = "RESOLUTION URGING THE PHILIPPINE OVERSEAS EMPLOYMENT ADMINISTRATION (POEA) TO CONDUCT AN OCULAR INSPECTION IN THE OVERSEAS PROJECT/JOB SITE OF ALL FOREIGN PRINCIPALS/EMPL OYERS"
+scope = "National"
+dateFiled = "1996-08-22"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 1996-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "1996-08-26"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117855
+congress = 10
+bill_no = "HR00801"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+date_read = "1996-08-26"

@@ -1,0 +1,42 @@
+billNumber = "HR00257"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00257"
+lastScraped = "2025-09-22T00:20:59.471032"
+title = "HR00257"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED ABUSES OF DR. ALFREDO LO, IN HIS CAPACITY AS THE INCUMBENT MEDICAL DIRECTOR OF MANDALUYONG MEDICAL CENTER TOWARDS HIS MEDICAL STAFF AND EMPLOYEES"
+scope = "Local"
+dateFiled = "1995-10-11"
+status = "Pending with the Committee on HEALTH since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117311
+congress = 10
+bill_no = "HR00257"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Health on Oct. 24, 1995."
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-10-23"

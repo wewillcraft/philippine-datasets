@@ -1,0 +1,47 @@
+billNumber = "HB11405"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11405"
+lastScraped = "2025-09-22T00:25:56.678552"
+title = "HB11405"
+longTitle = "AN ACT TO ESTABLISH A CASSAVA PROPAGATION AND DISTRIBUTION CENTER IN THE MUNICIPALITY OF DOLORES, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-11-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-12-06"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130020
+congress = 9
+bill_no = "HB11405"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-12-06"

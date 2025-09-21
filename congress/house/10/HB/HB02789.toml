@@ -1,0 +1,46 @@
+billNumber = "HB02789"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02789"
+lastScraped = "2025-09-22T00:20:57.882893"
+title = "HB02789"
+longTitle = "AN ACT ESTABLISHING A HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF MABINI, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-23"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "secondary"
+referralCode = "0505"
+
+[firstReading]
+id = 109210
+congress = 10
+bill_no = "HB02789"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-29"

@@ -1,0 +1,42 @@
+billNumber = "HR00841"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00841"
+lastScraped = "2025-09-22T00:47:02.690675"
+title = "HR00841"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TOINVESTIGATE, IN AID LEGISLATION, MILITARY INTELLIGENCE REPORTS THAT FOREIGNERS ARE GIVING AID AND COMFORT TO THE COMMUNIST REBELS"
+scope = "National"
+dateFiled = "1988-08-10"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1988-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1988-08-15"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 170722
+congress = 8
+bill_no = "HR00841"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1988-08-15"

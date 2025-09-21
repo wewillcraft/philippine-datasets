@@ -1,0 +1,46 @@
+billNumber = "HB07226"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07226"
+lastScraped = "2025-09-22T00:20:58.702835"
+title = "HB07226"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A DRAINAGE SYSTEM WITHIN THE POBLACION OF THE MUNICIPALITY OF MASBATE, PROVINCE OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113647
+congress = 10
+bill_no = "HB07226"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-06-05"

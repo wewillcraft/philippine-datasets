@@ -1,0 +1,59 @@
+billNumber = "HB03576"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB03576"
+lastScraped = "2025-09-22T00:15:38.397646"
+title = "\\\"Children's Environmental Protection Act\\\""
+longTitle = "AN ACT TO PROTECT CHILDREN AND OTHER VULNERABLE SUBPOPULATIONS FROM EXPOSURE TO CERTAIN ENVIRONMENTAL POLLUTANTS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2008-02-13"
+status = "Pending with the Committee on ECOLOGY since 2008-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "CODILLA, EUFROCINO SR. M.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR. M."
+nameCode = "Codilla"
+date = ""
+journalNo = "J065"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2008-02-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 69547
+congress = 14
+bill_no = "HB03576"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2008-02-26"

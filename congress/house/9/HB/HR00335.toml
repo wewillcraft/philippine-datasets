@@ -1,0 +1,42 @@
+billNumber = "HR00335"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00335"
+lastScraped = "2025-09-22T00:25:57.426749"
+title = "HR00335"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION INTO THE REPORTED LANDING OF HIGH-POWERED COMBAT WEAPONS IN THE PROVINCE OF MAGUINDANAO AND TO SUBMIT A COMPLETE REPORT OF THE INCIDENT TO THE HOUSE OF REPRESENTATIVES"
+scope = "Local"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 133647
+congress = 9
+bill_no = "HR00335"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-11-16"

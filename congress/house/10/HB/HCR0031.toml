@@ -1,0 +1,54 @@
+billNumber = "HCR0031"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0031"
+lastScraped = "2025-09-22T00:20:59.414052"
+title = "HCR0031"
+longTitle = "CONCURRENT RESOLUTION GRANTING CONDONATION OF THE OUTSTANDING BALANCE OF FORMER BENGUET GOVERNOR ANDRES R. BUGNOSEN TO THE NATIONAL FOOD AUTHORITY INCURRED DURING THE 1990 EARTHQUAKE"
+scope = "Local"
+dateFiled = "1996-09-12"
+status = "Adopted as Resolution No.  on 1997-01-20"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cosalan, Ronald M."
+[[authorsDetail]]
+name = "Cosalan, Ronald M."
+nameCode = "Cosalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117002
+congress = 10
+bill_no = "HCR0031"
+report = "00678"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+recomm = "Adoption"
+date_read = "1996-09-23"
+date_ob = "1996-12-04"
+date_report = "1996-12-02"
+
+[secondReading]
+id = 18885
+congress = 10
+bill_no = "HCR0031"
+date_calendared = "1997-01-20"
+date_approved = "1997-01-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

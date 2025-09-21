@@ -1,0 +1,42 @@
+billNumber = "HB03499"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03499"
+lastScraped = "2025-09-22T00:25:55.215699"
+title = "HB03499"
+longTitle = "AN ACT INCLUDING ENGLISH AS AN ADDITIONAL SUBJECT IN THE LAW CURRICULUM"
+scope = "National"
+dateFiled = "1992-10-08"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-10-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 122118
+congress = 9
+bill_no = "HB03499"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-10-13"

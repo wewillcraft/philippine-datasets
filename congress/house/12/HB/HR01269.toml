@@ -1,0 +1,83 @@
+billNumber = "HR01269"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01269"
+lastScraped = "2025-09-22T00:13:01.433044"
+title = "HR01269"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON NATIONAL DEFENSE TO SUSPEND ITS INVESTIGATION, IN AID OF LEGISLATION, ON THE FAILED COUP ATTEMPT OF JULY 27, 2003"
+scope = "National"
+dateFiled = "2003-08-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 2003-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+coAuthors = [ "NACHURA, ANTONIO EDUARDO B.", "ACOSTA, J.R NEREUS O.", "NANTES, RAFAEL P.", "AQUINO, BENIGNO SIMEON III C.", "UMALI, ALFONSO JR. V.",]
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NACHURA, ANTONIO EDUARDO B."
+nameCode = "Nachura"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ACOSTA, J.R NEREUS O."
+nameCode = "Acosta"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "NANTES, RAFAEL P."
+nameCode = "Nantes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AQUINO, BENIGNO SIMEON III C."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "UMALI, ALFONSO JR. V."
+nameCode = "Umali"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "2003-08-20"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 91204
+congress = 12
+bill_no = "HR01269"
+report = ""
+comm_act = ""
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2003-08-27"
+date_read = "2003-08-20"

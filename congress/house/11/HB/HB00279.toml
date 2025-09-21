@@ -1,0 +1,91 @@
+billNumber = "HB00279"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB00279"
+lastScraped = "2025-09-22T00:23:15.552065"
+title = "HB00279"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED SIXTY-FIVE HUNDRED AND THIRTY-NINE, OTHERWISE KNOWN AS THE \"ANTI-CARNAPPIN G ACT OF 1972\"(NOTE: PROOF OF OWNERSHIP)"
+scope = "National"
+dateFiled = "1998-07-01"
+status = "Approved by the House on 2000-05-16, transmitted to on 2000-05-18 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "LORETO-GO, MA. CATALINA L.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LORETO-GO, MA. CATALINA L."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[motherBills]]
+bill_no = "HB00091"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB00091"
+flag = "S"
+
+[firstReading]
+id = 91720
+congress = 11
+bill_no = "HB00279"
+report = "00485"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "PUBLIC ORDER AND SECURITY"
+recomm = "approval"
+date_read = "1998-07-28"
+date_ob = "1999-11-08"
+date_report = "1999-10-26"
+
+[secondReading]
+id = 16202
+congress = 11
+bill_no = "HB00279"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_calendared = "2000-01-18"
+date_approved = "2000-04-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3479
+congress = 11
+bill_no = "HB00279"
+date_dist = "2000-04-10"
+date_adopt = "2000-05-16"
+no_yeas = 131
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-05-18"
+date_rec = "2000-05-24"

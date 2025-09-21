@@ -1,0 +1,46 @@
+billNumber = "HB08865"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08865"
+lastScraped = "2025-09-22T00:20:59.052414"
+title = "HB08865"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF FOUR (4) ADDITIONAL CLASSROOMS IN GAPAN EAST CENTRAL ELEMENTARY SCHOOL AT GAPAN, NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-01-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1997-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-02-05"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115286
+congress = 10
+bill_no = "HB08865"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1997-02-05"

@@ -1,0 +1,47 @@
+billNumber = "HR00428"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00428"
+lastScraped = "2025-09-21T23:56:22.874909"
+title = "HR00428"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE/S OF THE HOUSE OF REPRESENTATIVES TO LOOK INTO, IN AID OF LEGISLATION, THE PREVALENCE OF CONTAMINATED AND UNHEALTHY FOODS, AND TOXIC CONSUMER PRODUCTS IN COMMERCIAL PLACES, PUBLIC ROADS OR STREETS WHICH, IF NOT IMMEDIATELY ADDRESSED, WILL SURELY UNDERMINE PUBLIC HEALTH AND SAFETY"
+scope = "National"
+dateFiled = "2013-10-23"
+status = "Pending with the Committee on HEALTH since 2013-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00428.pdf"
+fileSize = 143139
+author = "Escudero, Evelina G."
+[[authorsDetail]]
+name = "Escudero, Evelina G."
+nameCode = "Escudero"
+date = "2013-10-23"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-11-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 52827
+congress = 16
+bill_no = "HR00428"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-12-16"
+date_read = "2013-11-18"

@@ -1,0 +1,42 @@
+billNumber = "HB09167"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09167"
+lastScraped = "2025-09-22T00:46:58.210716"
+title = "HB09167"
+longTitle = "AN ACT TO ESTABLISH A BARANGAY HEALTH CENTER IN THE BARANGAY OF CAMBAN-UG, MUNICIPALITY OF TOLEDO, PROVINCE OF CEBU, AND TO AUTHORIZE THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-10"
+status = "Pending with the Committee on HEALTH since 1988-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-16"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 143842
+congress = 8
+bill_no = "HB09167"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-16"

@@ -1,0 +1,56 @@
+billNumber = "HR00008"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00008"
+lastScraped = "2025-09-22T00:20:59.426441"
+title = "HR00008"
+longTitle = "RESOLUTION CALLING ON PRESIDENT FIDEL V. RAMOS TO SUSPEND FROM OFFICE ALL GOVERNMENT OFFICIALS FACING CRIMINAL CHARGES BEFORE THE SANDIGANBAYAN AND/OR REGULAR COURTS OF LAW, WITHOUT PREJUDICE TO REINSTATEMENT AND RESTITUTION IN CASE OF FINDINGS OF THEIR INNOCENSE"
+scope = "National"
+dateFiled = "1995-07-04"
+status = "Pending with the Committee on JUSTICE since 1995-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "DRAGON, RENATO P.", "GULLAS, EDUARDO R.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GULLAS, EDUARDO R."
+nameCode = "Gullas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-07-25"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 117062
+congress = 10
+bill_no = "HR00008"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-07-25"

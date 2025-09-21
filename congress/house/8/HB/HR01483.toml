@@ -1,0 +1,42 @@
+billNumber = "HR01483"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01483"
+lastScraped = "2025-09-22T00:47:02.815780"
+title = "HR01483"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON BANKS AND CURRENCIES, IN AID OF LEGISLATION, TO LOOK INTO THE SOARING INTEREST BANK RATES IN THE COUNTRY WHICH COULD SERIOUSLY PERIL OUR SPEEDY ECONOMIC RECOVERY PROGRAM"
+scope = "National"
+dateFiled = "1989-10-02"
+status = "Pending with the Committee on BANKS AND CURRENCIES since 1989-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND CURRENCIES"
+type = "primary"
+referralCode = "505"
+dateRead = "1989-10-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171346
+congress = 8
+bill_no = "HR01483"
+referral = "505"
+ref_name = "BANKS AND CURRENCIES"
+sub_name = ""
+date_read = "1989-10-02"

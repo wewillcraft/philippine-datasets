@@ -1,0 +1,68 @@
+billNumber = "HB02879"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB02879"
+lastScraped = "2025-09-21T23:39:48.857839"
+title = "HB02879"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE CENTER FOR DIABETES AND ENDOCRINOLOGY AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-08-04"
+status = "Pending with the Committee on HEALTH since 2025-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB02879.pdf"
+fileSize = 438583
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "ORETA, ANTOLIN III A.", "YATCO, FLORABEL C.", "OLIVAREZ, ERIC L.",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2025-08-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ORETA, ANTOLIN III A."
+nameCode = "Oreta (A. A.)"
+date = "2025-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "YATCO, FLORABEL C."
+nameCode = "Yatco"
+date = "2025-08-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2025-09-17"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-06"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 2880
+congress = 103
+bill_no = "HB02879"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-08-06"

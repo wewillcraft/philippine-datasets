@@ -1,0 +1,47 @@
+billNumber = "HR00969"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00969"
+lastScraped = "2025-09-21T23:55:46.418918"
+title = "HR00969"
+longTitle = "RESOLUTION DIRECTING THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE MASS LEAVE AND RESIGNATION OF IMMIGRATION OFFICERS IN THE BUREAU OF IMMIGRATION"
+scope = "National"
+dateFiled = "2017-05-08"
+status = "Pending with the Committee on JUSTICE since 2017-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00969.pdf"
+fileSize = 449959
+author = "Lacson, Virgilio S."
+[[authorsDetail]]
+name = "Lacson, Virgilio S."
+nameCode = "Lacson"
+date = "2017-05-08"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2017-05-15"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 43711
+congress = 17
+bill_no = "HR00969"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-05-24"
+date_read = "2017-05-15"

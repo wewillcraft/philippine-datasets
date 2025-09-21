@@ -1,0 +1,49 @@
+billNumber = "HB06063"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06063"
+lastScraped = "2025-09-22T00:20:58.487798"
+title = "HB06063"
+longTitle = "AN ACT AMENDING SECTIONS 291, 292 AND 294 OF REPUBLIC ACT NO. 7160, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE"
+scope = "Local"
+dateFiled = "1996-02-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-02-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112484
+congress = 10
+bill_no = "HB06063"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-02-06"

@@ -1,0 +1,56 @@
+billNumber = "HB10083"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10083"
+lastScraped = "2025-09-22T00:20:59.309662"
+title = "HB10083"
+longTitle = "AN ACT CREATING A REGULATORY BOARD FOR PRINT MEDIA OTHERWISE KNOWN AS THE \"PRINT MEDIA REGULATORY BOARD\" AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-10-08"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1997-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1997-10-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116504
+congress = 10
+bill_no = "HB10083"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1997-10-13"

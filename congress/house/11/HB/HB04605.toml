@@ -1,0 +1,47 @@
+billNumber = "HB04605"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB04605"
+lastScraped = "2025-09-22T00:23:16.402836"
+title = "HB04605"
+longTitle = "AN ACT ESTABLISHING THE RULES FOR A COMPETITIVELY NEUTRAL GOVERNMENT AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-10-15"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1998-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salceda, Joey Sarte"
+[[authorsDetail]]
+name = "Salceda, Joey Sarte"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1998-10-20"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 96040
+congress = 11
+bill_no = "HB04605"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1998-10-20"

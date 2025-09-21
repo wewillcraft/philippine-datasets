@@ -1,0 +1,41 @@
+billNumber = "HB09432"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09432"
+lastScraped = "2025-09-22T00:20:59.165987"
+title = "HB09432"
+longTitle = "AN ACT WHICH SEEKS TO INCREASE LOCAL GOVERNMENT PARTICIPATION IN ENVIRONMENTAL PROTECTION BY ENLARGING THE POWER OF LOCAL LEGISLATIVE BODIES IN CREATING ENVIRONMENTAL CONTROL MEASURES FOR THEIR RESPECTIVE JURISDICTIONS"
+scope = "National"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-05-22"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 115853
+congress = 10
+bill_no = "HB09432"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-05-22"

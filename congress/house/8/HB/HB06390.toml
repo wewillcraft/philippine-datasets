@@ -1,0 +1,42 @@
+billNumber = "HB06390"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06390"
+lastScraped = "2025-09-22T00:46:57.744059"
+title = "HB06390"
+longTitle = "AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF SANTA ROSA, PROVINCE OF LAGUNA"
+scope = "Local"
+dateFiled = "1988-03-14"
+status = "Pending with the Committee on HEALTH since 1988-03-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-16"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "principal"
+referralCode = "0518"
+
+[firstReading]
+id = 141071
+congress = 8
+bill_no = "HB06390"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-16"

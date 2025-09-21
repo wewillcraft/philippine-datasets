@@ -1,0 +1,41 @@
+billNumber = "HB08417"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08417"
+lastScraped = "2025-09-22T00:20:58.958185"
+title = "HB08417"
+longTitle = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY ALYAG IN THE MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-11-12"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-11-14"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 114838
+congress = 10
+bill_no = "HB08417"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-11-14"

@@ -1,0 +1,46 @@
+billNumber = "HB06155"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06155"
+lastScraped = "2025-09-22T00:20:58.505586"
+title = "HB06155"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE ALTAVAS EMERGENCY HOSPITAL IN ALTAVAS, AKLAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-07"
+status = "Pending with the Committee on HEALTH since 1996-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112576
+congress = 10
+bill_no = "HB06155"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-02-12"

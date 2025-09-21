@@ -1,0 +1,49 @@
+billNumber = "HB10039"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10039"
+lastScraped = "2025-09-22T00:20:59.293365"
+title = "HB10039"
+longTitle = "AN ACT AMENDING SECTION 14 OF REPUBLIC ACT NO. 8180, OTHERWISE KNOWN AS THE 'DOWNSTREAM OIL INDUSTRY DEREGULATION ACT OF 1996'"
+scope = "National"
+dateFiled = "1997-10-01"
+status = "Pending with the Committee on ENERGY since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 116460
+congress = 10
+bill_no = "HB10039"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1997-10-06"

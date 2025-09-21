@@ -1,0 +1,46 @@
+billNumber = "HR01520"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01520"
+lastScraped = "2025-09-22T00:23:18.234742"
+title = "HR01520"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES AND THE COMMITTEE ON BASIC EDUCATION AND CULTURE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, TO RESOLVE THE ALLEGED CONFLICT OF JURISDICTION BETWEEN R.A. 8492 (AN ACT ESTABLISHING A NATIONAL MUSEUM, PROVIDING FOR ITS PERMANENT HOME AND FOR OTHER PURPOSES) AND P.D. 374 (CULTURAL PROPERTIES PRESERVATION AND PROTECTION ACT) OF THE NATIONAL MUSEUM AND E.O. 247 (PRESCRIBING GUIDELINES AND ESTABLISHING A REGULATORY FRAMEWORK FOR PROSPECTING OF BIOLOGICAL AND GENETIC RESOURCES, THEIR BY-PRODUCT AND DERIVATIVES, FOR SCIENTIFIC AND COMMERCIAL PURPOSES) OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES"
+scope = "National"
+dateFiled = "2000-04-12"
+status = "Pending with the Committee on BASIC EDUCATION since 2000-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASIC EDUCATION"
+type = "primary"
+referralCode = "C501"
+dateRead = "2000-05-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 105975
+congress = 11
+bill_no = "HR01520"
+referral = "C501"
+ref_name = "BASIC EDUCATION"
+sub_name = ""
+date_read = "2000-05-08"

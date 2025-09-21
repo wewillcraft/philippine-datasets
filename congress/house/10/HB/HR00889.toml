@@ -1,0 +1,57 @@
+billNumber = "HR00889"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00889"
+lastScraped = "2025-09-22T00:20:59.592772"
+title = "HR00889"
+longTitle = "RESOLUTION REQUESTING THE DEPARTMENT OF BUDGET AND MANAGEMENT FOR THE IMMEDIATE RELEASE OF FIVE HUNDRED MILLION PESOS FOR THE CONCRETING OF THE NATIONAL HIGHWAY FOR THE ENTIRE PROVINCE OF SURIGAO DEL SUR"
+scope = "Local"
+dateFiled = "1996-10-07"
+status = "Adopted as Resolution No. HR00086 on 1996-12-12"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117943
+congress = 10
+bill_no = "HR00889"
+report = "00702"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "Adoption"
+date_read = "1996-10-09"
+date_ob = "1996-12-09"
+date_report = "1996-12-09"
+
+[secondReading]
+id = 19001
+congress = 10
+bill_no = "HR00889"
+adopted_resolution = "HR00086"
+date_calendared = "1996-12-12"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00086.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00086.pdf"

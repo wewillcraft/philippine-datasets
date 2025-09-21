@@ -1,0 +1,46 @@
+billNumber = "HB07616"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07616"
+lastScraped = "2025-09-22T00:20:58.770699"
+title = "HB07616"
+longTitle = "AN ACT CONVERTING THE ABORLAN MEDICARE HOSPITAL IN THE MUNICIPALITY OF ABORLAN, PROVINCE OF PALAWAN, INTO THE ABORLAN MUNICIPAL HOSPITAL AND INCREASING ITS BED CAPACITY FROM 15-BED TO 25-BED, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-30"
+status = "Pending with the Committee on HEALTH since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114037
+congress = 10
+bill_no = "HB07616"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-08-05"

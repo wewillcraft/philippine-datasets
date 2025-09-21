@@ -1,0 +1,61 @@
+billNumber = "HB03641"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03641"
+lastScraped = "2025-09-22T00:20:58.049725"
+title = "HB03641"
+longTitle = "AN ACT CREATING THE PROVINCE OF MINDORO DEL SUR"
+scope = "Local"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "LEVISTE, RENATO V.", "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LEVISTE, RENATO V."
+nameCode = "Leviste"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110062
+congress = 10
+bill_no = "HB03641"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-09-25"

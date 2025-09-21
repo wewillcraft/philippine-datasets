@@ -1,0 +1,42 @@
+billNumber = "HR00143"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00143"
+lastScraped = "2025-09-22T00:20:59.449367"
+title = "HR00143"
+longTitle = "RESOLUTION FOR THE HOUSE THROUGH ITS APPROPRIATE COMMITTEE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE RAPID PROLIFERATION OF THE SO-CALLED 'DIETARY' OR 'NUTRITION' SUPPLEMENTS, AND THEIR EFFICACY AND SAFETY, AS WELL AS THE ADEQUACY OF REGULATORY POWERS OF THE GOVERNMENT TO ENSURE CONSUMER PROTECTION AND SAFETY"
+scope = "National"
+dateFiled = "1995-08-28"
+status = "Pending with the Committee on HEALTH since 1995-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "principal"
+referralCode = "0512"
+
+[firstReading]
+id = 117197
+congress = 10
+bill_no = "HR00143"
+comm_act = "CHANGE OF REFERRAL FROM THE CTTE. ON RULES TO THE CTTE. ON HEALTH ON SEPT. 5, 1995."
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-09-04"

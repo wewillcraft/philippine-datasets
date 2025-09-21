@@ -1,0 +1,42 @@
+billNumber = "HR01467"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01467"
+lastScraped = "2025-09-22T00:47:02.813599"
+title = "HR01467"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON SOCIAL SERVICES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE DRUG ABUSE PROBLEM AND TO RECOMMEND MEASURES TO REMEDY THE SITUATION"
+scope = "National"
+dateFiled = "1989-09-25"
+status = "Pending with the Committee on SOCIAL SERVICES since 1989-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dans"
+[[authorsDetail]]
+name = "Dans"
+nameCode = "Dans"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1989-09-25"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 171330
+congress = 8
+bill_no = "HR01467"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1989-09-25"

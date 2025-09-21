@@ -1,0 +1,46 @@
+billNumber = "HB08505"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08505"
+lastScraped = "2025-09-22T00:20:58.974886"
+title = "HB08505"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF ADDITIONAL MUNICIPAL TRIAL COURT IN CITIES IN THE CITY OF LIPA AND THE CITY OF BATANGAS, AMENDING FOR THE PURPOSE SECTION 29 OF BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF1980, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-11-27"
+status = "Pending with the Committee on JUSTICE since 1996-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114926
+congress = 10
+bill_no = "HB08505"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-12-03"

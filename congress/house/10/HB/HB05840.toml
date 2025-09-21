@@ -1,0 +1,56 @@
+billNumber = "HB05840"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05840"
+lastScraped = "2025-09-22T00:20:58.448952"
+title = "HB05840"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA FOR MILITARY OFFICERS"
+scope = "National"
+dateFiled = "1996-01-23"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "SERAPIO, ANTONIO M.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SERAPIO, ANTONIO M."
+nameCode = "Serapio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 112261
+congress = 10
+bill_no = "HB05840"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1996-01-29"

@@ -1,0 +1,42 @@
+billNumber = "HB05352"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05352"
+lastScraped = "2025-09-22T00:46:57.490587"
+title = "HB05352"
+longTitle = "AN ACT UPGRADING THE AIRPORT IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE, FROM A FEEDER INTO A SECONDARY AIRPORT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-02-09"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1988-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1988-02-11"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 140034
+congress = 8
+bill_no = "HB05352"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1988-02-11"

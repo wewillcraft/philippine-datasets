@@ -1,0 +1,57 @@
+billNumber = "HR00221"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00221"
+lastScraped = "2025-09-22T00:13:01.186028"
+title = "HR00221"
+longTitle = "RESOLUTION CREATING AN OVERSIGHT COMMITTEE TO CHECK ON THE OPERATIONS OF INTELLIGENCE UNITS OF GOVERNMENT AGENCIES TO ENSURE THAT THE FUNDS ALLOCATED THEREFOR ARE UTILIZED FOR THE PURPOSE THEY ARE INTENDED"
+scope = "National"
+dateFiled = "2001-10-01"
+status = "Pending with the Committee on RULES since 2001-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino, Benigno Simeon  III C."
+coAuthors = [ "ECHIVERRI, ENRICO R.", "CUENCO, ANTONIO V.",]
+[[authorsDetail]]
+name = "Aquino, Benigno Simeon  III C."
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CUENCO, ANTONIO V."
+nameCode = "Cuenco"
+date = ""
+journalNo = "J050"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-10-09"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 90160
+congress = 12
+bill_no = "HR00221"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-10-09"

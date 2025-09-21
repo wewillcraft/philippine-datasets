@@ -1,0 +1,48 @@
+billNumber = "HB03300"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03300"
+lastScraped = "2025-09-22T00:13:00.401253"
+title = "HB03300"
+longTitle = "AN ACT TO AMEND REPUBLIC ACT NUMBERED THREE THOUSAND FOUR HUNDRED FIFTY-SIX, AS AMENDED BY THE REPUBLIC ACT NUMBERED FOUR THOUSAND ONE HUNDRED SEVENTY-SEVEN, OTHERWISE KNOWN AS `INTERNAL AUDITING ACT OF 1962'"
+scope = "National"
+dateFiled = "2001-09-28"
+status = "Pending with the Committee on REVISION OF LAWS since 2001-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Taganas Layus"
+[[authorsDetail]]
+name = "Taganas Layus"
+nameCode = "Taganas Layus"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "2001-10-08"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 86460
+congress = 12
+bill_no = "HB03300"
+comm_act = "chnge of cttee. ref'l from Civil Service & Prof'l Reg. as per J. 76; p.35m"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "2001-10-08"

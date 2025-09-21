@@ -1,0 +1,41 @@
+billNumber = "HB10525"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10525"
+lastScraped = "2025-09-22T00:20:59.401645"
+title = "HB10525"
+longTitle = "AN ACT REQUIRING DISCLOSURE OF CERTAIN INFORMATION BY ALL BANKS AND FINANCIAL INSTITUTIONS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-02-06"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1998-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Osmeña"
+[[authorsDetail]]
+name = "Osmeña"
+nameCode = "Osmeña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1998-02-06"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 116945
+congress = 10
+bill_no = "HB10525"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1998-02-06"

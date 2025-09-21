@@ -1,0 +1,57 @@
+billNumber = "HR00452"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00452"
+lastScraped = "2025-09-22T00:20:59.505573"
+title = "HR00452"
+longTitle = "RESOLUTION REQUESTING THE APPROPRIATE COMMITTEE(S) OF THE HOUSE OF REPRESENTATIVES TO MAKE AN INQUIRY, IN AID OF LEGISLATION, ON THE PROPRIETY AND LEGALITY OF THE NATIONAL POWER CORPORATION'S (NAPOCOR) INSTALLING A FIBER-OPTIC TELECOMMUNICATI ON BACKBONE USING THEIR PRESENT TRANSMISSION TOWER FACILITIES"
+scope = "National"
+dateFiled = "1996-02-06"
+status = "Pending with the Committee on ENERGY since 1996-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suarez, Danilo E."
+coAuthors = [ "VERCELES, LEANDRO JR. B.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117506
+congress = 10
+bill_no = "HR00452"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Energy on Feb. 14, 1996."
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1996-02-12"

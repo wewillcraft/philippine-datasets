@@ -1,0 +1,43 @@
+billNumber = "HR00539"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00539"
+lastScraped = "2025-09-22T00:25:57.466065"
+title = "HR00539"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY IN AID OF LEGISLATION TO DETERMINE THE INVENTORY OF MEDICINES IN ALL PUBLIC HOSPITALS OR OTHER GOVERNMENT-OWNE D-OR-CONTROLLED HOSPITALS, THE PRICING, PROCUREMENT AND DISPENSATION PRACTICES ON THE MEDICINES BEING IMPLEMENTED BY SAID HOSPITALS AND THE EFFECTS AND EFFICIENCY OF SUCH PRACTICES ON THE PUBLIC"
+scope = "National"
+dateFiled = "1993-03-11"
+status = "Pending with the Committee on HEALTH since 1993-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-03-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133851
+congress = 9
+bill_no = "HR00539"
+comm_act = "Change of referral from the Committee on Rules as per Rules Memo dtd. 3-22-93"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-03-17"

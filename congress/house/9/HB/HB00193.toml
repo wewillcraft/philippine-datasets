@@ -1,0 +1,55 @@
+billNumber = "HB00193"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00193"
+lastScraped = "2025-09-22T00:25:54.628548"
+title = "HB00193"
+longTitle = "AN ACT ESTABLISHING THE PALAWAN RESEARCH INSTITUTE FOR FOREST PRODUCTS IN THE MUNICIPALITY OF SAN VICENTE, PROVINCE OF PALAWAN AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-20"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "BAGUIO, CELSO O.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAGUIO, CELSO O."
+nameCode = "Baguio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-07-29"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118812
+congress = 9
+bill_no = "HB00193"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-07-29"

@@ -1,0 +1,101 @@
+billNumber = "HB06211"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06211"
+lastScraped = "2025-09-21T23:56:22.718634"
+title = "Creating A Barangay To Be Known As Barangay Tigpalas In The Municipality Of San Miguel, Province Of Bulacan"
+longTitle = "AN ACT CREATING A BARANGAY TO BE KNOWN AS BARANGAY TIGPALAS IN THE MUNICIPALITY OF SAN MIGUEL, PROVINCE OF BULACAN"
+scope = "Local"
+dateFiled = "2015-10-07"
+status = "Approved by the House on 2015-12-16, transmitted to the Senate on 2016-01-06 and received by the Senate on 2016-01-06"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mendoza, Joselito 'Jonjon' R."
+[[authorsDetail]]
+name = "Mendoza, Joselito 'Jonjon' R."
+nameCode = "Mendoza (J.)"
+date = "2015-10-07"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2015-10-08"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "principal"
+referralCode = "0535"
+
+[[motherBills]]
+bill_no = "HB04328"
+sequence = 1
+date = "2015-10-07"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04328"
+sequence = 1
+date = "2015-10-07"
+flag = "S"
+
+[firstReading]
+id = 52025
+congress = 16
+bill_no = "HB06211"
+report = "00920"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+remarks = ""
+file = "CR00920.pdf"
+date_read = "2015-10-08"
+date_ob = "2015-10-08"
+date_report = "2015-10-07"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00920.pdf"
+
+[secondReading]
+id = 5992
+congress = 16
+bill_no = "HB06211"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2015-10-07"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+
+[thirdReading]
+id = 10442
+congress = 16
+bill_no = "HB06211"
+date_dist = "2015-10-09"
+date_adopt = "2015-12-16"
+remarks = "    "
+no_yeas = 229
+no_nays = 0
+no_abstent = 0
+date_trans = "2016-01-06"
+date_rec = "2016-01-06"
+amend_ind = " "
+ccreqby = " "
+for_enroll = " "
+act_pres = " "
+cc_yeas = 0
+cc_nays = 0
+cc_absten = 0
+file = "hbt6211.pdf"
+third_reading_copy = "https://docs.congress.hrep.online/legisdocs/third_16/hbt6211.pdf"

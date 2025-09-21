@@ -1,0 +1,42 @@
+billNumber = "HR01132"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01132"
+lastScraped = "2025-09-22T00:25:57.574448"
+title = "HR01132"
+longTitle = "RESOLUTION REQUESTING THE BASE CONVERSION DEVELOPMENT AUTHORITY TO ALLOCATE TWENTY (20) HECTARES OF THE VILLAMOR AIRBASE PROPERTY FOR PASAY CITY MEMORIAL PARK"
+scope = "Local"
+dateFiled = "1994-07-28"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1994-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1994-08-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 134438
+congress = 9
+bill_no = "HR01132"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1994-08-03"

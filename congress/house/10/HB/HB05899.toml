@@ -1,0 +1,49 @@
+billNumber = "HB05899"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05899"
+lastScraped = "2025-09-22T00:20:58.458159"
+title = "HB05899"
+longTitle = "AN ACT CHANGING THE NAME OF THE JANIUAY DISTRICT HOSPITAL IN BARANGAY JIBOLO, MUNICIPALITY OF JANIUAY, PROVINCE OF ILOILO, TO FEDERICO R. TIRADOR, SR. MEMORIAL DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "Pending with the Committee on HEALTH since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+coAuthors = [ "TIRADOR, LICURGO P.",]
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TIRADOR, LICURGO P."
+nameCode = "Tirador"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 112320
+congress = 10
+bill_no = "HB05899"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-29"

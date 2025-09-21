@@ -1,0 +1,64 @@
+billNumber = "HB04225"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04225"
+lastScraped = "2025-09-22T00:46:57.296826"
+title = "HB04225"
+longTitle = "AN ACT GRANTING COMPENSATION TO THOSE PERSONS CONVICTED BY THE COURTS BUT LATER PROVEN INNOCENT"
+scope = "National"
+dateFiled = "1987-12-03"
+status = "Pending with the Committee on JUSTICE since 1987-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ponce De Leon"
+coAuthors = [ "BANDON, ALAWADIN JR. T.", "DUREZA, JESUS G.", "MITRA, RAMON JR. V.",]
+[[authorsDetail]]
+name = "Ponce De Leon"
+nameCode = "Ponce De Leon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BANDON, ALAWADIN JR. T."
+nameCode = "Bandon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DUREZA, JESUS G."
+nameCode = "Dureza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MITRA, RAMON JR. V."
+nameCode = "Mitra"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-12-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 138911
+congress = 8
+bill_no = "HB04225"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1987-12-09"

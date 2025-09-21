@@ -1,0 +1,47 @@
+billNumber = "HB08800"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08800"
+lastScraped = "2025-09-22T00:25:56.182468"
+title = "HB08800"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER AT BARANGAY UBALDE IN THE CITY OF DAVAO TO BE KNOWN AS THE UBALDE BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-26"
+status = "Pending with the Committee on HEALTH since 1993-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-05-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127418
+congress = 9
+bill_no = "HB08800"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-05-05"

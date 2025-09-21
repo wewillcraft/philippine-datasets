@@ -1,0 +1,42 @@
+billNumber = "HB12185"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12185"
+lastScraped = "2025-09-22T00:25:56.843696"
+title = "HB12185"
+longTitle = "AN ACT DECLARING THE SITIO KALAYAAN IN BARANGAY SAN ANTONIO, MUNICIPALITY OF KALAYAAN, PROVINCE OF LAGUNA, AN AGRO-INDUSTRIAL AND TOURIST ZONE, THEREBY AUTHORIZING THE ESTABLISHMENT OF SPECIAL DEVELOPMENT AND LIVELIHOOD PROJECTS THEREOF, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1994-03-01"
+status = "Pending with the Committee on TOURISM since 1994-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-03-07"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130800
+congress = 9
+bill_no = "HB12185"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-03-07"

@@ -1,0 +1,81 @@
+billNumber = "HB05581"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05581"
+lastScraped = "2025-09-22T00:13:00.852875"
+title = "HB05581"
+longTitle = "AN ACT CREATING A NATIONAL STUDENT LOAN BOARD TO IMPLEMENT A NATIONAL STUDENT LOAN PROGRAM FOR THE POOR, DEFINING ITS IMPLEMENTING GUIDELINES, RULES AND REGULATIONS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2003-01-10"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2003-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+coAuthors = [ "TULAGAN, GENEROSO DC.", "CARI, CARMEN L.", "ALMARIO, J. MAYO Z.", "MATHAY ISMAEL III G.",]
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J042"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J049"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ALMARIO, J. MAYO Z."
+nameCode = "Almario"
+date = ""
+journalNo = "J057"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MATHAY ISMAEL III G."
+nameCode = "Mathay"
+date = ""
+journalNo = "J002"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2003-01-25"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 88736
+congress = 12
+bill_no = "HB05581"
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+date_read = "2003-01-25"

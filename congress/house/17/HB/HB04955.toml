@@ -1,0 +1,67 @@
+billNumber = "HB04955"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB04955"
+lastScraped = "2025-09-21T23:55:45.061305"
+title = "HB04955"
+longTitle = "AN ACT INSTITUTIONALIZING AN EMERGENCY MEDICAL SERVICES SYSTEM (EMSS), PROVIDING FOR THE CREATION OF A NATIONAL EMSS COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2017-02-06"
+status = "Pending with the Committee on HEALTH since 2017-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB04955.pdf"
+fileSize = 942067
+author = "Salo, Ron P."
+coAuthors = [ "CALALANG, CIRIACO", "HERNANDEZ, PAUL P.",]
+[[authorsDetail]]
+name = "Salo, Ron P."
+nameCode = "Salo"
+date = "2017-02-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CALALANG, CIRIACO"
+nameCode = "Calalang"
+date = "2018-01-23"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "HERNANDEZ, PAUL P."
+nameCode = "Hernandez (P.)"
+date = "2018-12-18"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2017-02-13"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "secondary"
+referralCode = "0506"
+
+[firstReading]
+id = 38423
+congress = 17
+bill_no = "HB04955"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-10-02"
+date_read = "2017-02-13"

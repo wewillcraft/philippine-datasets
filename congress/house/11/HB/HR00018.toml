@@ -1,0 +1,55 @@
+billNumber = "HR00018"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00018"
+lastScraped = "2025-09-22T00:23:17.953751"
+title = "HR00018"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD AND THE COMMITTEE ON TOURISM TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE CONDITION OF THE IFUGAO RICE TERRACES WITH THE END IN VIEW OF RECOMMENDING POLICIES ANDREMEDIAL MEASURES FOR THEIR PROTECTION AND REHABILITATION"
+scope = "Local"
+dateFiled = "1998-07-01"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1998-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "FLOIRENDO, ANTONIO JR. R.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "FLOIRENDO, ANTONIO JR. R."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1998-07-28"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "TOURISM"
+type = "secondary"
+referralCode = "0538"
+
+[firstReading]
+id = 104476
+congress = 11
+bill_no = "HR00018"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1998-07-28"

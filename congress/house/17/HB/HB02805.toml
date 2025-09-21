@@ -1,0 +1,68 @@
+billNumber = "HB02805"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02805"
+lastScraped = "2025-09-21T23:55:44.649210"
+title = "HB02805"
+longTitle = "AN ACT CRIMINALIZING RECKLESS DRIVING AND PROVIDING PENALTIES FOR THE COMMISSION THEREOF AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-08-10"
+status = "Pending with the Committee on JUSTICE since 2016-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02805.pdf"
+fileSize = 579997
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "LAZATIN, CARMELO II B.", "SILVERIO, LORNA C.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-08-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2016-09-28"
+journalNo = "J028"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO II B."
+nameCode = "Lazatin"
+date = "2016-11-15"
+journalNo = "J044"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SILVERIO, LORNA C."
+nameCode = "Silverio"
+date = "2017-09-04"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-08-17"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 36273
+congress = 17
+bill_no = "HB02805"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-17"

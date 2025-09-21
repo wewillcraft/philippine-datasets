@@ -1,0 +1,75 @@
+billNumber = "HB05789"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05789"
+lastScraped = "2025-09-22T00:13:00.910703"
+title = "Declaring January 17 a Special Non-Working Holiday in Olongapo City"
+longTitle = "AN ACT DECLARING JANUARY 17 OF EVERY YEAR A SPECIAL NONWORKING HOLIDAY IN CITY OF OLONGAPO"
+scope = "Local"
+dateFiled = "2003-02-26"
+status = "Approved by the House on 2003-03-20, transmitted to on 2003-03-21 and received by the Senate on 2003-03-28"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2003-03-04"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[motherBills]]
+bill_no = "HB02903"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02903"
+flag = "S"
+
+[firstReading]
+id = 88944
+congress = 12
+bill_no = "HB05789"
+report = "01298"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "REVISION OF LAWS"
+recomm = "approval"
+date_read = "2003-03-04"
+date_ob = "2003-03-04"
+date_report = "2003-02-26"
+
+[secondReading]
+id = 14797
+congress = 12
+bill_no = "HB05789"
+remarks = "Considered the Explanatory Note of the original House Bill No. 2903   as the sponsorship remarks."
+date_approved = "2003-03-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 5312
+congress = 12
+bill_no = "HB05789"
+date_dist = "2003-03-17"
+date_adopt = "2003-03-20"
+no_yeas = 117
+no_nays = 0
+no_abstent = 0
+date_trans = "2003-03-21"
+date_rec = "2003-03-28"

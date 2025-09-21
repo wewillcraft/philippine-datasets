@@ -1,0 +1,47 @@
+billNumber = "HB00832"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00832"
+lastScraped = "2025-09-22T00:25:54.745261"
+title = "HB00832"
+longTitle = "AN ACT APPROPRIATING TWO MILLION TWO HUNDRED THOUSAND PESOS (P2.2M) FOR THE DRAINAGE IMPROVEMENT AND CONCRETING OF SEVERINO REYES ST. FROM HOUSE NO. 2030 TO TAYABAS ST., STA. CRUZ, MANILA"
+scope = "Local"
+dateFiled = "1992-08-11"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fugoso"
+[[authorsDetail]]
+name = "Fugoso"
+nameCode = "Fugoso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-17"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119451
+congress = 9
+bill_no = "HB00832"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-17"

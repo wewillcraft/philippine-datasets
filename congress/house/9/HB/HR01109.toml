@@ -1,0 +1,42 @@
+billNumber = "HR01109"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01109"
+lastScraped = "2025-09-22T00:25:57.570643"
+title = "HR01109"
+longTitle = "RESOLUTION URGING THE SECRETARY OF FOREIGN AFFAIRS TO DELETE THE CLASSIFICATION OF PROFESSION OR OCCUPATION AS STATED IN THE REGULAR PHILIPPINE PASSPORT"
+scope = "National"
+dateFiled = "1994-07-11"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134415
+congress = 9
+bill_no = "HR01109"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1994-07-27"

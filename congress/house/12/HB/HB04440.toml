@@ -1,0 +1,47 @@
+billNumber = "HB04440"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04440"
+lastScraped = "2025-09-22T00:13:00.601654"
+title = "HB04440"
+longTitle = "AN ACT ESTABLISHING THE DEPARTMENT OF FOREIGN AFFIARS EXTENSION OFFICE IN REGION VIII, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-02-19"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2002-02-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Failon"
+[[authorsDetail]]
+name = "Failon"
+nameCode = "Failon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2002-02-27"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87600
+congress = 12
+bill_no = "HB04440"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2002-02-27"

@@ -1,0 +1,60 @@
+billNumber = "HR01066"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01066"
+lastScraped = "2025-09-22T00:20:59.632275"
+title = "HR01066"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH AND THE COMMITTEE ON ECOLOGY TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE REPORTED CONTAMINATION OF EBOLA VIRUS IN THE MONKEY BREEDING FARM IN CALAMBA, LAGUNA"
+scope = "Local"
+dateFiled = "1997-01-29"
+status = "Pending with the Committee on RULES since 1997-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 118120
+congress = 10
+bill_no = "HR01066"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Health and on Ecology on Feb. 4, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-03"

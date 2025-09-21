@@ -1,0 +1,41 @@
+billNumber = "HB10160"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10160"
+lastScraped = "2025-09-22T00:20:59.324758"
+title = "HB10160"
+longTitle = "AN ACT LIFTING THE GROSS RECEIPTS TAX EXEMPTION OF THRIFT BANKS, AMENDING FOR THE PURPOSE SECTION 119 OF THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED"
+scope = "National"
+dateFiled = "1997-10-22"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz"
+[[authorsDetail]]
+name = "Diaz"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-10-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 116581
+congress = 10
+bill_no = "HB10160"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-10-24"

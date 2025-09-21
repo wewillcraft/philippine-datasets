@@ -1,0 +1,56 @@
+billNumber = "HB12874"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12874"
+lastScraped = "2025-09-22T00:23:17.918707"
+title = "HB12874"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 7165 AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-01-23"
+status = "Business for the day on 2001-02-06"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-02-05"
+
+[[motherBills]]
+bill_no = "HB08788"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB08788"
+flag = "S"
+
+[firstReading]
+id = 104289
+congress = 11
+bill_no = "HB12874"
+report = "01392"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, BASIC EDUCATION"
+recomm = "approval"
+date_read = "2001-02-05"
+date_ob = "2001-02-05"
+date_report = "2001-01-23"
+
+[secondReading]
+id = 17374
+congress = 11
+bill_no = "HB12874"
+date_calendared = "2001-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

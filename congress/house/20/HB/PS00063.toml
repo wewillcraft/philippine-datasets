@@ -1,0 +1,44 @@
+billNumber = "PS00063"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00063"
+lastScraped = "2025-09-21T23:39:49.252107"
+title = "PS00063"
+longTitle = "PROSECUTORS BECOMING A TOOL OF OPPRESSION"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on JUSTICE since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "CAGAS, JOHN TRACY F."
+[[authorsDetail]]
+name = "CAGAS, JOHN TRACY F."
+nameCode = "Cagas"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2025-09-01"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 4898
+congress = 103
+bill_no = "PS00063"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-01"

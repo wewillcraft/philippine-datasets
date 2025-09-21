@@ -1,0 +1,47 @@
+billNumber = "HB07042"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB07042"
+lastScraped = "2025-09-22T00:25:55.890590"
+title = "HB07042"
+longTitle = "AN ACT PROVIDING FOR THE REHABILITATION OF GEN. GREGORIO DEL PILAR ELEMENTARY SCHOOL IN TONDO, CITY OF MANILA"
+scope = "Local"
+dateFiled = "1993-02-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-02-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 125661
+congress = 9
+bill_no = "HB07042"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-02-09"

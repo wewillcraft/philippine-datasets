@@ -1,0 +1,85 @@
+billNumber = "HB08022"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08022"
+lastScraped = "2025-09-22T00:20:58.884160"
+title = "HB08022"
+longTitle = "AN ACT CONVERTING THE FOLLOWING PROVINCIAL ROADS IN THE PROV INCE OF CAVITE TO NATIONAL ROADS: AGUINALDO-INDAN G ROAD; AGU INALDO-ALFONSO ROAD; AGUINALDO-MARAG ONDON ROAD; AGUINALDO -M AGALLANES ROAD; NOVELETA-BACAO- GEN. TRIAS ROAD; ZAPOTE-PALIP ARAN ROAD; GEN. TRIAS-AMADEO-TA GAYTAY ROAD; MARAGONDON-MAGA L LANES RAOD; MAGALLANES-AMUY ONG ROAD; ALFONSO-GEN. AGUINALDO ROAD; AND ALFONSO-KAYTITI NGA ROAD; AND PROVIDING FUNDS THERE FOR"
+scope = "Local"
+dateFiled = "1996-09-26"
+status = "Approved by the House on 1997-10-30 and transmitted to the Senate on 1997-11-03"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+coAuthors = [ "ABAYA, PLARIDEL M.", "UNAS, TELESFORO A.",]
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAYA, PLARIDEL M."
+nameCode = "Abaya"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "UNAS, TELESFORO A."
+nameCode = "Unas"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114443
+congress = 10
+bill_no = "HB08022"
+report = "01108"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1996-10-01"
+date_ob = "1997-10-13"
+date_report = "1997-09-18"
+
+[secondReading]
+id = 18554
+congress = 10
+bill_no = "HB08022"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3146
+congress = 10
+bill_no = "HB08022"
+date_dist = "1997-10-27"
+date_adopt = "1997-10-30"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-11-03"

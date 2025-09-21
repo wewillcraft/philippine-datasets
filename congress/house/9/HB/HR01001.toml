@@ -1,0 +1,50 @@
+billNumber = "HR01001"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01001"
+lastScraped = "2025-09-22T00:25:57.552191"
+title = "HR01001"
+longTitle = "RESOLUTION TO URGE HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, TO AMEND PRESIDENTIAL MEMORANDUM ORDER NO. 95 ISSUED BY HIS EXCELLENCY ON THE 27TH DAY OF FEBRUARY 1993 BY INCLUDING SUGAR AS AMONG THE AGRICULTURAL PRODUCTS WHOSE IMPORTATION SHOULD BE PROHIBITED"
+scope = "National"
+dateFiled = "1994-04-06"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-04-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De La Cruz"
+coAuthors = [ "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "De La Cruz"
+nameCode = "De La Cruz"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-04-12"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 134308
+congress = 9
+bill_no = "HR01001"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-04-12"

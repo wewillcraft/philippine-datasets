@@ -1,0 +1,41 @@
+billNumber = "HR00277"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00277"
+lastScraped = "2025-09-22T00:23:17.999833"
+title = "HR00277"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF AGRICULTURE TO CONSTITUTE DISTRICT AND PROVINCIAL STRATEGIC AGRICULTURE AND FISHERIES DEVELOPMENT ZONE (SAFDZ) COMMITTEES IN ADDITION TO THE NATIONAL AND REGIONAL SAFDZ COMMITTEES"
+scope = "National"
+dateFiled = "1998-09-04"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1998-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1998-09-29"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 104735
+congress = 11
+bill_no = "HR00277"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1998-09-29"

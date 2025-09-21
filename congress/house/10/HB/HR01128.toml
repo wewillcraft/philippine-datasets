@@ -1,0 +1,56 @@
+billNumber = "HR01128"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01128"
+lastScraped = "2025-09-22T00:20:59.643489"
+title = "HR01128"
+longTitle = "RESOLUTION CALLING FOR A HOUSE INQUIRY, IN AID OF LEGISLATION, INTO THE REPORTED TAMPERING OF THE EXPIRY DATE LABELS ON VITAMINS AND PRESCRIPTION DRUGS ALLEGEDLY PERPETUATED BY MULTINATIONAL PHARMACEUTICAL COMPANIES"
+scope = "National"
+dateFiled = "1997-03-06"
+status = "Pending with the Committee on HEALTH since 1997-03-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "MONFORT, NARCISO D.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118182
+congress = 10
+bill_no = "HR01128"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-12"

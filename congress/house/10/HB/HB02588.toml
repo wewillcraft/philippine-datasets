@@ -1,0 +1,41 @@
+billNumber = "HB02588"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02588"
+lastScraped = "2025-09-22T00:20:57.846018"
+title = "HB02588"
+longTitle = "AN ACT TO FULLY DEREGULATE THE LOCAL TIRE INDUSTRY, REPEALING FOR THE PURPOSE LETTER OF INSTRUCTION (LOI) NUMBERED ONE THOUSAND AND EIGHTY-SIX (1086), AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-18"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-28"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 109009
+congress = 10
+bill_no = "HB02588"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-28"

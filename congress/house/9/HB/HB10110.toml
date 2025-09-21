@@ -1,0 +1,47 @@
+billNumber = "HB10110"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10110"
+lastScraped = "2025-09-22T00:25:56.425140"
+title = "HB10110"
+longTitle = "AN ACT AUTHORIZING THE DEVELOPMENT OF BARANGAYS EDEN BAYABAS, CATIGAN AND TAGURANO, ALL IN DAVAO CITY, AS A SPECIAL TOURIST MOUNTAIN RESORT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-08-03"
+status = "Pending with the Committee on TOURISM since 1993-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-08-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128728
+congress = 9
+bill_no = "HB10110"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-08-09"

@@ -1,0 +1,90 @@
+billNumber = "HB00433"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00433"
+lastScraped = "2025-09-22T00:12:59.884271"
+title = "HB00433"
+longTitle = "AN ACT REVISING REPUBLIC ACT NO. 7157, OTHERWISE KNOWN AS THE FOREIGN SERVICE ACT OF 1991"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+coAuthors = [ "ABLAN, ROQUE JR. R.", "ROSALES, ETTA", "MONFORT, NARCISO D.", "ESPINOSA, EDGAR T.", "ESPINO, AMADO JR. T.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = "J004"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROSALES, ETTA"
+nameCode = "Rosales"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J007"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ESPINOSA, EDGAR T."
+nameCode = "Espinosa"
+date = ""
+journalNo = "J019"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83593
+congress = 12
+bill_no = "HB00433"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "2001-07-24"

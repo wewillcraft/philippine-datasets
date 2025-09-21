@@ -1,0 +1,54 @@
+billNumber = "HB01723"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01723"
+lastScraped = "2025-09-22T00:20:57.669527"
+title = "HB01723"
+longTitle = "AN ACT ADOPTING THE STRATEGIC ENVIRONMENTAL PLAN FOR THE PROVINCE OF APAYAO, CREATING THE ADMINISTRATIVE MACHINERY FOR ITS IMPLEMENTATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-02"
+status = "Substituted by HB07031"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-08-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108144
+congress = 10
+bill_no = "HB01723"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-08-08"

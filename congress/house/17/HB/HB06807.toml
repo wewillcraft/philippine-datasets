@@ -1,0 +1,54 @@
+billNumber = "HB06807"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB06807"
+lastScraped = "2025-09-21T23:55:45.584368"
+title = "HB06807"
+longTitle = "AN ACT LAUNCHING ANOTHER GREEN REVOLUTION PROGRAM IN THE COUNTRY"
+scope = "National"
+dateFiled = "2017-12-12"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2018-01-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB06807.pdf"
+fileSize = 686868
+author = "RODRIGUEZ, MAXIMO B., JR."
+coAuthors = [ "BRAVO, MARIA VIDA E.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M.)"
+date = "2017-12-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2018-01-30"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2018-01-15"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 40274
+congress = 17
+bill_no = "HB06807"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-01-15"

@@ -1,0 +1,42 @@
+billNumber = "HB03252"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03252"
+lastScraped = "2025-09-22T00:46:57.132206"
+title = "HB03252"
+longTitle = "AN ACT ESTABLISHING A DISTRICT HOSPITAL WITH SECONDARY LEVEL CAPABILITY IN THE MUNICIPALITY OF SIAY, PROVINCE OF ZAMBOANGA DEL SUR, TO BE KNOWN AS THE SIAY DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1987-10-26"
+status = "Pending with the Committee on HEALTH since 1987-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cainglet"
+[[authorsDetail]]
+name = "Cainglet"
+nameCode = "Cainglet"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-11-10"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 137940
+congress = 8
+bill_no = "HB03252"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-11-10"

@@ -1,0 +1,50 @@
+billNumber = "HB04672"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04672"
+lastScraped = "2025-09-22T00:25:55.471993"
+title = "HB04672"
+longTitle = "AN ACT DEFINING THE GUIDELINES IN FINALLY PRIVATIZING THE NAPOCOR"
+scope = "National"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on ENERGY since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 123291
+congress = 9
+bill_no = "HB04672"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1992-11-16"

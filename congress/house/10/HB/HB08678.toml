@@ -1,0 +1,46 @@
+billNumber = "HB08678"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08678"
+lastScraped = "2025-09-22T00:20:59.012010"
+title = "HB08678"
+longTitle = "AN ACT DECLARING THE MUNICIPALITY OF SULTAN NAGA DIMAPORO, PROVINCE OF LANAO DEL NORTE, AS A CENTER FOR TOURISM, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-12-20"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-01-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mangotara"
+[[authorsDetail]]
+name = "Mangotara"
+nameCode = "Mangotara"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-01-21"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "TOURISM"
+type = "secondary"
+referralCode = "0538"
+
+[firstReading]
+id = 115099
+congress = 10
+bill_no = "HB08678"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-01-21"

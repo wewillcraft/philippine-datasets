@@ -1,0 +1,55 @@
+billNumber = "HR00201"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00201"
+lastScraped = "2025-09-22T00:13:01.182008"
+title = "HR00201"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES TO ALLOW THE UNITED STATES OF AMERICA AND OTHER ALLIED COUNTRIES COMMERCIAL ACCESS TO THE FORMER UNITED STATES AIR AND NAVAL BASES IN THE PHILIPPINES IN SUPPORT TO THE INTENSIFIED WAR AGAINST GLOBAL TERRORISM"
+scope = "National"
+dateFiled = "2001-09-20"
+status = "Pending with the Committee on NATIONAL DEFENSE since 2001-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lozada"
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Lozada"
+nameCode = "Lozada"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "2001-09-26"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 90140
+congress = 12
+bill_no = "HR00201"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "2001-09-26"

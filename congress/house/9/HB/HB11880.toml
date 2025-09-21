@@ -1,0 +1,50 @@
+billNumber = "HB11880"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11880"
+lastScraped = "2025-09-22T00:25:56.784102"
+title = "HB11880"
+longTitle = "AN ACT CREATING THE NATIONAL AIDS CONTROL COMMISSION, DEFINING ITS POWERS, DUTIES AND FUNCTIONS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1994-02-01"
+status = "Pending with the Committee on HEALTH since 1994-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Panes"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Panes"
+nameCode = "Panes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-02-07"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130495
+congress = 9
+bill_no = "HB11880"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-02-07"

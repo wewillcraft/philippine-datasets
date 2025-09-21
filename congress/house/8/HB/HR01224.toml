@@ -1,0 +1,60 @@
+billNumber = "HR01224"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01224"
+lastScraped = "2025-09-22T00:47:02.772336"
+title = "HR01224"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES OVER THE DEATH OF HONORABLE MOISES R. ESPINOSA, REPRESENTATIVE OF THE THIRD DISTRICT OF MASBATE"
+scope = "Local"
+dateFiled = "1989-03-17"
+status = "Adopted as Resolution No. HR00046 on 1989-03-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1989-03-17"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[firstReading]
+id = 171096
+congress = 8
+bill_no = "HR01224"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1989-03-17"
+
+[secondReading]
+id = 21657
+congress = 8
+bill_no = "HR01224"
+adopted_resolution = "HR00046"
+remarks = "ADOPTED WITHOUT AMENDMENTS"
+date_calendared = "1989-03-17"
+date_approved = "1989-03-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1333
+congress = 8
+bill_no = "HR01224"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0

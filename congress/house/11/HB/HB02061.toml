@@ -1,0 +1,70 @@
+billNumber = "HB02061"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB02061"
+lastScraped = "2025-09-22T00:23:15.868431"
+title = "HB02061"
+longTitle = "AN ACT ESTABLISHING A DISTRICT ENGINEERING OFFICE OF THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS IN THE THIRD CONGRESSIONAL DISTRICT OF MASBATE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-08-11"
+status = "Approved by the House on 1999-03-01, transmitted to on 1999-03-02 and received by the Senate on 1999"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1998-08-18"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 93502
+congress = 11
+bill_no = "HB02061"
+report = "00172"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1998-08-18"
+date_report = "1999-02-02"
+
+[secondReading]
+id = 16379
+congress = 11
+bill_no = "HB02061"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1999-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3651
+congress = 11
+bill_no = "HB02061"
+date_dist = "1999-02-08"
+date_adopt = "1999-03-01"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1999-03-02"
+date_rec = "1999-03-03"

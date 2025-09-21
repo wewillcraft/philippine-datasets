@@ -1,0 +1,52 @@
+billNumber = "HR00488"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00488"
+lastScraped = "2025-09-21T23:55:46.334292"
+title = "HR00488"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON HEALTH AND THE HOUSE COMMITTEE ON SOCIAL SERVICES, EITHER CONVENING JOINTLY OR SEPARATELY, TO REVIEW EXISTING LAWS AND REGULATIONS ON FUNERAL AND BURIAL SERVICES, TOWARDS PROVIDING  THE PUBLIC WITH ACCESSIBLE AND QUALITY FUNERAL AND BURIAL SERVICES, ESPECIALLY THE INDIGENT SECTION OF THE POPULATION"
+scope = "National"
+dateFiled = "2016-10-24"
+status = "Pending with the Committee on HEALTH since 2016-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00488.pdf"
+fileSize = 637243
+author = "ELAGO, SARAH JANE I."
+[[authorsDetail]]
+name = "ELAGO, SARAH JANE I."
+nameCode = "Elago"
+date = "2016-10-24"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-11-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "secondary"
+referralCode = "0535"
+
+[firstReading]
+id = 43230
+congress = 17
+bill_no = "HR00488"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-11-14"
+date_read = "2016-11-08"

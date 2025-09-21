@@ -1,0 +1,50 @@
+billNumber = "HR00602"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00602"
+lastScraped = "2025-09-22T00:20:59.535704"
+title = "HR00602"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CIVIL, POLITICAL AND HUMAN RIGHTS TO INQUIRE, IN AID OF LEGISLATION, INTO THE REPORTED PATTERN OF HUMAN RIGHTS ABUSES IN THE CONDUCT AND ADMINISTRATION OF THE FOREST MANAGEMENT PROGRAM"
+scope = "National"
+dateFiled = "1996-05-08"
+status = "Pending with the Committee on CIVIL, POLITICAL AND HUMAN RIGHTS since 1996-05-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1996-05-13"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 117656
+congress = 10
+bill_no = "HR00602"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Civil, Politial and Human Rights on May 2"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+date_read = "1996-05-13"

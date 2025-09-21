@@ -1,0 +1,47 @@
+billNumber = "HB02578"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02578"
+lastScraped = "2025-09-22T00:25:55.054496"
+title = "HB02578"
+longTitle = "AN ACT CONNECTING THE LEYTE METRO WATER DISTRICT IN THE CITY OF TACLOBAN, PROVINCE OF LEYTE, TO THE MUNICIPALITY OF TABONTABON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121197
+congress = 9
+bill_no = "HB02578"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-21"

@@ -1,0 +1,54 @@
+billNumber = "HB02779"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02779"
+lastScraped = "2025-09-22T00:20:57.881416"
+title = "HB02779"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT AND RENOVATION OF THE AIRPORT TERMINAL BUILDING IN MANDURIAO, ILOILO CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-23"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+coAuthors = [ "TIRADOR, LICURGO P.",]
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TIRADOR, LICURGO P."
+nameCode = "Tirador"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-08-29"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109200
+congress = 10
+bill_no = "HB02779"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-08-29"

@@ -1,0 +1,47 @@
+billNumber = "HB03619"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03619"
+lastScraped = "2025-09-22T00:25:55.235727"
+title = "HB03619"
+longTitle = "AN ACT ESTABLISHING A SANCTUARY FOR FISH, SHELL, OYSTER AND OTHER AQUA-MARINE PRODUCTS IN THE MUNICIPALITY OF SAGAY, PROVINCE OF NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-10-13"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puey"
+[[authorsDetail]]
+name = "Puey"
+nameCode = "Puey"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-10-15"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122238
+congress = 9
+bill_no = "HB03619"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-10-15"

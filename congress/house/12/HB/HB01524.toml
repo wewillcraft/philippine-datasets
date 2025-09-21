@@ -1,0 +1,62 @@
+billNumber = "HB01524"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01524"
+lastScraped = "2025-09-22T00:13:00.078670"
+title = "HB01524"
+longTitle = "AN ACT SEEKING TO IMPROVE CHILD PROTECTION AGAINST ABUSE, EXPLOITATION AND DISCRIMINATION, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7610, AS AMENDED BY REPUBLIC ACT NO. 7658, OTHERWISE KNOWN AS THE `SPECIAL PROTECTION AND DISCRIMINATION ACT', APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-26"
+status = "Pending with the Committee on SOCIAL SERVICES since 2001-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers, Robert Ace S."
+coAuthors = [ "ESPINA, GERARDO S.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J014"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2001-08-01"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84684
+congress = 12
+bill_no = "HB01524"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "2001-08-01"

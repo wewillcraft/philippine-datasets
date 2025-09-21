@@ -1,0 +1,42 @@
+billNumber = "HR00296"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00296"
+lastScraped = "2025-09-22T00:25:57.419983"
+title = "HR00296"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO AMEND SUBSECTION 16, SECTION 21, RULE VII OF THE RULES OF THE HOUSE AND SECTION 13 OF THE RULES OF PROCEDURE GOVERNING INQUIRIES IN AID OF LEGISLATION"
+scope = "Local"
+dateFiled = "1992-10-29"
+status = "Pending with the Committee on RULES since 1992-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1992-11-10"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "principal"
+referralCode = "0528"
+
+[firstReading]
+id = 133608
+congress = 9
+bill_no = "HR00296"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1992-11-10"

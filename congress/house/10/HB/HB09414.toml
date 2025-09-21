@@ -1,0 +1,46 @@
+billNumber = "HB09414"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09414"
+lastScraped = "2025-09-22T00:20:59.163296"
+title = "HB09414"
+longTitle = "AN ACT ESTABLISHING THE PANAGA NATIONAL HIGH SCHOOL IN SITIO PANAGA, BARANGAY COLOSAS, CITY OF DAVAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-19"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-20"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE RELOCATION OF THE HOUSE OF REPRESENTATIVES COMPLEX"
+type = "principal"
+referralCode = "K504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115835
+congress = 10
+bill_no = "HB09414"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-05-20"

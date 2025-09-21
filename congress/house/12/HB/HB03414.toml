@@ -1,0 +1,47 @@
+billNumber = "HB03414"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03414"
+lastScraped = "2025-09-22T00:13:00.419687"
+title = "HB03414"
+longTitle = "AN ACT ESTABLISHING A SENIOR CITIZENS' CENTER IN THE MUNICIPALITY OF BATARAZA, PROVINCE OF PALAWAN, AND APPROPRIATING FUNDS FOR ITS CONSTRUCTION AND OPERATION"
+scope = "Local"
+dateFiled = "2001-10-08"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2001-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mitra, Abraham Kahlil B."
+[[authorsDetail]]
+name = "Mitra, Abraham Kahlil B."
+nameCode = "Mitra"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2001-10-15"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86574
+congress = 12
+bill_no = "HB03414"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+date_read = "2001-10-15"

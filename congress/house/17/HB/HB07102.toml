@@ -1,0 +1,68 @@
+billNumber = "HB07102"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07102"
+lastScraped = "2025-09-21T23:55:45.648045"
+title = "HB07102"
+longTitle = "AN ACT EXPANDING THE NUMBER OF DISORDERS INCLUDED IN THE NEWBORN SCREENING PROGRAM, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-02-01"
+status = "Pending with the Committee on HEALTH since 2018-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07102.pdf"
+fileSize = 713234
+author = "Alejano, Gary C."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "UYBARRETA, CARLOS ROMAN", "LOPEZ, MANNY",]
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2018-02-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-02-20"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "UYBARRETA, CARLOS ROMAN"
+nameCode = "Uybarreta"
+date = "2018-02-14"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LOPEZ, MANNY"
+nameCode = "Lopez (M.L.)"
+date = "2018-03-19"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-02-06"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 40569
+congress = 17
+bill_no = "HB07102"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-02-06"

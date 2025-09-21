@@ -1,0 +1,47 @@
+billNumber = "HB08876"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08876"
+lastScraped = "2025-09-22T00:25:56.193791"
+title = "HB08876"
+longTitle = "AN ACT APPROPRIATING THE SUM OF TWO MILLION PESOS FOR THE REPAIR AND IMPROVEMENT OF THE DRAINAGE SYSTEM OF THE POBLACION OF THE MUNICIPALITY OF JANIUAY, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1993-05-03"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirador"
+[[authorsDetail]]
+name = "Tirador"
+nameCode = "Tirador"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-05-05"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127494
+congress = 9
+bill_no = "HB08876"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-05-05"

@@ -1,0 +1,61 @@
+billNumber = "HB00233"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB00233"
+lastScraped = "2025-09-21T23:56:40.604367"
+title = "HB00233"
+longTitle = "AN ACT PROVIDING FREE MEDICAL SERVICES TO FILIPINO VETERANS AND RETIRED GOVERNMENT PERSONNEL IN GOVERNMENT-OWNED AND OPERATED HOSPITALS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2010-07-01"
+status = "Pending with the Committee on HEALTH since 2010-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB00233.pdf"
+fileSize = 240855
+author = "Golez, Roilo S."
+coAuthors = [ "ALMARIO, THELMA ZOSA", "DEL ROSARIO, ANTONIO RAFAEL GARCIA",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez (R.)"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ALMARIO, THELMA ZOSA"
+nameCode = "Almario"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, ANTONIO RAFAEL GARCIA"
+nameCode = "Del Rosario (A.G.)"
+date = ""
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-07-27"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 55706
+congress = 15
+bill_no = "HB00233"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-07-27"

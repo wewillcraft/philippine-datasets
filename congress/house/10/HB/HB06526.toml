@@ -1,0 +1,54 @@
+billNumber = "HB06526"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06526"
+lastScraped = "2025-09-22T00:20:58.573785"
+title = "HB06526"
+longTitle = "AN ACT ESTABLISHING GOVERNMENT CENTERS IN EVERY PROVINCIAL CAPITAL"
+scope = "National"
+dateFiled = "1996-03-11"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-10-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-10-13"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "principal"
+referralCode = "0523"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112947
+congress = 10
+bill_no = "HB06526"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-10-13"

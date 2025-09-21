@@ -1,0 +1,58 @@
+billNumber = "HCR0018"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HCR0018"
+lastScraped = "2025-09-22T00:20:59.409576"
+title = "HCR0018"
+longTitle = "CONCURRENT RESOLUTION APPROVING THE TRANSFER OF THE CONTROLLING INTEREST IN THE STOCKHOLDINGS OF THE MULTI-MEDIA TELEPHONY, INCORPORATED"
+scope = "National"
+dateFiled = "1996-05-30"
+status = "Adopted as Resolution No.  on 1996-08-08"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "primary"
+referralCode = "0508"
+dateRead = "1996-06-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116989
+congress = 10
+bill_no = "HCR0018"
+report = "00518"
+referral = "0508"
+ref_name = "LEGISLATIVE FRANCHISES"
+recomm = "Adoption"
+date_read = "1996-06-04"
+date_ob = "1996-08-07"
+date_report = "1996-08-05"
+
+[secondReading]
+id = 18877
+congress = 10
+bill_no = "HCR0018"
+reasons = "Amended as HJR No. 11 and Approved on Second Reading on Aug. 12, 1996."
+remarks = "Approval on Second Reading was Reconsidered on Aug. 12, 1996,         Amended as House Joint Resolution No. 11 and Approved on Second       Reading on same date."
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1996-08-12"
+date_calendared = "1996-08-08"
+date_approved = "1996-08-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,61 @@
+billNumber = "HR01100"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01100"
+lastScraped = "2025-09-21T23:55:46.440980"
+title = "HR01100"
+longTitle = "RESOLUTION MANDATING THE ESTABLISHMENT OF GOVERNMENT-RUN NURSING HOMES OR ASSISTED LIVING CARE FACILITIES IN PROVINCES ALL THROUGHOUT THE COUNTRY THAT CATER RELEVANT SERVICES TO THE ELDERLY"
+scope = "National"
+dateFiled = "2017-07-03"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2017-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01100.pdf"
+fileSize = 159864
+author = "Savellano, Deogracias Victor \"DV\" B."
+coAuthors = [ "SILVERIO, LORNA C.", "MAGSAYSAY, MILAGROS A.",]
+[[authorsDetail]]
+name = "Savellano, Deogracias Victor \"DV\" B."
+nameCode = "Savellano"
+date = "2017-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SILVERIO, LORNA C."
+nameCode = "Silverio"
+date = "2017-08-08"
+journalNo = "J008"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "MAGSAYSAY, MILAGROS A."
+nameCode = "Aquino-Magsaysay"
+date = "2018-08-06"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2017-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43842
+congress = 17
+bill_no = "HR01100"
+report = ""
+comm_act = ""
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-25"

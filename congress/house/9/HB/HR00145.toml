@@ -1,0 +1,42 @@
+billNumber = "HR00145"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00145"
+lastScraped = "2025-09-22T00:25:57.393694"
+title = "HR00145"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO STUDY, IN AID OF LEGISLATION HOW TO FURTHER MODERNIZE OUR TELECOMMUNICATI ONS SYTEMS"
+scope = "National"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 133457
+congress = 9
+bill_no = "HR00145"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-09-03"

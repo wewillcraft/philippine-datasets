@@ -1,0 +1,42 @@
+billNumber = "HB01781"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01781"
+lastScraped = "2025-09-22T00:13:00.124070"
+title = "HB01781"
+longTitle = "AN ACT ESTABLISHING A NATIONAL CRIME DATABASE"
+scope = "National"
+dateFiled = "2001-07-31"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Saludo"
+[[authorsDetail]]
+name = "Saludo"
+nameCode = "Saludo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 84941
+congress = 12
+bill_no = "HB01781"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "2001-08-06"

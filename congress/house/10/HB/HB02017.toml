@@ -1,0 +1,46 @@
+billNumber = "HB02017"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02017"
+lastScraped = "2025-09-22T00:20:57.729895"
+title = "HB02017"
+longTitle = "AN ACT FURTHER AMENDING PARAGRAPH (J) OF SECTION FOURTEEN OF BATAS PAMBANSA BILANG 129, OTHERWISE KNOWN AS THE JUDICIARY REORGANIZATION ACT OF 1981, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on JUSTICE since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Jalosjos, Romeo Jr. M."
+[[authorsDetail]]
+name = "Jalosjos, Romeo Jr. M."
+nameCode = "Jalosjos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108438
+congress = 10
+bill_no = "HB02017"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1995-08-14"

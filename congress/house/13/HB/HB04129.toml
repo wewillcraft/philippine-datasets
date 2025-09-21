@@ -1,0 +1,52 @@
+billNumber = "HB04129"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB04129"
+lastScraped = "2025-09-22T00:13:48.620346"
+title = "HB04129"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF ST. BERNARD PORT IN SOUTHERN LEYTE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2005-04-06"
+status = "Pending with the Committee on TRANSPORTATION since 2005-04-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB04129.pdf"
+fileSize = 108183
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2005-04-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 79219
+congress = 13
+bill_no = "HB04129"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2005-04-12"
+date_read = "2005-04-12"

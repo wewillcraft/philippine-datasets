@@ -1,0 +1,42 @@
+billNumber = "HB02809"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02809"
+lastScraped = "2025-09-22T00:46:57.058963"
+title = "HB02809"
+longTitle = "AN ACT GRANTING CERTAIN PRIVILEGES TO SENIOR CITIZENS OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1987-10-15"
+status = "Pending with the Committee on FAMILY RELATIONS AND POPULATION since 1987-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FAMILY RELATIONS AND POPULATION"
+type = "primary"
+referralCode = "512"
+dateRead = "1987-10-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 137498
+congress = 8
+bill_no = "HB02809"
+referral = "512"
+ref_name = "FAMILY RELATIONS AND POPULATION"
+sub_name = ""
+date_read = "1987-10-16"

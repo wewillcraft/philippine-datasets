@@ -1,0 +1,46 @@
+billNumber = "HB07515"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07515"
+lastScraped = "2025-09-22T00:20:58.754668"
+title = "HB07515"
+longTitle = "AN ACT CONVERTING THE CARIGARA DISTRICT HOSPITAL IN THE MUNICIPALITY OF CARIGARA, PROVINCE OF LEYTE, INTO A GENERAL HOSPITAL TO BE KNOWN AS THE CARIGARA GENERAL HOSPITAL AND TO INCREASE THE BED CAPACITY TO TWO HUNDRED (200) BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-17"
+status = "Pending with the Committee on HEALTH since 1996-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-07-25"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113936
+congress = 10
+bill_no = "HB07515"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-07-25"

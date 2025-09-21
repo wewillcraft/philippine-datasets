@@ -1,0 +1,47 @@
+billNumber = "HB04605"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04605"
+lastScraped = "2025-09-22T00:25:55.459984"
+title = "HB04605"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION, REPAIRS AND REHABILITATION OF ELEMENTARY SCHOOL BUILDINGS  IN THE MUNICIPALITY OF TERNATE, PROVINCE OF CAVITE"
+scope = "Local"
+dateFiled = "1992-11-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Unas"
+[[authorsDetail]]
+name = "Unas"
+nameCode = "Unas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-12"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123224
+congress = 9
+bill_no = "HB04605"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-12"

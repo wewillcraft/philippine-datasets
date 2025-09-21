@@ -1,0 +1,43 @@
+billNumber = "HB00257"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00257"
+lastScraped = "2025-09-22T00:46:56.601413"
+title = "HB00257"
+longTitle = "AN ACT TO ESTABLISH A 50-BED DISTRICT HOSPITAL INTHE MUNICIPALITY OF CALATRAVA, PROVINCE OF NEGROSOCCIDENTA L, TO BE KNOWN AS CALATRAVA DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-11"
+status = "Pending with the Committee on HEALTH since 1987-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laguda"
+[[authorsDetail]]
+name = "Laguda"
+nameCode = "Laguda"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 134954
+congress = 8
+bill_no = "HB00257"
+comm_act = "SUBSTITUTE D BY HB24607"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-12"

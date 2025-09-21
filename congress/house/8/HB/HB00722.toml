@@ -1,0 +1,71 @@
+billNumber = "HB00722"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00722"
+lastScraped = "2025-09-22T00:46:56.689688"
+title = "HB00722"
+longTitle = "AN ACT CHANGING THE NAME OF JOSE ABAD SANTOS HIGH SCHOOL TO PAMPANGA HIGH SCHOOL"
+scope = "Local"
+dateFiled = "1987-08-25"
+status = "Approved by the House on 1988-04-28 and transmitted to the Senate on 1988-04-29"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez"
+[[authorsDetail]]
+name = "Rodriguez"
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[firstReading]
+id = 135419
+congress = 8
+bill_no = "HB00722"
+report = "00096"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = "EDUCATION AND CULTURE"
+recomm = "APPROVAL WITHOUT AMENDMENT"
+date_read = "1987-08-26"
+date_ob = "1988-03-15"
+date_cal = "1988-03-15"
+date_unass = "1988-03-15"
+date_report = "1988-03-11"
+
+[secondReading]
+id = 20311
+congress = 8
+bill_no = "HB00722"
+reasons = "DISAPPROVA L OF SENATE ON HOUSE BILL NO. 722"
+recommended_reconsidered = "1"
+date_recommended_reconsidered = "1989-08-18"
+date_calendared = "1988-03-18"
+date_approved = "1988-03-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 94
+congress = 8
+bill_no = "HB00722"
+date_dist = "1988-03-25"
+date_adopt = "1988-04-28"
+no_yeas = 153
+no_nays = 0
+no_abstent = 0
+date_trans = "1988-04-29"

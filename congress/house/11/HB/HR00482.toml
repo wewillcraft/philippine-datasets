@@ -1,0 +1,50 @@
+billNumber = "HR00482"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00482"
+lastScraped = "2025-09-22T00:23:18.035522"
+title = "HR00482"
+longTitle = "RESOLUTION URGING THE NATIONAL POWER CORPORATION TO DESIST / DEFER POWER RATE HIKE AND FOR THE COMMITTEE ON ENERGY TO INVESTIGATE, IN AID OF LEGISLATION, THE BASIS THEREOF"
+scope = "National"
+dateFiled = "1998-10-27"
+status = "Pending with the Committee on ENERGY since 1998-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bueser, Danton Q."
+coAuthors = [ "GONZALEZ, JOSE MARI C.",]
+[[authorsDetail]]
+name = "Bueser, Danton Q."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, JOSE MARI C."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1998-11-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 104940
+congress = 11
+bill_no = "HR00482"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1998-11-09"

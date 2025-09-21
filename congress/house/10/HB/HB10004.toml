@@ -1,0 +1,68 @@
+billNumber = "HB10004"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10004"
+lastScraped = "2025-09-22T00:20:59.287246"
+title = "HB10004"
+longTitle = "AN ACT PROVIDING INSURANCE COVERAGE TO PUBLIC SCHOOL TEACHERS WHO RENDER ELECTORAL SERVICES DURING REGISTRATION AND ELECTION DAYS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "ADAMAT, RONALDO", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ADAMAT, RONALDO"
+nameCode = "Adamat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116425
+congress = 10
+bill_no = "HB10004"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-10-02"

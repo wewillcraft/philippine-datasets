@@ -1,0 +1,62 @@
+billNumber = "HB08109"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08109"
+lastScraped = "2025-09-22T00:25:56.063772"
+title = "HB08109"
+longTitle = "AN ACT ESTABLISHING A PRESIDENTS' PARK TO HONOR PRESIDENTS OF THE REPUBLIC OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-03-11"
+status = "Pending with the Committee on TOURISM since 1993-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+coAuthors = [ "VERGARA, BERNARDO M.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-03-17"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126728
+congress = 9
+bill_no = "HB08109"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-03-17"

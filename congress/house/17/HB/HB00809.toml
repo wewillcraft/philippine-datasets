@@ -1,0 +1,66 @@
+billNumber = "HB00809"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00809"
+lastScraped = "2025-09-21T23:55:44.244357"
+title = "HB00809"
+longTitle = "AN ACT PROVIDING FOR FREE LEGAL ASSISTANCE FOR SENIOR CITIZENS, AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 7342, AS AMENDED BY REPUBLIC ACT NO. 9994, OTHERWISE KNOWN AS \\\"AN ACT TO MAXIMIZE THE CONTRIBUTION OF SENIOR CITIZENS TO NATION BUILDING, GRANT BENEFITS AND SPECIAL PRIVILEGES AND FOR OTHER PURPOSES\\\""
+scope = "National"
+dateFiled = "2016-07-04"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2016-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00809.pdf"
+fileSize = 357060
+author = "Batocabe, Rodel M."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Batocabe, Rodel M."
+nameCode = "Batocabe"
+date = "2016-07-04"
+sequence = 1
+
+[[authorsDetail]]
+name = "GARBIN, ALFREDO JR. A."
+nameCode = "Garbin"
+date = "2016-07-04"
+sequence = 2
+
+[[authorsDetail]]
+name = "Co, Christopher S."
+nameCode = "Co"
+date = "2016-07-04"
+sequence = 3
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-03-08"
+journalNo = "J080"
+sessionNo = "1RS"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2016-07-27"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 34277
+congress = 17
+bill_no = "HB00809"
+report = ""
+comm_act = ""
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-27"

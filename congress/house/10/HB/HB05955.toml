@@ -1,0 +1,61 @@
+billNumber = "HB05955"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05955"
+lastScraped = "2025-09-22T00:20:58.467303"
+title = "HB05955"
+longTitle = "AN ACT MANDATING A NATIONWIDE RABIES VACCINATION PROGRAM"
+scope = "National"
+dateFiled = "1996-01-26"
+status = "Substituted by HB08562"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "REYES, CARMENCITA O.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "REYES, CARMENCITA O."
+nameCode = "Reyes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112376
+congress = 10
+bill_no = "HB05955"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-30"

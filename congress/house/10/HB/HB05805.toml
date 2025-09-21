@@ -1,0 +1,47 @@
+billNumber = "HB05805"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05805"
+lastScraped = "2025-09-22T00:20:58.443075"
+title = "HB05805"
+longTitle = "AN ACT ABOLISHING THE PHILIPPINE TOURISM AUTHORITY AND TRANSFERRING ALL ITS FUNCTIONS AND POWERS TO THE DEPARTMENT OF TOURISM"
+scope = "National"
+dateFiled = "1996-01-22"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "TOURISM"
+type = "secondary"
+referralCode = "0538"
+
+[firstReading]
+id = 112226
+congress = 10
+bill_no = "HB05805"
+comm_act = "joint ref'ls as per J. 19; p. 40; Sept. 4 & 5, 1996"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1996-01-25"

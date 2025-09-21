@@ -1,0 +1,42 @@
+billNumber = "HR02298"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02298"
+lastScraped = "2025-09-22T00:47:02.998325"
+title = "HR02298"
+longTitle = "RESOLUTION URGING THE NATIONAL FOOD AUTHORITY TO STRICTLY ENFORCE THE FLOOR PRICE FOR PALAY"
+scope = "National"
+dateFiled = "1991-06-13"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1991-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1991-07-23"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 172129
+congress = 8
+bill_no = "HR02298"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1991-07-23"

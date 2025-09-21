@@ -1,0 +1,83 @@
+billNumber = "HB01441"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01441"
+lastScraped = "2025-09-22T00:20:57.622223"
+title = "HB01441"
+longTitle = "AN ACT DECLARING AUGUST 30 OF EVERY YEAR AS A NATIONAL WORKING HOLIDAY TO COMMEMMORATE THE BIRTH ANNIVERSARY OF MARCELO HILARIO DEL PILAR"
+scope = "National"
+dateFiled = "1995-07-28"
+status = "Approved by the House on 1996-09-26, transmitted to on 1996-09-26 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "JOAQUIN, NEREO R.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 107862
+congress = 10
+bill_no = "HB01441"
+report = "00525"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1995-08-02"
+date_ob = "1996-08-15"
+date_unass = "1996-08-27"
+date_report = "1996-08-13"
+
+[secondReading]
+id = 17799
+congress = 10
+bill_no = "HB01441"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_calendared = "1996-09-05"
+date_approved = "1996-09-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2419
+congress = 10
+bill_no = "HB01441"
+date_dist = "1996-09-11"
+date_adopt = "1996-09-26"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-09-26"
+date_rec = "1996-10-03"

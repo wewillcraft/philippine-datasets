@@ -1,0 +1,66 @@
+billNumber = "HB06733"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06733"
+lastScraped = "2025-09-22T00:20:58.609705"
+title = "HB06733"
+longTitle = "AN ACT CONVERTING THE TARLAC COLLEGE OF AGRICULTURE INTO A STATE UNIVERSITY TO BE KNOWN AS THE AGRICULTURAL UNIVERSITY OF NORTHWESTERN TARLAC, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-27"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cojuangco"
+coAuthors = [ "YAP, JOSE V.", "AQUINO, HERMINIO S.",]
+[[authorsDetail]]
+name = "Cojuangco"
+nameCode = "Cojuangco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "YAP, JOSE V."
+nameCode = "Yap"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AQUINO, HERMINIO S."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-04-29"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 113154
+congress = 10
+bill_no = "HB06733"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-04-29"

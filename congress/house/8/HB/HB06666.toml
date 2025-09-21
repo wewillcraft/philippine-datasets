@@ -1,0 +1,42 @@
+billNumber = "HB06666"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06666"
+lastScraped = "2025-09-22T00:46:57.788399"
+title = "HB06666"
+longTitle = "AN ACT APPROPRIATING THE SUM OF TWO HUNDRED FIFTYTHOUSAND PESOS FOR THE CONSTRUCTION OF BARANGAY HEALTH STATION IN BARANGAY TIGBAO, MUNICIPALITY OF DUMALINAO, PROVINCE OF ZAMBOANGA DEL SUR"
+scope = "Local"
+dateFiled = "1988-03-17"
+status = "Pending with the Committee on HEALTH since 1988-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles"
+[[authorsDetail]]
+name = "Cerilles"
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 141347
+congress = 8
+bill_no = "HB06666"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-21"

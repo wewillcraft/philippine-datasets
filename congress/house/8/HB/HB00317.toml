@@ -1,0 +1,42 @@
+billNumber = "HB00317"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00317"
+lastScraped = "2025-09-22T00:46:56.614073"
+title = "HB00317"
+longTitle = "AN ACT NATIONALIZING VARIOUS PROVINCIAL ROADS IN MOUNTAIN PROVINCE INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dominguez"
+[[authorsDetail]]
+name = "Dominguez"
+nameCode = "Dominguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 135014
+congress = 8
+bill_no = "HB00317"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-08-13"

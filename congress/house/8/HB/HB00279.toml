@@ -1,0 +1,42 @@
+billNumber = "HB00279"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00279"
+lastScraped = "2025-09-22T00:46:56.606625"
+title = "HB00279"
+longTitle = "AN ACT ESTABLISHING AN EMERGENCY HOSPITAL IN THE MUNICIPALITY OF ARITAO, PROVINCE OF NUEVA VIZCAYA,TO BE KNOWN AS THE ARITAO EMERGENCY HOSPITAL"
+scope = "Local"
+dateFiled = "1987-08-11"
+status = "Pending with the Committee on HEALTH since 1987-08-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla"
+[[authorsDetail]]
+name = "Padilla"
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-12"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 134976
+congress = 8
+bill_no = "HB00279"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-12"

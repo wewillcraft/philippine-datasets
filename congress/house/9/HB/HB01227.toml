@@ -1,0 +1,68 @@
+billNumber = "HB01227"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01227"
+lastScraped = "2025-09-22T00:25:54.814364"
+title = "HB01227"
+longTitle = "AN ACT CHANGING THE NAME OF BULACAN NATIONAL AGRICULTURAL SCHOOL IN SAN ILDEFONSO, BULACAN, TO BULACAN NATIONAL AGRICULTURAL COLLEGE"
+scope = "Local"
+dateFiled = "1992-08-18"
+status = "Approved by the House on 1993-02-24, transmitted to on 1993-02-26 and received by the Senate on 1993"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Silverio"
+[[authorsDetail]]
+name = "Silverio"
+nameCode = "Silverio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 119846
+congress = 9
+bill_no = "HB01227"
+report = "00055"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = "EDUCATION AND CULTURE"
+recomm = "APPROVAL WITHOUT AMENDMENTS"
+date_read = "1992-08-25"
+date_ob = "1993-01-19"
+date_cal = "1993-01-19"
+date_unass = "1993-01-19"
+date_report = "1992-12-18"
+
+[secondReading]
+id = 19174
+congress = 9
+bill_no = "HB01227"
+date_approved = "1993-01-28"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1451
+congress = 9
+bill_no = "HB01227"
+date_dist = "1993-02-02"
+date_adopt = "1993-02-24"
+no_yeas = 138
+no_nays = 0
+no_abstent = 0
+date_trans = "1993-02-26"
+date_rec = "1993-03-03"

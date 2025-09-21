@@ -1,0 +1,46 @@
+billNumber = "HB02153"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02153"
+lastScraped = "2025-09-22T00:20:57.755074"
+title = "HB02153"
+longTitle = "AN ACT CREATING THE MARIKINA FOOTWEAR AND LEATHERGOODS COMMISSION, AND PRESCRIBING ITS POWERS AND FUNCTIONS"
+scope = "Local"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108574
+congress = 10
+bill_no = "HB02153"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-15"

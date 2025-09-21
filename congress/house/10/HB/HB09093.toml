@@ -1,0 +1,46 @@
+billNumber = "HB09093"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09093"
+lastScraped = "2025-09-22T00:20:59.099255"
+title = "HB09093"
+longTitle = "AN ACT REDEFINING THE FUNCTIONS AND JURISDICTION OF THE NATIONAL BUREAU OF INVESTIGATION, PROVIDING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-03-11"
+status = "Pending with the Committee on JUSTICE since 1997-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-03-13"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115514
+congress = 10
+bill_no = "HB09093"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-03-13"

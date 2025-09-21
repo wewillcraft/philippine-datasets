@@ -1,0 +1,54 @@
+billNumber = "HR00128"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00128"
+lastScraped = "2025-09-21T23:39:49.217913"
+title = "HR00128"
+longTitle = "A RESOLUTION DIRECTING THE HOUSE COMMITTEE ON AGRICULTURE AND FOOD AND THE HOUSE SPECIAL COMMITTEE ON FOOD SECURITY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON HOW THE RICE FARMER FINANCIAL ASSISTANCE PROGRAM CAN BE EXPANDED TO HELP REDUCE THE COUNTRY'S DEPENDENCE ON IMPORTED RICE AND PROTECT NATIONAL FOOD SECURITY"
+dateFiled = "2025-08-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00128.pdf"
+fileSize = 101163
+author = "SALCEDA, ADRIAN E."
+coAuthors = [ "MERCADO, ROGER  GAVIOLA",]
+[[authorsDetail]]
+name = "SALCEDA, ADRIAN E."
+nameCode = "Salceda"
+date = "2025-08-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MERCADO, ROGER  GAVIOLA"
+nameCode = "Mercado"
+date = "2025-09-04"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 4684
+congress = 103
+bill_no = "HR00128"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-13"

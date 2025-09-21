@@ -1,0 +1,42 @@
+billNumber = "HR00094"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00094"
+lastScraped = "2025-09-22T00:25:57.385391"
+title = "HR00094"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO CONDUCT AN INVESTIGATION IN AID OF LEGISLATION ON THE PRESENT STATE OF THE PRESIDENTIAL COMMISSION ON GOOD GOVERNMENT IN ITS EFFORTS AT RECOVERING ILL-GOTTEN WEALTH, INVESTIGATION OF GRAFT AND CORRUPTION CASES FILED SO THAT CONGRESS MAY ADOPT APPROPRIATE MEASURES TO PROTECT NATIONAL INTERESTS"
+scope = "National"
+dateFiled = "1992-08-20"
+status = "Pending with the Committee on JUSTICE since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 133406
+congress = 9
+bill_no = "HR00094"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-26"

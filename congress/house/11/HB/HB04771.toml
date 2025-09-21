@@ -1,0 +1,80 @@
+billNumber = "HB04771"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB04771"
+lastScraped = "2025-09-22T00:23:16.432232"
+title = "HB04771"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF EXECUTIVE ORDER NO. 18, CREATING THE SUGAR REGULATORY ADMINISTRATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1998-10-19"
+status = "Approved on Third Reading on 2001-05-30"
+statusOrder = 19.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "BASCUG, ALEX G.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BASCUG, ALEX G."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1998-10-22"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[motherBills]]
+bill_no = "HB06649"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB06649"
+flag = "S"
+
+[firstReading]
+id = 96206
+congress = 11
+bill_no = "HB04771"
+report = "00776"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = "AGRICULTURE AND FOOD"
+recomm = "approval with amendments"
+date_read = "1998-10-22"
+date_ob = "2000-05-08"
+date_report = "2000-04-11"
+
+[secondReading]
+id = 16556
+congress = 11
+bill_no = "HB04771"
+date_calendared = "2000-05-16"
+date_approved = "2001-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3826
+congress = 11
+bill_no = "HB04771"
+date_dist = "2001-02-08"
+date_adopt = "2001-05-30"
+no_yeas = 159
+no_nays = 0
+no_abstent = 0

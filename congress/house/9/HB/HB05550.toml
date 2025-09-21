@@ -1,0 +1,47 @@
+billNumber = "HB05550"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05550"
+lastScraped = "2025-09-22T00:25:55.645867"
+title = "HB05550"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A MULTIPURPOSE CENTER IN BARANGAY LAYOG BATO, MUNICIPALITY OF LEMERY, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-08"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-12-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-12-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124169
+congress = 9
+bill_no = "HB05550"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-12-10"

@@ -1,0 +1,61 @@
+billNumber = "HB07214"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07214"
+lastScraped = "2025-09-22T00:20:58.701003"
+title = "HB07214"
+longTitle = "AN ACT GRANTING STATE RECOGNITION AND ASSISTANCE TO OUTSTANDING MEMBERS AND ORGANIZATIONS OF THE PHILIPPINE PRIVATE PRINT AND ELECTRONIC MEDIA"
+scope = "National"
+dateFiled = "1996-05-31"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1996-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+coAuthors = [ "LIBAN, DANTE V.", "PEREZ, HERNANDO B.",]
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1996-06-05"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113635
+congress = 10
+bill_no = "HB07214"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1996-06-05"

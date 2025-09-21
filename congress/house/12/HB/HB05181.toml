@@ -1,0 +1,47 @@
+billNumber = "HB05181"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05181"
+lastScraped = "2025-09-22T00:13:00.762645"
+title = "HB05181"
+longTitle = "AN ACT CONVERTING THE LTO EXTENSION OFFICE LOCATED IN MUNTINLUPA CITY INTO A REGULAR LTO DISTRICT OFFICE, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2002-08-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2002-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Biazon, Rozzano Rufino B."
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2002-09-05"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88336
+congress = 12
+bill_no = "HB05181"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2002-09-05"

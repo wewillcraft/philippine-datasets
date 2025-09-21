@@ -1,0 +1,66 @@
+billNumber = "HB08372"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08372"
+lastScraped = "2025-09-22T00:23:17.127072"
+title = "HB08372"
+longTitle = "AN ACT DECLARING KINALUNDAN FALLS AND ITS PREMISES LOCATED AT BARANGAY OLAVE, MUNICIPALITY OF BUENAVISTA, PROVINCE OF AGUSAN DEL NORTE, A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1999-09-16"
+status = "Approved by the House on 2000-11-28, transmitted to on 2000-11-29 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1999-09-22"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 99807
+congress = 11
+bill_no = "HB08372"
+report = "01288"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1999-09-22"
+date_ob = "2000-11-14"
+date_report = "2000-10-26"
+
+[secondReading]
+id = 16965
+congress = 11
+bill_no = "HB08372"
+remarks = "The Body approved to consider the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-11-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4215
+congress = 11
+bill_no = "HB08372"
+date_dist = "2000-11-21"
+date_adopt = "2000-11-28"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-11-29"
+date_rec = "2000-12-05"

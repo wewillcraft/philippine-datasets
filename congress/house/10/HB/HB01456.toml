@@ -1,0 +1,46 @@
+billNumber = "HB01456"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01456"
+lastScraped = "2025-09-22T00:20:57.624959"
+title = "HB01456"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETING OF THE SEVEN (7) KILOMETER MUNICIPAL ROAD IN  BARANGAY NORTH POBLACION, MUNICIPALITY OF GABALDON, PROVINCE OF NUEVA ECIJA"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107877
+congress = 10
+bill_no = "HB01456"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-03"

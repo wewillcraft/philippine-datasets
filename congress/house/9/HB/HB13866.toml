@@ -1,0 +1,42 @@
+billNumber = "HB13866"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13866"
+lastScraped = "2025-09-22T00:25:57.162278"
+title = "HB13866"
+longTitle = "AN ACT CONVERTING THE NATIONAL DEFENSE COLLEGE OF THE PHILIPPINES INTO THE NATIONAL SECURITY UNIVERSITY OF THE PHILIPPINES"
+scope = "National"
+dateFiled = "1994-09-28"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1994-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1994-10-03"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132475
+congress = 9
+bill_no = "HB13866"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1994-10-03"

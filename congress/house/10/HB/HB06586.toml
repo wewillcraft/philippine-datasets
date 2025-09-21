@@ -1,0 +1,46 @@
+billNumber = "HB06586"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06586"
+lastScraped = "2025-09-22T00:20:58.584984"
+title = "HB06586"
+longTitle = "AN ACT DECLARING THE PACO VALLEY IN THE MUNICIPALITY OF KABUGAO, PROVINCE OF APAYAO, AS A CIVIL RESERVATION AND MODEL TOWN SITE AREA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-15"
+status = "Pending with the Committee on ECOLOGY since 1996-03-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1996-03-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113007
+congress = 10
+bill_no = "HB06586"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1996-03-20"

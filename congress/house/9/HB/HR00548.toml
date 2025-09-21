@@ -1,0 +1,53 @@
+billNumber = "HR00548"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00548"
+lastScraped = "2025-09-22T00:25:57.467381"
+title = "HR00548"
+longTitle = "RESOLUTION REQUESTING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS, TO APPOINT THE HONORABLE EXECUTIVE SECRETARY EDELMIRO A. AMANTE AS THE SECRETARY OF PUBLIC WORKS AND HIGHWAYS"
+scope = "National"
+dateFiled = "1993-03-09"
+status = "Adopted as Resolution No. HR00028 on 1993-03-09"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-03-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 133860
+congress = 9
+bill_no = "HR00548"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1993-03-09"
+
+[secondReading]
+id = 20119
+congress = 9
+bill_no = "HR00548"
+adopted_resolution = "HR00028"
+date_approved = "1993-03-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00548.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00548.pdf"

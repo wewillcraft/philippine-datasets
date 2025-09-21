@@ -1,0 +1,42 @@
+billNumber = "HB00216"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00216"
+lastScraped = "2025-09-22T00:46:56.594389"
+title = "HB00216"
+longTitle = "AN ACT ESTABLISHING A TEN-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF GABALDON, NUEVA ECIJA"
+scope = "Local"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on HEALTH since 1987-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Concepcion"
+[[authorsDetail]]
+name = "Concepcion"
+nameCode = "Concepcion"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-11"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 134913
+congress = 8
+bill_no = "HB00216"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-11"

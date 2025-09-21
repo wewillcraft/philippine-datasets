@@ -1,0 +1,78 @@
+billNumber = "HB05941"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05941"
+lastScraped = "2025-09-22T00:25:55.713086"
+title = "HB05941"
+longTitle = "AN ACT CONVERTING THE MISAMIS OCCIDENTAL PROVINCIAL HOSPITAL IN THE CITY OF OROQUIETA, PROVINCE OF MISAMIS OCCIDENTAL, INTO A MEDICAL CENTER, TO BE KNOWN AS THE MISAMIS OCCIDENTAL MEDICAL CENTER, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-12-17"
+status = "Vetoed by the President on 1995-05-19"
+statusOrder = 31.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-01-18"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124560
+congress = 9
+bill_no = "HB05941"
+report = "00794"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1993-01-18"
+date_ob = "1994-08-01"
+date_cal = "1994-08-01"
+date_unass = "1994-08-01"
+date_report = "1994-06-20"
+
+[secondReading]
+id = 19384
+congress = 9
+bill_no = "HB05941"
+remarks = "CONSIDERED THE EXPLANATORY NOTE AS THE SPONSORSHIP SPEECH"
+date_approved = "1994-08-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1651
+congress = 9
+bill_no = "HB05941"
+date_dist = "1994-08-11"
+date_adopt = "1994-08-17"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-08-23"
+date_rec = "1994-08-24"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1995-04-19"
+dte_actedp = "1995-05-19"

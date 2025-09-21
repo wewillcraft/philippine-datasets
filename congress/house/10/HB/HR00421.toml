@@ -1,0 +1,47 @@
+billNumber = "HR00421"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00421"
+lastScraped = "2025-09-22T00:20:59.500615"
+title = "HR00421"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES AND THE SPECIAL COMMITTEE ON REFORESTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE LOCALLY- AND FOREIGN-FUNDED REFORESTATION PROGRAMS IMPLEMENTED BY THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES (DENR) IN ORDER TO REVIEW, AND EVALUATE ITS IMPLEMENTATION: FORMULATE AND ADOPT POLICIES AND GUIDELINES TO STRENGTHEN AND ACCELERATE THE IMPLEMENTATION OF THE PROGRAMS AND EFFECTIVELY ACCOUNT FOR THE PROPER UTILIZATION OF FUNDS OF THE PROGRAM"
+scope = "National"
+dateFiled = "1996-01-25"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "REFORESTATION"
+type = "secondary"
+referralCode = "B505"
+
+[firstReading]
+id = 117475
+congress = 10
+bill_no = "HR00421"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Natural Resources and the Special Ctte."
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-01-30"

@@ -1,0 +1,47 @@
+billNumber = "HR01013"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01013"
+lastScraped = "2025-09-22T00:20:59.617168"
+title = "HR01013"
+longTitle = "RESOLUTION URGING THE GOVERNMENT TO ENSURE THE FREE ENTRY OF OTHER ISLAMIC BANKS TO OPERATE IN THE COUNTRY"
+scope = "National"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "EAST ASEAN GROWTH AREA"
+type = "secondary"
+referralCode = "B511"
+
+[firstReading]
+id = 118067
+congress = 10
+bill_no = "HR01013"
+comm_act = "Jointly Referred to the Spl. Ctte. on East ASEAN Growth Area on Feb. 13, 1997."
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1996-12-12"

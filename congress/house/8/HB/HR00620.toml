@@ -1,0 +1,55 @@
+billNumber = "HR00620"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00620"
+lastScraped = "2025-09-22T00:47:02.647472"
+title = "HR00620"
+longTitle = "RESOLUTION REQUESTING THE PRESIDENT OF THE PHILIPPINES TO DIRECT ANY AGENCY OR AGENCIES OF THE GOVERNMENT TO SPONSOR AND SUPPORT THE STAGING OF THE THIRD PHILIPPINE INTERNATIONAL KARTING PRIX"
+scope = "National"
+dateFiled = "1988-03-16"
+status = "Adopted as Resolution No. HR00036 on 1988-08-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "primary"
+referralCode = "543"
+dateRead = "1988-03-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170505
+congress = 8
+bill_no = "HR00620"
+report = "00157"
+referral = "543"
+ref_name = "YOUTH AND SPORTS DEVELOPMENT"
+sub_name = "YOUTH AND SPORTS DEVELOPMENT"
+recomm = "ADOPTION"
+date_read = "1988-03-18"
+
+[secondReading]
+id = 21627
+congress = 8
+bill_no = "HR00620"
+adopted_resolution = "HR00036"
+remarks = "ADOPTED WITHOUT AMENDMENTS"
+date_calendared = "1988-03-18"
+date_approved = "1988-08-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

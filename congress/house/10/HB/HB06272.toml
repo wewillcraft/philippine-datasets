@@ -1,0 +1,73 @@
+billNumber = "HB06272"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06272"
+lastScraped = "2025-09-22T00:20:58.526270"
+title = "HB06272"
+longTitle = "AN ACT ESTABLISHING THE 'POOR PEOPLE'S BANK', DEFINING ITS PURPOSES AND OBJECTIVES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-02-16"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1996-02-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "RAMIREZ, JOSE T.", "VERCELES, LEANDRO JR. B.", "GILLEGO, BONIFACIO H.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERCELES, LEANDRO JR. B."
+nameCode = "Verceles"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GILLEGO, BONIFACIO H."
+nameCode = "Gillego"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1996-02-21"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "secondary"
+referralCode = "B502"
+
+[firstReading]
+id = 112693
+congress = 10
+bill_no = "HB06272"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1996-02-21"

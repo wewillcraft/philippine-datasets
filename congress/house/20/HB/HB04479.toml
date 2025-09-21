@@ -1,0 +1,46 @@
+billNumber = "HB04479"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB04479"
+lastScraped = "2025-09-21T23:39:49.155162"
+title = "HB04479"
+longTitle = "AN ACT MANDATING ALL FOOD SERVICE ESTABLISHMENTS TO PROVIDE FREE, CLEAN, AND SAFE DRINKING WATER TO CUSTOMERS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-09-09"
+status = "Pending with the Committee on HEALTH since 2025-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB04479.pdf"
+fileSize = 180695
+author = "LEGACION, NELSON S."
+[[authorsDetail]]
+name = "LEGACION, NELSON S."
+nameCode = "Legacion"
+date = "2025-09-09"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-09-15"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 4480
+congress = 103
+bill_no = "HB04479"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-09-15"

@@ -1,0 +1,46 @@
+billNumber = "HB06838"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06838"
+lastScraped = "2025-09-22T00:20:58.629401"
+title = "HB06838"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A TEN-BED HOSPITAL IN THE MUNICIPALITY OF MAGALLANES, PROVINCE OF AGUSAN DEL NORTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-04-23"
+status = "Pending with the Committee on HEALTH since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113259
+congress = 10
+bill_no = "HB06838"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-04-30"

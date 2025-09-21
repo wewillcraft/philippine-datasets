@@ -1,0 +1,42 @@
+billNumber = "HB08495"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08495"
+lastScraped = "2025-09-22T00:46:58.103707"
+title = "HB08495"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF ROSARIO IN THE PROVINCE OF CAGAYAN"
+scope = "Local"
+dateFiled = "1988-04-28"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1988-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dupaya"
+[[authorsDetail]]
+name = "Dupaya"
+nameCode = "Dupaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-05-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 143172
+congress = 8
+bill_no = "HB08495"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1988-05-04"

@@ -1,0 +1,42 @@
+billNumber = "HR00173"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00173"
+lastScraped = "2025-09-22T00:25:57.398619"
+title = "HR00173"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON PUBLIC ORDER AND SECURITY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED INCIDENCES OF IRREGULARITY CONCERNING THE TOWING OF ILLEGALLY PARKED VEHICLES BY THE HIGHWAY PATROL GROUP"
+scope = "National"
+dateFiled = "1992-09-09"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1992-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1992-09-21"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 133485
+congress = 9
+bill_no = "HR00173"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1992-09-21"

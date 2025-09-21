@@ -1,0 +1,62 @@
+billNumber = "HB10512"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10512"
+lastScraped = "2025-09-22T00:25:56.500908"
+title = "HB10512"
+longTitle = "AN ACT ESTABLISHING A PRESIDENT'S PARK TO HONOR PRESIDENTS OF THE REPUBLIC OF THE PHILIPPINES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-08-25"
+status = "Pending with the Committee on TOURISM since 1993-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vergara, Bernardo M."
+coAuthors = [ "LIBAN, DANTE V.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Vergara, Bernardo M."
+nameCode = "Vergara"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1993-08-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129130
+congress = 9
+bill_no = "HB10512"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1993-08-31"

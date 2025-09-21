@@ -1,0 +1,57 @@
+billNumber = "HR00844"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00844"
+lastScraped = "2025-09-22T00:47:02.691162"
+title = "HR00844"
+longTitle = "RESOLUTION AUTHORIZING MEMBERS OF THE HOUSE OF REPRESENTATIVES TO SIT AS MEMBERS OF THE REGIONAL CONSULTATIVE ASSEMBLY IN THEIR RESPECTIVE REGIONS"
+scope = "National"
+dateFiled = "1988-08-12"
+status = "Pending with the Committee on ETHICS since 1988-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco"
+coAuthors = [ "MONFORT, NARCISO D.", "ESTRELLA, ERNESTO T.",]
+[[authorsDetail]]
+name = "Cuenco"
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ESTRELLA, ERNESTO T."
+nameCode = "Estrella"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1988-08-17"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 170725
+congress = 8
+bill_no = "HR00844"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1988-08-17"

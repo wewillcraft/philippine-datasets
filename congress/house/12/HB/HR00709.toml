@@ -1,0 +1,79 @@
+billNumber = "HR00709"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00709"
+lastScraped = "2025-09-22T00:13:01.300860"
+title = "Alleged Anomalies Concerning Casecnan Multi-Purpose Irrigation Project"
+longTitle = "RESOLUTION CALLING ON THE HOUSE COMMITTEE ON GOOD GOVERNMENT TO INVESTIGATE, IN AID OF LEGISLATION, SEVERAL ALLEGED ANOMALIES CONCERNING CASECNAN MULTIPURPOSE IRRIGATION PROJECT"
+scope = "Local"
+dateFiled = "2002-08-20"
+status = "Adopted Resolution (Pending with the committee on GOOD GOVERNMENT since 2002-10-21)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "GONZALES, NEPTALI II M.", "PADILLA, CARLOS M.", "RULES",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALES, NEPTALI II M."
+nameCode = "Gonzales"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-08-26"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 90646
+congress = 12
+bill_no = "HR00709"
+report = "00960"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2002-08-26"
+date_report = "2002-10-18"
+
+[secondReading]
+id = 15307
+congress = 12
+bill_no = "HR00709"
+adopted_resolution = "HR00418"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO INVESTIGATE, IN AID OF LEGISLATION, SEVERAL ALLEGED ANOMALIES CONCERNING CASECNAN MULTIPURPOSE  IRRIGATION PROJECT"
+date_calendared = "2002-10-21"
+date_approved = "2002-10-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-10-21"

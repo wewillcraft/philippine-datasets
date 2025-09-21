@@ -1,0 +1,57 @@
+billNumber = "HB01033"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01033"
+lastScraped = "2025-09-22T00:12:59.992485"
+title = "HB01033"
+longTitle = "AN ACT DECLARING ALL OFFICIAL NON WORKING DAYS TO FALL EITHER ON A MONDAY OR A FRIDAY"
+scope = "National"
+dateFiled = "2001-07-13"
+status = "Pending with the Committee on REVISION OF LAWS since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cojuangco, Carlos O."
+coAuthors = [ "ABAYA, ANTONIO M.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Cojuangco, Carlos O."
+nameCode = "Cojuangco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABAYA, ANTONIO M."
+nameCode = "Abaya"
+date = ""
+journalNo = "J013"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 84193
+congress = 12
+bill_no = "HB01033"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+sub_name = ""
+date_read = "2001-07-25"

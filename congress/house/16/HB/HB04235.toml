@@ -1,0 +1,68 @@
+billNumber = "HB04235"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04235"
+lastScraped = "2025-09-21T23:56:22.259306"
+title = "HB04235"
+longTitle = "AN ACT GRANTING A TWENTY PERCENT (20%) DISCOUNT ON TOLL RATES FOR PRIVATE PASSENGER VEHICLES WITH AT LEAST FOUR (4) PASSENGERS ON-BOARD"
+scope = "National"
+dateFiled = "2014-03-19"
+status = "Pending with the Committee on TRANSPORTATION since 2014-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04235.pdf"
+fileSize = 209003
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "ABUEG, FREDERICK F.", "SY-ALVARADO, MA. VICTORIA R.", "RODRIGUEZ, MAXIMO JR. B.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2014-03-19"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABUEG, FREDERICK F."
+nameCode = "Abueg"
+date = "2014-07-30"
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, MA. VICTORIA R."
+nameCode = "Sy-Alvarado"
+date = "2014-12-01"
+journalNo = "J030"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, MAXIMO JR. B."
+nameCode = "Rodriguez (M.)"
+date = "2014-03-19"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-05-05"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[firstReading]
+id = 50049
+congress = 16
+bill_no = "HB04235"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-05"

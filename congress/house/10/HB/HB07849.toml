@@ -1,0 +1,46 @@
+billNumber = "HB07849"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07849"
+lastScraped = "2025-09-22T00:20:58.853196"
+title = "HB07849"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE SAN LUIS ELEMENTARY SCHOOL, BARANGAY SAN LUIS, MUNICIPALITY OF SARA, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114270
+congress = 10
+bill_no = "HB07849"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-09-02"

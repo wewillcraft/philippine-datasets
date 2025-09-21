@@ -1,0 +1,47 @@
+billNumber = "HB01790"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01790"
+lastScraped = "2025-09-22T00:25:54.914966"
+title = "HB01790"
+longTitle = "AN ACT AUTHORIZING THE IMPROVEMENT OF BANK REVETMENT AND CONSTRUCTION OF ROAD DIKE ALONG THE PASIG RIVER IN BARANGAY SUMILANG, PASIG, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-31"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Javier"
+[[authorsDetail]]
+name = "Javier"
+nameCode = "Javier"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-02"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120409
+congress = 9
+bill_no = "HB01790"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-02"

@@ -1,0 +1,47 @@
+billNumber = "HB05587"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05587"
+lastScraped = "2025-09-22T00:25:55.651787"
+title = "HB05587"
+longTitle = "AN ACT ESTABLISHING THE 50 BED EMERGENCY HOSPITAL IN THE MUNICIPALITY OF GUTALAC, PROVINCE OF ZAMBOANGA DEL NORTE, TO BE NAMED GUTALAC EMERGENCY HOSPITAL"
+scope = "Local"
+dateFiled = "1992-12-08"
+status = "Pending with the Committee on HEALTH since 1992-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Adasa"
+[[authorsDetail]]
+name = "Adasa"
+nameCode = "Adasa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-14"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 124206
+congress = 9
+bill_no = "HB05587"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-12-14"

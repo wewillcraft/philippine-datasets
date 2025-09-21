@@ -1,0 +1,41 @@
+billNumber = "HB00790"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00790"
+lastScraped = "2025-09-22T00:20:57.510381"
+title = "HB00790"
+longTitle = "AN ACT AMENDING SECTION 3 OF REPUBLIC ACT NUMBERED 6716, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-12"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 107211
+congress = 10
+bill_no = "HB00790"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-07-27"

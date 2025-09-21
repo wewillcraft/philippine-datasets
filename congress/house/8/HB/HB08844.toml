@@ -1,0 +1,42 @@
+billNumber = "HB08844"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08844"
+lastScraped = "2025-09-22T00:46:58.158446"
+title = "HB08844"
+longTitle = "AN ACT ESTABLISHING AGRICULTURAL EXPERIMENT STATION IN EVERY PROVINCE UNDER THE ADMINISTRATION AND SUPERVISION OF AN AGRICULTURAL COLLEGE/STATE COLLEGE/UNIVERS ITY"
+scope = "National"
+dateFiled = "1988-05-05"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-05-10"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 143521
+congress = 8
+bill_no = "HB08844"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-05-10"

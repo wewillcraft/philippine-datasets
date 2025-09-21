@@ -1,0 +1,57 @@
+billNumber = "HR00403"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00403"
+lastScraped = "2025-09-22T00:01:47.412953"
+title = "HR00403"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY ON THE UPDATE ON THE IMPLEMENTATION OF THE BANGSAMORO ORGANIC LAW"
+scope = "National"
+dateFiled = "2019-10-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00403.pdf"
+fileSize = 353984
+author = "Dimaporo, Mohamad Khalid Q."
+[[authorsDetail]]
+name = "Dimaporo, Mohamad Khalid Q."
+nameCode = "Dimaporo (M.K.)"
+date = "2019-10-01"
+sequence = 1
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2019-10-02"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[[committee]]
+name = "PEACE, RECONCILIATION AND UNITY"
+type = "secondary"
+referralCode = "E512"
+
+[firstReading]
+id = 30731
+congress = 18
+bill_no = "HR00403"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-10-02"

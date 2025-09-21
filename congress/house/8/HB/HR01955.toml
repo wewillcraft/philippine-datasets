@@ -1,0 +1,42 @@
+billNumber = "HR01955"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01955"
+lastScraped = "2025-09-22T00:47:02.914392"
+title = "HR01955"
+longTitle = "RESOLUTION TO DIRECT THE PROPER COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION TO DETERMINE THE PROPRIETY OF URGING THE GOVERNMENT TO SUSPEND THE PAYMENT OF OUR FOREIGN DEBTS FOR AT LEAST FIVE YEARS AND TO USE THE MONEY APPROPRIATED FOR SUCH PAYMENT TO FINANCE THE DEVELOPMENT OF THE COUNTRY'S HYDRO AND GEOTHERMAL RESOURCES AND EXPLORATION OF NATURAL GAS AND OTHER SOURCES OF ENERGY"
+scope = "National"
+dateFiled = "1990-10-08"
+status = "Pending with the Committee on WAYS AND MEANS since 1990-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aniag"
+[[authorsDetail]]
+name = "Aniag"
+nameCode = "Aniag"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1990-10-11"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 171791
+congress = 8
+bill_no = "HR01955"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1990-10-11"

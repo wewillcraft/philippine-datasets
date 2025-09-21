@@ -1,0 +1,49 @@
+billNumber = "HB03303"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03303"
+lastScraped = "2025-09-22T00:20:57.985988"
+title = "HB03303"
+longTitle = "AN ACT TO CONSERVE, DEVELOP, AND PROMOTE THE COCONUT TREE, AND TO DECLARE IT AS A NATIONAL TREE"
+scope = "National"
+dateFiled = "1995-09-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "VILLAREAL, JULITA L.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 109724
+congress = 10
+bill_no = "HB03303"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-09-18"

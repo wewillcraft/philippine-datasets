@@ -1,0 +1,47 @@
+billNumber = "HR00602"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR00602"
+lastScraped = "2025-09-21T23:55:22.657591"
+title = "HR00602"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE TERMINATION OF THE POWER SUPPLY AGREEMENT BETWEEN THE SAN MIGUEL CORPORATION (SMC) AND THE MERALCO THAT WOULD PROBABLY RESULT IN A SURGE OF THE COST OF ELECTRICITY"
+scope = "National"
+dateFiled = "2022-11-29"
+status = "Pending with the Committee on ENERGY since 2023-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR00602.pdf"
+fileSize = 286896
+author = "Fernandez, Dan S."
+[[authorsDetail]]
+name = "Fernandez, Dan S."
+nameCode = "Fernandez"
+date = "2022-11-29"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-12-05"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 17146
+congress = 19
+bill_no = "HR00602"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-01-25"
+date_read = "2022-12-05"

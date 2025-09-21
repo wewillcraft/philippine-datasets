@@ -1,0 +1,46 @@
+billNumber = "PS00020"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00020"
+lastScraped = "2025-09-21T23:56:42.635382"
+title = "Compromise Agreement Between Hacienda Luisita Inc. And The Farm Workers"
+longTitle = "HACIENDA LUISITA COMPROMISE AGREEMENT"
+scope = "Local"
+dateFiled = "2010-08-09"
+status = "Pending with the Committee on AGRARIAN REFORM since 2010-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mariano, Rafael V."
+[[authorsDetail]]
+name = "Mariano, Rafael V."
+nameCode = "Mariano"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "0502"
+dateRead = "2010-08-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 65538
+congress = 15
+bill_no = "PS00020"
+report = ""
+comm_act = ""
+referral = "0502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-24"

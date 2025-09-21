@@ -1,0 +1,54 @@
+billNumber = "HB03729"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB03729"
+lastScraped = "2025-09-21T23:55:44.818326"
+title = "HB03729"
+longTitle = "AN ACT CRIMINALIZING PLAGIARISM, PROVIDING PENALTIES THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-09-22"
+status = "Pending with the Committee on JUSTICE since 2016-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB03729.pdf"
+fileSize = 242603
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-09-22"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2016-11-28"
+journalNo = "J049"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-09-29"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 37197
+congress = 17
+bill_no = "HB03729"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-29"

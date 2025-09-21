@@ -1,0 +1,59 @@
+billNumber = "HB03803"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03803"
+lastScraped = "2025-09-22T00:20:58.079067"
+title = "HB03803"
+longTitle = "AN ACT CREATING THE PHILIPPINE MANGO RESEARCH AND DEVELOPMENT CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-09-26"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bengson"
+coAuthors = [ "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Bengson"
+nameCode = "Bengson"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-09-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 110224
+congress = 10
+bill_no = "HB03803"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-09-29"

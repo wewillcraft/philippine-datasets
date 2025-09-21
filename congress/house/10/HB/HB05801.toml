@@ -1,0 +1,46 @@
+billNumber = "HB05801"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05801"
+lastScraped = "2025-09-22T00:20:58.442425"
+title = "HB05801"
+longTitle = "AN ACT CONVERTING THE GARCIA MEMORIAL PROVINCIAL HOSPITAL IN THE MUNICIPALITY OF TALIBON, PROVINCE OF BOHOL, INTO A GENERAL HOSPITAL TO BE KNOWN AS THE CARLOS P. GARCIA MEMORIAL GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-22"
+status = "Pending with the Committee on HEALTH since 1996-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-25"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112222
+congress = 10
+bill_no = "HB05801"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-25"

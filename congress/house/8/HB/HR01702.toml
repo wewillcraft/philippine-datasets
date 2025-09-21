@@ -1,0 +1,42 @@
+billNumber = "HR01702"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01702"
+lastScraped = "2025-09-22T00:47:02.869817"
+title = "HR01702"
+longTitle = "RESOLUTION COMMENDING THE KALOOKAN FILIPINO-CHINES E FIRE PREVENTION ASSOCIATION, INC. FOR ITS INVALUABLE SERVICES TO THE PEOPLE"
+scope = "Local"
+dateFiled = "1990-03-21"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1990-03-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "529"
+dateRead = "1990-03-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 171544
+congress = 8
+bill_no = "HR01702"
+referral = "529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+sub_name = ""
+date_read = "1990-03-21"

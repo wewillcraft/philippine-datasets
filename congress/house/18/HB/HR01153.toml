@@ -1,0 +1,47 @@
+billNumber = "HR01153"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01153"
+lastScraped = "2025-09-22T00:01:47.550922"
+title = "HR01153"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES, THROUGH THE COMMITTEE ON ECOLOGY, TO INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED OIL SPILL IN BARRIO OBRERO, ILOILO CITY AND TO ENACT PROTOCOLS AND RULES OF ENGAGEMENT IN HANDLING AND MANAGING INCIDENTS OF THIS NATURE"
+scope = "National"
+dateFiled = "2020-08-24"
+status = "Pending with the Committee on ECOLOGY since 2020-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01153.pdf"
+fileSize = 1075477
+author = "Limkaichong, Jocelyn Sy"
+[[authorsDetail]]
+name = "Limkaichong, Jocelyn Sy"
+nameCode = "Limkaichong"
+date = "2020-08-24"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2020-08-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31472
+congress = 18
+bill_no = "HR01153"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2020-09-15"
+date_read = "2020-08-25"

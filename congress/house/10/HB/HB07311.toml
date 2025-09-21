@@ -1,0 +1,46 @@
+billNumber = "HB07311"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07311"
+lastScraped = "2025-09-22T00:20:58.717495"
+title = "HB07311"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS FOR THE CONSTRUCTION OF A TWO-ROOM SCHOOLBUILDING IN SALVACION ELEMENTARY SCHOOL, BARANGAY SALVACION, MUNICIPALITY OF CONCEPCION, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-06-05"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113732
+congress = 10
+bill_no = "HB07311"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-06-08"

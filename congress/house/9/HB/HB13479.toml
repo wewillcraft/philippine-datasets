@@ -1,0 +1,42 @@
+billNumber = "HB13479"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13479"
+lastScraped = "2025-09-22T00:25:57.085953"
+title = "HB13479"
+longTitle = "AN ACT ESTABLISHING A STATE COLLEGE IN THE MUNICIPALITY OF ROSARIO, PROVINCE OF BATANGAS, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1994-08-15"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-08-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-08-18"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132088
+congress = 9
+bill_no = "HB13479"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-08-18"

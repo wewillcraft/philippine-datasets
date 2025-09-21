@@ -1,0 +1,48 @@
+billNumber = "HR01200"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01200"
+lastScraped = "2025-09-22T00:25:57.588534"
+title = "HR01200"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON ENERGY AND ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE EXPLOSION THAT ROCKED THE COUNTRY'S SECOND LARGEST COAL MINE OF THE PHILIPPINE NATIONAL OIL COMPANY (PNOC) IN MALANGAS, ZAMBOANGA DEL SUR,TO DETERMINE EXISTING SAFETY PROCEDURES, RESCUE AND RECOVERY OPERATIONS ADHERED  BY MINING COMPANIES, IN PARTICULAR PNOC, AND ESTABLISH THE EFFECT OF THE RELEASE OF TOO MUCH METHANE GAS IN THE ADJOINING ECOSYSTEMS"
+scope = "Local"
+dateFiled = "1994-08-31"
+status = "Pending with the Committee on ENERGY since 1994-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1994-09-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 134506
+congress = 9
+bill_no = "HR01200"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Energy and on Ecology on 09/07/94"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1994-09-06"

@@ -1,0 +1,68 @@
+billNumber = "HB02341"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB02341"
+lastScraped = "2025-09-21T23:56:21.899150"
+title = "HB02341"
+longTitle = "AN ACT ESTABLISHING A MEDICAL SCHOLARSHIP AND SERVICE PROGRAM AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2013-08-07"
+status = "Pending with the Committee on HEALTH since 2013-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB02341.pdf"
+fileSize = 546819
+author = "Tan, Angelina"
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "VILLAR, MARK AGUILAR",]
+[[authorsDetail]]
+name = "Tan, Angelina"
+nameCode = "Tan (A.)"
+date = "2013-08-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-09-17"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAR, MARK AGUILAR"
+nameCode = "Villar"
+date = "2014-12-02"
+journalNo = "J031"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-08-14"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 48155
+congress = 16
+bill_no = "HB02341"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-08-14"

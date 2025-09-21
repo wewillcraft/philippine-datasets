@@ -1,0 +1,42 @@
+billNumber = "HR00582"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00582"
+lastScraped = "2025-09-22T00:47:02.638317"
+title = "HR00582"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEE ON JUSTICE TO INVESTIGATE THE EXPROPRIATION BY PRESIDENTIAL DECREE OF BAGONG BARRIO IN CALOOCAN CITY AND OPERATIONAND ADMINISTRATION BY THE NATIONAL HOUSING AUTHORITY OF SAID NATIONAL GOVERNMENT HOUSING PROJECT"
+scope = "Local"
+dateFiled = "1988-02-15"
+status = "Pending with the Committee on JUSTICE since 1988-02-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Robles"
+[[authorsDetail]]
+name = "Robles"
+nameCode = "Robles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1988-02-17"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 170468
+congress = 8
+bill_no = "HR00582"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1988-02-17"

@@ -1,0 +1,50 @@
+billNumber = "HB01505"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01505"
+lastScraped = "2025-09-22T00:13:00.075589"
+title = "HB01505"
+longTitle = "AN ACT PROVIDING FOR THE SALARIES, ALLOWANCES AND OTHER EMOLUMENTS OF GOVERNMENT PERSONNEL IN PROVINCIAL, DISTRICT, AND MUNICIPAL HOSPITALS AND SANITARIA THROUGHOUT THE COUNTRY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-26"
+status = "Pending with the Committee on APPROPRIATIONS since 2001-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ylagan"
+coAuthors = [ "CARI, CARMEN L.",]
+[[authorsDetail]]
+name = "Ylagan"
+nameCode = "Ylagan"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J037"
+sessionNo = "1RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2001-08-01"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 84665
+congress = 12
+bill_no = "HB01505"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2001-08-01"

@@ -1,0 +1,46 @@
+billNumber = "HB06673"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06673"
+lastScraped = "2025-09-22T00:20:58.599852"
+title = "HB06673"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE OPERATION OF A FIVE-BED CLINIC/HOSPITAL IN THE MUNICIPALITY OF BAGANGA, PROVINCE OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on HEALTH since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palma Gil"
+[[authorsDetail]]
+name = "Palma Gil"
+nameCode = "Palma Gil"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113094
+congress = 10
+bill_no = "HB06673"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-03-26"

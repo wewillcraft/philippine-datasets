@@ -1,0 +1,74 @@
+billNumber = "HB00809"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB00809"
+lastScraped = "2025-09-22T00:23:15.650007"
+title = "HB00809"
+longTitle = "AN ACT AUTHORIZING THE LOCAL GOVERNMENT OF ILOILO CITY TO SELL, ALIENATE OR LEASE THE ILOILO CITY PARK"
+scope = "Local"
+dateFiled = "1998-07-08"
+status = "Approved by the House on 2000-01-24, transmitted to on 2000-01-25 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+coAuthors = [ "MAGTUBO, RENATO B.",]
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MAGTUBO, RENATO B."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 92250
+congress = 11
+bill_no = "HB00809"
+report = "00529"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "approval"
+date_read = "1998-07-30"
+date_ob = "1999-12-08"
+date_report = "1999-12-07"
+
+[secondReading]
+id = 16243
+congress = 11
+bill_no = "HB00809"
+remarks = "Considered the Explanatory Note as the sponsorship speech."
+date_approved = "1999-12-21"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3519
+congress = 11
+bill_no = "HB00809"
+date_dist = "2000-01-17"
+date_adopt = "2000-01-24"
+no_yeas = 174
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-01-25"
+date_rec = "2000-01-27"

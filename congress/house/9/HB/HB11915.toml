@@ -1,0 +1,42 @@
+billNumber = "HB11915"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11915"
+lastScraped = "2025-09-22T00:25:56.790693"
+title = "HB11915"
+longTitle = "AN ACT POSTPONING THE BARANGAY ELECTIONS IN 1994 TO 1996 AND EXTENDING THE TERM OF ALL ELECTED BARANGAY OFFICIALS"
+scope = "National"
+dateFiled = "1994-02-03"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1994-02-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1994-02-09"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 130530
+congress = 9
+bill_no = "HB11915"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+sub_name = ""
+date_read = "1994-02-09"

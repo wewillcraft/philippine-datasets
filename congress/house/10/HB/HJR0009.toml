@@ -1,0 +1,41 @@
+billNumber = "HJR0009"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HJR0009"
+lastScraped = "2025-09-22T00:20:59.420666"
+title = "HJR0009"
+longTitle = "JOINT RESOLUTION SUSPENDING THE IMPLEMENTATION OF THE REPUBLIC ACT NO. 7716 OTHERWISE KNOWN AS THE EXPANDED VALUE ADDED TAX"
+scope = "National"
+dateFiled = "1996-01-18"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-01-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 117036
+congress = 10
+bill_no = "HJR0009"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-01-24"

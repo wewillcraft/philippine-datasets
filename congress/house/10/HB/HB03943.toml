@@ -1,0 +1,46 @@
+billNumber = "HB03943"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03943"
+lastScraped = "2025-09-22T00:20:58.102892"
+title = "HB03943"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION AND IMPROVEMENT OF THE WATERWORKS SYSTEM IN BARANGAY CALAIGANG, MUNICIPALITY OF SAN RAFAEL, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-27"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110364
+congress = 10
+bill_no = "HB03943"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-10-02"

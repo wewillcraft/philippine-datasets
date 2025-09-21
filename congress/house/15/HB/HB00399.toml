@@ -1,0 +1,68 @@
+billNumber = "HB00399"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB00399"
+lastScraped = "2025-09-21T23:56:40.633524"
+title = "HB00399"
+longTitle = "AN ACT MANDATING THE DEPARTMENT OF HEALTH TO PROVIDE AT LEAST ONE (1) HEALTH WORKER IN EVERY BARANGAY, INCREASING THEIR SALARIES AND BENEFITS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2010-07-01"
+status = "Pending with the Committee on HEALTH since 2010-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB00399.pdf"
+fileSize = 279656
+author = "Angara, Juan Edgardo M."
+coAuthors = [ "CASTRO, JANE TAN", "VILLAROSA, MA. AMELITA CALIMBAS", "DEL ROSARIO, ANTONIO RAFAEL GARCIA",]
+[[authorsDetail]]
+name = "Angara, Juan Edgardo M."
+nameCode = "Angara"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CASTRO, JANE TAN"
+nameCode = "Castro"
+date = ""
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, MA. AMELITA CALIMBAS"
+nameCode = "Calimbas-Villarosa"
+date = ""
+journalNo = "J065"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, ANTONIO RAFAEL GARCIA"
+nameCode = "Del Rosario (A.G.)"
+date = ""
+journalNo = "J021"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2010-07-27"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[firstReading]
+id = 55872
+congress = 15
+bill_no = "HB00399"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-07-27"

@@ -1,0 +1,41 @@
+billNumber = "HB07155"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07155"
+lastScraped = "2025-09-22T00:20:58.690717"
+title = "HB07155"
+longTitle = "AN ACT REQUIRING HOSPITALS WITH INTENSIVE CARE UNITS, WHETHER PRIVATE OR GOVERNMENT-OWNE D, TO ENGAGE ON FULL-TIME BASIS, THE SERVICES OF MEDICAL SPECIALISTS IN ALL FIELDS OF MEDICINE, TO IMMEDIATELY ADDRESS THE NEEDS OF THE INTENSIVE CARE UNIT PATIENTS DURING NIGHT AND DAY"
+scope = "National"
+dateFiled = "1996-05-28"
+status = "Pending with the Committee on HEALTH since 1996-05-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-05-30"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 113576
+congress = 10
+bill_no = "HB07155"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-05-30"

@@ -1,0 +1,47 @@
+billNumber = "HB05086"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05086"
+lastScraped = "2025-09-22T00:25:55.568321"
+title = "HB05086"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT OF A BARANGAY HALL IN BARANGAY NORTHERN POBLACION,  IN THE MUNICIPALITY OF CALAMBA, PROVINCE OF MISAMIS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-23"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Catane"
+[[authorsDetail]]
+name = "Catane"
+nameCode = "Catane"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-11-25"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123705
+congress = 9
+bill_no = "HB05086"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-11-25"

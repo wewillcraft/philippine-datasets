@@ -1,0 +1,73 @@
+billNumber = "HB02101"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02101"
+lastScraped = "2025-09-21T23:55:20.445099"
+title = "HB02101"
+longTitle = "AN ACT MANDATING ALL UTILITY AND TELECOMMUNICATIONS COMPANIES TO COMPLY WITH THE REGULATIONS ON THE USE OF UTILITY POLES AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2022-07-18"
+status = "Pending with the Committee on ENERGY since 2022-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02101.pdf"
+fileSize = 364945
+author = "ROMUALDO, JURDIN JESUS M."
+coAuthors = [ "VERGARA, ROSANNA \"RIA\"", "CARI, CARL NICOLAS C.", "ADIONG, ZIAUR-RAHMAN ALONTO ADIONG",]
+[[authorsDetail]]
+name = "ROMUALDO, JURDIN JESUS M."
+nameCode = "Romualdo"
+date = "2022-07-18"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VERGARA, ROSANNA \"RIA\""
+nameCode = "Vergara"
+date = "2022-09-14"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CARI, CARL NICOLAS C."
+nameCode = "Cari"
+date = "2023-02-09"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ADIONG, ZIAUR-RAHMAN ALONTO ADIONG"
+nameCode = "Adiong"
+date = "2023-02-15"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2022-08-02"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "secondary"
+referralCode = "E504"
+
+[firstReading]
+id = 7020
+congress = 19
+bill_no = "HB02101"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-02"

@@ -1,0 +1,55 @@
+billNumber = "HR00267"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00267"
+lastScraped = "2025-09-21T23:55:46.270061"
+title = "HR00267"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY AND THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PROHIBITIVE, UNCONSCIONABLE, DECEPTIVE, UNFAIR AND OPPORTUNISTIC PRICING OF DOMESTIC AIR CARRIERS SPECIFICALLY ON THE PURCHASE OF TICKETS THAT WOULD FLY ON THE SAME DAY"
+scope = "National"
+dateFiled = "2016-08-23"
+status = "Pending with the Committee on TRANSPORTATION since 2016-09-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00267.pdf"
+fileSize = 312772
+author = "BIRON, FERJENEL G., MD"
+coAuthors = [ "GARCIA, GWENDOLYN F.",]
+[[authorsDetail]]
+name = "BIRON, FERJENEL G., MD"
+nameCode = "Biron"
+date = "2016-08-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "GARCIA, GWENDOLYN F."
+nameCode = "Garcia (G.)"
+date = "2018-03-20"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-30"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 43010
+congress = 17
+bill_no = "HR00267"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-19"
+date_read = "2016-08-30"

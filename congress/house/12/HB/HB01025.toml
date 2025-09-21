@@ -1,0 +1,55 @@
+billNumber = "HB01025"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01025"
+lastScraped = "2025-09-22T00:12:59.991110"
+title = "HB01025"
+longTitle = "AN ACT PROVIDING FOR A COMPREHENSIVE WATER POLLUTION CONTROL POLICY AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-13"
+status = "Substituted by HB05398"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cojuangco, Carlos O."
+coAuthors = [ "JARAULA, CONSTANTINO G.",]
+[[authorsDetail]]
+name = "Cojuangco, Carlos O."
+nameCode = "Cojuangco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JARAULA, CONSTANTINO G."
+nameCode = "Jaraula"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84185
+congress = 12
+bill_no = "HB01025"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "2001-07-25"

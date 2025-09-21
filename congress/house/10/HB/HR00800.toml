@@ -1,0 +1,47 @@
+billNumber = "HR00800"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00800"
+lastScraped = "2025-09-22T00:20:59.576264"
+title = "HR00800"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON YOUTH AND SPORTS DEVELOPMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE DEATH OF MOUNTAIN CLIMBERS DURING THE ERUPTION OF MOUNT CANLAON"
+scope = "Local"
+dateFiled = "1996-08-22"
+status = "Pending with the Committee on RULES since 1996-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-08-26"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 117854
+congress = 10
+bill_no = "HR00800"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Youth and Sports Developmen t on Aug. 27,"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-08-26"

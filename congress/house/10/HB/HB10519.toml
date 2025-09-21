@@ -1,0 +1,46 @@
+billNumber = "HB10519"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10519"
+lastScraped = "2025-09-22T00:20:59.399795"
+title = "HB10519"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A NEW TUBIGON NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SIBAGAT, PROVINCE OF AGUSAN DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1998-02-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1998-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-02-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116939
+congress = 10
+bill_no = "HB10519"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1998-02-05"

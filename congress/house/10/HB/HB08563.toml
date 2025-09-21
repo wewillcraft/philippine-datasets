@@ -1,0 +1,75 @@
+billNumber = "HB08563"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08563"
+lastScraped = "2025-09-22T00:20:58.987741"
+title = "HB08563"
+longTitle = "AN ACT REQUIRING ALL GOVERNMENT OFFICES TO ESTABLISH DAY CARE CENTERS AND PROVIDING APPROPRIATIONS THEREFOR"
+scope = "National"
+dateFiled = "1996-12-09"
+status = "Pending with the Committee on SOCIAL SERVICES since 1996-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Periquet"
+coAuthors = [ "CALALAY, REYNALDO A.", "RODRIGUEZ, OSCAR S.", "DEJON, TEMISTOCLES SR. S.", "FAJARDO, MOHAMMAD OMAR A.",]
+[[authorsDetail]]
+name = "Periquet"
+nameCode = "Periquet"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "FAJARDO, MOHAMMAD OMAR A."
+nameCode = "Fajardo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1996-12-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114984
+congress = 10
+bill_no = "HB08563"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1996-12-11"

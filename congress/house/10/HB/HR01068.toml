@@ -1,0 +1,67 @@
+billNumber = "HR01068"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01068"
+lastScraped = "2025-09-22T00:20:59.632584"
+title = "HR01068"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED ANOMALIES AND IRREGULARITIES IN THE BIDDING OF VARIOUS CONTRACTS AND DELIVERIES OF SUPPLIES AND MATERIALS IN MANY PROJECTS OF THE METRO MANILA DEVELOPMENT AUTHORITY, AND TO RECOMMEND REMEDIAL MEASURES THERETO TO PREVENT SAID ANOMALIES"
+scope = "Local"
+dateFiled = "1997-01-31"
+status = "Pending with the Committee on RULES since 1997-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "JOAQUIN, NEREO R.", "BAGATSING, RAMON JR. S.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 118122
+congress = 10
+bill_no = "HR01068"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Local Govrnment"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-05"

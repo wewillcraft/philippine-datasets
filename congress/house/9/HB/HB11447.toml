@@ -1,0 +1,42 @@
+billNumber = "HB11447"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11447"
+lastScraped = "2025-09-22T00:25:56.686875"
+title = "HB11447"
+longTitle = "AN ACT RENAMING THE LOBOC HYDROELECTRIC POWER PLANT IN THE MUNICIPALITY OF LOBOC, PROVINCE OF BOHOL, INTO PRESIDENT CARLOS P. GARCIA HYDROELECTRIC POWER PLANT"
+scope = "Local"
+dateFiled = "1993-12-07"
+status = "Pending with the Committee on ENERGY since 1993-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1993-12-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 130062
+congress = 9
+bill_no = "HB11447"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1993-12-09"

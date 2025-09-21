@@ -1,0 +1,47 @@
+billNumber = "HB01999"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01999"
+lastScraped = "2025-09-22T00:25:54.950658"
+title = "HB01999"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A SECONDARY DOMESTIC AIRPORT IN THE MUNICIPALITY OF SAN ANTONIO, PROVINCE OF NORTHERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-02"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120618
+congress = 9
+bill_no = "HB01999"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-09-03"

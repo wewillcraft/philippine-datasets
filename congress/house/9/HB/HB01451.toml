@@ -1,0 +1,47 @@
+billNumber = "HB01451"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01451"
+lastScraped = "2025-09-22T00:25:54.855234"
+title = "HB01451"
+longTitle = "AN ACT PROVIDING FOR THE COMPLETION OF THE CONSTRUCTION OF ITBAYAT AIRPORT AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-24"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lizardo"
+[[authorsDetail]]
+name = "Lizardo"
+nameCode = "Lizardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120070
+congress = 9
+bill_no = "HB01451"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-08-27"

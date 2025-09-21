@@ -1,0 +1,50 @@
+billNumber = "HB05651"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05651"
+lastScraped = "2025-09-22T00:25:55.663300"
+title = "HB05651"
+longTitle = "AN ACT PROVIDING FOR A WEEKLY PAYMENT OF SALARIES FOR GOVERNMENT AND PRIVATE EMPLOYEES"
+scope = "National"
+dateFiled = "1992-12-09"
+status = "Pending with the Committee on APPROPRIATIONS since 1992-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Golez, Roilo S."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Golez, Roilo S."
+nameCode = "Golez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1992-12-15"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 124270
+congress = 9
+bill_no = "HB05651"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1992-12-15"

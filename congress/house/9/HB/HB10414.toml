@@ -1,0 +1,47 @@
+billNumber = "HB10414"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10414"
+lastScraped = "2025-09-22T00:25:56.482287"
+title = "HB10414"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION AND IMPROVEMENT OF WATERWORKS SYSTEM IN BARANGAY SALONG, MUNICIPALITY OF BALASAN, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS TEHREFOR"
+scope = "Local"
+dateFiled = "1993-08-17"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-08-24"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129032
+congress = 9
+bill_no = "HB10414"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-08-24"

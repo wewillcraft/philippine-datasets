@@ -1,0 +1,61 @@
+billNumber = "HB01824"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01824"
+lastScraped = "2025-09-21T23:55:44.450801"
+title = "HB01824"
+longTitle = "AN ACT PROHIBITING A PERSON FROM KNOWINGLY PERMITTING A MOTOR VEHICLE OWNED OR CONTROLLED BY HIM TO BE DRIVEN BY A PERSON WHO IS NOT AUTHORIZED TO DRIVE UNDER THE LAW"
+scope = "National"
+dateFiled = "2016-07-21"
+status = "Pending with the Committee on TRANSPORTATION since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01824.pdf"
+fileSize = 490257
+author = "Vargas, Alfred D."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2016-07-21"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-01-24"
+journalNo = "J061"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2018-08-29"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 35292
+congress = 17
+bill_no = "HB01824"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

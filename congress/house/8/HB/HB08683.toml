@@ -1,0 +1,70 @@
+billNumber = "HB08683"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08683"
+lastScraped = "2025-09-22T00:46:58.133400"
+title = "HB08683"
+longTitle = "AN ACT ESTABLISHING A 25-BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF STA. MONICA, PROVINCE OF SURIGAO DEL NORTE"
+scope = "Local"
+dateFiled = "1988-05-03"
+status = "REPUBLIC ACT (RA06930) enacted on 1990-03-09"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo"
+[[authorsDetail]]
+name = "Ecleo"
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-09"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 143360
+congress = 8
+bill_no = "HB08683"
+report = "00662"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1988-05-09"
+date_ob = "1989-05-25"
+date_cal = "1989-05-25"
+date_unass = "1989-05-25"
+date_report = "1989-05-25"
+
+[secondReading]
+id = 20704
+congress = 8
+bill_no = "HB08683"
+date_approved = "1989-05-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 479
+congress = 8
+bill_no = "HB08683"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 119
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+act_pres = "A"
+dte_transp = "1990-01-09"
+dte_actedp = "1990-03-09"

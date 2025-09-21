@@ -1,0 +1,41 @@
+billNumber = "HR01362"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01362"
+lastScraped = "2025-09-22T00:20:59.686638"
+title = "HR01362"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE EXCISE TAX PAYMENTS OF LA SUERTE CIGAR AND CIGARETTE FACTORY FOR THE YEAR 1996"
+scope = "Local"
+dateFiled = "1997-09-03"
+status = "Pending with the Committee on WAYS AND MEANS since 1997-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1997-09-29"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 118416
+congress = 10
+bill_no = "HR01362"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1997-09-29"

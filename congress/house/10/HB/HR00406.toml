@@ -1,0 +1,74 @@
+billNumber = "HR00406"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00406"
+lastScraped = "2025-09-22T00:20:59.498390"
+title = "HR00406"
+longTitle = "RESOLUTION URGING THE PHILIPPINE GOVERNMENT TO ADOPT AND RATIFY THE DECLARATION ON THE PROTECTION OF ALL PERSONS FROM ENFORCED DISAPPEARANCE AS ADOPTED BY THE UNITED NATIONS GENERAL ASSEMBLY RESOLUTION 47/133 OF 18 DECEMBER 1992"
+scope = "National"
+dateFiled = "1996-01-19"
+status = "Adopted as Resolution No. HR00095 on 1997-02-13"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1996-01-24"
+
+[[committee]]
+name = "INTER-PARLIAMENTARY RELATIONS AND DIPLOMACY"
+type = "principal"
+referralCode = "A505"
+
+[firstReading]
+id = 117460
+congress = 10
+bill_no = "HR00406"
+report = "00690"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+recomm = "Adoption"
+date_read = "1996-01-24"
+date_ob = "1996-12-09"
+date_unass = "1997-02-04"
+date_report = "1996-12-05"
+
+[secondReading]
+id = 18955
+congress = 10
+bill_no = "HR00406"
+adopted_resolution = "HR00095"
+remarks = "Sponsorship remarks of Mr. Lagman be inserted into the records."
+date_calendared = "1997-02-12"
+date_approved = "1997-02-13"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00095.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00095.pdf"

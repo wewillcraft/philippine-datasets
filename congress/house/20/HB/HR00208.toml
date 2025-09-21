@@ -1,0 +1,56 @@
+billNumber = "HR00208"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00208"
+lastScraped = "2025-09-21T23:39:49.230502"
+title = "HR00208"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE/S TO CONDUCT AN\r\nINVESTIGATION, IN AID OF LEGISLATION, ON THE CURRENT GOVERNMENT\r\nFLOOD CONTROL PROJECTS AND THE WORSENING FLOODING IN THE COUNTRY, WITH THE GOAL OF CRAFTING A COMPREHENSIVE, INTEGRATED, INTERCONNECTED AND CORRUPTION-FREE NATIONAL FLOOD CONTROL MASTER PLAN COMPOSED OF SCIENCE-BASED AND COST-EFFECTIVE STRATEGIES AND SOLUTIONS"
+dateFiled = "2025-09-01"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00208.pdf"
+fileSize = 285866
+author = "VILLANUEVA, EDUARDO \"BRO. EDDIE\" C."
+[[authorsDetail]]
+name = "VILLANUEVA, EDUARDO \"BRO. EDDIE\" C."
+nameCode = "Villanueva"
+date = "2025-09-01"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-09-03"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4764
+congress = 103
+bill_no = "HR00208"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-03"

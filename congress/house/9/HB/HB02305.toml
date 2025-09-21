@@ -1,0 +1,78 @@
+billNumber = "HB02305"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB02305"
+lastScraped = "2025-09-22T00:25:55.003104"
+title = "HB02305"
+longTitle = "AN ACT UPGRADING THE EULOGIO RODRIGUEZ SR., MEMORIAL HOSPITAL FROM A PROVINCIAL HOSPITAL TO A MEDICAL CENTER, RENAMING IT AS \"AMANG R0DRIGUEZ MEDICAL CENTER', AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "1992-09-04"
+status = "REPUBLIC ACT RA08019 (Lapsed into law on 1995-05-25)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-09-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120924
+congress = 9
+bill_no = "HB02305"
+report = "00823"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1992-09-18"
+date_ob = "1994-08-22"
+date_cal = "1994-08-22"
+date_unass = "1994-08-22"
+date_report = "1994-08-17"
+
+[secondReading]
+id = 19245
+congress = 9
+bill_no = "HB02305"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-08-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1520
+congress = 9
+bill_no = "HB02305"
+date_dist = "1994-09-05"
+date_adopt = "1994-09-08"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-09-13"
+date_rec = "1994-09-14"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1995-04-19"
+dte_actedp = "1995-05-25"

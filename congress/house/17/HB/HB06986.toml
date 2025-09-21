@@ -1,0 +1,75 @@
+billNumber = "HB06986"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB06986"
+lastScraped = "2025-09-21T23:55:45.625454"
+title = "HB06986"
+longTitle = "AN ACT PROVIDING A STANDARD OF CARE FOR THE TREATMENT OF PERSONS WITH BLEEDING DISORDERS, ESTABLISHING TREATMENT CENTERS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2018-01-18"
+status = "Pending with the Committee on HEALTH since 2018-01-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB06986.pdf"
+fileSize = 924839
+author = "Herrera, Bernadette \"BH\""
+coAuthors = [ "BULUT-BEGTANG, ELEONOR C.", "VIOLAGO, MICALEA S.", "SY-ALVARADO, JOSE ANTONIO R.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera-Dy"
+date = "2018-01-18"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BULUT-BEGTANG, ELEONOR C."
+nameCode = "Bulut-Begtang"
+date = "2018-02-19"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2018-02-19"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-02-19"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-08-30"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2018-01-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 40453
+congress = 17
+bill_no = "HB06986"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-01-24"

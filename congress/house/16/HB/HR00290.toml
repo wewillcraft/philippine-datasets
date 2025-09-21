@@ -1,0 +1,55 @@
+billNumber = "HR00290"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00290"
+lastScraped = "2025-09-21T23:56:22.850465"
+title = "HR00290"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT A COMPREHENSIVE REVIEW ON THE IMPLEMENTATION OF REPUBLIC ACT NUMBERED 9136, OTHERWISE KNOWN AS THE ELECTRIC POWER INDUSTRY REFORM ACT OF 2001, WITH THE END IN VIEW OF FORMULATING REMEDIAL LEGISLATION"
+scope = "National"
+dateFiled = "2013-09-11"
+status = "Pending with the Committee on ENERGY since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00290.pdf"
+fileSize = 187858
+author = "Biazon, Rodolfo G."
+coAuthors = [ "LOBREGAT, CELSO",]
+[[authorsDetail]]
+name = "Biazon, Rodolfo G."
+nameCode = "Biazon"
+date = "2013-09-11"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "LOBREGAT, CELSO"
+nameCode = "Lobregat"
+date = "2014-06-09"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2013-09-17"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 52689
+congress = 16
+bill_no = "HR00290"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-25"
+date_read = "2013-09-17"

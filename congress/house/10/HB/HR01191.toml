@@ -1,0 +1,41 @@
+billNumber = "HR01191"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01191"
+lastScraped = "2025-09-22T00:20:59.654425"
+title = "HR01191"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEES ON FOREIGN AFFAIRS AND NATIONAL DEFENSE, TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO REPORTS THAT ELEMENTS OF THE MALAYSIAN NAVY INTRUDED INTO PHILIPPINE TERRITORY ANDABDUCTED SEVEN FILIPINOS FROM PALAWAN ON APRIL 15, 1997 IN ORDER TO ASCERTAIN THE VERACITY OF SUCH REPORTS AND RECOMMEND MEASURES THAT WILL SAFEGUARD THE TERRITORIAL INTEGRITY OF THE COUNTRY AS WELL AS PROTECT FILIPINO CITIZENS"
+scope = "Local"
+dateFiled = "1997-04-29"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1997-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verceles"
+[[authorsDetail]]
+name = "Verceles"
+nameCode = "Verceles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118245
+congress = 10
+bill_no = "HR01191"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1997-05-05"

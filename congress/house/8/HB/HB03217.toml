@@ -1,0 +1,43 @@
+billNumber = "HB03217"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03217"
+lastScraped = "2025-09-22T00:46:57.125088"
+title = "HB03217"
+longTitle = "AN ACT LEVYING REAL ESTATE TAX ON THE REAL PROPERTY OF THE NATIONAL POWER CORPORATION SITUATED IN THE PROVINCE OF BOHOL"
+scope = "National"
+dateFiled = "1987-10-23"
+status = "Pending with the Committee on WAYS AND MEANS since 1987-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1987-11-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 137905
+congress = 8
+bill_no = "HB03217"
+comm_act = "SUBSTITUTE D BY HB 13738"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1987-11-10"

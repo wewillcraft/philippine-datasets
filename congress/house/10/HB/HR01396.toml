@@ -1,0 +1,41 @@
+billNumber = "HR01396"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01396"
+lastScraped = "2025-09-22T00:20:59.692606"
+title = "HR01396"
+longTitle = "RESOLTION AUTHORIZING THE PRIVATIZATION OF THE PHILIPPINE NATIONAL RAILWAYS"
+scope = "National"
+dateFiled = "1997-10-10"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "San Buenaventura"
+[[authorsDetail]]
+name = "San Buenaventura"
+nameCode = "San Buenaventura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-10-15"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 118450
+congress = 10
+bill_no = "HR01396"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-10-15"

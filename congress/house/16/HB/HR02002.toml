@@ -1,0 +1,90 @@
+billNumber = "HR02002"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR02002"
+lastScraped = "2025-09-21T23:56:23.167892"
+title = "HR02002"
+longTitle = "RESOLUTION ADVANCING THE INTERESTS OF YOUNG FILIPINO SCIENTISTS AND INVENTORS BY PROVIDING THEM WITH MEANINGFUL AND REWARDING INCENTIVES AND ENCOURAGING THEM TO REMAIN IN THE COUNTRY AND BE PART OF ITS ECONOMIC DEVELOPMENT"
+scope = "National"
+dateFiled = "2015-03-18"
+status = "Adopted as Resolution No. HR00197 on 2015-05-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yu, Victor J."
+coAuthors = [ "CASTELO, WINSTON TAQUEBAN",]
+[[authorsDetail]]
+name = "Yu, Victor J."
+nameCode = "Yu"
+date = "2015-03-18"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CASTELO, WINSTON TAQUEBAN"
+nameCode = "Castelo"
+date = "2015-03-18"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2015-05-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00953"
+sequence = 1
+date = "2015-03-18"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00953"
+sequence = 1
+date = "2015-03-18"
+flag = "S"
+
+[firstReading]
+id = 54399
+congress = 16
+bill_no = "HR02002"
+report = "00642"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "SCIENCE AND TECHNOLOGY"
+recomm = "Adoption in substitution of House Resolution No. 953."
+remarks = ""
+file = "CR00642.pdf"
+date_read = "2015-05-04"
+date_ob = "2015-05-04"
+date_report = "2015-03-18"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00642.pdf"
+
+[secondReading]
+id = 5712
+congress = 16
+bill_no = "HR02002"
+adopted_resolution = "HR00197"
+adopted_resolution_title = "RESOLUTION ADVANCING THE INTERESTS OF YOUNG FILIPINO SCIENTISTS AND INVENTORS BY PROVIDING THEM WITH MEANINGFUL AND REWARDING INCENTIVES AND ENCOURAGING THEM TO REMAIN IN THE COUNTRY AND BE PART OF ITS ECONOMIC DEVELOPMENT"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2015-05-04"
+date_approved = "2015-05-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR02002.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_16/HR02002.pdf"

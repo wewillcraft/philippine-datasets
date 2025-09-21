@@ -1,0 +1,41 @@
+billNumber = "HB01599"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01599"
+lastScraped = "2025-09-22T00:20:57.648610"
+title = "HB01599"
+longTitle = "AN ACT CREATING A PHILIPPINE INSURANCE EXCHANGE, PROVIDING FOR ITS ADMINISTRATION AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-01"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 108020
+congress = 10
+bill_no = "HB01599"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1995-08-03"

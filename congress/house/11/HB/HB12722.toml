@@ -1,0 +1,85 @@
+billNumber = "HB12722"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB12722"
+lastScraped = "2025-09-22T00:23:17.894012"
+title = "HB12722"
+longTitle = "AN ACT DECLARING A PORTION OF THE SAN ISIDRO COASTAL WATERS AS PROTECTED AREA AND ITS PERIPHERAL AREAS AS BUFFER ZONES TO BE KNOWN AS THE SAN ISIDRO PROTECTED SEASCAPE AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2000-12-20"
+status = "Approved by the House on 2001-02-05, transmitted to on 2001-02-06 and received by the Senate on 2001"
+statusOrder = 21.0
+urgent = true
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario, Mayo Z."
+coAuthors = [ "CRUZ-DUCUT, ZENAIDA G.", "DUAVIT, GILBERTO M.",]
+[[authorsDetail]]
+name = "Almario, Mayo Z."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CRUZ-DUCUT, ZENAIDA G."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DUAVIT, GILBERTO M."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-12-20"
+
+[[motherBills]]
+bill_no = "HB01377"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB01377"
+flag = "S"
+
+[firstReading]
+id = 104137
+congress = 11
+bill_no = "HB12722"
+report = "01337"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "APPROPRIATIONS, NATURAL RESOURCES"
+recomm = "approval"
+date_read = "2000-12-20"
+date_ob = "2000-12-20"
+date_report = "2000-12-20"
+
+[secondReading]
+id = 17362
+congress = 11
+bill_no = "HB12722"
+remarks = "Considered the Explanatory Note as the sponsorship remarks"
+date_approved = "2000-12-20"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4574
+congress = 11
+bill_no = "HB12722"
+date_dist = "2001-01-16"
+date_adopt = "2001-02-05"
+no_yeas = 178
+no_nays = 0
+no_abstent = 0
+date_trans = "2001-02-06"
+date_rec = "2001-02-07"

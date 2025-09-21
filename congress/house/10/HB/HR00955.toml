@@ -1,0 +1,47 @@
+billNumber = "HR00955"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00955"
+lastScraped = "2025-09-22T00:20:59.605931"
+title = "HR00955"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ACCEPTANCE BY THE BUREAU OF INTERNAL REVENUE OF PAYMENT OF LESS THAN TEN PERCENT (10%) OF THE TAX LIABILITIES OF LA SUERTE CIGAR AND CIGARETTE FACTORY BY WAY OF COMPROMISE SETTLEMENT"
+scope = "Local"
+dateFiled = "1996-11-13"
+status = "Pending with the Committee on RULES since 1996-11-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-18"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 118009
+congress = 10
+bill_no = "HR00955"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ways and Means on Nov. 19, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-18"

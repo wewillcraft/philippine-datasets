@@ -1,0 +1,46 @@
+billNumber = "HB05030"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05030"
+lastScraped = "2025-09-22T00:20:58.302026"
+title = "HB05030"
+longTitle = "AN ACT ESTABLISHING THE MAHARLIKA VILLAGE INTEGRATED NATIONAL HIGH SCHOOL AND ELEMENTARY SCHOOL IN BARANGAY MAHARLIKA VILLAGE, TAGIG, METRO MANILA, TO BE KNOWN AS THE MAHARLIKA VILLAGE INTEGRATED SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-14"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-20"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111451
+congress = 10
+bill_no = "HB05030"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-11-20"

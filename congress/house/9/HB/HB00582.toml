@@ -1,0 +1,47 @@
+billNumber = "HB00582"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00582"
+lastScraped = "2025-09-22T00:25:54.700008"
+title = "HB00582"
+longTitle = "AN ACT ESTABLISHING A CULTURAL CENTER IN THE CITY OF NAGA, TO BE KNOWN AS THE BICOL CULTURAL CENTER AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR (CHANGE OF COMMITTEE REFERRAL FROM CTTE. ON TOURISM TO CTTE. ON EDUCATION AND CULTURE AS PER OCT.14, 1992, CTTE. ON RULES LETTER)"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Baguio"
+[[authorsDetail]]
+name = "Baguio"
+nameCode = "Baguio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119201
+congress = 9
+bill_no = "HB00582"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-08-11"

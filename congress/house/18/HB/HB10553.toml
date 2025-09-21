@@ -1,0 +1,56 @@
+billNumber = "HB10553"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB10553"
+lastScraped = "2025-09-22T00:01:47.246369"
+title = "HB10553"
+longTitle = "AN ACT CREATING A COMPREHENSIVE FREE LEGAL ASSISTANCE PROGRAM FOR ALL ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES (AFP) AND PHILIPPINE NATIONAL POLICE (PNP) FOR CHARGES IN RELATION TO THE PERFORMANCE OF THEIR DUTIES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2021-11-29"
+status = "Pending with the Committee on JUSTICE since 2021-12-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB10553.pdf"
+fileSize = 306793
+author = "Romero, Michael L. Ph.D."
+[[authorsDetail]]
+name = "Romero, Michael L. Ph.D."
+nameCode = "Romero"
+date = "2021-11-29"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2021-12-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 29957
+congress = 18
+bill_no = "HB10553"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-12-01"

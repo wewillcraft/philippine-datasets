@@ -1,0 +1,47 @@
+billNumber = "HB08205"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08205"
+lastScraped = "2025-09-22T00:25:56.080468"
+title = "HB08205"
+longTitle = "AN ACT EXPANDING AND UPGRADING THE BALER AIRPORT IN THE MUNICIPALITY OF SAN LUIS, PROVINCE OF AURORA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-03-16"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1993-03-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Miran"
+[[authorsDetail]]
+name = "Miran"
+nameCode = "Miran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1993-03-22"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126824
+congress = 9
+bill_no = "HB08205"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1993-03-22"

@@ -1,0 +1,46 @@
+billNumber = "PS00250"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=PS00250"
+lastScraped = "2025-09-22T00:01:47.916643"
+title = "PS00250"
+longTitle = "CALLING THE POWER SUPPLIERS FOR BILLS ADJUSTMENTS"
+scope = "National"
+dateFiled = "2020-05-20"
+status = "Pending with the Committee on ENERGY since 2020-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ebcas, Adriano A."
+[[authorsDetail]]
+name = "Ebcas, Adriano A."
+nameCode = "Ebcas"
+date = "2020-05-20"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2020-06-03"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 33173
+congress = 18
+bill_no = "PS00250"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-06-03"

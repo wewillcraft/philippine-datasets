@@ -1,0 +1,51 @@
+billNumber = "HB08526"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08526"
+lastScraped = "2025-09-22T00:20:58.979166"
+title = "HB08526"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TECHNOLOGY TRAINING CENTER AT THE NAVAL INSTITUTE OF TECHNOLOGY, NAVAL, BILIRAN"
+scope = "Local"
+dateFiled = "1996-12-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-12-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[firstReading]
+id = 114947
+congress = 10
+bill_no = "HB08526"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-12-05"

@@ -1,0 +1,41 @@
+billNumber = "HB06989"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06989"
+lastScraped = "2025-09-22T00:20:58.655463"
+title = "HB06989"
+longTitle = "AN ACT CHANGING THE NAME OF 'MACAJALAR BAY' INTO 'MACABALAN BAY'  OF CAGAYAN DE ORO CITY IN THE MAP OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1996-05-16"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-05-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Damasing"
+[[authorsDetail]]
+name = "Damasing"
+nameCode = "Damasing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-05-21"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 113410
+congress = 10
+bill_no = "HB06989"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-05-21"

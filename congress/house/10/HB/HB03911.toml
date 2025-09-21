@@ -1,0 +1,46 @@
+billNumber = "HB03911"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03911"
+lastScraped = "2025-09-22T00:20:58.097633"
+title = "HB03911"
+longTitle = "AN ACT TO DECLARE CABUGSAYAN FALLS AS AN ECO-TOURISM AREA, ITS DEVELOPMENT AS A TOURIST DESTINATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-27"
+status = "Pending with the Committee on TOURISM since 1995-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua, Orlando  B."
+[[authorsDetail]]
+name = "Fua, Orlando  B."
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-10-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110332
+congress = 10
+bill_no = "HB03911"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-10-02"

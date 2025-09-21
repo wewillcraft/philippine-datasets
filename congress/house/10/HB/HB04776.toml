@@ -1,0 +1,46 @@
+billNumber = "HB04776"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04776"
+lastScraped = "2025-09-22T00:20:58.258207"
+title = "HB04776"
+longTitle = "AN ACT CONVERTING THE SAN JOSE CITY GENERAL HOSPITAL IN SAN JOSE CITY, PROVINCE OF NUEVA ECIJA, INTO AN EXTENSION OF THE DR. PAULINO GARCIA MEMORIAL RESEARCH AND MEDICAL CENTER IN THE PROVINCE OF NUEVA ECIJA AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-10-26"
+status = "Pending with the Committee on HEALTH since 1995-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Violago, Eleuterio R."
+[[authorsDetail]]
+name = "Violago, Eleuterio R."
+nameCode = "Violago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111197
+congress = 10
+bill_no = "HB04776"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-11-07"

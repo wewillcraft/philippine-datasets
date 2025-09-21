@@ -1,0 +1,54 @@
+billNumber = "HB09838"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09838"
+lastScraped = "2025-09-22T00:20:59.254745"
+title = "HB09838"
+longTitle = "AN ACT CONVERTING THE ORAS SCHOOL OF ARTS AND TRADE IN BARANGAY SAN EDUARDO, MUNICIPALITY OF ORAS, PROVINCE OF EASTERN SAMAR, INTO A NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-15"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+coAuthors = [ "ROMERO, MIGUEL L.",]
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROMERO, MIGUEL L."
+nameCode = "Romero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-25"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116259
+congress = 10
+bill_no = "HB09838"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-25"

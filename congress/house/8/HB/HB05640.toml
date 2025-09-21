@@ -1,0 +1,42 @@
+billNumber = "HB05640"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05640"
+lastScraped = "2025-09-22T00:46:57.538728"
+title = "HB05640"
+longTitle = "AN ACT ESTABLISHING A TREATMENT AND REHABILITATIONC ENTER FOR DRUG DEPENDENTS IN THE CITY OF CALOOCAN, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-02-22"
+status = "Pending with the Committee on HEALTH since 1988-02-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-02-24"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 140322
+congress = 8
+bill_no = "HB05640"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-02-24"

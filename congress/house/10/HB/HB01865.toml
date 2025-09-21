@@ -1,0 +1,46 @@
+billNumber = "HB01865"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01865"
+lastScraped = "2025-09-22T00:20:57.695478"
+title = "HB01865"
+longTitle = "AN ACT ESTABLISHING A RESTPARK IN BARANGAY TULO IN THE MUNICIPALITY OF CALAMBA, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on TOURISM since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108286
+congress = 10
+bill_no = "HB01865"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-08-09"

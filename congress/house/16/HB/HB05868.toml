@@ -1,0 +1,102 @@
+billNumber = "HB05868"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05868"
+lastScraped = "2025-09-21T23:56:22.640981"
+title = "Establishing A Fifty (50) Bed Capacity District Hospital In The City Of Imus, Province Of Cavite, Otherwise Known As The ' Ospital Ng Imus'"
+longTitle = "AN ACT ESTABLISHING A FIFTY (50) BED CAPACITY DISTRICT HOSPITAL IN THE CITY OF IMUS, PROVINCE OF CAVITE, OTHERWISE KNOWN AS THE 'OSPITAL NG IMUS' AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2015-06-10"
+status = "Approved by the House on 2015-08-10, transmitted to the Senate on 2015-08-12 and received by the Senate on 2015-08-12"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Advincula, Alex"
+[[authorsDetail]]
+name = "Advincula, Alex"
+nameCode = "Advincula"
+date = "2015-06-10"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2015-06-10"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[motherBills]]
+bill_no = "HB03182"
+sequence = 1
+date = "2015-06-10"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03182"
+sequence = 1
+date = "2015-06-10"
+flag = "S"
+
+[firstReading]
+id = 51682
+congress = 16
+bill_no = "HB05868"
+report = "00777"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "HEALTH, APPROPRIATIONS"
+recomm = "approval"
+remarks = ""
+file = "CR00777.pdf"
+date_read = "2015-06-10"
+date_ob = "2015-06-10"
+date_fri = "2015-06-10"
+date_report = "2015-06-10"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_16/CR00777.pdf"
+
+[secondReading]
+id = 5823
+congress = 16
+bill_no = "HB05868"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_approved = "2015-06-10"
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+
+[thirdReading]
+id = 10312
+congress = 16
+bill_no = "HB05868"
+date_dist = "2015-07-28"
+date_adopt = "2015-08-10"
+remarks = "    "
+no_yeas = 194
+no_nays = 0
+no_abstent = 0
+date_trans = "2015-08-12"
+date_rec = "2015-08-12"
+amend_ind = " "
+ccreqby = " "
+for_enroll = " "
+act_pres = " "
+cc_yeas = 0
+cc_nays = 0
+cc_absten = 0
+file = "hbt5868.pdf"
+third_reading_copy = "https://docs.congress.hrep.online/legisdocs/third_16/hbt5868.pdf"

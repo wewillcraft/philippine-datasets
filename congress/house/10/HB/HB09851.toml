@@ -1,0 +1,46 @@
+billNumber = "HB09851"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09851"
+lastScraped = "2025-09-22T00:20:59.256825"
+title = "HB09851"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN BARANGAY ESPERANZA, MUNICIPALITY OF STA. ROSA, PROVINCE OF NUEVA ECIJA, TO BE KNOWN AS THE ESPERANZA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-25"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116272
+congress = 10
+bill_no = "HB09851"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-25"

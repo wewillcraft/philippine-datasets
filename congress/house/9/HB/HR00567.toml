@@ -1,0 +1,67 @@
+billNumber = "HR00567"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00567"
+lastScraped = "2025-09-22T00:25:57.470734"
+title = "HR00567"
+longTitle = "RESOLUTION AUTHORIZING THE USE OF THE SESSION HALL FOR NATIONAL CONFERENCE OF INDIGENOUS PEOPLE FROM APRIL TWELVE TO THIRTEEN, NINETEEN HUNDRED AND NINETY-THREE, AND THE INTERNATIONAL CONFERENCE OF THE GLOBAL YOUTH EARTH SAVING (YES) SUMMIT FROM APRIL FOURTEEN TO SEVENTEEN, NINETEEN HUNDRED AND NINETY-THREE"
+scope = "National"
+dateFiled = "1993-03-23"
+status = "Adopted as Resolution No. HR00031 on 1993-03-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+coAuthors = [ "ABLAN, ROQUE JR. R.",]
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1993-03-23"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 133879
+congress = 9
+bill_no = "HR00567"
+report = "00129"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendment"
+date_read = "1993-03-23"
+date_ob = "1993-03-29"
+date_cal = "1993-03-29"
+date_unass = "1993-03-29"
+date_report = "1993-03-29"
+
+[secondReading]
+id = 20122
+congress = 9
+bill_no = "HR00567"
+adopted_resolution = "HR00031"
+date_approved = "1993-03-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00567.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00567.pdf"

@@ -1,0 +1,52 @@
+billNumber = "HR00697"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00697"
+lastScraped = "2025-09-22T00:20:59.557101"
+title = "HR00697"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON TRADE AND INDUSTRY AND YOUTH AND SPORTS DEVELOPMENT TO CONDUCT A STUDY, IN AID OF LEGISLATION, ON THE STATUS OF THE SPORTING GOODS INDUSTRY IN THE COUNTRY"
+scope = "National"
+dateFiled = "1996-06-14"
+status = "Pending with the Committee on RULES since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 117751
+congress = 10
+bill_no = "HR00697"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Trade and Industry and on Youth and Spo"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-23"

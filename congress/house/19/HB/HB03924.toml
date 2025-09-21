@@ -1,0 +1,61 @@
+billNumber = "HB03924"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB03924"
+lastScraped = "2025-09-21T23:55:20.769651"
+title = "HB03924"
+longTitle = "AN ACT ESTABLISHING A SENIOR WELLNESS CENTER IN THE CITY BAGUIO"
+scope = "Local"
+dateFiled = "2022-08-22"
+status = "Pending with the Committee on SENIOR CITIZENS since 2022-08-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB03924.pdf"
+fileSize = 290869
+author = "Go, Mark O."
+coAuthors = [ "YAP, CHRISTOPHERSON M.", "ROBES, FLORIDA \"Rida\" P.",]
+[[authorsDetail]]
+name = "Go, Mark O."
+nameCode = "Go (M.)"
+date = "2022-08-22"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "YAP, CHRISTOPHERSON M."
+nameCode = "Yap (C.)"
+date = "2022-11-28"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ROBES, FLORIDA \"Rida\" P."
+nameCode = "Robes"
+date = "2022-12-13"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2022-08-30"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 8843
+congress = 19
+bill_no = "HB03924"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-30"

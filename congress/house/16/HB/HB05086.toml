@@ -1,0 +1,75 @@
+billNumber = "HB05086"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05086"
+lastScraped = "2025-09-21T23:56:22.465225"
+title = "HB05086"
+longTitle = "AN ACT AMENDING CERTAIN SECTIONS OF REPUBLIC ACT NO. 2640 OTHERWISE KNOWN AS 'AN ACT TO CREATE A PUBLIC CORPORATION TO BE KNOWN AS THE VETERANS FEDERATION OF THE PHILIPPINES, DEFINING ITS POWERS, AND FOR OTHER PURPOSES'"
+scope = "National"
+dateFiled = "2014-10-07"
+status = "Pending with the Committee on VETERANS AFFAIRS AND WELFARE since 2014-10-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05086.pdf"
+fileSize = 578905
+author = "MENDOZA, RAYMOND DEMOCRITO C."
+coAuthors = [ "OAMINAL, HENRY S.", "LOYOLA, ROY MAULANIN", "PANOTES, ELMER ELLAGA", "CERAFICA, ARNEL MENDIOLA",]
+[[authorsDetail]]
+name = "MENDOZA, RAYMOND DEMOCRITO C."
+nameCode = "Mendoza (R.)"
+date = "2014-10-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "OAMINAL, HENRY S."
+nameCode = "Oaminal"
+date = "2015-01-28"
+journalNo = "J042"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LOYOLA, ROY MAULANIN"
+nameCode = "Loyola"
+date = "2015-05-05"
+journalNo = "J065"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "PANOTES, ELMER ELLAGA"
+nameCode = "Panotes"
+date = "2015-05-05"
+journalNo = "J065"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "CERAFICA, ARNEL MENDIOLA"
+nameCode = "Cerafica"
+date = "2015-05-05"
+journalNo = "J065"
+sessionNo = "2RS"
+
+[[committee]]
+name = "VETERANS AFFAIRS AND WELFARE"
+type = "primary"
+referralCode = "A506"
+dateRead = "2014-10-21"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 50900
+congress = 16
+bill_no = "HB05086"
+report = ""
+comm_act = ""
+referral = "A506"
+ref_name = "VETERANS AFFAIRS AND WELFARE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-10-21"

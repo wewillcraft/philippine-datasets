@@ -1,0 +1,63 @@
+billNumber = "HR00099"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00099"
+lastScraped = "2025-09-22T00:13:01.160976"
+title = "HR00099"
+longTitle = "RESOLUTION URGING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION INTO THE ILLEGAL RELEASE OF INMATES IN THE BUREAU OF CORRECTION WITH THE USE OF FAKE PAPERS"
+scope = "Local"
+dateFiled = "2001-08-08"
+status = "Pending with the Committee on RULES since 2001-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Suplico, Rolex T."
+coAuthors = [ "ECHIVERRI, ENRICO R.", "CELESTE, ARTHUR F.",]
+[[authorsDetail]]
+name = "Suplico, Rolex T."
+nameCode = "Suplico"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CELESTE, ARTHUR F."
+nameCode = "Celeste"
+date = ""
+journalNo = "J052"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-08-14"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 90038
+congress = 12
+bill_no = "HR00099"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Justice on Aug. 22, 2001."
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-08-14"

@@ -1,0 +1,47 @@
+billNumber = "HB08176"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08176"
+lastScraped = "2025-09-22T00:25:56.074941"
+title = "HB08176"
+longTitle = "AN ACT ESTABLISHING A DRUG DETECTION AND REHABILITATION CENTER IN SURIGAO CITY IN THE PROVINCE OF SURIGAO DEL NORTE, TO BE KNOWN AS 'SURIGAO DRUG DEPENDENT DETECTION AND REHABILITATION CENTER', AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-03-12"
+status = "Pending with the Committee on HEALTH since 1993-03-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-03-17"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126795
+congress = 9
+bill_no = "HB08176"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-03-17"

@@ -1,0 +1,42 @@
+billNumber = "HB10101"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10101"
+lastScraped = "2025-09-22T00:46:58.362585"
+title = "HB10101"
+longTitle = "AN ACT CONVERTING THE IBAJAY NATIONAL AGRICULTURAL AND INDUSTRIAL SCHOOL IN THE MUNICIPALITY OF IBAJAY, PROVINCE OF AKLAN, INTO A POLYTECHNIC COLLEGETO BE KNOWN AS THE WESTERN AKLAN POLYTECHNIC COLLEGE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-18"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1988-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Legaspi"
+[[authorsDetail]]
+name = "Legaspi"
+nameCode = "Legaspi"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1988-05-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 144774
+congress = 8
+bill_no = "HB10101"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1988-05-23"

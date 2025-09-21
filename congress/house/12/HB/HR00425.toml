@@ -1,0 +1,59 @@
+billNumber = "HR00425"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00425"
+lastScraped = "2025-09-22T00:13:01.231835"
+title = "Operations of the Central Negros Electric Cooperative (CENECO)"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE OPERATIONS OF THE CENTRAL NEGROS ELECTRIC COOPERATIVE (CENECO), PARTICULARLY INTO THE UTILIZATION OF ITS FUNDS AND REVENUES"
+scope = "Local"
+dateFiled = "2002-02-12"
+status = "Adopted Resolution (Pending with the committee on ENERGY since 2002-03-07)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Puentevella, Monico O."
+[[authorsDetail]]
+name = "Puentevella, Monico O."
+nameCode = "Puentebella"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-02-19"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 90363
+congress = 12
+bill_no = "HR00425"
+report = "00290"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendments ."
+date_read = "2002-02-19"
+date_report = "2002-03-05"
+
+[secondReading]
+id = 15106
+congress = 12
+bill_no = "HR00425"
+adopted_resolution = "HR00182"
+adopted_resolution_title = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE OPERATION OF THE CENTRAL NEGROS ELECTRIC COOPERATIVE (CENECO), PARTICULARLY INTO THE UTILIZATION OF ITS FUNDS AND REVENUES"
+date_calendared = "2002-03-05"
+date_approved = "2002-03-07"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-03-07"
+file = "HR00182.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00182.pdf"

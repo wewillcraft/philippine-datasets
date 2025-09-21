@@ -1,0 +1,54 @@
+billNumber = "HB06208"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB06208"
+lastScraped = "2025-09-22T00:01:46.225077"
+title = "HB06208"
+longTitle = "AN ACT REMOVING CARDBOARD WASTAGE IN THE PRODUCTION PROCESS OF CONSUMER PRODUCTS"
+scope = "National"
+dateFiled = "2020-02-05"
+status = "Pending with the Committee on ECOLOGY since 2020-02-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB06208.pdf"
+fileSize = 1690501
+author = "Delos Santos, Alfred C."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.",]
+[[authorsDetail]]
+name = "Delos Santos, Alfred C."
+nameCode = "Delos Santos (A)"
+date = "2020-02-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2020-03-11"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2020-02-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 25616
+congress = 18
+bill_no = "HB06208"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-02-10"

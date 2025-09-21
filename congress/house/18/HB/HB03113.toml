@@ -1,0 +1,61 @@
+billNumber = "HB03113"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB03113"
+lastScraped = "2025-09-22T00:01:45.588795"
+title = "HB03113"
+longTitle = "AN ACT PROVIDING FOR A BILL OF RIGHTS OF COMMUTERS, PROMOTING EFFICIENT, SAFE, CONVENIENT, ACCESSIBLE AND INCLUSIVE PUBLIC TRANSPORTATION"
+scope = "National"
+dateFiled = "2019-07-30"
+status = "Pending with the Committee on TRANSPORTATION since 2019-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB03113.pdf"
+fileSize = 7304470
+author = "Benitez, Francisco \"Kiko\" B."
+coAuthors = [ "SAVELLANO, DEOGRACIAS VICTOR B.", "TIANGCO, JOHN REYNALD M.",]
+[[authorsDetail]]
+name = "Benitez, Francisco \"Kiko\" B."
+nameCode = "Benitez"
+date = "2019-07-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2019-09-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TIANGCO, JOHN REYNALD M."
+nameCode = "Tiangco"
+date = "2021-01-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2019-08-05"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 22522
+congress = 18
+bill_no = "HB03113"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-08-05"

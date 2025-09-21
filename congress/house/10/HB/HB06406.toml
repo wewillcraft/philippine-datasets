@@ -1,0 +1,56 @@
+billNumber = "HB06406"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06406"
+lastScraped = "2025-09-22T00:20:58.551615"
+title = "HB06406"
+longTitle = "AN ACT INSTITUTING A NATIONAL PARA-LEGAL SYSTEM IN THE BARANGAY LEVEL"
+scope = "National"
+dateFiled = "1996-02-27"
+status = "Pending with the Committee on JUSTICE since 1996-02-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "VILLAREAL, JULITA L.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAREAL, JULITA L."
+nameCode = "Villareal"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-02-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 112827
+congress = 10
+bill_no = "HB06406"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-02-29"

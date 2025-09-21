@@ -1,0 +1,46 @@
+billNumber = "HB06647"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06647"
+lastScraped = "2025-09-22T00:20:58.595526"
+title = "HB06647"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CLASSROOM IN MAUGAT ELEMENTARY SCHOOL LOCATED AT SAN ANTONIO, NUEVA ECIJA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-03-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-03-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-03-25"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113068
+congress = 10
+bill_no = "HB06647"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-03-25"

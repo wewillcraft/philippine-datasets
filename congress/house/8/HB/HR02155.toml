@@ -1,0 +1,42 @@
+billNumber = "HR02155"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02155"
+lastScraped = "2025-09-22T00:47:02.972391"
+title = "HR02155"
+longTitle = "RESOLUTION REQUESTING THE GOVERNMENT SERVICE INSURANCE SYSTEM (GSIS) AND THE SOCIAL SECURITY SYSTEM (SSS) TO EXTEND SOFT TERM OR EMERGENCY LOANS TO THEIR MEMBERS FOR THE DURATION OF THE ONGOING GULF WAR"
+scope = "National"
+dateFiled = "1991-02-08"
+status = "Pending with the Committee on GOVERNMENT ENTERPRISES since 1991-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES"
+type = "primary"
+referralCode = "515"
+dateRead = "1991-02-13"
+
+[[committee]]
+name = "CREATIVE INDUSTRIES"
+type = "principal"
+referralCode = "J505"
+
+[firstReading]
+id = 171990
+congress = 8
+bill_no = "HR02155"
+referral = "515"
+ref_name = "GOVERNMENT ENTERPRISES"
+sub_name = ""
+date_read = "1991-02-13"

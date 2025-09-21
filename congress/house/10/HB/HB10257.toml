@@ -1,0 +1,41 @@
+billNumber = "HB10257"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10257"
+lastScraped = "2025-09-22T00:20:59.342487"
+title = "HB10257"
+longTitle = "AN ACT DECLARING JUNE TWENTY OF EVERY YEAR AS A SPECIAL NONWORKING PUBLIC HOLIDAY IN THE PROVINCE OF IFUGAO TO BE KNOWN AS THE IFUGAO FOUNDATION DAY"
+scope = "Local"
+dateFiled = "1997-11-10"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-11-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-11-13"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 116678
+congress = 10
+bill_no = "HB10257"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-11-13"

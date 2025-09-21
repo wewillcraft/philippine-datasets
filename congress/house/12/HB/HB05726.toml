@@ -1,0 +1,42 @@
+billNumber = "HB05726"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05726"
+lastScraped = "2025-09-22T00:13:00.898442"
+title = "HB05726"
+longTitle = "AN ACT CHANGING THE NAME OF THE LAOAG CITY GENERAL HOSPITAL TO DON EULALIO SIAZON MEMORIAL HOSPITAL"
+scope = "Local"
+dateFiled = "2003-02-10"
+status = "Pending with the Committee on HEALTH since 2003-02-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ablan, Roque Jr. R."
+[[authorsDetail]]
+name = "Ablan, Roque Jr. R."
+nameCode = "Ablan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2003-02-13"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 88881
+congress = 12
+bill_no = "HB05726"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2003-02-13"

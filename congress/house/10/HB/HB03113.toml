@@ -1,0 +1,46 @@
+billNumber = "HB03113"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03113"
+lastScraped = "2025-09-22T00:20:57.951286"
+title = "HB03113"
+longTitle = "AN ACT ESTABLISHING A HANDICRAFT TRAINING CENTER IN THE DISTRICT OF TUGBOK, CITY OF DAVAO, TO BE KNOWN AS THE TUGBOK HANDICRAFT TRAINING CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-01"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-09-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-09-06"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109534
+congress = 10
+bill_no = "HB03113"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-09-06"

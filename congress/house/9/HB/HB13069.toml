@@ -1,0 +1,42 @@
+billNumber = "HB13069"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13069"
+lastScraped = "2025-09-22T00:25:57.019388"
+title = "HB13069"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE BULAN MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BULAN, PROVINCE OF SORSOGON, FROM TEN TO TWENTY FIVE BEDS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-06-29"
+status = "Pending with the Committee on HEALTH since 1994-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131678
+congress = 9
+bill_no = "HB13069"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-07-26"

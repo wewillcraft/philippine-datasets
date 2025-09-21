@@ -1,0 +1,42 @@
+billNumber = "HB06122"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB06122"
+lastScraped = "2025-09-22T00:46:57.701122"
+title = "HB06122"
+longTitle = "AN ACT ESTABLISHING A LIVESTOCK BREEDING FARM IN THE MUNICIPALITY OF MANGALDAN, PROVINCE OF PANGASINAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-08"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-03-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Venecia"
+[[authorsDetail]]
+name = "Venecia"
+nameCode = "Venecia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-03-10"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 140803
+congress = 8
+bill_no = "HB06122"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-03-10"

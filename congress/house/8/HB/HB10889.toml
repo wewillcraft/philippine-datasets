@@ -1,0 +1,72 @@
+billNumber = "HB10889"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10889"
+lastScraped = "2025-09-22T00:46:58.487629"
+title = "HB10889"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE MAMBUSAO DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "1988-05-24"
+status = "REPUBLIC ACT (RA07248) enacted on 1992-03-19"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 145558
+congress = 8
+bill_no = "HB10889"
+report = "01268"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1988-05-27"
+date_ob = "1991-02-06"
+date_cal = "1991-02-06"
+date_unass = "1991-02-06"
+date_report = "1991-01-22"
+
+[secondReading]
+id = 20741
+congress = 8
+bill_no = "HB10889"
+date_approved = "1991-02-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 516
+congress = 8
+bill_no = "HB10889"
+date_dist = "1991-02-18"
+date_adopt = "1991-03-12"
+no_yeas = 108
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-03-13"
+date_rec = "1991-04-18"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1992-02-03"
+dte_actedp = "1992-03-19"

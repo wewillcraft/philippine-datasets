@@ -1,0 +1,52 @@
+billNumber = "HR00728"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00728"
+lastScraped = "2025-09-22T00:20:59.562520"
+title = "HR00728"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON HUMAN RIGHTS AND JUSTICE TO LOOK INTO AND INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED HUMAN RIGHTS VIOLATIONS COMMITTED AGAINST TWO STOWAWAY TEENAGERS WHILE ON BOARD VIVA PENAFRANCIA III, A ROMBLON-BOUND VIVA SHIPPING LINES FERRY"
+scope = "Local"
+dateFiled = "1996-07-24"
+status = "Pending with the Committee on RULES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[[committee]]
+name = "JUSTICE"
+type = "secondary"
+referralCode = "0520"
+
+[firstReading]
+id = 117782
+congress = 10
+bill_no = "HR00728"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Civil, Political and Human Rights and o"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-29"

@@ -1,0 +1,47 @@
+billNumber = "PS00423"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=PS00423"
+lastScraped = "2025-09-21T23:55:23.100561"
+title = "Government Spending"
+longTitle = "GOVERNMENT SPENDING"
+scope = "National"
+dateFiled = "2024-12-02"
+status = "Pending with the Committee on APPROPRIATIONS since 2024-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acharon, Loreto B."
+[[authorsDetail]]
+name = "Acharon, Loreto B."
+nameCode = "Acharon"
+date = "2024-12-02"
+sequence = 1
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2024-12-02"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 19310
+congress = 19
+bill_no = "PS00423"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2024-12-11"
+date_read = "2024-12-02"

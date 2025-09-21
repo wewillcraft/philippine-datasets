@@ -1,0 +1,42 @@
+billNumber = "HR00058"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00058"
+lastScraped = "2025-09-22T00:47:02.535426"
+title = "HR00058"
+longTitle = "RESOLUTION SEEKING IMMEDIATE JUSTICE FOR THE LATESECRETARY JAIME FERRER BY WAY OF AN INQUIRY INTO HIS ASSASSINATION"
+scope = "Local"
+dateFiled = "1987-08-03"
+status = "Pending with the Committee on RULES since 1987-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1987-08-05"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 169968
+congress = 8
+bill_no = "HR00058"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1987-08-05"

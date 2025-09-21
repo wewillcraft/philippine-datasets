@@ -1,0 +1,57 @@
+billNumber = "HB04412"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04412"
+lastScraped = "2025-09-22T00:13:00.592657"
+title = "HB04412"
+longTitle = "AN ACT PROVIDING FOR THE AUTOMATIC INCREASE BY TWENTY-FIVE PER CENTUM (25%) OF THE ANNUAL APPROPRIATIONS OF ALL GOVERNMENT-OWNE D OR CONTROLLED HOSPITALS WITH SPECIFIC AREAS OF SPECIALIZATION AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2002-02-18"
+status = "Pending with the Committee on APPROPRIATIONS since 2002-02-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DEL MAR, RAUL V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = "J070"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J048"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2002-02-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 87572
+congress = 12
+bill_no = "HB04412"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2002-02-26"

@@ -1,0 +1,50 @@
+billNumber = "HR00732"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00732"
+lastScraped = "2025-09-22T00:25:57.500464"
+title = "HR00732"
+longTitle = "RESOLUTION EXPRESSING THE NATION'S GRATITUDE FOR THE LATEST GRANT OF TWO HUNDRED FORTY MILLION DOLLARS ($240,000,000) FROM THE JAPANESE GOVERNMENT FOR SEVERAL ENVIRONMENTAL PROJECTS"
+scope = "National"
+dateFiled = "1993-08-17"
+status = "Pending with the Committee on ECOLOGY since 1993-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1993-08-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 134044
+congress = 9
+bill_no = "HR00732"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1993-08-24"

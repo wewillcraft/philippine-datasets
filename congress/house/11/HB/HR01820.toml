@@ -1,0 +1,41 @@
+billNumber = "HR01820"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01820"
+lastScraped = "2025-09-22T00:23:18.293695"
+title = "HR01820"
+longTitle = "RESOLUTION URGING THE MEMBERS OF CONGRESS TO ENSURE THE ALLOCATION OF FUNDING REQUIREMENTS OF REPUBLIC ACT NO. 8435, OTHERWISE KNOWN AS THE AGRICULTURE AND FISHERIES MODERNIZATION ACT OF 1997"
+scope = "National"
+dateFiled = "2000-10-13"
+status = "Pending with the Committee on APPROPRIATIONS since 2000-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2000-10-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 106274
+congress = 11
+bill_no = "HR01820"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "2000-10-19"

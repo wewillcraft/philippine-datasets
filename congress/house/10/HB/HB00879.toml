@@ -1,0 +1,49 @@
+billNumber = "HB00879"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00879"
+lastScraped = "2025-09-22T00:20:57.524566"
+title = "HB00879"
+longTitle = "AN ACT PROVIDING FOR THE RATIONALIZATION OF THE PROFESSIONAL RELATIONSHIP BETWEEN RESIDENT PHYSICIANS AND PRIVATE HOSPITALS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-14"
+status = "Pending with the Committee on HEALTH since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 107300
+congress = 10
+bill_no = "HB00879"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-07-27"

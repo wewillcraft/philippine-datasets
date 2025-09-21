@@ -1,0 +1,72 @@
+billNumber = "HB00341"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00341"
+lastScraped = "2025-09-22T00:46:56.620498"
+title = "HB00341"
+longTitle = "AN ACT INCREASING THE BED CAPACITY OF THE SAN MIGUEL DISTRICT HOSPITAL IN SAN MIGUEL, BULACAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-13"
+status = "REPUBLIC ACT (RA07268) enacted on 1992-03-20"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cabochan"
+[[authorsDetail]]
+name = "Cabochan"
+nameCode = "Cabochan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-17"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 135038
+congress = 8
+bill_no = "HB00341"
+report = "01254"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1987-08-17"
+date_ob = "1991-02-06"
+date_cal = "1991-02-06"
+date_unass = "1991-02-06"
+date_report = "1991-01-22"
+
+[secondReading]
+id = 20279
+congress = 8
+bill_no = "HB00341"
+date_approved = "1991-02-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 62
+congress = 8
+bill_no = "HB00341"
+date_dist = "1991-02-18"
+date_adopt = "1991-02-28"
+no_yeas = 114
+no_nays = 0
+no_abstent = 0
+date_trans = "1991-03-01"
+date_rec = "1991-03-18"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1992-02-03"
+dte_actedp = "1992-03-20"

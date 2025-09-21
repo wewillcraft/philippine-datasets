@@ -1,0 +1,49 @@
+billNumber = "HB02121"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02121"
+lastScraped = "2025-09-22T00:20:57.749166"
+title = "HB02121"
+longTitle = "AN ACT AMENDING EXECUTIVE ORDER NO. 172 AND PROVIDING A REPRESENTATIVE OF THE CONSUMER AND ELECTRIC COOPERATIVE SECTORS IN THE POLICY MAKING BODY OF THE ENERGY REGULATORY BOARD"
+scope = "National"
+dateFiled = "1995-08-09"
+status = "Pending with the Committee on ENERGY since 1995-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1995-08-15"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 108542
+congress = 10
+bill_no = "HB02121"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1995-08-15"

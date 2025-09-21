@@ -1,0 +1,42 @@
+billNumber = "HR01207"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01207"
+lastScraped = "2025-09-22T00:47:02.769373"
+title = "HR01207"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO LOOK INTO THE REPORTED EPIDEMIC THAT HIT A TRIBAL VILLAGE IN LANAO DEL NORTE"
+scope = "Local"
+dateFiled = "1989-03-13"
+status = "Pending with the Committee on HEALTH since 1989-03-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-03-16"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "principal"
+referralCode = "0514"
+
+[firstReading]
+id = 171080
+congress = 8
+bill_no = "HR01207"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-03-16"

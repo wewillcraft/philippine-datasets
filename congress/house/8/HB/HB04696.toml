@@ -1,0 +1,68 @@
+billNumber = "HB04696"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04696"
+lastScraped = "2025-09-22T00:46:57.377339"
+title = "HB04696"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF BELANCE IN THE PROVINCE OF NUEVA VIZCAYA"
+scope = "Local"
+dateFiled = "1987-12-14"
+status = "Approved by the House on 1990-04-05, transmitted to on 1990-04-16 and received by the Senate on 1990"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla"
+[[authorsDetail]]
+name = "Padilla"
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-12-17"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[firstReading]
+id = 139380
+congress = 8
+bill_no = "HB04696"
+report = "00880"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "Approval with amendments"
+date_read = "1987-12-17"
+date_ob = "1989-10-13"
+date_cal = "1989-10-13"
+date_unass = "1989-10-13"
+date_report = "1988-09-21"
+
+[secondReading]
+id = 20593
+congress = 8
+bill_no = "HB04696"
+date_approved = "1990-03-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 369
+congress = 8
+bill_no = "HB04696"
+date_dist = "1990-04-02"
+date_adopt = "1990-04-05"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "1990-04-16"
+date_rec = "1990-05-21"

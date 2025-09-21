@@ -1,0 +1,69 @@
+billNumber = "HB08763"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08763"
+lastScraped = "2025-09-21T23:55:46.061675"
+title = "HB08763"
+longTitle = "AN ACT REGULATING THE USE OF ROADS FOR SAFE, FAST AND ECONOMIC TRANSPORT"
+scope = "National"
+dateFiled = "2018-12-10"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 2019-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08763.pdf"
+fileSize = 1719593
+author = "Fernando, Bayani F."
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "TAMBUNTING, GUSTAVO S.", "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Fernando, Bayani F."
+nameCode = "Fernando"
+date = "2018-12-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2019-01-16"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2019-01-17"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2019-01-30"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2018-12-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 42230
+congress = 17
+bill_no = "HB08763"
+report = ""
+comm_act = ""
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-01-23"
+date_read = "2018-12-12"

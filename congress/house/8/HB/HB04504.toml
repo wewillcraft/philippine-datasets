@@ -1,0 +1,42 @@
+billNumber = "HB04504"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04504"
+lastScraped = "2025-09-22T00:46:57.345691"
+title = "HB04504"
+longTitle = "AN ACT ESTABLISHING A TEN-BED CAPACITY HOSPITAL IN THE MUNICIPALITY OF CARMEN, PROVINCE OF COTABATO, TO BE KNOWN AS THE CARMEN MUNICIPAL HOSPITAL ANDAPPROPRIATIN G FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-12-09"
+status = "Pending with the Committee on HEALTH since 1987-12-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gutang"
+[[authorsDetail]]
+name = "Gutang"
+nameCode = "Gutang"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-12-15"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 139188
+congress = 8
+bill_no = "HB04504"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-12-15"

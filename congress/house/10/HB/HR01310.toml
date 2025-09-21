@@ -1,0 +1,46 @@
+billNumber = "HR01310"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01310"
+lastScraped = "2025-09-22T00:20:59.675889"
+title = "HR01310"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF EDUCATION, CULTURE AND SPORTS (DECS) AND THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS (DPWH) TO LIMIT SPECIFICATION OF THE CONSTRUCTION OF SCHOOL BUILDINGS IN THE 4TH DISTRICT OF BULACAN TO AT LEAST TWO STOREYS"
+scope = "Local"
+dateFiled = "1997-08-04"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[firstReading]
+id = 118364
+congress = 10
+bill_no = "HR01310"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-07"

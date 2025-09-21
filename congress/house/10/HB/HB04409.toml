@@ -1,0 +1,46 @@
+billNumber = "HB04409"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04409"
+lastScraped = "2025-09-22T00:20:58.197016"
+title = "HB04409"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A SENIOR CITIZENS ASSISTANCE CENTER IN BARANGAY NOVA PROPER OF SECOND DISTRICT, QUEZON CITY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-16"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 1995-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "1995-10-24"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110830
+congress = 10
+bill_no = "HB04409"
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+date_read = "1995-10-24"

@@ -1,0 +1,47 @@
+billNumber = "HB04699"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04699"
+lastScraped = "2025-09-22T00:25:55.476683"
+title = "HB04699"
+longTitle = "AN ACT ESTABLISHING A MULTIPURPOSE HALL BESIDE THE PATEROS MUNICIPAL HIGH SCHOOL BUILDING IN BARANGAY SAN PEDRO, PATEROS, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-11"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tinga"
+[[authorsDetail]]
+name = "Tinga"
+nameCode = "Tinga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-11-16"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123318
+congress = 9
+bill_no = "HB04699"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-11-16"

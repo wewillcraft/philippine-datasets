@@ -1,0 +1,41 @@
+billNumber = "HR00677"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00677"
+lastScraped = "2025-09-22T00:20:59.552214"
+title = "HR00677"
+longTitle = "RESOLUTION URGING THE MT. PINATUBO COMMISSION, THROUGH THE HOUSE COMMITTEE ON APPROPRIATION, TO RECONSIDER ITS ACTION IN DENYING THE SUPPLEMENTAL BUDGET OF THE DEPARTMENT OF LABOR AND EMPLOYMENT, SPECIAL CREDIT ASSISTANCE PROGRAM FOR PLACED OVERSEASCONTRACT WORKERS"
+scope = "National"
+dateFiled = "1996-06-05"
+status = "Pending with the Committee on APPROPRIATIONS since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117731
+congress = 10
+bill_no = "HR00677"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1996-06-08"

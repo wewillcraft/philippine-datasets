@@ -1,0 +1,80 @@
+billNumber = "HB09405"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09405"
+lastScraped = "2025-09-22T00:20:59.161348"
+title = "HB09405"
+longTitle = "AN ACT ESTABLISHING THE SECOND ENGINEERING DISTRICT IN THE SECOND CONGRESSIONAL DISTRICT OF THE PROVINCE OF BATAAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-05-15"
+status = "Transmitted to the President for Signature on 1998-02-16"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia, Enrique Jr. T."
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Garcia, Enrique Jr. T."
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-05-19"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115826
+congress = 10
+bill_no = "HB09405"
+report = "01372"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-05-19"
+date_ob = "1997-12-18"
+date_report = "1997-12-17"
+
+[secondReading]
+id = 18720
+congress = 10
+bill_no = "HB09405"
+date_approved = "1997-12-18"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3297
+congress = 10
+bill_no = "HB09405"
+date_dist = "1998-01-09"
+date_adopt = "1998-01-12"
+no_yeas = 0
+no_nays = 0
+no_abstent = 0
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1998-02-16"
+dte_actedp = "1998-03-17"

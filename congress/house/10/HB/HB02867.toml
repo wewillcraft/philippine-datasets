@@ -1,0 +1,41 @@
+billNumber = "HB02867"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02867"
+lastScraped = "2025-09-22T00:20:57.896468"
+title = "HB02867"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED ONE HUNDRED SIXTY-FIVE, AS AMENDED, OTHERWISE KNOWN AS THE PATENT LAW"
+scope = "National"
+dateFiled = "1995-08-25"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-09-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 109288
+congress = 10
+bill_no = "HB02867"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-09-04"

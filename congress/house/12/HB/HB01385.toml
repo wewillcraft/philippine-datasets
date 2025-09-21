@@ -1,0 +1,76 @@
+billNumber = "HB01385"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01385"
+lastScraped = "2025-09-22T00:13:00.054337"
+title = "HB01385"
+longTitle = "AN ACT CREATING A SPECIAL TASK FORCE IN THE DEPARTMENT OF JUSTICE TO APPREHEND PERSONS WITH PENDING WARRANTS OF ARREST AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-25"
+status = "Pending with the Committee on JUSTICE since 2001-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "REAL, ISIDRO JR. E.", "ZIALCITA, EDUARDO C.", "PUNZALAN, LYNETTE A.", "VIOLAGO, ELEUTERIO R.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "REAL, ISIDRO JR. E."
+nameCode = "Real"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, LYNETTE A."
+nameCode = "Punzalan"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, ELEUTERIO R."
+nameCode = "Violago"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84545
+congress = 12
+bill_no = "HB01385"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2001-07-31"

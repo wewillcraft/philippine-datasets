@@ -1,0 +1,46 @@
+billNumber = "HR00509"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00509"
+lastScraped = "2025-09-21T23:56:22.889656"
+title = "HR00509"
+longTitle = "A RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO CREATE A STANDING COMMITTEE ON CLIMATE CHANGE ADAPTATION AND MITIGATION"
+scope = "National"
+dateFiled = "2013-11-18"
+status = "Pending with the Committee on RULES since 2013-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00509.pdf"
+fileSize = 175064
+author = "Hagedorn, Douglas S."
+[[authorsDetail]]
+name = "Hagedorn, Douglas S."
+nameCode = "Hagedorn"
+date = "2013-11-18"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2013-11-25"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 52908
+congress = 16
+bill_no = "HR00509"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-11-25"

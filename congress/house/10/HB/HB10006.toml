@@ -1,0 +1,49 @@
+billNumber = "HB10006"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10006"
+lastScraped = "2025-09-22T00:20:59.287600"
+title = "HB10006"
+longTitle = "AN ACT INCREASING THE INSURANCE COVERAGE FOR THIRD PARTY LIABILITY OF PRIVATE CAR AND OTHER VEHICLE OWNERS AMENDING FOR THE PURPOSE SECTION 377 PARAGRAPH 2 OF THE NEW INSURANCE  CODE"
+scope = "National"
+dateFiled = "1997-09-29"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-10-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116427
+congress = 10
+bill_no = "HB10006"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-10-02"

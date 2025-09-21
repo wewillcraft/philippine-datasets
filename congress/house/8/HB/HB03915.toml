@@ -1,0 +1,42 @@
+billNumber = "HB03915"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03915"
+lastScraped = "2025-09-22T00:46:57.245132"
+title = "HB03915"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A PUBLIC MARKET AND ABATTOIR IN THE MUNICIPALITY OF SUMILAO, PROVINCE OF BUKIDNON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-20"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-11-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-11-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 138601
+congress = 8
+bill_no = "HB03915"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-11-25"

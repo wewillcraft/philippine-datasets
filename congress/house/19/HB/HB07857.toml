@@ -1,0 +1,61 @@
+billNumber = "HB07857"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB07857"
+lastScraped = "2025-09-21T23:55:21.598829"
+title = "HB07857"
+longTitle = "AN ACT PROVIDING FOR THE REGULATION OF OIL AND GAS PIPELINES, CREATING THE NATIONAL PIPELINE BOARD FOR THE PURPOSE, APPROPRIATING FUNDS\r\nTHEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2023-04-12"
+status = "Pending with the Committee on ENERGY since 2023-05-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB07857.pdf"
+fileSize = 313801
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "BORDADO, GABRIEL JR. H.", "RIVERA, BONG",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2023-04-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BORDADO, GABRIEL JR. H."
+nameCode = "Bordado"
+date = "2023-07-25"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2024-06-10"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2023-05-08"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 12776
+congress = 19
+bill_no = "HB07857"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2023-05-08"

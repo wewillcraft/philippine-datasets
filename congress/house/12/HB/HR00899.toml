@@ -1,0 +1,87 @@
+billNumber = "HR00899"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00899"
+lastScraped = "2025-09-22T00:13:01.345324"
+title = "HR00899"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES , THROUGH THE COMMITTEE ON GOOD GOVERNMENT, TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED `MILLION-DOLLAR MAN' CABINET OFFICIAL WHO RECEIVED $2-MILLION AS BRIBE MONEY"
+scope = "Local"
+dateFiled = "2002-11-28"
+status = "Adopted Resolution (Pending with the committee on GOOD GOVERNMENT since 2003-01-14)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+coAuthors = [ "GONZALES, NEPTALI II M.", "PADILLA, CARLOS M.", "RULES",]
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = "Syjuco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GONZALES, NEPTALI II M."
+nameCode = "Gonzales"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PADILLA, CARLOS M."
+nameCode = "Padilla"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-12-02"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[motherBills]]
+bill_no = "HR00900"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00900"
+flag = "S"
+
+[firstReading]
+id = 90835
+congress = 12
+bill_no = "HR00899"
+report = "01138"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval in consolidat ion with HR No. 900."
+date_read = "2002-12-02"
+date_report = "2003-01-07"
+
+[secondReading]
+id = 15439
+congress = 12
+bill_no = "HR00899"
+adopted_resolution = "HR00519"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED ?MILLION-DOLLAR MAN? CABINET OFFICIAL WHO RECEIVED $2 MILLION AS BRIBE MONEY"
+date_calendared = "2003-01-14"
+date_approved = "2003-01-14"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2003-01-14"

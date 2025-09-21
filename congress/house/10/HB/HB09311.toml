@@ -1,0 +1,50 @@
+billNumber = "HB09311"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09311"
+lastScraped = "2025-09-22T00:20:59.140820"
+title = "HB09311"
+longTitle = "AN ACT ESTABLISHING A PUBLIC HIGH SCHOOL IN BARANGAY SAN LUIS, MUNICIPALITY OF MALITBOG, PROVINCE OF BUKIDNON, TO BE KNOWN AS SAN LUIS NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-04-30"
+status = "Bill reported out 1998-02-19 (#01504)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Acosta"
+[[authorsDetail]]
+name = "Acosta"
+nameCode = "Acosta"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115732
+congress = 10
+bill_no = "HB09311"
+report = "01504"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1997-05-05"
+date_ob = "1998-02-20"
+date_report = "1998-02-19"

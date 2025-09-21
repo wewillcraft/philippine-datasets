@@ -1,0 +1,69 @@
+billNumber = "HB00826"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00826"
+lastScraped = "2025-09-22T00:12:59.955401"
+title = "HB00826"
+longTitle = "AN ACT PROVIDING AFFORDABLE HEALTH CARE SERVICES, THROUGH THE HEALTH MAINTENANCE ORGANIZATIONS, REGULATING THEIR OPERATIONS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-06"
+status = "Substituted by HB04666"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor"
+coAuthors = [ "BADELLES, ALIPIO CIRILO V.", "ZIALCITA, EDUARDO C.", "MONFORT, NARCISO D.",]
+[[authorsDetail]]
+name = "Defensor"
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = "Badelles"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ZIALCITA, EDUARDO C."
+nameCode = "Zialcita"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MONFORT, NARCISO D."
+nameCode = "Monfort"
+date = ""
+journalNo = "J074"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 83986
+congress = 12
+bill_no = "HB00826"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

@@ -1,0 +1,46 @@
+billNumber = "HB05130"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB05130"
+lastScraped = "2025-09-22T00:01:45.954811"
+title = "HB05130"
+longTitle = "THE RIGHT TO TRAVEL ACT OF 2019"
+scope = "National"
+dateFiled = "2019-10-09"
+status = "Pending with the Committee on JUSTICE since 2019-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB05130.pdf"
+fileSize = 1389725
+author = "Pichay, Prospero Jr. A."
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = "Pichay"
+date = "2019-10-09"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2019-11-04"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 24539
+congress = 18
+bill_no = "HB05130"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-11-04"

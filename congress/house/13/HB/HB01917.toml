@@ -1,0 +1,74 @@
+billNumber = "HB01917"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01917"
+lastScraped = "2025-09-22T00:13:48.191890"
+title = "HB01917"
+longTitle = "AN ACT RESTORING THE JOINT LEGISLATIVE-EXECUTIVE TAX COMMISSION,"
+scope = "National"
+dateFiled = "2004-07-29"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2004-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB01917.pdf"
+fileSize = 39981874
+author = "Salapuddin, Gerry A."
+coAuthors = [ "MAGTUBO, RENATO B.", "FIGUEROA, CATALINO V.", "DADIVAS, RODRIGUEZ D.",]
+[[authorsDetail]]
+name = "Salapuddin, Gerry A."
+nameCode = "Salapuddin"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "MAGTUBO, RENATO B."
+nameCode = "Magtubo"
+date = ""
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "FIGUEROA, CATALINO V."
+nameCode = "Figueroa"
+date = ""
+journalNo = "J016"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DADIVAS, RODRIGUEZ D."
+nameCode = "Dadivas"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2004-08-09"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 77007
+congress = 13
+bill_no = "HB01917"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-08-09"
+date_read = "2004-08-09"

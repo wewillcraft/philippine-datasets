@@ -1,0 +1,46 @@
+billNumber = "PS00122"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=PS00122"
+lastScraped = "2025-09-21T23:55:46.757020"
+title = "Children's Rights"
+longTitle = ""
+scope = "National"
+dateFiled = "2016-11-22"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2016-11-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/PS122_Rep. Herrera-Dy.pdf"
+fileSize = 119607
+author = "Herrera, Bernadette \"BH\""
+[[authorsDetail]]
+name = "Herrera, Bernadette \"BH\""
+nameCode = "Herrera-Dy"
+date = "2016-11-22"
+sequence = 1
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2016-11-29"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[firstReading]
+id = 45465
+congress = 17
+bill_no = "PS00122"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-11-29"

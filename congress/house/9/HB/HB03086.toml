@@ -1,0 +1,47 @@
+billNumber = "HB03086"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB03086"
+lastScraped = "2025-09-22T00:25:55.142479"
+title = "HB03086"
+longTitle = "AN ACT ESTABLISHING A FRUIT TREE AND VEGETABLE NURSERY AND DISTRIBUTION CENTER IN THE MUNICIPALITY OF DULAG, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-09-29"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-10-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 121705
+congress = 9
+bill_no = "HB03086"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-10-05"

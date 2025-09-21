@@ -1,0 +1,53 @@
+billNumber = "HR00857"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00857"
+lastScraped = "2025-09-21T23:55:46.399966"
+title = "HR00857"
+longTitle = "A RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO INVESTIGATE, IN AID OF LEGISLATION, THE \\\"RENT-SANGLA\\\" MODUS ON AUTOMOBILES"
+scope = "National"
+dateFiled = "2017-03-07"
+status = "Pending with the Committee on PUBLIC ORDER AND SAFETY since 2017-05-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00857.pdf"
+fileSize = 415696
+author = "BERNOS, JB"
+[[authorsDetail]]
+name = "BERNOS, JB"
+nameCode = "Bernos"
+date = "2017-03-07"
+sequence = 1
+
+[[authorsDetail]]
+name = "Mangaoang, Allen Jesse C."
+nameCode = "Mangaoang"
+date = "2017-03-07"
+sequence = 2
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "primary"
+referralCode = "0529"
+dateRead = "2017-03-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43599
+congress = 17
+bill_no = "HR00857"
+report = ""
+comm_act = ""
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SAFETY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2017-05-02"
+date_read = "2017-03-13"

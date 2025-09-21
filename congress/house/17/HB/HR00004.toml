@@ -1,0 +1,55 @@
+billNumber = "HR00004"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00004"
+lastScraped = "2025-09-21T23:55:46.225344"
+title = "HR00004"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE PLANNED TRANSFER OF THE NEW BILIBID PRISON"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on JUSTICE since 2016-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00004.pdf"
+fileSize = 446499
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-09-07"
+journalNo = "J020"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 42747
+congress = 17
+bill_no = "HR00004"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2016-09-05"
+date_read = "2016-07-26"

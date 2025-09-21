@@ -1,0 +1,75 @@
+billNumber = "HB04915"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04915"
+lastScraped = "2025-09-22T00:20:58.283184"
+title = "HB04915"
+longTitle = "AN ACT CONSTITUTING THE SECOND REPRESENTATIVE DISTRICT OF THE PROVINCE OF NORTHERN SAMAR INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-08"
+status = "REPUBLIC ACT RA08478 (Lapsed into law on 1998-02-07)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-11-13"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111336
+congress = 10
+bill_no = "HB04915"
+report = "00783"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval"
+date_read = "1995-11-13"
+date_ob = "1997-02-20"
+date_report = "1997-02-19"
+
+[secondReading]
+id = 18147
+congress = 10
+bill_no = "HB04915"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2755
+congress = 10
+bill_no = "HB04915"
+date_dist = "1997-03-03"
+date_adopt = "1997-04-21"
+no_yeas = 170
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-04-22"
+date_rec = "1997-04-25"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-01-16"
+dte_actedp = "1998-02-07"

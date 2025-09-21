@@ -1,0 +1,46 @@
+billNumber = "HB05906"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05906"
+lastScraped = "2025-09-22T00:20:58.459324"
+title = "HB05906"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE QUIASAN FLORETE ELEMENTARY SCHOOL, BARANGAY QUIASAN FLORETE, MUNICIPALITY OF BATAD, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112327
+congress = 10
+bill_no = "HB05906"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-01-29"

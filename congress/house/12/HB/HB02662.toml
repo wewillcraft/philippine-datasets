@@ -1,0 +1,53 @@
+billNumber = "HB02662"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02662"
+lastScraped = "2025-09-22T00:13:00.275915"
+title = "HB02662"
+longTitle = "AN ACT ESTABLISHING A DRUG REHABILITATION CENTER IN THE FIRST DISTRICT OF MANILA TO BE KNOWN AS THE TONDO DRUG REHABILITATION CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-22"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2001-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nieva, Ernesto 'Banzai' A."
+[[authorsDetail]]
+name = "Nieva, Ernesto 'Banzai' A."
+nameCode = "Nieva"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-08-28"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 85822
+congress = 12
+bill_no = "HB02662"
+comm_act = "as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-08-28"

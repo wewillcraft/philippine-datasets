@@ -1,0 +1,66 @@
+billNumber = "HB06453"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06453"
+lastScraped = "2025-09-22T00:20:58.561699"
+title = "HB06453"
+longTitle = "AN ACT RENAMING THE MARIANO MARCOS STATE UNIVERSITY IN THE MUNICIPALITY OF BATAC, PROVINCE OF ILOCOS NORTE, AS THE FERDINAND E. MARCOS STATE UNIVERSITY"
+scope = "Local"
+dateFiled = "1996-03-04"
+status = "Approved by the House on 1996-09-26, transmitted to on 1996-09-26 and received by the Senate on 1996"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-03-06"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 112874
+congress = 10
+bill_no = "HB06453"
+report = "00547"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendments"
+date_read = "1996-03-06"
+date_ob = "1996-09-02"
+date_report = "1996-08-28"
+
+[secondReading]
+id = 18364
+congress = 10
+bill_no = "HB06453"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-09-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2962
+congress = 10
+bill_no = "HB06453"
+date_dist = "1996-09-11"
+date_adopt = "1996-09-26"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-09-26"
+date_rec = "1996-10-03"

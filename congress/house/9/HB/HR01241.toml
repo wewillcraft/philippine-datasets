@@ -1,0 +1,42 @@
+billNumber = "HR01241"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01241"
+lastScraped = "2025-09-22T00:25:57.598157"
+title = "HR01241"
+longTitle = "RESOLUTION EXPRESSING THE WILL OF THE PEOPLE THAT GOVERNMENT AND PRIVATE CORPORATIONS AND INSTITUTIONS ESTABLISH WITHIN THEIR GROUNDS OR COMPOUNDS ECOLOGY CENTERS OR HAVENS"
+scope = "National"
+dateFiled = "1994-09-29"
+status = "Pending with the Committee on ECOLOGY since 1994-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1994-10-04"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 134547
+congress = 9
+bill_no = "HR01241"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1994-10-04"

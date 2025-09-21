@@ -1,0 +1,55 @@
+billNumber = "HR00927"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00927"
+lastScraped = "2025-09-21T23:56:22.969217"
+title = "HR00927"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION TO CONDUCT AN INVESTIGATION ON THE NATURE, CONDITIONALITIES, ACCOUNT, AND UNWARRANTED MANDATORY CREATION OF THE TRAVEL FUND IN THE CANCELLATION OF FLIGHTS"
+scope = "National"
+dateFiled = "2014-03-05"
+status = "Pending with the Committee on TRANSPORTATION since 2014-10-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00927.pdf"
+fileSize = 218117
+author = "Co, Christopher S."
+coAuthors = [ "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Co, Christopher S."
+nameCode = "Co"
+date = "2014-03-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2014-03-05"
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-03-12"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 53325
+congress = 16
+bill_no = "HR00927"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-10-29"
+date_read = "2014-03-12"

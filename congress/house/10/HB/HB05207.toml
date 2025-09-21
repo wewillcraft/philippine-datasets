@@ -1,0 +1,46 @@
+billNumber = "HB05207"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05207"
+lastScraped = "2025-09-22T00:20:58.332093"
+title = "HB05207"
+longTitle = "AN ACT ESTABLISHING A GOAT BREEDING CENTER IN EVERY PROVINCE OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-11-21"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-11-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111628
+congress = 10
+bill_no = "HB05207"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-11-27"

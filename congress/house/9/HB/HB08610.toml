@@ -1,0 +1,47 @@
+billNumber = "HB08610"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08610"
+lastScraped = "2025-09-22T00:25:56.151789"
+title = "HB08610"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETE PAVING OF ALL ROADS OF BARANGAY DAGUPAN-POBLACI ON, TABUK, KALINGA-APAYAO AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-04-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-05-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 127229
+congress = 9
+bill_no = "HB08610"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-05-04"

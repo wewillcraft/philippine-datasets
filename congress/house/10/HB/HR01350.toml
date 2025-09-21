@@ -1,0 +1,46 @@
+billNumber = "HR01350"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01350"
+lastScraped = "2025-09-22T00:20:59.684345"
+title = "HR01350"
+longTitle = "RESOLUTION REQUIRING THE MANDATORY SUBMISSION OF AIDS CLEARANCE CERTIFICATE FOR PHILIPPINE VISA APPLICATIONS AND DIRECTING THE COMMITTEE ON HEALTH AND COMMITTEE ON FOREIGN AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE FAILURE OF THEDEPARTMENT OF HEALTH AND DEPARTMENT OF FOREIGN AFFAIRS TO FORMULATE AN EXECUTE PROGRAMS AND POLICIES ADDRESSING THE ISSUE OF ENTRY OF HIV/AIDS INFLICTED FOREIGNERS IN THE COUNTRY, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-08-26"
+status = "Pending with the Committee on HEALTH since 1997-08-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Diaz, Antonio M. (+)"
+[[authorsDetail]]
+name = "Diaz, Antonio M. (+)"
+nameCode = "Diaz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-08-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 118404
+congress = 10
+bill_no = "HR01350"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-08-28"

@@ -1,0 +1,41 @@
+billNumber = "HR00015"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00015"
+lastScraped = "2025-09-22T00:20:59.427889"
+title = "HR00015"
+longTitle = "RESOLUTION REQUESTING THE BASES CONVERSION DEVELOPMENT AUTHORITY TO ALLOCATE TWENTY (20) HECTARES OF BONIFACIO CAMP PROPERTY FOR PASAY CITY MEMORIAL PARK"
+scope = "Local"
+dateFiled = "1995-07-10"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1995-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117069
+congress = 10
+bill_no = "HR00015"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1995-07-26"

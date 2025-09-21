@@ -1,0 +1,49 @@
+billNumber = "HB09854"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09854"
+lastScraped = "2025-09-22T00:20:59.257335"
+title = "HB09854"
+longTitle = "AN ACT CONVERTING THE POBLACION-SINIB A-AN AND CALICUANG-MATAN GHARON-PATAG-BA ROTAC NUEVO PROVINCIAL ROAD IN THE PROVINCE OF ILOILO INTO A NATIONAL ROAD, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-08-20"
+status = "Bill reported out 1998-03-17 (#01527)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1997-08-26"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116275
+congress = 10
+bill_no = "HB09854"
+report = "01527"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1997-08-26"
+date_report = "1998-03-17"

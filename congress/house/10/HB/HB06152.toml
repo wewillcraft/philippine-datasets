@@ -1,0 +1,46 @@
+billNumber = "HB06152"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06152"
+lastScraped = "2025-09-22T00:20:58.505112"
+title = "HB06152"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE BARANGAY OF LOCTUGA, MUNICIPALITY OF LIBACAO, PROVINCE OF AKLAN, TO BE KNOWN AS THE LOCTUGA NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-02-07"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-02-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Quimpo"
+[[authorsDetail]]
+name = "Quimpo"
+nameCode = "Quimpo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112573
+congress = 10
+bill_no = "HB06152"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-02-12"

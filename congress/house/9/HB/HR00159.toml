@@ -1,0 +1,50 @@
+billNumber = "HR00159"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00159"
+lastScraped = "2025-09-22T00:25:57.396550"
+title = "HR00159"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES OF AGRICULTURE AND NATURAL RESOURCES AND FOOD, SCIENCE AND TECHNOLOGY TO STUDY, IN AID OF LEGISLATION, THE PRESENT CRISIS THAT FACES LAGUNA DE BAY"
+scope = "Local"
+dateFiled = "1992-09-03"
+status = "Pending with the Committee on ECOLOGY since 1992-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almoro"
+coAuthors = [ "TY, MARIO S.",]
+[[authorsDetail]]
+name = "Almoro"
+nameCode = "Almoro"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TY, MARIO S."
+nameCode = "Ty"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1992-09-04"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 133471
+congress = 9
+bill_no = "HR00159"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "1992-09-04"

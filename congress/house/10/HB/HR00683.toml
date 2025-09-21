@@ -1,0 +1,53 @@
+billNumber = "HR00683"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00683"
+lastScraped = "2025-09-22T00:20:59.553545"
+title = "HR00683"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1996-06-06"
+status = "Adopted as Resolution No. HR00047 on 1996-06-06"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-06-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117737
+congress = 10
+bill_no = "HR00683"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-06-06"
+
+[secondReading]
+id = 18980
+congress = 10
+bill_no = "HR00683"
+adopted_resolution = "HR00047"
+date_calendared = "1996-06-06"
+date_approved = "1996-06-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00047.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00047.pdf"

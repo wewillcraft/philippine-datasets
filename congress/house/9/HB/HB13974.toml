@@ -1,0 +1,42 @@
+billNumber = "HB13974"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13974"
+lastScraped = "2025-09-22T00:25:57.182989"
+title = "HB13974"
+longTitle = "AN ACT ESTABLISHING A WOMEN'S CRISIS CENTER IN EACH CONGRESSIONAL DISTRICT, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1994-10-18"
+status = "Pending with the Committee on WOMEN since 1994-10-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1994-10-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132583
+congress = 9
+bill_no = "HB13974"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "1994-10-24"

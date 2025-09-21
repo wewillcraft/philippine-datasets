@@ -1,0 +1,46 @@
+billNumber = "HB01601"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01601"
+lastScraped = "2025-09-21T23:39:48.612234"
+title = "HB01601"
+longTitle = "AN ACT GRANTING UNIVERSAL SOCIAL PENSION TO SENIOR CITIZENS, FURTHER AMENDING REPUBLIC ACT NO. 7432, AS AMENDED BY RA NO. 9994, OTHERWISE KNOWN AS THE \"EXPANDED SENIOR CITIZENS ACT OF 2010\""
+scope = "National"
+dateFiled = "2025-07-08"
+status = "Pending with the Committee on SENIOR CITIZENS since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01601.pdf"
+fileSize = 137255
+author = "GARBIN, ALFREDO JR. A."
+[[authorsDetail]]
+name = "GARBIN, ALFREDO JR. A."
+nameCode = "Garbin"
+date = "2025-07-08"
+sequence = 1
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 1602
+congress = 103
+bill_no = "HB01601"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

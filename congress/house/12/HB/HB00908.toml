@@ -1,0 +1,47 @@
+billNumber = "HB00908"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00908"
+lastScraped = "2025-09-22T00:12:59.970608"
+title = "HB00908"
+longTitle = "AN ACT ESTABLISHING THE NATIONAL CASSAVA RESEARCH AND DEVELOPMENT CENTER IN THE PROVINCE OF BASILAN, PROVIDING FOR ITS MANAGEMENT, FUNDING AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-07-10"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salapuddin, Gerry A."
+[[authorsDetail]]
+name = "Salapuddin, Gerry A."
+nameCode = "Salapuddin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 84068
+congress = 12
+bill_no = "HB00908"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-07-25"

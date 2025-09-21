@@ -1,0 +1,46 @@
+billNumber = "HB02988"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02988"
+lastScraped = "2025-09-22T00:20:57.916787"
+title = "HB02988"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN IRRIGATION SYSTEM IN SOME BARANGAYS OF THE MUNICIPALITY OF BISLIG, PROVINCE OF SURIGAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-29"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Falcon"
+[[authorsDetail]]
+name = "Falcon"
+nameCode = "Falcon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-09-05"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109409
+congress = 10
+bill_no = "HB02988"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-09-05"

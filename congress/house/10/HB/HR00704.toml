@@ -1,0 +1,55 @@
+billNumber = "HR00704"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00704"
+lastScraped = "2025-09-22T00:20:59.558170"
+title = "HR00704"
+longTitle = "RESOLUTION CALLING FOR THE IMMEDIATE INVESTIGATION OF THE ALLEGED IRREGULARITIES AND ANOMALIES COMMITTED WITHIN THE NATIONAL YOUTH COMMISSION"
+scope = "National"
+dateFiled = "1996-06-24"
+status = "Pending with the Committee on RULES since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 117758
+congress = 10
+bill_no = "HR00704"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Youth and Sports Developmen t on July 25,"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-23"

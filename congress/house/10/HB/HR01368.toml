@@ -1,0 +1,49 @@
+billNumber = "HR01368"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01368"
+lastScraped = "2025-09-22T00:20:59.687864"
+title = "HR01368"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CONSTITUTIONAL AMENDMENTS TO STUDY THE POSSIBILITY OF CHANGING THE STRUCTURE OF THE GOVERNMENT FROM THE UNITARY SYSTEM TO A FEDERAL SYSTEM, AND THEREAFTER TO SUBMIT ITS RECOMMENDATION TO THE HOUSE NOT LATER THANDECEMBER 31, 1997"
+scope = "National"
+dateFiled = "1997-09-24"
+status = "Pending with the Committee on CONSTITUTIONAL AMENDMENTS since 1997-10-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tagle"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Tagle"
+nameCode = "Tagle"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CONSTITUTIONAL AMENDMENTS"
+type = "primary"
+referralCode = "0507"
+dateRead = "1997-10-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118422
+congress = 10
+bill_no = "HR01368"
+referral = "0507"
+ref_name = "CONSTITUTIONAL AMENDMENTS"
+date_read = "1997-10-01"

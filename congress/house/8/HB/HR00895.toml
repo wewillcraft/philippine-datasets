@@ -1,0 +1,42 @@
+billNumber = "HR00895"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00895"
+lastScraped = "2025-09-22T00:47:02.700425"
+title = "HR00895"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON FOREIGN AFFAIRS, NATIONAL DEFENSE AND THE IMMIGRATION TO INVESTIGATE THE RAMPANT ENCROACHMENT BY TAIWANESE VESSELS INTO PHILIPPINE TERRITORY IN THE NORTH AND TOADOPT SUCH MEASURES NECESSARY TO CONTAIN THE PROBLEM"
+scope = "National"
+dateFiled = "1988-08-30"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1988-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "513"
+dateRead = "1988-09-05"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 170775
+congress = 8
+bill_no = "HR00895"
+referral = "513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1988-09-05"

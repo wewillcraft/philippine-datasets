@@ -1,0 +1,87 @@
+billNumber = "HR00843"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00843"
+lastScraped = "2025-09-22T00:20:59.584237"
+title = "HR00843"
+longTitle = "RESOLUTION DIRECTING THE DEPARTMENT OF HEALTH TO EXTEND THE DEADLINE FOR BANNING THE USE OF POTASSIUM BROMATE IN FLOUR TO JANUARY 31, 1997"
+scope = "National"
+dateFiled = "1996-09-10"
+status = "Adopted as Resolution No. HR00074 on 1996-09-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "CLAUDIO, JOVITO O.", "PANCHO, PEDRO M.", "HEALTH",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CLAUDIO, JOVITO O."
+nameCode = "Claudio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PANCHO, PEDRO M."
+nameCode = "Pancho"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "HEALTH"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-12"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HR00824"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00824"
+flag = "S"
+
+[firstReading]
+id = 117897
+congress = 10
+bill_no = "HR00843"
+report = "00557"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Approval in substituti on of House Resolution No. 824."
+date_read = "1996-09-12"
+date_ob = "1996-09-12"
+date_report = "1996-09-10"
+
+[secondReading]
+id = 18998
+congress = 10
+bill_no = "HR00843"
+adopted_resolution = "HR00074"
+date_calendared = "1996-09-23"
+date_approved = "1996-09-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00074.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00074.pdf"

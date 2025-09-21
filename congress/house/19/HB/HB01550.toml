@@ -1,0 +1,73 @@
+billNumber = "HB01550"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01550"
+lastScraped = "2025-09-21T23:55:20.348935"
+title = "HB01550"
+longTitle = "AN ACT PROVIDING PENSION BENEFITS TO FARMERS AND FISHERFOLK THROUGH THE ESTABLISHMENT OF A PENSION FUND FOR FARMERS AND FISHERFOLK AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2022-07-07"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2022-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01550.pdf"
+fileSize = 5954159
+author = "Zubiri, Jose Maria Jr. R."
+coAuthors = [ "ANG, JAMES JR. A.", "ESPARES, FELIMON M.", "GALEOS, EDSEL",]
+[[authorsDetail]]
+name = "Zubiri, Jose Maria Jr. R."
+nameCode = "Zubiri"
+date = "2022-07-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ANG, JAMES JR. A."
+nameCode = "Ang"
+date = "2022-11-07"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPARES, FELIMON M."
+nameCode = "Espares"
+date = "2023-08-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "GALEOS, EDSEL"
+nameCode = "Galeos"
+date = "2024-01-24"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "secondary"
+referralCode = "E506"
+
+[firstReading]
+id = 6469
+congress = 19
+bill_no = "HB01550"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

@@ -1,0 +1,62 @@
+billNumber = "HB04620"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04620"
+lastScraped = "2025-09-22T00:25:55.462736"
+title = "HB04620"
+longTitle = "AN ACT GRANTING MEMBERS OF THE LUPONG TAGAPAMAYAPA MONTHLY COMPENSATION, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-11-10"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+coAuthors = [ "LIBAN, DANTE V.", "MADRONA, ELEANDRO JESUS F.",]
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-11-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123239
+congress = 9
+bill_no = "HB04620"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-11-12"

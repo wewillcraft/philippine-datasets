@@ -1,0 +1,52 @@
+billNumber = "HB02521"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB02521"
+lastScraped = "2025-09-22T00:15:38.197863"
+title = "\\\"Oil Spill Liability Fund Act of 2007\\\""
+longTitle = "AN ACT CREATING THE  OIL SPILL LIABILITY FUND"
+scope = "National"
+dateFiled = "2007-09-13"
+status = "Pending with the Committee on ECOLOGY since 2008-04-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2007-09-19"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 68492
+congress = 14
+bill_no = "HB02521"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2008-04-29"
+date_read = "2007-09-19"

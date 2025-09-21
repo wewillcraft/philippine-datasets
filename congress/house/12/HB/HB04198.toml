@@ -1,0 +1,42 @@
+billNumber = "HB04198"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04198"
+lastScraped = "2025-09-22T00:13:00.552329"
+title = "HB04198"
+longTitle = "AN ACT CONVERTING TIMBERLANDS INTO DISPOSABLE AND ALIENABLE PUBLIC LANDS SITUATED IN THE MUNICIPALITY OF NAVAL, BILIRAN"
+scope = "Local"
+dateFiled = "2002-01-14"
+status = "Pending with the Committee on NATURAL RESOURCES since 2002-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Espina"
+[[authorsDetail]]
+name = "Espina"
+nameCode = "Espina"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2002-01-22"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 87358
+congress = 12
+bill_no = "HB04198"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "2002-01-22"

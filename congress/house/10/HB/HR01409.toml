@@ -1,0 +1,51 @@
+billNumber = "HR01409"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01409"
+lastScraped = "2025-09-22T00:20:59.694982"
+title = "HR01409"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES AND/OR APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED IRREGULARITIES COMMITTED BY THE QUEZON POWER PHILIPPINES LIMITED CO.,IN THE CONSTRUCTION OF A 440-MEGAWATT COAL-FIRED POWER PLANT IN BARANGAY CAGSIAY I, MAUBAN, QUEZON"
+scope = "Local"
+dateFiled = "1997-10-21"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-10-23"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "ENERGY"
+type = "secondary"
+referralCode = "0510"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 118463
+congress = 10
+bill_no = "HR01409"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-10-23"

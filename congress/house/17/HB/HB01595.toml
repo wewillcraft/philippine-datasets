@@ -1,0 +1,68 @@
+billNumber = "HB01595"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01595"
+lastScraped = "2025-09-21T23:55:44.383227"
+title = "HB01595"
+longTitle = "AN ACT GRANTING FREE HEALTH COVERAGE TO BARANGAY HEALTH WORKERS"
+scope = "National"
+dateFiled = "2016-07-14"
+status = "Pending with the Committee on HEALTH since 2016-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01595.pdf"
+fileSize = 294697
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "BRAVO, MARIA VIDA E.", "VIOLAGO, MICALEA S.", "NOEL, VICTORIA ISABEL G.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-07-14"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2016-09-13"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NOEL, VICTORIA ISABEL G."
+nameCode = "Noel"
+date = "2017-01-30"
+journalNo = "J063"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-02"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 35063
+congress = 17
+bill_no = "HB01595"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-02"

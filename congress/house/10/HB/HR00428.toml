@@ -1,0 +1,42 @@
+billNumber = "HR00428"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00428"
+lastScraped = "2025-09-22T00:20:59.501622"
+title = "HR00428"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON MUSLIM AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CURRENT POLICIES AND PROCEDURES BEING IMPLEMENTED BY VARIOUS GOVERNMENT AGENCIES AFFECTING THE OBSERVANCE OF THE ANNUAL HAJJ OR THE MUSLIM PILGRIMAGE TO MAKKAH, KINGDOM OF SAUDI ARABIA"
+scope = "National"
+dateFiled = "1996-01-29"
+status = "Pending with the Committee on MUSLIM AFFAIRS since 1996-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tammang"
+[[authorsDetail]]
+name = "Tammang"
+nameCode = "Tammang"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "primary"
+referralCode = "0523"
+dateRead = "1996-01-30"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117482
+congress = 10
+bill_no = "HR00428"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Muslim Affairs on Feb. 5, 1996."
+referral = "0523"
+ref_name = "MUSLIM AFFAIRS"
+date_read = "1996-01-30"

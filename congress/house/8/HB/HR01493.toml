@@ -1,0 +1,42 @@
+billNumber = "HR01493"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01493"
+lastScraped = "2025-09-22T00:47:02.816995"
+title = "HR01493"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON WAYS AND MEANS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, AS TO THE UNDERLYING CAUSES OF THE PREVAILING HIGH INTEREST RATES"
+scope = "National"
+dateFiled = "1989-10-09"
+status = "Pending with the Committee on WAYS AND MEANS since 1989-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "542"
+dateRead = "1989-10-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171355
+congress = 8
+bill_no = "HR01493"
+referral = "542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+date_read = "1989-10-09"

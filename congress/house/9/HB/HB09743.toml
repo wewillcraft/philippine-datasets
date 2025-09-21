@@ -1,0 +1,47 @@
+billNumber = "HB09743"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09743"
+lastScraped = "2025-09-22T00:25:56.360788"
+title = "HB09743"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN EVERY BARANGAY IN THE FIRST DISTRICT OF THE PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-06-11"
+status = "Pending with the Committee on HEALTH since 1993-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-07-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128361
+congress = 9
+bill_no = "HB09743"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-07-27"

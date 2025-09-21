@@ -1,0 +1,55 @@
+billNumber = "HR00079"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00079"
+lastScraped = "2025-09-22T00:01:47.353037"
+title = "HR00079"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION INTO THE MANUFACTURING OF ILLEGAL CIGARETTES, FAKE CIGARETTE LABELS AND FAKE REVENUE STAMPS; SMUGGLING OF FAKE CIGARETTES AND CIGARETTE-MAKING MACHINES; AND LOSS OF REVENUE BECAUSE OF UNCOLLECTED TAXES"
+scope = "National"
+dateFiled = "2019-07-23"
+status = "Pending with the Committee on WAYS AND MEANS since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00079.pdf"
+fileSize = 447792
+author = "Savellano, Deogracias Victor \"DV\" B."
+coAuthors = [ "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Savellano, Deogracias Victor \"DV\" B."
+nameCode = "Savellano"
+date = "2019-07-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2020-02-10"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2019-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 30408
+congress = 18
+bill_no = "HR00079"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-07-30"

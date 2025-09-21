@@ -1,0 +1,70 @@
+billNumber = "HB00656"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00656"
+lastScraped = "2025-09-22T00:46:56.678528"
+title = "HB00656"
+longTitle = "AN ACT CREATING THE MUNICIPALITY OF SAN JOSE IN THE PROVINCE OF SURIGAO DEL NORTE"
+scope = "Local"
+dateFiled = "1987-08-24"
+status = "REPUBLIC ACT (RA06769) enacted on 1989-11-15"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo"
+[[authorsDetail]]
+name = "Ecleo"
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-08-26"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 135353
+congress = 8
+bill_no = "HB00656"
+report = "00395"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "RECOMENDIN G ITS APPROVAL WITH AMENDMENTS"
+date_read = "1987-08-26"
+date_ob = "1988-11-24"
+date_cal = "1988-11-24"
+date_unass = "1988-11-24"
+date_report = "1988-11-09"
+
+[secondReading]
+id = 20309
+congress = 8
+bill_no = "HB00656"
+date_approved = "1988-12-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 92
+congress = 8
+bill_no = "HB00656"
+date_dist = "1988-12-12"
+date_adopt = "1988-12-15"
+no_yeas = 144
+no_nays = 0
+no_abstent = 0
+date_trans = "1988-12-16"
+act_pres = "A"
+dte_transp = "1989-10-16"
+dte_actedp = "1989-11-15"

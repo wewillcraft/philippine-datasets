@@ -1,0 +1,42 @@
+billNumber = "HB04032"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04032"
+lastScraped = "2025-09-22T00:46:57.265395"
+title = "HB04032"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL LIBRARY IN THE MUNICIPALITY OF STA CRUZ, PROVINCE OF DAVAO DEL SUR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-11-25"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-12-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-12-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 138718
+congress = 8
+bill_no = "HB04032"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-12-02"

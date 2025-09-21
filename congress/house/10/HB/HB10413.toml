@@ -1,0 +1,62 @@
+billNumber = "HB10413"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10413"
+lastScraped = "2025-09-22T00:20:59.378314"
+title = "HB10413"
+longTitle = "AN ACT CREATING THE FOREIGN POLICY COUNCIL, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-12-16"
+status = "Bill reported out 1997-12-16 (#01363)"
+statusOrder = 8.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Shahani"
+coAuthors = [ "MUARIP, CANDU I.",]
+[[authorsDetail]]
+name = "Shahani"
+nameCode = "Shahani"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MUARIP, CANDU I."
+nameCode = "Muarip"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-12-18"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[motherBills]]
+bill_no = "HB06775"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB06775"
+flag = "S"
+
+[firstReading]
+id = 116834
+congress = 10
+bill_no = "HB10413"
+report = "01363"
+referral = "0532"
+ref_name = "RULES"
+recomm = "approval"
+date_read = "1997-12-18"
+date_ob = "1997-12-18"
+date_unass = "1998-01-20"
+date_report = "1997-12-16"

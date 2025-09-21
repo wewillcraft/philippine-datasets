@@ -1,0 +1,82 @@
+billNumber = "HR01022"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01022"
+lastScraped = "2025-09-22T00:20:59.618760"
+title = "HR01022"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE CONSTANCIO B. MAGLANA, FORMER MEMBER OF THE HOUSE OF REPRESENTATIVES , REPRESENTING THE LONE DISTRICT OF DAVAO ORIENTAL"
+scope = "Local"
+dateFiled = "1996-12-11"
+status = "Adopted as Resolution No. HR00089 on 1996-12-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "ZAMORA, RONALDO B.", "PALMA GIL, MA. ELENA T.", "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118076
+congress = 10
+bill_no = "HR01022"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-16"
+
+[secondReading]
+id = 19016
+congress = 10
+bill_no = "HR01022"
+adopted_resolution = "HR00089"
+date_calendared = "1996-12-17"
+date_approved = "1996-12-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00089.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00089.pdf"

@@ -1,0 +1,42 @@
+billNumber = "HR01663"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01663"
+lastScraped = "2025-09-22T00:47:02.864415"
+title = "HR01663"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE LOW PRICES OF COPRA IN THE LOCAL MARKET"
+scope = "National"
+dateFiled = "1990-02-14"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1990-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real"
+[[authorsDetail]]
+name = "Real"
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1990-02-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 171508
+congress = 8
+bill_no = "HR01663"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1990-02-14"

@@ -1,0 +1,46 @@
+billNumber = "HR01237"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01237"
+lastScraped = "2025-09-22T00:20:59.663229"
+title = "HR01237"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON LOCAL GOVERNMENT AND PUBLIC WORKS AND HIGHWAYS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO LOOK INTO THE YEARLY FLOODING PROBLEM IN METRO MANILA AND TO FORMULATE REMEDIAL MEASURES BY STRENGTHENING CONCERNED LAWS"
+scope = "Local"
+dateFiled = "1997-05-29"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Guanzon"
+[[authorsDetail]]
+name = "Guanzon"
+nameCode = "Guanzon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "PEACE, RECONCILIATION AND UNITY"
+type = "principal"
+referralCode = "E512"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[firstReading]
+id = 118291
+congress = 10
+bill_no = "HR01237"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-06-04"

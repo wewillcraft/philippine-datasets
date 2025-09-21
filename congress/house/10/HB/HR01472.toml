@@ -1,0 +1,57 @@
+billNumber = "HR01472"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01472"
+lastScraped = "2025-09-22T00:20:59.705147"
+title = "HR01472"
+longTitle = "RESOLUTION GIVING CONSENT TO LIEUTENANT GENERAL WILLIAM K. HOTCHKISS, COMMANDING GENERAL OF THE PHILIPPINE AIR FORCE, TO ACCEPT THE AWARD 'GRAN CRUZ DEL MERITO AERONAUTICO, CON DISTINTIVO BLANCO' CONFERRED UPON HIM BY THE MINISTRY OF DEFENSE OF SPAIN"
+scope = "Local"
+dateFiled = "1997-12-17"
+status = "Adopted as Resolution No. HR00143 on 1998-02-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1998-01-09"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 118526
+congress = 10
+bill_no = "HR01472"
+report = "01424"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments ."
+date_read = "1998-01-09"
+date_ob = "1998-01-30"
+date_report = "1998-01-29"
+
+[secondReading]
+id = 19052
+congress = 10
+bill_no = "HR01472"
+adopted_resolution = "HR00143"
+date_calendared = "1998-02-03"
+date_approved = "1998-02-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00143.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00143.pdf"

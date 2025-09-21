@@ -1,0 +1,61 @@
+billNumber = "HR01305"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01305"
+lastScraped = "2025-09-22T00:20:59.674941"
+title = "HR01305"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON HOUSING AND URBAN DEVELOPMENT AND ON CIVIL, POLITICAL AND HUMAN RIGHTS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE UNLAWFUL EVICTION OF SOME 300 FAMILIES FROM A 5-HECTARE LOT ALLEGEDLY OWNED BY JESUS TYPOCO IN BARANGAYS MANGGAHAN AND SAN MIGUEL, AND THE IMPENDING EJECTMENT OF SOME 450 OTHER FAMILIES IN BARANGAYS MANINGNING AND LACAO, ALL IN PUERTO PRINCESA CITY, PALAWAN"
+scope = "Local"
+dateFiled = "1997-07-30"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 1997-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "ZARTIGA, ARIEL APILADO", "TARONA, FLORANTE",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZARTIGA, ARIEL APILADO"
+nameCode = "Zartiga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "TARONA, FLORANTE"
+nameCode = "Tarona"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "1997-08-06"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "secondary"
+referralCode = "0519"
+
+[firstReading]
+id = 118359
+congress = 10
+bill_no = "HR01305"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+date_read = "1997-08-06"

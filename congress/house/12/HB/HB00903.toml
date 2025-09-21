@@ -1,0 +1,83 @@
+billNumber = "HB00903"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00903"
+lastScraped = "2025-09-22T00:12:59.969745"
+title = "Granting Philippine Citizenship to Mahmoud A.M. Asfour"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO MAHMOUD A. M. ASFOUR"
+scope = "Local"
+dateFiled = "2001-07-10"
+status = "Approved by the House on 2001-12-19, transmitted to on 2002-01-02 and received by the Senate on 2002-01-02"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Padilla, Carlos M."
+coAuthors = [ "ABLAN, ROQUE JR. R.", "DEFENSOR, MA. THERESA T.",]
+[[authorsDetail]]
+name = "Padilla, Carlos M."
+nameCode = "Padilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEFENSOR, MA. THERESA T."
+nameCode = "Defensor"
+date = ""
+journalNo = "J019"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 84063
+congress = 12
+bill_no = "HB00903"
+report = "00099"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "approval without amendment"
+date_read = "2001-07-25"
+date_ob = "2001-12-10"
+date_report = "2001-12-06"
+
+[secondReading]
+id = 14148
+congress = 12
+bill_no = "HB00903"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_calendared = "2001-12-11"
+date_approved = "2001-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4705
+congress = 12
+bill_no = "HB00903"
+date_dist = "2001-12-12"
+date_adopt = "2001-12-19"
+no_yeas = 131
+no_nays = 1
+no_abstent = 0
+date_trans = "2002-01-02"
+date_rec = "2002-01-02"

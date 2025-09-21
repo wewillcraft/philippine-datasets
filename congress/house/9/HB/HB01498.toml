@@ -1,0 +1,47 @@
+billNumber = "HB01498"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01498"
+lastScraped = "2025-09-22T00:25:54.866123"
+title = "HB01498"
+longTitle = "AN ACT MANDATING THE MASSIVE PRODUCTION OF MINERALS FOR EXPORT TO SPEED UP THE ECONOMIC RECOVERY OF THE COUNTRY"
+scope = "National"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120117
+congress = 9
+bill_no = "HB01498"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-08-31"

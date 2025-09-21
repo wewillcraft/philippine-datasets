@@ -1,0 +1,72 @@
+billNumber = "HB04789"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04789"
+lastScraped = "2025-09-22T00:13:00.677430"
+title = "HB04789"
+longTitle = "AN ACT CREATING THE DEPARTMENT OF INFORMATION AND COMMUNICATIONS TECHNOLOGY, DEFINING ITS POWERS AND FUNCTIONS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2002-05-14"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2002-05-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Clarete, Ernie D."
+coAuthors = [ "BANAAG, LEOVIGILDO B.", "TULAGAN, GENEROSO DC.",]
+[[authorsDetail]]
+name = "Clarete, Ernie D."
+nameCode = "Clarete"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BANAAG, LEOVIGILDO B."
+nameCode = "Banaag"
+date = ""
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "TULAGAN, GENEROSO DC."
+nameCode = "Tulagan"
+date = ""
+journalNo = "J061"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2002-05-20"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "secondary"
+referralCode = "0534"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[firstReading]
+id = 87944
+congress = 12
+bill_no = "HB04789"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+date_read = "2002-05-20"

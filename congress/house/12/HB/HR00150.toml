@@ -1,0 +1,42 @@
+billNumber = "HR00150"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00150"
+lastScraped = "2025-09-22T00:13:01.170869"
+title = "HR00150"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LOCAL GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION INTO PROCLAMATION NO. 135 OF FORMER PRESIDENT ESTRADA CEDING PARCELS OF LAND, COVERED BY TRANSFER CERTIFICATE OF TITLE (TCT) NO. 6735, UNDER THE AUTHORITY OF THE MANILA INTERNATIONAL AIRPORT AUTHORITY AND SITUATED IN PASAY CITY TO PARANAQUE CITY"
+scope = "Local"
+dateFiled = "2001-08-28"
+status = "Pending with the Committee on RULES since 2001-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dy, Consuelo A."
+[[authorsDetail]]
+name = "Dy, Consuelo A."
+nameCode = "Dy"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-09-04"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 90089
+congress = 12
+bill_no = "HR00150"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-09-04"

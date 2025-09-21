@@ -1,0 +1,57 @@
+billNumber = "HR02244"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02244"
+lastScraped = "2025-09-22T00:47:02.988838"
+title = "HR02244"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON TOURISM TO CONDUCT A LEGISLATIVE INQUIRY INTO THE PROGRESS OF THE TOURISM MASTER PLAN"
+scope = "National"
+dateFiled = "1991-05-16"
+status = "Pending with the Committee on TOURISM since 1991-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+coAuthors = [ "WEBB, FREDDIE N.", "MAR, RAUL V. DEL",]
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MAR, RAUL V. DEL"
+nameCode = "Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "538"
+dateRead = "1991-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172078
+congress = 8
+bill_no = "HR02244"
+referral = "538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1991-05-22"

@@ -1,0 +1,42 @@
+billNumber = "HB10910"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10910"
+lastScraped = "2025-09-22T00:46:58.490883"
+title = "HB10910"
+longTitle = "AN ACT ESTABLISHING A TWENTY-FIVE BED HOSPITAL INTHE MUNICIPALITY OF BULUSAN, PROVINCE OF SORSOGON, TO BE KNOWN AS THE BULUSAN EMERGENCY HOSPITAL"
+scope = "Local"
+dateFiled = "1988-05-25"
+status = "Pending with the Committee on HEALTH since 1988-05-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-27"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 145579
+congress = 8
+bill_no = "HB10910"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-27"

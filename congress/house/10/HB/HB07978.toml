@@ -1,0 +1,41 @@
+billNumber = "HB07978"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07978"
+lastScraped = "2025-09-22T00:20:58.876871"
+title = "HB07978"
+longTitle = "AN ACT TO REGIONALIZE THE COLLECTION DISTRICTS OF THE BUREAU OF CUSTOMS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Pending with the Committee on WAYS AND MEANS since 1996-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "principal"
+referralCode = "0504"
+
+[firstReading]
+id = 114399
+congress = 10
+bill_no = "HB07978"
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1996-09-26"

@@ -1,0 +1,41 @@
+billNumber = "HB07349"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07349"
+lastScraped = "2025-09-22T00:20:58.723623"
+title = "HB07349"
+longTitle = "AN ACT PROVIDING FOR A CONTINUING BAREBOAT CHARTERING PROGRAM"
+scope = "National"
+dateFiled = "1996-06-06"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1996-06-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1996-06-08"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 113770
+congress = 10
+bill_no = "HB07349"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1996-06-08"

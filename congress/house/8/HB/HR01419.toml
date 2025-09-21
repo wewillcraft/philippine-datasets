@@ -1,0 +1,42 @@
+billNumber = "HR01419"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01419"
+lastScraped = "2025-09-22T00:47:02.806280"
+title = "HR01419"
+longTitle = "RESOLUTION REQUESTING CONGRESS TO INVESTIGATE THE PHILIPPINE CHARITY SWEEPSTAKES OFFICE TO FIND OUT HOW THE FUNDS ARE DISTRIBUTED"
+scope = "National"
+dateFiled = "1989-08-17"
+status = "Pending with the Committee on PUBLIC ACCOUNTABILITY since 1989-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ACCOUNTABILITY"
+type = "primary"
+referralCode = "544"
+dateRead = "1989-08-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171284
+congress = 8
+bill_no = "HR01419"
+referral = "544"
+ref_name = "PUBLIC ACCOUNTABILITY"
+sub_name = ""
+date_read = "1989-08-17"

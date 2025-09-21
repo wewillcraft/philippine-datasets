@@ -1,0 +1,70 @@
+billNumber = "HB06897"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06897"
+lastScraped = "2025-09-22T00:20:58.639547"
+title = "HB06897"
+longTitle = "AN ACT CONVERTING THE JARO NATIONAL HIGH SCHOOL IN THE DISTRICT OF JARO, CITY OF ILOILO, PROVINCE OF ILOILO, INTO A SCHOOL OF ARTS AND TRADES TO BE KNOWN AS THE JARO SCHOOL OF ARTS AND TRADES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-02"
+status = "Approved by the House on 1997-10-27 and transmitted to the Senate on 1997-10-28"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113318
+congress = 10
+bill_no = "HB06897"
+report = "01114"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendment"
+date_read = "1996-05-08"
+date_ob = "1997-10-06"
+date_report = "1997-10-02"
+
+[secondReading]
+id = 18422
+congress = 10
+bill_no = "HB06897"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-09"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3019
+congress = 10
+bill_no = "HB06897"
+date_dist = "1997-10-20"
+date_adopt = "1997-10-27"
+no_yeas = 166
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-28"

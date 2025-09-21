@@ -1,0 +1,46 @@
+billNumber = "HB07617"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07617"
+lastScraped = "2025-09-22T00:20:58.770849"
+title = "HB07617"
+longTitle = "AN ACT ESTABLISHING IN PALAPAG, SECOND DISTRICT OF NORTHERN SAMAR, AN EXTENSION OF THE CATARMAN GENERAL HOSPITAL TO BE KNOWN AS THE CATARMAN GENERAL EXTENSION HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-07-30"
+status = "Pending with the Committee on HEALTH since 1996-08-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-08-05"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114038
+congress = 10
+bill_no = "HB07617"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-08-05"

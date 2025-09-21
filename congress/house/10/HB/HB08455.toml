@@ -1,0 +1,59 @@
+billNumber = "HB08455"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08455"
+lastScraped = "2025-09-22T00:20:58.964186"
+title = "HB08455"
+longTitle = "AN ACT CREATING THE RAIL NETWORK AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFOR AND FOR OTHER PUROSES"
+scope = "Local"
+dateFiled = "1996-11-18"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 1996-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "1996-11-20"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 114876
+congress = 10
+bill_no = "HB08455"
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+date_read = "1996-11-20"

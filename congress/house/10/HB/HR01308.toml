@@ -1,0 +1,63 @@
+billNumber = "HR01308"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01308"
+lastScraped = "2025-09-22T00:20:59.675522"
+title = "HR01308"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE EXTENT OF GOVERNMENT EFFORT TO PROMOTE EXPORT COMPETITIVENESS"
+scope = "National"
+dateFiled = "1997-08-04"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-08-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "ADAMAT, RONALDO", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ADAMAT, RONALDO"
+nameCode = "Adamat"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-08-07"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[firstReading]
+id = 118362
+congress = 10
+bill_no = "HR01308"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-08-07"

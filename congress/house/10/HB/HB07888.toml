@@ -1,0 +1,51 @@
+billNumber = "HB07888"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07888"
+lastScraped = "2025-09-22T00:20:58.860162"
+title = "HB07888"
+longTitle = "AN ACT PROVIDING FOR THE HOLDING OF PLEBISCITE IN CERTAIN PROVINCES AND CITIES IN MINDANAO TO DETERMINE THEIR INCLUSION IN THE AUTONOMOUS REGION IN MUSLIM MINDANAO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-04"
+status = "Pending with the Committee on SUFFRAGE AND ELECTORAL REFORMS since 1996-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "primary"
+referralCode = "0537"
+dateRead = "1996-09-09"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[firstReading]
+id = 114309
+congress = 10
+bill_no = "HB07888"
+referral = "0537"
+ref_name = "SUFFRAGE AND ELECTORAL REFORMS"
+date_read = "1996-09-09"

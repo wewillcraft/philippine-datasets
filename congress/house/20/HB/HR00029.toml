@@ -1,0 +1,52 @@
+billNumber = "HR00029"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00029"
+lastScraped = "2025-09-21T23:39:49.202022"
+title = "HR00029"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON TRANSPORTATION TO IMMEDIATELY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE PRIVATIZATION OF THE NINOY AQUINO INTERNATIONAL AIRPORT (NAIA) AND ITS ADVERSE EFFECTS ON THE FILIPINO PEOPLE"
+dateFiled = "2025-07-07"
+status = "Pending with the Committee on TRANSPORTATION since 2025-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00029.pdf"
+fileSize = 10263804
+author = "TINIO, ANTONIO L."
+[[authorsDetail]]
+name = "TINIO, ANTONIO L."
+nameCode = "Tinio"
+date = "2025-07-07"
+sequence = 1
+
+[[authorsDetail]]
+name = "CO, RENEE LOUISE M."
+nameCode = "Co (R. L. M.)"
+date = "2025-07-07"
+sequence = 2
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 4585
+congress = 103
+bill_no = "HR00029"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-13"
+date_read = "2025-07-29"

@@ -1,0 +1,42 @@
+billNumber = "HR01482"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01482"
+lastScraped = "2025-09-22T00:47:02.815645"
+title = "HR01482"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON VETERANS AFFAIRS AND NATIONAL DEFENSE TO MAKE AN INQUIRY, IN AID OF LEGISLATION, TO LOOK INTO THE CLAIMS OF WORLD WAR II VETERANS"
+scope = "National"
+dateFiled = "1989-10-02"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1989-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "525"
+dateRead = "1989-10-02"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 171345
+congress = 8
+bill_no = "HR01482"
+referral = "525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1989-10-02"

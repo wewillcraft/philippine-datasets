@@ -1,0 +1,83 @@
+billNumber = "HR01198"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01198"
+lastScraped = "2025-09-22T00:01:47.560408"
+title = "HR01198"
+longTitle = "RESOLUTION COMMENDING THE NUEVA SEGOVIA CONSORTIUM OF COOPERATIVES FOR ITS OUTSTANDING ACHIEVEMENT AND LEADERSHIP IN THE UPLIFTMENT AND DEVELOPMENT OF COOPERATIVES IN THE COUNTRYSIDE"
+scope = "National"
+dateFiled = "2020-09-09"
+status = "Adopted as Resolution No. HR00088 on 2020-09-23"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Canama, Sabiniano S."
+[[authorsDetail]]
+name = "Canama, Sabiniano S."
+nameCode = "Canama"
+date = "2020-09-09"
+sequence = 1
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2020-09-14"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "principal"
+referralCode = "B512"
+
+[[motherBills]]
+bill_no = "HR00743"
+sequence = 1
+date = "2020-09-09"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00743"
+sequence = 1
+date = "2020-09-09"
+flag = "S"
+
+[firstReading]
+id = 31517
+congress = 18
+bill_no = "HR01198"
+report = "00476"
+comm_act = ""
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = "COOPERATIVES DEVELOPMENT"
+recomm = "Recommending its adoption in substitution of House Resolution No. 743"
+remarks = ""
+file = "CR00476.pdf"
+date_read = "2020-09-14"
+date_ob = "2020-09-14"
+date_report = "2020-09-09"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00476.pdf"
+
+[secondReading]
+id = 2292
+congress = 18
+bill_no = "HR01198"
+adopted_resolution = "HR00088"
+adopted_resolution_title = "RESOLUTION COMMENDING THE NUEVA SEGOVIA CONSORTIUM OF COOPERATIVES FOR ITS OUTSTANDING ACHIEVEMENT AND LEADERSHIP IN THE UPLIFTMENT AND DEVELOPMENT OF COOPERATIVES IN THE COUNTRYSIDE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2020-09-16"
+date_approved = "2020-09-23"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01198.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01198.pdf"

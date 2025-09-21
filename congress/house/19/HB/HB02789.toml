@@ -1,0 +1,54 @@
+billNumber = "HB02789"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB02789"
+lastScraped = "2025-09-21T23:55:20.563945"
+title = "HB02789"
+longTitle = "AN ACT GRANTING IMMEDIATE COMPENSATION BENEFITS FOR MENTAL\r\nHEALTH SERVICE USERS, AMENDING FOR THE PURPOSE SECTION 5\r\nOF REPUBLIC ACT NO. 11036, OTHERWISE KNOWN AS THE MENTAL HEALTH ACT"
+scope = "National"
+dateFiled = "2022-08-01"
+status = "Pending with the Committee on HEALTH since 2022-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB02789.pdf"
+fileSize = 337873
+author = "VARGAS, PATRICK MICHAEL D."
+coAuthors = [ "SUAN, LORDAN",]
+[[authorsDetail]]
+name = "VARGAS, PATRICK MICHAEL D."
+nameCode = "Vargas"
+date = "2022-08-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUAN, LORDAN"
+nameCode = "Suan"
+date = "2022-09-01"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-08"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 7708
+congress = 19
+bill_no = "HB02789"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-08"

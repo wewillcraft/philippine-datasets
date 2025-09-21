@@ -1,0 +1,75 @@
+billNumber = "HB07732"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07732"
+lastScraped = "2025-09-22T00:20:58.791104"
+title = "HB07732"
+longTitle = "AN ACT ESTABLISHING A NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF AJUY, PROVINCE OF ILOILO, TO BE KNOWN AS THE AJUY NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-12"
+status = "REPUBLIC ACT RA08542 (Lapsed into law on 1998-02-23)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-08-14"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114153
+congress = 10
+bill_no = "HB07732"
+report = "01057"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval without amendment"
+date_read = "1996-08-14"
+date_ob = "1997-09-03"
+date_report = "1997-09-02"
+
+[secondReading]
+id = 18519
+congress = 10
+bill_no = "HB07732"
+remarks = "Considered the Explantory Note as the Sponsorship Speech"
+date_approved = "1997-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3114
+congress = 10
+bill_no = "HB07732"
+date_dist = "1997-09-29"
+date_adopt = "1997-10-06"
+no_yeas = 176
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-07"
+date_rec = "1997-10-09"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1998-01-22"
+dte_actedp = "1998-02-23"

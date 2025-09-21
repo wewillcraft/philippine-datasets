@@ -1,0 +1,48 @@
+billNumber = "HR00952"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00952"
+lastScraped = "2025-09-22T00:25:57.543877"
+title = "HR00952"
+longTitle = "RESOLUTION DIRECTING THE PROPER HOUSE COMMITTEE(S) TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, TO DETERMINE THE STATUS, NECESSITY AND EFFECTS OF SECURING FRESH LOANS BY THE GOVERNMENT FROM FOREIGN LENDING INSTITUIONS"
+scope = "National"
+dateFiled = "1994-02-22"
+status = "Pending with the Committee on APPROPRIATIONS since 1994-02-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1994-02-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 134259
+congress = 9
+bill_no = "HR00952"
+comm_act = "Change of referral from the Committee on Rules(J.62 ,p.6)"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1994-02-28"

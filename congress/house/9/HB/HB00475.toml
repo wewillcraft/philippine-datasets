@@ -1,0 +1,55 @@
+billNumber = "HB00475"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00475"
+lastScraped = "2025-09-22T00:25:54.680126"
+title = "HB00475"
+longTitle = "AN ACT ESTABLISHING A REHABILITATION CENTER FOR DRUG DEPENDENTS IN THE MUNICIPALITY OF SAN FERNANDO, PROVINCE OF LA UNION, TO BE KNOWN AS THE SAN FERNANDO REHABILITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-03"
+status = "Pending with the Committee on HEALTH since 1992-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+coAuthors = [ "ORTEGA, VICTOR F.",]
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, VICTOR F."
+nameCode = "Ortega"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-06"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119094
+congress = 9
+bill_no = "HB00475"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-06"

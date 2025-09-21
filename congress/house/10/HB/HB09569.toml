@@ -1,0 +1,63 @@
+billNumber = "HB09569"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09569"
+lastScraped = "2025-09-22T00:20:59.189066"
+title = "HB09569"
+longTitle = "AN ACT LOWERING INTEREST RATES ON LOANS FROM GOVERNMENT BANKS/FINANCIAL INSTITUTIONS TO MICRO AND COTTAGE INDUSTRIES AS WELL AS TO SMALL AND MEDIUM ENTERPRISES"
+scope = "National"
+dateFiled = "1997-06-26"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "RAMIREZ, JOSE T.", "DEJON, TEMISTOCLES SR. S.", "AUMENTADO, ERICO B.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 115990
+congress = 10
+bill_no = "HB09569"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-07-30"

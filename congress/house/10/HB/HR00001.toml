@@ -1,0 +1,62 @@
+billNumber = "HR00001"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00001"
+lastScraped = "2025-09-22T00:20:59.425136"
+title = "HR00001"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM IS PRESENT IN THE HOUSE OF REPRESENTATIVES AND THAT THE HOUSE HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "1995-07-03"
+status = "Adopted as Resolution No. HR00001 on 1995-07-24"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-07-24"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 117055
+congress = 10
+bill_no = "HR00001"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-07-24"
+
+[secondReading]
+id = 18910
+congress = 10
+bill_no = "HR00001"
+adopted_resolution = "HR00001"
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "1995-07-24"
+date_approved = "1995-07-24"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR00001.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00001.pdf"

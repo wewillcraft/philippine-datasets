@@ -1,0 +1,57 @@
+billNumber = "HB01499"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01499"
+lastScraped = "2025-09-22T00:25:54.866273"
+title = "HB01499"
+longTitle = "AN ACT TO PROMOTE A LIBERALIZED AVIATION POLICY IN THE COUNTRY"
+scope = "National"
+dateFiled = "1992-08-25"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "DRAGON, RENATO P.", "SOON-RUIZ, NERISSA CORAZON S.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SOON-RUIZ, NERISSA CORAZON S."
+nameCode = "Soon-ruiz"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 120118
+congress = 9
+bill_no = "HB01499"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "1992-08-31"

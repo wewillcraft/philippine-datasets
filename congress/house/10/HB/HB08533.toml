@@ -1,0 +1,51 @@
+billNumber = "HB08533"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08533"
+lastScraped = "2025-09-22T00:20:58.981091"
+title = "HB08533"
+longTitle = "AN ACT CREATING THE MACTAN ISLAND METROPOLITAN DEVELOPMENT AUTHORITY, PROVIDING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-12-04"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1996-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Soon-Ruiz, Nerissa Corazon"
+[[authorsDetail]]
+name = "Soon-Ruiz, Nerissa Corazon"
+nameCode = "Ruiz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1996-12-09"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 114954
+congress = 10
+bill_no = "HB08533"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+date_read = "1996-12-09"

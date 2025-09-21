@@ -1,0 +1,47 @@
+billNumber = "HB10775"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10775"
+lastScraped = "2025-09-22T00:25:56.551123"
+title = "HB10775"
+longTitle = "AN ACT ESTABLISHING A 10-BED CAPACITY HOSPITAL IN THE MUNICIPALITY OF DILASAG, PROVINCE OF AURORA, TO BE KNOWN AS DILASAG EMERGENCY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-09-14"
+status = "Pending with the Committee on HEALTH since 1993-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Miran"
+[[authorsDetail]]
+name = "Miran"
+nameCode = "Miran"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-09-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129393
+congress = 9
+bill_no = "HB10775"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-09-21"

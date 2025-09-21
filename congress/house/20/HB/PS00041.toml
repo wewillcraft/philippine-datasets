@@ -1,0 +1,44 @@
+billNumber = "PS00041"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00041"
+lastScraped = "2025-09-21T23:39:49.248790"
+title = "A Call To Review And Amend The 20% Tax On Savings Interest"
+longTitle = "A CALL TO REVIEW AND AMEND THE 20% TAX ON SAVINGS INTEREST"
+dateFiled = "2025-08-13"
+status = "Pending with the Committee on WAYS AND MEANS since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "RODRIGUEZ, RUFUS B."
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.B.)"
+date = "2025-08-13"
+sequence = 1
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2025-08-13"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 4876
+congress = 103
+bill_no = "PS00041"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-13"

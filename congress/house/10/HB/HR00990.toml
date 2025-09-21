@@ -1,0 +1,63 @@
+billNumber = "HR00990"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00990"
+lastScraped = "2025-09-22T00:20:59.613236"
+title = "HR00990"
+longTitle = "RESOLUTION SEEKING FOR THE EXTRADITION OF GEN. FABIAN VER AND OTHER FUGITIVES IMPLICATED IN THE ASSASSINATION OF FORMER SENATOR BENIGNO AQUINO, JR. AND ALL OTHERS INVOLVED WITH HUMAN RIGHTS VIOLATIONS"
+scope = "Local"
+dateFiled = "1996-11-29"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1996-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino-oreta"
+coAuthors = [ "CALALAY, REYNALDO A.", "AUMENTADO, ERICO B.", "LACSON, JOSE CARLOS V.",]
+[[authorsDetail]]
+name = "Aquino-oreta"
+nameCode = "Aquino-oreta"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1996-12-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118044
+congress = 10
+bill_no = "HR00990"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+date_read = "1996-12-03"

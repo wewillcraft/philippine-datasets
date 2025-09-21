@@ -1,0 +1,61 @@
+billNumber = "HB00339"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00339"
+lastScraped = "2025-09-21T23:55:44.147347"
+title = "HB00339"
+longTitle = "ACT PROHIBITING AERIAL SPRAYING AS A METHOD OF APPLYING CHEMICALS AND SIMILAR SUBSTANCES OF AGRICULTURAL CROPS"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on ECOLOGY since 2016-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00339.pdf"
+fileSize = 2061528
+author = "Villarin, Tom S."
+coAuthors = [ "VIOLAGO, MICALEA S.", "BAG-AO, KAKA J.",]
+[[authorsDetail]]
+name = "Villarin, Tom S."
+nameCode = "Villarin"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-08-31"
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BAG-AO, KAKA J."
+nameCode = "Bag-ao"
+date = "2017-08-09"
+journalNo = "J009"
+sessionNo = "2RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 33807
+congress = 17
+bill_no = "HB00339"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-26"

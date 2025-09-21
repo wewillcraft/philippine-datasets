@@ -1,0 +1,57 @@
+billNumber = "HB11144"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11144"
+lastScraped = "2025-09-22T00:25:56.625839"
+title = "HB11144"
+longTitle = "AN ACT TO PROFESSIONALIZE HOSPITAL EMERGENCY SERVICES"
+scope = "National"
+dateFiled = "1993-11-03"
+status = "Pending with the Committee on HEALTH since 1993-11-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "RAMIREZ, JOSE T.", "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-11-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 129759
+congress = 9
+bill_no = "HB11144"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-11-06"

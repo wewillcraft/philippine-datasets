@@ -1,0 +1,42 @@
+billNumber = "HR00913"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00913"
+lastScraped = "2025-09-22T00:47:02.703742"
+title = "HR00913"
+longTitle = "RESOLUTION CREATING AN AD HOC COMMITTEE FROM THE STANDING COMMITTEES IN THE HOUSE OF REPRESENTATIVES TO FURTHER SCRUTINIZE THE APPROPRIATIONS FOR 1989 ON AN ITEM-TO-ITEM BASIS"
+scope = "National"
+dateFiled = "1988-09-06"
+status = "Pending with the Committee on RULES since 1988-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-09-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170793
+congress = 8
+bill_no = "HR00913"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-09-09"

@@ -1,0 +1,47 @@
+billNumber = "HB04123"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04123"
+lastScraped = "2025-09-22T00:25:55.378021"
+title = "HB04123"
+longTitle = "AN ACT PROVIDING FOR THE REPAIR AND/OR CONSTRUCTION OF A CONCRETE BRIDGE IN BARANGAY MUNTING CORAL, MUNICIPALITY OF CALACA, PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-28"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122742
+congress = 9
+bill_no = "HB04123"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-28"

@@ -1,0 +1,47 @@
+billNumber = "HB04334"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04334"
+lastScraped = "2025-09-22T00:13:00.576769"
+title = "HB04334"
+longTitle = "AN ACT DECLARING THE ROSALES GROTTO IN THE MUNICIPALITY OF ROSALES, PROVINCE OF PANGASINAN A PILGRIMAGE AREA"
+scope = "Local"
+dateFiled = "2002-02-04"
+status = "Pending with the Committee on TOURISM since 2002-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Estrella, Conrado III M."
+[[authorsDetail]]
+name = "Estrella, Conrado III M."
+nameCode = "Estrella"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2002-02-11"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87494
+congress = 12
+bill_no = "HB04334"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2002-02-11"

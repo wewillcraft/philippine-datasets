@@ -1,0 +1,47 @@
+billNumber = "HB09988"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09988"
+lastScraped = "2025-09-22T00:25:56.400981"
+title = "HB09988"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBER SIXTY-SEVEN THIRTY-FOUR, OTHERWISE KNOWN AS THE ORGANIC ACT FOR THE AUTONOMOUS REGION IN MUSLIM MINDANAO"
+scope = "Local"
+dateFiled = "1993-07-27"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanto"
+[[authorsDetail]]
+name = "Lanto"
+nameCode = "Lanto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-08-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "MUSLIM AFFAIRS"
+type = "secondary"
+referralCode = "0523"
+
+[firstReading]
+id = 128606
+congress = 9
+bill_no = "HB09988"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-08-02"

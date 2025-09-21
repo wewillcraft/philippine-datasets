@@ -1,0 +1,41 @@
+billNumber = "HR01135"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01135"
+lastScraped = "2025-09-22T00:20:59.644504"
+title = "HR01135"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO INVESTIGATE, IN AID OF LEGISLATION, THE MOVES OF THE PHILIPPINE LONG DISTANCE AND TELEPHONE CO. (PLDT) AND BAYAN TELECOMS HOLDINGS, INC. (BAYAN TEL), TO IMPOSE EXORBITANT RATES ON TELEPHONE CALLS, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-03-11"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = "Aumentado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-03-13"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 118189
+congress = 10
+bill_no = "HR01135"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-03-13"

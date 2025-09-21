@@ -1,0 +1,78 @@
+billNumber = "HB03791"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03791"
+lastScraped = "2025-09-22T00:20:58.076328"
+title = "HB03791"
+longTitle = "AN ACT DECLARING THE TWELFTH DAY OF JULY OF EACH YEAR AS A SPECIAL NONWORKING HOLIDAY IN THE MUNICIPALITY OF LAGUINDINGAN, PROVINCE OF MISAMIS ORIENTAL"
+scope = "Local"
+dateFiled = "1995-09-25"
+status = "REPUBLIC ACT RA08452 (Lapsed into law on 1998-01-11)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cezar"
+[[authorsDetail]]
+name = "Cezar"
+nameCode = "Cezar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1995-09-28"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[motherBills]]
+bill_no = "HB04095"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04095"
+flag = "S"
+
+[firstReading]
+id = 110212
+congress = 10
+bill_no = "HB03791"
+report = "00686"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval"
+date_read = "1995-09-28"
+date_ob = "1996-12-09"
+date_report = "1996-12-05"
+
+[secondReading]
+id = 18064
+congress = 10
+bill_no = "HB03791"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-12-12"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2674
+congress = 10
+bill_no = "HB03791"
+date_dist = "1996-12-19"
+date_adopt = "1997-01-20"
+no_yeas = 193
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-21"
+date_rec = "1997-01-27"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-12-09"
+dte_actedp = "1998-01-11"

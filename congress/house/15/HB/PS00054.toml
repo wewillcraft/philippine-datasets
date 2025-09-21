@@ -1,0 +1,46 @@
+billNumber = "PS00054"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=PS00054"
+lastScraped = "2025-09-21T23:56:42.640609"
+title = "Repair Of Masbate Airport"
+longTitle = "CALLED FOR MASBATE AIRPORT REHABILITATION"
+scope = "Local"
+dateFiled = "2010-08-31"
+status = "Pending with the Committee on TRANSPORTATION since 2010-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "KHO, ANTONIO T."
+[[authorsDetail]]
+name = "KHO, ANTONIO T."
+nameCode = " Kho (A.)"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2010-09-09"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[firstReading]
+id = 65568
+congress = 15
+bill_no = "PS00054"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-09-09"

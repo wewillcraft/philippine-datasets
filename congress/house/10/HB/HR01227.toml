@@ -1,0 +1,46 @@
+billNumber = "HR01227"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01227"
+lastScraped = "2025-09-22T00:20:59.661698"
+title = "HR01227"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON BANKS AND FINANCIAL INTERMEDIARIES AND ECONOMIC AFFAIRS TO CONDUCT A JOINT INQUIRY ON THE OPERATIONS OF NON-BANK INTERMEDIARIES AND HOW THEIR LENDING OPERATIONS AFFECT OUR ECONOMY AS A WHOLE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-05-27"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-05-28"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 118281
+congress = 10
+bill_no = "HR01227"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-05-28"

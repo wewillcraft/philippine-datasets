@@ -1,0 +1,48 @@
+billNumber = "HR00908"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00908"
+lastScraped = "2025-09-22T00:25:57.533243"
+title = "HR00908"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON FOREIGN AFFAIRS AND ON GOOD GOVERNMENT TO JOINTLY INVESTIGATE, IN AID OF LEGISLATION, THE REPORTED INVOLVEMENT OF CERTAIN RANKING GOVERNMENT OFFICIALS INCLUDING ALLEGEDLY SOME MEMBERS OF CONGRESS IN AN INTERNATIONAL SYNDICATE PROVIDING FAKE PHILIPPINE PASSPORTS AND US VISAS"
+scope = "National"
+dateFiled = "1994-01-10"
+status = "Pending with the Committee on FOREIGN AFFAIRS since 1994-01-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1994-01-25"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 134215
+congress = 9
+bill_no = "HR00908"
+comm_act = "Change of referral from the Committee on Rules(J.48 ,p.31)"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+sub_name = ""
+date_read = "1994-01-25"

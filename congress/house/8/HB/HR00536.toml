@@ -1,0 +1,45 @@
+billNumber = "HR00536"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00536"
+lastScraped = "2025-09-22T00:47:02.630099"
+title = "HR00536"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ENERGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE AVAILABILITY AND RELIABILITY OF ELECTRIC POWER IN THE COUNTRY TO ASSESS THE SUPPLY AND DEMAND SITUATION AND TO RECOMMEND SUCH REMEDIAL MEASURES TO PROMOTE AND SERVE THE NATIONAL INTEREST ABD GENERAL WELFARE OF THE FILIPINO PEOPLE"
+scope = "National"
+dateFiled = "1987-12-14"
+status = "Pending with the Committee on ENERGY since 1987-12-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1987-12-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170424
+congress = 8
+bill_no = "HR00536"
+report = "00211"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = "ENERGY"
+recomm = "Informing the House of the actions taken on the aforesaid Resolution"
+date_read = "1987-12-16"
+date_report = "1988-06-07"

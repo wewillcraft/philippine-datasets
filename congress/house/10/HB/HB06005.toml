@@ -1,0 +1,49 @@
+billNumber = "HB06005"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06005"
+lastScraped = "2025-09-22T00:20:58.476075"
+title = "HB06005"
+longTitle = "AN ACT PROVIDING THAT ONE (1) PROVINCIAL HOSPITAL IN EACH PROVINCE SHALL BE UNDER THE SUPERVISION AND CONTROL OF THE DEPARTMENT OF HEALTH, AMENDING FOR THE PURPOSE THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "1996-01-31"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+coAuthors = [ "PALMA GIL, MA. ELENA T.",]
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PALMA GIL, MA. ELENA T."
+nameCode = "Palma Gil"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-02-05"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 112426
+congress = 10
+bill_no = "HB06005"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-02-05"

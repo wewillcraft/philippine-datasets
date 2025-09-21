@@ -1,0 +1,47 @@
+billNumber = "HB01769"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01769"
+lastScraped = "2025-09-22T00:25:54.911976"
+title = "HB01769"
+longTitle = "AN ACT DECLARING THE PROVINCE OF NORTHERN SAMAR A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1992-08-31"
+status = "Pending with the Committee on TOURISM since 1992-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Daza"
+[[authorsDetail]]
+name = "Daza"
+nameCode = "Daza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1992-09-02"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120388
+congress = 9
+bill_no = "HB01769"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1992-09-02"

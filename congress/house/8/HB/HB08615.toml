@@ -1,0 +1,42 @@
+billNumber = "HB08615"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08615"
+lastScraped = "2025-09-22T00:46:58.122465"
+title = "HB08615"
+longTitle = "AN ACT ESTABLISHING A COLD STORAGE FACILITY IN THE MUNICIPALITY OF CATANAUAN, PROVINCE OF QUEZON, TO BE KNOWN AS THE CATANAUAN COLD STORAGE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-02"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-05-05"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[firstReading]
+id = 143292
+congress = 8
+bill_no = "HB08615"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-05-05"

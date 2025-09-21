@@ -1,0 +1,66 @@
+billNumber = "HB08933"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08933"
+lastScraped = "2025-09-22T00:20:59.065790"
+title = "HB08933"
+longTitle = "AN ACT DECLARING SEPTEMBER SEVENTEEN OF EVERY YEAR A NONWORKING PUBLIC HOLIDAY IN THE PROVINCE OF TARLAC, TO BE KNOW AS FRANCISCO MAKABULOS DAY"
+scope = "Local"
+dateFiled = "1997-02-12"
+status = "Approved by the House on 1997-08-26, transmitted to on 1997-08-27 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-02-13"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 115354
+congress = 10
+bill_no = "HB08933"
+report = "00991"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+recomm = "approval without amendments"
+date_read = "1997-02-13"
+date_ob = "1997-07-29"
+date_report = "1997-06-09"
+
+[secondReading]
+id = 18648
+congress = 10
+bill_no = "HB08933"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-07-31"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 3231
+congress = 10
+bill_no = "HB08933"
+date_dist = "1997-08-07"
+date_adopt = "1997-08-26"
+no_yeas = 172
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-08-27"
+date_rec = "1997-09-01"

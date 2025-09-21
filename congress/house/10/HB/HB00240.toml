@@ -1,0 +1,51 @@
+billNumber = "HB00240"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00240"
+lastScraped = "2025-09-22T00:20:57.422975"
+title = "HB00240"
+longTitle = "AN ACT CONVERTING THE NORTHERN MINDANAO STATE INSTITUTE OF SCIENCE AND TECHNOLOGY IN THE CITY OF BUTUAN INTO THE NORTHEASTERN MINDANAO STATE UNIVERSITY, AND TO AUTHORIZE THE APPROPRIATION OF ADDITIONAL FUNDS THEREOF"
+scope = "Local"
+dateFiled = "1995-07-05"
+status = "Substituted by HB10540"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 106661
+congress = 10
+bill_no = "HB00240"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-26"

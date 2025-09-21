@@ -1,0 +1,51 @@
+billNumber = "HB03330"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB03330"
+lastScraped = "2025-09-22T00:13:48.444250"
+title = "HB03330"
+longTitle = "AN ACT CONVERTING THE NAGUILIAN EXTENSION OFFICE OF THE LAND TRANSPORTATION OFFICE LOCATED IN THE MUNICIPALITY OF NAGUILIAN, LA UNION, INTO A DISTRICT OFFICE AND APPROPRIATING FUNDS THEREOF"
+scope = "Local"
+dateFiled = "2004-11-23"
+status = "Pending with the Committee on TRANSPORTATION since 2004-11-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB03330.pdf"
+fileSize = 1635295
+author = "Dumpit, Tomas M."
+[[authorsDetail]]
+name = "Dumpit, Tomas M."
+nameCode = "Dumpit"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2004-11-30"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 78420
+congress = 13
+bill_no = "HB03330"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2004-11-30"

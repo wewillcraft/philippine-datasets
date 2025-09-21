@@ -1,0 +1,68 @@
+billNumber = "HB01282"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB01282"
+lastScraped = "2025-09-21T23:55:20.305123"
+title = "HB01282"
+longTitle = "AN ACT REPEALING REPUBLIC ACT NO. 8172, ENTITLED “AN ACT PROMOTING SALT IODIZATION NATIONWIDE AND FOR RELATED PURPOSES”"
+scope = "National"
+dateFiled = "2022-07-06"
+status = "Referred to the Technical Working Group (TWG) on 2023-02-22"
+statusOrder = 4.22
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB01282.pdf"
+fileSize = 448215
+author = "De Venecia, Christopher V.P."
+coAuthors = [ "VERGARA, ROSANNA \"RIA\"", "CASTRO, JANE T.", "MERCADO-REVILLA, LANI",]
+[[authorsDetail]]
+name = "De Venecia, Christopher V.P."
+nameCode = "De Venecia"
+date = "2022-07-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VERGARA, ROSANNA \"RIA\""
+nameCode = "Vergara"
+date = "2023-01-23"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CASTRO, JANE T."
+nameCode = "Castro (J.)"
+date = "2023-02-28"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "MERCADO-REVILLA, LANI"
+nameCode = "Mercado-Revilla"
+date = "2024-11-06"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-08-01"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 6201
+congress = 19
+bill_no = "HB01282"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-08-01"

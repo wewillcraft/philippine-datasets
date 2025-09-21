@@ -1,0 +1,83 @@
+billNumber = "HB03301"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03301"
+lastScraped = "2025-09-22T00:13:00.401410"
+title = "HB03301"
+longTitle = "AN ACT PROVIDING DUE COMPENSATION TO ELEMENTARY SCHOOL TEACHERS HANDLING `MULTI-GRADE CLASSES'"
+scope = "National"
+dateFiled = "2001-09-28"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2001-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Taganas Layus"
+coAuthors = [ "ECHIVERRI, ENRICO R.", "ESPINA, GERARDO S.", "LOZADA, JOSE APOLINARIO JR. L.", "CARI, CARMEN L.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Taganas Layus"
+nameCode = "Taganas Layus"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO R."
+nameCode = "Echiverri"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J031"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "LOZADA, JOSE APOLINARIO JR. L."
+nameCode = "Lozada"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CARI, CARMEN L."
+nameCode = "Cari"
+date = ""
+journalNo = "J037"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J052"
+sessionNo = "2RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2001-10-08"
+
+[[committee]]
+name = "NUCLEAR ENERGY"
+type = "principal"
+referralCode = "K501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86461
+congress = 12
+bill_no = "HB03301"
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "2001-10-08"

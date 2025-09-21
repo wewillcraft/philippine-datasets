@@ -1,0 +1,56 @@
+billNumber = "HR00068"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00068"
+lastScraped = "2025-09-22T00:13:01.153682"
+title = "HR00068"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED COLLABORATION OF SOME MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES WITH THE ABU SAYYAF REBEL GROUP"
+scope = "National"
+dateFiled = "2001-07-31"
+status = "Pending with the Committee on RULES since 2001-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Juan Miguel F."
+coAuthors = [ "LACSON, JOSE CARLOS V.",]
+[[authorsDetail]]
+name = "Zubiri, Juan Miguel F."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LACSON, JOSE CARLOS V."
+nameCode = "Lacson"
+date = ""
+journalNo = "J008"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-08-06"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 90007
+congress = 12
+bill_no = "HR00068"
+comm_act = "Change of Referral from the Committee on Rules to the Committee on National Defense on August 20, 20"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-08-06"

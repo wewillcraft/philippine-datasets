@@ -1,0 +1,41 @@
+billNumber = "HB08264"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08264"
+lastScraped = "2025-09-22T00:20:58.931118"
+title = "HB08264"
+longTitle = "AN ACT GRANTING PHILIPPINE CITIZENSHIP TO EDGARDO GRANADOS CALINGASAN"
+scope = "Local"
+dateFiled = "1996-10-21"
+status = "Pending with the Committee on JUSTICE since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 114685
+congress = 10
+bill_no = "HB08264"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-11-04"

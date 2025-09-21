@@ -1,0 +1,47 @@
+billNumber = "HB03910"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03910"
+lastScraped = "2025-09-22T00:13:00.503468"
+title = "HB03910"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT, OPERATION AND MAINTENANCE OF A WOMEN'S CENTER IN THE ISLAND OF DINAGAT, PROVINCE OF SURIGAO DEL NORTE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "2001-11-20"
+status = "Pending with the Committee on WOMEN since 2001-11-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ecleo, Glenda B."
+[[authorsDetail]]
+name = "Ecleo, Glenda B."
+nameCode = "Ecleo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2001-11-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87070
+congress = 12
+bill_no = "HB03910"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2001-11-26"

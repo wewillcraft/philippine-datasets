@@ -1,0 +1,63 @@
+billNumber = "HB09030"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09030"
+lastScraped = "2025-09-22T00:20:59.085444"
+title = "HB09030"
+longTitle = "AN ACT AMENDING SECTIONS 61 AND 103 OF PRESIDENTIAL DECREE NO. 856, OTHERWISE KNOWN AS THE 'CODE OF SANITATION'"
+scope = "National"
+dateFiled = "1997-03-03"
+status = "Pending with the Committee on HEALTH since 1997-03-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "CALALAY, REYNALDO A.", "AUMENTADO, ERICO B.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-03-05"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 115451
+congress = 10
+bill_no = "HB09030"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-03-05"

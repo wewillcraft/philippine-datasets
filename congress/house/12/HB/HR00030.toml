@@ -1,0 +1,55 @@
+billNumber = "HR00030"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00030"
+lastScraped = "2025-09-22T00:13:01.146749"
+title = "HR00030"
+longTitle = "RESOLUTION CALLING FOR AN IMMEDIATE CONGRESSIONAL INQUIRY INTO THE STATUS OF THE AGRI-AGRA LAWS AND REGULATIONS"
+scope = "National"
+dateFiled = "2001-07-11"
+status = "Pending with the Committee on AGRICULTURE, FOOD & FISHERIES since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real, Isidoro Jr. E."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Real, Isidoro Jr. E."
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "AGRICULTURE, FOOD & FISHERIES"
+type = "primary"
+referralCode = "C503"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 89969
+congress = 12
+bill_no = "HR00030"
+referral = "C503"
+ref_name = "AGRICULTURE, FOOD & FISHERIES"
+sub_name = ""
+date_read = "2001-07-24"

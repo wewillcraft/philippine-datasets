@@ -1,0 +1,75 @@
+billNumber = "HB03600"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03600"
+lastScraped = "2025-09-22T00:20:58.041571"
+title = "HB03600"
+longTitle = "AN ACT ESTABLISHING A SAMPALOC NATIONAL HIGH SCHOOL IN THE MUNICIPALITY OF SAMPALOC, PROVINCE OF QUEZON, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-19"
+status = "REPUBLIC ACT RA08445 (Lapsed into law on 1997-12-29)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Enverga"
+[[authorsDetail]]
+name = "Enverga"
+nameCode = "Enverga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-09-25"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110021
+congress = 10
+bill_no = "HB03600"
+report = "00750"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+recomm = "approval with amendments"
+date_read = "1995-09-25"
+date_ob = "1997-01-29"
+date_report = "1997-01-27"
+
+[secondReading]
+id = 18034
+congress = 10
+bill_no = "HB03600"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-02-06"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2645
+congress = 10
+bill_no = "HB03600"
+date_dist = "1997-02-17"
+date_adopt = "1997-02-24"
+no_yeas = 157
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-02-25"
+date_rec = "1997-02-28"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1997-11-26"
+dte_actedp = "1997-12-29"

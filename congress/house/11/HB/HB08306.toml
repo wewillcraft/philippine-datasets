@@ -1,0 +1,66 @@
+billNumber = "HB08306"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB08306"
+lastScraped = "2025-09-22T00:23:17.116356"
+title = "HB08306"
+longTitle = "AN ACT DECLARING MAPASO HOT SPRING AND ITS PREMISES LOCATED AT LA PAZ, MUNICIPALITY OF SANTIAGO, PROVINCE OF AGUSAN DEL NORTE, A TOURIST ZONE"
+scope = "Local"
+dateFiled = "1999-09-08"
+status = "Approved by the House on 2000-11-28, transmitted to on 2000-11-29 and received by the Senate on 2000"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1999-09-14"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 99741
+congress = 11
+bill_no = "HB08306"
+report = "01248"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = "TOURISM"
+recomm = "approval with amendments"
+date_read = "1999-09-14"
+date_ob = "2000-10-09"
+date_report = "2000-10-03"
+
+[secondReading]
+id = 16955
+congress = 11
+bill_no = "HB08306"
+remarks = "Considered the Explanatory Note as the sponsorship remarks."
+date_approved = "2000-10-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4205
+congress = 11
+bill_no = "HB08306"
+date_dist = "2000-11-15"
+date_adopt = "2000-11-28"
+no_yeas = 135
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-11-29"
+date_rec = "2000-12-05"

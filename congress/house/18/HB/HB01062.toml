@@ -1,0 +1,82 @@
+billNumber = "HB01062"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01062"
+lastScraped = "2025-09-22T00:01:45.243232"
+title = "HB01062"
+longTitle = "AN ACT ESTABLISHING THE FOREST BOUNDARY OF THE PROVINCE OF TARLAC"
+scope = "Local"
+dateFiled = "2019-07-02"
+status = "Pending with the Committee on NATURAL RESOURCES since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01062.pdf"
+fileSize = 5108946
+author = "Yap, Victor A."
+coAuthors = [ "SAVELLANO, DEOGRACIAS VICTOR B.", "COJUANGCO, CHARLIE", "VILLANUEVA, NOEL L.", "GONZALEZ, CARLO LISANDRO L.", "LUSOTAN, MACNELL",]
+[[authorsDetail]]
+name = "Yap, Victor A."
+nameCode = "Yap (V.)"
+date = "2019-07-02"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2019-09-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "COJUANGCO, CHARLIE"
+nameCode = "Cojuangco"
+date = "2019-11-12"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLANUEVA, NOEL L."
+nameCode = "Villanueva (N.)"
+date = "2019-11-13"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "GONZALEZ, CARLO LISANDRO L."
+nameCode = "Gonzalez"
+date = "2021-03-04"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LUSOTAN, MACNELL"
+nameCode = "Lusotan"
+date = "2021-03-04"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 20473
+congress = 18
+bill_no = "HB01062"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

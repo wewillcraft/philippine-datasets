@@ -1,0 +1,42 @@
+billNumber = "PS00301"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00301"
+lastScraped = "2025-09-22T00:13:49.516723"
+title = "PS00301"
+longTitle = "Lack of Medicines at the HOR Clinic"
+scope = "National"
+dateFiled = "2005-11-14"
+status = "Pending with the Committee on ACCOUNTS since 2005-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ACCOUNTS"
+type = "primary"
+referralCode = "0501"
+dateRead = "2005-11-14"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 83026
+congress = 13
+bill_no = "PS00301"
+referral = "0501"
+ref_name = "ACCOUNTS"
+sub_name = ""
+date_read = "2005-11-14"

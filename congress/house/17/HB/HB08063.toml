@@ -1,0 +1,61 @@
+billNumber = "HB08063"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08063"
+lastScraped = "2025-09-21T23:55:45.896964"
+title = "HB08063"
+longTitle = "AN ACT CREATING THE OFFICE OF COMMUTER AFFAIRS IN THE DEPARTMENT OF TRANSPORTATION, DEFINING ITS FUNCTIONS AND RESPONSIBILITIES, AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2018-08-07"
+status = "Pending with the Committee on TRANSPORTATION since 2018-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08063.pdf"
+fileSize = 860925
+author = "Biazon, Rozzano Rufino B."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "BRAVO, MARIA VIDA E.",]
+[[authorsDetail]]
+name = "Biazon, Rozzano Rufino B."
+nameCode = "Biazon"
+date = "2018-08-07"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2018-09-03"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2018-09-25"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2018-08-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 41530
+congress = 17
+bill_no = "HB08063"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-08-08"

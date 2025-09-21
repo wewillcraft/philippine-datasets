@@ -1,0 +1,42 @@
+billNumber = "HB12002"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12002"
+lastScraped = "2025-09-22T00:25:56.807081"
+title = "HB12002"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A WAREHOUSE FOR RICE STORAGE IN THE MUNICIPALITY OF HERNANI, PROVINCE OF EASTERN SAMAR, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-02-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1994-02-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1994-02-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130617
+congress = 9
+bill_no = "HB12002"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1994-02-16"

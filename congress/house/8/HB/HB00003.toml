@@ -1,0 +1,82 @@
+billNumber = "HB00003"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00003"
+lastScraped = "2025-09-22T00:46:56.532034"
+title = "HB00003"
+longTitle = "AN ACT CREATING the municipality of san pascual IN tHE PROVINCE OF BOHOL"
+scope = "Local"
+dateFiled = "1987-07-22"
+status = "Approved by the House on 1988-08-02 and transmitted to the Senate on 1988-08-03"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tirol"
+coAuthors = [ "ZARRAGA, ISIDRO C.", "BORJA-AGANA, VENICE",]
+[[authorsDetail]]
+name = "Tirol"
+nameCode = "Tirol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZARRAGA, ISIDRO C."
+nameCode = "Zarraga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BORJA-AGANA, VENICE"
+nameCode = "Borja-agana"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-07-28"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 134701
+congress = 8
+bill_no = "HB00003"
+report = "00190"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = "RECOMMENDI NG ITS APPROVAL WITH AMENDMENT"
+date_read = "1988-07-28"
+date_ob = "1988-06-03"
+date_cal = "1988-06-03"
+date_unass = "1988-06-03"
+date_report = "1988-05-31"
+
+[secondReading]
+id = 20216
+congress = 8
+bill_no = "HB00003"
+date_approved = "1988-06-10"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1
+congress = 8
+bill_no = "HB00003"
+date_dist = "1988-07-26"
+date_adopt = "1988-08-02"
+no_yeas = 126
+no_nays = 0
+no_abstent = 0
+date_trans = "1988-08-03"

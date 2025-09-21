@@ -1,0 +1,91 @@
+billNumber = "HR01758"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01758"
+lastScraped = "2025-09-22T00:01:47.674040"
+title = "HR01758"
+longTitle = "RESOLUTION \r\nPERFECTING THE TITLE AND RESOLUTORY CLAUSE OF RESOLUTION NO. 76 AS ADOPTED BY THE HOUSE, BY REFLECTING THE PROPER NAME OF THE COOPERATIVE AS DUMAGUETE CATHEDRAL CREDIT COOPERATIVE (DCCCO) MULTIPURPOSE COOPERATIVE\r\n"
+scope = "National"
+dateFiled = "2021-05-10"
+status = "Adopted as Resolution No. HR00173 on 2021-05-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Canama, Sabiniano S."
+coAuthors = [ "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Canama, Sabiniano S."
+nameCode = "Canama"
+date = "2021-05-10"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2021-05-24"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "primary"
+referralCode = "B512"
+dateRead = "2021-05-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01465"
+sequence = 1
+date = "2021-05-10"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01465"
+sequence = 1
+date = "2021-05-10"
+flag = "S"
+
+[firstReading]
+id = 32076
+congress = 18
+bill_no = "HR01758"
+report = "00945"
+comm_act = ""
+referral = "B512"
+ref_name = "COOPERATIVES DEVELOPMENT"
+sub_name = "COOPERATIVES DEVELOPMENT"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1465"
+remarks = ""
+file = "CR00945.pdf"
+date_read = "2021-05-17"
+date_ob = "2021-05-17"
+date_report = "2021-05-10"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00945.pdf"
+
+[secondReading]
+id = 2811
+congress = 18
+bill_no = "HR01758"
+adopted_resolution = "HR00173"
+adopted_resolution_title = "RESOLUTION PERFECTING THE TITLE AND RESOLUTORY CLAUSE OF RESOLUTION NO. 76 AS ADOPTED BY THE HOUSE, BY REFLECTING THE PROPER NAME OF THE COOPERATIVE AS DUMAGUETE CATHEDRAL CREDIT COOPERATIVE (DCCCO) MULTIPURPOSE COOPERATIVE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2021-05-18"
+date_approved = "2021-05-25"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01758.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01758.pdf"

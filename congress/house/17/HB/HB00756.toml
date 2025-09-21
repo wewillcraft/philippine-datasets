@@ -1,0 +1,68 @@
+billNumber = "HB00756"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00756"
+lastScraped = "2025-09-21T23:55:44.234358"
+title = "HB00756"
+longTitle = "AN ACT ESTABLISHING THE PASSENGER PROTECTION OFFICE IN ALL MAJOR AIRPORTS IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on TRANSPORTATION since 2016-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00756.pdf"
+fileSize = 880862
+author = "Aglipay-Villar, Emmeline"
+coAuthors = [ "VIOLAGO, MICALEA S.", "SAVELLANO, DEOGRACIAS VICTOR B.", "TAN, ANGELINA \"HELEN\" D.L. M.D.",]
+[[authorsDetail]]
+name = "Aglipay-Villar, Emmeline"
+nameCode = "Aglipay-Villar"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-10-04"
+journalNo = "J032"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2016-11-16"
+journalNo = "J045"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAN, ANGELINA \"HELEN\" D.L. M.D."
+nameCode = "Tan (A.)"
+date = "2018-01-22"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-07-27"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 34224
+congress = 17
+bill_no = "HB00756"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-27"

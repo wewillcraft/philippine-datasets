@@ -1,0 +1,42 @@
+billNumber = "HB12383"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12383"
+lastScraped = "2025-09-22T00:25:56.883538"
+title = "HB12383"
+longTitle = "AN ACT PROVIDING FOR THE INCREASE OF BED CAPACITY OF SAN SEBASTIAN HOSPITAL IN THE MUNICIPALITY OF SABLAYAN, PROVINCE OF OCCIDENTAL MINDORO, FROM TWENTY-FIVE TO ONE HUNDRED BEDS, AND THE IMPROVEMENT OF OF HOSPITAL'S EQUIPMENTS, AND AUTHORIZING THE APPROPRIATIONS THEREOF"
+scope = "Local"
+dateFiled = "1994-03-22"
+status = "Pending with the Committee on HEALTH since 1994-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-03-24"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130998
+congress = 9
+bill_no = "HB12383"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-03-24"

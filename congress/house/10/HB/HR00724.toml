@@ -1,0 +1,47 @@
+billNumber = "HR00724"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00724"
+lastScraped = "2025-09-22T00:20:59.561928"
+title = "HR00724"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ROLE AND PROBLEMS OF THE PROVINCIAL AGRARIAN REFORM COORDINATING COMMITTEE, BOTH UNDER EXISTING LEGAL PROVISIONS AND IN ACTUAL PRACTICE,IN THE COMPREHENSIVE AGRARIAN REFORM PROGRAM, AND IN ITS ADMINISTRATIVE RELATIONSHIPS WITH THE OTHER CARP IMPLEMENTING AGENCIES, AND TO SUBMIT ITS RECOMMENDATIONS THEREON"
+scope = "National"
+dateFiled = "1996-07-23"
+status = "Pending with the Committee on RULES since 1996-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "secondary"
+referralCode = "0502"
+
+[firstReading]
+id = 117778
+congress = 10
+bill_no = "HR00724"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agrarian Reform on July 30, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-29"

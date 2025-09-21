@@ -1,0 +1,61 @@
+billNumber = "HB08738"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB08738"
+lastScraped = "2025-09-21T23:55:46.056413"
+title = "HB08738"
+longTitle = "AN ACT PROHIBITING DISCRIMINATION AGAINST CHILDREN ON ACCOUNT OF ILLEGITIMACY OR BIRTH OUT OF WEDLOCK AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "2018-12-06"
+status = "Pending with the Committee on WELFARE OF CHILDREN since 2018-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB08738.pdf"
+fileSize = 2109292
+author = "Lopez, Carlo V."
+coAuthors = [ "DEL MAR, RAUL V.", "TAMBUNTING, GUSTAVO S.",]
+[[authorsDetail]]
+name = "Lopez, Carlo V."
+nameCode = "Lopez (C.)"
+date = "2018-12-06"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2019-01-23"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2019-02-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "primary"
+referralCode = "F501"
+dateRead = "2018-12-11"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 42205
+congress = 17
+bill_no = "HB08738"
+report = ""
+comm_act = ""
+referral = "F501"
+ref_name = "WELFARE OF CHILDREN"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-12-11"

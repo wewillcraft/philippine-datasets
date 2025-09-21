@@ -1,0 +1,42 @@
+billNumber = "HR00829"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00829"
+lastScraped = "2025-09-22T00:47:02.688818"
+title = "HR00829"
+longTitle = "RESOLUTION URGING THE LOCAL GOVERNMENT COMMITTEE TO STUDY THE FORMULATION OF A BARANGAY MACHINERY TO BRING GOVERNMENT SERVICE TO THE PEOPLE"
+scope = "National"
+dateFiled = "1988-08-03"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1988-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1988-08-09"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 170710
+congress = 8
+bill_no = "HR00829"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1988-08-09"

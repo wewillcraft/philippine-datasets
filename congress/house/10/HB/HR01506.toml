@@ -1,0 +1,56 @@
+billNumber = "HR01506"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01506"
+lastScraped = "2025-09-22T00:20:59.710513"
+title = "HR01506"
+longTitle = "RESOLUTION ENDORSING THE COMMITMENT OF THE BASES CONVERSION DEVELOPMENT AUTHORITY (BCDA) THROUGH ITS CHAIRMAN AND PRESIDENT, MR. VICTORINO BASCO, TO AWARD THE LOTS OF THE PALACOL AREA WHICH ARE WITHIN THE PORTIONS THEREOF CALLED GHQ AREA, HHSG AREA,KADAMASVILLE AND PAG-ASA VILLAGE TO THE BONAFIDE OCCUPANTS THEREOF, AND URGING THE BCDA TO IMPLEMENT AND EXECUTE THE COMMITMENT WITH DELIBERATE DISPATCH"
+scope = "Local"
+dateFiled = "1998-02-02"
+status = "Adopted as Resolution No. HR00131 on 1998-02-02"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1998-02-02"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[motherBills]]
+bill_no = "HR01477"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01477"
+flag = "S"
+
+[firstReading]
+id = 118560
+congress = 10
+bill_no = "HR01506"
+report = "01439"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1998-02-02"
+date_ob = "1998-02-02"
+
+[secondReading]
+id = 19059
+congress = 10
+bill_no = "HR01506"
+adopted_resolution = "HR00131"
+date_calendared = "1998-02-02"
+date_approved = "1998-02-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00131.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00131.pdf"

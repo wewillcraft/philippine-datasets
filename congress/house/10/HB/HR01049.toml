@@ -1,0 +1,69 @@
+billNumber = "HR01049"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01049"
+lastScraped = "2025-09-22T00:20:59.629308"
+title = "HR01049"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE STATUS AND DISPOSITION OF PROPERTIES BY THE ASSET PRIVATIZATION TRUST (APT), SPECIFICALLY THE PANTRANCO NORTH EXPRESS, INC., LOTxa0 ONSANTIAGO CITY, ISABELA"
+scope = "Local"
+dateFiled = "1997-01-20"
+status = "Pending with the Committee on RULES since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "LARA, EDGAR R.", "LOPEZ, ELIAS B.", "DY, FAUSTINO JR. S.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LARA, EDGAR R."
+nameCode = "Lara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOPEZ, ELIAS B."
+nameCode = "Lopez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 118103
+congress = 10
+bill_no = "HR01049"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Good Government on Jan. 23, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-23"

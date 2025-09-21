@@ -1,0 +1,82 @@
+billNumber = "HB00046"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00046"
+lastScraped = "2025-09-21T23:55:44.082688"
+title = "Civil Registration Act Of 2016"
+longTitle = "AN ACT PROVIDING FOR A COMPREHENSIVE CIVIL REGISTRATION SYSTEM"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on POPULATION AND FAMILY RELATIONS since 2016-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00046.pdf"
+fileSize = 1634609
+author = "Fortun, Lawrence H."
+coAuthors = [ "ROMUALDO, XAVIER JESUS \"XJ\" D.", "PANOTES, MARISOL C.", "DALIPE, MANUEL JOSE M.", "NIETO, YUL SERVO", "ACOSTA-ALBA, MARIA LOURDES",]
+[[authorsDetail]]
+name = "Fortun, Lawrence H."
+nameCode = "Fortun"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ROMUALDO, XAVIER JESUS \"XJ\" D."
+nameCode = "Romualdo"
+date = "2016-08-15"
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "PANOTES, MARISOL C."
+nameCode = "Panotes"
+date = "2016-09-13"
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2018-04-18"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2018-05-16"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ACOSTA-ALBA, MARIA LOURDES"
+nameCode = "Acosta-Alba"
+date = "2018-08-28"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "POPULATION AND FAMILY RELATIONS"
+type = "primary"
+referralCode = "0512"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 33514
+congress = 17
+bill_no = "HB00046"
+report = ""
+comm_act = ""
+referral = "0512"
+ref_name = "POPULATION AND FAMILY RELATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-26"

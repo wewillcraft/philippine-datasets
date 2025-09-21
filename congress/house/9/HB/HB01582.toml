@@ -1,0 +1,47 @@
+billNumber = "HB01582"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01582"
+lastScraped = "2025-09-22T00:25:54.880915"
+title = "HB01582"
+longTitle = "AN ACT PROVIDING FOR THE IMPROVEMENT AND CONSTRUCTION OF THE OYAO-GANAO-BIRU K-ABACAN AND PELAWAY ROADS LOCATED IN THE MUNICIPALITIES OF DUPAX DEL NORTE, DUPAX DEL SUR, AND A. CASTANEDA, PROVINCE OF NUEVA VIZCAYA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120201
+congress = 9
+bill_no = "HB01582"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-31"

@@ -1,0 +1,41 @@
+billNumber = "HR00810"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00810"
+lastScraped = "2025-09-22T00:20:59.578046"
+title = "HR00810"
+longTitle = "RESOLUTION REQUESTING THE SUBIC BAY METROPOLITAN AUTHORITY TO ALLOCATE FIVE (5) HECTARES OF THE FORMER SUBIC NAVAL BASE TO THE PHILIPPINE AMUSEMENTS AND GAMING CORPORATION (PAGCOR) FOR THE CONSTRUCTION, ESTABLISHMENT, OPERATION AND MAINTENANCE OF AFIRST CLASS HOTEL-CASINO"
+scope = "Local"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lazatin, Carmelo F."
+[[authorsDetail]]
+name = "Lazatin, Carmelo F."
+nameCode = "Lazatin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 117864
+congress = 10
+bill_no = "HR00810"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1996-09-02"

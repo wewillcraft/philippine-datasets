@@ -1,0 +1,69 @@
+billNumber = "HB00234"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00234"
+lastScraped = "2025-09-22T00:12:59.845071"
+title = "HB00234"
+longTitle = "AN ACT EMPOWERING LOCAL GOVERNMENT UNITS (LGUs) TO MONITOR THE ENFORCEMENT OF LAWS, RULES AND REGULATIONS ON ENVIRONMENTAL PROTECTION AND CONSERVATION OF NATURAL RESOURCES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri, Juan Miguel F."
+coAuthors = [ "ESPINO, AMADO JR. T.", "PUENTEBELLA, MONICO O.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Zubiri, Juan Miguel F."
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUENTEBELLA, MONICO O."
+nameCode = "Puentebella"
+date = ""
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 83394
+congress = 12
+bill_no = "HB00234"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-07-24"

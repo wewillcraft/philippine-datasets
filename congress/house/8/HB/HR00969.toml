@@ -1,0 +1,42 @@
+billNumber = "HR00969"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00969"
+lastScraped = "2025-09-22T00:47:02.721979"
+title = "HR00969"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON SOCIAL SERVICES TO INQUIRE, IN AID OF LEGISLATION, ON THE RATES CHARGED BY FUNERAL PARLORS FOR FUNERAL SERVICES"
+scope = "National"
+dateFiled = "1988-10-03"
+status = "Pending with the Committee on SOCIAL SERVICES since 1988-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "535"
+dateRead = "1988-10-05"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 170846
+congress = 8
+bill_no = "HR00969"
+referral = "535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1988-10-05"

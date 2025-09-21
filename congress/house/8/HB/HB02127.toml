@@ -1,0 +1,87 @@
+billNumber = "HB02127"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02127"
+lastScraped = "2025-09-22T00:46:56.934202"
+title = "HB02127"
+longTitle = "AN ACT CHANGING THE NAME OF THE ANDRES BONIFACIO MEMORIAL HOSPITAL IN THE CITY OF TRECE MARTIREZ TOGENERAL EMILIO AGUINALDO MEMORIAL HOSPITAL"
+scope = "Local"
+dateFiled = "1987-09-30"
+status = "Vetoed by the President on 1992-06-01"
+statusOrder = 30.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+coAuthors = [ "GUERRERO, LEONARDO L.", "NUÑEZ, JORGE A.",]
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GUERRERO, LEONARDO L."
+nameCode = "Guerrero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "NUÑEZ, JORGE A."
+nameCode = "Nuñez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-10-05"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[firstReading]
+id = 136816
+congress = 8
+bill_no = "HB02127"
+report = "00571"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITHOUT AMENDMENT"
+date_read = "1987-10-05"
+date_ob = "1989-05-24"
+date_cal = "1989-05-24"
+date_unass = "1989-05-24"
+date_report = "1989-05-23"
+
+[secondReading]
+id = 20450
+congress = 8
+bill_no = "HB02127"
+date_approved = "1989-06-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 231
+congress = 8
+bill_no = "HB02127"
+date_dist = "1989-06-05"
+date_adopt = "1989-06-08"
+no_yeas = 131
+no_nays = 0
+no_abstent = 0
+date_trans = "1989-06-09"
+date_rec = "1989-06-26"
+amend_ind = "N"
+act_pres = "V"
+dte_transp = "1992-03-23"
+dte_actedp = "1992-06-01"

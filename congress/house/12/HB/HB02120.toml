@@ -1,0 +1,47 @@
+billNumber = "HB02120"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02120"
+lastScraped = "2025-09-22T00:13:00.183329"
+title = "HB02120"
+longTitle = "AN ACT TO SUPPLEMENT COMMONWEALTH ACT NUMBERED ONE HUNDRED EIGHTY-SIX, AS AMENDED, REPUBLIC ACT NUMBERED THREE HUNDRED AND FORTY, REPUBLIC ACT NUMBERED NINE HUNDRED AND TEN, AS AMENDED, AND PRESIDENTIAL DECREE NUMBERED ONE THOUSAND ONE HUNDRED FORTY-SIX, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-08-07"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 2001-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85280
+congress = 12
+bill_no = "HB02120"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+date_read = "2001-08-13"

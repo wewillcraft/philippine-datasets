@@ -1,0 +1,49 @@
+billNumber = "HR01171"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01171"
+lastScraped = "2025-09-22T00:20:59.650693"
+title = "HR01171"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE MYSTERIOUS CIRCUMSTANCES SURROUNDING THE DEATH OF NAVY ENSIGN PHILIP ANDREW PESTANO"
+scope = "Local"
+dateFiled = "1997-04-21"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-04-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cuenco, Antonio V."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Cuenco, Antonio V."
+nameCode = "Cuenco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-04-24"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 118225
+congress = 10
+bill_no = "HR01171"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-04-24"

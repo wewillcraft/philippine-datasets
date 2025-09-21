@@ -1,0 +1,42 @@
+billNumber = "HB03881"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03881"
+lastScraped = "2025-09-22T00:46:57.240333"
+title = "HB03881"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATION OF FUNDS AS AID TO THE PASAY CITY GENERAL HOSPITAL FOR THE MAINTENANCE AND IMPROVEMENT OF ITS FACILITIES AND SERVICES"
+scope = "Local"
+dateFiled = "1987-11-19"
+status = "Pending with the Committee on HEALTH since 1987-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-11-24"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 138567
+congress = 8
+bill_no = "HB03881"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-11-24"

@@ -1,0 +1,54 @@
+billNumber = "HB04064"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04064"
+lastScraped = "2025-09-22T00:20:58.125011"
+title = "HB04064"
+longTitle = "AN ACT TO CONVERT THE BATAAN NATIONAL SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF BALANGA, BATAAN, INTO THE BATAAN COLLEGE OF SCIENCE AND TECHNOLOGY, APPROPRIATING THE NECESSARY FUNDS THEREFOR, REPEALING REPUBLIC ACT NUMBERED NINE HUNDRED AND THREE, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-09-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "De Venecia, Jose Jr."
+coAuthors = [ "GARCIA, ENRIQUE JR. T.",]
+[[authorsDetail]]
+name = "De Venecia, Jose Jr."
+nameCode = "De Venecia"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GARCIA, ENRIQUE JR. T."
+nameCode = "Garcia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-10-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110485
+congress = 10
+bill_no = "HB04064"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-10-03"

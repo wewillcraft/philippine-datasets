@@ -1,0 +1,47 @@
+billNumber = "HB01922"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01922"
+lastScraped = "2025-09-22T00:25:54.937676"
+title = "HB01922"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A SHORE PROTECTION SEAWALL AT BARANGAY SIMANOC, MUNICIPALITY OF NAAWAN, PROVINCE OF MISAMIS ORIENTAL"
+scope = "Local"
+dateFiled = "1992-09-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chaves"
+[[authorsDetail]]
+name = "Chaves"
+nameCode = "Chaves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-09-03"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120541
+congress = 9
+bill_no = "HB01922"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-09-03"

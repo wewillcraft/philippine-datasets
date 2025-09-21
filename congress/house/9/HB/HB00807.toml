@@ -1,0 +1,42 @@
+billNumber = "HB00807"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00807"
+lastScraped = "2025-09-22T00:25:54.741392"
+title = "HB00807"
+longTitle = "AN ACT REQUIRING PHYSICIANS TO INCLUDE IN THEIR PRESCRIPTIONS THE APPROXIMATE COST OF THE DRUGS PRESCRIBED AND PROVIDING PENALTIES FOR VIOLATION THEREOF"
+scope = "National"
+dateFiled = "1992-08-11"
+status = "Pending with the Committee on HEALTH since 1992-08-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fua, Orlando  B."
+[[authorsDetail]]
+name = "Fua, Orlando  B."
+nameCode = "Fua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-17"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 119426
+congress = 9
+bill_no = "HB00807"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-17"

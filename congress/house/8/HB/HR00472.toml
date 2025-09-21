@@ -1,0 +1,50 @@
+billNumber = "HR00472"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00472"
+lastScraped = "2025-09-22T00:47:02.616926"
+title = "HR00472"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OFCONGRESS TO INVESTIGATE IN AID OF LEGISLATION THEALLOCATION AND DISBURSEMENT OF SOME P300,000,000 (P300 MILLION) FOR THE PURCHASE OF MEDICINE AND DRUGS, THE MANNER OF PURCHASE, PRICING, AND AWARD MADEBY THE DEPARTMENT OF HEALTH"
+scope = "National"
+dateFiled = "1987-10-27"
+status = "Pending with the Committee on HEALTH since 1987-11-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lumauig"
+coAuthors = [ "DOMINGUEZ, VICTOR S.",]
+[[authorsDetail]]
+name = "Lumauig"
+nameCode = "Lumauig"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DOMINGUEZ, VICTOR S."
+nameCode = "Dominguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-11-09"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 170363
+congress = 8
+bill_no = "HR00472"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-11-09"

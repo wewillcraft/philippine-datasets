@@ -1,0 +1,54 @@
+billNumber = "HB06799"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06799"
+lastScraped = "2025-09-22T00:20:58.621034"
+title = "HB06799"
+longTitle = "AN ACT AMENDING SECTION 7, PARAGRAPH (B), OF REPUBLIC ACT NO. 6975, OTHERWISE KNOWN AS THE 'DEPARTMENT OF THE INTERIOR AND LOCAL GOVERNMENT ACT OF 1990,' AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1996-04-15"
+status = "Pending with the Committee on REVISION OF LAWS since 1996-04-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Barbers"
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1996-04-30"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113220
+congress = 10
+bill_no = "HB06799"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1996-04-30"

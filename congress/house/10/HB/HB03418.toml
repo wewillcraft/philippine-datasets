@@ -1,0 +1,46 @@
+billNumber = "HB03418"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03418"
+lastScraped = "2025-09-22T00:20:58.005534"
+title = "HB03418"
+longTitle = "AN ACT ESTABLISHING A HANDICRAFT TRAINING CENTER IN THE MUNICIPALITY OF ANDA, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-11"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1995-09-18"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109839
+congress = 10
+bill_no = "HB03418"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-09-18"

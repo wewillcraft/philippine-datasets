@@ -1,0 +1,51 @@
+billNumber = "HB01092"
+billType = "HB"
+congress = 15
+apiCongressId = 15
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=15&q=HB01092"
+lastScraped = "2025-09-21T23:56:40.752376"
+title = "HB01092"
+longTitle = "AN ACT INCREASING THE TAX ON IDLE LANDS, AMENDING FOR THE PURPOSE SECTION 236 OF REPUBLIC ACT NUMBERED SEVENTY ONE HUNDRED AND SIXTY OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991"
+scope = "National"
+dateFiled = "2010-07-08"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2010-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_15/HB01092.pdf"
+fileSize = 244874
+author = "Pichay, Philip A."
+[[authorsDetail]]
+name = "Pichay, Philip A."
+nameCode = "Pichay"
+date = ""
+sequence = 1
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2010-08-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 56564
+congress = 15
+bill_no = "HB01092"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2010-08-02"

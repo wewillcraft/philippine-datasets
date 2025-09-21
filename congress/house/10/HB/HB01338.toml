@@ -1,0 +1,46 @@
+billNumber = "HB01338"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01338"
+lastScraped = "2025-09-22T00:20:57.604786"
+title = "HB01338"
+longTitle = "AN ACT TO APPROPRIATE FUNDS FOR THE REPAIR/REHABILI TATION OF THE SITIO BULIHAN, BARANGAY GULOD ROAD, MUNICIPALITY OF CALATAGAN, PROVINCE OF BATANGAS"
+scope = "Local"
+dateFiled = "1995-07-26"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ermita"
+[[authorsDetail]]
+name = "Ermita"
+nameCode = "Ermita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107759
+congress = 10
+bill_no = "HB01338"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-01"

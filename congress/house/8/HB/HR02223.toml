@@ -1,0 +1,42 @@
+billNumber = "HR02223"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02223"
+lastScraped = "2025-09-22T00:47:02.984960"
+title = "HR02223"
+longTitle = "RESOLUTION URGING THE APPROPRIATE COMMITTEES OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED MULTIPLE COMPENSATION BEING RECEIVED BY SOME NATIONAL IRRIGATION ADMINISTATION (NIA) OFFICIALS, AND TO RECOMMEND REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "Local"
+dateFiled = "1991-04-29"
+status = "Pending with the Committee on JUSTICE since 1991-05-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Borjal"
+[[authorsDetail]]
+name = "Borjal"
+nameCode = "Borjal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1991-05-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172057
+congress = 8
+bill_no = "HR02223"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1991-05-06"

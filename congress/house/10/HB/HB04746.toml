@@ -1,0 +1,46 @@
+billNumber = "HB04746"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04746"
+lastScraped = "2025-09-22T00:20:58.253580"
+title = "HB04746"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TREE SEEDLING NURSERY IN BARANGAY ILAYA, MUNICIPALITY OF LAS PINAS, METRO MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-10-26"
+status = "Pending with the Committee on NATURAL RESOURCES since 1995-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111167
+congress = 10
+bill_no = "HB04746"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1995-11-07"

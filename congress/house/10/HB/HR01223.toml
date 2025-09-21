@@ -1,0 +1,41 @@
+billNumber = "HR01223"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01223"
+lastScraped = "2025-09-22T00:20:59.661087"
+title = "HR01223"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF EDUCATION, CULTURE  AND SPORTS, AND THE TECHNICAL EDUCATION AND SKILLS DEVELOPMENT AUTHORITY (TESDA) TO DEFER THE IMPLEMENTATION OF THE TESDA-DECS JOINT MEMORANDUM CIRCULAR NO. 1, SERIES OF 1997 ISSUED ON MARCH 22, 1997"
+scope = "National"
+dateFiled = "1997-05-20"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-05-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-05-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118277
+congress = 10
+bill_no = "HR01223"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-05-22"

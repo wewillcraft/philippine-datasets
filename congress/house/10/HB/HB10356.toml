@@ -1,0 +1,46 @@
+billNumber = "HB10356"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10356"
+lastScraped = "2025-09-22T00:20:59.366237"
+title = "HB10356"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF EXECUTIVE ORDER NO. 226, OTHERWISE KNOWN AS THE OMNIBUS INVESTMENTS CODE OF 1987, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1997-12-02"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Teves"
+[[authorsDetail]]
+name = "Teves"
+nameCode = "Teves"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-12-08"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 116777
+congress = 10
+bill_no = "HB10356"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-12-08"

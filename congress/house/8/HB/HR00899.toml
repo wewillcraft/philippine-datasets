@@ -1,0 +1,57 @@
+billNumber = "HR00899"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00899"
+lastScraped = "2025-09-22T00:47:02.701097"
+title = "HR00899"
+longTitle = "RESOLUTION AUTHORIZING THE MEMBERSHIP OF THE MEMBERS OF THE HOUSE OF REPRESENTATIVES IN THE REGIONAL CONSULTATIVE ASSEMBLIES"
+scope = "National"
+dateFiled = "1988-08-31"
+status = "Pending with the Committee on ETHICS since 1988-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marquez"
+coAuthors = [ "AQUINO, FLORANTE L.", "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Marquez"
+nameCode = "Marquez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AQUINO, FLORANTE L."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "511"
+dateRead = "1988-09-07"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[firstReading]
+id = 170779
+congress = 8
+bill_no = "HR00899"
+referral = "511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1988-09-07"

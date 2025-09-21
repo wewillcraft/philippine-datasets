@@ -1,0 +1,41 @@
+billNumber = "HB09904"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09904"
+lastScraped = "2025-09-22T00:20:59.266335"
+title = "HB09904"
+longTitle = "AN ACT DECLARING JANUARY 17 OF EVERY YEAR A SPECIAL NON-WORKING HOLIDAY IN THE CITY OF OLONGAPO, PROVINCE OF ZAMBALES"
+scope = "Local"
+dateFiled = "1997-08-28"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-09-02"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 116325
+congress = 10
+bill_no = "HB09904"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-09-02"

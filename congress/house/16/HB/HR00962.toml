@@ -1,0 +1,54 @@
+billNumber = "HR00962"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00962"
+lastScraped = "2025-09-21T23:56:22.976322"
+title = "HR00962"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON SUFFRAGE AND ELECTORAL REFORMS TO DIRECTLY INVESTIGATE THE ALLEGED USE OF DEFECTIVE PRECINCT COUNT OPTICAL SCAN (PCOS) BY THE COMELEC THEREBY PROTECTING THE SANCTITY OF THE BALLOTS AND INTEGRITY OF THE VOTES CAST"
+scope = "National"
+dateFiled = "2014-03-12"
+status = "Pending with the Committee on RULES since 2014-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00962.pdf"
+fileSize = 100064
+author = "Tambunting, Gus S."
+coAuthors = [ "ECHIVERRI, ENRICO \"RECOM\"",]
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2014-03-12"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ECHIVERRI, ENRICO \"RECOM\""
+nameCode = "Echiverri"
+date = "2014-06-09"
+journalNo = "J069"
+sessionNo = "1RS"
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2014-05-05"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 53360
+congress = 16
+bill_no = "HR00962"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-05"

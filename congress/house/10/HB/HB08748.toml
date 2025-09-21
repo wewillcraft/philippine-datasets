@@ -1,0 +1,41 @@
+billNumber = "HB08748"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08748"
+lastScraped = "2025-09-22T00:20:59.032217"
+title = "HB08748"
+longTitle = "AN ACT CONVERTING THE MUNICIPALITY OF CALAMBA INTO A COMPONENT CITY OF THE PROVINCE OF LAGUNA TO BE KNOWN AS THE CITY OF CALAMBA"
+scope = "Local"
+dateFiled = "1997-01-20"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 115169
+congress = 10
+bill_no = "HB08748"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-01-23"

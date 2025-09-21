@@ -1,0 +1,61 @@
+billNumber = "HB01903"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01903"
+lastScraped = "2025-09-21T23:55:44.470189"
+title = "HB01903"
+longTitle = "AN ACT DECLARING THE ENCHANTED RIVER LOCATED IN BARANGAY TALISAY, MUNICIPALITY OF HINATUAN, PROVINCE OF SURIGAO DEL SUR AS A PROTECTED AREA UNDER THE CATEGORY OF NATURAL PARK"
+scope = "Local"
+dateFiled = "2016-07-26"
+status = "Pending with the Committee on NATURAL RESOURCES since 2016-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01903.pdf"
+fileSize = 548702
+author = "Pimentel, Johnny Ty"
+coAuthors = [ "BARBERS, ROBERT ACE S.", "CAYETANO, PIA",]
+[[authorsDetail]]
+name = "Pimentel, Johnny Ty"
+nameCode = "Pimentel"
+date = "2016-07-26"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BARBERS, ROBERT ACE S."
+nameCode = "Barbers"
+date = "2016-08-08"
+journalNo = "J007"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CAYETANO, PIA"
+nameCode = "Cayetano"
+date = "2019-02-07"
+journalNo = "J000"
+sessionNo = "3RS"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "2016-08-03"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 35371
+congress = 17
+bill_no = "HB01903"
+report = ""
+comm_act = ""
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-03"

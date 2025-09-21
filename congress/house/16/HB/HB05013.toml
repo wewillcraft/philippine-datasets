@@ -1,0 +1,52 @@
+billNumber = "HB05013"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB05013"
+lastScraped = "2025-09-21T23:56:22.447137"
+title = "HB05013"
+longTitle = "AN ACT TO PREVENT YOUTH ACCESS TO TOBACCO BY MANDATING A MINIMUM CIGARETTE PRICE"
+scope = "National"
+dateFiled = "2014-09-16"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 2015-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB05013.pdf"
+fileSize = 754492
+author = "MADRONA, ELEANDRO JESUS F."
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = "2014-09-16"
+sequence = 1
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "2014-09-18"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 50827
+congress = 16
+bill_no = "HB05013"
+report = ""
+comm_act = ""
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2015-05-12"
+date_read = "2014-09-18"

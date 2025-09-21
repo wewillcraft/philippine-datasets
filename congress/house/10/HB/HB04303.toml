@@ -1,0 +1,61 @@
+billNumber = "HB04303"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04303"
+lastScraped = "2025-09-22T00:20:58.180105"
+title = "HB04303"
+longTitle = "AN ACT ESTABLISHING A NATIONAL POLICY OF SOURCE REDUCTION IN SOLID WASTE MANAGEMENT AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-10-09"
+status = "Substituted by HB08622"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villar"
+coAuthors = [ "AUMENTADO, ERICO B.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Villar"
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 110724
+congress = 10
+bill_no = "HB04303"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1995-10-23"

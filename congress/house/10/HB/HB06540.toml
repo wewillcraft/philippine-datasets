@@ -1,0 +1,41 @@
+billNumber = "HB06540"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06540"
+lastScraped = "2025-09-22T00:20:58.576354"
+title = "HB06540"
+longTitle = "AN ACT TO AMEND REPUBLIC ACT NO. 6675, ENTITLED 'AN ACT TO PROMOTE, REQUIRE AND ENSURE THE PRODUCTION OF AN ADEQUATE SUPPLY, DISTRIBUTION, USE AND ACCEPTANCE OF DRUGS AND MEDICINES IDENTIFIED BY THEIR GENERIC NAMES'"
+scope = "National"
+dateFiled = "1996-03-12"
+status = "Pending with the Committee on HEALTH since 1996-03-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-03-14"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112961
+congress = 10
+bill_no = "HB06540"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-03-14"

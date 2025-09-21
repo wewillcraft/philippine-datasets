@@ -1,0 +1,50 @@
+billNumber = "HR00250"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00250"
+lastScraped = "2025-09-22T00:20:59.469880"
+title = "HR00250"
+longTitle = "RESOLUTION DIRECTING THE CREATION OF A SPECIAL COMMITTEE TO INVESTIGATE AND INQUIRE, IN AID OF LEGISLATION, INTO THE ALLEGED EXPOSURE OF OVER 7,000 BANANA WORKERS FROM THE HARMFUL EFFECT ON THE USE OF DIBROMOCHLOROPR OPANE OR DBCP, A BANNED U.S. MANUFACTURED PESTICIDE"
+scope = "National"
+dateFiled = "1995-10-06"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almendras"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Almendras"
+nameCode = "Almendras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 117304
+congress = 10
+bill_no = "HR00250"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Agricultur e and Food on Nov. 6, 1996."
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-10-23"

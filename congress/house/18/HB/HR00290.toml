@@ -1,0 +1,47 @@
+billNumber = "HR00290"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00290"
+lastScraped = "2025-09-22T00:01:47.390904"
+title = "HR00290"
+longTitle = "RESOLUTION URGING THE APPROPRIATE HOUSE COMMITTEES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF REPUBLIC ACT 11203, OTHERWISE KNOWN AS THE RICE TARIFFICATION LAW"
+scope = "National"
+dateFiled = "2019-09-02"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00290.pdf"
+fileSize = 250067
+author = "YAP, ERIC GO"
+[[authorsDetail]]
+name = "YAP, ERIC GO"
+nameCode = "Yap (E.)"
+date = "2019-09-02"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2019-09-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 30618
+congress = 18
+bill_no = "HR00290"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-04"

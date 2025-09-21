@@ -1,0 +1,46 @@
+billNumber = "HR00405"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00405"
+lastScraped = "2025-09-22T00:01:47.413230"
+title = "HR00405"
+longTitle = "A RESOLUTION URGING THE DEPARTMENT OF HEALTH TO INCLUDE THE AUTHORS OF THE HOUSE AND SENATE BILLS THAT WERE THE PRECURSORS OF REPUBLIC ACT NO. 11223, OTHERWISE KNOWN AS THE UNIVERSAL HEALTH CARE ACT, IN THE CRAFTING OF THE IMPLEMENTING RULES AND REGULATIONS FOR THE SAME"
+scope = "National"
+dateFiled = "2019-10-01"
+status = "Pending with the Committee on HEALTH since 2019-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00405.pdf"
+fileSize = 452302
+author = "Sarmiento, Edgar Mary S."
+[[authorsDetail]]
+name = "Sarmiento, Edgar Mary S."
+nameCode = "Sarmiento"
+date = "2019-10-01"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2019-10-02"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 30733
+congress = 18
+bill_no = "HR00405"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-10-02"

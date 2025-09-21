@@ -1,0 +1,42 @@
+billNumber = "HB10314"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10314"
+lastScraped = "2025-09-22T00:46:58.395506"
+title = "HB10314"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY EDAY, MUNICIPALITY OF COLUMBIO, PROVINCE OF SULTAN KUDARATAN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY EDAY, MUNICIPALITY OF COLUMBIO, PROVINCE OF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1988-05-19"
+status = "Pending with the Committee on HEALTH since 1988-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 144987
+congress = 8
+bill_no = "HB10314"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-24"

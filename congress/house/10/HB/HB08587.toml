@@ -1,0 +1,54 @@
+billNumber = "HB08587"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08587"
+lastScraped = "2025-09-22T00:20:58.992274"
+title = "HB08587"
+longTitle = "AN ACT TO PROVIDE CASH ALLOWANCES TO ELEMENTARY SCHOOL CHILDREN"
+scope = "National"
+dateFiled = "1996-12-10"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-12-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-12-12"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115008
+congress = 10
+bill_no = "HB08587"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-12-12"

@@ -1,0 +1,44 @@
+billNumber = "PS00060"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=PS00060"
+lastScraped = "2025-09-21T23:39:49.251635"
+title = "PS00060"
+longTitle = "ADVANCING EQUITABLE HEALTHCARE: A PHYSICIAN'S COMMITMENT TO PUBLIC SERVICE"
+dateFiled = "2025-08-26"
+status = "Pending with the Committee on HEALTH since 2025-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+author = "CRUZADO, EDWIN L. M.D."
+[[authorsDetail]]
+name = "CRUZADO, EDWIN L. M.D."
+nameCode = "Cruzado"
+date = "2025-08-26"
+sequence = 1
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2025-08-26"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 4895
+congress = 103
+bill_no = "PS00060"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-02"
+date_read = "2025-08-26"

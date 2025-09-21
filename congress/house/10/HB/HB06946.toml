@@ -1,0 +1,41 @@
+billNumber = "HB06946"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06946"
+lastScraped = "2025-09-22T00:20:58.647767"
+title = "HB06946"
+longTitle = "AN ACT EXCLUDING CERTAIN AREAS IN CAMP JOHN HAY FROM THE OWNERSHIP, ADMINISTRATION AND CONTROL OF THE BASES CONVERSION AND DEVELOPMENT AUTHORITY (BCDA), AMENDING FOR THE PURPOSE THE BASES CONVERSION AND DEVELOPMENT ACT OF 1992"
+scope = "Local"
+dateFiled = "1996-05-13"
+status = "Pending with the Committee on BASES CONVERSION (AD HOC CTTE.) since 1996-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "BASES CONVERSION (AD HOC CTTE.)"
+type = "primary"
+referralCode = "A509"
+dateRead = "1996-05-16"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "principal"
+referralCode = "B513"
+
+[firstReading]
+id = 113367
+congress = 10
+bill_no = "HB06946"
+referral = "A509"
+ref_name = "BASES CONVERSION (AD HOC CTTE.)"
+date_read = "1996-05-16"

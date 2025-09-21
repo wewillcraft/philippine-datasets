@@ -1,0 +1,42 @@
+billNumber = "HB03314"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB03314"
+lastScraped = "2025-09-22T00:46:57.146089"
+title = "HB03314"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF AN ANIMAL BREEDING STATION AND LIVESTOCK FARM IN THE MUNICIPALITY OF PADADA, PROVINCE OF DAVAO DEL SUR"
+scope = "Local"
+dateFiled = "1987-10-30"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1987-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Camasura"
+[[authorsDetail]]
+name = "Camasura"
+nameCode = "Camasura"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1987-11-10"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 138002
+congress = 8
+bill_no = "HB03314"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1987-11-10"

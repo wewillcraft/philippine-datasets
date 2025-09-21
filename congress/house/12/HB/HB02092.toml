@@ -1,0 +1,75 @@
+billNumber = "HB02092"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02092"
+lastScraped = "2025-09-22T00:13:00.178475"
+title = "HB02092"
+longTitle = "AN ACT INSTITUTING THE DANGEROUS DRUGS ACT OF 2001 REPEALING REPUBLIC ACT NO. 6425, AS AMENDED"
+scope = "National"
+dateFiled = "2001-08-07"
+status = "Substituted by HB04433"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Marañon"
+coAuthors = [ "NOGRALES, PROSPERO C.", "ANGPING, HARRY. C.", "ESPINO, AMADO JR. T.",]
+[[authorsDetail]]
+name = "Marañon"
+nameCode = "Marañon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NOGRALES, PROSPERO C."
+nameCode = "Nograles"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ANGPING, HARRY. C."
+nameCode = "Angping"
+date = ""
+journalNo = "J029"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = "J035"
+sessionNo = "1RS"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2001-08-13"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 85252
+congress = 12
+bill_no = "HB02092"
+comm_act = "as per J.35; p.41"
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+date_read = "2001-08-13"

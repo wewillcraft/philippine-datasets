@@ -1,0 +1,46 @@
+billNumber = "HB01913"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01913"
+lastScraped = "2025-09-21T23:39:48.685956"
+title = "HB01913"
+longTitle = "AN ACT EXPANDING THE PANTAWID PAMILYANG PILIPINO PROGRAM (4Ps), AMENDING FOR THE PURPOSE REPUBLIC ACT NO. 11310, OTHERWISE KNOWN AS “AN ACT INSTITUTIONALIZING THE PANTAWID PAMILYANG PILIPINO PROGRAM (4Ps),” AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2025-07-15"
+status = "Pending with the Committee on POVERTY ALLEVIATION since 2025-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01913.pdf"
+fileSize = 519416
+author = "PUMAREN, FRANZ S"
+[[authorsDetail]]
+name = "PUMAREN, FRANZ S"
+nameCode = "Pumaren"
+date = "2025-07-15"
+sequence = 1
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "primary"
+referralCode = "B502"
+dateRead = "2025-07-30"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 1914
+congress = 103
+bill_no = "HB01913"
+report = ""
+comm_act = ""
+referral = "B502"
+ref_name = "POVERTY ALLEVIATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-30"

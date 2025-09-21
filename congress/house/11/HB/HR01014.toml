@@ -1,0 +1,47 @@
+billNumber = "HR01014"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01014"
+lastScraped = "2025-09-22T00:23:18.135948"
+title = "HR01014"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON GOOD GOVERNMENT, FOOD SECURITY AND AGRICULTURE TO CONDUCT FURTHER INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED SMUGGLING OF IMPORTED SUGAR COMMITTED BY SOUTH EAST ASIA SUGAR MILLING COMPANY AND GERRY COMMERCIALS AND THE EXTENT OF SUGAR SMUGGLING INTO THE COUNTRY"
+scope = "National"
+dateFiled = "1999-07-14"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1999-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "LEDESMA, JULIO A., IV"
+[[authorsDetail]]
+name = "LEDESMA, JULIO A., IV"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1999-07-27"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 105470
+congress = 11
+bill_no = "HR01014"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1999-07-27"

@@ -1,0 +1,64 @@
+billNumber = "HB11839"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11839"
+lastScraped = "2025-09-22T00:25:56.776833"
+title = "HB11839"
+longTitle = "AN ACT ESTABLISHING REGIONAL BRANCHES OF THE \"SANDIGANBAYAN\" IN THE VISAYAS AND MINDANAO, AND PROVIDING FOR TERRITORIAL JURISDICTION OF EACH DIVISION, AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED SIXTEEN HUNDRED AND SIX"
+scope = "Local"
+dateFiled = "1994-01-26"
+status = "Pending with the Committee on JUSTICE since 1994-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "AUMENTADO, ERICO B.", "DEL MAR, RAUL V.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO B."
+nameCode = "Aumentado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1994-02-01"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130454
+congress = 9
+bill_no = "HB11839"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1994-02-01"

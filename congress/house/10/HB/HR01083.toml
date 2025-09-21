@@ -1,0 +1,62 @@
+billNumber = "HR01083"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01083"
+lastScraped = "2025-09-22T00:20:59.634947"
+title = "HR01083"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE CONGRESSIONAL COMMITTEES TO CONDUCT AN INQUIRY AND REVIEW ON THE UTILIZATION OF 'CONFIDENTIAL AND/OR INTELLIGENCE EXPENSES' BY GOVERNMENT ENTITIES"
+scope = "National"
+dateFiled = "1997-02-10"
+status = "Pending with the Committee on RULES since 1997-02-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+coAuthors = [ "JOAQUIN, NEREO R.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-02-11"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 118137
+congress = 10
+bill_no = "HR01083"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Good Government on Feb. 12, 1997."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-02-11"

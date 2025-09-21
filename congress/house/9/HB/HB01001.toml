@@ -1,0 +1,83 @@
+billNumber = "HB01001"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01001"
+lastScraped = "2025-09-22T00:25:54.776201"
+title = "HB01001"
+longTitle = "AN ACT INCREASING THE SALARIES AND GRANTING OTHER BENEFITS TO BARANGAY OFFICIALS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-08-13"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1992-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+coAuthors = [ "GOLEZ, ROILO", "MERCADO, ROGER G.", "REYES, CARMENCITA O.", "SANCHEZ, MANUEL R.", "PUNZALAN, MARCIAL JR. C.",]
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GOLEZ, ROILO"
+nameCode = "Golez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MERCADO, ROGER G."
+nameCode = "Mercado"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "REYES, CARMENCITA O."
+nameCode = "Reyes"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SANCHEZ, MANUEL R."
+nameCode = "Sanchez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PUNZALAN, MARCIAL JR. C."
+nameCode = "Punzalan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119620
+congress = 9
+bill_no = "HB01001"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1992-08-20"

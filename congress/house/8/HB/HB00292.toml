@@ -1,0 +1,50 @@
+billNumber = "HB00292"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00292"
+lastScraped = "2025-09-22T00:46:56.609603"
+title = "HB00292"
+longTitle = "AN ACT PROVIDING THE ESTABLISHMENT, MAINTENANCE AND OPERATION OF A PUBLIC HOSPITAL IN THE MUNICIPALITY OF MABINAY, PROVINCE OF NEGROS ORIENTAL, AND AUTHORIZING THE APPROPRIATION OF FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-11"
+status = "Pending with the Committee on HEALTH since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+coAuthors = [ "TEVES, MARGARITO B.",]
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "TEVES, MARGARITO B."
+nameCode = "Teves"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "principal"
+referralCode = "0536"
+
+[firstReading]
+id = 134989
+congress = 8
+bill_no = "HB00292"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-08-13"

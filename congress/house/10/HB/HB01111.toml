@@ -1,0 +1,54 @@
+billNumber = "HB01111"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01111"
+lastScraped = "2025-09-22T00:20:57.564970"
+title = "HB01111"
+longTitle = "AN ACT PROVIDING REASONABLE COMPENSATION AND BENEFITS FOR LOSS OF LIVES, INJURIES AND DAMAGES TO PROPERTY SUFFERED BY NONCOMBATANT INDIVIDUALS IN THE COURSE OF MILITARY OR POLICE OPERATIONS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-07-20"
+status = "Pending with the Committee on CIVIL, POLITICAL AND HUMAN RIGHTS since 1995-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tajon"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Tajon"
+nameCode = "Tajon"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+type = "primary"
+referralCode = "0519"
+dateRead = "1995-07-31"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107532
+congress = 10
+bill_no = "HB01111"
+referral = "0519"
+ref_name = "CIVIL, POLITICAL AND HUMAN RIGHTS"
+date_read = "1995-07-31"

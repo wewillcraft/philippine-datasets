@@ -1,0 +1,42 @@
+billNumber = "HB12745"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12745"
+lastScraped = "2025-09-22T00:25:56.957156"
+title = "HB12745"
+longTitle = "AN ACT PROVIDING FOR THE ISSUANCE OF SOCIAL SECURITY NUMBER TO ALL CITIZENS OF THE PHILIPPINES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1994-05-17"
+status = "Pending with the Committee on SOCIAL SERVICES since 1994-05-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1994-05-23"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131354
+congress = 9
+bill_no = "HB12745"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+date_read = "1994-05-23"

@@ -1,0 +1,41 @@
+billNumber = "HR01253"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01253"
+lastScraped = "2025-09-22T00:20:59.665981"
+title = "HR01253"
+longTitle = "RESOLUTION CALLING FOR A CONGRESSIONAL INQUIRY ON THE PRICING SCHEME OF RESTAURANTS, CANTEENS AND FOOD CENTERS IN BUS TERMINAL, INCLUDING BUS STOP-OVER WHICH UNREASONABLY PUSH HIGH PRICES TO TRAVELLERS NATIONWIDE"
+scope = "National"
+dateFiled = "1997-06-05"
+status = "Pending with the Committee on TRADE AND INDUSTRY since 1997-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1997-07-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118307
+congress = 10
+bill_no = "HR01253"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1997-07-29"

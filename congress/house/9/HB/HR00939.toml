@@ -1,0 +1,43 @@
+billNumber = "HR00939"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00939"
+lastScraped = "2025-09-22T00:25:57.540657"
+title = "HR00939"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT IN AID OF LEGISLATION, AN INVESTIGATION INTO THE \"ROOT CAUSES, NATURE AND STATUS OF CRIMINAL AND ADMINISTRATIVE CASES FILED AGAINST GOVERNMENT OFFICIALS WITH THE OFFICE OF THE OMBUDSMAN, AND TO RECOMMEND THE LEGISLATIVE REMEDIES NEEDED TO SPEED UP THE CAMPAIGN AGAINST GRAFT AND CORRUPTION\""
+scope = "National"
+dateFiled = "1994-02-15"
+status = "Pending with the Committee on GOOD GOVERNMENT since 1994-02-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gillego"
+[[authorsDetail]]
+name = "Gillego"
+nameCode = "Gillego"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "1994-02-17"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 134246
+congress = 9
+bill_no = "HR00939"
+comm_act = "Change of referral from the Committee on Rules (J.58,p.33 )"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "1994-02-17"

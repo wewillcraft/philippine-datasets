@@ -1,0 +1,47 @@
+billNumber = "HB04318"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04318"
+lastScraped = "2025-09-22T00:13:00.573961"
+title = "HB04318"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A BARANGAY HEALTH CENTER IN BARANGAY CATANDALA, BATANGAS CITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-01-31"
+status = "Pending with the Committee on HEALTH since 2002-02-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2002-02-06"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87478
+congress = 12
+bill_no = "HB04318"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2002-02-06"

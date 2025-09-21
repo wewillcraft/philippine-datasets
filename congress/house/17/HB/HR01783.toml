@@ -1,0 +1,47 @@
+billNumber = "HR01783"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01783"
+lastScraped = "2025-09-21T23:55:46.594684"
+title = "HR01783"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES COMMITTEE ON NATURAL RESOURCES TO INVESTIGATE IN AID OF LEGISLATION THE ENVIRONMENTAL IMPACT OF THE NEGROS ETHANOL PLANT OF UNIVERSAL ROBINA SUGAR MILLING CORP. (URSMC)"
+scope = "National"
+dateFiled = "2018-03-15"
+status = "Pending with the Committee on ECOLOGY since 2018-05-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01783.pdf"
+fileSize = 244035
+author = "Teves, Arnolfo \"Arnie\" Jr. A."
+[[authorsDetail]]
+name = "Teves, Arnolfo \"Arnie\" Jr. A."
+nameCode = "Teves"
+date = "2018-03-15"
+sequence = 1
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2018-03-20"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 44525
+congress = 17
+bill_no = "HR01783"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-05-16"
+date_read = "2018-03-20"

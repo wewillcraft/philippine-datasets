@@ -1,0 +1,42 @@
+billNumber = "HR00261"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00261"
+lastScraped = "2025-09-22T00:20:59.471839"
+title = "HR00261"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON LOCAL GOVERNMENT, AGRICULTURE AND FOOD, AND NATURAL RESOURCES TO IDENTIFY THE POLICY GAPS AND IMPLEMENTATION PROBLEMS ARISING FROM THE DEVOLUTION OF AGRICULTURAL, FISHERIES AND COMMUNITY-BASED FORESTRY PROGRAMS AND SERVICES TO THE LOCAL GOVERNMENT UNITS, AND TO RECOMMEND APPROPRIATE REMEDIAL MEASURES"
+scope = "National"
+dateFiled = "1995-10-17"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1995-10-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1995-10-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117315
+congress = 10
+bill_no = "HR00261"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Local Government on Oct. 25, 1995."
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1995-10-25"

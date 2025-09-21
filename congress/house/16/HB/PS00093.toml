@@ -1,0 +1,46 @@
+billNumber = "PS00093"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=PS00093"
+lastScraped = "2025-09-21T23:56:23.309744"
+title = "I M E M Electric Price Increase In Mindanao"
+longTitle = "INTERIM MINDANAO ELECTRICTY MARKET"
+scope = "National"
+dateFiled = "2013-11-26"
+status = "Pending with the Committee on ENERGY since 2013-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/PS093_Rep. Rodriguez (M.).pdf"
+fileSize = 80929
+author = "RODRIGUEZ, MAXIMO B., JR."
+[[authorsDetail]]
+name = "RODRIGUEZ, MAXIMO B., JR."
+nameCode = "Rodriguez (M.)"
+date = "2013-11-26"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2013-12-03"
+
+[[committee]]
+name = "HUMAN RIGHTS"
+type = "principal"
+referralCode = "E507"
+
+[firstReading]
+id = 55201
+congress = 16
+bill_no = "PS00093"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-12-03"

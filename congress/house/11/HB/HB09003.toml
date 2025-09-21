@@ -1,0 +1,75 @@
+billNumber = "HB09003"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB09003"
+lastScraped = "2025-09-22T00:23:17.242412"
+title = "HB09003"
+longTitle = "AN ACT CREATING A SEPARATE ENGINEERING DISTRICT IN THE SECOND CONGRESSIONAL DISTRICT IN THE PROVINCE OF ILOILO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-01-06"
+status = "REPUBLIC ACT RA09004 (Lapsed into law on 2001-01-27)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Syjuco, Augusto Boboy, Ph.D."
+[[authorsDetail]]
+name = "Syjuco, Augusto Boboy, Ph.D."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "2000-01-12"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 100437
+congress = 11
+bill_no = "HB09003"
+report = "00957"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = "APPROPRIATIONS, PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendments"
+date_read = "2000-01-12"
+date_ob = "2000-07-17"
+date_report = "2000-06-02"
+
+[secondReading]
+id = 17062
+congress = 11
+bill_no = "HB09003"
+remarks = "The Body approved to consider the Explanatory Note of the Bill as the sponsorship speech."
+date_approved = "2000-07-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 4307
+congress = 11
+bill_no = "HB09003"
+date_dist = "2000-08-02"
+date_adopt = "2000-08-09"
+no_yeas = 145
+no_nays = 0
+no_abstent = 0
+date_trans = "2000-08-10"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "2000-12-27"
+dte_actedp = "2001-01-27"

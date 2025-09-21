@@ -1,0 +1,60 @@
+billNumber = "HR00148"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00148"
+lastScraped = "2025-09-22T00:13:01.170463"
+title = "Investigating the Alleged Cartel of Globe and Smart as Seen in the Simultaneous Free Text Reduction Scheme"
+longTitle = "RESOLUTION DIRECTING APPROPRIATE COMMITTEE/S OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED CARTEL OF THE GLOBE TELECOM INC. AND SMART COMMUNICATIONS INC. AS SEEN IN THEIR SIMULTANEOUS AND ARBITRARY FREE TEXT REDUCTION SCHEME"
+scope = "Local"
+dateFiled = "2001-08-28"
+status = "Adopted Resolution (Pending with the committee on TRANSPORTATION AND COMMUNICATIONS since 2001-10-17)"
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Saludo"
+[[authorsDetail]]
+name = "Saludo"
+nameCode = "Saludo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-09-03"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 90087
+congress = 12
+bill_no = "HR00148"
+report = "00030"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval with amendments ."
+date_read = "2001-09-03"
+date_ob = "2001-10-08"
+date_report = "2001-10-05"
+
+[secondReading]
+id = 14950
+congress = 12
+bill_no = "HR00148"
+adopted_resolution = "HR00037"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED CARTEL OF THE GLOBE TELECOM INC. AND SMART COMMUNICATIONS INC. AS SEEN IN THEIR SIMULTANEOUS AND ARBITRARY FREE TEXT REDUCTION SCHEME"
+date_calendared = "2001-10-06"
+date_approved = "2001-10-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2001-10-17"
+file = "HR00037.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_12/HR00037.pdf"

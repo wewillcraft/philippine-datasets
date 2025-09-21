@@ -1,0 +1,57 @@
+billNumber = "HB09902"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB09902"
+lastScraped = "2025-09-22T00:01:47.079516"
+title = "HB09902"
+longTitle = "AN ACT PROVIDING FREE LEGAL ASSISTANCE TO ANY OFFICER OR ENLISTED PERSONNEL OF THE ARMED FORCES OF THE PHILIPPINES AND THE PHILIPPINE NATIONAL  POLICE ON ANY CHARGE BEFORE THE PROSECUTOR'S OFFICE, COURT OR ANY COMPETENT BODY ARISING FROM AN INCIDENT OR INCIDENTS RELATED TO THE PERFORMANCE OF OFFICIAL DUTY"
+scope = "National"
+dateFiled = "2021-07-30"
+status = "Pending with the Committee on JUSTICE since 2021-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB09902.pdf"
+fileSize = 366654
+author = "Salvador-Tambunting, Joy Myra"
+[[authorsDetail]]
+name = "Salvador-Tambunting, Joy Myra"
+nameCode = "Salvador-Tambunting"
+date = "2021-07-30"
+sequence = 1
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2021-08-04"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 29307
+congress = 18
+bill_no = "HB09902"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-08-24"
+date_read = "2021-08-04"

@@ -1,0 +1,53 @@
+billNumber = "HR00105"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00105"
+lastScraped = "2025-09-22T00:13:01.161968"
+title = "HR00105"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON TRANSPORTATION AND COMMUNICATIONS TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE COMPLAINT OF RESIDENTS NEAR THE AIRPORT CONCERNING THE NOISE POLLUTION CAUSED BY ARRIVING AND DEPARTING AIRPLANES ANDTO RECOMMEND APPROPRIATE MEASURES FOR THE ABATEMENT OF THE SAME"
+scope = "Local"
+dateFiled = "2001-08-10"
+status = "Pending with the Committee on RULES since 2001-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zialcita, Eduardo C."
+[[authorsDetail]]
+name = "Zialcita, Eduardo C."
+nameCode = "Zialcita"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 90044
+congress = 12
+bill_no = "HR00105"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Ecology and Transporta tion and Communi"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2001-08-20"

@@ -1,0 +1,101 @@
+billNumber = "HB03287"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03287"
+lastScraped = "2025-09-22T00:20:57.981628"
+title = "HB03287"
+longTitle = "AN ACT TO GRANT FILIPINO CITIZENSHIP TO REV. FR. PAUL VAN PARIJS, CICM"
+scope = "Local"
+dateFiled = "1995-09-06"
+status = "REPUBLIC ACT (RA08266) enacted on 1997-02-20"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Belmonte, Feliciano Jr. R."
+coAuthors = [ "LIBAN, DANTE V.", "DEL ROSARIO, RODOLFO P.", "VERGARA, BERNARDO M.",]
+[[authorsDetail]]
+name = "Belmonte, Feliciano Jr. R."
+nameCode = "Belmonte"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, RODOLFO P."
+nameCode = "Del Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VERGARA, BERNARDO M."
+nameCode = "Vergara"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[motherBills]]
+bill_no = "HB03577"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB03577"
+flag = "S"
+
+[firstReading]
+id = 109708
+congress = 10
+bill_no = "HB03287"
+report = "00493"
+referral = "0520"
+ref_name = "JUSTICE"
+recomm = "approval"
+date_read = "1995-09-18"
+date_ob = "1996-07-23"
+date_unass = "1996-07-30"
+date_report = "1996-06-11"
+
+[secondReading]
+id = 17995
+congress = 10
+bill_no = "HB03287"
+date_calendared = "1996-08-15"
+date_approved = "1996-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2607
+congress = 10
+bill_no = "HB03287"
+date_dist = "1996-08-21"
+date_adopt = "1996-08-27"
+no_yeas = 118
+no_nays = 2
+no_abstent = 0
+date_trans = "1996-08-28"
+date_rec = "1996-08-30"
+amend_ind = "N"
+act_pres = "A"
+dte_transp = "1997-01-17"
+dte_actedp = "1997-02-20"

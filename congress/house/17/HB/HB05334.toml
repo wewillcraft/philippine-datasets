@@ -1,0 +1,61 @@
+billNumber = "HB05334"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB05334"
+lastScraped = "2025-09-21T23:55:45.143606"
+title = "HB05334"
+longTitle = "AN ACT REQUIRING ALL EMERGENCY VEHICLES TO BE EQUIPPED WITH DASHBOARD CAMERAS FOR THE BENEFIT OF THE DRIVER AND OTHER INDIVIDUALS AND GROUPS INVOLVED, APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2017-03-20"
+status = "Pending with the Committee on TRANSPORTATION since 2017-05-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB05334.pdf"
+fileSize = 258347
+author = "Lee, Delphine Gan"
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "VIOLAGO, MICALEA S.",]
+[[authorsDetail]]
+name = "Lee, Delphine Gan"
+nameCode = "Lee"
+date = "2017-03-20"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2017-05-30"
+journalNo = "J096"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2017-08-01"
+journalNo = "J005"
+sessionNo = "2RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2017-05-02"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 38802
+congress = 17
+bill_no = "HB05334"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-05-02"

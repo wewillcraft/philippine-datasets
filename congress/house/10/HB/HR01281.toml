@@ -1,0 +1,61 @@
+billNumber = "HR01281"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01281"
+lastScraped = "2025-09-22T00:20:59.670646"
+title = "HR01281"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECOLOGY AND ON NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE PLAN OF THE PHILIPPINE NATIONAL OIL COMPANY ENERGY DEVELOPMENT CORPORATION TO CONDUCT MINING EXPLORATION WITHIN THE LEYTE GEOTHERMAL RESERVATION AND THE MOUNT PANGASUGAN AND MOUNT BATO WATERSHED RESERVATIONS IN LEYTE PROVINCE"
+scope = "Local"
+dateFiled = "1997-07-21"
+status = "Pending with the Committee on ECOLOGY since 1997-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "LIBAN, DANTE V.", "BAGATSING, RAMON JR. S.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-07-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 118335
+congress = 10
+bill_no = "HR01281"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-07-31"

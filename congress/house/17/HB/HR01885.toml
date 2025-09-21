@@ -1,0 +1,88 @@
+billNumber = "HR01885"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01885"
+lastScraped = "2025-09-21T23:55:46.613805"
+title = "HR01885"
+longTitle = "A RESOLUTION URGING THE DEPARTMENT OF HEALTH TO PROMOTE HARM REDUCTION MEASURES, AS PART OF ITS NATIONAL TOBACCO CONTROL STRATEGY, PARTICULARLY THE USE OF ELECTRONIC CIGARETTES AS AN ALTERNATIVE FOR SMOKERS"
+scope = "National"
+dateFiled = "2018-05-16"
+status = "Adopted as Resolution No. HR00125 on 2018-05-30"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bravo, Anthony M., Ph.D."
+[[authorsDetail]]
+name = "Bravo, Anthony M., Ph.D."
+nameCode = "Bravo (A.)"
+date = "2018-05-16"
+sequence = 1
+
+[[authorsDetail]]
+name = "Tejada, Jose  \"PingPing\" I."
+nameCode = "Tejada"
+date = "2018-05-16"
+sequence = 2
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2018-05-21"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00973"
+sequence = 1
+date = "2018-05-16"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00973"
+sequence = 1
+date = "2018-05-16"
+flag = "S"
+
+[firstReading]
+id = 44627
+congress = 17
+bill_no = "HR01885"
+report = "00735"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "HEALTH, TRADE AND INDUSTRY"
+recomm = "Recommending its adoption in substitution of House Resolution No. 973"
+remarks = ""
+file = "CR00735.pdf"
+date_read = "2018-05-21"
+date_ob = "2018-05-21"
+date_report = "2018-05-16"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_17/CR00735.pdf"
+
+[secondReading]
+id = 4241
+congress = 17
+bill_no = "HR01885"
+adopted_resolution = "HR00125"
+adopted_resolution_title = "A RESOLUTION URGING THE DEPARTMENT OF HEALTH TO PROMOTE HARM REDUCTION MEASURES, AS PART OF ITS NATIONAL TOBACCO CONTROL STRATEGY, PARTICULARLY THE USE OF ELECTRONIC CIGARETTES AS AN ALTERNATIVE FOR SMOKERS"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2018-05-29"
+date_approved = "2018-05-30"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01885.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_17/HR01885.pdf"

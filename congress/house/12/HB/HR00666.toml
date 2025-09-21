@@ -1,0 +1,65 @@
+billNumber = "HR00666"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR00666"
+lastScraped = "2025-09-22T00:13:01.290186"
+title = "Alleged Mismanagement of a Property in Fort Bonifacio Administered by the Veterans Federation of the Philippines"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON VETERANS AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED MISMANAGEMENT OF THE PROPERTY LOCATED IN FORT BONIFACIO ADMINISTERED BY THE VETERANS FEDERATION OF THE PHILIPPINES IN BEHALF OF WORLDWAR II VETERANS"
+scope = "Local"
+dateFiled = "2002-07-30"
+status = ""
+statusOrder = 5.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dumpit, Tomas M."
+coAuthors = [ "RULES",]
+[[authorsDetail]]
+name = "Dumpit, Tomas M."
+nameCode = "Dumpit"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RULES"
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2002-08-05"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 90603
+congress = 12
+bill_no = "HR00666"
+report = "00735"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval without amendments ."
+date_read = "2002-08-05"
+date_report = "2002-08-28"
+
+[secondReading]
+id = 15279
+congress = 12
+bill_no = "HR00666"
+adopted_resolution = "HR00362"
+adopted_resolution_title = "RESOLUTION DIRECTING THE COMMITTEE ON VETERANS AFFAIRS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED MISMANAGEMENT OF THE PROPERTY LOCATED IN FORT BONIFACIO ADMINISTERED BY THE VETERANS FEDERATION OF THE PHILIPPINES IN BEHALF OF WORLD WAR II VETERANS"
+date_calendared = "2002-09-04"
+date_approved = "2002-09-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+date_refferral = "2002-09-04"

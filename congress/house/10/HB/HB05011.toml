@@ -1,0 +1,46 @@
+billNumber = "HB05011"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05011"
+lastScraped = "2025-09-22T00:20:58.298735"
+title = "HB05011"
+longTitle = "AN ACT REHABILITATING THE PROVINCES OF REGION IV OR THE SOUTHERN TAGALOG PROVINCES WHICH WERE HEAVILY DAMAGED BY TYPHOON ROSING AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-11-13"
+status = "Pending with the Committee on SOCIAL SERVICES since 1995-11-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "1995-11-16"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111432
+congress = 10
+bill_no = "HB05011"
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+date_read = "1995-11-16"

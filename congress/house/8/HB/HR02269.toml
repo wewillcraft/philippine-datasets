@@ -1,0 +1,57 @@
+billNumber = "HR02269"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02269"
+lastScraped = "2025-09-22T00:47:02.993334"
+title = "HR02269"
+longTitle = "RESOLUTION URGENTLY SEEKING THE ROLLBACK OF FUEL PRICES TO DECEMBER 1990 LEVELS AS SOON AS THE DEFICIT OF THE OIL PRICE STABILIZATION FUND HAS BEEN WIPED OUT"
+scope = "National"
+dateFiled = "1991-05-24"
+status = "Pending with the Committee on ENERGY since 1991-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mar"
+coAuthors = [ "LABARIA, VIOLETA T.", "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Mar"
+nameCode = "Mar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LABARIA, VIOLETA T."
+nameCode = "Labaria"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1991-05-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 172103
+congress = 8
+bill_no = "HR02269"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1991-05-29"

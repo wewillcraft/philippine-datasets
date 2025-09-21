@@ -1,0 +1,49 @@
+billNumber = "HR01213"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01213"
+lastScraped = "2025-09-22T00:20:59.659479"
+title = "HR01213"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE MASSIVE POLLUTION OF THE SOGOD BAY IN THE PROVINCE OF SOUTHERN LEYTE ALLEGEDLY DUE TO THE INDISCRIMINATE DUMPING OF TOXIC CHEMICAL WASTES BY THE SHEMBERG MARKETING CORPORATION, OWNER OF A STONE-CRUSHING PLANT IN SUBANGDAKU RIVER"
+scope = "Local"
+dateFiled = "1997-05-13"
+status = "Pending with the Committee on NATURAL RESOURCES since 1997-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1997-05-15"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118267
+congress = 10
+bill_no = "HR01213"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1997-05-15"

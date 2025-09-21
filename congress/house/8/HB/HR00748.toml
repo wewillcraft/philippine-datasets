@@ -1,0 +1,44 @@
+billNumber = "HR00748"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00748"
+lastScraped = "2025-09-22T00:47:02.672815"
+title = "HR00748"
+longTitle = "RESOLUTION REQUIRING FOREIGN MILITARY INSTALLATIONS TO USE THEIR OWN POWER-GENERATIN G FACILITIES DURING PERIODS OF SHORTAGE"
+scope = "Local"
+dateFiled = "1988-06-06"
+status = "Pending with the Committee on RULES since 1988-06-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-06-09"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 170629
+congress = 8
+bill_no = "HR00748"
+report = "00212"
+referral = "532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval"
+date_read = "1988-06-09"
+date_report = "1988-06-09"

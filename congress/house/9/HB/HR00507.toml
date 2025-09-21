@@ -1,0 +1,42 @@
+billNumber = "HR00507"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00507"
+lastScraped = "2025-09-22T00:25:57.458609"
+title = "HR00507"
+longTitle = "RESOLUTION URGING THE PHILIPPINE COCONUT AUTHORITY TO SUSPEND THE BIDDING FOR THE PROCUREMENT OF FERTILIZERS SCHEDULED IN THE FIRST QUARTER OF 1993 UNTIL THE HOUSE COMMITTEE ON AGRICULTURE HAS FINISHED ITS EVALUATION OF THE EFFECTIVENESS OF THE FERTILIZER PROCUREMENT PROGRAM IN PROVIDING ASSISTANCE TO THE SMALL COCONUT FARMERS"
+scope = "National"
+dateFiled = "1993-02-22"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-03-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133819
+congress = 9
+bill_no = "HR00507"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-03-01"

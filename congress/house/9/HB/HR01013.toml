@@ -1,0 +1,42 @@
+billNumber = "HR01013"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01013"
+lastScraped = "2025-09-22T00:25:57.554232"
+title = "HR01013"
+longTitle = "RESOLUTION REQUESTING HIS EXCELLENCY, PRESIDENT FIDEL V. RAMOS TO SET ASIDE TEN MILLION PESOS OF HIS SOCIAL FUNDS FOR LIVELIHOOD PROJECTS TO BE AVAILED OF BY WOMEN"
+scope = "National"
+dateFiled = "1994-04-12"
+status = "Pending with the Committee on WOMEN since 1994-04-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Luciano"
+[[authorsDetail]]
+name = "Luciano"
+nameCode = "Luciano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "1994-04-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134320
+congress = 9
+bill_no = "HR01013"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "1994-04-14"

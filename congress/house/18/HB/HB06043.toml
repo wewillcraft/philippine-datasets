@@ -1,0 +1,54 @@
+billNumber = "HB06043"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB06043"
+lastScraped = "2025-09-22T00:01:46.185303"
+title = "HB06043"
+longTitle = "AN ACT CREATING THE SOLAR ENERGY DEVELOPMENT CENTER AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2020-01-23"
+status = "Pending with the Committee on ENERGY since 2020-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB06043.pdf"
+fileSize = 2772761
+author = "Vargas, Alfred D."
+coAuthors = [ "DEL MAR, RAUL V.",]
+[[authorsDetail]]
+name = "Vargas, Alfred D."
+nameCode = "Vargas"
+date = "2020-01-23"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DEL MAR, RAUL V."
+nameCode = "Del Mar"
+date = "2020-02-12"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2020-01-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 25451
+congress = 18
+bill_no = "HB06043"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-01-29"

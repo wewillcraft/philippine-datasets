@@ -1,0 +1,46 @@
+billNumber = "HB10032"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10032"
+lastScraped = "2025-09-22T00:20:59.292175"
+title = "HB10032"
+longTitle = "AN ACT ESTABLISHING TWO ADDITIONAL BRANCHES OF THE MUNICIPAL TRIAL COURT IN THE CITY OF BAGUIO, AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 129, OTHERWISE KNOWN AS THE 'JUDICIARY REORGANIZATION ACT OF 1980', AS AMENDED, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-01"
+status = "Pending with the Committee on JUSTICE since 1997-10-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-10-06"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116453
+congress = 10
+bill_no = "HB10032"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-10-06"

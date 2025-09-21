@@ -1,0 +1,54 @@
+billNumber = "HB01169"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01169"
+lastScraped = "2025-09-21T23:55:44.305734"
+title = "HB01169"
+longTitle = "AN ACT MANDATING ALL TOLLWAY OPERATORS TO IMPLEMENT TAX HOLIDAYS FROM 10:00 PM OF DECEMBER 24 UNTIL 6:00 AM OF DECEMBER 25 AND 10:00 PM OF DECEMBER 31 UNTIL 6:00 AM OF JANUARY 1\r\n"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on TRANSPORTATION since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01169.pdf"
+fileSize = 289787
+author = "OLIVAREZ, ERIC L."
+coAuthors = [ "ABAYON, HARLIN NEIL III J.",]
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN NEIL III J."
+nameCode = "Abayon"
+date = "2016-08-17"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 34637
+congress = 17
+bill_no = "HB01169"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

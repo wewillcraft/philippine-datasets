@@ -1,0 +1,42 @@
+billNumber = "HB07949"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB07949"
+lastScraped = "2025-09-22T00:46:57.993101"
+title = "HB07949"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY BAYAWA, MUNICIPALITY OF PRESIDENT QUIRINO,PROVINC E OF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1988-04-21"
+status = "Pending with the Committee on HEALTH since 1988-04-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-04-26"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 142627
+congress = 8
+bill_no = "HB07949"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-04-26"

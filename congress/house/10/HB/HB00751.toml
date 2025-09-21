@@ -1,0 +1,54 @@
+billNumber = "HB00751"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB00751"
+lastScraped = "2025-09-22T00:20:57.504004"
+title = "HB00751"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF VOCATIONAL AND TECHNICAL SCHOOLS IN ALL MUNICIPALITIES WHICH SHALL OFFER FREE VOCATIONAL AND TECHNICAL COURSES TO ALL HIGH SCHOOL GRADUATES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1995-07-12"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+coAuthors = [ "LAZATIN, CARMELO F.",]
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO F."
+nameCode = "Lazatin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-07-27"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107172
+congress = 10
+bill_no = "HB00751"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-07-27"

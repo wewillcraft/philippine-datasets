@@ -1,0 +1,51 @@
+billNumber = "TB00001"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=TB00001"
+lastScraped = "2025-09-22T00:25:57.627154"
+title = "TB00001"
+longTitle = "TEMPORARY BILL FOR SB00317"
+scope = "National"
+dateFiled = "1993-03-09"
+status = "REPUBLIC ACT (RA07688) enacted on 1994-03-03"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1993-03-15"
+
+[firstReading]
+id = 134698
+congress = 9
+bill_no = "TB00001"
+report = "00442"
+comm_act = "approval without amendments on December 14, 1993"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+date_read = "1993-03-15"
+date_ob = "1993-12-14"
+date_cal = "1993-12-14"
+date_report = "1993-12-14"
+
+[secondReading]
+id = 20215
+congress = 9
+bill_no = "TB00001"
+date_approved = "1993-12-14"
+adopted_resolution_with_amendment = "N"
+
+[thirdReading]
+id = 2286
+congress = 9
+bill_no = "TB00001"
+date_dist = "1993-12-14"
+date_adopt = "1993-12-17"
+no_yeas = 118
+date_trans = "1994-01-03"
+dte_actedp = "1994-03-03"

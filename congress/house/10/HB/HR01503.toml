@@ -1,0 +1,41 @@
+billNumber = "HR01503"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01503"
+lastScraped = "2025-09-22T00:20:59.709890"
+title = "HR01503"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, OF THE ALLEGED OVERCHARGING OF CONSUMERS PERPETRATED BY MERALCO, WITH A VIEW TO PINPOINT ACCOUNTABILITIE S AND RECOMMEND REMEDIAL ACTIONS AS MAY BE NECESSARY, AS WELL AS THE FILING OF APPROPRIATE ADMINISTRATIVE, CIVIL AND CRIMINAL CHARGES AS THE EVIDENCE WARRANTS AGAINST ANY AND ALL PERSONS INVOLVED IN SUCH ALLEGED UNLAWFUL PRACTICE"
+scope = "Local"
+dateFiled = "1998-01-29"
+status = "Pending with the Committee on ENERGY since 1998-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "1998-01-30"
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "principal"
+referralCode = "D501"
+
+[firstReading]
+id = 118557
+congress = 10
+bill_no = "HR01503"
+referral = "0510"
+ref_name = "ENERGY"
+date_read = "1998-01-30"

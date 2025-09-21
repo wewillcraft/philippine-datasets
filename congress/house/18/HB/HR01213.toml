@@ -1,0 +1,55 @@
+billNumber = "HR01213"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01213"
+lastScraped = "2025-09-22T00:01:47.565741"
+title = "HR01213"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES COMMITTEE ON AGRICULTURE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE CONTINUED IMPORTATION OF CORN SUBSTITUTES AND THE GOVERNMENT´S FAILURE TO IMPLEMENT AN EFFECTIVE PRICE SUPPORT SYSTEM FOR CORN PRODUCTS THAT IS DETRIMENTAL TO THE PLIGHT OF THE LOCAL CORN FARMERS"
+scope = "National"
+dateFiled = "2020-09-17"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2021-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01213.pdf"
+fileSize = 1183233
+author = "FLORES, JONATHAN KEITH T."
+coAuthors = [ "CABATBAT, ARGEL JOSEPH T.",]
+[[authorsDetail]]
+name = "FLORES, JONATHAN KEITH T."
+nameCode = "Flores"
+date = "2020-09-17"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CABATBAT, ARGEL JOSEPH T."
+nameCode = "Cabatbat"
+date = "2020-09-22"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2020-09-22"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 31532
+congress = 18
+bill_no = "HR01213"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2021-01-20"
+date_read = "2020-09-22"

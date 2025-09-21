@@ -1,0 +1,42 @@
+billNumber = "HB05949"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05949"
+lastScraped = "2025-09-22T00:46:57.672929"
+title = "HB05949"
+longTitle = "AN ACT ESTABLISHING A TEN-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF BONIFACIO, PROVINCE OF MISAMIS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-03-03"
+status = "Pending with the Committee on HEALTH since 1988-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramiro"
+[[authorsDetail]]
+name = "Ramiro"
+nameCode = "Ramiro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 140630
+congress = 8
+bill_no = "HB05949"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-07"

@@ -1,0 +1,82 @@
+billNumber = "HB00556"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00556"
+lastScraped = "2025-09-21T23:56:21.577649"
+title = "HB00556"
+longTitle = "AN ACT GRANTING INCENTIVES AND OTHER BENEFITS TO RURAL HEALTH UNIT DOCTORS AND FOE OTHER PURPOSES"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on HEALTH since 2013-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00556.pdf"
+fileSize = 220349
+author = "MERCADO-REVILLA, LANI"
+coAuthors = [ "SUANSING, GING", "KHO, ELISA T.", "TAMBUNTING, GUSTAVO S.", "ARAGONES, SOL", "CHIPECO, JOAQUIN JR. M.",]
+[[authorsDetail]]
+name = "MERCADO-REVILLA, LANI"
+nameCode = "Mercado-Revilla"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing"
+date = "2013-07-30"
+journalNo = "J005"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "KHO, ELISA T."
+nameCode = "Kho"
+date = "2013-08-12"
+journalNo = "J010"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2013-08-27"
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ARAGONES, SOL"
+nameCode = "Aragones"
+date = "2013-12-10"
+journalNo = "J034"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CHIPECO, JOAQUIN JR. M."
+nameCode = "Chipeco"
+date = "2015-02-17"
+journalNo = "J050"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2013-07-24"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 46370
+congress = 16
+bill_no = "HB00556"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-24"

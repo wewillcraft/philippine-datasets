@@ -1,0 +1,42 @@
+billNumber = "HR00120"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00120"
+lastScraped = "2025-09-22T00:20:59.445602"
+title = "HR00120"
+longTitle = "RESOLUTION FOR THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT IMMEDIATELY AN INVESTIGATION INTO THE COMPANIES AND CORPORATIONS WHICH HAVE BEEN GRANTED TAX EXEMPTIONS TO THE DETRIMENT OF THE PUBLIC"
+scope = "National"
+dateFiled = "1995-08-17"
+status = "Pending with the Committee on WAYS AND MEANS since 1995-08-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romero"
+[[authorsDetail]]
+name = "Romero"
+nameCode = "Romero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "1995-08-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 117174
+congress = 10
+bill_no = "HR00120"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ways and Means on Aug. 28, 1995."
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+date_read = "1995-08-23"

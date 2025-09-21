@@ -1,0 +1,61 @@
+billNumber = "HR00065"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00065"
+lastScraped = "2025-09-22T00:20:59.436127"
+title = "HR00065"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF HONORABLE JOSE R. NUGUID, FORMER REPRESENTATIVE OF BATAAN"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Adopted as Resolution No. HR00006 on 1995-08-01"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Payumo"
+coAuthors = [ "GARCIA, ENRIQUE JR. T.",]
+[[authorsDetail]]
+name = "Payumo"
+nameCode = "Payumo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "GARCIA, ENRIQUE JR. T."
+nameCode = "Garcia"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-08-01"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117119
+congress = 10
+bill_no = "HR00065"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-08-01"
+
+[secondReading]
+id = 18918
+congress = 10
+bill_no = "HR00065"
+adopted_resolution = "HR00006"
+date_calendared = "1995-08-01"
+date_approved = "1995-08-01"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00006.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00006.pdf"

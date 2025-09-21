@@ -1,0 +1,49 @@
+billNumber = "HB09307"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09307"
+lastScraped = "2025-09-22T00:20:59.140188"
+title = "HB09307"
+longTitle = "AN ACT CHANGING THE NAME OF THE PROVINCE OF SULTAN KUDARAT TO PROVINCE OF CENTRAL COTABATO, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-04-29"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1997-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montilla"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Montilla"
+nameCode = "Montilla"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1997-05-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 115728
+congress = 10
+bill_no = "HB09307"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1997-05-05"

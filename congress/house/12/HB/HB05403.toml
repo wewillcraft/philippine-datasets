@@ -1,0 +1,42 @@
+billNumber = "HB05403"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05403"
+lastScraped = "2025-09-22T00:13:00.811964"
+title = "HB05403"
+longTitle = "AN ACT TO BE KNOWN AS `THE MARITIME LIENS AND SHIP MORTGAGE ACT OF 2002'"
+scope = "National"
+dateFiled = "2002-10-22"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2002-11-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras, Jacinto V."
+[[authorsDetail]]
+name = "Paras, Jacinto V."
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2002-11-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 88558
+congress = 12
+bill_no = "HB05403"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2002-11-11"

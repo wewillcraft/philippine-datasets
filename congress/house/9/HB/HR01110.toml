@@ -1,0 +1,50 @@
+billNumber = "HR01110"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01110"
+lastScraped = "2025-09-22T00:25:57.570793"
+title = "HR01110"
+longTitle = "RESOLUTION EXPRESSING THE SUPPORT OF THE HOUSE OF REPRESENTATIVES FOR PRESIDENTIAL PROCLAMATION NUMBER 420 ISSUED BY PRESIDENT FIDEL V. RAMOS DECLARING CAMP JOHN HAY IN THE CITY OF BAGUIO AS A SPECIAL ECONOMIC ZONE"
+scope = "Local"
+dateFiled = "1994-07-13"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1994-07-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1994-07-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134416
+congress = 9
+bill_no = "HR01110"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1994-07-27"

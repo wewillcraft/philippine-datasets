@@ -1,0 +1,46 @@
+billNumber = "HB08134"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08134"
+lastScraped = "2025-09-22T00:20:58.907841"
+title = "HB08134"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A SEAWALL IN BARANGAY I, MUNICIPALITY OF NASIPIT, PROVINCE OF AGUSAN DEL NORTE, AND APPRORIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rama"
+[[authorsDetail]]
+name = "Rama"
+nameCode = "Rama"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-11"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114555
+congress = 10
+bill_no = "HB08134"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-11"

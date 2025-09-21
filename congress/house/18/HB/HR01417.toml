@@ -1,0 +1,95 @@
+billNumber = "HR01417"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01417"
+lastScraped = "2025-09-22T00:01:47.609279"
+title = "HR01417"
+longTitle = "RESOLUTION \r\nURGING THE DEPARTMENT OF TRANSPORTATION TO DEFER THE IMPLEMENTATION OF CASHLESS TOLL PAYMENTS THROUGH RADIO-FREQUENCY IDENTIFICATION (RFID) SYSTEM UNTIL SUCH TIME THAT THE SYSTEMS ARE READY TO BE FULLY OPERATIONAL AND ARE INTEROPERABLE\r\n"
+scope = "National"
+dateFiled = "2020-12-11"
+status = "Adopted as Resolution No. HR00127 on 2020-12-16"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento, Edgar Mary S."
+[[authorsDetail]]
+name = "Sarmiento, Edgar Mary S."
+nameCode = "Sarmiento"
+date = "2020-12-11"
+sequence = 1
+
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2020-12-11"
+sequence = 2
+
+[[authorsDetail]]
+name = "Gatchalian, Weslie T."
+nameCode = "Gatchalian"
+date = "2020-12-11"
+sequence = 3
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2020-12-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01367"
+sequence = 1
+date = "2020-12-11"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01367"
+sequence = 1
+date = "2020-12-11"
+flag = "S"
+
+[firstReading]
+id = 31735
+congress = 18
+bill_no = "HR01417"
+report = "00665"
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = "TRANSPORTATION"
+recomm = "Recommending its adoption in substitution of House Resolution No. 1367"
+remarks = ""
+file = "CR00665.pdf"
+date_read = "2020-12-14"
+date_ob = "2020-12-14"
+date_report = "2020-12-11"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR00665.pdf"
+
+[secondReading]
+id = 2496
+congress = 18
+bill_no = "HR01417"
+adopted_resolution = "HR00127"
+adopted_resolution_title = "RESOLUTION URGING THE DEPARTMENT OF TRANSPORTATION TO DEFER THE IMPLEMENTATION OF CASHLESS TOLL PAYMENTS THROUGH RADIO-FREQUENCY IDENTIFICATION (RFID) SYSTEM UNTIL SUCH TIME THAT THE SYSTEMS ARE READY TO BE FULLY OPERATIONAL AND ARE INTEROPERABLE"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = " "
+recommended_reconsidered = " "
+date_calendared = "2020-12-15"
+date_approved = "2020-12-16"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR01417.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR01417.pdf"

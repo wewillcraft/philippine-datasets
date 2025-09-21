@@ -1,0 +1,42 @@
+billNumber = "HCR0038"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HCR0038"
+lastScraped = "2025-09-22T00:47:02.514682"
+title = "HCR0038"
+longTitle = "CONCURRENT RESOLUTION GIVING CONSENT TO THE HONORABLE FELIPE H. MABILANGAN TO RECEIVE AN AWARD FROM THE GOVERNMENT OF FRANCE"
+scope = "Local"
+dateFiled = "1989-10-20"
+status = "Pending with the Committee on CIVIL SERVICE since 1989-10-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1989-10-20"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 169867
+congress = 8
+bill_no = "HCR0038"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1989-10-20"

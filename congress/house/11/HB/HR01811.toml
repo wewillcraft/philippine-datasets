@@ -1,0 +1,46 @@
+billNumber = "HR01811"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01811"
+lastScraped = "2025-09-22T00:23:18.292084"
+title = "HR01811"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON NATURAL RESOURCES AND THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY ON THE ALLEGED DUMPING OF SUSPECTED TOXIC WASTE AT SITIO ALINDAYAT, BARANGAY SAN AGUSTIN, CASTILLEJOS, ZAMBALES AND TO CAUSE THE PROPER DISPOSITION OF THE SAID SUBSTANCES"
+scope = "Local"
+dateFiled = "2000-10-10"
+status = "Pending with the Committee on ECOLOGY since 2000-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2000-10-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 106265
+congress = 11
+bill_no = "HR01811"
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+date_read = "2000-10-16"

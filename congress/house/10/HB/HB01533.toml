@@ -1,0 +1,46 @@
+billNumber = "HB01533"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01533"
+lastScraped = "2025-09-22T00:20:57.637131"
+title = "HB01533"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER AT BARANGAY COLOSAS IN THE CITY OF DAVAO TO BE KNOWN AS THE COLOSAS BARANGAY HEALTH CENTER,AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on HEALTH since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107954
+congress = 10
+bill_no = "HB01533"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-03"

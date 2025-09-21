@@ -1,0 +1,47 @@
+billNumber = "HB01105"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01105"
+lastScraped = "2025-09-22T00:25:54.793698"
+title = "HB01105"
+longTitle = "AN ACT PROVIDING FOR THE CONCRETIZATION OF THE THIRTY-EIGHT KILOMETER TABUK-ENRILE NATIONAL HIGHWAY STARTING FROM THE MUNICIPALITY OF TABUK, PROVINCE OF KALINGA-APAYAO, TO THE MUNICIPALITY OF ENRILE, PROVINCE OF CAGAYAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-17"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bulut"
+[[authorsDetail]]
+name = "Bulut"
+nameCode = "Bulut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-08-24"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119724
+congress = 9
+bill_no = "HB01105"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-08-24"

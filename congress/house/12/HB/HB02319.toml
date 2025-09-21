@@ -1,0 +1,47 @@
+billNumber = "HB02319"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02319"
+lastScraped = "2025-09-22T00:13:00.216898"
+title = "HB02319"
+longTitle = "AN ACT UPGRADING THE PRIMARY HOSPITAL IN GIGMOTO, CATANDUANES TO SECONDARY HOSPITAL TO BE KNOWN AS THE GIGMOTO DISTRICT HOSPITAL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-13"
+status = "Pending with the Committee on HEALTH since 2001-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santiago, Joseph A."
+[[authorsDetail]]
+name = "Santiago, Joseph A."
+nameCode = "Santiago"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-20"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85479
+congress = 12
+bill_no = "HB02319"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-20"

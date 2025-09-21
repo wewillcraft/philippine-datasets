@@ -1,0 +1,42 @@
+billNumber = "HR00981"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00981"
+lastScraped = "2025-09-22T00:47:02.727393"
+title = "HR00981"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF AGRICULTURE TO RESTORE THE \"BUY ONE TAKE TWO\" FERTILIZER PROGRAM AS AN INCREASED ASSISTANCE TO THE AGRICULTURAL SECTOR"
+scope = "National"
+dateFiled = "1988-10-11"
+status = "Pending with the Committee on AGRICULTURE AND FOODS since 1988-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mercado"
+[[authorsDetail]]
+name = "Mercado"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOODS"
+type = "primary"
+referralCode = "503"
+dateRead = "1988-10-17"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170858
+congress = 8
+bill_no = "HR00981"
+referral = "503"
+ref_name = "AGRICULTURE AND FOODS"
+sub_name = ""
+date_read = "1988-10-17"

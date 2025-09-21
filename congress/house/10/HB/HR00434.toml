@@ -1,0 +1,53 @@
+billNumber = "HR00434"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00434"
+lastScraped = "2025-09-22T00:20:59.502554"
+title = "HR00434"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO COMMEND AND HONOR MR. EMILIO ADVINCULA FOR HIS EXTRAORDINARY AND UNCOMMON ACT OF HONESTY AND INTEGRITY"
+scope = "Local"
+dateFiled = "1996-01-30"
+status = "Adopted as Resolution No. HR00028 on 1996-02-05"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dejon"
+[[authorsDetail]]
+name = "Dejon"
+nameCode = "Dejon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-02-01"
+
+[[committee]]
+name = "DISASTER RESILIENCE"
+type = "principal"
+referralCode = "I504"
+
+[firstReading]
+id = 117488
+congress = 10
+bill_no = "HR00434"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-02-01"
+
+[secondReading]
+id = 18958
+congress = 10
+bill_no = "HR00434"
+adopted_resolution = "HR00028"
+date_calendared = "1996-02-05"
+date_approved = "1996-02-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00028.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00028.pdf"

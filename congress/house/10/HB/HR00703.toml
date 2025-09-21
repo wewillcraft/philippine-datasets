@@ -1,0 +1,47 @@
+billNumber = "HR00703"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00703"
+lastScraped = "2025-09-22T00:20:59.558031"
+title = "HR00703"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC INFORMATION TO INQUIRE INTO THE PROLIFERATION OF PAY PER CALL SERVICE COMPANIES IN THE COUNTRY WHICH MIGHT BE INVOLVED IN FRAUDULENT AND MISREPRESENTED ADVERTISING IN PRINT AND LATE EVENING BROADCASTS"
+scope = "National"
+dateFiled = "1996-06-21"
+status = "Pending with the Committee on RULES since 1996-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Braganza, Hernani A."
+[[authorsDetail]]
+name = "Braganza, Hernani A."
+nameCode = "Braganza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-23"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "secondary"
+referralCode = "0528"
+
+[firstReading]
+id = 117757
+congress = 10
+bill_no = "HR00703"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Public Informatio n on July 25, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-23"

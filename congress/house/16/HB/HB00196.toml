@@ -1,0 +1,68 @@
+billNumber = "HB00196"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB00196"
+lastScraped = "2025-09-21T23:56:21.508486"
+title = "HB00196"
+longTitle = "AN ACT MANDATING LOCAL GOVERNMENT UNITS TO EARMARK A PORTION OF THEIR INTERNAL REVENUE ALLOTMENT (IRA) FOR FREE MEDICINES TO INDIGENT PATIENTS IN THEIR JURISDICTIONS"
+scope = "National"
+dateFiled = "2013-07-01"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2013-07-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB00196.pdf"
+fileSize = 340162
+author = "Yap, Arthur C."
+coAuthors = [ "REVILLA, LANI MERCADO", "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Yap, Arthur C."
+nameCode = "Yap (A.)"
+date = "2013-07-01"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REVILLA, LANI MERCADO"
+nameCode = "Mercado-Revilla"
+date = "2013-08-07"
+journalNo = "J009"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2013-08-14"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2013-08-14"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2013-07-23"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 46010
+congress = 16
+bill_no = "HB00196"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2013-07-23"

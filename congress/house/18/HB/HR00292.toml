@@ -1,0 +1,52 @@
+billNumber = "HR00292"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR00292"
+lastScraped = "2025-09-22T00:01:47.391279"
+title = "HR00292"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON LABOR AND EMPLOYMENT AND THE COMMITTEE ON GAMES AND AMUSEMENT, AND OTHER APPROPRIATE COMMITTEES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED VIOLATIONS OF OUR COUNTRY'S IMMIGRATION AND LABOR LAWS BY POGO OPERATORS WITH THE END IN VIEW OF ENACTING LAWS TO REGULATE OFFSHORE GAMING"
+scope = "National"
+dateFiled = "2019-09-02"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2019-11-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR00292.pdf"
+fileSize = 592196
+author = "Lacson, Virgilio S."
+[[authorsDetail]]
+name = "Lacson, Virgilio S."
+nameCode = "Lacson"
+date = "2019-09-02"
+sequence = 1
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2019-09-04"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "secondary"
+referralCode = "0514"
+
+[firstReading]
+id = 30620
+congress = 18
+bill_no = "HR00292"
+report = ""
+comm_act = ""
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2019-11-27"
+date_read = "2019-09-04"

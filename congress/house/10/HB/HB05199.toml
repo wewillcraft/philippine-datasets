@@ -1,0 +1,46 @@
+billNumber = "HB05199"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05199"
+lastScraped = "2025-09-22T00:20:58.330129"
+title = "HB05199"
+longTitle = "AN ACT AUTHORIZING THE APPROPRIATIONS OF FUND FOR THE CONSTRUCTION OF A CONCRETE MUNICIPAL WHARF LOCATED IN THE MUNICIPALITY OF MAPANAS, SECOND DISTRICT OF NORTHERN SAMAR"
+scope = "Local"
+dateFiled = "1995-11-20"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-11-23"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111620
+congress = 10
+bill_no = "HB05199"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-11-23"

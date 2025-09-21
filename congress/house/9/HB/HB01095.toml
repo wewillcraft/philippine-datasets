@@ -1,0 +1,47 @@
+billNumber = "HB01095"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01095"
+lastScraped = "2025-09-22T00:25:54.791836"
+title = "HB01095"
+longTitle = "AN ACT CONVERTING THE LEGARDA HEALTH CENTER IN THE 43TH DISTRICT OF MANILA TO AN 8-BED CAPACITY HEALTH INFIRMARY TO BE KNOWN AS THE LEGARDA HEALTH INFIRMARY, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-17"
+status = "Pending with the Committee on HEALTH since 1992-08-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-24"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119714
+congress = 9
+bill_no = "HB01095"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-24"

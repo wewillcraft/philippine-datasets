@@ -1,0 +1,46 @@
+billNumber = "HB10543"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10543"
+lastScraped = "2025-09-22T00:20:59.404980"
+title = "HB10543"
+longTitle = "AN ACT CONVERTING THE RINCONADA NATIONAL TECHNICAL VOCATIONAL SCHOOL (RNTVS) INTO IRIGA CITY STATE COLLEGE, DEFINING ITS POWERS, FUNCTIONS, AND DUTIES, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-02-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1998-05-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Alfelor"
+[[authorsDetail]]
+name = "Alfelor"
+nameCode = "Alfelor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1998-05-25"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116963
+congress = 10
+bill_no = "HB10543"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1998-05-25"

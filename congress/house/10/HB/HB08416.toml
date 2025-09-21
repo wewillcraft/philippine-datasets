@@ -1,0 +1,41 @@
+billNumber = "HB08416"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08416"
+lastScraped = "2025-09-22T00:20:58.958056"
+title = "HB08416"
+longTitle = "AN ACT CREATING BARANGAY SABANG IN THE MUNICIPALITY OF DUMANGAS, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-11-12"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1996-11-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1996-11-14"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 114837
+congress = 10
+bill_no = "HB08416"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+date_read = "1996-11-14"

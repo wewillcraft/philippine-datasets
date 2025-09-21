@@ -1,0 +1,82 @@
+billNumber = "HR01444"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01444"
+lastScraped = "2025-09-22T00:20:59.700788"
+title = "HR01444"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES , CONGRESS OF THE PHILIPPINES, ON THE SUDDENDEMISE OF HONORABLE EMIGDIO A. BONDOC, REPRESENTATIVE OF THE FOURTH DISTRICT OF PAMPANGA"
+scope = "Local"
+dateFiled = "1997-11-25"
+status = "Adopted as Resolution No. HR00121 on 1997-11-25"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano, Rodolfo B."
+coAuthors = [ "ZAMORA, RONALDO B.", "LAUREL-TRINIDAD, MILAGROS", "RODRIGUEZ, OSCAR S.", "ARROYO, JOKER P.",]
+[[authorsDetail]]
+name = "Albano, Rodolfo B."
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, RONALDO B."
+nameCode = "Zamora"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAUREL-TRINIDAD, MILAGROS"
+nameCode = "Laurel-trinidad"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ARROYO, JOKER P."
+nameCode = "Arroyo"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-11-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118498
+congress = 10
+bill_no = "HR01444"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-11-25"
+
+[secondReading]
+id = 19049
+congress = 10
+bill_no = "HR01444"
+adopted_resolution = "HR00121"
+date_calendared = "1997-11-25"
+date_approved = "1997-11-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00121.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00121.pdf"

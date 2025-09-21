@@ -1,0 +1,46 @@
+billNumber = "HB11314"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB11314"
+lastScraped = "2025-09-22T00:23:17.645261"
+title = "HB11314"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A HEALTH CENTER IN BARANGAY MANTEIJA, DANAO CITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2000-05-18"
+status = "Pending with the Committee on HEALTH since 2000-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2000-05-24"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 102729
+congress = 11
+bill_no = "HB11314"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2000-05-24"

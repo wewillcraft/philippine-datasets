@@ -1,0 +1,69 @@
+billNumber = "HB01825"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01825"
+lastScraped = "2025-09-22T00:25:54.921104"
+title = "HB01825"
+longTitle = "AN ACT ESTABLISHING THE PHILIPPINE AIR FORCE ACADEMY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1992-08-31"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1992-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Romualdo, Pedro P."
+coAuthors = [ "ABINES, CRISOLOGO A.", "DAZA, RAUL A.", "PLAZA, CHARITO B.",]
+[[authorsDetail]]
+name = "Romualdo, Pedro P."
+nameCode = "Romualdo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABINES, CRISOLOGO A."
+nameCode = "Abines"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DAZA, RAUL A."
+nameCode = "Daza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PLAZA, CHARITO B."
+nameCode = "Plaza"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1992-09-02"
+
+[[committee]]
+name = "AD HOC COMMITTEE ON THE MILITARY AND UNIFORMED PERSONNEL(MUP) PENSION SYSTEM"
+type = "principal"
+referralCode = "J506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 120444
+congress = 9
+bill_no = "HB01825"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "1992-09-02"

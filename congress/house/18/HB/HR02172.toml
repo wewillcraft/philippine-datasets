@@ -1,0 +1,89 @@
+billNumber = "HR02172"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR02172"
+lastScraped = "2025-09-22T00:01:47.768925"
+title = "HR02172"
+longTitle = "RESOLUTION STRONGLY URGING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY AND THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO CONSIDER THE MUNICIPALITY OF VALLADOLID IN THE PROVINCE OF NEGROS OCCIDENTAL AS THE ENTRY AND EXIT POINT OF THE PROPOSED BRIDGE CONNECTING THE PROVINCE OF NEGROS OCCIDENTAL TO THE ISLAND PROVINCE OF GUIMARAS\r\n"
+scope = "National"
+dateFiled = "2021-08-26"
+status = "Adopted as Resolution No. HR00207 on 2021-09-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ferrer, Juliet Marie de Leon"
+[[authorsDetail]]
+name = "Ferrer, Juliet Marie de Leon"
+nameCode = "Ferrer (J.M.)"
+date = "2021-08-26"
+sequence = 1
+
+[[authorsDetail]]
+name = "MADRONA, ELEANDRO JESUS F."
+nameCode = "Madrona"
+date = "2021-08-26"
+sequence = 2
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2021-08-31"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR00721"
+sequence = 1
+date = "2021-08-26"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00721"
+sequence = 1
+date = "2021-08-26"
+flag = "S"
+
+[firstReading]
+id = 32489
+congress = 18
+bill_no = "HR02172"
+report = "01178"
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "Recommending its adoption in substitution of House Resolution No. 721"
+remarks = ""
+file = "CR01178.pdf"
+date_read = "2021-08-31"
+date_ob = "2021-08-31"
+date_report = "2021-08-26"
+committee_report = "https://docs.congress.hrep.online/legisdocs/first_18/CR01178.pdf"
+
+[secondReading]
+id = 3042
+congress = 18
+bill_no = "HR02172"
+adopted_resolution = "HR00207"
+adopted_resolution_title = "RESOLUTION STRONGLY URGING THE NATIONAL ECONOMIC AND DEVELOPMENT AUTHORITY AND THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS TO CONSIDER THE MUNICIPALITY OF VALLADOLID IN THE PROVINCE OF NEGROS OCCIDENTAL AS THE ENTRY AND EXIT POINT OF THE PROPOSED BRIDGE CONNECTING THE PROVINCE OF NEGROS OCCIDENTAL TO THE ISLAND PROVINCE OF GUIMARAS"
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+date_calendared = "2021-09-07"
+date_approved = "2021-09-15"
+recommitted_bill = ""
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""
+file = "HR02172.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_18/HR02172.pdf"

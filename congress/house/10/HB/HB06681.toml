@@ -1,0 +1,61 @@
+billNumber = "HB06681"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06681"
+lastScraped = "2025-09-22T00:20:58.601268"
+title = "HB06681"
+longTitle = "AN ACT PROVIDING FOR THE INCLUSION OF HOME READING AS A SUBJECT IN THE ELEMENTARY AND SECONDARY CURRICULA AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-03-21"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-03-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing, Amado S."
+coAuthors = [ "AVILA, EDGAR M.", "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Bagatsing, Amado S."
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-03-26"
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "principal"
+referralCode = "0505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113102
+congress = 10
+bill_no = "HB06681"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-03-26"

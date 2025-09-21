@@ -1,0 +1,68 @@
+billNumber = "HB05919"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05919"
+lastScraped = "2025-09-22T00:20:58.461260"
+title = "HB05919"
+longTitle = "AN ACT CONVERTING THE CAGASAT HIGH SCHOOL, CORDON, ISABELA TO CORDON COLLEGE OF ARTS AND TRADES, AND AUTHORIZING APPROPRIATIONS THEREFOR"
+scope = "Local"
+dateFiled = "1996-01-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abaya"
+coAuthors = [ "ALBANO, RODOLFO JR. B.", "DY, FAUSTINO JR. S.", "RESPICIO, SANTIAGO P.",]
+[[authorsDetail]]
+name = "Abaya"
+nameCode = "Abaya"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ALBANO, RODOLFO JR. B."
+nameCode = "Albano"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DY, FAUSTINO JR. S."
+nameCode = "Dy"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RESPICIO, SANTIAGO P."
+nameCode = "Respicio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-01-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112340
+congress = 10
+bill_no = "HB05919"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-01-29"

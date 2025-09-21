@@ -1,0 +1,49 @@
+billNumber = "HR01243"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01243"
+lastScraped = "2025-09-22T00:20:59.664324"
+title = "HR01243"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON ECOLOGY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE PLAN OF THE PHILIPPINE NATIONAL OIL COMPANY TO CONDUCT GEOTHERMAL EXPLORATION AND DEVELOPMENT WITHIN THE MOUNT KANLAON NATIONAL PARK"
+scope = "Local"
+dateFiled = "1997-06-02"
+status = "Pending with the Committee on ECOLOGY since 1997-06-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-06-04"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 118297
+congress = 10
+bill_no = "HR01243"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-06-04"

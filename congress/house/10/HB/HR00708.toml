@@ -1,0 +1,52 @@
+billNumber = "HR00708"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00708"
+lastScraped = "2025-09-22T00:20:59.558777"
+title = "HR00708"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, OF THE PHIPPINE PORTS AUTHORITY (PPA) FOR ITS FAILURE TO STRICTLY IMPLEMENT PPA'S BIDDING POLICIES AND CONTRACT AGREEMENT WITH THE PRUDENTIAL CUSTOMS BROKERAGE SEVICES INCORPORATED (PCBSI) WHICH HAS RESULTED IN LABOR UNREST IN SAN JOSE PORT, OCCIDENTAL MINDORO"
+scope = "Local"
+dateFiled = "1996-07-01"
+status = "Pending with the Committee on RULES since 1996-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-24"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "secondary"
+referralCode = "0540"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117762
+congress = 10
+bill_no = "HR00708"
+comm_act = "Change of referral from the Ctte. on Rules to the Ctte's. on Good Government and on Transporta tion"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-07-24"

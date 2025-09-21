@@ -1,0 +1,53 @@
+billNumber = "HB07988"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07988"
+lastScraped = "2025-09-22T00:20:58.878395"
+title = "HB07988"
+longTitle = "AN ACT FURTHER AMENDING COMMONWEALTH ACT NO. 73, AS AMENDED BY REPUBLIC ACT NO. 1086, INCREASING THE PENALTIES THEREFOR(KILLIN G, HUNTING, WOUNDING, OR TAKING AWAY OF THE BUBALUS MINDORENSIS OR THE TAMARAW)"
+scope = "National"
+dateFiled = "1996-09-24"
+status = "Business for the day on 1997-12-02"
+statusOrder = 10.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-09-26"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 114409
+congress = 10
+bill_no = "HB07988"
+report = "01130"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "approval with amendments"
+date_read = "1996-09-26"
+date_ob = "1997-10-13"
+date_report = "1997-10-08"
+
+[secondReading]
+id = 18551
+congress = 10
+bill_no = "HB07988"
+date_calendared = "1997-12-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

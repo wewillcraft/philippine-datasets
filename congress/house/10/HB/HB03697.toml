@@ -1,0 +1,61 @@
+billNumber = "HB03697"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03697"
+lastScraped = "2025-09-22T00:20:58.059393"
+title = "HB03697"
+longTitle = "AN ACT TO PROMOTE THE CORN INDUSTRY IN THE PHILIPPINES AND CREATE A PHILIPPINE CORN RESEARCH AND DEVELOPMENT INSTITUTE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-09-20"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1995-09-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dequiña"
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Dequiña"
+nameCode = "Dequiña"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1995-09-26"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110118
+congress = 10
+bill_no = "HB03697"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+date_read = "1995-09-26"

@@ -1,0 +1,61 @@
+billNumber = "HB01345"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB01345"
+lastScraped = "2025-09-22T00:01:45.292188"
+title = "HB01345"
+longTitle = "AN ACT GRANTING EVERY SENIOR CITIZEN FREE MOVIE SEAT AND/OR FREE PARKING SLOT IN SHOPPING MALLS AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2019-07-03"
+status = "Pending with the Committee on SENIOR CITIZENS since 2019-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB01345.pdf"
+fileSize = 881056
+author = "Castelo, Precious Hipolito"
+coAuthors = [ "ESPINA, GERRYBOY JR. J.", "SAVELLANO, DEOGRACIAS VICTOR B.",]
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2019-07-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERRYBOY JR. J."
+nameCode = "Espina"
+date = "2019-08-13"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2019-11-25"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2019-07-24"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 20754
+congress = 18
+bill_no = "HB01345"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2019-07-24"

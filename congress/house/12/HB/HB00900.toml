@@ -1,0 +1,57 @@
+billNumber = "HB00900"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00900"
+lastScraped = "2025-09-22T00:12:59.969109"
+title = "HB00900"
+longTitle = "AN ACT PROVIDING FOR A MAGNA CARTA FOR THE INFORMAL SECTOR, INSTITUTIONALIZ ING MECHANISM FOR IMPLEMENTATION THEREOF AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-09"
+status = "Pending with the Committee on LABOR AND EMPLOYMENT since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Angara-Castillo, Bellaflor J."
+coAuthors = [ "BADELLES, ALIPIO CIRILO V.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Angara-Castillo, Bellaflor J."
+nameCode = "Angara-castillo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BADELLES, ALIPIO CIRILO V."
+nameCode = "Badelles"
+date = ""
+journalNo = "J013"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "primary"
+referralCode = "0521"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 84060
+congress = 12
+bill_no = "HB00900"
+referral = "0521"
+ref_name = "LABOR AND EMPLOYMENT"
+sub_name = ""
+date_read = "2001-07-25"

@@ -1,0 +1,47 @@
+billNumber = "HR00620"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00620"
+lastScraped = "2025-09-21T23:56:22.912334"
+title = "HR00620"
+longTitle = "A RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION INTO THE RECENT DEADLY ACCIDENTS INVOLVING PUBLIC UTILITY BUSES"
+scope = "National"
+dateFiled = "2013-12-16"
+status = "Pending with the Committee on TRANSPORTATION since 2014-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00620.pdf"
+fileSize = 163227
+author = "Cortuna, Julieta R."
+[[authorsDetail]]
+name = "Cortuna, Julieta R."
+nameCode = "Cortuna"
+date = "2013-12-16"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-12-16"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 53019
+congress = 16
+bill_no = "HR00620"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-01-22"
+date_read = "2013-12-16"

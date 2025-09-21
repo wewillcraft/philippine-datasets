@@ -1,0 +1,61 @@
+billNumber = "HR00121"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00121"
+lastScraped = "2025-09-22T00:25:57.389748"
+title = "HR00121"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE THAT THE REGIONAL TRIAL COURT SALA OR SALAS ESTABLISHED IN PLACES UNDER REPUBLIC ACT NO. 7154 WHERE HALLS OF JUSTICE HAVE BEEN CONSTRUCTED OR UNDER CONSTRUCTION BE ORGANIZAED THEREIN"
+scope = "Local"
+dateFiled = "1992-08-26"
+status = "Adopted as Resolution No. HR00011 on 1992-09-03"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-27"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 133433
+congress = 9
+bill_no = "HR00121"
+report = "00011"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "adoption with amendments"
+date_read = "1992-08-27"
+date_ob = "1992-09-03"
+date_cal = "1992-09-03"
+date_unass = "1992-09-03"
+date_report = "1992-09-02"
+
+[secondReading]
+id = 20091
+congress = 9
+bill_no = "HR00121"
+adopted_resolution = "HR00011"
+remarks = "Interpellated by Albano and Damasing; Amendment by Valdez"
+date_calendared = "1992-09-03"
+date_approved = "1992-09-03"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00121.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR00121.pdf"

@@ -1,0 +1,42 @@
+billNumber = "HB10602"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB10602"
+lastScraped = "2025-09-22T00:46:58.442614"
+title = "HB10602"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY TUBORAN, CITY OF PAGADIAN, AND APPROPRIATING FUNDS THEREFORAN ACT ESTABLISHING A HEALTH CENTER IN BARANGAY TUBORAN, CITY OF PAGADIAN, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-23"
+status = "Pending with the Committee on HEALTH since 1988-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real"
+[[authorsDetail]]
+name = "Real"
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-26"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[firstReading]
+id = 145275
+congress = 8
+bill_no = "HB10602"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-26"

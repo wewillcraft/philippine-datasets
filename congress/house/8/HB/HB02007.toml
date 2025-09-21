@@ -1,0 +1,42 @@
+billNumber = "HB02007"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02007"
+lastScraped = "2025-09-22T00:46:56.913607"
+title = "HB02007"
+longTitle = "AN ACT ESTABLISHING A REHABILITATION CENTER FOR DRUG ADDICTS IN THE MUNICIPALITY OF SAN ANTONIO, PROVINCE OF ZAMBALES, TO BE KNOWN AS THE ZAMBALES REHABILITATION CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-28"
+status = "Pending with the Committee on HEALTH since 1987-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzalez"
+[[authorsDetail]]
+name = "Gonzalez"
+nameCode = "Gonzalez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-30"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 136697
+congress = 8
+bill_no = "HB02007"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-30"

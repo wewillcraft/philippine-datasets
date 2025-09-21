@@ -1,0 +1,66 @@
+billNumber = "HB04148"
+billType = "HB"
+congress = 14
+apiCongressId = 14
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=14&q=HB04148"
+lastScraped = "2025-09-22T00:15:38.511585"
+title = "\\\"Philippine Immigration and Naturalization Act of 2008\\\""
+longTitle = "AN ACT REORGANIZING THE BUREAU OF IMMIGRATION HEREINAFTER TO BE KNOWN AS THE COMMISSION ON IMMIGRATION AND NATURALIZATION, DEFINING ITS ORGANIZATIONAL STRUCTURE, AND THE POWERS AND FUNCTIONS THEREOF, PROVIDING A SPECIAL APPROPRIATION THEREFOR, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2008-05-19"
+status = "Pending with the Committee on JUSTICE since 2008-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "VILLAROSA, AMELITA C.", "FERNANDEZ, DANILO RAMON S.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = ""
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, AMELITA C."
+nameCode = "Villarosa"
+date = ""
+journalNo = "J010"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "FERNANDEZ, DANILO RAMON S."
+nameCode = "Fernandez"
+date = ""
+journalNo = "J019"
+sessionNo = "3RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2008-05-26"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 70119
+congress = 14
+bill_no = "HB04148"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2008-05-26"

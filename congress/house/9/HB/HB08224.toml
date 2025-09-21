@@ -1,0 +1,47 @@
+billNumber = "HB08224"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB08224"
+lastScraped = "2025-09-22T00:25:56.083335"
+title = "HB08224"
+longTitle = "AN ACT AMENDING PRESIDENTIAL DECREE NO. 968 SO AS TO ESTABLISH A LIVELIHOOD PROGRAM FOR PROBATIONERS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1993-03-17"
+status = "Pending with the Committee on JUSTICE since 1993-03-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avance-Fuentes, Daisy"
+[[authorsDetail]]
+name = "Avance-Fuentes, Daisy"
+nameCode = "Fuentes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-03-23"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 126843
+congress = 9
+bill_no = "HB08224"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-03-23"

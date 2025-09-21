@@ -1,0 +1,47 @@
+billNumber = "HR00767"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00767"
+lastScraped = "2025-09-21T23:56:22.939004"
+title = "HR00767"
+longTitle = "A RESOLUTION URGING THE COMMITTEES ON TRANSPORTATION, ECONOMIC AFFAIRS, METRO MANILA DEVELOPMENT, AND GOVERNMENT ENTERPRISES AND PRIVATIZATION TO INVESTIGATE, IN AID OF LEGISLATION, THE PROPOSED METRO RAIL TRANSIT (MRT) AND LIGHT RAIL TRANSIT (LRT) FARE INCREASE"
+scope = "National"
+dateFiled = "2014-02-04"
+status = "Pending with the Committee on TRANSPORTATION since 2014-02-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00767.pdf"
+fileSize = 152180
+author = "Castelo, Winston 'Winnie'"
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2014-02-04"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2014-02-11"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 53166
+congress = 16
+bill_no = "HR00767"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-02-19"
+date_read = "2014-02-11"

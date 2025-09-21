@@ -1,0 +1,47 @@
+billNumber = "HR01374"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01374"
+lastScraped = "2025-09-22T00:23:18.205993"
+title = "HR01374"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND THE COMMITTEE ON LEGISLATIVE FRANCHISES TO INQUIRE, IN AID OF LEGISLATION, INTO POSSIBLE ANOMALIES IN THE GRANT BY CLARK DEVELOPMENT AUTHORITY AND PAGCOR OF A NEW CONCESSION FOR CASINO OPERATION INSIDE CLARK DEVELOPMENT ZONE"
+scope = "Local"
+dateFiled = "2000-02-08"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2000-02-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras, Jacinto V."
+[[authorsDetail]]
+name = "Paras, Jacinto V."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2000-02-14"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "secondary"
+referralCode = "0508"
+
+[firstReading]
+id = 105830
+congress = 11
+bill_no = "HR01374"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2000-02-14"

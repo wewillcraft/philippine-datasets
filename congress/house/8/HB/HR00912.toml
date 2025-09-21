@@ -1,0 +1,42 @@
+billNumber = "HR00912"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00912"
+lastScraped = "2025-09-22T00:47:02.703598"
+title = "HR00912"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON APPROPRIATIONS TO CONDUCT A STUDY, IN AID OF LEGISLATION, ON THE FEASIBILITY OF PREPARING BUDGETARY ALLOTMENTS BY LEGISLATIVE DISTRICTS"
+scope = "National"
+dateFiled = "1988-09-06"
+status = "Pending with the Committee on APPROPRIATIONS since 1988-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1988-09-09"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170792
+congress = 8
+bill_no = "HR00912"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1988-09-09"

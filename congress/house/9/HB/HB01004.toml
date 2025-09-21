@@ -1,0 +1,74 @@
+billNumber = "HB01004"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01004"
+lastScraped = "2025-09-22T00:25:54.776710"
+title = "HB01004"
+longTitle = "AN ACT ESTABLISHING A TEN (10) BED CAPACITY MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF STA. ELENA, PROVINCE OF CAMARINES NORTE, TO BE KNOWN AS THE STA. ELENA MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-13"
+status = "Approved by the House on 1994-09-07, transmitted to on 1994-09-13 and received by the Senate on 1994"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-20"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119623
+congress = 9
+bill_no = "HB01004"
+report = "00829"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "APPROPRIATIONS, HEALTH"
+recomm = "APPROVAL WITH AMENDMENT"
+date_read = "1992-08-20"
+date_ob = "1994-08-24"
+date_cal = "1994-08-24"
+date_unass = "1994-08-24"
+date_report = "1994-08-22"
+
+[secondReading]
+id = 19161
+congress = 9
+bill_no = "HB01004"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1994-08-25"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1438
+congress = 9
+bill_no = "HB01004"
+date_dist = "1994-08-31"
+date_adopt = "1994-09-07"
+no_yeas = 133
+no_nays = 0
+no_abstent = 0
+date_trans = "1994-09-13"
+date_rec = "1994-09-14"

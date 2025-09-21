@@ -1,0 +1,42 @@
+billNumber = "HB13888"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13888"
+lastScraped = "2025-09-22T00:25:57.165588"
+title = "HB13888"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF THE BOAC YOUTH HOSTEL IN THE MUNICIPALITY OF BOAC, PROVINCE OF MARINDUQUE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-10-03"
+status = "Pending with the Committee on TOURISM since 1994-10-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Reyes, Carmencita O."
+[[authorsDetail]]
+name = "Reyes, Carmencita O."
+nameCode = "Reyes"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1994-10-05"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132497
+congress = 9
+bill_no = "HB13888"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "1994-10-05"

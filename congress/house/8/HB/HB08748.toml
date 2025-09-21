@@ -1,0 +1,42 @@
+billNumber = "HB08748"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08748"
+lastScraped = "2025-09-22T00:46:58.143637"
+title = "HB08748"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER IN BARANGAY KALAWAG I, MUNICIPALITY OF ISULAN, PROVINCE OF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1988-05-04"
+status = "Pending with the Committee on HEALTH since 1988-05-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Valdez"
+[[authorsDetail]]
+name = "Valdez"
+nameCode = "Valdez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-09"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 143425
+congress = 8
+bill_no = "HB08748"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-09"

@@ -1,0 +1,52 @@
+billNumber = "HR00848"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00848"
+lastScraped = "2025-09-22T00:20:59.585211"
+title = "HR00848"
+longTitle = "RESOLUTION DIRECTING THE HOUSE OF REPRESENTATIVES , THROUGH ITS COMMITTEES ON GOOD GOVERNMENT AND LOCAL GOVERNMENT, TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ANOMALIES IN THE IMPLEMENTATION OF GOVERNMENT INFRUSTRUCTURE PROJECTS AND LOCAL GOVERNMENT OPERATIONS BY THE CITY OF CALBAYOG"
+scope = "Local"
+dateFiled = "1996-09-12"
+status = "Pending with the Committee on RULES since 1996-09-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-23"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "secondary"
+referralCode = "0522"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 117902
+congress = 10
+bill_no = "HR00848"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Good Government and on Local Government"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-23"

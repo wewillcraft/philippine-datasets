@@ -1,0 +1,46 @@
+billNumber = "HB08072"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08072"
+lastScraped = "2025-09-22T00:20:58.893289"
+title = "HB08072"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE SAN DIONISIO CENTRAL SCHOOL, BARANGAY POBLACION, MUNICIPALITY OF SAN DIONISIO, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-10-03"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-08"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114493
+congress = 10
+bill_no = "HB08072"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-08"

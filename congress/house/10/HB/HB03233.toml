@@ -1,0 +1,84 @@
+billNumber = "HB03233"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03233"
+lastScraped = "2025-09-22T00:20:57.971308"
+title = "HB03233"
+longTitle = "AN ACT UPGRADING THE QUIRINO MEMORIAL MEDICAL CENTER, AND APPROPRIATING FUNDS AND OTHER PURPOSES THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-05"
+status = "REPUBLIC ACT RA08313 (Lapsed into law on 1997-06-20)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Defensor, Michael T."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Defensor, Michael T."
+nameCode = "Defensor"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-09-18"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109654
+congress = 10
+bill_no = "HB03233"
+report = "00409"
+referral = "0517"
+ref_name = "HEALTH"
+recomm = "approval with amendments"
+date_read = "1995-09-18"
+date_ob = "1996-05-21"
+date_report = "1996-05-20"
+
+[secondReading]
+id = 17991
+congress = 10
+bill_no = "HB03233"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1996-05-23"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2603
+congress = 10
+bill_no = "HB03233"
+date_dist = "1996-05-28"
+date_adopt = "1996-06-06"
+no_yeas = 140
+no_nays = 0
+no_abstent = 0
+date_trans = "1996-06-06"
+date_rec = "1996-06-14"
+date_agram = "1997-03-17"
+amend_ind = "Y"
+act_pres = "L"
+dte_transp = "1997-05-10"
+dte_actedp = "1997-06-20"

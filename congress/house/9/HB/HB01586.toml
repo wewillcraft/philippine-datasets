@@ -1,0 +1,42 @@
+billNumber = "HB01586"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01586"
+lastScraped = "2025-09-22T00:25:54.881498"
+title = "HB01586"
+longTitle = "AN ACT DECLARING THE MANUFACTURE OF FAKE DRUGS AND OTHER FAKE PHARMACEUTICAL COMPOUND AND PRODUCTS A HEINOUS CRIME"
+scope = "National"
+dateFiled = "1992-08-26"
+status = "Pending with the Committee on JUSTICE since 1992-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Soon-Ruiz, Nerissa Corazon"
+[[authorsDetail]]
+name = "Soon-Ruiz, Nerissa Corazon"
+nameCode = "Soon-ruiz"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1992-08-31"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 120205
+congress = 9
+bill_no = "HB01586"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1992-08-31"

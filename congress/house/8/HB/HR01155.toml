@@ -1,0 +1,50 @@
+billNumber = "HR01155"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01155"
+lastScraped = "2025-09-22T00:47:02.761752"
+title = "HR01155"
+longTitle = "RESOLUTION DIRECTING COMMITTEES ON HEALTH AND AGRICULTURE AND FOOD TO LOOK INTO THE ALLEGED SALE OFCONTAMINATED MILK IN AID OF LEGISLATION"
+scope = "National"
+dateFiled = "1989-02-14"
+status = "Pending with the Committee on HEALTH since 1989-01-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ty"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Ty"
+nameCode = "Ty"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-01-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 171029
+congress = 8
+bill_no = "HR01155"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-01-20"

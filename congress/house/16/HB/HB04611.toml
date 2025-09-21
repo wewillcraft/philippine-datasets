@@ -1,0 +1,67 @@
+billNumber = "HB04611"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04611"
+lastScraped = "2025-09-21T23:56:22.344006"
+title = "HB04611"
+longTitle = "AN ACT CREATING THE NATIONAL FOOD SECURITY COUNCIL, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2014-06-09"
+status = "Pending with the Committee on GOVERNMENT REORGANIZATION since 2015-02-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04611.pdf"
+fileSize = 842383
+author = "Guanlao, Agapito H."
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.",]
+[[authorsDetail]]
+name = "Guanlao, Agapito H."
+nameCode = "Guanlao"
+date = "2014-06-09"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2014-07-30"
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2014-07-30"
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "primary"
+referralCode = "0516"
+dateRead = "2014-06-11"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 50425
+congress = 16
+bill_no = "HB04611"
+report = ""
+comm_act = ""
+referral = "0516"
+ref_name = "GOVERNMENT REORGANIZATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2015-02-23"
+date_read = "2014-06-11"

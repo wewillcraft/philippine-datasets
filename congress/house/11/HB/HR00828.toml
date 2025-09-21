@@ -1,0 +1,60 @@
+billNumber = "HR00828"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00828"
+lastScraped = "2025-09-22T00:23:18.098840"
+title = "HR00828"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON ECONOMIC AFFAIRS, TRADE AND INDUSTRY AND WAYS AND MEANS TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, IN ORDER TO DETERMINE THE BASIS OF THE ISSUANCE OF ADMINISTRATIVE ORDER NO. 58 CONSTITUTING THE PETROCHEMICAL AND PLASTIC MOBILIZATION TASK FORCE"
+scope = "National"
+dateFiled = "1999-03-22"
+status = "Pending with the Committee on ECONOMIC AFFAIRS since 1999-03-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Salceda, Joey Sarte"
+coAuthors = [ "RECTO, RALPH G.",]
+[[authorsDetail]]
+name = "Salceda, Joey Sarte"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RECTO, RALPH G."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "primary"
+referralCode = "0536"
+dateRead = "1999-03-24"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "secondary"
+referralCode = "0542"
+
+[firstReading]
+id = 105284
+congress = 11
+bill_no = "HR00828"
+referral = "0536"
+ref_name = "ECONOMIC AFFAIRS"
+sub_name = ""
+date_read = "1999-03-24"

@@ -1,0 +1,57 @@
+billNumber = "HB06842"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB06842"
+lastScraped = "2025-09-22T00:25:55.856642"
+title = "HB06842"
+longTitle = "AN ACT TO IMPOSE HEAVY PENALTIES FOR VIOLENT CRIMES COMMITTED IN AID OF RACKETEERING ACTIVITY"
+scope = "National"
+dateFiled = "1993-01-28"
+status = "Pending with the Committee on JUSTICE since 1993-02-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zapata"
+coAuthors = [ "ROLDAN, DENNIS", "MARCOS, FERDINAND II R.",]
+[[authorsDetail]]
+name = "Zapata"
+nameCode = "Zapata"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ROLDAN, DENNIS"
+nameCode = "Roldan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MARCOS, FERDINAND II R."
+nameCode = "Marcos"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-02-03"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 125461
+congress = 9
+bill_no = "HB06842"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-02-03"

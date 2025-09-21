@@ -1,0 +1,42 @@
+billNumber = "HB13605"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB13605"
+lastScraped = "2025-09-22T00:25:57.112745"
+title = "HB13605"
+longTitle = "AN ACT CONSTITUTING THE FIRST CONGRESSIONAL DISTRICT IN THE PROVINCE OF SAMAR INTO A SEPARATE HIGHWAY ENGINEERING DISTRICT, AND PROVIDING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-08-29"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1994-08-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1994-08-31"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132214
+congress = 9
+bill_no = "HB13605"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1994-08-31"

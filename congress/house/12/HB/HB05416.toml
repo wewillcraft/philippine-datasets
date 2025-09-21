@@ -1,0 +1,70 @@
+billNumber = "HB05416"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05416"
+lastScraped = "2025-09-22T00:13:00.815146"
+title = "HB05416"
+longTitle = "AN ACT LIMITING THE SCOPE OF STATUTORY RAPE, AMENDING FOR THE PURPOSE ACT NO. 3815, OTHERWISE KNOWN AS THE REVISED PENAL CODE, AS AMENDED, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2002-10-24"
+status = "Pending with the Committee on JUSTICE since 2002-11-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Vicencio, Romualdo T."
+coAuthors = [ "NIEVA, ERNESTO A.", "CALALAY, REYNALDO A.", "ESPINA, GERARDO S.",]
+[[authorsDetail]]
+name = "Vicencio, Romualdo T."
+nameCode = "Vicencio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "NIEVA, ERNESTO A."
+nameCode = "Nieva"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = "J030"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J033"
+sessionNo = "2RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2002-11-12"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "secondary"
+referralCode = "A504"
+
+[firstReading]
+id = 88571
+congress = 12
+bill_no = "HB05416"
+comm_act = "chnge of ctte. ref'l from Revision of Laws as per J.69;p.69( May 5-7,2003)"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "2002-11-12"

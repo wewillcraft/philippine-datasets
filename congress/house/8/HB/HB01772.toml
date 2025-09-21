@@ -1,0 +1,107 @@
+billNumber = "HB01772"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01772"
+lastScraped = "2025-09-22T00:46:56.872355"
+title = "HB01772"
+longTitle = "AN ACT PROVIDING FREE LEGAL ASSISTANCE TO SUSPECTED PERSONS UNDER CUSTODIAL INVESTIGATION FOR THE COMMISSION OF AN OFFENSE"
+scope = "National"
+dateFiled = "1987-09-22"
+status = "REPUBLIC ACT (RA07438) enacted on 1992-04-27"
+statusOrder = 33.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Amante"
+coAuthors = [ "DANS, ALVIN G.", "RAMIREZ, JOSE T.", "BANDON, ALAWADIN JR. T.", "STARKE, HORTENSIA L.",]
+[[authorsDetail]]
+name = "Amante"
+nameCode = "Amante"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DANS, ALVIN G."
+nameCode = "Dans"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "BANDON, ALAWADIN JR. T."
+nameCode = "Bandon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "STARKE, HORTENSIA L."
+nameCode = "Starke"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "520"
+dateRead = "1987-09-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 136463
+congress = 8
+bill_no = "HB01772"
+report = "00083"
+referral = "520"
+ref_name = "JUSTICE"
+sub_name = "JUSTICE"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-09-24"
+date_ob = "1988-03-03"
+date_cal = "1988-03-03"
+date_unass = "1988-03-03"
+date_report = "1988-03-03"
+
+[secondReading]
+id = 20425
+congress = 8
+bill_no = "HB01772"
+reasons = "RECONSIDER ED APPROVAL ON SECOND READING DUE TO SOME AMENDMENTS AND CONSEQUENT LY APPROVED IT ON THE"
+recommended_reconsidered = "2"
+date_recommended_reconsidered = "1989-12-19"
+date_approved = "1989-12-19"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 207
+congress = 8
+bill_no = "HB01772"
+date_dist = "1990-01-22"
+date_adopt = "1990-01-25"
+no_yeas = 106
+no_nays = 0
+no_abstent = 0
+date_trans = "1990-01-25"
+date_rec = "1990-01-30"
+date_rqcc = "1991-08-07"
+date_agrcc = "1991-08-26"
+ccreqby = "H"
+act_pres = "A"
+dte_hsagcc = "1992-02-05"
+dte_snagcc = "1992-02-05"
+dte_actedp = "1992-04-27"

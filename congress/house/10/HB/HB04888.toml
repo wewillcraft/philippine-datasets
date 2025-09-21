@@ -1,0 +1,97 @@
+billNumber = "HB04888"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04888"
+lastScraped = "2025-09-22T00:20:58.278477"
+title = "HB04888"
+longTitle = "AN ACT REGULATING THE SALE OR PURCHASE, TRANSFER, DISTRIBUTION, POSSESSION AND USE OF CHAINSAWS, PENALIZING VIOLATIONS THEREOF AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-11-08"
+status = "Approved by the House on 1996-12-19, transmitted to on 1997-01-06 and received by the Senate on 1997"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abueg"
+coAuthors = [ "SANDOVAL, VICENTE A.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Abueg"
+nameCode = "Abueg"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SANDOVAL, VICENTE A."
+nameCode = "Sandoval"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1995-11-13"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[motherBills]]
+bill_no = "HB02690"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HB04833"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB02690"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HB04833"
+flag = "S"
+
+[firstReading]
+id = 111309
+congress = 10
+bill_no = "HB04888"
+report = "00603"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+recomm = "approval"
+date_read = "1995-11-13"
+date_ob = "1996-09-24"
+date_unass = "1996-11-05"
+date_report = "1996-09-23"
+
+[secondReading]
+id = 18145
+congress = 10
+bill_no = "HB04888"
+date_calendared = "1996-12-04"
+date_approved = "1996-12-05"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2753
+congress = 10
+bill_no = "HB04888"
+date_adopt = "1996-12-19"
+no_yeas = 152
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-01-06"
+date_rec = "1997-01-10"

@@ -1,0 +1,69 @@
+billNumber = "HR01245"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01245"
+lastScraped = "2025-09-22T00:25:57.598676"
+title = "HR01245"
+longTitle = "RESOLUTION EXPRESSING THE PROFOUND CONDOLENCE OF THE HOUSE OF REPRESENTATIVES ON THE DEMISE OF SIMEONA FIGUEROA APOSTOL, MOTHER OF HONORABLE SERGIO ANTONIO F. APOSTOL, REPRESENTATIVE, SECOND DISTRICT OF THE PROVINCE OF LEYTE"
+scope = "Local"
+dateFiled = "1994-10-03"
+status = "Adopted as Resolution No. HR00093 on 1994-10-04"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+coAuthors = [ "VELOSO, ALBERTO S.", "LOCSIN, CARMELO J.",]
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VELOSO, ALBERTO S."
+nameCode = "Veloso"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LOCSIN, CARMELO J."
+nameCode = "Locsin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-10-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 134551
+congress = 9
+bill_no = "HR01245"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1994-10-04"
+
+[secondReading]
+id = 20190
+congress = 9
+bill_no = "HR01245"
+adopted_resolution = "HR00093"
+date_calendared = "1994-10-04"
+date_approved = "1994-10-04"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01245.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01245.pdf"

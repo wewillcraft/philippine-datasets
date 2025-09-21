@@ -1,0 +1,105 @@
+billNumber = "HB05190"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05190"
+lastScraped = "2025-09-22T00:25:55.586866"
+title = "HB05190"
+longTitle = "AN ACT REGULATING THE USE OF GOVERNMENT AMBULANCES"
+scope = "National"
+dateFiled = "1992-11-25"
+status = "Approved by the House on 1995-02-14, transmitted to on 1995-02-16 and received by the Senate on 1995"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Pimentel"
+coAuthors = [ "ESCUDERO, SALVADOR III H.", "DRAGON, RENATO P.", "AVILA, EDGAR M.", "DEJON, TEMISTOCLES SR. S.", "LAUDICO, MINERVA G.",]
+[[authorsDetail]]
+name = "Pimentel"
+nameCode = "Pimentel"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESCUDERO, SALVADOR III H."
+nameCode = "Escudero"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LAUDICO, MINERVA G."
+nameCode = "Laudico"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-12-07"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 123809
+congress = 9
+bill_no = "HB05190"
+report = "01092"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = "HEALTH"
+recomm = "APPROVAL WITHOUT AMENDMENT"
+date_read = "1992-12-07"
+date_ob = "1995-01-25"
+date_cal = "1995-01-25"
+date_unass = "1995-01-25"
+date_report = "1995-01-17"
+
+[secondReading]
+id = 19350
+congress = 9
+bill_no = "HB05190"
+date_calendared = "1995-02-07"
+date_approved = "1995-02-08"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 1619
+congress = 9
+bill_no = "HB05190"
+date_dist = "1995-02-09"
+date_adopt = "1995-02-14"
+no_yeas = 129
+no_nays = 0
+no_abstent = 0
+date_trans = "1995-02-16"
+date_rec = "1995-02-16"

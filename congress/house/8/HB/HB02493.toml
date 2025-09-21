@@ -1,0 +1,71 @@
+billNumber = "HB02493"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB02493"
+lastScraped = "2025-09-22T00:46:57.003940"
+title = "HB02493"
+longTitle = "AN ACT CHANGING THE NAME OF THE MUNICIPALITY OF DON MARIANO MARCOS, PROVINCE OF ZAMBOANGA DEL SUR, TO MUNICIPALITY OF SOMINOT"
+scope = "Local"
+dateFiled = "1987-10-08"
+status = "REPUBLIC ACT RA06684 (Lapsed into law on 1988-12-04)"
+statusOrder = 32.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Real"
+[[authorsDetail]]
+name = "Real"
+nameCode = "Real"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "522"
+dateRead = "1987-10-12"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 137182
+congress = 8
+bill_no = "HB02493"
+report = "00080"
+referral = "522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = "LOCAL GOVERNMENT"
+recomm = "APPROVAL WITH AMENDMENTS"
+date_read = "1987-10-12"
+date_ob = "1988-03-01"
+date_cal = "1988-03-01"
+date_unass = "1988-03-01"
+date_report = "1988-03-01"
+
+[secondReading]
+id = 20472
+congress = 8
+bill_no = "HB02493"
+date_approved = "1988-05-27"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 252
+congress = 8
+bill_no = "HB02493"
+date_dist = "1988-05-30"
+date_adopt = "1988-06-09"
+no_yeas = 133
+no_nays = 7
+no_abstent = 0
+date_trans = "1988-06-14"
+amend_ind = "N"
+act_pres = "L"
+dte_transp = "1988-11-02"
+dte_actedp = "1988-12-04"

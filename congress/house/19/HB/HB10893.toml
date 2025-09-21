@@ -1,0 +1,51 @@
+billNumber = "HB10893"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB10893"
+lastScraped = "2025-09-21T23:55:22.376453"
+title = "HB10893"
+longTitle = "AN ACT ABOLISHING THE USE OF PURCHASE SLIP BOOKLET FOR AVAILING\r\nSPECIAL PRIVILEGES FOR SENIOR CITIZENS AND PERSONS WITH DISABILITIES\r\n(PWDs), CREATING FOR THIS PURPOSE THE E-SENIOR CITIZENS AND PWDs\r\nDATABASE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2024-09-11"
+status = "Pending with the Committee on SENIOR CITIZENS since 2024-09-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB10893.pdf"
+fileSize = 478359
+author = "Tambunting, Gus S."
+[[authorsDetail]]
+name = "Tambunting, Gus S."
+nameCode = "Tambunting"
+date = "2024-09-11"
+sequence = 1
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "primary"
+referralCode = "I505"
+dateRead = "2024-09-16"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "principal"
+referralCode = "I505"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "secondary"
+referralCode = "J501"
+
+[firstReading]
+id = 15812
+congress = 19
+bill_no = "HB10893"
+report = ""
+comm_act = ""
+referral = "I505"
+ref_name = "SENIOR CITIZENS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2024-09-16"

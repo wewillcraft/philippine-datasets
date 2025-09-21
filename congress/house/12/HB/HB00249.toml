@@ -1,0 +1,68 @@
+billNumber = "HB00249"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00249"
+lastScraped = "2025-09-22T00:12:59.847922"
+title = "HB00249"
+longTitle = "AN ACT ESTABLISHING A NATIONAL TOURISM POLICY AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on TOURISM since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lapus"
+coAuthors = [ "ABLAN, ROQUE JR. R.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Lapus"
+nameCode = "Lapus"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ABLAN, ROQUE JR. R."
+nameCode = "Ablan"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "principal"
+referralCode = "0534"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "secondary"
+referralCode = "0516"
+
+[firstReading]
+id = 83409
+congress = 12
+bill_no = "HB00249"
+comm_act = "jt. ref'l as per j. 37; P.19"
+referral = "0538"
+ref_name = "TOURISM"
+sub_name = ""
+date_read = "2001-07-24"

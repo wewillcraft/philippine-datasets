@@ -1,0 +1,41 @@
+billNumber = "HB06002"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06002"
+lastScraped = "2025-09-22T00:20:58.475608"
+title = "HB06002"
+longTitle = "AN ACT PROVIDING THAT THE CONTRACTOR'S PROFIT FOR ALL GOVERNMENT INFRASTRUCTURE PROJECTS SHALL NOT EXCEED TWELVE PERCENT (12%) OF THE CONTRACT PRICE AMENDING FOR THE PURPOSE PRESIDENTIAL DECREE NUMBERED ONE THOUSAND FIVE HUNDRED AND NINETY-FOUR"
+scope = "National"
+dateFiled = "1996-01-30"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-02-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-02-01"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 112423
+congress = 10
+bill_no = "HB06002"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-02-01"

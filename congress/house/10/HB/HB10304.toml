@@ -1,0 +1,46 @@
+billNumber = "HB10304"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10304"
+lastScraped = "2025-09-22T00:20:59.356014"
+title = "HB10304"
+longTitle = "AN ACT CREATING THE MANILA PORT AUTHORITY, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING APPROPRIATIONS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1997-11-18"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-11-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-11-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116725
+congress = 10
+bill_no = "HB10304"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-11-24"

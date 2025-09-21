@@ -1,0 +1,49 @@
+billNumber = "HR01322"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01322"
+lastScraped = "2025-09-22T00:20:59.678193"
+title = "HR01322"
+longTitle = "RESOLUTION STRONGLY URGING THE HOUSE OF REPRESENTATIVES TO REQUIRE THE DEPARTMENT OF BUDGET AND MANAGEMENT TO EXPLAIN THE DELAYS IN THE RELEASES OF FUNDS FOR THE INFRASTRUCTURE PROJECTS IN REGION IV-B AND REVIEW THE TECHNICAL AND FINANCIAL ADMINISTRATION OF THE SAME"
+scope = "Local"
+dateFiled = "1997-08-08"
+status = "Pending with the Committee on APPROPRIATIONS since 1997-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villarosa"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Villarosa"
+nameCode = "Villarosa"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1997-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118376
+congress = 10
+bill_no = "HR01322"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+date_read = "1997-08-13"

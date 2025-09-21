@@ -1,0 +1,50 @@
+billNumber = "HR00824"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00824"
+lastScraped = "2025-09-22T00:47:02.688059"
+title = "HR00824"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON HEALTH AND THECOMMITTEE ON APPROPRIATIONS TO REVIEW AND RECOMMEND THE MEASURES FOR THE GSIS TO PROVIDE A HEALTH MAINTENANCE AND HOSPITAL INSURANCE PROGRAM FOR GOVERNMENT EMPLOYEES"
+scope = "National"
+dateFiled = "1988-08-02"
+status = "Pending with the Committee on HEALTH since 1988-08-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Verano-yap"
+coAuthors = [ "MARQUEZ, BIENVENIDO JR. O.",]
+[[authorsDetail]]
+name = "Verano-yap"
+nameCode = "Verano-yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MARQUEZ, BIENVENIDO JR. O."
+nameCode = "Marquez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-08-08"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170705
+congress = 8
+bill_no = "HR00824"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-08-08"

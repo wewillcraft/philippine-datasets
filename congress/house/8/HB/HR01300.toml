@@ -1,0 +1,50 @@
+billNumber = "HR01300"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01300"
+lastScraped = "2025-09-22T00:47:02.786696"
+title = "HR01300"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF HEALTH TO ADOPT A COMPREHENSIVE ALCOHOL ABUSE AND ALCOHOLISM PREVENTION, TREATMENT AND REHABILITATION PROGRAM"
+scope = "National"
+dateFiled = "1989-05-18"
+status = "Pending with the Committee on HEALTH since 1989-05-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "ZARRAGA, ISIDRO C.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZARRAGA, ISIDRO C."
+nameCode = "Zarraga"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-05-24"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171168
+congress = 8
+bill_no = "HR01300"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-05-24"

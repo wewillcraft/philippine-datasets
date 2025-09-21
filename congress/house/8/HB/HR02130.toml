@@ -1,0 +1,50 @@
+billNumber = "HR02130"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02130"
+lastScraped = "2025-09-22T00:47:02.967904"
+title = "HR02130"
+longTitle = "RESOLUTION URGING THE HOUSE COMMITTEE ON ENERGY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED ELECTRIC POWER THEFT PREVAILING AMONG UP-SCALE SUBDIVISIONS IN METRO MANILA"
+scope = "Local"
+dateFiled = "1991-01-28"
+status = "Pending with the Committee on ENERGY since 1991-01-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Borjal"
+coAuthors = [ "WEBB, FREDDIE N.",]
+[[authorsDetail]]
+name = "Borjal"
+nameCode = "Borjal"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "WEBB, FREDDIE N."
+nameCode = "Webb"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1991-01-31"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 171965
+congress = 8
+bill_no = "HR02130"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1991-01-31"

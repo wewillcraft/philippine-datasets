@@ -1,0 +1,58 @@
+billNumber = "HR00237"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00237"
+lastScraped = "2025-09-22T00:20:59.467519"
+title = "HR00237"
+longTitle = "RESOLUTION EXPRESSING THE HEARTFELT APPRECIATION OF THE HOUSE OF REPRESENTATIVES TO THE PEOPLE OF MALAYSIA LED BY PRIME MINISTER MAHATHIR MOHAMAD AND DEPUTY PRIME MINISTER ANWAR IBRAHIM AND THE INSTITUTE FOR POLICY RESEARCH MALAYSIA FOR HONORING OURNATIONAL HERO, SR. JOSE P. RIZAL"
+scope = "National"
+dateFiled = "1995-10-04"
+status = "Adopted as Resolution No. HR00063 on 1996-08-15"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Joaquin"
+[[authorsDetail]]
+name = "Joaquin"
+nameCode = "Joaquin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "primary"
+referralCode = "0513"
+dateRead = "1995-10-05"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[firstReading]
+id = 117291
+congress = 10
+bill_no = "HR00237"
+report = "00127"
+referral = "0513"
+ref_name = "FOREIGN AFFAIRS"
+recomm = "Adoption without amendments"
+date_read = "1995-10-05"
+date_ob = "1996-01-22"
+date_unass = "1996-01-23"
+date_report = "1996-01-03"
+
+[secondReading]
+id = 18942
+congress = 10
+bill_no = "HR00237"
+adopted_resolution = "HR00063"
+date_calendared = "1996-08-15"
+date_approved = "1996-08-15"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR00063.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_10/HR00063.pdf"

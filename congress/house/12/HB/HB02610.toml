@@ -1,0 +1,47 @@
+billNumber = "HB02610"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02610"
+lastScraped = "2025-09-22T00:13:00.266577"
+title = "HB02610"
+longTitle = "AN ACT ESTABLISHING A SCHOOL OF ARTS AND TRADES IN THE MUNICIPALITY OF CANDELARIA, PROVINCE OF QUEZON, TO BE KNOWN AS CANDELARIA SCHOOL OF ARTS AND TRADES, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-21"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2001-08-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2001-08-27"
+
+[[committee]]
+name = "CLIMATE CHANGE"
+type = "principal"
+referralCode = "H503"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85770
+congress = 12
+bill_no = "HB02610"
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+date_read = "2001-08-27"

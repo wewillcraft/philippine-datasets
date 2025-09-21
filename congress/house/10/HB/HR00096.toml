@@ -1,0 +1,42 @@
+billNumber = "HR00096"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00096"
+lastScraped = "2025-09-22T00:20:59.441652"
+title = "HR00096"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEES ON FOREIGN AFFAIRS, PUBLIC ORDER AND SECURITY, AND TOURISM TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE EMERGENCE OF SEX TOURS AND OTHER ACTS OF LASCIVIOUSNESS PERPETRATED BY FOREIGN NATIONALS IN DIFFERENT PLACES IN THE PHILIPPINES"
+scope = "National"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on TOURISM since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "ECOLOGY"
+type = "principal"
+referralCode = "A501"
+
+[firstReading]
+id = 117150
+congress = 10
+bill_no = "HR00096"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Tourism on Aug. 15, 1995."
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1995-08-14"

@@ -1,0 +1,62 @@
+billNumber = "HR00650"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00650"
+lastScraped = "2025-09-22T00:20:59.545515"
+title = "HR00650"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON REFORESTATION TO INVESTIGATE THE IMPLEMENTATION OF THE NATIONAL REFORESTATION PROGRAM BY THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES"
+scope = "National"
+dateFiled = "1996-05-29"
+status = "Pending with the Committee on NATURAL RESOURCES since 1996-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paredes"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Paredes"
+nameCode = "Paredes"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1996-06-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "REFORESTATION"
+type = "secondary"
+referralCode = "B505"
+
+[firstReading]
+id = 117704
+congress = 10
+bill_no = "HR00650"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Natural Resources and on Reforestat ion"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+date_read = "1996-06-03"

@@ -1,0 +1,47 @@
+billNumber = "HB00139"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00139"
+lastScraped = "2025-09-22T00:25:54.617349"
+title = "HB00139"
+longTitle = "AN ACT ESTABLISHING A TEN-BED COMMUNITY HOSPITAL IN THE MUNICIPALITY OF PINAMALAYAN, PROVINCE OF ORIENTAL MINDORO, TO BE KNOWN AS THE PINAMALAYAN COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-07-16"
+status = "Pending with the Committee on HEALTH since 1992-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-07-29"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 118758
+congress = 9
+bill_no = "HB00139"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-07-29"

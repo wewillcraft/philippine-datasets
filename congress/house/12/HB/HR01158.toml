@@ -1,0 +1,47 @@
+billNumber = "HR01158"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HR01158"
+lastScraped = "2025-09-22T00:13:01.407398"
+title = "HR01158"
+longTitle = "RESOLUTION URGING ALL PLAYERS IN THE PHILIPPINE OIL INDUSTRY TO OFFER AT LEAST ONE (1) HIGHER GRADE DIESEL IN THE MARKET TO AFFORD CONSUMER CHOICE AND ENSURE ENVIRONMENTAL PROTECTION"
+scope = "National"
+dateFiled = "2003-05-21"
+status = "Pending with the Committee on ENERGY since 2003-05-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Mathay"
+[[authorsDetail]]
+name = "Mathay"
+nameCode = "Mathay"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2003-05-26"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 91093
+congress = 12
+bill_no = "HR01158"
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "2003-05-26"

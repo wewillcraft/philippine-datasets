@@ -1,0 +1,47 @@
+billNumber = "HR01310"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01310"
+lastScraped = "2025-09-21T23:55:22.834398"
+title = "HR01310"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION, IN AID OF LEGISLATION, BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES, ON THE OVERIMPORTATION OF AGRICULTURAL PRODUCTS SUCH AS PORK, POULTRY, AND RICE, AND GOVERNMENT MEASURES TO CONTROL IMPORTATION"
+scope = "National"
+dateFiled = "2023-09-19"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2023-11-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01310.pdf"
+fileSize = 190472
+author = "BRIONES, NICANOR M."
+[[authorsDetail]]
+name = "BRIONES, NICANOR M."
+nameCode = "Briones"
+date = "2023-09-19"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2023-09-20"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 17854
+congress = 19
+bill_no = "HR01310"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-11-08"
+date_read = "2023-09-20"

@@ -1,0 +1,46 @@
+billNumber = "HB01514"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01514"
+lastScraped = "2025-09-22T00:20:57.633843"
+title = "HB01514"
+longTitle = "AN ACT ESTABLISHING A TEN-BED CAPACITY COMMUNITY HOSPITAL IN THE MUNICIPALITY OF BANSUD, PROVINCE OF ORIENTAL MINDORO, TO BE KNOWN AS THE BANSUD COMMUNITY HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-31"
+status = "Pending with the Committee on HEALTH since 1995-08-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Punzalan"
+[[authorsDetail]]
+name = "Punzalan"
+nameCode = "Punzalan"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-03"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107935
+congress = 10
+bill_no = "HB01514"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-03"

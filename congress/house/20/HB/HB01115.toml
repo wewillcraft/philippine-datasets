@@ -1,0 +1,51 @@
+billNumber = "HB01115"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB01115"
+lastScraped = "2025-09-21T23:39:48.519468"
+title = "HB01115"
+longTitle = "AN ACT PROVIDING RIGHT TO ACCESS TO MEDICAL CANNABIS, ESTABLISHING THE MEDICAL CANNABIS OFFICE AND PROVIDING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2025-07-02"
+status = "Pending with the Committee on DANGEROUS DRUGS since 2025-07-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB01115.pdf"
+fileSize = 429513
+author = "ALBANO, ANTONIO \"TONYPET\" T."
+[[authorsDetail]]
+name = "ALBANO, ANTONIO \"TONYPET\" T."
+nameCode = "Albano"
+date = "2025-07-02"
+sequence = 1
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "primary"
+referralCode = "D502"
+dateRead = "2025-07-29"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[firstReading]
+id = 1116
+congress = 103
+bill_no = "HB01115"
+report = ""
+comm_act = ""
+referral = "D502"
+ref_name = "DANGEROUS DRUGS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-07-29"

@@ -1,0 +1,67 @@
+billNumber = "HB00990"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00990"
+lastScraped = "2025-09-22T00:12:59.984719"
+title = "HB00990"
+longTitle = "AN ACT PROVIDING LEGAL ASSISTANCE TO MEMBERS OF THE ARMED FORCES OF THE PHILIPPINES AND THE PHILIPPINE NATIONAL POLICE CHARGED FOR SERVICE-CONNECT ED OFFENSES AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2001-07-11"
+status = "Pending with the Committee on NATIONAL DEFENSE since 2001-07-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "ESPINO, AMADO JR. T.", "ECLEO, GLENDA B.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR. T."
+nameCode = "Espino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "ECLEO, GLENDA B."
+nameCode = "Ecleo"
+date = ""
+journalNo = "J003"
+sessionNo = "1RS"
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "2001-07-25"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "secondary"
+referralCode = "0529"
+
+[firstReading]
+id = 84150
+congress = 12
+bill_no = "HB00990"
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+sub_name = ""
+date_read = "2001-07-25"

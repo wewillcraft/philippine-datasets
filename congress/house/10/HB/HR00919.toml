@@ -1,0 +1,62 @@
+billNumber = "HR00919"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00919"
+lastScraped = "2025-09-22T00:20:59.598416"
+title = "HR00919"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON ECOLOGY TO CONDUCT A PROBE ON THE REPORTS CONCERNING THE MERCURY-POISONI NG OF RESIDENTS AND WORKERS IN THE MOUNT DIWALWAL MINES IN MONKAYO AND THAT OF THE WORKERS AND RESIDENTS OF BARANGAY APOKON, TAGUM, BOTH MUNICIPALITIES OF DAVAO PROVINCE, AND TO HELP IN PROMULGATING REMEDIAL LEGISLATION FOR THIS MATTER"
+scope = "Local"
+dateFiled = "1996-10-17"
+status = "Pending with the Committee on RULES since 1996-11-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sarmiento"
+coAuthors = [ "SATOR, BALTAZAR A.", "DEL ROSARIO, RODOLFO P.",]
+[[authorsDetail]]
+name = "Sarmiento"
+nameCode = "Sarmiento"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SATOR, BALTAZAR A."
+nameCode = "Sator"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEL ROSARIO, RODOLFO P."
+nameCode = "Del Rosario"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-11-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECOLOGY"
+type = "secondary"
+referralCode = "A501"
+
+[firstReading]
+id = 117973
+congress = 10
+bill_no = "HR00919"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Ecology on Nov. 6, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-11-04"

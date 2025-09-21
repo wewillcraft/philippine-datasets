@@ -1,0 +1,68 @@
+billNumber = "HB01116"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01116"
+lastScraped = "2025-09-21T23:55:44.295548"
+title = "HB01116"
+longTitle = "AN ACT ADOPTING AN OMNIBUS COMPENSATION AND POSITION CLASSIFICATION OF CIVILIAN PERSONNEL AND THE BASE PAY SCHEDULE OF MILITARY AND UNIFORMED PERSONNEL IN THE GOVERNMENT, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01116.pdf"
+fileSize = 2807768
+author = "Alejano, Gary C."
+coAuthors = [ "NIETO, YUL SERVO", "DALIPE, MANUEL JOSE M.", "SUANSING, GING",]
+[[authorsDetail]]
+name = "Alejano, Gary C."
+nameCode = "Alejano"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-05-09"
+journalNo = "J087"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2017-08-22"
+journalNo = "J013"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "SUANSING, GING"
+nameCode = "Suansing (E.)"
+date = "2017-09-04"
+journalNo = "J017"
+sessionNo = "2RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 34584
+congress = 17
+bill_no = "HB01116"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

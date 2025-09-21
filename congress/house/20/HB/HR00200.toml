@@ -1,0 +1,46 @@
+billNumber = "HR00200"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00200"
+lastScraped = "2025-09-21T23:39:49.229151"
+title = "HR00200"
+longTitle = "RESOLUTION URGING THE COMMITTEE ON AGRICULTURE AND FOOD TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE IMPLEMENTATION OF REPUBLIC ACT NO. 11524, OTHERWISE KNOWN AS THE \"COCONUT FARMERS AND INDUSTRY TRUST FUND ACT\""
+dateFiled = "2025-08-27"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00200.pdf"
+fileSize = 322746
+author = "DE LIMA, LEILA M."
+[[authorsDetail]]
+name = "DE LIMA, LEILA M."
+nameCode = "De Lima"
+date = "2025-08-27"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-09-01"
+
+[[committee]]
+name = "POVERTY ALLEVIATION"
+type = "principal"
+referralCode = "B502"
+
+[firstReading]
+id = 4756
+congress = 103
+bill_no = "HR00200"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-01"

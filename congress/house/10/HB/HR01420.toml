@@ -1,0 +1,46 @@
+billNumber = "HR01420"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01420"
+lastScraped = "2025-09-22T00:20:59.696674"
+title = "HR01420"
+longTitle = "RESOLUTION URGING PRESIDENT FIDEL V. RAMOS, THROUGH THE COMMITTEE ON GOVERNMENT ENTERPRISES AND PRIVATIZATION OF THE HOUSE OF REPRESENTATIVES , TO REVIEW AND REJECT THE PROPOSAL BY THE MURRAY HILL PROPERTIES CORPORATION TO RENOVATE THE PHLIPPINE CENTER BUILDING IN FIFTH AVENUE, NEW YORK CITY, FOR BEING GROSSLY DISADVANTAGEOUS TO THE GOVERNMENT, AND RECOMMENDING DIRECT APPROPRIATIONS AND OTHER OPTIONS FOR THE PURPOSE"
+scope = "National"
+dateFiled = "1901-01-01"
+status = "Pending with the Committee on RULES since 1997-10-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-10-30"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[motherBills]]
+bill_no = "HR01220"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01220"
+flag = "S"
+
+[firstReading]
+id = 118474
+congress = 10
+bill_no = "HR01420"
+report = "01250"
+referral = "0532"
+ref_name = "RULES"
+recomm = "Adoption pursuant to House Resolution No. 1220."
+date_read = "1997-10-30"
+date_ob = "1997-10-30"
+date_report = "1997-10-30"

@@ -1,0 +1,60 @@
+billNumber = "HB01117"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=HB01117"
+lastScraped = "2025-09-22T00:13:48.051599"
+title = "HB01117"
+longTitle = "AN ACT ESTABLISHING THE COASTAL ENVIRONMENT PROGRAM, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2004-07-06"
+status = "Pending with the Committee on ECOLOGY since 2004-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_13/HB01117.pdf"
+fileSize = 38515355
+author = "Villar, Cynthia A."
+coAuthors = [ "ZAMORA, MANUEL \"WAY KURAT\" E.",]
+[[authorsDetail]]
+name = "Villar, Cynthia A."
+nameCode = "Villar"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ZAMORA, MANUEL \"WAY KURAT\" E."
+nameCode = "Zamora"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "2004-08-02"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 76207
+congress = 13
+bill_no = "HB01117"
+report = ""
+comm_act = ""
+referral = "A501"
+ref_name = "ECOLOGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2004-08-02"
+date_read = "2004-08-02"

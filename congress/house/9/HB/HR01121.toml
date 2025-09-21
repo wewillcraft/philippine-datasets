@@ -1,0 +1,82 @@
+billNumber = "HR01121"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01121"
+lastScraped = "2025-09-22T00:25:57.572530"
+title = "HR01121"
+longTitle = "RESOLUTION CONGRATULATING THE IGLESIA NI CRISTO UNDER THE LEADERSHIP OF KA ERDIE MANALO, ITS EXECUTIVE MINISTER, ON THE CELEBRATION OF ITS EIGHTIETH ANNIVERSARY ON JULY 27, 1994"
+scope = "National"
+dateFiled = "1994-07-26"
+status = "Adopted as Resolution No. HR00078 on 1994-07-26"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Jaime C."
+coAuthors = [ "VILLAROSA, JOSE T.",]
+[[authorsDetail]]
+name = "Lopez, Jaime C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "VILLAROSA, JOSE T."
+nameCode = "Villarosa"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1994-07-26"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[motherBills]]
+bill_no = "HR01079"
+flag = "S"
+
+[[motherBills]]
+bill_no = "HR01105"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01079"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR01105"
+flag = "S"
+
+[firstReading]
+id = 134427
+congress = 9
+bill_no = "HR01121"
+report = "00813"
+referral = "0532"
+ref_name = "RULES"
+sub_name = "RULES"
+recomm = "Approval in substituti on of HR Nos. 1079 and 1105"
+date_read = "1994-07-26"
+date_report = "1994-07-26"
+
+[secondReading]
+id = 20175
+congress = 9
+bill_no = "HR01121"
+adopted_resolution = "HR00078"
+remarks = "ALL MEMBERS WERE MADE CO-AUTHORS"
+date_calendared = "1994-07-26"
+date_approved = "1994-07-26"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+file = "HR01121.pdf"
+adopted_resolution_file = "https://docs.congress.hrep.online/legisdocs/second_9/HR01121.pdf"

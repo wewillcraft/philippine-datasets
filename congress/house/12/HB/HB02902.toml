@@ -1,0 +1,50 @@
+billNumber = "HB02902"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02902"
+lastScraped = "2025-09-22T00:13:00.331513"
+title = "HB02902"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NUMBERED SEVEN THOUSAND ONE HUNDRED AND SIXTY, OTHERWISE KNOWN AS THE LOCAL GOVERNMENT CODE OF 1991, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-09-05"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2001-09-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lanot"
+coAuthors = [ "OLANO, ARREL R.",]
+[[authorsDetail]]
+name = "Lanot"
+nameCode = "Lanot"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "OLANO, ARREL R."
+nameCode = "Olano"
+date = ""
+journalNo = "J021"
+sessionNo = "1RS"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2001-09-25"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 86062
+congress = 12
+bill_no = "HB02902"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "2001-09-25"

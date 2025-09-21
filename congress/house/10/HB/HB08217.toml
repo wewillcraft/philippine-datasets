@@ -1,0 +1,46 @@
+billNumber = "HB08217"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08217"
+lastScraped = "2025-09-22T00:20:58.922873"
+title = "HB08217"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A JET-MATIC WATER PUMP IN BARANGAY CABUGAO NUEVO, MUNICIPALITY OF SAN ENRIQUE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-10-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-17"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-17"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114638
+congress = 10
+bill_no = "HB08217"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-17"

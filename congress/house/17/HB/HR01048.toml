@@ -1,0 +1,68 @@
+billNumber = "HR01048"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01048"
+lastScraped = "2025-09-21T23:55:46.432288"
+title = "HR01048"
+longTitle = "RESOLUTION TO URGE THE PHILHEALTH TO EXPAND THE COVERAGE OF DIALYSIS IN THE LIST OF DISEASES AND AILMENTS COVERED BY ITS HEALTHCARE PROGRAM, WITH THE END IN VIEW OF MAKING A MORE COMPREHENSIVE DIALYSIS TREATMENT PROGRAM"
+scope = "National"
+dateFiled = "2017-05-31"
+status = "Substituted by HB09156"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01048.pdf"
+fileSize = 80370
+author = "Lanete, Scott Davies S., M.D."
+coAuthors = [ "NIETO, YUL SERVO", "LAZATIN, CARMELO II B.", "AUMENTADO, ERICO ARISTOTLE",]
+[[authorsDetail]]
+name = "Lanete, Scott Davies S., M.D."
+nameCode = "Lanete"
+date = "2017-05-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2017-08-07"
+journalNo = "J007"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "LAZATIN, CARMELO II B."
+nameCode = "Lazatin"
+date = "2017-08-15"
+journalNo = "J011"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "AUMENTADO, ERICO ARISTOTLE"
+nameCode = "Aumentado"
+date = "2017-08-22"
+journalNo = "J013"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2017-07-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 43790
+congress = 17
+bill_no = "HR01048"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2017-07-25"

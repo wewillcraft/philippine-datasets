@@ -1,0 +1,57 @@
+billNumber = "HB00328"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB00328"
+lastScraped = "2025-09-22T00:12:59.864693"
+title = "HB00328"
+longTitle = "AN ACT DECLARING THE NATIONAL POLICY ON, AND ESTABLISHING THE PROGRAM FRAMEWORK ON MENTAL HEALTH, PROVIDING THE IMPLEMENTING MECHANISMS THEREFOR AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2001-07-02"
+status = "Pending with the Committee on HEALTH since 2001-07-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales, Neptali II M."
+coAuthors = [ "LAGMAN-LUISTRO, CIELO KRISEL", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Gonzales, Neptali II M."
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LAGMAN-LUISTRO, CIELO KRISEL"
+nameCode = "Lagman-luistro"
+date = ""
+journalNo = "J030"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J041"
+sessionNo = "3RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-07-24"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 83488
+congress = 12
+bill_no = "HB00328"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-07-24"

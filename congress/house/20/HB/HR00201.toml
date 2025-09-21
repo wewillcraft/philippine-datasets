@@ -1,0 +1,56 @@
+billNumber = "HR00201"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00201"
+lastScraped = "2025-09-21T23:39:49.229302"
+title = "HR00201"
+longTitle = "A RESOLUTION CALLING FOR THE INVESTIGATION IN AID OF LEGISLATION INTO THE \"FUNDERS\" OR SPONSORS OF ALLEGED ANOMALOUS AND FICTITIOUS CONSTRUCTION PROJECTS INCLUDED IN THE GENERAL APPROPRIATIONS ACT OF 2025, INCLUDING THE ACTIONS OF THE DEPARTMENT OF BUDGET AND MANAGEMENT IN THE EVALUATION, RELEASE, AND WITHHOLDING OF FUNDS FOR THE SAID PROJECTS"
+dateFiled = "2025-08-27"
+status = "Pending with the Committee on PUBLIC ACCOUNTS since 2025-09-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00201.pdf"
+fileSize = 397805
+author = "PUNO, RONALDO V."
+[[authorsDetail]]
+name = "PUNO, RONALDO V."
+nameCode = "Puno"
+date = "2025-08-27"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2025-09-01"
+
+[[committee]]
+name = "SUFFRAGE AND ELECTORAL REFORMS"
+type = "principal"
+referralCode = "0537"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "secondary"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 4757
+congress = 103
+bill_no = "HR00201"
+report = ""
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-09-09"
+date_read = "2025-09-01"

@@ -1,0 +1,47 @@
+billNumber = "HB05331"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB05331"
+lastScraped = "2025-09-22T00:25:55.612134"
+title = "HB05331"
+longTitle = "AN ACT PROVIDING FOR THE SPRING DEVELOPMENT IN BARANGAY SILANGAN TALAONGAN IN THE MUNICIPALITY OF CAVINTI, PROVINCE OF LAGUNA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-12-01"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-12-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Palacol"
+[[authorsDetail]]
+name = "Palacol"
+nameCode = "Palacol"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-12-08"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123950
+congress = 9
+bill_no = "HB05331"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-12-08"

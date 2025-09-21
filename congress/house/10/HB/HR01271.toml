@@ -1,0 +1,63 @@
+billNumber = "HR01271"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01271"
+lastScraped = "2025-09-22T00:20:59.668965"
+title = "HR01271"
+longTitle = "RESOLUTION DIRECTING THE PROPER COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, AS TO THE COMPLIANCE WITH THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES (DENR) REQUIREMENT OF SECURING AN ENVIRONMENTAL COMPLIANCE CERTIFICATE PRIOR TO THE DEVELOPMENT OF REAL ESTATE"
+scope = "Local"
+dateFiled = "1997-07-02"
+status = "Pending with the Committee on ECOLOGY since 1997-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+coAuthors = [ "CALALAY, REYNALDO A.", "RODRIGUEZ, OSCAR S.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "ECOLOGY"
+type = "primary"
+referralCode = "A501"
+dateRead = "1997-07-30"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "principal"
+referralCode = "0513"
+
+[firstReading]
+id = 118325
+congress = 10
+bill_no = "HR01271"
+referral = "A501"
+ref_name = "ECOLOGY"
+date_read = "1997-07-30"

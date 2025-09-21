@@ -1,0 +1,60 @@
+billNumber = "HR01626"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR01626"
+lastScraped = "2025-09-22T00:23:18.257489"
+title = "HR01626"
+longTitle = "RESOLUTION INFORMING THE SENATE THAT A QUORUM BEING PRESENT, THE HOUSE OF REPRESENTATIVES HAS ENTERED UPON THE EXERCISE OF ITS FUNCTIONS"
+scope = "Local"
+dateFiled = "2000-07-13"
+status = "Adopted as Resolution No. HR00133 on 2000-07-17"
+statusOrder = 15.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "BELMONTE, FELICIANO JR.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BELMONTE, FELICIANO JR."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2000-07-17"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[firstReading]
+id = 106080
+congress = 11
+bill_no = "HR01626"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "2000-07-17"
+
+[secondReading]
+id = 17594
+congress = 11
+bill_no = "HR01626"
+adopted_resolution = "HR00133"
+date_calendared = "2000-07-17"
+date_approved = "2000-07-17"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

@@ -1,0 +1,47 @@
+billNumber = "HB04101"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04101"
+lastScraped = "2025-09-22T00:25:55.373904"
+title = "HB04101"
+longTitle = "AN ACT APPROPRIATING THE SUM OF P12 MILLION FOR THE CONSTRUCTION AND REHABILITATION OF THE IRRIGATION SYSTEM IN THE DIPOLOG-POLANCO AREA IN THE MUNICIPALITY OF POLANCO AND THE CITY OF DIPOLOG, PROVINCE OF ZAMBOANGA DEL NORTE"
+scope = "Local"
+dateFiled = "1992-10-22"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1992-10-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Amatong"
+[[authorsDetail]]
+name = "Amatong"
+nameCode = "Amatong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1992-10-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 122720
+congress = 9
+bill_no = "HB04101"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1992-10-27"

@@ -1,0 +1,47 @@
+billNumber = "HB04833"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB04833"
+lastScraped = "2025-09-22T00:13:00.687629"
+title = "HB04833"
+longTitle = "AN ACT AUTHORIZING THE EXPROPRIATION OF FIVE THOUSAND SQUARE METERS OF PRIVATE LAND IN CALUMPANG, DISTRICT OF MOLO, CITY OF ILOILO AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2002-05-23"
+status = "Pending with the Committee on HOUSING AND URBAN DEVELOPMENT since 2002-05-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "primary"
+referralCode = "0518"
+dateRead = "2002-05-28"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 87988
+congress = 12
+bill_no = "HB04833"
+referral = "0518"
+ref_name = "HOUSING AND URBAN DEVELOPMENT"
+sub_name = ""
+date_read = "2002-05-28"

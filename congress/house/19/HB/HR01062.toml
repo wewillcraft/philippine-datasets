@@ -1,0 +1,47 @@
+billNumber = "HR01062"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01062"
+lastScraped = "2025-09-21T23:55:22.785107"
+title = "HR01062"
+longTitle = "A RESOLUTION URGING THE COMMITTEES ON AGRICULTURE AND FOOD AND TRADE AND INDUSTRY TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE CONTINUING LOW PRICE OF COPRA IN THE MARKET."
+scope = "National"
+dateFiled = "2023-05-30"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2023-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01062.pdf"
+fileSize = 751840
+author = "LIBANAN, MARCELINO C."
+[[authorsDetail]]
+name = "LIBANAN, MARCELINO C."
+nameCode = "Libanan"
+date = "2023-05-30"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2023-05-31"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 17606
+congress = 19
+bill_no = "HR01062"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2023-07-26"
+date_read = "2023-05-31"

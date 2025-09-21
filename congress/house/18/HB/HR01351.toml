@@ -1,0 +1,46 @@
+billNumber = "HR01351"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01351"
+lastScraped = "2025-09-22T00:01:47.598091"
+title = "HR01351"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE HOUSE COMMITTEE TO CONDUCT AN IMMEDIATE INVESTIGATION, IN AID OF LEGISLATION, INTO THE RECENT QUESTIONABLE RELEASES OF WATER FROM DAMS AND RESERVOIRS WHICH PURPORTEDLY CONTRIBUTED TO THE MASSIVE FLOODING TRIGGERED BY TYPHOON ULYSSES (VAMCO)\r\n"
+scope = "National"
+dateFiled = "2020-11-17"
+status = "Pending with the Committee on RULES since 2020-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01351.pdf"
+fileSize = 1123025
+author = "Fernandez, Dan S."
+[[authorsDetail]]
+name = "Fernandez, Dan S."
+nameCode = "Fernandez"
+date = "2020-11-17"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2020-11-23"
+
+[[committee]]
+name = "DANGEROUS DRUGS"
+type = "principal"
+referralCode = "D502"
+
+[firstReading]
+id = 31669
+congress = 18
+bill_no = "HR01351"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-11-23"

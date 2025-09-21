@@ -1,0 +1,42 @@
+billNumber = "HR00024"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00024"
+lastScraped = "2025-09-22T00:47:02.527494"
+title = "HR00024"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON HEALTH TO CONDUCT AN INQUIRY INTO THE SO-CALLED \"RED TIDE\" WHICH HAS REPORTEDLY BROUGHT NOT ONLY SUBSTANTIAL LOSSES IN TERMS OF SEA CATCH AND AQUACULTURE HARVESTS, BUT ALSO DEATH TO FISHERMEN AND RESIDENTS OF COASTAL TOWNS, PARTICULARLY IN THE PROVINCE OF CAVITE AND SAMAR, AND TO RECOMMEND SUCH REMEDIAL MEASURES AS MAY BE NECESSARY UNDER THE CIRCUMSTANCES"
+scope = "Local"
+dateFiled = "1987-07-27"
+status = "Pending with the Committee on HEALTH since 1987-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Santos"
+[[authorsDetail]]
+name = "Santos"
+nameCode = "Santos"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-07-30"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 169934
+congress = 8
+bill_no = "HR00024"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-07-30"

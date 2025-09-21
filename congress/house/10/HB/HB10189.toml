@@ -1,0 +1,46 @@
+billNumber = "HB10189"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10189"
+lastScraped = "2025-09-22T00:20:59.330614"
+title = "HB10189"
+longTitle = "AN ACT CONVERTING THE STA. ROSA MUNICIPAL HIGH SCHOOL IN STA. ROSA, PROVINCE OF NUEVA ECIJA INTO NATIONAL HIGH SCHOOL TO BE KNOWN AS STA. ROSA NATIONAL HIGH SCHOOL AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1997-10-27"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1997-10-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-10-29"
+
+[[committee]]
+name = "OVERSEAS WORKERS AFFAIRS"
+type = "principal"
+referralCode = "E513"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 116610
+congress = 10
+bill_no = "HB10189"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-10-29"

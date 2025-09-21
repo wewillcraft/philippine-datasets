@@ -1,0 +1,42 @@
+billNumber = "HB12621"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12621"
+lastScraped = "2025-09-22T00:25:56.931166"
+title = "HB12621"
+longTitle = "AN ACT ESTABLISHING A MUNICIPAL HIGH SCHOOL IN THE MUNICIPALITY OF AYUNGON, NEGROS ORIENTAL,"
+scope = "Local"
+dateFiled = "1994-04-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1994-05-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1994-05-04"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131236
+congress = 9
+bill_no = "HB12621"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1994-05-04"

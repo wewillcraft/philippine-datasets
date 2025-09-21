@@ -1,0 +1,57 @@
+billNumber = "HB02500"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02500"
+lastScraped = "2025-09-22T00:13:00.247959"
+title = "HB02500"
+longTitle = "AN ACT REDUCING THE RETIREMENT AGE OF GOVERNMENT EMPLOYEES, AMENDING FURTHER FOR THE PURPOSE THE 'GOVERNMENT SERVICE INSURANCE SYSTEM ACT OF 1997,' AND FOR OTHER  PURPOSES"
+scope = "National"
+dateFiled = "2001-08-16"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 2001-08-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Roco"
+coAuthors = [ "RODRIGUEZ, OSCAR S.", "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Roco"
+nameCode = "Roco"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = "J017"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J057"
+sessionNo = "2RS"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "2001-08-22"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[firstReading]
+id = 85660
+congress = 12
+bill_no = "HB02500"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+sub_name = ""
+date_read = "2001-08-22"

@@ -1,0 +1,47 @@
+billNumber = "HB03186"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB03186"
+lastScraped = "2025-09-22T00:13:00.382180"
+title = "HB03186"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT AND CONSTRUCTION OF A DIALYSIS CENTER IN THE MUNICIPALITY OF MATI, DAVAO ORIENTAL TO BE KNOWN AS DAVAO ORIENTAL DIALYSIS CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-09-21"
+status = "Pending with the Committee on HEALTH since 2001-09-27"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Almario, Mayo Z."
+[[authorsDetail]]
+name = "Almario, Mayo Z."
+nameCode = "Almario"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-09-27"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 86346
+congress = 12
+bill_no = "HB03186"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-09-27"

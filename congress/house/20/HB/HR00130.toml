@@ -1,0 +1,46 @@
+billNumber = "HR00130"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HR00130"
+lastScraped = "2025-09-21T23:39:49.218207"
+title = "HR00130"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION, IN AID OF LEGISLATION, BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES, ON THE IMMEDIATE INCREASE IN THE MOST FAVORED NATION (MFN) TARIFF RATES ON IMPORTED RICE\r\nMODIFIED BY EXECUTIVE ORDER NO. 62, SERIES OF 2024"
+dateFiled = "2025-08-11"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2025-08-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HR00130.pdf"
+fileSize = 231286
+author = "Briones, Nicanor  M."
+[[authorsDetail]]
+name = "Briones, Nicanor  M."
+nameCode = "Briones"
+date = "2025-08-11"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2025-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 4686
+congress = 103
+bill_no = "HR00130"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2025-08-20"
+date_read = "2025-08-13"

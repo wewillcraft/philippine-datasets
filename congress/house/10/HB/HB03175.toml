@@ -1,0 +1,46 @@
+billNumber = "HB03175"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03175"
+lastScraped = "2025-09-22T00:20:57.961527"
+title = "HB03175"
+longTitle = "AN ACT CONSTRUCTING A 150-SQUARE METER MULTIPURPOSE PAVEMENT IN BARANGAY FUENTES, MUNICIPALITY OF BANATE, PROVINCE OF ILOILO, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-09-04"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-09-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-09-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 109596
+congress = 10
+bill_no = "HB03175"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-09-07"

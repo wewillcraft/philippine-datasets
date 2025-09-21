@@ -1,0 +1,46 @@
+billNumber = "HB07826"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07826"
+lastScraped = "2025-09-22T00:20:58.849717"
+title = "HB07826"
+longTitle = "AN ACT ESTABLISHING A FISHERY RESEARCH AND DEVELOPMENT CENTER IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-27"
+status = "Pending with the Committee on FISHERIES INDUSTRY (SPECIAL CTTE.) since 1996-08-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+type = "primary"
+referralCode = "B509"
+dateRead = "1996-08-29"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114247
+congress = 10
+bill_no = "HB07826"
+referral = "B509"
+ref_name = "FISHERIES INDUSTRY (SPECIAL CTTE.)"
+date_read = "1996-08-29"

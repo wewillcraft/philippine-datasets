@@ -1,0 +1,42 @@
+billNumber = "HB01938"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01938"
+lastScraped = "2025-09-22T00:46:56.901985"
+title = "HB01938"
+longTitle = "AN ACT ESTABLISHING A FIFTY-BED CAPACITY GENERAL HOSPITAL IN THE MUNICIPALITY OF BALAGTAS, PROVINCEOF BULACAN, TO BE KNOWN AS THE BALAGTAS GENERAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on HEALTH since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rivera"
+[[authorsDetail]]
+name = "Rivera"
+nameCode = "Rivera"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 136628
+congress = 8
+bill_no = "HB01938"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-29"

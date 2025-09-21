@@ -1,0 +1,54 @@
+billNumber = "HB01027"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01027"
+lastScraped = "2025-09-21T23:55:44.280730"
+title = "HB01027"
+longTitle = "AN ACT AMENDING CERTAIN PROVISIONS OF REPUBLIC ACT NO. 7471 AS AMENDED BY REPUBLIC ACT NO. 9301, ENTITLED \\\"AN ACT TO PROMOTE THE DEVELOPMENT OF THE PHILIPPINE OVERSEAS SHIPPING\\\" AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-07-04"
+status = "Pending with the Committee on TRANSPORTATION since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01027.pdf"
+fileSize = 733676
+author = "Manalo, Jesulito \"Jess\" A."
+coAuthors = [ "BATAOIL, LEOPOLDO N.",]
+[[authorsDetail]]
+name = "Manalo, Jesulito \"Jess\" A."
+nameCode = "Manalo"
+date = "2016-07-04"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BATAOIL, LEOPOLDO N."
+nameCode = "Bataoil"
+date = "2016-09-05"
+journalNo = "J018"
+sessionNo = "1RS"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 34495
+congress = 17
+bill_no = "HB01027"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

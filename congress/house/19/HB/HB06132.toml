@@ -1,0 +1,61 @@
+billNumber = "HB06132"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB06132"
+lastScraped = "2025-09-21T23:55:21.213224"
+title = "HB06132"
+longTitle = "AN ACT PROVIDING FOR THE MAGNA CARTA OF PRIVATE HEALTH WORKERS"
+scope = "National"
+dateFiled = "2022-11-15"
+status = "Pending with the Committee on HEALTH since 2022-11-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB06132.pdf"
+fileSize = 2774764
+author = "Castro, France L."
+coAuthors = [ "BULUT-BEGTANG, ELEANOR C.",]
+[[authorsDetail]]
+name = "Castro, France L."
+nameCode = "Castro (F.)"
+date = "2022-11-15"
+sequence = 1
+
+[[authorsDetail]]
+name = "Brosas, Arlene D."
+nameCode = "Brosas"
+date = "2022-11-15"
+sequence = 2
+
+[[coAuthorsDetail]]
+name = "BULUT-BEGTANG, ELEANOR C."
+nameCode = "Bulut-Begtang"
+date = "2022-12-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2022-11-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 11051
+congress = 19
+bill_no = "HB06132"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+file = ""
+date_read = "2022-11-21"

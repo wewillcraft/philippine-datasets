@@ -1,0 +1,47 @@
+billNumber = "HB02447"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02447"
+lastScraped = "2025-09-22T00:13:00.239144"
+title = "HB02447"
+longTitle = "AN ACT ESTABLISHING A POLYTECHNIC COLLEGE IN THE MUNICIPALITY OF GUIMBAL, PROVINCE OF ILOILO TO BE KNOWN AS THE GUIMBAL POLYTECHNIC COLLEGE AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "2001-08-15"
+status = "Pending with the Committee on HIGHER AND TECHNICAL EDUCATION since 2001-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "primary"
+referralCode = "C502"
+dateRead = "2001-08-21"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 85607
+congress = 12
+bill_no = "HB02447"
+referral = "C502"
+ref_name = "HIGHER AND TECHNICAL EDUCATION"
+sub_name = ""
+date_read = "2001-08-21"

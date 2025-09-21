@@ -1,0 +1,54 @@
+billNumber = "HR01300"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01300"
+lastScraped = "2025-09-22T00:20:59.673848"
+title = "HR01300"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEES ON BANKS AND FINANCIAL INTERMEDIARIES AND ECONOMIC AFFAIRS TO CONDCUT AN INVESTIGATION, IN AID OF LEGISLATION, INTO ABRUPT AND SPIRALING INCREASE IN THE INTEREST RATES ON LOANS CONTRACTED TO THE PRIVATE SECTOR AFTER THE DE FACTO DEPRECIATION OF THE PHILIPPINE PESO AND TO RECOMMEND REMEDIAL LEGISLATIVE MEASURES THEREFOR"
+scope = "National"
+dateFiled = "1997-07-28"
+status = "Pending with the Committee on BANKS AND FINANCIAL INTERMEDIARIES since 1997-08-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Nograles, Prospero C."
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Nograles, Prospero C."
+nameCode = "Nograles"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "BANKS AND FINANCIAL INTERMEDIARIES"
+type = "primary"
+referralCode = "0505"
+dateRead = "1997-08-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "ECONOMIC AFFAIRS"
+type = "secondary"
+referralCode = "0536"
+
+[firstReading]
+id = 118354
+congress = 10
+bill_no = "HR01300"
+referral = "0505"
+ref_name = "BANKS AND FINANCIAL INTERMEDIARIES"
+date_read = "1997-08-06"

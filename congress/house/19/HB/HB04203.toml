@@ -1,0 +1,54 @@
+billNumber = "HB04203"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HB04203"
+lastScraped = "2025-09-21T23:55:20.817627"
+title = "HB04203"
+longTitle = "AN ACT PROMOTING REFORESTATION AND INCREASING WOOD PRODUCTION THROUGH THE ESTABLISHMENT OF TREE GROWING AGREEMENTS"
+scope = "National"
+dateFiled = "2022-08-30"
+status = "Pending with the Committee on REFORESTATION since 2022-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HB04203.pdf"
+fileSize = 462714
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "RIVERA, BONG",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez (R.)"
+date = "2022-08-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "RIVERA, BONG"
+nameCode = "Rivera"
+date = "2023-10-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "REFORESTATION"
+type = "primary"
+referralCode = "B505"
+dateRead = "2022-09-05"
+
+[[committee]]
+name = "REFORESTATION"
+type = "principal"
+referralCode = "B505"
+
+[firstReading]
+id = 9122
+congress = 19
+bill_no = "HB04203"
+report = ""
+comm_act = ""
+referral = "B505"
+ref_name = "REFORESTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2022-09-05"

@@ -1,0 +1,49 @@
+billNumber = "HR01236"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01236"
+lastScraped = "2025-09-22T00:20:59.663074"
+title = "HR01236"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE ALLEGED MISMANAGEMENT OF THE LUNG CENTER OF THE PHILIPPINES"
+scope = "Local"
+dateFiled = "1997-05-29"
+status = "Pending with the Committee on HEALTH since 1997-06-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Candazo"
+coAuthors = [ "CALALAY, REYNALDO A.",]
+[[authorsDetail]]
+name = "Candazo"
+nameCode = "Candazo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1997-06-03"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118290
+congress = 10
+bill_no = "HR01236"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1997-06-03"

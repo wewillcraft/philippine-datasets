@@ -1,0 +1,54 @@
+billNumber = "HR01101"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HR01101"
+lastScraped = "2025-09-22T00:01:47.540642"
+title = "HR01101"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ALLEGED ANOMALOUS INFORMATION TECHNOLOGY (IT) PROJECT OF THE PHILIPPINE HEALTH INSURANCE CORPORATION (PHILHEALTH)"
+scope = "National"
+dateFiled = "2020-08-03"
+status = "Pending With Rules (Included in OB on 2021-03-02)"
+statusOrder = 8.5
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HR01101.pdf"
+fileSize = 989720
+author = "Castelo, Precious Hipolito"
+[[authorsDetail]]
+name = "Castelo, Precious Hipolito"
+nameCode = "Castelo"
+date = "2020-08-03"
+sequence = 1
+
+[[committee]]
+name = "PUBLIC ACCOUNTS"
+type = "primary"
+referralCode = "D501"
+dateRead = "2020-08-05"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[firstReading]
+id = 31420
+congress = 18
+bill_no = "HR01101"
+report = "00776"
+comm_act = ""
+referral = "D501"
+ref_name = "PUBLIC ACCOUNTS"
+sub_name = "PUBLIC ACCOUNTS, GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+recomm = "Informing the House of their findings and recommendations"
+remarks = ""
+date_pend = "2020-09-02"
+date_read = "2020-08-05"
+date_ob = "2021-03-02"
+date_report = "2021-03-01"

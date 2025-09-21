@@ -1,0 +1,42 @@
+billNumber = "HR02045"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02045"
+lastScraped = "2025-09-22T00:47:02.931377"
+title = "HR02045"
+longTitle = "RESOLUTION REQUESTING THE COMMITTEE ON ENERGY TO STUDY IN AID OF LEGISLATION THE INTRODUCTION OF A TWO-TIERED PRICING MECHANISM FOR DOMESTIC PETROLEUM PRODUCTS AS A SUPPORT MEASURE TO THE PROPOSED GAS RATIONING PROGRAM"
+scope = "National"
+dateFiled = "1990-11-27"
+status = "Pending with the Committee on ENERGY since 1990-12-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing"
+[[authorsDetail]]
+name = "Bagatsing"
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "510"
+dateRead = "1990-12-03"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 171881
+congress = 8
+bill_no = "HR02045"
+referral = "510"
+ref_name = "ENERGY"
+sub_name = ""
+date_read = "1990-12-03"

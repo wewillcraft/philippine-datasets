@@ -1,0 +1,46 @@
+billNumber = "HB02413"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB02413"
+lastScraped = "2025-09-22T00:20:57.800559"
+title = "HB02413"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A CIRCUMFERENTIAL ROAD AROUND THE TAAL LAKE AREA, FROM THE MUNICIPALITY OF TALISAY TO THE MUNICIPALITY OF BALETE, BOTH IN THE PROVINCE OF BATAGNAS, APPROPRIATING FUNDS THEREFOR AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1995-08-15"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-08-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Laurel-trinidad"
+[[authorsDetail]]
+name = "Laurel-trinidad"
+nameCode = "Laurel-trinidad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-21"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108834
+congress = 10
+bill_no = "HB02413"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-08-21"

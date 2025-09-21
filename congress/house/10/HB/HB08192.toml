@@ -1,0 +1,46 @@
+billNumber = "HB08192"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08192"
+lastScraped = "2025-09-22T00:20:58.918939"
+title = "HB08192"
+longTitle = "AN ACT APPROPRIATING FUNDS FOR THE CONSTRUCTION OF A HOME ECONOMICS BUILDING FOR THE BOTONGON ELEMENTARY SCHOOL, BARANGAY BOTONGON, MUNICIPALITY OF ESTANCIA, PROVINCE OF ILOILO"
+scope = "Local"
+dateFiled = "1996-10-14"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1996-10-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tupas"
+[[authorsDetail]]
+name = "Tupas"
+nameCode = "Tupas"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1996-10-16"
+
+[[committee]]
+name = "MICRO, SMALL AND MEDIUM ENTERPRISE DEVELOPMENT"
+type = "principal"
+referralCode = "E510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114613
+congress = 10
+bill_no = "HB08192"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1996-10-16"

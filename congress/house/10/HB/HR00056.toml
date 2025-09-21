@@ -1,0 +1,41 @@
+billNumber = "HR00056"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00056"
+lastScraped = "2025-09-22T00:20:59.434681"
+title = "HR00056"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON PUBLIC INFORMATION TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE NATIONWIDE TELEVISION COVERAGE OF AMATEUR JAI-ALAI GAMES WHICH HAS CREATED OPPORTUNITIES FOR ILLEGAL GAMBLING AND TO RECOMMEND MEASURES AS MAY BE NECESSARY TO PROTECT AND PROMOTE PUBLIC INTEREST"
+scope = "National"
+dateFiled = "1995-07-28"
+status = "Pending with the Committee on RULES since 1995-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Del Mar, Raul V."
+[[authorsDetail]]
+name = "Del Mar, Raul V."
+nameCode = "Del Mar"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 117110
+congress = 10
+bill_no = "HR00056"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1995-08-02"

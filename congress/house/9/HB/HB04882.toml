@@ -1,0 +1,55 @@
+billNumber = "HB04882"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04882"
+lastScraped = "2025-09-22T00:25:55.533606"
+title = "HB04882"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION, MAINTENANCE AND OPERATION OF A MUNICIPAL ICE PLANT AND COLD STORAGE FACILITY IN THE MUNICIPALITY OF AGOO, PROVINCE OF LA UNION, TO BE KNOWN AS  AGOO ICE PLANT AND COLD STORAGE FACILITY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-11-16"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1992-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aspiras"
+coAuthors = [ "ORTEGA, VICTOR F.",]
+[[authorsDetail]]
+name = "Aspiras"
+nameCode = "Aspiras"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ORTEGA, VICTOR F."
+nameCode = "Ortega"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1992-11-19"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123501
+congress = 9
+bill_no = "HB04882"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1992-11-19"

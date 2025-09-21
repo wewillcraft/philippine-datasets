@@ -1,0 +1,41 @@
+billNumber = "HR00435"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00435"
+lastScraped = "2025-09-22T00:23:18.026902"
+title = "HR00435"
+longTitle = "RESOLUTION CALLING FOR THE STRICT COMPLIANCE WITH COA RULES AND REGULATIONS REGARDING FOREIGN TRAVELS"
+scope = "National"
+dateFiled = "1998-10-13"
+status = "Pending with the Committee on ETHICS since 1998-10-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "ETHICS"
+type = "primary"
+referralCode = "0511"
+dateRead = "1998-10-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 104893
+congress = 11
+bill_no = "HR00435"
+referral = "0511"
+ref_name = "ETHICS"
+sub_name = ""
+date_read = "1998-10-19"

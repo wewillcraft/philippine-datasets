@@ -1,0 +1,41 @@
+billNumber = "HB09922"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09922"
+lastScraped = "2025-09-22T00:20:59.269419"
+title = "HB09922"
+longTitle = "AN ACT NAMING THE PHILIPPINE NATIONAL POLICE PROVINCIAL OFFICE IN THE MUNICIPALITY OF MAASIN, PROVINCE OF SOUTHERN LEYTE, TO CAMP ALFREDO K. BANTUG"
+scope = "Local"
+dateFiled = "1997-09-01"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1997-09-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "MERCADO, ROGER GAVIOLA"
+[[authorsDetail]]
+name = "MERCADO, ROGER GAVIOLA"
+nameCode = "Mercado"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1997-09-04"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 116343
+congress = 10
+bill_no = "HB09922"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1997-09-04"

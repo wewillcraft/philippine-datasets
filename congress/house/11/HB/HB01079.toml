@@ -1,0 +1,46 @@
+billNumber = "HB01079"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HB01079"
+lastScraped = "2025-09-22T00:23:15.698699"
+title = "HB01079"
+longTitle = "AN ACT CREATING SPECIAL CRIMINAL COURTS AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1998-07-17"
+status = "Pending with the Committee on JUSTICE since 1998-07-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[authorsDetail]]
+name = ""
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-07-30"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 92520
+congress = 11
+bill_no = "HB01079"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1998-07-30"

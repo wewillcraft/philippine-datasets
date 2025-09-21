@@ -1,0 +1,47 @@
+billNumber = "HB05173"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB05173"
+lastScraped = "2025-09-22T00:13:00.760274"
+title = "HB05173"
+longTitle = "AN ACT ESTABLISHING A CLASS `D' DISTRICT OFFICE OF THE LAND TRANSPORTATION OFFICE IN THE MUNICIPALITY OF GUIMBAL, PROVINCE OF ILOILO AND APPROPRIATING THE AMOUNT OF TWO MILLION PESOS FOR THE PURPOSE"
+scope = "Local"
+dateFiled = "2002-08-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2002-09-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garin"
+[[authorsDetail]]
+name = "Garin"
+nameCode = "Garin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2002-09-05"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 88328
+congress = 12
+bill_no = "HB05173"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2002-09-05"

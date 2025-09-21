@@ -1,0 +1,42 @@
+billNumber = "HB14236"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB14236"
+lastScraped = "2025-09-22T00:25:57.245558"
+title = "HB14236"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A TWENTY-FIVE-BED MUNICIPAL HOSPITAL IN THE MUNICIPALITY OF SUBIC, PROVINCE OF ZAMBALES, TO BE KNOWN AS SUBIC MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1994-11-29"
+status = "Pending with the Committee on HEALTH since 1994-12-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gordon"
+[[authorsDetail]]
+name = "Gordon"
+nameCode = "Gordon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-12-06"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 132845
+congress = 9
+bill_no = "HB14236"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-12-06"

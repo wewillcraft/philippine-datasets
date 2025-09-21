@@ -1,0 +1,61 @@
+billNumber = "HR01338"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01338"
+lastScraped = "2025-09-22T00:20:59.681445"
+title = "HR01338"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON JUSTICE TO FORM A SPECIAL COMMITTEE TO COLLABORATE WITH THE COMMITTEE ON NATIONAL DEFENSE TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON RECENT HAZING ACTIVITIES AT THE PHILIPPINE MILITARY ACADEMY (PMA),BAGUIO CITY, AND THE HAZING ACTIVITY AT THE PHILIPPINE NATIONAL POLICE ACADEMY (PNPA), CAMP CASTANEDA, CAVITE, FOR APPROPRIATE LEGISLATIVE MEASURES"
+scope = "Local"
+dateFiled = "1997-08-15"
+status = "Pending with the Committee on JUSTICE since 1997-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+coAuthors = [ "LIBAN, DANTE V.", "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-08-25"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "secondary"
+referralCode = "0525"
+
+[firstReading]
+id = 118392
+congress = 10
+bill_no = "HR01338"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-08-25"

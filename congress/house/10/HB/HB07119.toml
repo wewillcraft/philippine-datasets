@@ -1,0 +1,46 @@
+billNumber = "HB07119"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07119"
+lastScraped = "2025-09-22T00:20:58.683919"
+title = "HB07119"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A SCHOLARSHIP PROGRAM IN THE MUNICIPALITY OF PORAC, PROVINCE OF PAMPANGA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-05-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-05-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cruz-ducut"
+[[authorsDetail]]
+name = "Cruz-ducut"
+nameCode = "Cruz-ducut"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-05-29"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 113540
+congress = 10
+bill_no = "HB07119"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-05-29"

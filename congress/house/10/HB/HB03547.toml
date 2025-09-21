@@ -1,0 +1,41 @@
+billNumber = "HB03547"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB03547"
+lastScraped = "2025-09-22T00:20:58.032142"
+title = "HB03547"
+longTitle = "AN ACT AMENDING SECTION 28 OF REPUBLIC ACT NO. 6975, OTHERWISE KNOWN AS 'THE DEPARTMENT OF INTERIOR AND LOCAL GOVERNMENT ACT OF 1990', BY REVERTING TO THEIR FORMER NAMES THE RANK CLASSIFICATIONS IN THE PHILIPPINE NATIONAL POLICE (PNP)"
+scope = "National"
+dateFiled = "1995-09-18"
+status = "Pending with the Committee on PUBLIC ORDER AND SECURITY since 1995-09-21"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC ORDER AND SECURITY"
+type = "primary"
+referralCode = "0529"
+dateRead = "1995-09-21"
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "principal"
+referralCode = "0515"
+
+[firstReading]
+id = 109968
+congress = 10
+bill_no = "HB03547"
+referral = "0529"
+ref_name = "PUBLIC ORDER AND SECURITY"
+date_read = "1995-09-21"

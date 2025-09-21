@@ -1,0 +1,46 @@
+billNumber = "HB01926"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01926"
+lastScraped = "2025-09-22T00:20:57.708673"
+title = "HB01926"
+longTitle = "AN ACT ESTABLISHING A 25-BEDROOM MUNICIPAL HOSPITAL IN BARANGAY NANAGUN, MUNICIPALITY OF LUMBAYANAGUE, PROVINCE OF LANAO DEL SUR, TO BE KNOWN AS THE LUMBAYANAGUE MUNICIPAL HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-07"
+status = "Pending with the Committee on HEALTH since 1995-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Balindong, Pangalian M."
+[[authorsDetail]]
+name = "Balindong, Pangalian M."
+nameCode = "Balindong"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-10"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108347
+congress = 10
+bill_no = "HB01926"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-10"

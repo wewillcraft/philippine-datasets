@@ -1,0 +1,42 @@
+billNumber = "HR00948"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00948"
+lastScraped = "2025-09-22T00:47:02.710575"
+title = "HR00948"
+longTitle = "RESOLUTION URGING THE NATIONAL TELECOMMUNICATI ONSCOMMISSION TO PRIORITIZE THE ESTABLISHMENT OF PHILIPPINE LONG DISTANCE TELEPHONE COMPANY FACILITIESIN THE PROVINCE OF QUIRINO"
+scope = "Local"
+dateFiled = "1988-09-27"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATION since 1988-10-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cua"
+[[authorsDetail]]
+name = "Cua"
+nameCode = "Cua"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATION"
+type = "primary"
+referralCode = "540"
+dateRead = "1988-10-03"
+
+[[committee]]
+name = "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+type = "principal"
+referralCode = "E504"
+
+[firstReading]
+id = 170826
+congress = 8
+bill_no = "HR00948"
+referral = "540"
+ref_name = "TRANSPORTATION AND COMMUNICATION"
+sub_name = ""
+date_read = "1988-10-03"

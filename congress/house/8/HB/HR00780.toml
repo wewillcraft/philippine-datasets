@@ -1,0 +1,42 @@
+billNumber = "HR00780"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00780"
+lastScraped = "2025-09-22T00:47:02.678926"
+title = "HR00780"
+longTitle = "RESOLUTION CREATING A SPECIAL COMMITTEE TO REVIEW, IN AID OF LEGISLATION, THE SALARY RANGES OF EMPLOYEES IN GOVERNMENT OWNED OR CONTROLLED CORPORATIONS"
+scope = "National"
+dateFiled = "1988-07-14"
+status = "Pending with the Committee on RULES since 1988-07-28"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bakunawa"
+[[authorsDetail]]
+name = "Bakunawa"
+nameCode = "Bakunawa"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-07-28"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 170661
+congress = 8
+bill_no = "HR00780"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-07-28"

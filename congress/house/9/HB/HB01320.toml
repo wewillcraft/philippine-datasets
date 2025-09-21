@@ -1,0 +1,47 @@
+billNumber = "HB01320"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01320"
+lastScraped = "2025-09-22T00:25:54.831938"
+title = "HB01320"
+longTitle = "AN ACT TO ESTABLISH A BAMBOO RESEARCH, NURSERY AND DISPERSAL CENTER IN THE MUNICIPALITY OF VILLABA, PROVINCE OF LEYTE, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "Pending with the Committee on NATURAL RESOURCES since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Veloso"
+[[authorsDetail]]
+name = "Veloso"
+nameCode = "Veloso"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "primary"
+referralCode = "0526"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "principal"
+referralCode = "0506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119939
+congress = 9
+bill_no = "HB01320"
+referral = "0526"
+ref_name = "NATURAL RESOURCES"
+sub_name = ""
+date_read = "1992-08-26"

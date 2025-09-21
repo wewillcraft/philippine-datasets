@@ -1,0 +1,67 @@
+billNumber = "HR00506"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00506"
+lastScraped = "2025-09-22T00:23:18.039265"
+title = "HR00506"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOVERNMENT ENTERPRISES AND PRIVATIZATION TO INVESTIGATE, IN AID OF LEGISLATION THE AUTHORITY OF PHILIPPINE HEALTH INSURANCE CORPORATION (PHIC) PRESIDENT AND GENERAL MANAGER ENRIQUE ZALAMEA JR. TO INVEST THE P17BILLION FUNDS OF THE PHILIPPINE HEALTH INSURANCE CORPORATION, ITS IMPACT ON THE NATIONAL HEALTH INSURANCE PROGRAM AND THE INVESTMENT RESERVE FUNDS, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1998-11-10"
+status = "Substituted by HR00842"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aumentado, Erico B. (+)"
+coAuthors = [ "UNDE, GORGONIO P.",]
+[[authorsDetail]]
+name = "Aumentado, Erico B. (+)"
+nameCode = ""
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "UNDE, GORGONIO P."
+nameCode = ""
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+type = "primary"
+referralCode = "0515"
+dateRead = "1998-11-16"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[motherBills]]
+bill_no = "HR00842"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00842"
+flag = "S"
+
+[firstReading]
+id = 104964
+congress = 11
+bill_no = "HR00506"
+report = "01470"
+referral = "0515"
+ref_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION"
+sub_name = "GOVERNMENT ENTERPRISES AND PRIVATIZATION, HEALTH"
+recomm = "See pages 14 - 15 of Ctte. Rpt. No. 1470"
+date_read = "1998-11-16"
+date_ob = "2001-05-28"
+date_report = "2001-03-23"

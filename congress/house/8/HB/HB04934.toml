@@ -1,0 +1,68 @@
+billNumber = "HB04934"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB04934"
+lastScraped = "2025-09-22T00:46:57.417306"
+title = "HB04934"
+longTitle = "AN ACT PROHIBITING STRIKES BY GOVERNMENT EMPLOYEES, AND PROVIDING PENALTIES THEREFOR"
+scope = "National"
+dateFiled = "1987-12-28"
+status = "Approved by the House on 1988-08-16, transmitted to on 1988-08-17 and received by the Senate on 1988"
+statusOrder = 21.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montejo"
+[[authorsDetail]]
+name = "Montejo"
+nameCode = "Montejo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1987-12-29"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 139617
+congress = 8
+bill_no = "HB04934"
+report = "00112"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = "CIVIL SERVICE"
+recomm = "APPROVAL"
+date_read = "1987-12-29"
+date_ob = "1988-03-25"
+date_cal = "1988-03-25"
+date_unass = "1988-03-25"
+date_report = "1988-03-21"
+
+[secondReading]
+id = 20600
+congress = 8
+bill_no = "HB04934"
+date_approved = "1988-08-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 376
+congress = 8
+bill_no = "HB04934"
+date_dist = "1988-08-08"
+date_adopt = "1988-08-16"
+no_yeas = 84
+no_nays = 51
+no_abstent = 2
+date_trans = "1988-08-17"
+date_rec = "1988-08-24"

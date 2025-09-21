@@ -1,0 +1,70 @@
+billNumber = "HR01120"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01120"
+lastScraped = "2025-09-22T00:20:59.642173"
+title = "HR01120"
+longTitle = "RESOLUTION URGING THE DEPARTMENT OF JUSTICE TO REVIEW THE CASES OF THE YOUTHFUL OFFENDERS FOR POSSIBLE GRANT OF PARDON OR PAROLE CONSIDERING THEIR QUALIFICATIONS AND DISQUALIFICATIO NS"
+scope = "National"
+dateFiled = "1997-03-04"
+status = "Pending with the Committee on JUSTICE since 1997-03-06"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "CALALAY, REYNALDO A.", "PERIQUET, ANNA MARIE K.", "DEJON, TEMISTOCLES SR. S.", "RODRIGUEZ, OSCAR S.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CALALAY, REYNALDO A."
+nameCode = "Calalay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PERIQUET, ANNA MARIE K."
+nameCode = "Periquet"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "RODRIGUEZ, OSCAR S."
+nameCode = "Rodriguez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1997-03-06"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118174
+congress = 10
+bill_no = "HR01120"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1997-03-06"

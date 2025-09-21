@@ -1,0 +1,47 @@
+billNumber = "HB10946"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB10946"
+lastScraped = "2025-09-22T00:25:56.585157"
+title = "HB10946"
+longTitle = "AN ACT TO ESTABLISH THE OFFICE OF REGISTER OF DEEDS IN PALAYAN CITY, PROVINCE OF NUEVA ECIJA, AND TO APPROPRIATE THE NECESSARY FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-09-29"
+status = "Pending with the Committee on JUSTICE since 1993-10-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Fajardo"
+[[authorsDetail]]
+name = "Fajardo"
+nameCode = "Fajardo"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-10-04"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129563
+congress = 9
+bill_no = "HB10946"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-10-04"

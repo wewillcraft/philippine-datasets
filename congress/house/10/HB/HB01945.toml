@@ -1,0 +1,54 @@
+billNumber = "HB01945"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01945"
+lastScraped = "2025-09-22T00:20:57.712432"
+title = "HB01945"
+longTitle = "AN ACT TO ADOPT WITH MODIFICATIONS THE UNITED NATIONS COMMISSION ON INTERNATIONAL TRADE LAW (UNCITRAL) MODEL LAW ON COMMERCIAL ARBITRATION"
+scope = "National"
+dateFiled = "1995-08-07"
+status = "Substituted by HB09373"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Apostol, Sergio A. F."
+coAuthors = [ "PEREZ, HERNANDO B.",]
+[[authorsDetail]]
+name = "Apostol, Sergio A. F."
+nameCode = "Apostol"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "PEREZ, HERNANDO B."
+nameCode = "Perez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "primary"
+referralCode = "0539"
+dateRead = "1995-08-10"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108366
+congress = 10
+bill_no = "HB01945"
+referral = "0539"
+ref_name = "TRADE AND INDUSTRY"
+date_read = "1995-08-10"

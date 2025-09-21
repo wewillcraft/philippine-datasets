@@ -1,0 +1,46 @@
+billNumber = "HB07449"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB07449"
+lastScraped = "2025-09-22T00:01:46.494826"
+title = "HB07449"
+longTitle = "AN ACT CREATING THE BICOL POWER GRID"
+scope = "Local"
+dateFiled = "2020-08-23"
+status = "Pending with the Committee on ENERGY since 2020-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB07449.pdf"
+fileSize = 2021379
+author = "Delos Santos, Alfred C."
+[[authorsDetail]]
+name = "Delos Santos, Alfred C."
+nameCode = "Delos Santos (A)"
+date = "2020-08-23"
+sequence = 1
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2020-08-25"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 26855
+congress = 18
+bill_no = "HB07449"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2020-08-25"

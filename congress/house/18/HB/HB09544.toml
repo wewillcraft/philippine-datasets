@@ -1,0 +1,61 @@
+billNumber = "HB09544"
+billType = "HB"
+congress = 18
+apiCongressId = 18
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=18&q=HB09544"
+lastScraped = "2025-09-22T00:01:47.002708"
+title = "HB09544"
+longTitle = "AN ACT CREATING THE PHILIPPINE RENEWABLE ENERGY CORPORATION, DEFINING ITS POWERS AND FUNCTIONS, PROVIDING FUNDS THEREFORE, AND FOR OTHER PURPOSES\r\n"
+scope = "National"
+dateFiled = "2021-05-31"
+status = "Pending with the Committee on ENERGY since 2021-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_18/HB09544.pdf"
+fileSize = 555617
+author = "RODRIGUEZ, RUFUS B."
+coAuthors = [ "DALIPE, MANUEL JOSE M.", "VILLARICA, HENRY R.",]
+[[authorsDetail]]
+name = "RODRIGUEZ, RUFUS B."
+nameCode = "Rodriguez"
+date = "2021-05-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2021-07-27"
+journalNo = "J000"
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "VILLARICA, HENRY R."
+nameCode = "Villarica"
+date = "2021-11-08"
+journalNo = "J000"
+sessionNo = ""
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2021-06-02"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 28949
+congress = 18
+bill_no = "HB09544"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2021-06-02"

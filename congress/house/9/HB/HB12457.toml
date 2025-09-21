@@ -1,0 +1,50 @@
+billNumber = "HB12457"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB12457"
+lastScraped = "2025-09-22T00:25:56.901018"
+title = "HB12457"
+longTitle = "AN ACT PROVIDING FOR THE PREVENTION, CONTROL AND SPREAD OF THE HUMAN IMMUNODEFICIENC Y VIRUS (HIV) AND BY PROVIDING ONE HUNDRED FIFTY (P150.00) PESOS FOR EVERY DAY OF CONFINEMENT FOR EACH VICTIM"
+scope = "National"
+dateFiled = "1994-04-13"
+status = "Pending with the Committee on HEALTH since 1994-04-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Claudio"
+coAuthors = [ "RAMIREZ, JOSE T.",]
+[[authorsDetail]]
+name = "Claudio"
+nameCode = "Claudio"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "RAMIREZ, JOSE T."
+nameCode = "Ramirez"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1994-04-16"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 131072
+congress = 9
+bill_no = "HB12457"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1994-04-16"

@@ -1,0 +1,47 @@
+billNumber = "HB01338"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB01338"
+lastScraped = "2025-09-22T00:25:54.835320"
+title = "HB01338"
+longTitle = "AN ACT PROVIDING FOR THE ESTABLISHMENT OF A MAIN HEALTH CENTER IN BARANGAY CATAGBACAN, MUNICIPALITY OF LOON, PROVINCE OF BOHOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-21"
+status = "Pending with the Committee on HEALTH since 1992-08-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Borja-agana"
+[[authorsDetail]]
+name = "Borja-agana"
+nameCode = "Borja-agana"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-26"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119957
+congress = 9
+bill_no = "HB01338"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-26"

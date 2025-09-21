@@ -1,0 +1,46 @@
+billNumber = "HB05669"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05669"
+lastScraped = "2025-09-22T00:20:58.419023"
+title = "HB05669"
+longTitle = "AN ACT CONVERTING THE 'MAHAL NA VIRGEN MARIA STO. ROSARIO MUNICIPAL HOSPITAL' IN THE MUNICIPALITY OF ROSARIO, PROVINCE OF BATANGAS, INTO A DISTRICT HOSPITAL TO BE KNOWN AS 'MAHAL NA VIRGEN MARIA DISTRICT HOSPITAL', INCREASING ITS BED CAPACITY FROM TEN TO FIFTY, APPROPRIATION OF FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1996-01-04"
+status = "Pending with the Committee on HEALTH since 1996-01-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-01-22"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 112090
+congress = 10
+bill_no = "HB05669"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-01-22"

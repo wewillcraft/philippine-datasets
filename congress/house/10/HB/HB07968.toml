@@ -1,0 +1,46 @@
+billNumber = "HB07968"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07968"
+lastScraped = "2025-09-22T00:20:58.874762"
+title = "HB07968"
+longTitle = "AN ACT CONVERTING THE PALAPAG RURAL HEALTH UNIT (RHU) IN THE MUNICIPALITY OF PALAPAG, SECOND DISTRICT OF NORTHERN SAMAR, INTO A RURAL HEALTH INFIRMARY AND RENAMING IT AS THE JUAN PONCE SUMOROY RURAL HEALTH INFIRMARY AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-20"
+status = "Pending with the Committee on HEALTH since 1996-09-24"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lucero"
+[[authorsDetail]]
+name = "Lucero"
+nameCode = "Lucero"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1996-09-24"
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "principal"
+referralCode = "E509"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114389
+congress = 10
+bill_no = "HB07968"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1996-09-24"

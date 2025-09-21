@@ -1,0 +1,74 @@
+billNumber = "HR00721"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00721"
+lastScraped = "2025-09-22T00:20:59.561473"
+title = "HR00721"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON GOOD GOVERNMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, INTO THE ILLEGAL RELEASE OF IMPORTED RESERVE SUGAR"
+scope = "National"
+dateFiled = "1996-07-23"
+status = "Substituted by HR00720"
+statusOrder = 9.1
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zubiri"
+coAuthors = [ "JOAQUIN, NEREO R.", "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Zubiri"
+nameCode = "Zubiri"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-07-29"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "GOOD GOVERNMENT AND PUBLIC ACCOUNTABILITY"
+type = "secondary"
+referralCode = "A502"
+
+[[motherBills]]
+bill_no = "HR00720"
+flag = "S"
+
+[[substitutedBills]]
+bill_no = "HR00720"
+flag = "S"
+
+[firstReading]
+id = 117775
+congress = 10
+bill_no = "HR00721"
+report = "01201"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Good Government on May 30, 1996."
+referral = "0532"
+ref_name = "RULES"
+recomm = "E.O. Mo. 18 be amended."
+date_read = "1996-07-29"
+date_ob = "1997-10-21"
+date_report = "1997-10-16"

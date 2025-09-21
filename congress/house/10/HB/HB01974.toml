@@ -1,0 +1,46 @@
+billNumber = "HB01974"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01974"
+lastScraped = "2025-09-22T00:20:57.718122"
+title = "HB01974"
+longTitle = "AN ACT ESTABLISHING A BARANGAY HEALTH CENTER AT BARANGAY MUDIANG IN THE CITY OF DAVAO TO BE KNOWN AS THE MUDIANG BARANGAY HEALTH CENTER, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-08-08"
+status = "Pending with the Committee on HEALTH since 1995-08-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garcia"
+[[authorsDetail]]
+name = "Garcia"
+nameCode = "Garcia"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1995-08-14"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 108395
+congress = 10
+bill_no = "HB01974"
+referral = "0517"
+ref_name = "HEALTH"
+date_read = "1995-08-14"

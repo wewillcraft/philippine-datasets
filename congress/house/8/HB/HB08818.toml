@@ -1,0 +1,42 @@
+billNumber = "HB08818"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB08818"
+lastScraped = "2025-09-22T00:46:58.154165"
+title = "HB08818"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN EACH OF THE THREE BARANGAYS, NAMELY: SAN ANTONIO, MERVILLE AND MOONWALK, ALL IN THE MUNICIPALITY OF PARANAQUE,METRO POLITAN MANILA, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-05"
+status = "Pending with the Committee on HEALTH since 1988-05-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-10"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 143495
+congress = 8
+bill_no = "HB08818"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-10"

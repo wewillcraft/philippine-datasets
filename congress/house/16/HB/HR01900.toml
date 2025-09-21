@@ -1,0 +1,46 @@
+billNumber = "HR01900"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR01900"
+lastScraped = "2025-09-21T23:56:23.148787"
+title = "HR01900"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON REFORESTATION TO LOOK INTO, IN AID OF LEGISLATION, THE STATUS OF IMPLEMENTATION OF THE NATIONAL GREENING PROGRAM OF THE DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES FOR THE PURPOSE OF RECOMMENDING MEASURES TO BOOST THE REFORESTATION EFFORTS OF THE GOVERNMENT"
+scope = "National"
+dateFiled = "2015-02-10"
+status = "Pending with the Committee on RULES since 2015-02-16"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR01900.pdf"
+fileSize = 230763
+author = "Villar, Mark A."
+[[authorsDetail]]
+name = "Villar, Mark A."
+nameCode = "Villar"
+date = "2015-02-10"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2015-02-16"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 54297
+congress = 16
+bill_no = "HR01900"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-02-16"

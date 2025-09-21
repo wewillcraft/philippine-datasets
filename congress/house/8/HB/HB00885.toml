@@ -1,0 +1,42 @@
+billNumber = "HB00885"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00885"
+lastScraped = "2025-09-22T00:46:56.720276"
+title = "HB00885"
+longTitle = "AN ACT ESTABLISHING A HEALTH CENTER IN EACH OF THE BARRIOS OF THE THIRD DISTRICT OF BOHOL PROVINCE,PROVID ING THE NECESSARY FUNDS FOR THE PROJECT ANDFOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1987-08-31"
+status = "Pending with the Committee on HEALTH since 1987-09-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Zarraga"
+[[authorsDetail]]
+name = "Zarraga"
+nameCode = "Zarraga"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1987-09-01"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[firstReading]
+id = 135582
+congress = 8
+bill_no = "HB00885"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1987-09-01"

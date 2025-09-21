@@ -1,0 +1,46 @@
+billNumber = "HB07857"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB07857"
+lastScraped = "2025-09-22T00:20:58.854352"
+title = "HB07857"
+longTitle = "AN ACT ESTABLISHING A HIGH SCHOOL IN SAN ISIDRO, NUEVA ECIJA, TO BE KNOWN AS THE SAN ISIDRO NATIONAL HIGH SCHOOL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-09-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Villareal"
+[[authorsDetail]]
+name = "Villareal"
+nameCode = "Villareal"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-09-03"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114278
+congress = 10
+bill_no = "HB07857"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-09-03"

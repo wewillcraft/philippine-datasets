@@ -1,0 +1,42 @@
+billNumber = "PS00245"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00245"
+lastScraped = "2025-09-22T00:13:49.508475"
+title = "PS00245"
+longTitle = "Fertilizer Fund Credited to Members of the House"
+scope = "National"
+dateFiled = "2005-08-22"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2005-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Locsin, Teodoro Jr. L."
+[[authorsDetail]]
+name = "Locsin, Teodoro Jr. L."
+nameCode = "Locsin"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2005-09-20"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 82990
+congress = 13
+bill_no = "PS00245"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2005-09-20"

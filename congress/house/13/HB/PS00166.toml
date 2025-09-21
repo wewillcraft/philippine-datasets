@@ -1,0 +1,40 @@
+billNumber = "PS00166"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00166"
+lastScraped = "2025-09-22T00:13:49.497274"
+title = "PS00166"
+longTitle = "Women in Nation Building Through Sports"
+scope = "National"
+dateFiled = "2005-03-07"
+status = "Pending with the Committee on WOMEN since 2005-03-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+[[committee]]
+name = "WOMEN"
+type = "primary"
+referralCode = "A504"
+dateRead = "2005-03-07"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "secondary"
+referralCode = "0543"
+
+[firstReading]
+id = 82933
+congress = 13
+bill_no = "PS00166"
+referral = "A504"
+ref_name = "WOMEN"
+sub_name = ""
+date_read = "2005-03-07"

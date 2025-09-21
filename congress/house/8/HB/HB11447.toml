@@ -1,0 +1,42 @@
+billNumber = "HB11447"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB11447"
+lastScraped = "2025-09-22T00:46:58.578021"
+title = "HB11447"
+longTitle = "AN ACT AUTHORIZING THE CONSTRUCTION OF A HEALTH CENTER FOR BARANGAY JELICUON ESTE, MUNICIPALITY OF NEW LUCENA, PROVINCE OF ILOILO, AND APPROPRIATING FUND THEREFOR"
+scope = "Local"
+dateFiled = "1988-05-30"
+status = "Pending with the Committee on HEALTH since 1988-06-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-06-01"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 146116
+congress = 8
+bill_no = "HB11447"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-06-01"

@@ -1,0 +1,42 @@
+billNumber = "HB09339"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09339"
+lastScraped = "2025-09-22T00:25:56.277277"
+title = "HB09339"
+longTitle = "AN ACT AMENDING SECTION NINE OF PD NO. 1508 (Lifts the prohibition for lawyers to appear before the Lupong Tagapayapa)"
+scope = "National"
+dateFiled = "1993-05-28"
+status = "Pending with the Committee on JUSTICE since 1993-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Tuazon"
+[[authorsDetail]]
+name = "Tuazon"
+nameCode = "Tuazon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1993-06-02"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[firstReading]
+id = 127957
+congress = 9
+bill_no = "HB09339"
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+date_read = "1993-06-02"

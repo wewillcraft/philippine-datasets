@@ -1,0 +1,47 @@
+billNumber = "HR00888"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00888"
+lastScraped = "2025-09-22T00:20:59.592612"
+title = "HR00888"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON NATURAL RESOURCES TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED ABUSE OF AUTHORITY IN THE ISSUANCE OF FREE PATENTS FOR URBAN LOTS LOCATED AT GENERAL SANTOS CITY UNDER GSS-11-047-D WHICH WERERELEASED ON NOVEMBER 11, 1975"
+scope = "Local"
+dateFiled = "1996-10-04"
+status = "Pending with the Committee on RULES since 1996-10-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Antonino"
+[[authorsDetail]]
+name = "Antonino"
+nameCode = "Antonino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-10-09"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 117942
+congress = 10
+bill_no = "HR00888"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Natural Resources on Oct 9, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-10-09"

@@ -1,0 +1,50 @@
+billNumber = "HB02293"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB02293"
+lastScraped = "2025-09-22T00:13:00.212945"
+title = "HB02293"
+longTitle = "AN ACT AMENDING REPUBLIC ACT NO. 7955, CHANGING THE NAME OF THE MARILOG DISTRICT HOSPITAL IN MARILOG DISTRICT, CITY OF DAVAO, TO ELIAS B. LOPEZ MEMORIAL DISTRICT HOSPITAL"
+scope = "Local"
+dateFiled = "2001-08-09"
+status = "Pending with the Committee on HEALTH since 2001-08-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez, Ruy Elias C."
+coAuthors = [ "ECLEO, GLENDA B.",]
+[[authorsDetail]]
+name = "Lopez, Ruy Elias C."
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "ECLEO, GLENDA B."
+nameCode = "Ecleo"
+date = ""
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2001-08-15"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 85453
+congress = 12
+bill_no = "HB02293"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "2001-08-15"

@@ -1,0 +1,68 @@
+billNumber = "HB08172"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08172"
+lastScraped = "2025-09-22T00:20:58.916037"
+title = "HB08172"
+longTitle = "AN ACT ESTABLISHING A COMPREHENSIVE JUVENILE JUSTICE SYSTEM, APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "1996-10-11"
+status = "Pending with the Committee on JUSTICE since 1996-10-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.", "DRAGON, RENATO P.", "AVILA, EDGAR M.",]
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AVILA, EDGAR M."
+nameCode = "Avila"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1996-10-15"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114593
+congress = 10
+bill_no = "HB08172"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1996-10-15"

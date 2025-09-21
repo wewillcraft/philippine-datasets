@@ -1,0 +1,41 @@
+billNumber = "HR00901"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00901"
+lastScraped = "2025-09-22T00:20:59.595002"
+title = "HR00901"
+longTitle = "RESOLUTION DIRECTING THE CIVIL SERVICE COMMISSION TO RECALL AND AMEND CSC MEMORANDUM CIRCULAR NO. 29 SERIES OF 1995 (NOTE: MASTERAL DEGREE REQUIREMENT FOR APPOINTMENT)"
+scope = "National"
+dateFiled = "1996-10-09"
+status = "Pending with the Committee on CIVIL SERVICE AND PROFESSIONAL REGULATION since 1996-10-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+type = "primary"
+referralCode = "0506"
+dateRead = "1996-10-11"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[firstReading]
+id = 117955
+congress = 10
+bill_no = "HR00901"
+referral = "0506"
+ref_name = "CIVIL SERVICE AND PROFESSIONAL REGULATION"
+date_read = "1996-10-11"

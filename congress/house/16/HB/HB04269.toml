@@ -1,0 +1,68 @@
+billNumber = "HB04269"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB04269"
+lastScraped = "2025-09-21T23:56:22.265193"
+title = "HB04269"
+longTitle = "AN ACT PROMOTING THE AVAILABILITY OF HEALTHY BEVERAGES TO CHILDREN IN SCHOOLS BY REGULATING SODA AND OTHER ARTIFICIAL BEVERAGES, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2014-03-31"
+status = "Pending with the Committee on HEALTH since 2014-05-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB04269.pdf"
+fileSize = 638663
+author = "Acosta-Alba, Ma. Lourdes"
+coAuthors = [ "CO, CHRISTOPHER S.", "BATOCABE, RODEL M.", "ABAYON, HARLIN C.",]
+[[authorsDetail]]
+name = "Acosta-Alba, Ma. Lourdes"
+nameCode = "Acosta-Alba"
+date = "2014-03-31"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CO, CHRISTOPHER S."
+nameCode = "Co"
+date = "2014-05-21"
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "BATOCABE, RODEL M."
+nameCode = "Batocabe"
+date = "2014-05-21"
+journalNo = "J062"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN C."
+nameCode = "Abayon"
+date = "2014-07-30"
+journalNo = "J002"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2014-05-05"
+
+[[committee]]
+name = "GOVERNMENT REORGANIZATION"
+type = "principal"
+referralCode = "0516"
+
+[firstReading]
+id = 50083
+congress = 16
+bill_no = "HB04269"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2014-05-05"

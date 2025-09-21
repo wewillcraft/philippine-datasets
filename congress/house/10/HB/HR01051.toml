@@ -1,0 +1,60 @@
+billNumber = "HR01051"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01051"
+lastScraped = "2025-09-22T00:20:59.629774"
+title = "HR01051"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON AGRICULTURE AND FOOD, TRADE AND INDUSTRY, AND HEALTH TO JOINTLY CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE EFFECTS OF INTENSIVE USE OF PESTICIDES IN THE COUNTRY AS WELL AS THE REPORTED SMUGGLINGAND SALE AND THE POSSIBLE SOURCES OF BANNED PESTICIDES IN THE COUNTRY"
+scope = "National"
+dateFiled = "1997-01-21"
+status = "Pending with the Committee on RULES since 1997-01-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+coAuthors = [ "MONTEMAYOR, LEONARDO Q.",]
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = "Gullas"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "MONTEMAYOR, LEONARDO Q."
+nameCode = "Montemayor"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1997-01-23"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "HEALTH"
+type = "secondary"
+referralCode = "0517"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 118105
+congress = 10
+bill_no = "HR01051"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on Agricultur e and Food and on Trade and"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1997-01-23"

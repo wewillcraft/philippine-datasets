@@ -1,0 +1,79 @@
+billNumber = "HR01534"
+billType = "HB"
+congress = 19
+apiCongressId = 19
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=19&q=HR01534"
+lastScraped = "2025-09-21T23:55:22.877879"
+title = "HR01534"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE(S) TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, ON THE RECENT WIDESPREAD POWER DISTURBANCE IN WESTERN VISAYAS"
+scope = "National"
+dateFiled = "2024-01-05"
+status = "Pending with the Committee on ENERGY since 2024-01-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_19/HR01534.pdf"
+fileSize = 608446
+author = "MARCOS, FERDINAND ALEXANDER A."
+coAuthors = [ "REYES, RAY FLORENCE T.", "RAMA, EDUARDO JR. ROA",]
+[[authorsDetail]]
+name = "MARCOS, FERDINAND ALEXANDER A."
+nameCode = "Marcos"
+date = "2024-01-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "REYES, RAY FLORENCE T."
+nameCode = "Reyes"
+date = "2024-01-22"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "RAMA, EDUARDO JR. ROA"
+nameCode = "Rama"
+date = "2024-01-24"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "ENERGY"
+type = "primary"
+referralCode = "0510"
+dateRead = "2024-01-22"
+
+[[committee]]
+name = "ENERGY"
+type = "principal"
+referralCode = "0510"
+
+[firstReading]
+id = 18079
+congress = 19
+bill_no = "HR01534"
+report = ""
+comm_act = ""
+referral = "0510"
+ref_name = "ENERGY"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2024-01-30"
+date_read = "2024-01-22"
+
+[secondReading]
+id = 1056
+congress = 19
+bill_no = "HR01534"
+adopted_resolution = ""
+adopted_resolution_title = ""
+reasons = ""
+comm_report_no = ""
+comm_report_action = ""
+remarks = ""
+recommended_reconsidered = " "
+recommitted_bill = ""
+adopted_resolution_with_amendment = " "
+concurred_by_the_senate_with_amend = " "
+concurrent_resolution_no = ""
+action_on_adopted_resolution = ""

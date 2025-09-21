@@ -1,0 +1,55 @@
+billNumber = "HR01000"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01000"
+lastScraped = "2025-09-22T00:20:59.615069"
+title = "HR01000"
+longTitle = "RESOLUTION REQUESTING THE HOUSE OF REPRESENTATIVES , THROUGH ITS SPECIAL COMMITTEE ON OVERSEAS CONTRACT WORKERS, TO INVESTIGATE, IN AID OF LEGISLATION, THE IMPOSITION OF THE DEATH SENTENCE ON OFW LEONARDO MAGBUAL FROM THE CITY OF BAGUIO, AND ASSISTIN INTERCEDING FOR CLEMENCY FROM THE STATE OF SAUDI ARABIA"
+scope = "Local"
+dateFiled = "1996-12-05"
+status = "Pending with the Committee on RULES since 1996-12-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Avila"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Avila"
+nameCode = "Avila"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-12-09"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "secondary"
+referralCode = "0521"
+
+[firstReading]
+id = 118054
+congress = 10
+bill_no = "HR01000"
+comm_act = "Change of Referral from the Ctte. on Rules to the Special Ctte. on Overseas Contract Workers and the"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-12-09"

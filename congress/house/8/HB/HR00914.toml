@@ -1,0 +1,42 @@
+billNumber = "HR00914"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00914"
+lastScraped = "2025-09-22T00:47:02.703892"
+title = "HR00914"
+longTitle = "RESOLUTION TO AMEND SECTION 29 OF THE RULES OF THE HOUSE TO THE EFFECT THAT AUTHOR, CO-AUTHORS, SPONSOR, CO-SPONSORS OR ANY MEMBER WHO DELIBERATED AND VOTED ON THE COMMITTEE LEVEL IN FAVOR OF A BILL SHALL BE PRECLUDED FROM INTERPELLATING THE SPONSOROF THE MEASURE ON THE FLOOR"
+scope = "Local"
+dateFiled = "1988-09-08"
+status = "Pending with the Committee on RULES since 1988-09-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Aquino"
+[[authorsDetail]]
+name = "Aquino"
+nameCode = "Aquino"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "532"
+dateRead = "1988-09-12"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170794
+congress = 8
+bill_no = "HR00914"
+referral = "532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1988-09-12"

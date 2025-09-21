@@ -1,0 +1,62 @@
+billNumber = "HB01811"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01811"
+lastScraped = "2025-09-22T00:20:57.684427"
+title = "HB01811"
+longTitle = "AN ACT REGULATING THE OPERATIONS OF BROADCAST MEDIA AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1995-08-03"
+status = "Pending with the Committee on PUBLIC INFORMATION since 1995-08-09"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+coAuthors = [ "BAGATSING, RAMON JR. S.", "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "BAGATSING, RAMON JR. S."
+nameCode = "Bagatsing"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "PUBLIC INFORMATION"
+type = "primary"
+referralCode = "0528"
+dateRead = "1995-08-09"
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "principal"
+referralCode = "0542"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "secondary"
+referralCode = "0508"
+
+[firstReading]
+id = 108232
+congress = 10
+bill_no = "HB01811"
+comm_act = "joint referral as per J. 23 (Sept. 19, 1995) p. 43"
+referral = "0528"
+ref_name = "PUBLIC INFORMATION"
+date_read = "1995-08-09"

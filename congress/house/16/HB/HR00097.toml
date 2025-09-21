@@ -1,0 +1,47 @@
+billNumber = "HR00097"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00097"
+lastScraped = "2025-09-21T23:56:22.815223"
+title = "HR00097"
+longTitle = "A RESOLUTION CALLING FOR INQUIRY IN AID OF LEGISLATION AS TO THE OPENING DATE OF THE BALETE EXIT LOCATED ALONG THE SOUTHERN TAGALOG ARTERIAL ROAD TOLLWAYS"
+scope = "National"
+dateFiled = "2013-07-23"
+status = "Pending with the Committee on TRANSPORTATION since 2013-11-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00097.pdf"
+fileSize = 125255
+author = "Collantes, Sonny P."
+[[authorsDetail]]
+name = "Collantes, Sonny P."
+nameCode = "Collantes"
+date = "2013-07-23"
+sequence = 1
+
+[[committee]]
+name = "TRANSPORTATION"
+type = "primary"
+referralCode = "E509"
+dateRead = "2013-07-31"
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "principal"
+referralCode = "0522"
+
+[firstReading]
+id = 52496
+congress = 16
+bill_no = "HR00097"
+report = ""
+comm_act = ""
+referral = "E509"
+ref_name = "TRANSPORTATION"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2013-11-19"
+date_read = "2013-07-31"

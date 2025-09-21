@@ -1,0 +1,47 @@
+billNumber = "HB11321"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11321"
+lastScraped = "2025-09-22T00:25:56.661012"
+title = "HB11321"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF THE PUBLIC MARKET BUILDING IN THE MUNICIPALITY OF SANTANDER, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-11-17"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 1993-11-22"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abines"
+[[authorsDetail]]
+name = "Abines"
+nameCode = "Abines"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "1993-11-22"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 129936
+congress = 9
+bill_no = "HB11321"
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+date_read = "1993-11-22"

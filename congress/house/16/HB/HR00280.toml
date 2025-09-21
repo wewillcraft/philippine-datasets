@@ -1,0 +1,52 @@
+billNumber = "HR00280"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HR00280"
+lastScraped = "2025-09-21T23:56:22.848659"
+title = "HR00280"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRICULTURE AND OTHER APPROPRIATE COMMITTEES TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE EXPERIMENTAL FARM OF A GENETICALLY MODIFIED (GM) RICE VARIETY CALLED 'GOLDEN RICE' IN PILI, CAMARINES SUR WITH THE END IN VIEW OF FINDING WHETHER OR NOT SAID RICE IS FIT FOR HUMAN CONSUMPTION"
+scope = "National"
+dateFiled = "2013-09-10"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 2014-02-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HR00280.pdf"
+fileSize = 150532
+author = "Suansing, Estrellita B."
+[[authorsDetail]]
+name = "Suansing, Estrellita B."
+nameCode = "Suansing"
+date = "2013-09-10"
+sequence = 1
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "E505"
+dateRead = "2013-09-16"
+
+[[committee]]
+name = "LEGISLATIVE FRANCHISES"
+type = "principal"
+referralCode = "0508"
+
+[[committee]]
+name = "FOOD SECURITY"
+type = "secondary"
+referralCode = "B513"
+
+[firstReading]
+id = 52679
+congress = 16
+bill_no = "HR00280"
+report = ""
+comm_act = ""
+referral = "E505"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2014-02-04"
+date_read = "2013-09-16"

@@ -1,0 +1,46 @@
+billNumber = "HR00344"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR00344"
+lastScraped = "2025-09-21T23:55:46.282831"
+title = "HR00344"
+longTitle = "A RESOLUTION DIRECTING THE COMMITTEE ON TRADE AND INDUSTRY TO CONDUCT AN INQUIRY IN AID OF LEGISLATION ON THE DISPARITY OF TAXES IMPOSED AND PROCEDURES REQUIRED ON NO DOLLAR IMPORTATION"
+scope = "National"
+dateFiled = "2016-09-13"
+status = "Pending with the Committee on RULES since 2016-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR00344.pdf"
+fileSize = 406654
+author = "Pichay, Prospero Jr. A."
+[[authorsDetail]]
+name = "Pichay, Prospero Jr. A."
+nameCode = "Pichay"
+date = "2016-09-13"
+sequence = 1
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "2016-09-20"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[firstReading]
+id = 43086
+congress = 17
+bill_no = "HR00344"
+report = ""
+comm_act = ""
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-09-20"

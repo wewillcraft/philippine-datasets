@@ -1,0 +1,75 @@
+billNumber = "HB02451"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB02451"
+lastScraped = "2025-09-21T23:55:44.577431"
+title = "HB02451"
+longTitle = "AN ACT DEVELOPING AND EXPANDING PUBLIC HEALTH INFRASTRUCTURE AND SERVICES, UTILIZING AND APPROPRIATING A PORTION OF THE RESERVE FUND OF THE PHILHEALTH FOR THE PURPOSE, AMENDING SECTION 27 OF REPUBLIC ACT NO. 7875, OTHERWISE KNOWN AS THE 'NATIONAL HEALTH INSURANCE ACT OF 1995, AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2016-08-03"
+status = "Pending with the Committee on HEALTH since 2016-08-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB02451.pdf"
+fileSize = 851071
+author = "Yap, Arthur C."
+coAuthors = [ "BRAVO, MARIA VIDA E.", "VIOLAGO, MICALEA S.", "SAVELLANO, DEOGRACIAS VICTOR B.", "DURANO, RAMON \"RED\" VI H.",]
+[[authorsDetail]]
+name = "Yap, Arthur C."
+nameCode = "Yap (A.)"
+date = "2016-08-03"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "BRAVO, MARIA VIDA E."
+nameCode = "Bravo (M.)"
+date = "2016-09-19"
+journalNo = "J023"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "VIOLAGO, MICALEA S."
+nameCode = "Violago"
+date = "2016-09-21"
+journalNo = "J025"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "SAVELLANO, DEOGRACIAS VICTOR B."
+nameCode = "Savellano"
+date = "2017-07-31"
+journalNo = "J004"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "DURANO, RAMON \"RED\" VI H."
+nameCode = "Durano"
+date = "2017-08-08"
+journalNo = "J008"
+sessionNo = "2RS"
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "2016-08-10"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 35919
+congress = 17
+bill_no = "HB02451"
+report = ""
+comm_act = ""
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-10"

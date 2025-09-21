@@ -1,0 +1,58 @@
+billNumber = "HB09818"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09818"
+lastScraped = "2025-09-22T00:20:59.250841"
+title = "HB09818"
+longTitle = "AN ACT BANNING STUDENTS IN THE PRIMARY AND SECONDARY SCHOOLS FROM ENTERING MALLS AND GAME SHOPS DURING SCHOOL DAYS"
+scope = "National"
+dateFiled = "1997-08-12"
+status = "Approved on Second Reading on 1997-10-29"
+statusOrder = 13.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Colambo"
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Colambo"
+nameCode = "Colambo"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1997-08-20"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 116239
+congress = 10
+bill_no = "HB09818"
+report = "01241"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1997-08-20"
+
+[secondReading]
+id = 18748
+congress = 10
+bill_no = "HB09818"
+date_approved = "1997-10-29"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"

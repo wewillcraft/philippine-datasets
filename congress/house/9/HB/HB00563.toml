@@ -1,0 +1,69 @@
+billNumber = "HB00563"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB00563"
+lastScraped = "2025-09-22T00:25:54.696750"
+title = "HB00563"
+longTitle = "AN ACT ESTABLISHING A 50-BED DISTRICT HOSPITAL IN THE MUNICIPALITY OF PAOMBONG, PROVINCE OF BULACAN, TO BE KNOWN AS THE PAOMBONG DISTRICT HOSPITAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1992-08-05"
+status = "Pending with the Committee on HEALTH since 1992-08-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "SILVERIO, RICARDO C.", "PANCHO, PEDRO M.", "SARMIENTO, ANGELITO M.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SILVERIO, RICARDO C."
+nameCode = "Silverio"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "PANCHO, PEDRO M."
+nameCode = "Pancho"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "SARMIENTO, ANGELITO M."
+nameCode = "Sarmiento"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1992-08-11"
+
+[[committee]]
+name = "LABOR AND EMPLOYMENT"
+type = "principal"
+referralCode = "0521"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 119182
+congress = 9
+bill_no = "HB00563"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1992-08-11"

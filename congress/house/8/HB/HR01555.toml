@@ -1,0 +1,42 @@
+billNumber = "HR01555"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01555"
+lastScraped = "2025-09-22T00:47:02.837390"
+title = "HR01555"
+longTitle = "RESOLUTION DIRECTING THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES TO CONDUCT AN IMMEDIATE PUBLIC INQUIRY ON THE COMPLAINTS, GRIEVANCES AND OBJECTIONS OF GOVERNMENT EMPLOYEES OVER THE IMPLEMENTATION OF THE SALARY STANDARDIZATION LAW ANDFOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "1989-11-23"
+status = "Pending with the Committee on APPROPRIATIONS since 1989-11-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Albano"
+[[authorsDetail]]
+name = "Albano"
+nameCode = "Albano"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "504"
+dateRead = "1989-11-23"
+
+[[committee]]
+name = "METRO MANILA DEVELOPMENT"
+type = "principal"
+referralCode = "E502"
+
+[firstReading]
+id = 171416
+congress = 8
+bill_no = "HR01555"
+referral = "504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1989-11-23"

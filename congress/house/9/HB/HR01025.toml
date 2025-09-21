@@ -1,0 +1,42 @@
+billNumber = "HR01025"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR01025"
+lastScraped = "2025-09-22T00:25:57.556149"
+title = "HR01025"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE CONGRESS OF THE REPUBLIC OF THE PHILIPPINES TO INCREASE THE BUDGET OF THE PRESIDENTIAL ANTI-CRIME COMMISSION"
+scope = "National"
+dateFiled = "1994-04-27"
+status = "Pending with the Committee on APPROPRIATIONS since 1994-05-03"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1994-05-03"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 134332
+congress = 9
+bill_no = "HR01025"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1994-05-03"

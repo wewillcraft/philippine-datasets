@@ -1,0 +1,56 @@
+billNumber = "HB04486"
+billType = "HB"
+congress = 20
+apiCongressId = 103
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=103&q=HB04486"
+lastScraped = "2025-09-21T23:39:49.156362"
+title = "HB04486"
+longTitle = "AN ACT ENHANCING THE DISCOUNT ON THE PURCHASE OF GOODS AND SERVICES OF SENIOR CITIZENS AND PERSONS WITH DISABILITIES"
+scope = "National"
+dateFiled = "2025-09-09"
+status = "Pending with the Committee on WAYS AND MEANS since 2025-09-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_20/HB04486.pdf"
+fileSize = 164240
+author = "OLIVAREZ, ERIC L."
+[[authorsDetail]]
+name = "OLIVAREZ, ERIC L."
+nameCode = "Olivarez"
+date = "2025-09-09"
+sequence = 1
+
+[[committee]]
+name = "WAYS AND MEANS"
+type = "primary"
+referralCode = "0542"
+dateRead = "2025-09-15"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[[committee]]
+name = "SENIOR CITIZENS"
+type = "secondary"
+referralCode = "I505"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "secondary"
+referralCode = "J501"
+
+[firstReading]
+id = 4487
+congress = 103
+bill_no = "HB04486"
+report = ""
+comm_act = ""
+referral = "0542"
+ref_name = "WAYS AND MEANS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2025-09-15"

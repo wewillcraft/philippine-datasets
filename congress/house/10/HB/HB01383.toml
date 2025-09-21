@@ -1,0 +1,70 @@
+billNumber = "HB01383"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB01383"
+lastScraped = "2025-09-22T00:20:57.611967"
+title = "HB01383"
+longTitle = "AN ACT RECLASSIFYING THE MAYAN-MAUYEN ROAD, THE PORTION COVERING KILOMETER 2 OF THE MAYAN-MAUYEN ROAD TO CHINAPOLERAN PORT, THE PORTION COVERING KILOMETER 8.7 OF THE MAYAN-MAUYEN ROAD TO ITBAYAT AIRPORT, AND THE MAYAN-PAGANAMAN PORT ROAD, ALL LOCATED IN THE MUNICIPALITY OF ITBAYAT, PROVINCE OF BATANES, INTO NATIONAL ROADS, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1995-07-27"
+status = "Approved by the House on 1997-10-15 and transmitted to the Senate on 1997-10-16"
+statusOrder = 20.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abad"
+[[authorsDetail]]
+name = "Abad"
+nameCode = "Abad"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-08-02"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 107804
+congress = 10
+bill_no = "HB01383"
+report = "01085"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+recomm = "approval with amendment"
+date_read = "1995-08-02"
+date_ob = "1997-09-29"
+date_report = "1997-09-16"
+
+[secondReading]
+id = 17787
+congress = 10
+bill_no = "HB01383"
+remarks = "Considered the Explanatory Note as the Sponsorship Speech"
+date_approved = "1997-10-02"
+adopted_resolution_with_amendment = "N"
+concurred_by_the_senate_with_amend = "N"
+
+[thirdReading]
+id = 2407
+congress = 10
+bill_no = "HB01383"
+date_dist = "1997-10-08"
+date_adopt = "1997-10-15"
+no_yeas = 137
+no_nays = 0
+no_abstent = 0
+date_trans = "1997-10-16"

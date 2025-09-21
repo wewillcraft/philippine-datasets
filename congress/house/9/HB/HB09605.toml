@@ -1,0 +1,55 @@
+billNumber = "HB09605"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB09605"
+lastScraped = "2025-09-22T00:25:56.339166"
+title = "HB09605"
+longTitle = "AN ACT INSTITUTING THE DANGEROUS DRUGS ACT OF 1993"
+scope = "National"
+dateFiled = "1993-06-04"
+status = "Pending with the Committee on HEALTH since 1993-06-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Natividad"
+coAuthors = [ "DRAGON, RENATO P.",]
+[[authorsDetail]]
+name = "Natividad"
+nameCode = "Natividad"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DRAGON, RENATO P."
+nameCode = "Dragon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "0517"
+dateRead = "1993-06-05"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 128223
+congress = 9
+bill_no = "HB09605"
+referral = "0517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1993-06-05"

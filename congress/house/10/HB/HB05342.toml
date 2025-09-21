@@ -1,0 +1,41 @@
+billNumber = "HB05342"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB05342"
+lastScraped = "2025-09-22T00:20:58.357322"
+title = "HB05342"
+longTitle = "AN ACT PROVIDING FOR A CONTINUING BAREBOAT CHARTERING PROGRAM"
+scope = "National"
+dateFiled = "1995-11-28"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1995-12-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Osmeña"
+[[authorsDetail]]
+name = "Osmeña"
+nameCode = "Osmeña"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1995-12-05"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "principal"
+referralCode = "0539"
+
+[firstReading]
+id = 111763
+congress = 10
+bill_no = "HB05342"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1995-12-05"

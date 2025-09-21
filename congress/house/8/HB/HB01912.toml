@@ -1,0 +1,42 @@
+billNumber = "HB01912"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB01912"
+lastScraped = "2025-09-22T00:46:56.897577"
+title = "HB01912"
+longTitle = "AN ACT AUTHORIZING FOR THE CONSTRUCTION OF PROTECTIVE SEAWALL ALONG SELECTED SHORELINES OF POBLACION DARAM AND POBLACION SAN SEBASTIAN, BOTH IN THE PROVINCE OF SAMAR, AND PROVIDING THE REQUIRED FUNDSTHEREFOR"
+scope = "Local"
+dateFiled = "1987-09-24"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1987-09-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Garduce"
+[[authorsDetail]]
+name = "Garduce"
+nameCode = "Garduce"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "530"
+dateRead = "1987-09-29"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 136602
+congress = 8
+bill_no = "HB01912"
+referral = "530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1987-09-29"

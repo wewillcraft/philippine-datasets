@@ -1,0 +1,41 @@
+billNumber = "HB10293"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB10293"
+lastScraped = "2025-09-22T00:20:59.354036"
+title = "HB10293"
+longTitle = "AN ACT REMOVING RED TAPE AND REDUCING CLEARANCE REQUIREMENTS IN THE INTERISLAND SHIPPING INDUSTRY"
+scope = "National"
+dateFiled = "1997-11-18"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 1997-11-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Paras"
+[[authorsDetail]]
+name = "Paras"
+nameCode = "Paras"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "1997-11-20"
+
+[[committee]]
+name = "PERSONS WITH DISABILITIES"
+type = "principal"
+referralCode = "J501"
+
+[firstReading]
+id = 116714
+congress = 10
+bill_no = "HB10293"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+date_read = "1997-11-20"

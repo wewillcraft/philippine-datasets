@@ -1,0 +1,46 @@
+billNumber = "HB08579"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08579"
+lastScraped = "2025-09-22T00:20:58.990191"
+title = "HB08579"
+longTitle = "AN ACT ESTABLISHING AN INFORMATION AND COMPUTER TECHNOLOGY TRAINING CENTER AT THE POLYTECHNIC COLLEGE OF CALAPAN IN THE PROVINCE OF ORIENTAL MINDORO"
+scope = "Local"
+dateFiled = "1996-12-09"
+status = "Pending with the Committee on SCIENCE AND TECHNOLOGY since 1996-12-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Leviste"
+[[authorsDetail]]
+name = "Leviste"
+nameCode = "Leviste"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "SCIENCE AND TECHNOLOGY"
+type = "primary"
+referralCode = "0534"
+dateRead = "1996-12-11"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 115000
+congress = 10
+bill_no = "HB08579"
+referral = "0534"
+ref_name = "SCIENCE AND TECHNOLOGY"
+date_read = "1996-12-11"

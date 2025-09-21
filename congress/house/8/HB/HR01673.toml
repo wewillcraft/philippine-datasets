@@ -1,0 +1,42 @@
+billNumber = "HR01673"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01673"
+lastScraped = "2025-09-22T00:47:02.865685"
+title = "HR01673"
+longTitle = "RESOLUTION REQUESTING THE PROFESSIONAL REGULATION COMMISSION TO CONDUCT BOARD EXAMINATIONS FOR NURSES AND MIDWIVES IN THE CITIES OF CEBU, CAGAYAN DE ORO AND DAVAO FOR REASONS OF EXPEDIENCY AND ECONOMY"
+scope = "Local"
+dateFiled = "1990-02-20"
+status = "Pending with the Committee on CIVIL SERVICE since 1990-03-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Plaza"
+[[authorsDetail]]
+name = "Plaza"
+nameCode = "Plaza"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "CIVIL SERVICE"
+type = "primary"
+referralCode = "506"
+dateRead = "1990-03-20"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 171517
+congress = 8
+bill_no = "HR01673"
+referral = "506"
+ref_name = "CIVIL SERVICE"
+sub_name = ""
+date_read = "1990-03-20"

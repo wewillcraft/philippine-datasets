@@ -1,0 +1,47 @@
+billNumber = "HR00812"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00812"
+lastScraped = "2025-09-22T00:20:59.578352"
+title = "HR00812"
+longTitle = "RESOLUTION URGING THE HOUSE OF REPRESENTATIVES TO LOOK INTO THE POLICIES OF THE PHILIPPINE RACING COMMISSION (PHILRACOM) IN THE CONDUCT OF HORSE RACING"
+scope = "National"
+dateFiled = "1996-08-28"
+status = "Pending with the Committee on RULES since 1996-09-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bagatsing, Amado S."
+[[authorsDetail]]
+name = "Bagatsing, Amado S."
+nameCode = "Bagatsing"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "GAMES AND AMUSEMENTS"
+type = "secondary"
+referralCode = "0514"
+
+[firstReading]
+id = 117866
+congress = 10
+bill_no = "HR00812"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Games and Amusements on Sept. 3, 1996."
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-02"

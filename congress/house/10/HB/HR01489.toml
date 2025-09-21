@@ -1,0 +1,41 @@
+billNumber = "HR01489"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01489"
+lastScraped = "2025-09-22T00:20:59.707887"
+title = "HR01489"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON CONSTITUTIONAL AMENDMENTS, REVISIONS OF LAWS AND THE COMMITTEE ON JUSTICE TO CONDUCT AN INQUIRY, IN AID OF LEGISLATION, INTO THE ALLEGED VIOLATIONS OF CONSTITUTIONAL PROVISION OF ARTICLE 3 OF PRESIDENTIAL DECREENO.1620 AND IN THE PROCESS, REVIEW AND ASSESS THE CONTINUING RELEVANCE OF THE SAID DECREE"
+scope = "National"
+dateFiled = "1998-01-12"
+status = "Pending with the Committee on JUSTICE since 1998-01-19"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Chipeco"
+[[authorsDetail]]
+name = "Chipeco"
+nameCode = "Chipeco"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "1998-01-19"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 118543
+congress = 10
+bill_no = "HR01489"
+referral = "0520"
+ref_name = "JUSTICE"
+date_read = "1998-01-19"

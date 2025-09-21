@@ -1,0 +1,48 @@
+billNumber = "HR00694"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HR00694"
+lastScraped = "2025-09-22T00:25:57.493464"
+title = "HR00694"
+longTitle = "RESOLUTION TO DIRECT THE COMMITTEES ON GOOD GOVERNMENT, AGRICULTURE AND FOOD AND TRADE AND INDUSTRY TO IMMEDIATELY CONDUCT A JOINT INQUIRY, IN AID OF LEGISLATION, INTO THE INCREASED PRICE OF RICE, THE OPERATIONS OF THE NATIONAL FOOD AUTHORITY AND THE IMPORTATION OF RICE FROM THAILAND, ITS POLITICAL AND ECONOMIC IMPLICATIONS, SPECIFICALLY ITS IMPACT ON THE LIVES AND LIVELIHOOD OF FILIPINO RICE AND CORN FARMERS, AND TO PROPOSE REMEDIAL MEASURES"
+scope = "National"
+dateFiled = "1993-07-28"
+status = "Pending with the Committee on AGRICULTURE AND FOOD since 1993-08-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Isidro"
+[[authorsDetail]]
+name = "Isidro"
+nameCode = "Isidro"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "primary"
+referralCode = "0503"
+dateRead = "1993-08-02"
+
+[[committee]]
+name = "NATIONAL DEFENSE AND SECURITY"
+type = "principal"
+referralCode = "0525"
+
+[[committee]]
+name = "TRADE AND INDUSTRY"
+type = "secondary"
+referralCode = "0539"
+
+[firstReading]
+id = 134006
+congress = 9
+bill_no = "HR00694"
+comm_act = "Change of referral from the Committee on Rules"
+referral = "0503"
+ref_name = "AGRICULTURE AND FOOD"
+sub_name = ""
+date_read = "1993-08-02"

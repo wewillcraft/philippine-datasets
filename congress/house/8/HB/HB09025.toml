@@ -1,0 +1,64 @@
+billNumber = "HB09025"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB09025"
+lastScraped = "2025-09-22T00:46:58.186082"
+title = "HB09025"
+longTitle = "AN ACT AUTHORIZING THE INCREASE IN THE BED CAPACITY OF THE QUEZON CITY GENERAL HOSPITAL FROM TWO HUNDRED FIFTY TO THREE HUNDRED FIFTY"
+scope = "Local"
+dateFiled = "1988-05-09"
+status = "Pending with the Committee on HEALTH since 1988-05-12"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Yap"
+coAuthors = [ "COSETENG, ANNA DOMINIQUE M. L.", "AQUINO, ANTONIO MODESTO L.", "MATHAY, ISMAEL JR. A.",]
+[[authorsDetail]]
+name = "Yap"
+nameCode = "Yap"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "COSETENG, ANNA DOMINIQUE M. L."
+nameCode = "Coseteng"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "AQUINO, ANTONIO MODESTO L."
+nameCode = "Aquino"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[coAuthorsDetail]]
+name = "MATHAY, ISMAEL JR. A."
+nameCode = "Mathay"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-05-12"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 143700
+congress = 8
+bill_no = "HB09025"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-05-12"

@@ -1,0 +1,54 @@
+billNumber = "HB01031"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB01031"
+lastScraped = "2025-09-21T23:55:44.281443"
+title = "HB01031"
+longTitle = "AN ACT INCREASING THE BASIC SALARY OF PUBLIC SCHOOL TEACHERS TO THIRTY THOUSAND PESOS (P30,000)"
+scope = "National"
+dateFiled = "2016-07-05"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-08-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB01031.pdf"
+fileSize = 327659
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "ESPINO, AMADO JR.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2016-07-05"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "ESPINO, AMADO JR."
+nameCode = "Espino"
+date = "2016-10-17"
+journalNo = "J037"
+sessionNo = "1RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-08-01"
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "principal"
+referralCode = "0530"
+
+[firstReading]
+id = 34499
+congress = 17
+bill_no = "HB01031"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-08-01"

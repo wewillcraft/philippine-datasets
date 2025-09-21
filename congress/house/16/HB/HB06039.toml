@@ -1,0 +1,68 @@
+billNumber = "HB06039"
+billType = "HB"
+congress = 16
+apiCongressId = 16
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=16&q=HB06039"
+lastScraped = "2025-09-21T23:56:22.678176"
+title = "HB06039"
+longTitle = "AN ACT PROVIDING FOR THE MANDATORY PHILHEALTH COVERAGE FOR ALL INDIGENT, ABANDONED AND ORPHANED PERSONS WITH DISABILITIES (PWDs) AND APPROPRIATING FUNDS THEREFOR"
+scope = "National"
+dateFiled = "2015-08-24"
+status = "Pending with the Committee on SOCIAL SERVICES since 2015-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_16/HB06039.pdf"
+fileSize = 393050
+author = "Relampagos, Rene L."
+coAuthors = [ "CUEVA, LEO RAFAEL M.", "VILLAR, MARK AGUILAR", "ASILO, BENJAMIN D.",]
+[[authorsDetail]]
+name = "Relampagos, Rene L."
+nameCode = "Relampagos"
+date = "2015-08-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "CUEVA, LEO RAFAEL M."
+nameCode = "Cueva"
+date = "2015-09-23"
+journalNo = "J025"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "VILLAR, MARK AGUILAR"
+nameCode = "Villar"
+date = "2015-09-23"
+journalNo = "J025"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "ASILO, BENJAMIN D."
+nameCode = "Asilo"
+date = "2015-09-28"
+journalNo = "J026"
+sessionNo = "3RS"
+
+[[committee]]
+name = "SOCIAL SERVICES"
+type = "primary"
+referralCode = "0535"
+dateRead = "2015-08-25"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[firstReading]
+id = 51853
+congress = 16
+bill_no = "HB06039"
+report = ""
+comm_act = ""
+referral = "0535"
+ref_name = "SOCIAL SERVICES"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2015-08-25"

@@ -1,0 +1,47 @@
+billNumber = "HR01601"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HR01601"
+lastScraped = "2025-09-21T23:55:46.556842"
+title = "HR01601"
+longTitle = "RESOLUTION CALLING FOR AN INVESTIGATION IN AID OF LEGISLATION BY THE APPROPRIATE COMMITTEE OF THE HOUSE OF REPRESENTATIVES ON THE TERRITORIAL LIMITATION OF LOCAL GOVERNMENT CONSTRUCTION CONTRACTS"
+scope = "National"
+dateFiled = "2018-01-17"
+status = "Pending with the Committee on LOCAL GOVERNMENT since 2018-02-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HR01601.pdf"
+fileSize = 388366
+author = "Suarez, Danilo E."
+[[authorsDetail]]
+name = "Suarez, Danilo E."
+nameCode = "Suarez"
+date = "2018-01-17"
+sequence = 1
+
+[[committee]]
+name = "LOCAL GOVERNMENT"
+type = "primary"
+referralCode = "0522"
+dateRead = "2018-01-24"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 44343
+congress = 17
+bill_no = "HR01601"
+report = ""
+comm_act = ""
+referral = "0522"
+ref_name = "LOCAL GOVERNMENT"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_pend = "2018-02-07"
+date_read = "2018-01-24"

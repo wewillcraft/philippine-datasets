@@ -1,0 +1,42 @@
+billNumber = "HR02121"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR02121"
+lastScraped = "2025-09-22T00:47:02.965594"
+title = "HR02121"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HOUSING TO INVESTIGATE, IN AID OF LEGISLATION, THE ALLEGED ANOMALIES INVOLVING THE HOME INSURANCE GUARANTY CORPORATION (HIGC) AFFECTING THE MANGGA ARATILES SILANGAN SITE IN PARANAQUE"
+scope = "Local"
+dateFiled = "1991-01-23"
+status = "Pending with the Committee on HOUSING since 1991-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Webb"
+[[authorsDetail]]
+name = "Webb"
+nameCode = "Webb"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HOUSING"
+type = "primary"
+referralCode = "518"
+dateRead = "1991-01-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 171956
+congress = 8
+bill_no = "HR02121"
+referral = "518"
+ref_name = "HOUSING"
+sub_name = ""
+date_read = "1991-01-29"

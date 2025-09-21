@@ -1,0 +1,47 @@
+billNumber = "HB04512"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB04512"
+lastScraped = "2025-09-22T00:25:55.444421"
+title = "HB04512"
+longTitle = "AN ACT TO ESTABLISH A COMPUTER TRAINING CENTER IN THE MUNICIPALITY OF BORONGAN, PROVINCE OF EASTERN SAMAR, TO APPROPRIATE FUNDS THEREFOR, AND FOR OTHER PURPOSES"
+scope = "Local"
+dateFiled = "1992-11-03"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1992-11-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Ramirez"
+[[authorsDetail]]
+name = "Ramirez"
+nameCode = "Ramirez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1992-11-10"
+
+[[committee]]
+name = "AQUACULTURE AND FISHERIES RESOURCES"
+type = "principal"
+referralCode = "E506"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 123131
+congress = 9
+bill_no = "HB04512"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1992-11-10"

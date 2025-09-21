@@ -1,0 +1,54 @@
+billNumber = "HB08030"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB08030"
+lastScraped = "2025-09-22T00:20:58.885621"
+title = "HB08030"
+longTitle = "AN ACT TO DECLARE THE PHILIPPINE EAGLE RESEARCH AND NATURE CENTER IN BARANGAY MALAGOS, CALINAN DISTRICT, DAVAO CITY AS A SPECIAL TOURIST SPOT,AND PROVIDING APPROPRIATIONS THEREFOR"
+scope = "Local"
+dateFiled = "1996-09-30"
+status = "Pending with the Committee on TOURISM since 1996-10-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Lopez"
+coAuthors = [ "JOAQUIN, NEREO R.",]
+[[authorsDetail]]
+name = "Lopez"
+nameCode = "Lopez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "JOAQUIN, NEREO R."
+nameCode = "Joaquin"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "TOURISM"
+type = "primary"
+referralCode = "0538"
+dateRead = "1996-10-02"
+
+[[committee]]
+name = "HEALTH"
+type = "principal"
+referralCode = "0517"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 114451
+congress = 10
+bill_no = "HB08030"
+referral = "0538"
+ref_name = "TOURISM"
+date_read = "1996-10-02"

@@ -1,0 +1,55 @@
+billNumber = "HR01229"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR01229"
+lastScraped = "2025-09-22T00:20:59.662013"
+title = "HR01229"
+longTitle = "RESOLUTION EXPRESSING THE SENSE OF THE HOUSE OF REPRESENTATIVES OF THE URGENT NEED TO SEEK A JUST AND PEACEFUL SOLUTION TO THE MATTER CONCERNING THE KALAYAAN ISLANDS AND THE SCARBOROUGH SHOAL"
+scope = "National"
+dateFiled = "1997-05-28"
+status = "Pending with the Committee on NATIONAL DEFENSE since 1997-06-02"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Perez"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Perez"
+nameCode = "Perez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "NATIONAL DEFENSE"
+type = "primary"
+referralCode = "0525"
+dateRead = "1997-06-02"
+
+[[committee]]
+name = "YOUTH AND SPORTS DEVELOPMENT"
+type = "principal"
+referralCode = "0543"
+
+[[committee]]
+name = "FOREIGN AFFAIRS"
+type = "secondary"
+referralCode = "0513"
+
+[firstReading]
+id = 118283
+congress = 10
+bill_no = "HR01229"
+comm_act = "Jointly Referred to the Ctte. on Foreign Affairs on June 2, 1997."
+referral = "0525"
+ref_name = "NATIONAL DEFENSE"
+date_read = "1997-06-02"

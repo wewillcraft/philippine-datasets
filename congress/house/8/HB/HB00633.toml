@@ -1,0 +1,42 @@
+billNumber = "HB00633"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB00633"
+lastScraped = "2025-09-22T00:46:56.673585"
+title = "HB00633"
+longTitle = "AN ACT ESTABLISHING A VOCATIONAL TRAINING CENTER IN BARANGAY MA-AO, BAGO CITY, NEGROS OCCIDENTAL, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1987-08-24"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1987-08-25"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Matti"
+[[authorsDetail]]
+name = "Matti"
+nameCode = "Matti"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1987-08-25"
+
+[[committee]]
+name = "JUSTICE"
+type = "principal"
+referralCode = "0520"
+
+[firstReading]
+id = 135330
+congress = 8
+bill_no = "HB00633"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1987-08-25"

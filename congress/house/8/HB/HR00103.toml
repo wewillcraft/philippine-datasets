@@ -1,0 +1,42 @@
+billNumber = "HR00103"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR00103"
+lastScraped = "2025-09-22T00:47:02.545798"
+title = "HR00103"
+longTitle = "RESOLUTION DIRECTING THE COMMITTEE ON AGRARIAN REFORM TO INFORM MALACANANG AND PCGG TO HOLD DISTRIBUTION OF SEIZED LANDS FROM MARCOS AND HIS CRONIES PENDING APPROVAL OF LAND REFORM BILL"
+scope = "National"
+dateFiled = "1987-08-10"
+status = "Pending with the Committee on AGRARIAN REFORM since 1987-08-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Bautista"
+[[authorsDetail]]
+name = "Bautista"
+nameCode = "Bautista"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "AGRARIAN REFORM"
+type = "primary"
+referralCode = "502"
+dateRead = "1987-08-13"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 170013
+congress = 8
+bill_no = "HR00103"
+referral = "502"
+ref_name = "AGRARIAN REFORM"
+sub_name = ""
+date_read = "1987-08-13"

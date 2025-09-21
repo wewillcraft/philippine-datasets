@@ -1,0 +1,42 @@
+billNumber = "HB11101"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11101"
+lastScraped = "2025-09-22T00:25:56.615893"
+title = "HB11101"
+longTitle = "AN ACT REPEALING SECTION 31 OF PRESIDENTIAL DECREE 1177 (Aims to provide the HIGHEST BUDGET for education)"
+scope = "National"
+dateFiled = "1993-10-14"
+status = "Pending with the Committee on APPROPRIATIONS since 1993-11-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Recto, Ralph G."
+[[authorsDetail]]
+name = "Recto, Ralph G."
+nameCode = "Recto"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "1993-11-05"
+
+[[committee]]
+name = "WELFARE OF CHILDREN"
+type = "principal"
+referralCode = "F501"
+
+[firstReading]
+id = 129717
+congress = 9
+bill_no = "HB11101"
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+date_read = "1993-11-05"

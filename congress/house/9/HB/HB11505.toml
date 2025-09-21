@@ -1,0 +1,47 @@
+billNumber = "HB11505"
+billType = "HB"
+congress = 9
+apiCongressId = 9
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=9&q=HB11505"
+lastScraped = "2025-09-22T00:25:56.698980"
+title = "HB11505"
+longTitle = "AN ACT PROVIDING FOR THE CONSTRUCTION OF A TWO KILOMETER SEAWALL IN THE MUNICIPALITY OF ALEGRIA, PROVINCE OF CEBU, AND APPROPRIATING FUNDS THEREFOR"
+scope = "Local"
+dateFiled = "1993-12-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1993-12-14"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Abines"
+[[authorsDetail]]
+name = "Abines"
+nameCode = "Abines"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1993-12-14"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 130120
+congress = 9
+bill_no = "HB11505"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+sub_name = ""
+date_read = "1993-12-14"

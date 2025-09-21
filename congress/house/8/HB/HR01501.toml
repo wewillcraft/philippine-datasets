@@ -1,0 +1,42 @@
+billNumber = "HR01501"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01501"
+lastScraped = "2025-09-22T00:47:02.818082"
+title = "HR01501"
+longTitle = "RESOLUTION DIRECTISNG THE COMMITTEE ON HEALTH TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE ALLEGED DUMPING OF HEALTH DRUGS AND OTHER HEALTH PRODUCTS IN THE PHILIPPINES AND TO RECOMMEND THE NECESSARY REMEDIAL MEASURES"
+scope = "National"
+dateFiled = "1989-10-10"
+status = "Pending with the Committee on HEALTH since 1989-10-10"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Monfort"
+[[authorsDetail]]
+name = "Monfort"
+nameCode = "Monfort"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1989-10-10"
+
+[[committee]]
+name = "PUBLIC ORDER AND SAFETY"
+type = "principal"
+referralCode = "0529"
+
+[firstReading]
+id = 171363
+congress = 8
+bill_no = "HR01501"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1989-10-10"

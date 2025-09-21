@@ -1,0 +1,46 @@
+billNumber = "HB04308"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04308"
+lastScraped = "2025-09-22T00:20:58.181039"
+title = "HB04308"
+longTitle = "AN ACT CREATING THE SECOND ENGINEERING DISTRICT OFFICE OF THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS IN THE PROVINCE OF SULTAN KUDARAT"
+scope = "Local"
+dateFiled = "1995-10-09"
+status = "Pending with the Committee on PUBLIC WORKS AND HIGHWAYS since 1995-10-23"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montilla"
+[[authorsDetail]]
+name = "Montilla"
+nameCode = "Montilla"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "PUBLIC WORKS AND HIGHWAYS"
+type = "primary"
+referralCode = "0530"
+dateRead = "1995-10-23"
+
+[[committee]]
+name = "HIGHER AND TECHNICAL EDUCATION"
+type = "principal"
+referralCode = "C502"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 110729
+congress = 10
+bill_no = "HB04308"
+referral = "0530"
+ref_name = "PUBLIC WORKS AND HIGHWAYS"
+date_read = "1995-10-23"

@@ -1,0 +1,68 @@
+billNumber = "HB00252"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB00252"
+lastScraped = "2025-09-21T23:55:44.130393"
+title = "HB00252"
+longTitle = "AN ACT REQUIRING FULL FINANCIAL DISCLOSURE FROM ALL ENTITIES AND ORGANIZATIONS RECEIVING GOVERNMENT FUNDS"
+scope = "National"
+dateFiled = "2016-06-30"
+status = "Pending with the Committee on APPROPRIATIONS since 2016-07-26"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB00252.pdf"
+fileSize = 542470
+author = "Roque, Harry Jr. L."
+coAuthors = [ "TAMBUNTING, GUSTAVO S.", "ABAYON, HARLIN NEIL III J.", "NIETO, YUL SERVO",]
+[[authorsDetail]]
+name = "Roque, Harry Jr. L."
+nameCode = "Roque (H.)"
+date = "2016-06-30"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "TAMBUNTING, GUSTAVO S."
+nameCode = "Tambunting"
+date = "2016-08-16"
+journalNo = "J011"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "ABAYON, HARLIN NEIL III J."
+nameCode = "Abayon"
+date = "2016-08-17"
+journalNo = "J012"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "NIETO, YUL SERVO"
+nameCode = "Nieto"
+date = "2016-09-14"
+journalNo = "J022"
+sessionNo = "1RS"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "primary"
+referralCode = "0504"
+dateRead = "2016-07-26"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[firstReading]
+id = 33720
+congress = 17
+bill_no = "HB00252"
+report = ""
+comm_act = ""
+referral = "0504"
+ref_name = "APPROPRIATIONS"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2016-07-26"

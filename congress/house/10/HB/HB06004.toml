@@ -1,0 +1,41 @@
+billNumber = "HB06004"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB06004"
+lastScraped = "2025-09-22T00:20:58.475922"
+title = "HB06004"
+longTitle = "AN ACT CHANGING THE NAME OF IFUGAO STATE COLLEGE OF AGRICULTURE AND FORESTRY IN NAYON, MUNICIPALITY OF LAMUT, PROVINCE OF IFUGAO, TO IFUGAO STATE COLLEGE"
+scope = "Local"
+dateFiled = "1996-01-31"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1996-02-05"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cappleman"
+[[authorsDetail]]
+name = "Cappleman"
+nameCode = "Cappleman"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1996-02-05"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 112425
+congress = 10
+bill_no = "HB06004"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1996-02-05"

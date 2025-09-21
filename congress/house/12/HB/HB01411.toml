@@ -1,0 +1,50 @@
+billNumber = "HB01411"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB01411"
+lastScraped = "2025-09-22T00:13:00.058765"
+title = "HB01411"
+longTitle = "AN ACT REGULATING THE OPERATION OF TAXI UNITS AND CONSOLIDATION OF ALL EXISTING RULES AND REGULATIONS GOVERNING THE SAME"
+scope = "National"
+dateFiled = "2001-07-25"
+status = "Pending with the Committee on TRANSPORTATION AND COMMUNICATIONS since 2001-07-31"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Barbers, Robert Ace S."
+coAuthors = [ "SYJUCO, AUGUSTO JR. L",]
+[[authorsDetail]]
+name = "Barbers, Robert Ace S."
+nameCode = "Barbers"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "SYJUCO, AUGUSTO JR. L"
+nameCode = "Syjuco"
+date = ""
+journalNo = "J023"
+sessionNo = "3RS"
+
+[[committee]]
+name = "TRANSPORTATION AND COMMUNICATIONS"
+type = "primary"
+referralCode = "0540"
+dateRead = "2001-07-31"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 84571
+congress = 12
+bill_no = "HB01411"
+referral = "0540"
+ref_name = "TRANSPORTATION AND COMMUNICATIONS"
+sub_name = ""
+date_read = "2001-07-31"

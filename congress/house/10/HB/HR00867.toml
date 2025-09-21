@@ -1,0 +1,55 @@
+billNumber = "HR00867"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00867"
+lastScraped = "2025-09-22T00:20:59.588369"
+title = "HR00867"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEE ON HOUSING AND URBAN DEVELOPMENT TO CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE IMPLEMENTATION OF THE WIDENING ON IBP ROAD BY THE DEPARTMENT OF PUBLIC WORKS AND HIGHWAYS AND TO RECOMMEND MEASURESTHERETO"
+scope = "Local"
+dateFiled = "1996-09-25"
+status = "Pending with the Committee on RULES since 1996-09-30"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Liban"
+coAuthors = [ "DEJON, TEMISTOCLES SR. S.",]
+[[authorsDetail]]
+name = "Liban"
+nameCode = "Liban"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "DEJON, TEMISTOCLES SR. S."
+nameCode = "Dejon"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-30"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "principal"
+referralCode = "0526"
+
+[[committee]]
+name = "HOUSING AND URBAN DEVELOPMENT"
+type = "secondary"
+referralCode = "0518"
+
+[firstReading]
+id = 117921
+congress = 10
+bill_no = "HR00867"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte. on Housing and Urban Developmen t on Oct. 1,"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-30"

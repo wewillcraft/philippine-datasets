@@ -1,0 +1,80 @@
+billNumber = "HB06226"
+billType = "HB"
+congress = 12
+apiCongressId = 12
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=12&q=HB06226"
+lastScraped = "2025-09-22T00:13:01.006807"
+title = "HB06226"
+longTitle = "AN ACT CREATING A NATIONAL BOOK DEVELOPMENT TRUST FUND TO SUPPORT FILIPINO AUTHORSHIP"
+scope = "National"
+dateFiled = "2003-07-23"
+status = "Pending with the Committee on BASIC EDUCATION AND CULTURE since 2003-08-04"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gonzales"
+coAuthors = [ "CODILLA, EUFROCINO SR.", "AMIN, HUSSIN U.", "ESPINA, GERARDO S.", "AGUJA, MARIA JOYO",]
+[[authorsDetail]]
+name = "Gonzales"
+nameCode = "Gonzales"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "CODILLA, EUFROCINO SR."
+nameCode = "Codilla"
+date = ""
+journalNo = "J004"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "AMIN, HUSSIN U."
+nameCode = "Amin"
+date = ""
+journalNo = "J004"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "ESPINA, GERARDO S."
+nameCode = "Espina"
+date = ""
+journalNo = "J012"
+sessionNo = "3RS"
+
+[[coAuthorsDetail]]
+name = "AGUJA, MARIA JOYO"
+nameCode = "Aguha"
+date = ""
+journalNo = "J027"
+sessionNo = "3RS"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "C501"
+dateRead = "2003-08-04"
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "principal"
+referralCode = "0531"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 89380
+congress = 12
+bill_no = "HB06226"
+report = ""
+comm_act = ""
+referral = "C501"
+ref_name = "BASIC EDUCATION AND CULTURE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2003-08-04"

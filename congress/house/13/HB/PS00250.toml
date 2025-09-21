@@ -1,0 +1,42 @@
+billNumber = "PS00250"
+billType = "HB"
+congress = 13
+apiCongressId = 13
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=13&q=PS00250"
+lastScraped = "2025-09-22T00:13:49.509341"
+title = "PS00250"
+longTitle = "Release of Road Users' Tax to Influence the Vote of the Members of the Committee on Justice & the House on the Impending Impeachment Proceedings"
+scope = "National"
+dateFiled = "2005-08-24"
+status = "Pending with the Committee on GOOD GOVERNMENT since 2005-09-20"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Cerilles, Antonio H."
+[[authorsDetail]]
+name = "Cerilles, Antonio H."
+nameCode = "Cerilles"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "GOOD GOVERNMENT"
+type = "primary"
+referralCode = "A502"
+dateRead = "2005-09-20"
+
+[[committee]]
+name = "WOMEN AND GENDER EQUALITY"
+type = "principal"
+referralCode = "A504"
+
+[firstReading]
+id = 82995
+congress = 13
+bill_no = "PS00250"
+referral = "A502"
+ref_name = "GOOD GOVERNMENT"
+sub_name = ""
+date_read = "2005-09-20"

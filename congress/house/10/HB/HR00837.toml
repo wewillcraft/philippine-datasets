@@ -1,0 +1,52 @@
+billNumber = "HR00837"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HR00837"
+lastScraped = "2025-09-22T00:20:59.582968"
+title = "HR00837"
+longTitle = "RESOLUTION DIRECTING THE HOUSE COMMITTEES ON NATIONAL AND CULTURAL COMMUNITIES AND NATURAL RESOURCES TO JOINTLY CONDUCT AN INVESTIGATION, IN AID OF LEGISLATION, ON THE REPORTED HARASSMENTS COMMITTED AGAINST THE AGTAS LIVING ON MT. ISAROG IN OCAMPO,CAMARINES SUR, BY SEVERAL CLAIMANTS OF PUBLIC LANDS RESERVED FOR SAID INDIGENOUS \"CULTURAL COMMUNITY\""
+scope = "Local"
+dateFiled = "1996-09-06"
+status = "Pending with the Committee on RULES since 1996-09-11"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Montemayor, Leonardo Q."
+[[authorsDetail]]
+name = "Montemayor, Leonardo Q."
+nameCode = "Montemayor"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1996-09-11"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[[committee]]
+name = "NATIONAL CULTURAL COMMUNITIES"
+type = "secondary"
+referralCode = "0524"
+
+[[committee]]
+name = "NATURAL RESOURCES"
+type = "secondary"
+referralCode = "0526"
+
+[firstReading]
+id = 117891
+congress = 10
+bill_no = "HR00837"
+comm_act = "Change of Referral from the Ctte. on Rules to the Ctte's. on National Cultural Commmuniti es and on"
+referral = "0532"
+ref_name = "RULES"
+date_read = "1996-09-11"

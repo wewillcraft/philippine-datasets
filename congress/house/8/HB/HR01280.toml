@@ -1,0 +1,42 @@
+billNumber = "HR01280"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HR01280"
+lastScraped = "2025-09-22T00:47:02.783192"
+title = "HR01280"
+longTitle = "RESOLUTION PROPOSING INQUIRY ON THE DEVOLUTION OFCERTAIN FUNCTIONS OF DECS TO THE LOCAL GOVERNMENTUNITS"
+scope = "National"
+dateFiled = "1989-05-09"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1989-05-15"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez"
+[[authorsDetail]]
+name = "Rodriguez"
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "509"
+dateRead = "1989-05-15"
+
+[[committee]]
+name = "COOPERATIVES DEVELOPMENT"
+type = "principal"
+referralCode = "B512"
+
+[firstReading]
+id = 171149
+congress = 8
+bill_no = "HR01280"
+referral = "509"
+ref_name = "EDUCATION AND CULTURE"
+sub_name = ""
+date_read = "1989-05-15"

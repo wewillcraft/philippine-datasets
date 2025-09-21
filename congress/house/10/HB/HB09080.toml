@@ -1,0 +1,41 @@
+billNumber = "HB09080"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB09080"
+lastScraped = "2025-09-22T00:20:59.096273"
+title = "HB09080"
+longTitle = "AN ACT DECLARING AUGUST 31 OF EVERY YEAR AS A WORKING SPECIAL PUBLIC HOLIDAY IN THE MUNICIPALITY OF NOVELETA IN COMMEMORATION OF NOVELETA HEROES DAY"
+scope = "Local"
+dateFiled = "1997-03-10"
+status = "Pending with the Committee on REVISION OF LAWS since 1997-03-13"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Dragon"
+[[authorsDetail]]
+name = "Dragon"
+nameCode = "Dragon"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "REVISION OF LAWS"
+type = "primary"
+referralCode = "0531"
+dateRead = "1997-03-13"
+
+[[committee]]
+name = "TOURISM"
+type = "principal"
+referralCode = "0538"
+
+[firstReading]
+id = 115501
+congress = 10
+bill_no = "HB09080"
+referral = "0531"
+ref_name = "REVISION OF LAWS"
+date_read = "1997-03-13"

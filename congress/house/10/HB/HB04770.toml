@@ -1,0 +1,54 @@
+billNumber = "HB04770"
+billType = "HB"
+congress = 10
+apiCongressId = 10
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=10&q=HB04770"
+lastScraped = "2025-09-22T00:20:58.257203"
+title = "HB04770"
+longTitle = "AN ACT MANDATING THE ESTABLISHMENT OF MUNICIPAL LIBRARIES IN THE ONE THOUSAND FIVE HUNDRED FORTY-THREE MUNICIPALITIES NATIONWIDE"
+scope = "National"
+dateFiled = "1995-10-26"
+status = "Pending with the Committee on EDUCATION AND CULTURE since 1995-11-07"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Rodriguez, Oscar S."
+coAuthors = [ "LIBAN, DANTE V.",]
+[[authorsDetail]]
+name = "Rodriguez, Oscar S."
+nameCode = "Rodriguez"
+date = ""
+sequence = 0
+
+[[coAuthorsDetail]]
+name = "LIBAN, DANTE V."
+nameCode = "Liban"
+date = ""
+journalNo = ""
+sessionNo = ""
+
+[[committee]]
+name = "EDUCATION AND CULTURE"
+type = "primary"
+referralCode = "0509"
+dateRead = "1995-11-07"
+
+[[committee]]
+name = "BASIC EDUCATION AND CULTURE"
+type = "principal"
+referralCode = "C501"
+
+[[committee]]
+name = "APPROPRIATIONS"
+type = "secondary"
+referralCode = "0504"
+
+[firstReading]
+id = 111191
+congress = 10
+bill_no = "HB04770"
+referral = "0509"
+ref_name = "EDUCATION AND CULTURE"
+date_read = "1995-11-07"

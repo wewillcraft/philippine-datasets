@@ -1,0 +1,42 @@
+billNumber = "HR00772"
+billType = "HB"
+congress = 11
+apiCongressId = 11
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=11&q=HR00772"
+lastScraped = "2025-09-22T00:23:18.089480"
+title = "HR00772"
+longTitle = "RESOLUTION AUTHORIZING THE SPEAKER OF THE HOUSE OF REPRESENTATIVES TO CREATE A SPECIAL COMMITTEE OF PEERS WHICH SHALL RECOMMEND THE COURSE OF ACTION TO TAKE SHOULD ANY HOUSE MEMBER IS SOUGHT TO BE SUSPENDED BY THE COURTS"
+scope = "National"
+dateFiled = "1999-03-01"
+status = "Pending with the Committee on RULES since 1999-03-08"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Gullas, Eduardo R."
+[[authorsDetail]]
+name = "Gullas, Eduardo R."
+nameCode = ""
+date = ""
+sequence = 0
+
+[[committee]]
+name = "RULES"
+type = "primary"
+referralCode = "0532"
+dateRead = "1999-03-08"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 105230
+congress = 11
+bill_no = "HR00772"
+referral = "0532"
+ref_name = "RULES"
+sub_name = ""
+date_read = "1999-03-08"

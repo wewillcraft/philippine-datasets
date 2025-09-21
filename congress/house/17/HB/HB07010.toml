@@ -1,0 +1,75 @@
+billNumber = "HB07010"
+billType = "HB"
+congress = 17
+apiCongressId = 17
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=17&q=HB07010"
+lastScraped = "2025-09-21T23:55:45.630312"
+title = "HB07010"
+longTitle = "AN ACT DEFINING THE CRIME OF INDISCRIMINATE FIRING WITH CASUALTY, PRESCRIBING PUNISHMENT THEREFOR, INCLUDING IT IN THE CRIMES AGAINST PERSONS AS ARTICLE 254-B, AMENDING FOR THE PURPOSE THE REVISED PENAL CODE AND FOR OTHER PURPOSES"
+scope = "National"
+dateFiled = "2018-01-24"
+status = "Pending with the Committee on JUSTICE since 2018-01-29"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = "https://docs.congress.hrep.online/legisdocs/basic_17/HB07010.pdf"
+fileSize = 415092
+author = "Castelo, Winston 'Winnie'"
+coAuthors = [ "SY-ALVARADO, JOSE ANTONIO R.", "BELMONTE, RICARDO JR. T.", "UYBARRETA, CARLOS ROMAN", "DALIPE, MANUEL JOSE M.",]
+[[authorsDetail]]
+name = "Castelo, Winston 'Winnie'"
+nameCode = "Castelo"
+date = "2018-01-24"
+sequence = 1
+
+[[coAuthorsDetail]]
+name = "SY-ALVARADO, JOSE ANTONIO R."
+nameCode = "Sy-Alvarado"
+date = "2018-02-14"
+journalNo = "J000"
+sessionNo = "2RS"
+
+[[coAuthorsDetail]]
+name = "BELMONTE, RICARDO JR. T."
+nameCode = "Belmonte (R.)"
+date = "2018-02-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "UYBARRETA, CARLOS ROMAN"
+nameCode = "Uybarreta"
+date = "2018-02-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[coAuthorsDetail]]
+name = "DALIPE, MANUEL JOSE M."
+nameCode = "Dalipe"
+date = "2018-02-05"
+journalNo = "J000"
+sessionNo = "1RS"
+
+[[committee]]
+name = "JUSTICE"
+type = "primary"
+referralCode = "0520"
+dateRead = "2018-01-29"
+
+[[committee]]
+name = "RULES"
+type = "principal"
+referralCode = "0532"
+
+[firstReading]
+id = 40477
+congress = 17
+bill_no = "HB07010"
+report = ""
+comm_act = ""
+referral = "0520"
+ref_name = "JUSTICE"
+sub_name = ""
+recomm = ""
+remarks = ""
+date_read = "2018-01-29"

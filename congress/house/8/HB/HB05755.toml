@@ -1,0 +1,42 @@
+billNumber = "HB05755"
+billType = "HB"
+congress = 8
+apiCongressId = 8
+url = "https://www.congress.gov.ph/legisdocs/?v=billsresults&congress=8&q=HB05755"
+lastScraped = "2025-09-22T00:46:57.557723"
+title = "HB05755"
+longTitle = "AN ACT ESTABLISHING HEALTH CENTERS IN BARANGAYS CONCEPCION, MAPAANG, MALAMODAO, ANIBONGAN, LIBAY-LIBAY, SANGAB, PANGI, NEW ASTURIAS, GUBATAN, CALABCAB, AND PANIBASAN, ALL IN THE MUNICIPALITY OF MACO,PROVINCE OF DAVAO"
+scope = "Local"
+dateFiled = "1988-02-24"
+status = "Pending with the Committee on HEALTH since 1988-03-01"
+statusOrder = 4.0
+urgent = false
+adminBill = false
+pdfUrl = ""
+fileSize = 0
+author = "Sator"
+[[authorsDetail]]
+name = "Sator"
+nameCode = "Sator"
+date = ""
+sequence = 0
+
+[[committee]]
+name = "HEALTH"
+type = "primary"
+referralCode = "517"
+dateRead = "1988-03-01"
+
+[[committee]]
+name = "AGRICULTURE AND FOOD"
+type = "principal"
+referralCode = "E505"
+
+[firstReading]
+id = 140436
+congress = 8
+bill_no = "HB05755"
+referral = "517"
+ref_name = "HEALTH"
+sub_name = ""
+date_read = "1988-03-01"
