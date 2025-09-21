@@ -75,7 +75,7 @@ The server will be available at `http://localhost:8000`
 
 ## Senate Bill Scraper
 
-The Senate bill scraper (`senate/main.py`) collects legislative data from the Philippine Senate website.
+The Senate bill scraper (`congress/senate_scraper.py`) collects legislative data from the Philippine Senate website.
 
 ### Prerequisites
 
@@ -90,28 +90,28 @@ Also ensure you have Chrome/Chromium installed for Selenium.
 
 ```bash
 # Discover and fetch all bills for congress 19
-python senate/main.py --congress 19
+python congress/senate_scraper.py --congress 19
 
 # Only discover bill numbers (saves to metadata cache)
-python senate/main.py --congress 19 --discover
+python congress/senate_scraper.py --congress 19 --discover
 
 # Only fetch bill details from cached metadata
-python senate/main.py --congress 19 --fetch
+python congress/senate_scraper.py --congress 19 --fetch
 
 # Fetch only missing files (skip existing ones)
-python senate/main.py --congress 16 17 --fetch --skip-existing
+python congress/senate_scraper.py --congress 16 17 --fetch --skip-existing
 
 # Extract metadata for all congresses (13-20)
-python senate/main.py --metadata
+python congress/senate_scraper.py --metadata
 
 # Fetch bills for multiple congresses
-python senate/main.py --congress 16 17 18 19 20 --fetch
+python congress/senate_scraper.py --congress 16 17 18 19 20 --fetch
 
 # Specify custom workers for concurrent fetching
-python senate/main.py --congress 19 --fetch --workers 30
+python congress/senate_scraper.py --congress 19 --fetch --workers 30
 
 # Show browser window during discovery (debugging)
-python senate/main.py --congress 19 --discover --show-browser
+python congress/senate_scraper.py --congress 19 --discover --show-browser
 ```
 
 ### Command-line Options
@@ -152,7 +152,7 @@ If the scraper encounters timeouts or connection errors:
 
 ```bash
 # Use --skip-existing to only download missing files
-python senate/main.py --congress 16 17 --fetch --skip-existing
+python congress/senate_scraper.py --congress 16 17 --fetch --skip-existing
 ```
 
 This will:
@@ -417,8 +417,8 @@ The following indexes are created for optimal query performance:
 ├── psa/                  # Philippine Statistics Authority data
 │   ├── parse_psgc.py     # PSGC data parser
 │   └── requirements.txt  # Python dependencies
-├── senate/               # Senate bills data and scraper
-│   ├── main.py          # Senate bill scraper
+├── congress/             # Congress bills data and scraper
+│   ├── senate_scraper.py # Senate bill scraper
 │   ├── congress/        # Bill data organized by congress
 │   └── metadata/        # Bill metadata and cache files
 ├── tasks/                # Deno task scripts

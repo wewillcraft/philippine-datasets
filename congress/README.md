@@ -2,7 +2,7 @@
 
 Python scraper for Philippine Senate bills from https://web.senate.gov.ph
 
-## Main Scraper: `main.py`
+## Main Scraper: `senate_scraper.py`
 
 A comprehensive scraper that:
 - **Metadata Extraction**: Extracts senators, committees, and legislative statuses for Neo4j mapping
@@ -26,41 +26,41 @@ pip install -r requirements.txt
 ### Basic workflow (discover and fetch)
 ```bash
 # Default: Congress 19, all bill types
-python main.py
+python senate_scraper.py
 
 # Specific congress
-python main.py --congress 19
+python senate_scraper.py --congress 19
 
 # Multiple congresses
-python main.py --congress 16 17 18 19 20
+python senate_scraper.py --congress 16 17 18 19 20
 ```
 
 ### Extract metadata for Neo4j mapping
 ```bash
 # Extract metadata for all congresses (13-20)
-python main.py --metadata
+python senate_scraper.py --metadata
 
 # Or specify specific congresses
-python main.py --metadata --congress 19 20
+python senate_scraper.py --metadata --congress 19 20
 ```
 
 ### Discover all bill numbers
 ```bash
-python main.py --discover --congress 19 --type ALL
+python senate_scraper.py --discover --congress 19 --type ALL
 ```
 
 ### Fetch bill details
 ```bash
-python main.py --fetch --congress 19 --type ALL --workers 30
+python senate_scraper.py --fetch --congress 19 --type ALL --workers 30
 ```
 
 ### Resume from failures (NEW)
 ```bash
 # Only download missing files for ALL cached congresses
-python main.py --fetch --skip-existing
+python senate_scraper.py --fetch --skip-existing
 
 # For specific congresses
-python main.py --congress 16 17 --fetch --skip-existing
+python senate_scraper.py --congress 16 17 --fetch --skip-existing
 
 # The scraper will automatically detect all congresses with cached metadata
 # and process them all when no --congress is specified
@@ -68,16 +68,16 @@ python main.py --congress 16 17 --fetch --skip-existing
 
 ### Complete workflow (all steps)
 ```bash
-python main.py --metadata --discover --fetch --congress 19 --workers 30
+python senate_scraper.py --metadata --discover --fetch --congress 19 --workers 30
 ```
 
 ### Additional options
 ```bash
 # Force rediscovery (ignore cache)
-python main.py --discover --congress 19 --type HBN --force
+python senate_scraper.py --discover --congress 19 --type HBN --force
 
 # Show browser during discovery
-python main.py --discover --congress 19 --show-browser
+python senate_scraper.py --discover --congress 19 --show-browser
 ```
 
 ## Options
@@ -138,7 +138,7 @@ If the scraper encounters timeouts or connection errors:
 
 ```bash
 # Use --skip-existing to only download missing files
-python main.py --congress 16 17 --fetch --skip-existing
+python senate_scraper.py --congress 16 17 --fetch --skip-existing
 ```
 
 This will:
