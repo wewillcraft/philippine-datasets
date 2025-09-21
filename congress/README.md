@@ -114,9 +114,9 @@ python main.py --discover --congress 19 --show-browser
 - `bills_congress_19_HBN.json` - Cached HBN bill numbers for Congress 19
 - `bills_congress_XX_[SBN|HBN].json` - Cached bill numbers for other congresses
 
-### Bill Output (`congress/19/`)
+### Bill Output (`senate/19/`)
 ```
-congress/
+senate/
 └── 19/
     ├── SBN/
     │   ├── index.yml

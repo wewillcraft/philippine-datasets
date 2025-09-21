@@ -546,7 +546,7 @@ class BillFetcher:
                 print(f"                    ... and {len(bill_numbers) - 10} more")
 
         # Create directory structure
-        bill_dir = self.base_dir / "congress" / str(congress) / bill_type
+        bill_dir = self.base_dir / "senate" / str(congress) / bill_type
         bill_dir.mkdir(parents=True, exist_ok=True)
 
         successful = 0
@@ -643,7 +643,7 @@ def get_missing_bills(metadata_dir: Path, congress: int, bill_type: str, base_di
         return []
 
     # Check which files already exist
-    bill_dir = base_dir / "congress" / str(congress) / bill_type
+    bill_dir = base_dir / "senate" / str(congress) / bill_type
     existing_bills = set()
 
     if bill_dir.exists():
@@ -670,7 +670,7 @@ def get_missing_bills(metadata_dir: Path, congress: int, bill_type: str, base_di
 
 def update_index_file(base_dir: Path, congress: int, bill_type: str):
     """Update or create index.yml file with all existing bills."""
-    bill_dir = base_dir / "congress" / str(congress) / bill_type
+    bill_dir = base_dir / "senate" / str(congress) / bill_type
     if not bill_dir.exists():
         return
 
