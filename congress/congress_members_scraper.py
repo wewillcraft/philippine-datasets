@@ -174,36 +174,68 @@ class HouseMembersScraper:
 
         # Add memberships if available
         if member.get('memberships'):
-            memberships = member['memberships']
-            toml_data['membershipInfo'] = {
-                'congress': memberships.get('congress', 0),
-                'congressDesc': memberships.get('congress_desc', ''),
-                'type': memberships.get('type', 0),
-                'typeDesc': memberships.get('type_desc', ''),
-                'district': memberships.get('district', 0),
-                'partyListId': memberships.get('party_list', 0),
-                'partyListName': memberships.get('party_list_name', '')
-            }
+            memberships = member.get('memberships')
+            # Check if memberships is a dict
+            if isinstance(memberships, dict):
+                toml_data['membershipInfo'] = {
+                    'congress': memberships.get('congress', 0),
+                    'congressDesc': memberships.get('congress_desc', ''),
+                    'type': memberships.get('type', 0),
+                    'typeDesc': memberships.get('type_desc', ''),
+                    'district': memberships.get('district', 0),
+                    'partyListId': memberships.get('party_list', 0),
+                    'partyListName': memberships.get('party_list_name', '')
+                }
+            elif isinstance(memberships, list) and memberships:
+                # If memberships is a list, process all of them
+                membership_list = []
+                for mem in memberships:
+                    if isinstance(mem, dict):
+                        membership_list.append({
+                            'congress': mem.get('congress', 0),
+                            'congressDesc': mem.get('congress_desc', ''),
+                            'type': mem.get('type', 0),
+                            'typeDesc': mem.get('type_desc', ''),
+                            'district': mem.get('district', 0),
+                            'partyListId': mem.get('party_list', 0),
+                            'partyListName': mem.get('party_list_name', '')
+                        })
+                if membership_list:
+                    toml_data['memberships'] = membership_list
 
-        # Add photo info
+        # Add photo information
         if member.get('photo'):
-            photo = member['photo']
-            toml_data['photo'] = {
-                'url': photo.get('url', ''),
-                'size': photo.get('size', 0),
-                'type': photo.get('type', '')
-            }
+            photo = member.get('photo')
+            # Check if photo is a dict (not a list or other type)
+            if isinstance(photo, dict):
+                toml_data['photo'] = {
+                    'url': photo.get('url', ''),
+                    'size': photo.get('size', 0),
+                    'type': photo.get('type', '')
+                }
+            elif isinstance(photo, list) and photo:
+                # If photo is a list, take the first element if it exists
+                first_photo = photo[0] if photo else {}
+                if isinstance(first_photo, dict):
+                    toml_data['photo'] = {
+                        'url': first_photo.get('url', ''),
+                        'size': first_photo.get('size', 0),
+                        'type': first_photo.get('type', '')
+                    }
 
         # Add committee memberships
         if member.get('committee_membership'):
             committees = []
-            for comm in member['committee_membership']:
-                if comm:
-                    committees.append({
-                        'code': comm.get('committee_code', ''),
-                        'name': comm.get('name', ''),
-                        'title': comm.get('title', '')
-                    })
+            committee_data = member.get('committee_membership', [])
+            # Handle if committee_membership is a list
+            if isinstance(committee_data, list):
+                for comm in committee_data:
+                    if comm and isinstance(comm, dict):
+                        committees.append({
+                            'code': comm.get('committee_code', ''),
+                            'name': comm.get('name', ''),
+                            'title': comm.get('title', '')
+                        })
             if committees:
                 toml_data['committees'] = committees
 
@@ -212,18 +244,21 @@ class HouseMembersScraper:
             bills = []
             # Group bills by congress
             bills_by_congress = {}
-            for bill in member['principal_authored_bills']:
-                if bill:
-                    congress = bill.get('congress', 0)
-                    if congress not in bills_by_congress:
-                        bills_by_congress[congress] = []
-                    bills_by_congress[congress].append({
-                        'billNo': bill.get('bill_no', ''),
-                        'date': bill.get('date', ''),
-                        'name': bill.get('name', ''),
-                        'nameCode': bill.get('name_code', ''),
-                        'sequenceNo': bill.get('sequence_no', 0)
-                    })
+            bills_data = member.get('principal_authored_bills', [])
+            # Handle if principal_authored_bills is a list
+            if isinstance(bills_data, list):
+                for bill in bills_data:
+                    if bill and isinstance(bill, dict):
+                        congress = bill.get('congress', 0)
+                        if congress not in bills_by_congress:
+                            bills_by_congress[congress] = []
+                        bills_by_congress[congress].append({
+                            'billNo': bill.get('bill_no', ''),
+                            'date': bill.get('date', ''),
+                            'name': bill.get('name', ''),
+                            'nameCode': bill.get('name_code', ''),
+                            'sequenceNo': bill.get('sequence_no', 0)
+                        })
 
             # Convert to list format
             for congress, congress_bills in sorted(bills_by_congress.items()):
@@ -241,17 +276,20 @@ class HouseMembersScraper:
             coauthored = []
             # Group bills by congress
             bills_by_congress = {}
-            for bill in member['coauthored_bills']:
-                if bill:
-                    congress = bill.get('congress', 0)
-                    if congress not in bills_by_congress:
-                        bills_by_congress[congress] = []
-                    bills_by_congress[congress].append({
-                        'billNo': bill.get('bill_no', ''),
-                        'date': bill.get('date', ''),
-                        'journalNo': bill.get('journal_no', ''),
-                        'sessionNo': bill.get('session_no', '')
-                    })
+            bills_data = member.get('coauthored_bills', [])
+            # Handle if coauthored_bills is a list
+            if isinstance(bills_data, list):
+                for bill in bills_data:
+                    if bill and isinstance(bill, dict):
+                        congress = bill.get('congress', 0)
+                        if congress not in bills_by_congress:
+                            bills_by_congress[congress] = []
+                        bills_by_congress[congress].append({
+                            'billNo': bill.get('bill_no', ''),
+                            'date': bill.get('date', ''),
+                            'journalNo': bill.get('journal_no', ''),
+                            'sessionNo': bill.get('session_no', '')
+                        })
 
             # Convert to list format
             for congress, congress_bills in sorted(bills_by_congress.items()):
